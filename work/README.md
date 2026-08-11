@@ -15,8 +15,10 @@ work/
     ├── extract.py      # 未翻訳エントリ抽出
     ├── apply.py        # マップ適用+フォーマット保全
     ├── verify.py       # 適用後検証
-    ├── fish_map.json   # 釣り魚名46種 KO→JA (2026-08-11 追加セッション)
-    └── apply_fish.py   # 魚名マップの適用(基本+景品98エントリ、フォーマット保全込み)
+    ├── fish_map.json      # 釣り魚名46種 KO→JA (2026-08-11 追加セッション)
+    ├── apply_fish.py      # 魚名マップの適用(基本+景品98エントリ、フォーマット保全込み)
+    ├── fishdesc_map.json  # 釣り魚詳細説明文46種 (koritemdescription 用、改行はリテラル\n)
+    └── apply_fishdesc.py  # 説明文マップの適用(98エントリ)
 ```
 
 ## 注意

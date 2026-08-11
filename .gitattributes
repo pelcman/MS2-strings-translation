@@ -4,3 +4,6 @@
 *.tsv text eol=lf
 *.md text eol=lf
 *.py text eol=lf
+
+# 適用時バックアップは git 管理しない(git 履歴がロールバック手段のため)
+# → .gitignore 参照
