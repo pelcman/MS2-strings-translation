@@ -3179,7 +3179,7 @@
     "npc": "NotUse"
   },
   "02000301_BF__TRAP_02__0--": {
-    "name": "STRINGTRIGGER_02000301_BF__TRAP_02__0_NAME",
+    "name": "システム：侵入者警報",
     "npc": "NotUse"
   },
   "02000301_BF__TRAP_02__1--": {
@@ -3192,7 +3192,7 @@
     "npc": "NotUse"
   },
   "02000301_BF__TRAP_04__0--": {
-    "name": "STRINGTRIGGER_02000301_BF__TRAP_04__0_NAME",
+    "name": "システム：侵入者警報",
     "npc": "NotUse"
   },
   "02000301_BF__TRAP_04__1--": {
@@ -3209,7 +3209,7 @@
     "npc": "NotUse"
   },
   "02000301_BF__TRAP_07__0--": {
-    "name": "STRINGTRIGGER_02000301_BF__TRAP_07__0_NAME",
+    "name": "システム：侵入者警報",
     "npc": "NotUse"
   },
   "02000301_BF__TRAP_07__1--": {
@@ -3299,7 +3299,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02000304_BF__MAIN__0--": {
-    "name": "STRINGTRIGGER_02000304_BF__MAIN__0_NAME",
+    "name": "ドクターピピを退治して\\nタイムフロアを停止させなければなりません！",
     "npc": "NotUse"
   },
   "02000304_BF__MAIN__1--": {
@@ -3308,11 +3308,11 @@
     "type": "대화를설정한다"
   },
   "02000304_BF__MAIN__2--": {
-    "name": "STRINGTRIGGER_02000304_BF__MAIN__2_NAME",
+    "name": "もう少しだったのに…惜しい…うっ！",
     "npc": "NotUse"
   },
   "02000304_BF__MAIN__3--": {
-    "name": "STRINGTRIGGER_02000304_BF__MAIN__3_NAME",
+    "name": "タイムフロアの電源を遮断してください！",
     "npc": "NotUse"
   },
   "02000304_BF__MAIN__4--": {
@@ -3320,7 +3320,7 @@
     "npc": "NotUse"
   },
   "02000304_BF__MAIN__5--": {
-    "name": "STRINGTRIGGER_02000304_BF__MAIN__5_NAME",
+    "name": "ポータルに乗って行きたい場所へ移動してください！",
     "npc": "NotUse"
   },
   "02000304_BF__MOVE__0--": {
@@ -3889,7 +3889,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02000325_BF__MAIN__8--": {
-    "name": "STRINGTRIGGER_02000325_BF__MAIN__8_NAME",
+    "name": "君が渡ってきたあの橋は崩れ落ちる。\\nもう生きるか死ぬかのどちらかだぞ！",
     "npc": "NotUse"
   },
   "02000325_BF__MAIN__9--": {
@@ -3898,7 +3898,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02000325_BF__MAIN__10--": {
-    "name": "STRINGTRIGGER_02000325_BF__MAIN__10_NAME",
+    "name": "おめでとう！君の勇猛な気概が、この世を正す力とならんことを！",
     "npc": "NotUse"
   },
   "02000328_BF__EVENT1__0--": {
@@ -3922,7 +3922,7 @@
     "npc": "NotUse"
   },
   "02000328_BF__MAIN__1--": {
-    "name": "STRINGTRIGGER_02000328_BF__MAIN__1_NAME",
+    "name": "森を汚染する主犯ノルカシアスを退治してください。",
     "npc": "NotUse"
   },
   "02000328_BF__MAIN__2--": {
@@ -3944,43 +3944,43 @@
     "type": "대화를설정한다"
   },
   "02000329_BF__03_OBJECT__0--": {
-    "name": "STRINGTRIGGER_02000329_BF__03_OBJECT__0_NAME",
+    "name": "スキルウィンドウを開いた後、アクションタブにある\\n [飛行風船]スキルを使用して渡ってください。",
     "npc": "NotUse"
   },
   "02000329_BF__04_OBJECT__0--": {
-    "name": "STRINGTRIGGER_02000329_BF__04_OBJECT__0_NAME",
+    "name": "スキルウィンドウを開いた後、アクションタブにある\\n [飛行風船]スキルを使用して渡ってください。",
     "npc": "NotUse"
   },
   "02000329_BF__BATTLEZONE_01__0--": {
-    "name": "STRINGTRIGGER_02000329_BF__BATTLEZONE_01__0_NAME",
+    "name": "鶏小屋を壊して雌鶏を脱出させてください。",
     "npc": "NotUse"
   },
   "02000329_BF__BATTLEZONE_01__1--": {
-    "name": "STRINGTRIGGER_02000329_BF__BATTLEZONE_01__1_NAME",
+    "name": "次の地域へ移動できます。",
     "npc": "NotUse"
   },
   "02000329_BF__BATTLEZONE_02__0--": {
-    "name": "STRINGTRIGGER_02000329_BF__BATTLEZONE_02__0_NAME",
+    "name": "次の地域へ移動できます。",
     "npc": "NotUse"
   },
   "02000329_BF__BATTLEZONE_03__0--": {
-    "name": "STRINGTRIGGER_02000329_BF__BATTLEZONE_03__0_NAME",
+    "name": "次の地域へ移動できます。",
     "npc": "NotUse"
   },
   "02000329_BF__BATTLEZONE_04__0--": {
-    "name": "STRINGTRIGGER_02000329_BF__BATTLEZONE_04__0_NAME",
+    "name": "次の地域へ移動できます。",
     "npc": "NotUse"
   },
   "02000329_BF__BOSSBATTLE_01__0--": {
-    "name": "STRINGTRIGGER_02000329_BF__BOSSBATTLE_01__0_NAME",
+    "name": "[コックモンキー]と[スローア]を退治してください。",
     "npc": "NotUse"
   },
   "02000329_BF__BOSSBATTLE_01__1--": {
-    "name": "STRINGTRIGGER_02000329_BF__BOSSBATTLE_01__1_NAME",
+    "name": "雌鶏救出大作戦を成功のうちに終えました。",
     "npc": "NotUse"
   },
   "02000329_BF__BOSSBATTLE_01__2--": {
-    "name": "STRINGTRIGGER_02000329_BF__BOSSBATTLE_01__2_NAME",
+    "name": "鶏小屋を開けて雌鶏を脱出させてください。",
     "npc": "NotUse"
   },
   "02000329_BF__BOSSGATE__0--": {
@@ -4218,7 +4218,7 @@
     "type": "대화를설정한다"
   },
   "02000331_BF__Seeker01__53--": {
-    "name": "STRINGTRIGGER_02000331_BF__SEEKER01__53_NAME",
+    "name": "怖くてひどい目にあった…。\\nここに来るんじゃなかった…。",
     "npc": "NotUse"
   },
   "02000331_BF__Seeker01__54--": {
@@ -4522,19 +4522,19 @@
     "type": "이벤트UI를설정한다"
   },
   "02000331_BF__Seeker01__810--": {
-    "name": "STRINGTRIGGER_02000331_BF__SEEKER01__810_NAME",
+    "name": "近くにあるレバーを引けば、また道を作れるはずです！",
     "npc": "NotUse"
   },
   "02000331_BF__Seeker01__811--": {
-    "name": "STRINGTRIGGER_02000331_BF__SEEKER01__811_NAME",
+    "name": "まだ遅くありません！\\nモンスターを懲らしめてください！",
     "npc": "NotUse"
   },
   "02000331_BF__Seeker01__812--": {
-    "name": "STRINGTRIGGER_02000331_BF__SEEKER01__812_NAME",
+    "name": "近くにあるレバーを引けば、また道を作れるはずです！",
     "npc": "NotUse"
   },
   "02000331_BF__Seeker01__813--": {
-    "name": "STRINGTRIGGER_02000331_BF__SEEKER01__813_NAME",
+    "name": "また友達のところへ帰れます！",
     "npc": "NotUse"
   },
   "02000331_BF__Seeker01__900--": {
@@ -4593,7 +4593,7 @@
     "type": "연출UI를설정한다"
   },
   "02000334_BF__MAIN__0--": {
-    "name": "STRINGTRIGGER_02000334_BF__MAIN__0_NAME",
+    "name": "監視塔城壁：豚の群れの襲撃",
     "npc": "NotUse"
   },
   "02000334_BF__MAIN__1--": {
@@ -4666,7 +4666,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02000334_BF__MAIN__15--": {
-    "name": "STRINGTRIGGER_02000334_BF__MAIN__15_NAME",
+    "name": "野生の豚の群れから城壁を無事に守り抜きました。",
     "npc": "NotUse"
   },
   "02000334_BF__MAIN__16--": {
@@ -4689,11 +4689,11 @@
     "type": "대화를설정한다"
   },
   "02000334_BF__GUIDE__0--": {
-    "name": "STRINGTRIGGER_02000334_BF__GUIDE__0_NAME",
+    "name": "城壁の上にある爆弾を豚の群れに向かって投げてください！",
     "npc": "NotUse"
   },
   "02000334_BF__GUIDE__1--": {
-    "name": "STRINGTRIGGER_02000334_BF__GUIDE__1_NAME",
+    "name": "大砲を利用してピグ王タボを退治してください！",
     "npc": "NotUse"
   },
   "02000334_BF__WAVE__0--": {
@@ -4784,15 +4784,15 @@
     "type": "대화를설정한다"
   },
   "02000338_BF__MAIN1__0--": {
-    "name": "STRINGTRIGGER_02000338_BF__MAIN1__0_NAME",
+    "name": "大地の気が不安定です。",
     "npc": "File missing"
   },
   "02000338_BF__MAIN1__1--": {
-    "name": "STRINGTRIGGER_02000338_BF__MAIN1__1_NAME",
+    "name": "ハイドロボルケナイト",
     "npc": "File missing"
   },
   "02000338_BF__MAIN1__2--": {
-    "name": "STRINGTRIGGER_02000338_BF__MAIN1__2_NAME",
+    "name": "ダンジョン目標：寒風洞窟から脱出せよ！",
     "npc": "File missing"
   },
   "02000338_BF__MAIN2__0--": {
@@ -4804,19 +4804,19 @@
     "npc": "File missing"
   },
   "02000338_BF__MAIN3__0--": {
-    "name": "STRINGTRIGGER_02000338_BF__MAIN3__0_NAME",
+    "name": "高く多き者が道を開き",
     "npc": "File missing"
   },
   "02000338_BF__MAIN3__1--": {
-    "name": "STRINGTRIGGER_02000338_BF__MAIN3__1_NAME",
+    "name": "低く少なき者が道を作る。",
     "npc": "File missing"
   },
   "02000338_BF__MAIN3__2--": {
-    "name": "STRINGTRIGGER_02000338_BF__MAIN3__2_NAME",
+    "name": "水が欲しければ供物を捧げるんだな！",
     "npc": "File missing"
   },
   "02000344_BF__MAIN1__0--": {
-    "name": "STRINGTRIGGER_02000344_BF__MAIN1__0_NAME",
+    "name": "びっくりボックス：第4撮影地",
     "npc": "File missing"
   },
   "02000344_BF__MAIN1__1--": {
@@ -4828,7 +4828,7 @@
     "npc": "File missing"
   },
   "02000344_BF__MAIN1__3--": {
-    "name": "STRINGTRIGGER_02000344_BF__MAIN1__3_NAME",
+    "name": "恐ろしのクロロを退治してください！",
     "npc": "File missing"
   },
   "02000344_BF__DRESS__0--": {
@@ -5172,7 +5172,7 @@
     "npc": "File missing"
   },
   "02000348_BF__MAIN1__0--": {
-    "name": "STRINGTRIGGER_02000348_BF__MAIN1__0_NAME",
+    "name": "熱々鉱山：第3撮影地",
     "npc": "File missing"
   },
   "02000348_BF__MAIN1__1--": {
@@ -5180,11 +5180,11 @@
     "npc": "File missing"
   },
   "02000348_BF__MAIN1__2--": {
-    "name": "STRINGTRIGGER_02000348_BF__MAIN1__2_NAME",
+    "name": "乱暴な全魔軍兵を退治してください！",
     "npc": "File missing"
   },
   "02000349_BF__FOG__0--": {
-    "name": "STRINGTRIGGER_02000349_BF__FOG__0_NAME",
+    "name": "漆黒の中に隠された闇の種を全て除去してください。",
     "npc": "NotUse"
   },
   "02000349_BF__MAIN__0--": {
@@ -5196,7 +5196,7 @@
     "npc": "NotUse"
   },
   "02000349_BF__MAIN__2--": {
-    "name": "STRINGTRIGGER_02000349_BF__MAIN__2_NAME",
+    "name": "黒い根のツルの中に閉じ込められた妖精を助けてください。",
     "npc": "NotUse"
   },
   "02000349_BF__MAIN__3--": {
@@ -5358,11 +5358,11 @@
     "type": "이벤트UI를설정한다"
   },
   "02000351_BF__MAIN__1--": {
-    "name": "STRINGTRIGGER_02000351_BF__MAIN__1_NAME",
+    "name": "トロニックスバンカー：マーク52の秘密",
     "npc": "NotUse"
   },
   "02000353_BF__MAIN__1--": {
-    "name": "STRINGTRIGGER_02000353_BF__MAIN__1_NAME",
+    "name": "バラスカ氷の洞窟：忘れ去られたバヤール",
     "npc": "NotUse"
   },
   "02000353_BF__MAIN__2--": {
@@ -5381,7 +5381,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02000354_BF__MAIN__1--": {
-    "name": "STRINGTRIGGER_02000354_BF__MAIN__1_NAME",
+    "name": "青い影洞窟：シュシュとブブス",
     "npc": "NotUse"
   },
   "02000355_BF__MAIN__0--": {
@@ -5430,7 +5430,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02000374_BF__MAIN__4--": {
-    "name": "STRINGTRIGGER_02000374_BF__MAIN__4_NAME",
+    "name": "まさか、これで終わりだと思ったわけじゃないだろうな？",
     "npc": "NotUse"
   },
   "02000374_BF__MAIN__5--": {
@@ -19975,19 +19975,19 @@
     "npc": "File missing"
   },
   "99999910__BATTLEZONE_01__1--": {
-    "name": "STRINGTRIGGER_99999910__BATTLEZONE_01__1_NAME",
+    "name": "次の地域へ移動できます。",
     "npc": "File missing"
   },
   "99999910__BATTLEZONE_02__0--": {
-    "name": "STRINGTRIGGER_99999910__BATTLEZONE_02__0_NAME",
+    "name": "次の地域へ移動できます。",
     "npc": "File missing"
   },
   "99999910__BATTLEZONE_03__0--": {
-    "name": "STRINGTRIGGER_99999910__BATTLEZONE_03__0_NAME",
+    "name": "次の地域へ移動できます。",
     "npc": "File missing"
   },
   "99999910__BATTLEZONE_04__0--": {
-    "name": "STRINGTRIGGER_99999910__BATTLEZONE_04__0_NAME",
+    "name": "次の地域へ移動できます。",
     "npc": "File missing"
   },
   "99999910__BOSSBATTLE_01__0--": {
@@ -22790,7 +22790,7 @@
     "type": "대화를설정한다"
   },
   "02000401_BF__MADRICANSIEGE_Gauge--": {
-    "name": "STRINGTRIGGER_02000401_BF__MADRICANSIEGE_GAUGE_NAME",
+    "name": "マドラカン攻撃",
     "npc": "File missing"
   },
   "02000401_BF__MADRICANSIEGE__0--": {
@@ -35748,112 +35748,112 @@
     "type": "SideNpcTalk"
   },
   "02000535_BF__GAMELOGIC_9002__0-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__GAMELOGIC_9002__0_NAME:[F]BlackOnyx",
+    "name": "セキュリティ解除コードを準備します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__GAMELOGIC_9002__1-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__GAMELOGIC_9002__1_NAME:[F]BlackOnyx",
+    "name": "セキュリティ解除コードを入力してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__GAMELOGIC_9002__2-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__GAMELOGIC_9002__2_NAME:[F]BlackOnyx",
+    "name": "セキュリティ解除成功",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__GAMELOGIC_9002__3-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__GAMELOGIC_9002__3_NAME:[F]BlackOnyx",
+    "name": "セキュリティ解除失敗",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__GAMELOGIC_9002__4-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__GAMELOGIC_9002__4_NAME:[F]BlackOnyx",
+    "name": "セキュリティ解除コード準備 (2/3)",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__GAMELOGIC_9002__5-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__GAMELOGIC_9002__5_NAME:[F]BlackOnyx",
+    "name": "セキュリティ解除コードを入力してください。(2/3)",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__GAMELOGIC_9002__6-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__GAMELOGIC_9002__6_NAME:[F]BlackOnyx",
+    "name": "セキュリティ解除成功",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__GAMELOGIC_9002__7-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__GAMELOGIC_9002__7_NAME:[F]BlackOnyx",
+    "name": "セキュリティ解除失敗",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__GAMELOGIC_9002__8-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__GAMELOGIC_9002__8_NAME:[F]BlackOnyx",
+    "name": "セキュリティ解除コード準備 (3/3)",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__GAMELOGIC_9002__9-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__GAMELOGIC_9002__9_NAME:[F]BlackOnyx",
+    "name": "セキュリティ解除コードを入力してください。(3/3)",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__GAMELOGIC_9002__10-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__GAMELOGIC_9002__10_NAME:[F]BlackOnyx",
+    "name": "セキュリティ解除成功",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__GAMELOGIC_9002__11-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__GAMELOGIC_9002__11_NAME:[F]BlackOnyx",
+    "name": "セキュリティ解除失敗",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__MAIN__36-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__MAIN__36_NAME:[F]BlackOnyx",
+    "name": "$map:02000536$の入口を見つけるまで前へ進みましょう。\\n道に沿って進んでください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__MAIN__37-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__MAIN__37_NAME:[F]BlackOnyx",
+    "name": "[黒星会の組織員と対決]\\n$map:02000555$であなたの能力を証明してください。\\n黒星会との対決に勝利して報酬を獲得しましょう。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__MAIN__38-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__MAIN__38_NAME:[F]BlackOnyx",
+    "name": "$map:02000536$の入口を発見しました。\\n扉の横のセキュリティ装置を作動させてロックを解除しましょう。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__MAIN__39-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__MAIN__39_NAME:[F]BlackOnyx",
+    "name": "[セキュリティシステムと対決]\\nこれから表示される数字を素早く入力してみましょう。\\n3回失敗するとセキュリティシステムがあなたを懲らしめるでしょう。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__MAIN__40-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__MAIN__40_NAME:[F]BlackOnyx",
+    "name": "[成功]\\n正確に入力しましたね。\\n$map:02000536$の入口が開きます。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__MAIN__41-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__MAIN__41_NAME:[F]BlackOnyx",
+    "name": "[失敗]\\nセキュリティシステムはあなたが気に入らないようです。\\nロック装置が作動します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__MAIN__42-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__MAIN__42_NAME:[F]BlackOnyx",
+    "name": "ええい！失敗するとは…。",
     "npc": "NotUse",
     "type": "AddBalloonTalk"
   },
   "02000535_BF__MAIN__43-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__MAIN__43_NAME:[F]BlackOnyx",
+    "name": "[忍耐力と対決]\\n仕方ありませんね。力ずくで開けてください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000535_BF__MAIN__44-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__MAIN__44_NAME:[F]BlackOnyx",
+    "name": "なんだ、扉が開いたのか？それなら…私の出番だな！",
     "npc": "하렌",
     "type": "SideNpcTalk"
   },
   "02000535_BF__MAIN__45-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000535_BF__MAIN__45_NAME:[F]BlackOnyx",
+    "name": "入口を見つけた。",
     "npc": "NotUse",
     "type": "AddBalloonTalk"
   },
@@ -35863,17 +35863,17 @@
     "type": "ShowCaption"
   },
   "02000536_BF__MAIN__1-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000536_BF__MAIN__1_NAME:[F]BlackOnyx",
+    "name": "$map:02000536$",
     "npc": "systemMSG",
     "type": "ShowCaption"
   },
   "02000536_BF__MAIN__2-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000536_BF__MAIN__2_NAME:[F]BlackOnyx",
+    "name": "フフ。ここまで入ってくるなんて、大したものだね？",
     "npc": "하렌",
     "type": "AddCinematicTalk"
   },
   "02000536_BF__MAIN__3-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000536_BF__MAIN__3_NAME:[F]BlackOnyx",
+    "name": "挑戦するのは君の勝手だけど、成功と失敗を決めるのは私の気分次第なのさ～\\nさあ、かかっておいで！",
     "npc": "하렌",
     "type": "AddCinematicTalk"
   },
