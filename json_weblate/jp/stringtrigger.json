@@ -587,15 +587,15 @@
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__0_NAME",
+    "name": "闇の力がますます強くなっています。",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__1--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__1_NAME",
+    "name": "闇の力がますます強くなっています。",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__2--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__2_NAME",
+    "name": "闇の力がますます強くなっています。",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__3--": {
@@ -623,7 +623,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02000066_BF__MAIN__8--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__8_NAME",
+    "name": "闇の力が弱まりました。",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__9--": {
@@ -641,7 +641,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02000066_BF__MAIN__12--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__12_NAME",
+    "name": "闇の力が弱まりました。",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__13--": {
@@ -659,7 +659,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02000066_BF__MAIN__16--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__16_NAME",
+    "name": "闇の力から次元の扉を守り抜きました！",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__17--": {
@@ -692,15 +692,15 @@
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__23--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__23_NAME",
+    "name": "押し寄せるモンスターを阻止しましょう！",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__24--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__24_NAME",
+    "name": "守護失敗",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__25--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__25_NAME",
+    "name": "闇の力が弱まりました。",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__26--": {
@@ -708,15 +708,15 @@
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__27--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__27_NAME",
+    "name": "闇の森の向こうから、再びモンスターが押し寄せてきます！",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__28--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__28_NAME",
+    "name": "守護失敗",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__29--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__29_NAME",
+    "name": "闇の力が弱まりました。",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__30--": {
@@ -724,11 +724,11 @@
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__31--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__31_NAME",
+    "name": "闇の森の向こうから、再びモンスターが押し寄せてきます！",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__32--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__32_NAME",
+    "name": "守護失敗",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__33--": {
@@ -737,23 +737,23 @@
     "type": "이벤트UI를설정한다"
   },
   "02000066_BF__MAIN__34--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__34_NAME",
+    "name": "覚えてろ…。",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__35--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__35_NAME",
+    "name": "クソッ…。",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__36--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__36_NAME",
+    "name": "これで諦めると思うなよ。",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__37--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__37_NAME",
+    "name": "この程度で安心するな。",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__38--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__38_NAME",
+    "name": "$npc:11000685$…お前がいる限り、俺は消えない…。",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__39--": {
@@ -836,7 +836,7 @@
     "npc": "NotUse"
   },
   "02000066_BF__NPC05__1--": {
-    "name": "STRINGTRIGGER_02000066_BF__NPC05__1_NAME",
+    "name": "一緒に戦います！",
     "npc": "NotUse"
   },
   "02000066_BF__NPC06__0--": {
@@ -1047,11 +1047,11 @@
     "type": "대화를설정한다"
   },
   "02000087_BF__CANDLE2__0--": {
-    "name": "STRINGTRIGGER_02000087_BF__CANDLE2__0_NAME",
+    "name": "宇宙人？ふざけるな！全く…。",
     "npc": "NotUse"
   },
   "02000087_BF__CANDLE3__0--": {
-    "name": "STRINGTRIGGER_02000087_BF__CANDLE3__0_NAME",
+    "name": "$npc:11000376$のバカ！火事になったらどうする気だよ！",
     "npc": "NotUse"
   },
   "02000087_BF__CANDLE4__0--": {
@@ -1065,7 +1065,7 @@
     "type": "대화를설정한다"
   },
   "02000087_BF__CANDLE6__0--": {
-    "name": "STRINGTRIGGER_02000087_BF__CANDLE6__0_NAME",
+    "name": "宇宙人？ふざけるな！全く…。",
     "npc": "NotUse"
   },
   "02000095_BF__QUEST_MUSIC__0--": {
@@ -1702,15 +1702,15 @@
     "type": "이벤트UI를설정한다"
   },
   "02000246_BF__TRIGGER_01__0--": {
-    "name": "STRINGTRIGGER_02000246_BF__TRIGGER_01__0_NAME",
+    "name": "はしごを使って下に移動し、隠された道を探しましょう。",
     "npc": "NotUse"
   },
   "02000246_BF__TRIGGER_02__0--": {
-    "name": "STRINGTRIGGER_02000246_BF__TRIGGER_02__0_NAME",
+    "name": "はしごを使って下に移動し、隠された道を探しましょう。",
     "npc": "NotUse"
   },
   "02000246_BF__TRIGGER_03__0--": {
-    "name": "STRINGTRIGGER_02000246_BF__TRIGGER_03__0_NAME",
+    "name": "はしごを使って下に移動し、隠された道を探しましょう。",
     "npc": "NotUse"
   },
   "02000247_BF__TIMER__0--": {
@@ -1777,7 +1777,7 @@
     "npc": "NotUse"
   },
   "02000252_BF__DOOR_04__0--": {
-    "name": "STRINGTRIGGER_02000252_BF__DOOR_04__0_NAME",
+    "name": "ありがとうございます！",
     "npc": "NotUse"
   },
   "02000252_BF__ELITE_01__0--": {
@@ -1801,15 +1801,15 @@
     "type": "대화를설정한다"
   },
   "02000252_BF__START__0--": {
-    "name": "STRINGTRIGGER_02000252_BF__START__0_NAME",
+    "name": "まもなく始まります。",
     "npc": "NotUse"
   },
   "02000252_BF__START__1--": {
-    "name": "STRINGTRIGGER_02000252_BF__START__1_NAME",
+    "name": "まもなく始まります。",
     "npc": "NotUse"
   },
   "02000252_BF__START__2--": {
-    "name": "STRINGTRIGGER_02000252_BF__START__2_NAME",
+    "name": "まもなく始まります。",
     "npc": "NotUse"
   },
   "02000252_BF__START__3--": {
@@ -1846,19 +1846,19 @@
     "npc": "NotUse"
   },
   "02000253_BF__MOVE__0--": {
-    "name": "STRINGTRIGGER_02000253_BF__MOVE__0_NAME",
+    "name": "柱が出てきています。",
     "npc": "NotUse"
   },
   "02000253_BF__MOVE__1--": {
-    "name": "STRINGTRIGGER_02000253_BF__MOVE__1_NAME",
+    "name": "柱が出てきています。",
     "npc": "NotUse"
   },
   "02000253_BF__MOVE__2--": {
-    "name": "STRINGTRIGGER_02000253_BF__MOVE__2_NAME",
+    "name": "柱が出てきています。",
     "npc": "NotUse"
   },
   "02000253_BF__MOVE__3--": {
-    "name": "STRINGTRIGGER_02000253_BF__MOVE__3_NAME",
+    "name": "柱が出てきています。",
     "npc": "NotUse"
   },
   "02000254_BF__ELITE__0--": {
@@ -1867,7 +1867,7 @@
     "type": "대화를설정한다"
   },
   "02000254_BF__ELITE__1--": {
-    "name": "STRINGTRIGGER_02000254_BF__ELITE__1_NAME",
+    "name": "ミッション成功！",
     "npc": "NotUse"
   },
   "02000254_BF__KARL__0--": {
@@ -1956,15 +1956,15 @@
     "type": "대화를설정한다"
   },
   "02000281_BF__MAIN__0--": {
-    "name": "STRINGTRIGGER_02000281_BF__MAIN__0_NAME",
+    "name": "まもなく、洞窟の中に入れます。",
     "npc": "NotUse"
   },
   "02000281_BF__MAIN__1--": {
-    "name": "STRINGTRIGGER_02000281_BF__MAIN__1_NAME",
+    "name": "まもなく、洞窟の中に入れます。",
     "npc": "NotUse"
   },
   "02000281_BF__MAIN__2--": {
-    "name": "STRINGTRIGGER_02000281_BF__MAIN__2_NAME",
+    "name": "まもなく、洞窟の中に入れます。",
     "npc": "NotUse"
   },
   "02000281_BF__MAIN__3--": {
@@ -2000,7 +2000,7 @@
     "npc": "File missing"
   },
   "02000281_BF__TIMER__1--": {
-    "name": "STRINGTRIGGER_02000281_BF__TIMER__1_NAME",
+    "name": "ミッション失敗",
     "npc": "File missing"
   },
   "02000282_BF__MAIN__0--": {
@@ -2056,7 +2056,7 @@
     "npc": "File missing"
   },
   "02000282_BF__TIMER__1--": {
-    "name": "STRINGTRIGGER_02000282_BF__TIMER__1_NAME",
+    "name": "ミッション失敗",
     "npc": "File missing"
   },
   "02000283_BF__MAIN__0--": {
@@ -2072,7 +2072,7 @@
     "npc": "File missing"
   },
   "02000283_BF__TIMER__1--": {
-    "name": "STRINGTRIGGER_02000283_BF__TIMER__1_NAME",
+    "name": "ミッション失敗",
     "npc": "File missing"
   },
   "02000284_BF__MAIN__0--": {
@@ -2080,7 +2080,7 @@
     "npc": "NotUse"
   },
   "02000284_BF__MAIN__1--": {
-    "name": "STRINGTRIGGER_02000284_BF__MAIN__1_NAME",
+    "name": "ミッション成功！",
     "npc": "NotUse"
   },
   "02000284_BF__MAIN__2--": {
@@ -2092,15 +2092,15 @@
     "npc": "File missing"
   },
   "02000284_BF__TIMER__1--": {
-    "name": "STRINGTRIGGER_02000284_BF__TIMER__1_NAME",
+    "name": "ミッション失敗",
     "npc": "File missing"
   },
   "02000290_BF__MAIN__0--": {
-    "name": "STRINGTRIGGER_02000290_BF__MAIN__0_NAME",
+    "name": "まもなく、桜の森の中に入れます。",
     "npc": "NotUse"
   },
   "02000290_BF__MAIN__1--": {
-    "name": "STRINGTRIGGER_02000290_BF__MAIN__1_NAME",
+    "name": "まもなく、桜の森の中に入れます。",
     "npc": "NotUse"
   },
   "02000290_BF__MAIN__2--": {
@@ -2117,7 +2117,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02000290_BF__MAIN_2__0--": {
-    "name": "STRINGTRIGGER_02000290_BF__MAIN_2__0_NAME",
+    "name": "はしごで上りましょう。",
     "npc": "NotUse"
   },
   "02000290_BF__MAIN_2__1--": {
@@ -2244,7 +2244,7 @@
     "npc": "NotUse"
   },
   "02000292_BF__MAIN__3--": {
-    "name": "STRINGTRIGGER_02000292_BF__MAIN__3_NAME",
+    "name": "番人の鉱員に気付かれないよう、上の階に移動しましょう。",
     "npc": "NotUse"
   },
   "02000292_BF__MAIN__4--": {
@@ -2252,7 +2252,7 @@
     "npc": "NotUse"
   },
   "02000292_BF__MAIN__5--": {
-    "name": "STRINGTRIGGER_02000292_BF__MAIN__5_NAME",
+    "name": "上の階に上がれるはしごで移動しましょう。",
     "npc": "NotUse"
   },
   "02000292_BF__NPC1__0--": {
@@ -2346,7 +2346,7 @@
     "type": "대화를설정한다"
   },
   "02000293_BF__MAIN__0--": {
-    "name": "STRINGTRIGGER_02000293_BF__MAIN__0_NAME",
+    "name": "温室で魂の監獄を開けられる鍵を探しましょう。",
     "npc": "NotUse"
   },
   "02000293_BF__MAIN__1--": {
@@ -2355,7 +2355,7 @@
     "type": "대화를설정한다"
   },
   "02000293_BF__MAIN__2--": {
-    "name": "STRINGTRIGGER_02000293_BF__MAIN__2_NAME",
+    "name": "鍵を拾ってドアを開け、移動しましょう。",
     "npc": "NotUse"
   },
   "02000293_BF__MAIN__3--": {
@@ -2364,39 +2364,39 @@
     "type": "대화를설정한다"
   },
   "02000293_BF__MAIN__4--": {
-    "name": "STRINGTRIGGER_02000293_BF__MAIN__4_NAME",
+    "name": "鍵を拾ってドアを開け、移動しましょう。",
     "npc": "NotUse"
   },
   "02000293_BF__MAIN__5--": {
-    "name": "STRINGTRIGGER_02000293_BF__MAIN__5_NAME",
+    "name": "ありがとう！これは魂の監獄の鍵だ、どうか他の住民たちも助けてくれ！",
     "npc": "NotUse"
   },
   "02000293_BF__MAIN__6--": {
-    "name": "STRINGTRIGGER_02000293_BF__MAIN__6_NAME",
+    "name": "鍵を拾ってドアを開け、移動しましょう。",
     "npc": "NotUse"
   },
   "02000293_BF__MAIN__7--": {
-    "name": "STRINGTRIGGER_02000293_BF__MAIN__7_NAME",
+    "name": "ありがとう！これは魂の監獄の鍵だ、どうか他の住民たちも助けてくれ！",
     "npc": "NotUse"
   },
   "02000293_BF__MAIN__8--": {
-    "name": "STRINGTRIGGER_02000293_BF__MAIN__8_NAME",
+    "name": "鍵を拾ってドアを開け、移動しましょう。",
     "npc": "NotUse"
   },
   "02000293_BF__MAIN__9--": {
-    "name": "STRINGTRIGGER_02000293_BF__MAIN__9_NAME",
+    "name": "ありがとう！これは魂の監獄の鍵だ、どうか他の住民たちも助けてくれ！",
     "npc": "NotUse"
   },
   "02000293_BF__MAIN__10--": {
-    "name": "STRINGTRIGGER_02000293_BF__MAIN__10_NAME",
+    "name": "鍵を拾ってドアを開け、移動しましょう。",
     "npc": "NotUse"
   },
   "02000293_BF__MAIN__11--": {
-    "name": "STRINGTRIGGER_02000293_BF__MAIN__11_NAME",
+    "name": "ありがとう！これは魂の監獄の鍵だ、どうか他の住民たちも助けてくれ！",
     "npc": "NotUse"
   },
   "02000293_BF__MAIN__12--": {
-    "name": "STRINGTRIGGER_02000293_BF__MAIN__12_NAME",
+    "name": "鍵を拾ってドアを開け、移動しましょう。",
     "npc": "NotUse"
   },
   "02000293_BF__MAIN__13--": {
@@ -2405,7 +2405,7 @@
     "type": "대화를설정한다"
   },
   "02000293_BF__MAIN__14--": {
-    "name": "STRINGTRIGGER_02000293_BF__MAIN__14_NAME",
+    "name": "鍵を拾ってドアを開け、移動しましょう。",
     "npc": "NotUse"
   },
   "02000293_BF__MAIN__15--": {
@@ -2414,7 +2414,7 @@
     "type": "대화를설정한다"
   },
   "02000293_BF__MAIN__16--": {
-    "name": "STRINGTRIGGER_02000293_BF__MAIN__16_NAME",
+    "name": "鍵を拾ってドアを開け、移動しましょう。",
     "npc": "NotUse"
   },
   "02000293_BF__MAIN__17--": {
@@ -2423,7 +2423,7 @@
     "type": "대화를설정한다"
   },
   "02000293_BF__MAIN__18--": {
-    "name": "STRINGTRIGGER_02000293_BF__MAIN__18_NAME",
+    "name": "鍵を拾ってドアを開け、移動しましょう。",
     "npc": "NotUse"
   },
   "02000296_BF__MAIN2__0--": {
@@ -2439,7 +2439,7 @@
     "npc": "File missing"
   },
   "02000296_BF__MAIN2__3--": {
-    "name": "STRINGTRIGGER_02000296_BF__MAIN2__3_NAME",
+    "name": "はしごで上りましょう。",
     "npc": "File missing"
   },
   "02000296_BF__NPC1__0--": {
@@ -2546,7 +2546,7 @@
     "type": "대화를설정한다"
   },
   "02000297_BF__MAIN2__10--": {
-    "name": "STRINGTRIGGER_02000297_BF__MAIN2__10_NAME",
+    "name": "ミッション成功！",
     "npc": "NotUse"
   },
   "02000297_BF__MAIN2__11--": {
@@ -2974,7 +2974,7 @@
     "npc": "NotUse"
   },
   "02000298_BF__NUMBER__2--": {
-    "name": "STRINGTRIGGER_02000298_BF__NUMBER__2_NAME",
+    "name": "ロックモードを解除します。",
     "npc": "NotUse"
   },
   "02000298_BF__NUMBER__3--": {
@@ -2994,7 +2994,7 @@
     "npc": "NotUse"
   },
   "02000299_BF__MAIN__2--": {
-    "name": "STRINGTRIGGER_02000299_BF__MAIN__2_NAME",
+    "name": "システム：データ分析中…",
     "npc": "NotUse"
   },
   "02000299_BF__MAIN__3--": {
@@ -3003,7 +3003,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02000299_BF__MAIN__4--": {
-    "name": "STRINGTRIGGER_02000299_BF__MAIN__4_NAME",
+    "name": "システム：データ分析中…",
     "npc": "NotUse"
   },
   "02000299_BF__MAIN__5--": {
@@ -3012,7 +3012,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02000299_BF__MAIN__6--": {
-    "name": "STRINGTRIGGER_02000299_BF__MAIN__6_NAME",
+    "name": "システム：データ分析中…",
     "npc": "NotUse"
   },
   "02000299_BF__MAIN__7--": {
@@ -3021,7 +3021,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02000299_BF__MAIN__8--": {
-    "name": "STRINGTRIGGER_02000299_BF__MAIN__8_NAME",
+    "name": "システム：データ分析中…",
     "npc": "NotUse"
   },
   "02000299_BF__MAIN__9--": {
@@ -3030,7 +3030,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02000299_BF__MAIN__10--": {
-    "name": "STRINGTRIGGER_02000299_BF__MAIN__10_NAME",
+    "name": "システム：データ分析中…",
     "npc": "NotUse"
   },
   "02000299_BF__MAIN__11--": {
@@ -3042,7 +3042,7 @@
     "npc": "NotUse"
   },
   "02000299_BF__MAIN__13--": {
-    "name": "STRINGTRIGGER_02000299_BF__MAIN__13_NAME",
+    "name": "システム：防御モード終了",
     "npc": "NotUse"
   },
   "02000299_BF__MAIN__14--": {
@@ -3079,7 +3079,7 @@
     "npc": "NotUse"
   },
   "02000299_BF__MENUAL__5--": {
-    "name": "STRINGTRIGGER_02000299_BF__MENUAL__5_NAME",
+    "name": "システム：プロトタイプTMX980マニュアル終了",
     "npc": "NotUse"
   },
   "02000300_BF__MAIN__0--": {
@@ -3316,7 +3316,7 @@
     "npc": "NotUse"
   },
   "02000304_BF__MAIN__4--": {
-    "name": "STRINGTRIGGER_02000304_BF__MAIN__4_NAME",
+    "name": "ミッション成功！",
     "npc": "NotUse"
   },
   "02000304_BF__MAIN__5--": {
@@ -3902,23 +3902,23 @@
     "npc": "NotUse"
   },
   "02000328_BF__EVENT1__0--": {
-    "name": "STRINGTRIGGER_02000328_BF__EVENT1__0_NAME",
+    "name": "汚染されていた地が少しずつ浄化されています。",
     "npc": "NotUse"
   },
   "02000328_BF__EVENT2__0--": {
-    "name": "STRINGTRIGGER_02000328_BF__EVENT2__0_NAME",
+    "name": "汚染されていた地が少しずつ浄化されています。",
     "npc": "NotUse"
   },
   "02000328_BF__EVENT3__0--": {
-    "name": "STRINGTRIGGER_02000328_BF__EVENT3__0_NAME",
+    "name": "汚染されていた地が少しずつ浄化されています。",
     "npc": "NotUse"
   },
   "02000328_BF__EVENT4__0--": {
-    "name": "STRINGTRIGGER_02000328_BF__EVENT4__0_NAME",
+    "name": "汚染されていた地が少しずつ浄化されています。",
     "npc": "NotUse"
   },
   "02000328_BF__MAIN__0--": {
-    "name": "STRINGTRIGGER_02000328_BF__MAIN__0_NAME",
+    "name": "庭園を汚染させている敵を倒しましょう。",
     "npc": "NotUse"
   },
   "02000328_BF__MAIN__1--": {
@@ -3926,11 +3926,11 @@
     "npc": "NotUse"
   },
   "02000328_BF__MAIN__2--": {
-    "name": "STRINGTRIGGER_02000328_BF__MAIN__2_NAME",
+    "name": "ミッション成功！",
     "npc": "NotUse"
   },
   "02000328_BF__MAIN__3--": {
-    "name": "STRINGTRIGGER_02000328_BF__MAIN__3_NAME",
+    "name": "汚染されていた地が浄化され、元の姿を取り戻しました。",
     "npc": "NotUse"
   },
   "02000328_BF__MAIN__4--": {
@@ -3984,7 +3984,7 @@
     "npc": "NotUse"
   },
   "02000329_BF__BOSSGATE__0--": {
-    "name": "STRINGTRIGGER_02000329_BF__BOSSGATE__0_NAME",
+    "name": "はしごで上りましょう。",
     "npc": "NotUse"
   },
   "02000331_BF__Seeker01__0--": {
@@ -4675,7 +4675,7 @@
     "type": "대화를설정한다"
   },
   "02000334_BF__MAIN__17--": {
-    "name": "STRINGTRIGGER_02000334_BF__MAIN__17_NAME",
+    "name": "ポータルで移動しましょう。",
     "npc": "NotUse"
   },
   "02000334_BF__MAIN__18--": {
@@ -4796,7 +4796,7 @@
     "npc": "File missing"
   },
   "02000338_BF__MAIN2__0--": {
-    "name": "STRINGTRIGGER_02000338_BF__MAIN2__0_NAME",
+    "name": "ミッション成功！",
     "npc": "File missing"
   },
   "02000338_BF__MAIN2__1--": {
@@ -4820,11 +4820,11 @@
     "npc": "File missing"
   },
   "02000344_BF__MAIN1__1--": {
-    "name": "STRINGTRIGGER_02000344_BF__MAIN1__1_NAME",
+    "name": "撮影現場に現れたモンスターを退治しました！",
     "npc": "File missing"
   },
   "02000344_BF__MAIN1__2--": {
-    "name": "STRINGTRIGGER_02000344_BF__MAIN1__2_NAME",
+    "name": "まもなく始まります。",
     "npc": "File missing"
   },
   "02000344_BF__MAIN1__3--": {
@@ -5176,7 +5176,7 @@
     "npc": "File missing"
   },
   "02000348_BF__MAIN1__1--": {
-    "name": "STRINGTRIGGER_02000348_BF__MAIN1__1_NAME",
+    "name": "撮影現場に現れたモンスターを退治しました！",
     "npc": "File missing"
   },
   "02000348_BF__MAIN1__2--": {
@@ -5188,11 +5188,11 @@
     "npc": "NotUse"
   },
   "02000349_BF__MAIN__0--": {
-    "name": "STRINGTRIGGER_02000349_BF__MAIN__0_NAME",
+    "name": "ひどく絡んでいた闇の根が少しずつ解けています。",
     "npc": "NotUse"
   },
   "02000349_BF__MAIN__1--": {
-    "name": "STRINGTRIGGER_02000349_BF__MAIN__1_NAME",
+    "name": "ひどく絡んでいた闇の根が少しずつ解けています。",
     "npc": "NotUse"
   },
   "02000349_BF__MAIN__2--": {
@@ -5245,7 +5245,7 @@
     "type": "대화를설정한다"
   },
   "02000349_BF__MAIN__12--": {
-    "name": "STRINGTRIGGER_02000349_BF__MAIN__12_NAME",
+    "name": "ミッション成功!!",
     "npc": "NotUse"
   },
   "02000349_BF__MAIN__13--": {
@@ -5254,7 +5254,7 @@
     "type": "대화를설정한다"
   },
   "02000349_BF__MAIN__14--": {
-    "name": "STRINGTRIGGER_02000349_BF__MAIN__14_NAME",
+    "name": "ポータルで移動しましょう。",
     "npc": "NotUse"
   },
   "02000349_BF__NPC_01__0--": {
@@ -5749,7 +5749,7 @@
     "type": "대화를설정한다"
   },
   "02000378_BF__04_FINDWAY__0-ShrineOfGuidance-": {
-    "name": "STRINGTRIGGER_02000378_BF__04_FINDWAY__0_NAME:[F]ShrineOfGuidance",
+    "name": "急ごう！",
     "npc": "NotUse"
   },
   "02000378_BF__04_FINDWAY__1-ShrineOfGuidance-": {
@@ -5758,11 +5758,11 @@
     "type": "대화를설정한다"
   },
   "02000378_BF__04_FINDWAY__2-ShrineOfGuidance-": {
-    "name": "STRINGTRIGGER_02000378_BF__04_FINDWAY__2_NAME:[F]ShrineOfGuidance",
+    "name": "急ごう！",
     "npc": "NotUse"
   },
   "02000378_BF__04_FINDWAY__3-ShrineOfGuidance-": {
-    "name": "STRINGTRIGGER_02000378_BF__04_FINDWAY__3_NAME:[F]ShrineOfGuidance",
+    "name": "始めますね。",
     "npc": "NotUse"
   },
   "02000378_BF__04_FINDWAY__4-ShrineOfGuidance-": {
@@ -5776,7 +5776,7 @@
     "type": "대화를설정한다"
   },
   "02000378_BF__05_FINDWAY__0-ShrineOfGuidance-": {
-    "name": "STRINGTRIGGER_02000378_BF__05_FINDWAY__0_NAME:[F]ShrineOfGuidance",
+    "name": "急ごう！",
     "npc": "NotUse"
   },
   "02000378_BF__05_FINDWAY__1-ShrineOfGuidance-": {
@@ -5795,7 +5795,7 @@
     "type": "대화를설정한다"
   },
   "02000378_BF__06_FINDWAY__0-ShrineOfGuidance-": {
-    "name": "STRINGTRIGGER_02000378_BF__06_FINDWAY__0_NAME:[F]ShrineOfGuidance",
+    "name": "急ごう！",
     "npc": "NotUse"
   },
   "02000378_BF__06_FINDWAY__1-ShrineOfGuidance-": {
@@ -5814,7 +5814,7 @@
     "type": "대화를설정한다"
   },
   "02000378_BF__07_FINDWAY__0-ShrineOfGuidance-": {
-    "name": "STRINGTRIGGER_02000378_BF__07_FINDWAY__0_NAME:[F]ShrineOfGuidance",
+    "name": "急ごう！",
     "npc": "NotUse"
   },
   "02000378_BF__07_FINDWAY__1-ShrineOfGuidance-": {
@@ -5833,7 +5833,7 @@
     "type": "대화를설정한다"
   },
   "02000378_BF__08_FINDWAY__0-ShrineOfGuidance-": {
-    "name": "STRINGTRIGGER_02000378_BF__08_FINDWAY__0_NAME:[F]ShrineOfGuidance",
+    "name": "急ごう！",
     "npc": "NotUse"
   },
   "02000378_BF__08_FINDWAY__1-ShrineOfGuidance-": {
@@ -5852,7 +5852,7 @@
     "type": "대화를설정한다"
   },
   "02000378_BF__09_FINDWAY__0-ShrineOfGuidance-": {
-    "name": "STRINGTRIGGER_02000378_BF__09_FINDWAY__0_NAME:[F]ShrineOfGuidance",
+    "name": "急ごう！",
     "npc": "NotUse"
   },
   "02000378_BF__09_FINDWAY__1-ShrineOfGuidance-": {
@@ -5871,15 +5871,15 @@
     "type": "대화를설정한다"
   },
   "02000378_BF__10_FINDWAY__0-ShrineOfGuidance-": {
-    "name": "STRINGTRIGGER_02000378_BF__10_FINDWAY__0_NAME:[F]ShrineOfGuidance",
+    "name": "急ごう！",
     "npc": "NotUse"
   },
   "02000378_BF__10_FINDWAY__1-ShrineOfGuidance-": {
-    "name": "STRINGTRIGGER_02000378_BF__10_FINDWAY__1_NAME:[F]ShrineOfGuidance",
+    "name": "始めますね。",
     "npc": "NotUse"
   },
   "02000378_BF__10_FINDWAY__2-ShrineOfGuidance-": {
-    "name": "STRINGTRIGGER_02000378_BF__10_FINDWAY__2_NAME:[F]ShrineOfGuidance",
+    "name": "急ごう！",
     "npc": "NotUse"
   },
   "02000378_BF__10_FINDWAY__3-ShrineOfGuidance-": {
@@ -5898,7 +5898,7 @@
     "type": "대화를설정한다"
   },
   "02000378_BF__11_FINDWAY__0-ShrineOfGuidance-": {
-    "name": "STRINGTRIGGER_02000378_BF__11_FINDWAY__0_NAME:[F]ShrineOfGuidance",
+    "name": "急ごう！",
     "npc": "NotUse"
   },
   "02000378_BF__11_FINDWAY__1-ShrineOfGuidance-": {
@@ -7588,7 +7588,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02010054_BF__MAIN__2--": {
-    "name": "STRINGTRIGGER_02010054_BF__MAIN__2_NAME",
+    "name": "ミッション成功！",
     "npc": "NotUse"
   },
   "02010055_BF__SCENE01__0--": {
@@ -7673,39 +7673,39 @@
     "type": "이벤트UI를설정한다"
   },
   "03000014_AD__IA_113__0--": {
-    "name": "STRINGTRIGGER_03000014_AD__IA_113__0_NAME",
+    "name": "助かったワン！",
     "npc": "NotUse"
   },
   "03000014_AD__IA_114__0--": {
-    "name": "STRINGTRIGGER_03000014_AD__IA_114__0_NAME",
+    "name": "ありがとワン！",
     "npc": "NotUse"
   },
   "03000014_AD__IA_115__0--": {
-    "name": "STRINGTRIGGER_03000014_AD__IA_115__0_NAME",
+    "name": "重くて死ぬかと思ったワン！",
     "npc": "NotUse"
   },
   "03000014_AD__IA_116__0--": {
-    "name": "STRINGTRIGGER_03000014_AD__IA_116__0_NAME",
+    "name": "ありがとワン！",
     "npc": "NotUse"
   },
   "03000014_AD__IA_117__0--": {
-    "name": "STRINGTRIGGER_03000014_AD__IA_117__0_NAME",
+    "name": "助かったワン！",
     "npc": "NotUse"
   },
   "03000014_AD__IA_118__0--": {
-    "name": "STRINGTRIGGER_03000014_AD__IA_118__0_NAME",
+    "name": "この恩は必ず返すワン！",
     "npc": "NotUse"
   },
   "03000014_AD__IA_119__0--": {
-    "name": "STRINGTRIGGER_03000014_AD__IA_119__0_NAME",
+    "name": "ありがとワン！",
     "npc": "NotUse"
   },
   "03000049_BF__TRIGGER_02__0--": {
-    "name": "STRINGTRIGGER_03000049_BF__TRIGGER_02__0_NAME",
+    "name": "クイイイイッ！",
     "npc": "NotUse"
   },
   "03000049_BF__TRIGGER_03__0--": {
-    "name": "STRINGTRIGGER_03000049_BF__TRIGGER_03__0_NAME",
+    "name": "キイイイイ…。",
     "npc": "NotUse"
   },
   "03000145_BF__SAVE_01__0--": {
@@ -8105,15 +8105,15 @@
     "type": "대화를설정한다"
   },
   "52000002_QD__STAGE01__0--": {
-    "name": "STRINGTRIGGER_52000002_QD__STAGE01__0_NAME",
+    "name": "壊れたフェンスを全て修理しましょう。",
     "npc": "NotUse"
   },
   "52000002_QD__STAGE02__0--": {
-    "name": "STRINGTRIGGER_52000002_QD__STAGE02__0_NAME",
+    "name": "全ての羊を助けましょう。",
     "npc": "NotUse"
   },
   "52000002_QD__STAGE03__0--": {
-    "name": "STRINGTRIGGER_52000002_QD__STAGE03__0_NAME",
+    "name": "右にジャンプして移動しましょう。",
     "npc": "NotUse"
   },
   "52000003_QD__KATVAN_01__0--": {
@@ -8142,7 +8142,7 @@
     "type": "연출UI를설정한다"
   },
   "52000004_QD__MAIN__1--": {
-    "name": "STRINGTRIGGER_52000004_QD__MAIN__1_NAME",
+    "name": "右に見えるピザを持っていってください。",
     "npc": "NotUse"
   },
   "52000004_QD__MAIN__2--": {
@@ -8170,7 +8170,7 @@
     "type": "이벤트UI를설정한다"
   },
   "52000004_QD__MAIN__7--": {
-    "name": "STRINGTRIGGER_52000004_QD__MAIN__7_NAME",
+    "name": "ポータルで移動しましょう。",
     "npc": "NotUse"
   },
   "52000004_QD__MASSEGE__0--": {
@@ -8253,11 +8253,11 @@
     "type": "연출UI를설정한다"
   },
   "52000007_QD__CONGRATULATION__0--": {
-    "name": "STRINGTRIGGER_52000007_QD__CONGRATULATION__0_NAME",
+    "name": "おめでとうございま～す!!",
     "npc": "NotUse"
   },
   "52000007_QD__CONGRATULATION__1--": {
-    "name": "STRINGTRIGGER_52000007_QD__CONGRATULATION__1_NAME",
+    "name": "わぁ！大当たりですね!!",
     "npc": "NotUse"
   },
   "52000007_QD__EXIT__0--": {
@@ -11964,11 +11964,11 @@
     "type": "이벤트UI를설정한다"
   },
   "52000051_QD__01_MAIN__6-DoubleImpactStory-": {
-    "name": "STRINGTRIGGER_52000051_QD__01_MAIN__6_NAME:[F]DoubleImpactStory",
+    "name": "この闇が晴れない限り、前へ進むことはできん。",
     "npc": "NotUse"
   },
   "52000051_QD__01_MAIN__7-DoubleImpactStory-": {
-    "name": "STRINGTRIGGER_52000051_QD__01_MAIN__7_NAME:[F]DoubleImpactStory",
+    "name": "このトーテムが闇の根源に違いありません。",
     "npc": "NotUse"
   },
   "52000051_QD__01_MAIN__8-DoubleImpactStory-": {
@@ -12472,7 +12472,7 @@
     "type": "AddCinematicTalk"
   },
   "52000117_QD__MAIN__4-Season1-": {
-    "name": "STRINGTRIGGER_52000117_QD__MAIN__4_NAME:[F]Season1",
+    "name": "<font size='50'>わっ!?</font>",
     "npc": "NotUse"
   },
   "52000117_QD__MAIN__5-Season1-": {
@@ -17554,7 +17554,7 @@
     "type": "이벤트UI를설정한다"
   },
   "61000003_ME_003__WAIT__0--": {
-    "name": "STRINGTRIGGER_61000003_ME_003__WAIT__0_NAME",
+    "name": "まもなく始まります。",
     "npc": "NotUse"
   },
   "61000004_ME__NOTICE__0--": {
@@ -18017,27 +18017,27 @@
     "type": "이벤트UI를설정한다"
   },
   "61000010_ME__BUFFSKILL__0--": {
-    "name": "STRINGTRIGGER_61000010_ME__BUFFSKILL__0_NAME",
+    "name": "中央に炎が灯されました。",
     "npc": "File missing"
   },
   "61000010_ME__PVP__0--": {
-    "name": "STRINGTRIGGER_61000010_ME__PVP__0_NAME",
+    "name": "これより、全員が敵となり\\n戦うことになります。",
     "npc": "File missing"
   },
   "61000010_ME__PVP__1--": {
-    "name": "STRINGTRIGGER_61000010_ME__PVP__1_NAME",
+    "name": "倒せば100点を獲得、\\n倒されれば50点を失います。",
     "npc": "File missing"
   },
   "61000010_ME__PVP__2--": {
-    "name": "STRINGTRIGGER_61000010_ME__PVP__2_NAME",
+    "name": "多くの点数を獲得した順に\\n報酬が与えられます。",
     "npc": "File missing"
   },
   "61000010_ME__PVP__3--": {
-    "name": "STRINGTRIGGER_61000010_ME__PVP__3_NAME",
+    "name": "血も涙もない\\n鉱山の決闘を開始します。",
     "npc": "File missing"
   },
   "61000010_ME__PVP__4--": {
-    "name": "STRINGTRIGGER_61000010_ME__PVP__4_NAME",
+    "name": "試合終了です。",
     "npc": "File missing"
   },
   "61000010_ME__PVP__5--": {
@@ -18045,19 +18045,19 @@
     "npc": "File missing"
   },
   "61000010_ME__WAIT__0--": {
-    "name": "STRINGTRIGGER_61000010_ME__WAIT__0_NAME",
+    "name": "2人以上で開始できます。\\n他のプレイヤーを待ちましょう。",
     "npc": "NotUse"
   },
   "61000011_ME__ENTER__0--": {
-    "name": "STRINGTRIGGER_61000011_ME__ENTER__0_NAME",
+    "name": "ランダム対決で最後まで生き残った\\n勇者に報酬が与えられます。",
     "npc": "File missing"
   },
   "61000011_ME__ENTER__1--": {
-    "name": "STRINGTRIGGER_61000011_ME__ENTER__1_NAME",
+    "name": "溶岩に落ちないように注意してください。",
     "npc": "File missing"
   },
   "61000011_ME__ENTER__2--": {
-    "name": "STRINGTRIGGER_61000011_ME__ENTER__2_NAME",
+    "name": "優勝者のスペシャル特典！$npc:11001478$の祝福を受けました。",
     "npc": "File missing"
   },
   "61000011_ME__ENTER__3--": {
@@ -18069,7 +18069,7 @@
     "npc": "File missing"
   },
   "61000011_ME__WAIT__0--": {
-    "name": "STRINGTRIGGER_61000011_ME__WAIT__0_NAME",
+    "name": "2人以上で開始できます。\\n他のプレイヤーを待ちましょう。",
     "npc": "NotUse"
   },
   "63000006_CS__TUTORIAL01__0--": {
@@ -19378,19 +19378,19 @@
     "type": "이벤트UI를설정한다"
   },
   "65000001_BD__WAIT__0--": {
-    "name": "STRINGTRIGGER_65000001_BD__WAIT__0_NAME",
+    "name": "2人以上で開始できます。\\n他のプレイヤーを待ちましょう。",
     "npc": "NotUse"
   },
   "65000001_BD__WAIT__1--": {
-    "name": "STRINGTRIGGER_65000001_BD__WAIT__1_NAME",
+    "name": "2人以上で開始できます。\\n他のプレイヤーを待ちましょう。",
     "npc": "NotUse"
   },
   "65000001_BD__WAIT__2--": {
-    "name": "STRINGTRIGGER_65000001_BD__WAIT__2_NAME",
+    "name": "2人以上で開始できます。\\n他のプレイヤーを待ちましょう。",
     "npc": "NotUse"
   },
   "65000002_BD__BUFFSKILL__0--": {
-    "name": "STRINGTRIGGER_65000002_BD__BUFFSKILL__0_NAME",
+    "name": "中央に炎が灯されました。",
     "npc": "NotUse"
   },
   "65000002_BD__PVP__0--": {
@@ -19424,15 +19424,15 @@
     "type": "이벤트UI를설정한다"
   },
   "65000002_BD__WAIT__0--": {
-    "name": "STRINGTRIGGER_65000002_BD__WAIT__0_NAME",
+    "name": "2人以上で開始できます。\\n他のプレイヤーを待ちましょう。",
     "npc": "NotUse"
   },
   "65000002_BD__WAIT__1--": {
-    "name": "STRINGTRIGGER_65000002_BD__WAIT__1_NAME",
+    "name": "2人以上で開始できます。\\n他のプレイヤーを待ちましょう。",
     "npc": "NotUse"
   },
   "65000002_BD__WAIT__2--": {
-    "name": "STRINGTRIGGER_65000002_BD__WAIT__2_NAME",
+    "name": "2人以上で開始できます。\\n他のプレイヤーを待ちましょう。",
     "npc": "NotUse"
   },
   "66000001_GD__MASSIVE01__0--": {
@@ -19791,11 +19791,11 @@
     "type": "이벤트UI를설정한다"
   },
   "80000003_bonus__T1_CONGRATULATION__0--": {
-    "name": "STRINGTRIGGER_80000003_BONUS__T1_CONGRATULATION__0_NAME",
+    "name": "おめでとうございま～す!!",
     "npc": "NotUse"
   },
   "80000003_bonus__T1_CONGRATULATION__1--": {
-    "name": "STRINGTRIGGER_80000003_BONUS__T1_CONGRATULATION__1_NAME",
+    "name": "わぁ！大当たりですね!!",
     "npc": "NotUse"
   },
   "80000015_bonus__NOTICE__0--": {
@@ -19803,11 +19803,11 @@
     "npc": "File missing"
   },
   "80000015_bonus__TRIGGER_01__0--": {
-    "name": "STRINGTRIGGER_80000015_BONUS__TRIGGER_01__0_NAME",
+    "name": "ルディブリアム大脱出は、制限時間内に\\n最上階に到達すれば勝利となるゲームです。",
     "npc": "File missing"
   },
   "80000015_bonus__TRIGGER_01__1--": {
-    "name": "STRINGTRIGGER_80000015_BONUS__TRIGGER_01__1_NAME",
+    "name": "ゲームを開始します。",
     "npc": "File missing"
   },
   "80000015_bonus__TRIGGER_01__2--": {
@@ -19999,7 +19999,7 @@
     "npc": "File missing"
   },
   "99999910__BOSSGATE__0--": {
-    "name": "STRINGTRIGGER_99999910__BOSSGATE__0_NAME",
+    "name": "はしごで上りましょう。",
     "npc": "File missing"
   },
   "99999913__01_COMMUTE__0--": {
@@ -22824,7 +22824,7 @@
     "type": "대화를설정한다"
   },
   "02000403_BF_Gauge--": {
-    "name": "STRINGTRIGGER_02000403_BF_GAUGE_NAME",
+    "name": "悶える怨恨",
     "npc": "File missing"
   },
   "02000403_BF__EVENT_02__9--": {
@@ -26222,7 +26222,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02100009_BF__resurrection_1__0-GuildRaid01-": {
-    "name": "STRINGTRIGGER_02100009_BF__RESURRECTION_1__0_NAME:[F]GuildRaid01",
+    "name": "残りのモンスターを倒してください！",
     "npc": "NotUse"
   },
   "02100009_BF__resurrection_2__0-GuildRaid01-": {
@@ -26284,7 +26284,7 @@
     "type": "대화를설정한다"
   },
   "52010038_QD__EVENT__1-FameContents-": {
-    "name": "STRINGTRIGGER_52010038_QD__EVENT__1_NAME:[F]FameContents",
+    "name": "遅い！昔だったらとっくに死んでたぞ！",
     "npc": "NotUse"
   },
   "52010038_QD__EVENT__2-FameContents-": {
@@ -26293,7 +26293,7 @@
     "type": "대화를설정한다"
   },
   "52010038_QD__EVENT__3-FameContents-": {
-    "name": "STRINGTRIGGER_52010038_QD__EVENT__3_NAME:[F]FameContents",
+    "name": "ここは俺に任せてさっさと行け！",
     "npc": "NotUse"
   },
   "52010038_QD__GAUGE__0-FameContents-": {
@@ -26355,7 +26355,7 @@
     "npc": "NotUse"
   },
   "52010039_QD__52010039__7-FameContents-": {
-    "name": "STRINGTRIGGER_52010039_QD__52010039__7_NAME:[F]FameContents",
+    "name": "発射！",
     "npc": "NotUse"
   },
   "52010039_QD__52010039__8-FameContents-": {
@@ -26507,7 +26507,7 @@
     "type": "AddCinematicTalk"
   },
   "02020019_BF__02020019_main__2-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020019_BF__02020019_MAIN__2_NAME:[F]FameChallengeDungeon",
+    "name": "テストを受ける準備ができましたら、下のほうにある戦闘スペースに移動してください！",
     "npc": "NotUse"
   },
   "02020020_BF__02020020_main__0-FameChallengeDungeon-": {
@@ -26566,7 +26566,7 @@
     "type": "AddCinematicTalk"
   },
   "02020023_BF__main__2-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020023_BF__MAIN__2_NAME:[F]FameChallengeDungeon",
+    "name": "全力で臨むように。以上。",
     "npc": "NotUse"
   },
   "02020024_BF__main__0-FameChallengeDungeon-": {
@@ -26851,15 +26851,15 @@
     "type": "AddBalloonTalk"
   },
   "52010056_QD__EventSection__9-FameContents_EP1_02-": {
-    "name": "STRINGTRIGGER_52010056_QD__EVENTSECTION__9_NAME:[F]FameContents_EP1_02",
+    "name": "はい！",
     "npc": "NotUse"
   },
   "52010056_QD__EventSection__10-FameContents_EP1_02-": {
-    "name": "STRINGTRIGGER_52010056_QD__EVENTSECTION__10_NAME:[F]FameContents_EP1_02",
+    "name": "はい！",
     "npc": "NotUse"
   },
   "52010056_QD__EventSection__11-FameContents_EP1_02-": {
-    "name": "STRINGTRIGGER_52010056_QD__EVENTSECTION__11_NAME:[F]FameContents_EP1_02",
+    "name": "はい！",
     "npc": "NotUse"
   },
   "52010056_QD__EventSection__12-FameContents_EP1_02-": {
@@ -27112,19 +27112,19 @@
     "type": "AddBalloonTalk"
   },
   "52010056_QD__EventSection_E_Monster__2-FameContents_EP1_02-": {
-    "name": "STRINGTRIGGER_52010056_QD__EVENTSECTION_E_MONSTER__2_NAME:[F]FameContents_EP1_02",
+    "name": "はっ！",
     "npc": "NotUse"
   },
   "52010056_QD__EventSection_E_Monster__3-FameContents_EP1_02-": {
-    "name": "STRINGTRIGGER_52010056_QD__EVENTSECTION_E_MONSTER__3_NAME:[F]FameContents_EP1_02",
+    "name": "はっ！",
     "npc": "NotUse"
   },
   "52010056_QD__EventSection_E_Monster__4-FameContents_EP1_02-": {
-    "name": "STRINGTRIGGER_52010056_QD__EVENTSECTION_E_MONSTER__4_NAME:[F]FameContents_EP1_02",
+    "name": "はっ！",
     "npc": "NotUse"
   },
   "52010056_QD__EventSection_E_Monster__5-FameContents_EP1_02-": {
-    "name": "STRINGTRIGGER_52010056_QD__EVENTSECTION_E_MONSTER__5_NAME:[F]FameContents_EP1_02",
+    "name": "はっ！",
     "npc": "NotUse"
   },
   "52010063_QD__main__0-FameContents_EP1_02-": {
@@ -27674,7 +27674,7 @@
     "type": "AddCinematicTalk"
   },
   "02020023_BF__main__6-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020023_BF__MAIN__6_NAME:[F]FameChallengeDungeon",
+    "name": "どこへ逃げるつもりだ？交戦地域制限システム、作動。",
     "npc": "NotUse"
   },
   "02020023_BF__main__7-FameChallengeDungeon-": {
@@ -27818,11 +27818,11 @@
     "type": "대화를설정한다"
   },
   "02020027_BF__stun_2__0-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_2__0_NAME:[F]FameChallengeDungeon",
+    "name": "前進あるのみ。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_2__1-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_2__1_NAME:[F]FameChallengeDungeon",
+    "name": "神官騎士の準備が完了した。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_2__2-FameChallengeDungeon-": {
@@ -27830,23 +27830,23 @@
     "npc": "NotUse"
   },
   "02020027_BF__stun_2__3-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_2__3_NAME:[F]FameChallengeDungeon",
+    "name": "運命の審判を受けよ。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_2__4-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_2__4_NAME:[F]FameChallengeDungeon",
+    "name": "終わりなどない。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_2__5-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_2__5_NAME:[F]FameChallengeDungeon",
+    "name": "騎士団の意志を。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_3__0-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_3__0_NAME:[F]FameChallengeDungeon",
+    "name": "前進あるのみ。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_3__1-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_3__1_NAME:[F]FameChallengeDungeon",
+    "name": "神官騎士の準備が完了した。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_3__2-FameChallengeDungeon-": {
@@ -27854,23 +27854,23 @@
     "npc": "NotUse"
   },
   "02020027_BF__stun_3__3-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_3__3_NAME:[F]FameChallengeDungeon",
+    "name": "運命の審判を受けよ。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_3__4-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_3__4_NAME:[F]FameChallengeDungeon",
+    "name": "終わりなどない。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_3__5-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_3__5_NAME:[F]FameChallengeDungeon",
+    "name": "騎士団の意志を。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_4__0-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_4__0_NAME:[F]FameChallengeDungeon",
+    "name": "前進あるのみ。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_4__1-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_4__1_NAME:[F]FameChallengeDungeon",
+    "name": "神官騎士の準備が完了した。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_4__2-FameChallengeDungeon-": {
@@ -27878,23 +27878,23 @@
     "npc": "NotUse"
   },
   "02020027_BF__stun_4__3-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_4__3_NAME:[F]FameChallengeDungeon",
+    "name": "運命の審判を受けよ。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_4__4-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_4__4_NAME:[F]FameChallengeDungeon",
+    "name": "終わりなどない。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_4__5-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_4__5_NAME:[F]FameChallengeDungeon",
+    "name": "騎士団の意志を。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_5__0-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_5__0_NAME:[F]FameChallengeDungeon",
+    "name": "前進あるのみ。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_5__1-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_5__1_NAME:[F]FameChallengeDungeon",
+    "name": "神官騎士の準備が完了した。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_5__2-FameChallengeDungeon-": {
@@ -27902,15 +27902,15 @@
     "npc": "NotUse"
   },
   "02020027_BF__stun_5__3-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_5__3_NAME:[F]FameChallengeDungeon",
+    "name": "運命の審判を受けよ。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_5__4-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_5__4_NAME:[F]FameChallengeDungeon",
+    "name": "終わりなどない。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_5__5-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_5__5_NAME:[F]FameChallengeDungeon",
+    "name": "騎士団の意志を。",
     "npc": "NotUse"
   },
   "02000410_BF__Event01__0-CrimsonBalrog01-": {
@@ -28099,7 +28099,7 @@
     "type": "SideNpcTalk"
   },
   "02020140_BF__PopUpCinema__0-Kritias_Turka03-": {
-    "name": "STRINGTRIGGER_02020140_BF__POPUPCINEMA__0_NAME:[F]Kritias_Turka03",
+    "name": "とうとうここまで来たか、虫けらのような人間め。",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
@@ -28209,55 +28209,55 @@
     "type": "SideNpcTalk"
   },
   "82000006_survival__01_SURVIVAL__0-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__0_NAME:[F]SurvivalContents01",
+    "name": "ヨホホオー。私が主催する「マッシュキングチャンピオンシップ」へようこそ！",
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__1-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__1_NAME:[F]SurvivalContents01",
+    "name": "他の参加者を倒し、お前の強さを証明してみせろ！",
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__2-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__2_NAME:[F]SurvivalContents01",
+    "name": "まだ参加者たちが全員集まっていない。少し待っていろ。",
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__3-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__3_NAME:[F]SurvivalContents01",
+    "name": "小さくなった姿が可愛いな。私より大きいやつは許せん！ヨホホオー。",
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__4-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__4_NAME:[F]SurvivalContents01",
+    "name": "太初のキノコ島は実に美しいだろ？メイプルワールドというところも気になるな…。",
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__5-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__5_NAME:[F]SurvivalContents01",
+    "name": "うおおお～いつまで待たせる気だ！",
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__6-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__6_NAME:[F]SurvivalContents01",
+    "name": "公正なレースのために私が準備した姿はどうだ？「太初へ戻れ！」の力なり。",
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__7-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__7_NAME:[F]SurvivalContents01",
+    "name": "ただし、もう少し楽しんでもらえるよう、道具を用意しておいた。道具はボックスと我らがキノコたちから手に入れられる。上手く活用するといい。",
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__8-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__8_NAME:[F]SurvivalContents01",
+    "name": "時間が経つと、競技場に私の「ナマケモノ胞子」が撒かれる。",
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__9-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__9_NAME:[F]SurvivalContents01",
+    "name": "優勝したいなら吸わないほうがいいと思うぞ、ヨホホオー。",
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__10-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__10_NAME:[F]SurvivalContents01",
+    "name": "マップのあちこちにあるマッシュルームタワーに気づかれないように気をつけろ。",
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__11-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__11_NAME:[F]SurvivalContents01",
+    "name": "さあ、まずはスタート地点に移動しようか？",
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__12-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__12_NAME:[F]SurvivalContents01",
+    "name": "遠くへ行きたければ、スペースキーを押してキノコ熱気球に乗り込め。位置選定も重要だ。",
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__13-SurvivalContents01-": {
@@ -28265,11 +28265,11 @@
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__14-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__14_NAME:[F]SurvivalContents01",
+    "name": "試合開始！",
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__15-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__15_NAME:[F]SurvivalContents01",
+    "name": "なんと！参加者はこれだけか？くそぉ～。これでは試合を行えないではないか！",
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__16-SurvivalContents01-": {
@@ -28277,15 +28277,15 @@
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__17-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__17_NAME:[F]SurvivalContents01",
+    "name": "ゴホン、これなら十分だ。よ～し、では始めるとしようか？",
     "npc": "NotUse"
   },
   "82000006_survival__01_SURVIVAL__18-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__01_SURVIVAL__18_NAME:[F]SurvivalContents01",
+    "name": "まもなく元いた場所へ戻ります。",
     "npc": "NotUse"
   },
   "82000006_survival__05_RAREBOX__0-SurvivalContents01-": {
-    "name": "STRINGTRIGGER_82000006_SURVIVAL__05_RAREBOX__0_NAME:[F]SurvivalContents01",
+    "name": "マッシュルームタワーの近くに黄金キノコボックスを用意した。",
     "npc": "NotUse"
   },
   "52000086_QD__50001540__0-LapentaFrontierQuest-": {
@@ -29078,7 +29078,7 @@
     "type": "대화를설정한다"
   },
   "52100041_QD__MAGIC_05__2-ChronicleDungeon60_01-": {
-    "name": "STRINGTRIGGER_52100041_QD__MAGIC_05__2_NAME:[F]ChronicleDungeon60_01",
+    "name": "ご主人様…。",
     "npc": "NotUse"
   },
   "52100041_QD__MAGIC_05__3-ChronicleDungeon60_01-": {
@@ -29227,11 +29227,11 @@
     "type": "대화를설정한다"
   },
   "52100052_QD__01_ENTERTHEHALL__3-ChronicleDungeon60_01-": {
-    "name": "STRINGTRIGGER_52100052_QD__01_ENTERTHEHALL__3_NAME:[F]ChronicleDungeon60_01",
+    "name": "何者だ！",
     "npc": "NotUse"
   },
   "52100052_QD__01_ENTERTHEHALL__4-ChronicleDungeon60_01-": {
-    "name": "STRINGTRIGGER_52100052_QD__01_ENTERTHEHALL__4_NAME:[F]ChronicleDungeon60_01",
+    "name": "何者だ！",
     "npc": "NotUse"
   },
   "52100052_QD__01_ENTERTHEHALL__5-ChronicleDungeon60_01-": {
@@ -29305,11 +29305,11 @@
     "type": "대화를설정한다"
   },
   "52100053_QD__04_HALLWAYBATTLE__1-ChronicleDungeon60_01-": {
-    "name": "STRINGTRIGGER_52100053_QD__04_HALLWAYBATTLE__1_NAME:[F]ChronicleDungeon60_01",
+    "name": "逃がすもんか！",
     "npc": "NotUse"
   },
   "52100053_QD__04_HALLWAYBATTLE__2-ChronicleDungeon60_01-": {
-    "name": "STRINGTRIGGER_52100053_QD__04_HALLWAYBATTLE__2_NAME:[F]ChronicleDungeon60_01",
+    "name": "逃がすもんか！",
     "npc": "NotUse"
   },
   "52100054_QD__01_CLIMBTHEWALL__0-ChronicleDungeon60_01-": {
@@ -29318,11 +29318,11 @@
     "type": "대화를설정한다"
   },
   "52100054_QD__01_CLIMBTHEWALL__1-ChronicleDungeon60_01-": {
-    "name": "STRINGTRIGGER_52100054_QD__01_CLIMBTHEWALL__1_NAME:[F]ChronicleDungeon60_01",
+    "name": "逃がすもんか！",
     "npc": "NotUse"
   },
   "52100054_QD__01_CLIMBTHEWALL__2-ChronicleDungeon60_01-": {
-    "name": "STRINGTRIGGER_52100054_QD__01_CLIMBTHEWALL__2_NAME:[F]ChronicleDungeon60_01",
+    "name": "逃がすもんか！",
     "npc": "NotUse"
   },
   "52100055_QD__01_ABOVEWALL__0-ChronicleDungeon60_01-": {
@@ -29331,11 +29331,11 @@
     "type": "대화를설정한다"
   },
   "52100055_QD__01_ABOVEWALL__1-ChronicleDungeon60_01-": {
-    "name": "STRINGTRIGGER_52100055_QD__01_ABOVEWALL__1_NAME:[F]ChronicleDungeon60_01",
+    "name": "逃がすもんか！",
     "npc": "NotUse"
   },
   "52100055_QD__01_ABOVEWALL__2-ChronicleDungeon60_01-": {
-    "name": "STRINGTRIGGER_52100055_QD__01_ABOVEWALL__2_NAME:[F]ChronicleDungeon60_01",
+    "name": "逃がすもんか！",
     "npc": "NotUse"
   },
   "52100060_QD__MAIN__0-ChronicleDungeon60_01-": {
@@ -29804,7 +29804,7 @@
     "type": "대화를설정한다"
   },
   "02000471_BF__MAGIC_05__2-ChronicleDungeon60_01-": {
-    "name": "STRINGTRIGGER_02000471_BF__MAGIC_05__2_NAME:[F]ChronicleDungeon60_01",
+    "name": "ご主人様…。",
     "npc": "과거의 망령",
     "type": "대화를설정한다"
   },
@@ -31658,7 +31658,7 @@
     "type": "AddBalloonTalk"
   },
   "63000076_CS__63000076_CHAT_703__6-Season1-": {
-    "name": "STRINGTRIGGER_63000076_CS__63000076_CHAT_703__6_NAME:[F]Season1",
+    "name": "私も！",
     "npc": "함박눈 요정",
     "type": "AddBalloonTalk"
   },
@@ -32098,7 +32098,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02020061_BF__MAIN__1-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__MAIN__1_NAME:[F]Fieldwar01",
+    "name": "入場人数が不足しているため、ゲームを開始できません。\\n次の機会にチャレンジしてください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -32243,7 +32243,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02020062_BF__MAIN__1-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__MAIN__1_NAME:[F]Fieldwar01",
+    "name": "入場人数が不足しているため、ゲームを開始できません。\\n次の機会にチャレンジしてください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -32448,7 +32448,7 @@
     "type": "AddCinematicTalk"
   },
   "52020040_QD__52020040__20-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__20_NAME:[F]Kritias_Epic01",
+    "name": "……？",
     "npc": "네이린",
     "type": "AddCinematicTalk"
   },
@@ -33128,7 +33128,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02020063_BF__MAIN__1-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__MAIN__1_NAME:[F]Fieldwar02",
+    "name": "入場人数が不足しているため、ゲームを開始できません。\\n次の機会にチャレンジしてください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -33263,7 +33263,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02020065_BF__MAIN__1-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__MAIN__1_NAME:[F]Fieldwar02",
+    "name": "入場人数が不足しているため、ゲームを開始できません。\\n次の機会にチャレンジしてください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -33713,7 +33713,7 @@
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__START__0-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__START__0_NAME:[F]Colosseum01",
+    "name": "クイーンビーンアリーナ",
     "npc": "systemMSG",
     "type": "ShowCaption"
   },
@@ -34058,7 +34058,7 @@
     "type": "SideNpcTalk"
   },
   "52100300_QD__MAIN__12-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__12_NAME:[F]Kritias_Turka01",
+    "name": "隠された格納庫",
     "npc": "systemMSG",
     "type": "ShowCaption"
   },
@@ -37693,7 +37693,7 @@
     "type": "AddCinematicTalk"
   },
   "52000191_QD__52000191__16-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000191_QD__52000191__16_NAME:[F]EpicApocalypse01",
+    "name": "……。",
     "npc": "바론",
     "type": "AddCinematicTalk"
   },
@@ -37863,7 +37863,7 @@
     "type": "AddCinematicTalk"
   },
   "52000195_QD__52000195__10-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000195_QD__52000195__10_NAME:[F]EpicApocalypse01",
+    "name": "!!!",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
@@ -37933,7 +37933,7 @@
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__12-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__12_NAME:[F]EpicApocalypse01",
+    "name": "……。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
@@ -38083,7 +38083,7 @@
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__17-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__17_NAME:[F]EpicApocalypse01",
+    "name": "……。",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
@@ -38093,7 +38093,7 @@
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__19-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__19_NAME:[F]EpicApocalypse01",
+    "name": "クソッ…。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
@@ -38123,7 +38123,7 @@
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__25-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__25_NAME:[F]EpicApocalypse01",
+    "name": "……。",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
@@ -38178,7 +38178,7 @@
     "type": "AddCinematicTalk"
   },
   "52000202_QD__52000202__4-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000202_QD__52000202__4_NAME:[F]EpicApocalypse01",
+    "name": "?!",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
@@ -38188,7 +38188,7 @@
     "type": "AddCinematicTalk"
   },
   "52000202_QD__52000202__6-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000202_QD__52000202__6_NAME:[F]EpicApocalypse01",
+    "name": "なっ…?!",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
@@ -38208,7 +38208,7 @@
     "type": "AddCinematicTalk"
   },
   "52000202_QD__52000202__10-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000202_QD__52000202__10_NAME:[F]EpicApocalypse01",
+    "name": "……？",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
