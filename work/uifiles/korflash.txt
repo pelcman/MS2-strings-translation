@@ -1,0 +1,260 @@
+###1 key=$s_inventory_unlimited_enchant-UnlimitedEnchant- field=value
+KO|한계돌파
+EN|Limit Break
+
+###2 key=$s_inventory_unlimited_enchant_tooltip-UnlimitedEnchant- field=value
+KO|<FONT color='#FFD200' size='15' >한계 돌파</FONT>\n<FONT size='3'> </FONT>\n장비에 숨겨져 있는 힘을 끌어내어\n기존의 한계를 뛰어넘는 장비로 전환합니다.\n라네모네를 불러옵니다.
+EN|<FONT color='#FFD200' size='15' >Limit Break</FONT>\n<FONT size='3'> </FONT>\nUnleash the hidden power in an equipment\nTransition to equipment that breaks through the limits.\nSummons Lanemone.
+
+###3 key=$s_inventory_unlimited_enchant_disable_tooltip-UnlimitedEnchant- field=value
+KO|<FONT color='#FFD200' size='15' >한계 돌파</FONT>\n<FONT size='3'> </FONT>\n장비에 숨겨져 있는 힘을 끌어내어\n기존의 한계를 뛰어넘는 장비로 전환합니다.
+EN|<FONT color='#FFD200' size='15' >Limit Break</FONT>\n<FONT size='3'> </FONT>\nUnleash the hidden power in an equipment\nTransition to equipment that breaks through the limits.
+
+###4 key=$s_gamemenu_btn_wedding-Wedding- field=value
+KO|결혼
+EN|Marriage
+
+###5 key=$s_tooltip_ugcupload_wedding_profile_apply-Wedding- field=value
+KO|<FONT color='#FFD200' size='15' >등록하기</FONT>\n<FONT size='3'> </FONT>\n선택한 이미지를 결혼사진으로 등록합니다.
+EN|<FONT color='#FFD200' size='15' >Register</FONT>\n<FONT size='3'> </FONT>\nSet the selected image as your wedding portrait.
+
+###6 key=$s_achieve_disabled-FoundersPackMode- field=value
+KO|
+EN|Purchase the Founder's Pack to access this.
+
+###7 key=$s_mesoMarket_btn_detail-MesoMarketNA- field=value
+KO|
+EN|Meso Market Help
+
+###8 key=$s_dungeonSearch_submenu_colosseum-ColosseumDungeon- field=value
+KO|퀸크빈 럼블
+EN|Queen Bean Rumble
+
+###9 key=$s_dungeonSearch_submenu_colosseum_tooltip-ColosseumDungeon- field=value
+KO|여왕의 응접실로 이동합니다.
+EN|Moving to the Queen's Parlor.
+
+###10 key=$s_meratmarket_text_register_notice_warning_music_score-UGCMarketMusicScore- field=value
+KO|<FONT size='12' >乐谱是以“可演奏20次”的状态进行出售。\n乐谱将免收登记费用及出售手续费，并且乐谱的出售金额将不包含在当月累计出售金额中。
+EN|<FONT size='12' >The sheet music is sold in a "playable 20 times" state.\nThe sheet music will be exempt from registration fees and sales commissions, and the sale amount of the sheet music will not be included in the total sales amount for the month.
+
+###11 key=$s_token_pocket_meso_market_token_tooltip-MesoMarketToken- field=value
+KO|
+EN|<FONT color='#FFD200' size='15' >Meso Tokens</FONT>\n<FONT size='3'> </FONT>\nCurrency used in the Black Market to purchase mesos. Click the Help button in the Black Market to find out how to purchase Meso Tokens.
+
+###12 key=$s_itemremake_scroll_notice_pet_ingredient_item-PetRemakeBlock02- field=value
+KO|사용할 펫 추가 능력 고정 재료를 올려 주세요.
+EN|Please upload the fixed materials for the additional pet abilities you want to use.
+
+###13 key=$s_characterability_bottom_desc-CharacterAbility- field=value
+KO|포인트를 투자해서 특성을 배울 수 있습니다.
+EN|You can learn traits by investing points.
+
+###14 key=$s_characterability_point_info-CharacterAbility- field=value
+KO|<FONT color='#FFD200' size='15' >특성 포인트</FONT>\n<FONT size='3'> </FONT>\n특성을 배울 수 있는 포인트입니다.\n50레벨부터 1레벨이 오를 때 마다 1포인트씩 얻을 수 있으며,\n특성을 배울때 마다 포인트가 1씩 차감됩니다.\n가지고 있는 포인트를 투자해서 원하는 특성에 투자해서 배워보세요.\n<FONT color='#909090'>선택한 특성은 [초기화] 버튼으로 초기화 할 수 있습니다.\n단, 특성 초기화 후에는 일정 시간이 지나야 다시 초기화 할 수 있습니다.</font>
+EN|<FONT color='#FFD200' size='15'>Characteristic Points</FONT>\n<FONT size='3'> </FONT>\nThis is a point that can be used to learn characteristics.\nFrom level 50, you can earn 1 point each time you level up.\nEach time you learn a characteristic, 1 point will be deducted.\nInvest your points in the desired characteristics and learn them.\n<FONT color='#909090'>The selected characteristic can be reset using the [Reset] button.\nHowever, after resetting a characteristic, you must wait a certain amount of time before you can reset it again.</font>
+
+###15 key=$s_world_champion_explain2-WorldChampionMushroom- field=value
+KO|<FONT color='#ffd200'>포자 차단 크림 획득처</FONT>: 출석 보상 (우편)
+EN|<FONT color='#ffd200'>Location to obtain spore blocking cream</FONT>: Attendance reward (mail)
+
+###16 key=$s_world_champion_explain4-WorldChampionMushroom- field=value
+KO|<FONT color='#ffd200'>랭킹 보상</FONT>: 다음 점검 후 우편 수령
+EN|<FONT color='#ffd200'>Ranking Rewards</FONT>: Received by mail after the next maintenance
+
+###17 key=$s_gamemode_select_title-MushKingRoyaleModeSelect- field=value
+KO|
+EN|Select a mode to play.
+
+###18 key=$s_gamemode_select_title_royale-MushKingRoyaleModeSelect- field=value
+KO|
+EN|Mushking Royale
+
+###19 key=$s_gamemode_select_sub_title_rpg-MushKingRoyaleModeSelect- field=value
+KO|
+EN|Write Your Own Tale
+
+###20 key=$s_gamemode_select_sub_title_royale-MushKingRoyaleModeSelect- field=value
+KO|
+EN|Be the Last Hero Standing
+
+###21 key=$s_gamemode_select_desc_rpg-MushKingRoyaleModeSelect- field=value
+KO|
+EN|The whole of Maple World spreads out before you. Will you vanquish vile monsters in grand dungeons? Compete against your friends in a multitude of mini-games? Design your own fashion line? The possibilities are endless, play your way!
+
+###22 key=$s_gamemode_select_desc_royale-MushKingRoyaleModeSelect- field=value
+KO|
+EN|Levels? Jobs? Gear? None of it matters in Mushking Royale! With only your own skill and your teammates to rely on, can you survive in the massive free-for-all battles on the fields of Mushtopia?
+
+###23 key=$s_gamemode_select_tooltip_royale-MushKingRoyaleModeSelect- field=value
+KO|
+EN|&lt;p align='center'&gt;&lt;font size='30'&gt;Reserve Your Name for Official Launch Today!&lt;/font&gt;&lt;/p&gt;
+
+###24 key=$s_wedding_billboard_couple-Wedding- field=value
+KO|예비 부부 이름
+EN|Couple Names
+
+###25 key=$s_weddinghall_reservation_confirm_tooltip-Wedding- field=value
+KO|※결혼식장 예약 변경은 최초 예약한 캐릭터만 할 수 있으며, 예약하려는 시간까지 최소 3시간 이상의 여유가 있어야만 가능합니다.\n※결혼식장 예약 취소는 최초 예약한 캐릭터만 할 수 있으며, 상대방이 취소에 동의하면 30일 이내에 동일 등급의 결혼식장을 예약할 수 있는\n무료 예약 쿠폰을 드립니다. 상대방이 결혼식장 예약 취소에 동의하지 않으면 무료 예약 쿠폰이 지급되지 않습니다.\n※약혼, 결혼, 이혼 조정 중 상태인 캐릭터는 성별 변경권 사용이 불가능합니다.
+EN|※Changes to the weddng reservation venue can only be made by the person who made the reservation. This can only occur if there is at least 3 hours until the time of the reservation.\n※Cancellation of wedding all reservations can only be made by the person who made the reservation. The other party must agree to the cancellation.\nA 30-day free reservation coupon will be given to reserve a wedding hall of the same class. If the other party does not agree to the cancellation, then a free reservation coupon will not be issued.\n※Characters who are engaged, married, or divorcing cannot use the Gender Change Voucher.
+
+###26 key=$s_weddinghall_enter_button_type2-Wedding- field=value
+KO|입장 가능 결혼식 확인하기
+EN|Check out available weddings
+
+###27 key=$s_weddinghall_enter_message_type1-Wedding- field=value
+KO|결혼식 예약 시간이 되었습니다. 결혼식에 입장해 주세요.
+EN|It's time for the wedding. Please enter the wedding ceremony.
+
+###28 key=$s_weddinghall_enter_message_type2-Wedding- field=value
+KO|결혼식 예약 시간이 되었습니다. 참석 가능한 결혼식 목록을 확인하시고, 결혼식에 입장해 주세요.
+EN|It's time for a wedding. Please check the list of available weddings and enter the wedding ceremony.
+
+###29 key=$s_wedding_dialog_title-Wedding- field=value
+KO|결혼
+EN|Marriage
+
+###30 key=$s_wedding_dialog_picture_change-Wedding- field=value
+KO|사진변경
+EN|Change Photo
+
+###31 key=$s_wedding_dialog_partner_message-Wedding- field=value
+KO|배우자가 남긴 메시지
+EN|Spouse Message
+
+###32 key=$s_wedding_dialog_my_message-Wedding- field=value
+KO|내가 남긴 메시지
+EN|Message I left
+
+###33 key=$s_wedding_dialog_divorce-Wedding- field=value
+KO|확인하기
+EN|Verify
+
+###34 key=$s_wedding_dialog_info_tooltip-Wedding- field=value
+KO|클릭하여 설명 및 누적 친밀도를 조회할 수 있습니다.
+EN|You can click to view a description of your accumulated intimacy.
+
+###35 key=$s_wedding_dialog_default_message-Wedding- field=value
+KO|메세지를 입력하세요
+EN|Enter a message
+
+###36 key=$s_wedding_affinity_info_title-Wedding- field=value
+KO|친밀도 획득 방법
+EN|Increasing Intimacy
+
+###37 key=$s_wedding_affinity_info_desc1-Wedding- field=value
+KO|친밀도는 매일매일\n 아래와 같은 기준으로 누적됩니다.
+EN|Intimacy is accumulated daily. \nYou can accumulate by the following.
+
+###38 key=$s_wedding_affinity_info_desc2-Wedding- field=value
+KO|혼인 기간의 경과\n혼인한지 하루가 지날 때마다 매일 5점이 적립됩니다. \n\n부부의 출석\n부부가 각각 게임에 접속할 때마다 각각 5점 씩 적립됩니다. \n\n커플 메시지\n부부 두 사람이 커플 메시지를 작성할 때마다 각각 5점 씩 \n적립됩니다.
+EN|Marriage Period Passed\nEvery day after marriage, 5 points will be accumulated daily. \n\nCouple's Attendance\nEvery time the couple accesses the game, \n5 points are accumulated. \n\nCouple Message\nEvery time the couple writes a couple message, \n5 points are earned.
+
+###39 key=$s_wedding_affinity_info_desc3-Wedding- field=value
+KO|* 부부 중 한 사람이 0시부터 24시를 기준으로 1일 게임에 접속하지 않으면 그 다음 날 5점이 친밀도에서 차감됩니다.
+EN|* If one person in the couple does not log into the game on the \nfirst day from 00:00 to 24:00, 5 points will be deducted from intimacy.
+
+###40 key=$s_wedding_affinity_info_tab-Wedding- field=value
+KO|친밀도 획득 방법
+EN|How to increase initmacy
+
+###41 key=$s_wedding_affinity_info_history-Wedding- field=value
+KO|누적 친밀도 조회
+EN|Intimacy Info
+
+###42 key=$s_wedding_invitation_title-Wedding- field=value
+KO|청첩장 보내기
+EN|Send a Wedding Invitation
+
+###43 key=$s_wedding_invitation_add-Wedding- field=value
+KO|추가하기
+EN|Add
+
+###44 key=$s_wedding_invitation_date-Wedding- field=value
+KO|일시
+EN|Date
+
+###45 key=$s_wedding_guest_title-Wedding- field=value
+KO|청첩장 받는 사람 추가
+EN|Add wedding invitation recipient
+
+###46 key=$s_wedding_guest_add-Wedding- field=value
+KO|추가하기
+EN|Add
+
+###47 key=$s_wedding_guest_tab_stranger-Wedding- field=value
+KO|초대할 캐릭터의 이름을 직접 입력하세요.
+EN|Enter the name of the character you would like to invite.
+
+###48 key=$s_wedding_hall_list_title-Wedding- field=value
+KO|결혼식 목록
+EN|Wedding List
+
+###49 key=$s_wedding_hall_list_open-Wedding- field=value
+KO|시작 예정 결혼식
+EN|Weddings Coming Up
+
+###50 key=$s_wedding_hall_list_progress-Wedding- field=value
+KO|진행 중인 결혼식
+EN|Wedding In Progress
+
+###51 key=$s_wedding_hall_list_desc-Wedding- field=value
+KO|결혼식을 선택하면 입장할 수 있습니다.
+EN|Choose a wedding to attend.
+
+###52 key=$s_wedding_hall_list_enter-Wedding- field=value
+KO|입장
+EN|Enter
+
+###53 key=$s_payback_dialog_title-Payback- field=value
+KO|페이백 달성 현황
+EN|Payback achievement status
+
+###54 key=$s_payback_dialog_banner_chatballoon-Payback- field=value
+KO|모험 레벨만 올리면 누구나 페이백! 지금 바로 참여하세요!
+EN|Anyone can get payback just by leveling up! Join now!
+
+###55 key=$s_payback_dialog_banner_title-Payback- field=value
+KO|주황버섯의 파워업 캡슐
+EN|Orange Mushroom Power Up Capsule
+
+###56 key=$s_payback_dialog_banner_subtitle-Payback- field=value
+KO|최대 <font color='#ec686e'>100%</font> 페이백 이벤트
+EN|Maximum <font color='#ec686e'>100%</font> payback event
+
+###57 key=$s_payback_dialog_banner_desc-Payback- field=value
+KO|** 페이백 금액은 사용 기한이 없는 일반 메럿으로 지급되며, 이벤트 종료 후 다음 달 1일 자정 기준 우편으로 발송됩니다.\n** 최대 1만 메럿까지 페이백 받을 수 있으며 게임 메럿, 이벤트 메럿으로 구입한 금액은 제외됩니다.
+EN|** The payback amount is given as a general merit with no expiration date and will be sent by mail at midnight on the 1st of the following month after the event ends.\n** You can receive payback up to 10,000 merits, and amounts purchased with game merits or event merits are excluded.
+
+###58 key=$s_payback_dialog_predict_title-Payback- field=value
+KO|현재 페이백 예정 메럿
+EN|Current merit scheduled for payback
+
+###59 key=$s_payback_dialog_status_title-Payback- field=value
+KO|페이백 달성 현황
+EN|Payback achievement status
+
+###60 key=$s_gamemenu_btn_payback-Payback- field=value
+KO|페이백
+EN|Meret Rewards
+
+###61 key=$s_unlimited_enchant_dialog_title-UnlimitedEnchant- field=value
+KO|한계돌파 가능한 장비
+EN|Equipment available for limit break
+
+###62 key=$s_unlimited_enchant_dialog_notice-UnlimitedEnchant- field=value
+KO|한계돌파할 장비 아이템을 선택하세요
+EN|Select an equipment to limit break
+
+###63 key=$s_unlimited_enchant_dialog_desc-UnlimitedEnchant- field=value
+KO|장비에 숨겨져 있는 힘을 끌어내어\n기존의 한계를 뛰어넘는 장비로 전환합니다.\n<font color='#ec686e'>한계를 돌파할 장비 아이템을 선택하세요</font>\n\n한계돌파는 15강 파이어 프리즘 무기만 가능합니다.\n한계 돌파시 랜덤 옵션은 유지됩니다.\n한계돌파 10단계마다 강력한 힘이 추가됩니다.
+EN|Extract the power hidden in equipment\nSwitch to equipment that breaks through the limits.\n<font color='#ec686e'>Please select an equipment item to limit break.</font>\n\nLimit breaks are only possible with a +15 fire prism weapon.\nThe bonus attributes will be retained after limit breaks.\nAt limit break 10, 30, 60, and 90, a powerful ability is added.
+
+###64 key=$s_unlimited_enchant_dialog_enchant-UnlimitedEnchant- field=value
+KO|한계돌파
+EN|Limit Break
+
+###65 key=$s_unlimited_enchant_dialog_retry-UnlimitedEnchant- field=value
+KO|다시하기
+EN|Retry
+

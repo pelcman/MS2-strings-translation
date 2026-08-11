@@ -1,0 +1,1616 @@
+###1 key=21100065-JobChange_02- field=desc
+KO|세인츠 나이트 마스터 스킬 {0}회 사용하기
+EN|Use Knight II master skills {0} time(s)
+
+###2 key=21100065-JobChange_02- field=complete
+KO|세인츠 나이트 마스터 스킬 {0}회 사용
+EN|Used Knight II master skills {0} time(s)
+
+###3 key=21100066-JobChange_02- field=desc
+KO|블러디 버서커 마스터 스킬 {0}회 사용하기
+EN|Use Berserker II master skills {0} time(s)
+
+###4 key=21100066-JobChange_02- field=complete
+KO|블러디 버서커 마스터 스킬 {0}회 사용
+EN|Used Berserker II master skills {0} time(s)
+
+###5 key=21100067-JobChange_02- field=desc
+KO|매지컬 위자드 마스터 스킬 {0}회 사용하기
+EN|Use Wizard II master skills {0} time(s)
+
+###6 key=21100067-JobChange_02- field=complete
+KO|매지컬 위자드 마스터 스킬 {0}회 사용
+EN|Used Wizard II master skills {0} time(s)
+
+###7 key=21100068-JobChange_02- field=desc
+KO|하이 프리스트 마스터 스킬 {0}회 사용하기
+EN|Use Priest II master skills {0} time(s)
+
+###8 key=21100068-JobChange_02- field=complete
+KO|하이 프리스트 마스터 스킬 {0}회 사용
+EN|Used Priest II master skills {0} time(s)
+
+###9 key=21100069-JobChange_02- field=desc
+KO|샤프 레인저 마스터 스킬 {0}회 사용하기
+EN|Use Archer II master skills {0} time(s)
+
+###10 key=21100069-JobChange_02- field=complete
+KO|샤프 레인저 마스터 스킬 {0}회 사용
+EN|Used Archer II master skills {0} time(s)
+
+###11 key=21100070-JobChange_02- field=desc
+KO|하이퍼 헤비거너 마스터 스킬 {0}회 사용하기
+EN|Use Heavy Gunner II master skills {0} time(s)
+
+###12 key=21100070-JobChange_02- field=complete
+KO|하이퍼 헤비거너 마스터 스킬 {0}회 사용
+EN|Used Heavy Gunner II master skills {0} time(s)
+
+###13 key=21100071-JobChange_02- field=desc
+KO|팬텀 시프 마스터 스킬 {0}회 사용하기
+EN|Use Thief II master skills {0} time(s)
+
+###14 key=21100071-JobChange_02- field=complete
+KO|팬텀 시프 마스터 스킬 {0}회 사용
+EN|Used Thief II master skills {0} time(s)
+
+###15 key=21100072-JobChange_02- field=desc
+KO|쉐도우 어쌔신 마스터 스킬 {0}회 사용하기
+EN|Use Assassin II master skills {0} time(s)
+
+###16 key=21100072-JobChange_02- field=complete
+KO|쉐도우 어쌔신 마스터 스킬 {0}회 사용
+EN|Used Assassin II master skills {0} time(s)
+
+###17 key=21100073-JobChange_02- field=desc
+KO|아케인 룬 블레이더 마스터 스킬 {0}회 사용하기
+EN|Use Runeblade II master skills {0} time(s)
+
+###18 key=21100073-JobChange_02- field=complete
+KO|아케인 룬 블레이더 마스터 스킬 {0}회 사용
+EN|Used Runeblade II master skills {0} time(s)
+
+###19 key=21100074-JobChange_02- field=desc
+KO|얼티밋 스트라이커 마스터 스킬 {0}회 사용하기
+EN|Use Striker II master skills {0} time(s)
+
+###20 key=21100074-JobChange_02- field=complete
+KO|얼티밋 스트라이커 마스터 스킬 {0}회 사용
+EN|Used Striker II master skills {0} time(s)
+
+###21 key=21100075-JobChange_02- field=desc
+KO|미스틱 소울바인더 마스터 스킬 {0}회 사용하기
+EN|Use Soul Binder II master skills {0} time(s)
+
+###22 key=21100075-JobChange_02- field=complete
+KO|미스틱 소울바인더 마스터 스킬 {0}회 사용
+EN|Used Soul Binder II master skills {0} time(s)
+
+###23 key=21100076-JobChange_02- field=manualDesc
+KO|
+EN|Complete quest "$quest:40002795$"
+
+###24 key=21100076-JobChange_02- field=manualComplete
+KO|
+EN|Complete quest "$quest:40002795$"
+
+###25 key=21210027-Kritias_2018_12- field=desc
+KO|크리티아스 대륙에서 타이렌 왕국 몬스터 {0}마리 처치하기
+EN|Defeat {0} Tairen enemies in Kritias
+
+###26 key=21210027-Kritias_2018_12- field=complete
+KO|크리티아스 대륙에서 타이렌 왕국 몬스터 {0}마리 처치
+EN|Defeated {0} Tairen enemies in Kritias
+
+###27 key=21210028-Kritias_2018_12- field=desc
+KO|크리티아스 대륙에서 검은군단 몬스터 {0}마리 처치하기
+EN|Defeat {0} Daemon Army enemies in Kritias
+
+###28 key=21210028-Kritias_2018_12- field=complete
+KO|크리티아스 대륙에서 검은군단 몬스터 {0}마리 처치
+EN|Defeated {0} Daemon Army enemies in Kritias
+
+###29 key=21210029-Kritias_2018_12- field=desc
+KO|크리티아스 대륙에서 벌레 몬스터 {0}마리 처치하기
+EN|Defeat {0} insect enemies in Kritias
+
+###30 key=21210029-Kritias_2018_12- field=complete
+KO|크리티아스 대륙에서 벌레 몬스터 {0}마리 처치
+EN|Defeated {0} insect enemies in Kritias
+
+###31 key=21230144-Fieldwar01- field=desc
+KO|"$map:02020062$"에서 $npc:25100105$ {0}번 처치하기
+EN|Defeat $npc:25100105$ {0} time(s) in $map:02020062$
+
+###32 key=21230144-Fieldwar01- field=complete
+KO|지금까지 "$map:02020062$"에서 $npc:25100105$ {0}번 처치!
+EN|Defeated $npc:25100105$ {0} time(s) in $map:02020062$
+
+###33 key=21230145-Fieldwar01- field=desc
+KO|"$map:02020061$"에서 $npc:25100005$ {0}번 처치하기
+EN|Defeat $npc:25100005$ {0} time(s) in $map:02020061$
+
+###34 key=21230145-Fieldwar01- field=complete
+KO|지금까지 "$map:02020061$"에서 $npc:25100005$ {0}번 처치!
+EN|Defeated $npc:25100005$ {0} time(s) in $map:02020061$
+
+###35 key=21230146-Gigantica01- field=desc
+KO|"$map:02020051$"에서 $npc:23001006$ {0}번 처치하기
+EN|Defeat $npc:23001006$ {0} time(s) in $map:02020051$
+
+###36 key=21230146-Gigantica01- field=complete
+KO|지금까지 "$map:02020051$"에서 $npc:23001006$ {0}번 처치!
+EN|Defeated $npc:23001006$ {0} time(s) in $map:02020051$
+
+###37 key=21230147-Gigantica01- field=desc
+KO|"$map:02020051$"에서 $npc:23001006$ {0}번 소환하기
+EN|Summon $npc:23001006$ {0} time(s) in $map:02020051$
+
+###38 key=21230147-Gigantica01- field=complete
+KO|지금까지 "$map:02020051$"에서 $npc:23001006$ {0}번 소환
+EN|Summoned $npc:23001006$ {0} time(s) in $map:02020051$
+
+###39 key=21230148-Gigantica01- field=desc
+KO|"$map:02020051$"에서 펜텀디스트로이어 {0}번 탑승하기
+EN|Mount a Phantom Destroyer {0} time(s) in $map:02020051$
+
+###40 key=21230148-Gigantica01- field=complete
+KO|지금까지 "$map:02020051$"에서 펜텀디스트로이어 {0}번 탑승
+EN|Mounted a Phantom Destroyer {0} time(s) in $map:02020051$
+
+###41 key=21230149-Kritias_Balrog01- field=desc
+KO|"$map:02020097$"에서 $npc:21803500$ {0}번 발사하기
+EN|Fire $npc:21803500$ {0} time(s) in $map:02020097$
+
+###42 key=21230149-Kritias_Balrog01- field=complete
+KO|지금까지 "$map:02020097$"에서 $npc:21803500$ {0}번 발사!
+EN|Fired $npc:21803500$ {0} time(s) in $map:02020097$
+
+###43 key=21230150-Kritias_Zakum01- field=desc
+KO|"$map:02000426$"에서 $npc:23000072$ {0}번 처치하기
+EN|Defeat $npc:23000072$ {0} time(s) in $map:02000426$
+
+###44 key=21230150-Kritias_Zakum01- field=complete
+KO|지금까지 "$map:02000426$"에서 $npc:23000072$ {0}번 처치!
+EN|Defeated $npc:23000072$ {0} time(s) in $map:02000426$
+
+###45 key=21230151-Kritias_Inferno01- field=desc
+KO|"$map:02020098$"에서 $npc:23000150$ {0}번 처치하기
+EN|Defeat $npc:23000150$ {0} time(s) in $map:02020098$
+
+###46 key=21230151-Kritias_Inferno01- field=complete
+KO|지금까지 "$map:02020098$"에서 $npc:23000150$ {0}번 처치!
+EN|Defeated $npc:23000150$ {0} time(s) in $map:02020098$
+
+###47 key=21230152-Fieldwar02- field=desc
+KO|"$map:02020065$"에서 $npc:25100306$ {0}번 처치하기
+EN|Defeat $npc:25100306$ {0} time(s) in $map:02020065$
+
+###48 key=21230152-Fieldwar02- field=complete
+KO|지금까지 "$map:02020065$"에서 $npc:25100306$ {0}번 처치!
+EN|Defeated $npc:25100306$ {0} time(s) in $map:02020065$
+
+###49 key=21230153-Fieldwar02- field=desc
+KO|"$map:02020063$"에서 $npc:25100209$ {0}번 처치하기
+EN|Defeat $npc:25100209$ {0} time(s) in $map:02020063$
+
+###50 key=21230153-Fieldwar02- field=complete
+KO|지금까지 "$map:02020063$"에서 $npc:25100209$ {0}번 처치!
+EN|Defeated $npc:25100209$ {0} time(s) in $map:02020063$
+
+###51 key=21230154-Colosseum01- field=desc
+KO|"$map:83000002$"에서 {0}번 승리 보상 받기
+EN|Achieve victory {0} time(s) in "$map:83000002$"
+
+###52 key=21230154-Colosseum01- field=complete
+KO|지금까지 "$map:83000002$"에서 {0}번 승리 보상 받음
+EN|Achieve victory {0} time(s) in "$map:83000002$"
+
+###53 key=21230155-Colosseum01- field=manualDesc
+KO|
+EN|Win round 8 in $map:83000002$
+
+###54 key=21230155-Colosseum01- field=manualComplete
+KO|
+EN|Won round 8 in $map:83000002$
+
+###55 key=21230156-Colosseum01- field=desc
+KO|"$map:83000002$"에서 $npc:60000101$에게 {0}번 승리하기
+EN|Win against $npc:60000101$ {0} time(s) in $map:83000002$
+
+###56 key=21230156-Colosseum01- field=complete
+KO|지금까지 "$map:83000002$"에서 $npc:60000101$에게 {0}번 승리!
+EN|Won against $npc:60000101$ {0} time(s) in $map:83000002$
+
+###57 key=21230157-Colosseum01- field=desc
+KO|"$map:83000002$"에서 $npc:60000102$에게 {0}번 승리하기
+EN|Win against $npc:60000102$ {0} time(s) in $map:83000002$
+
+###58 key=21230157-Colosseum01- field=complete
+KO|지금까지 "$map:83000002$"에서 $npc:60000102$에게 {0}번 승리!
+EN|Won against $npc:60000102$ {0} time(s) in $map:83000002$
+
+###59 key=21230158-Colosseum01- field=desc
+KO|"$map:83000002$"에서 $npc:60000103$에게 {0}번 승리하기
+EN|Win against $npc:60000103$ {0} time(s) in $map:83000002$
+
+###60 key=21230158-Colosseum01- field=complete
+KO|지금까지 "$map:83000002$"에서 $npc:60000103$에게 {0}번 승리!
+EN|Won against $npc:60000103$ {0} time(s) in $map:83000002$
+
+###61 key=21230159-Colosseum01- field=desc
+KO|"$map:83000002$"에서 $npc:60000201$에게 {0}번 승리하기
+EN|Win against $npc:60000201$ {0} time(s) in $map:83000002$
+
+###62 key=21230159-Colosseum01- field=complete
+KO|지금까지 "$map:83000002$"에서 $npc:60000201$에게 {0}번 승리!
+EN|Won against $npc:60000201$ {0} time(s) in $map:83000002$
+
+###63 key=21230160-Colosseum01- field=desc
+KO|"$map:83000002$"에서 $npc:60000202$에게 {0}번 승리하기
+EN|Win against $npc:60000202$ {0} time(s) in $map:83000002$
+
+###64 key=21230160-Colosseum01- field=complete
+KO|지금까지 "$map:83000002$"에서 $npc:60000202$에게 {0}번 승리!
+EN|Won against $npc:60000202$ {0} time(s) in $map:83000002$
+
+###65 key=21230161-Colosseum01- field=desc
+KO|"$map:83000002$"에서 $npc:60000203$에게 {0}번 승리하기
+EN|Win against $npc:60000203$ {0} time(s) in $map:83000002$
+
+###66 key=21230161-Colosseum01- field=complete
+KO|지금까지 "$map:83000002$"에서 $npc:60000203$에게 {0}번 승리!
+EN|Won against $npc:60000203$ {0} time(s) in $map:83000002$
+
+###67 key=21230162-Colosseum01- field=desc
+KO|"$map:83000002$"에서 $npc:60000204$에게 {0}번 승리하기
+EN|Win against $npc:60000204$ {0} time(s) in $map:83000002$
+
+###68 key=21230162-Colosseum01- field=complete
+KO|지금까지 "$map:83000002$"에서 $npc:60000204$에게 {0}번 승리!
+EN|Won against $npc:60000204$ {0} time(s) in $map:83000002$
+
+###69 key=21230163-Colosseum01- field=desc
+KO|"$map:83000002$"에서 $npc:60000301$에게 {0}번 승리하기
+EN|Win against $npc:60000301$ {0} time(s) in $map:83000002$
+
+###70 key=21230163-Colosseum01- field=complete
+KO|지금까지 "$map:83000002$"에서 $npc:60000301$에게 {0}번 승리!
+EN|Won against $npc:60000301$ {0} time(s) in $map:83000002$
+
+###71 key=21230164-Colosseum01- field=desc
+KO|"$map:83000002$"에서 $npc:60000302$에게 {0}번 승리하기
+EN|Win against $npc:60000302$ {0} time(s) in $map:83000002$
+
+###72 key=21230164-Colosseum01- field=complete
+KO|지금까지 "$map:83000002$"에서 $npc:60000302$에게 {0}번 승리!
+EN|Won against $npc:60000302$ {0} time(s) in $map:83000002$
+
+###73 key=21230165-Colosseum01- field=desc
+KO|"$map:83000002$"에서 $npc:60000303$에게 {0}번 승리하기
+EN|Win against $npc:60000303$ {0} time(s) in $map:83000002$
+
+###74 key=21230165-Colosseum01- field=complete
+KO|지금까지 "$map:83000002$"에서 $npc:60000303$에게 {0}번 승리!
+EN|Won against $npc:60000303$ {0} time(s) in $map:83000002$
+
+###75 key=21230166-Colosseum01- field=desc
+KO|$map:83000002$에서 10라운드 {0}번 승리하기
+EN|Win round 10 in $map:83000002$ {0} time(s)
+
+###76 key=21230166-Colosseum01- field=complete
+KO|$map:83000002$에서 10라운드 {0}번 승리
+EN|Won round 10 in $map:83000002$ {0} time(s)
+
+###77 key=21230170-Colosseum02- field=desc
+KO|"$map:83000002$"에서 $npc:60000304$에게 {0}번 승리하기
+EN|Win against $npc:60000304$ {0} times in "$map:83000002$"
+
+###78 key=21230170-Colosseum02- field=complete
+KO|지금까지 "$map:83000002$"에서 $npc:60000304$에게 {0}번 승리!
+EN|Won against $npc:60000304$ {0} times in "$map:83000002$" so far!
+
+###79 key=21230171-Colosseum02- field=desc
+KO|"$map:83000002$"에서 $npc:60000305$에게 {0}번 승리하기
+EN|Win against $npc:60000305$ {0} times in "$map:83000002$"
+
+###80 key=21230171-Colosseum02- field=complete
+KO|지금까지 "$map:83000002$"에서 $npc:60000305$에게 {0}번 승리!
+EN|Won against $npc:60000305$ {0} times in "$map:83000002$" so far!
+
+###81 key=21230172-Colosseum02- field=desc
+KO|"$map:83000002$"에서 $npc:60000310$에게 {0}번 승리하기
+EN|Win against $npc:60000310$ {0} times in "$map:83000002$"
+
+###82 key=21230172-Colosseum02- field=complete
+KO|지금까지 "$map:83000002$"에서 $npc:60000310$에게 {0}번 승리!
+EN|Won against $npc:60000310$ {0} times in "$map:83000002$" so far!
+
+###83 key=21230173-BlackBean01- field=desc
+KO|"$dungeonTitle:23050003$"에서 $npcName:11004831$$pp:와,과$ {0}번 놀아주기
+EN|Play with $npcName:11004831$$pp:와,과$ {0} times in "$dungeonTitle:23050003$"
+
+###84 key=21230173-BlackBean01- field=complete
+KO|"$dungeonTitle:23050003$"에서 $npcName:11004831$$pp:와,과$ {0}번 놀아줌!
+EN|Played with $npcName:11004831$$pp:와,과$ {0} times in "$dungeonTitle:23050003$"!
+
+###85 key=21231052-Kritias_Balrog01- field=desc
+KO|"$dungeonTitle:23038002$"에서 나의 마지막 일격으로 $npc:23090006$ {0}회 처치하기
+EN|Land the final blow on $npc:23090006$ {0} time(s) in $dungeonTitle:23038002$
+
+###86 key=21231052-Kritias_Balrog01- field=complete
+KO|"$dungeonTitle:23038002$"에서 나의 마지막 일격으로 $npc:23090006$ {0}회 처치
+EN|Landed the final blow on $npc:23090006$ {0} time(s) in $dungeonTitle:23038002$
+
+###87 key=21231053-Kritias_Paika01- field=desc
+KO|"$dungeonTitle:23037002$"에서 나의 마지막 일격으로 $npc:23000301$ {0}회 처치하기
+EN|Land the final blow on $npc:23000301$ {0} time(s) in $dungeonTitle:23037002$
+
+###88 key=21231053-Kritias_Paika01- field=complete
+KO|"$dungeonTitle:23037002$"에서 나의 마지막 일격으로 $npc:23000301$ {0}회 처치
+EN|Landed the final blow on $npc:23000301$ {0} time(s) in $dungeonTitle:23037002$
+
+###89 key=21231054-Fieldwar01- field=desc
+KO|"$map:02020062$"에서 나의 마지막 일격으로 $npc:25100105$ {0}회 처치하기
+EN|Land the final blow on $npc:25100105$ {0} time(s) in $map:02020062$
+
+###90 key=21231054-Fieldwar01- field=complete
+KO|"$map:02020062$"에서 나의 마지막 일격으로 $npc:25100105$ {0}회 처치
+EN|Landed the final blow on $npc:25100105$ {0} time(s) in $map:02020062$
+
+###91 key=21231055-Fieldwar01- field=desc
+KO|"$map:02020061$"에서 나의 마지막 일격으로 $npc:25100005$ {0}회 처치하기
+EN|Land the final blow on $npc:25100005$ {0} time(s) in $map:02020061$
+
+###92 key=21231055-Fieldwar01- field=complete
+KO|"$map:02020061$"에서 나의 마지막 일격으로 $npc:25100005$ {0}회 처치
+EN|Landed the final blow on $npc:25100005$ {0} time(s) in $map:02020061$
+
+###93 key=21231056-Gigantica01- field=desc
+KO|"$map:02020051$"에서 나의 마지막 일격으로 $npc:23001006$ {0}회 처치하기
+EN|Land the final blow on $npc:23001006$ {0} time(s) in $map:02020051$
+
+###94 key=21231056-Gigantica01- field=complete
+KO|"$map:02020051$"에서 나의 마지막 일격으로 $npc:23001006$ {0}회 처치
+EN|Landed the final blow on $npc:23001006$ {0} time(s) in $map:02020051$
+
+###95 key=21231057-Kritias_Zakum01- field=desc
+KO|"$map:02000426$"에서 나의 마지막 일격으로 $npc:23000072$ {0}회 처치하기
+EN|Land the final blow on $npc:23000072$ {0} time(s) in $map:02000426$
+
+###96 key=21231057-Kritias_Zakum01- field=complete
+KO|"$map:02000426$"에서 나의 마지막 일격으로 $npc:23000072$ {0}회 처치
+EN|Landed the final blow on $npc:23000072$ {0} time(s) in $map:02000426$
+
+###97 key=21231058-Kritias_Inferno01- field=desc
+KO|"$map:02020098$"에서 나의 마지막 일격으로 $npc:23000150$ {0}회 처치하기
+EN|Land the final blow on $npc:23000150$ {0} time(s) in $map:02020098$
+
+###98 key=21231058-Kritias_Inferno01- field=complete
+KO|"$map:02020098$"에서 나의 마지막 일격으로 $npc:23000150$ {0}회 처치
+EN|Landed the final blow on $npc:23000150$ {0} time(s) in $map:02020098$
+
+###99 key=21231059-Fieldwar02- field=desc
+KO|"$map:02020065$"에서 나의 마지막 일격으로 $npc:25100306$ {0}회 처치하기
+EN|Land the final blow on $npc:25100306$ {0} time(s) in $map:02020065$
+
+###100 key=21231059-Fieldwar02- field=complete
+KO|"$map:02020065$"에서 나의 마지막 일격으로 $npc:25100306$ {0}회 처치
+EN|Landed the final blow on $npc:25100306$ {0} time(s) in $map:02020065$
+
+###101 key=21231060-Fieldwar02- field=desc
+KO|"$map:02020063$"에서 나의 마지막 일격으로 $npc:25100209$ {0}회 처치하기
+EN|Land the final blow on $npc:25100209$ {0} time(s) in $map:02020063$
+
+###102 key=21231060-Fieldwar02- field=complete
+KO|"$map:02020063$"에서 나의 마지막 일격으로 $npc:25100209$ {0}회 처치
+EN|Landed the final blow on $npc:25100209$ {0} time(s) in $map:02020063$
+
+###103 key=21231061-Kritias_Turka01- field=desc
+KO|"$dungeonTitle:27004001$"에서 나의 마지막 일격으로 $npc:23503003$ {0}회 처치하기
+EN|Defeat $npc:23503003$ {0} times with your final blow in "$dungeonTitle:27004001$"
+
+###104 key=21231061-Kritias_Turka01- field=complete
+KO|"$dungeonTitle:27004001$"에서 나의 마지막 일격으로 $npc:23503003$ {0}회 처치
+EN|Defeated $npc:23503003$ {0} times with your final blow in "$dungeonTitle:27004001$"
+
+###105 key=21231062-Kritias_Turka02- field=desc
+KO|"$dungeonTitle:27005001$"에서 나의 마지막 일격으로 $npc:23504101$ {0}회 처치하기
+EN|Defeat $npc:23504101$ {0} times with your final blow in "$dungeonTitle:27005001$"
+
+###106 key=21231062-Kritias_Turka02- field=complete
+KO|"$dungeonTitle:27005001$"에서 나의 마지막 일격으로 $npc:23504101$ {0}회 처치
+EN|Defeated $npc:23504101$ {0} times with your final blow in "$dungeonTitle:27005001$"
+
+###107 key=21231063-Kritias_Turka03- field=desc
+KO|"$dungeonTitle:27006001$"에서 나의 마지막 일격으로 $npc:23000122$ {0}회 처치하기
+EN|Defeat $npc:23000122$ {0} times with your final blow in "$dungeonTitle:27006001$"
+
+###108 key=21231063-Kritias_Turka03- field=complete
+KO|"$dungeonTitle:27006001$"에서 나의 마지막 일격으로 $npc:23000122$ {0}회 처치
+EN|Defeated $npc:23000122$ {0} times with your final blow in "$dungeonTitle:27006001$"
+
+###109 key=21233018-Zakum01- field=desc
+KO|$npc:23000071$의 손바닥에 짓눌려 {0}번 찌그러지기
+EN|Get flattened by $npc:23000071$'s palm {0} time(s)
+
+###110 key=21233018-Zakum01- field=complete
+KO|지금까지 $npc:23000071$의 손바닥에 짓눌려 {0}번 찌그러짐
+EN|Got flattened by $npc:23000071$'s palm {0} time(s)
+
+###111 key=21233019-Zakum01- field=desc
+KO|$npc:23000071$에게서 죽음의 선고 {0}번 받기
+EN|Receive $npc:23000071$'s death sentence {0} time(s)
+
+###112 key=21233019-Zakum01- field=complete
+KO|지금까지 $npc:23000071$에게서 죽음의 선고 {0}번 받기
+EN|Received $npc:23000071$'s death sentence {0} time(s)
+
+###113 key=21233021-Gigantica01- field=desc
+KO|$npc:23001001$에게 맞아 {0}번 내동댕이 처지기
+EN|Get sent flying by $npc:23001001$ {0} time(s)
+
+###114 key=21233021-Gigantica01- field=complete
+KO|지금까지 $npc:23001001$에게 맞아 {0}번 내동댕이 처짐
+EN|Got sent flying by $npc:23001001$ {0} time(s)
+
+###115 key=21400040-Kritias02- field=desc
+KO|크리티아스 식물을 집어 던져 공격 {0}회 하기
+EN|Attack by picking up and throwing Kritias plants {0} times
+
+###116 key=21400040-Kritias02- field=complete
+KO|지금까지 크리티아스 식물을 집어 던져 공격 {0}회!
+EN|Attacked by picking up and throwing Kritias plants {0} times so far!
+
+###117 key=21400041-Kritias02- field=desc
+KO|에네르 수레를 날려 공격 {0}회 하기
+EN|Attack by launching Ener carts {0} times
+
+###118 key=21400041-Kritias02- field=complete
+KO|에네르 수레를 날려 공격 {0}회!
+EN|Attacked by launching Ener carts {0} times!
+
+###119 key=21400042-Kritias02- field=desc
+KO|시한 폭탄을 던져 공격 {0}회 하기
+EN|Attack by throwing time bombs {0} times
+
+###120 key=21400042-Kritias02- field=complete
+KO|시한 폭탄을 던져 공격 {0}회!
+EN|Attacked by throwing time bombs {0} times!
+
+###121 key=21400043-Kritias02- field=desc
+KO|에네르 가로등을 휘둘러 공격 {0}회 하기
+EN|Attack by swinging Ener streetlights {0} times
+
+###122 key=21400043-Kritias02- field=complete
+KO|에네르 가로등을 휘둘러 공격 {0}회!
+EN|Attacked by swinging Ener streetlights {0} times!
+
+###123 key=22200394-ShadowExpedition- field=desc
+KO|모험[일반] : $map:03100000$를 {0}회 정복하기
+EN|Adventure [Normal]: Conquer $map:03100000$ {0} times
+
+###124 key=22200394-ShadowExpedition- field=complete
+KO|모험[일반] : $map:03100000$를 {0}회 정복
+EN|Adventure [Normal]: Conquered $map:03100000$ {0} times
+
+###125 key=22200466-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020001$
+
+###126 key=22200466-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020001$
+
+###127 key=22200467-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020003$
+
+###128 key=22200467-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020003$
+
+###129 key=22200468-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020004$
+
+###130 key=22200468-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020004$
+
+###131 key=22200469-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020006$
+
+###132 key=22200469-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020006$
+
+###133 key=22200470-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020008$
+
+###134 key=22200470-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020008$
+
+###135 key=22200471-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020009$
+
+###136 key=22200471-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020009$
+
+###137 key=22200472-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020010$
+
+###138 key=22200472-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020010$
+
+###139 key=22200473-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020013$
+
+###140 key=22200473-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020013$
+
+###141 key=22200474-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020014$
+
+###142 key=22200474-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020014$
+
+###143 key=22200475-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020016$
+
+###144 key=22200475-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020016$
+
+###145 key=22200476-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020017$
+
+###146 key=22200476-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020017$
+
+###147 key=22200477-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020018$
+
+###148 key=22200477-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020018$
+
+###149 key=22200478-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020029$
+
+###150 key=22200478-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020029$
+
+###151 key=22200479-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020030$
+
+###152 key=22200479-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020030$
+
+###153 key=22200480-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020031$
+
+###154 key=22200480-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020031$
+
+###155 key=22200481-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020032$
+
+###156 key=22200481-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020032$
+
+###157 key=22200482-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020033$
+
+###158 key=22200482-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020033$
+
+###159 key=22200483-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020034$
+
+###160 key=22200483-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020034$
+
+###161 key=22200484-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020035$
+
+###162 key=22200484-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020035$
+
+###163 key=22200485-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020036$
+
+###164 key=22200485-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020036$
+
+###165 key=22200486-Kritias_2018_12- field=manualDesc
+KO|
+EN|Open the golden treasure chests in $map:02020037$
+
+###166 key=22200486-Kritias_2018_12- field=manualComplete
+KO|
+EN|Opened the golden treasure chests in $map:02020037$
+
+###167 key=22200488-Kritias_2018_12- field=manualDesc
+KO|
+EN|Discover $map:02020041$
+
+###168 key=22200488-Kritias_2018_12- field=manualComplete
+KO|
+EN|Discovered $map:02020041$
+
+###169 key=22200489-Kritias_2018_12- field=manualDesc
+KO|
+EN|Discover $map:02020030$
+
+###170 key=22200489-Kritias_2018_12- field=manualComplete
+KO|
+EN|Discovered $map:02020030$
+
+###171 key=22200490-Kritias_2018_12- field=desc
+KO|크리티아스의 키델 지역 맵 {0}개 탐험하기
+EN|Explore {0} Kidel maps in Kritias
+
+###172 key=22200490-Kritias_2018_12- field=complete
+KO|지금까지 크리티아스의 키델 지역 맵 {0}개 탐험
+EN|Explored {0} Kidel maps in Kritias
+
+###173 key=22200492-Kritias_2018_12- field=desc
+KO|크리티아스의 키델 지역 탐험 목표 {0}개 완료하기
+EN|Complete {0} Kidel exploration goal(s)
+
+###174 key=22200492-Kritias_2018_12- field=complete
+KO|지금까지 크리티아스의 키델 지역 탐험 목표 {0}개 완료
+EN|Completed {0} Kidel exploration goal(s)
+
+###175 key=22210046-Kritias_2018_12- field=desc
+KO|$map:80000017$에서 큰 광석 {0}개 조사
+EN|Examine {0} large ore vein(s) in $map:80000017$
+
+###176 key=22210046-Kritias_2018_12- field=complete
+KO|지금까지 $map:80000017$에서 큰 광석 {0}개 조사
+EN|Examined {0} large ore vein(s) in $map:80000017$
+
+###177 key=22210047-Kritias_2018_12- field=desc
+KO|$map:80000018$에서 큰 꽃  {0}개 조사
+EN|Examine {0} large flower(s) in $map:80000018$
+
+###178 key=22210047-Kritias_2018_12- field=complete
+KO|지금까지 $map:80000017$에서 큰 꽃 {0}개 조사
+EN|Examined {0} large flower(s) in $map:80000018$
+
+###179 key=22210048-Kritias_2018_12- field=desc
+KO|$map:80000019$에서 큰 애벌레 {0}개 조사
+EN|Examine {0} larva(e) in $map:80000019$
+
+###180 key=22210048-Kritias_2018_12- field=complete
+KO|지금까지 $map:80000017$에서 큰 애벌레 {0}개 조사
+EN|Examined {0} larva(e) in $map:80000019$
+
+###181 key=22210049-Kritias_2018_12- field=desc
+KO|$map:80000020$에서 큰 허브 {0}개 조사
+EN|Examine {0} large herb(s) in $map:80000020$
+
+###182 key=22210049-Kritias_2018_12- field=complete
+KO|지금까지 $map:80000017$에서 큰 허브 {0}개 조사
+EN|Examined {0} large herb(s) in $map:80000020$
+
+###183 key=22210050-Kritias_2018_12- field=desc
+KO|크리티아스 보너스맵의 자원 {0} 획득
+EN|Obtain {0} resource(s) in Kritias bonus maps
+
+###184 key=22210050-Kritias_2018_12- field=complete
+KO|지금까지 크리티아스 보너스맵의 자원 {0} 획득
+EN|Obtained {0} resource(s) in Kritias bonus maps
+
+###185 key=22300138-Kritias_Epic01- field=manualDesc
+KO|
+EN|Complete the chapter "Strange New World, Kritias"
+
+###186 key=22300138-Kritias_Epic01- field=manualComplete
+KO|
+EN|Completed the chapter "Strange New World, Kritias"
+
+###187 key=22501001-Kritias_2018_12- field=manualDesc
+KO|
+EN|Be Trusted by any Sky Fortress Kritias faction
+
+###188 key=22501001-Kritias_2018_12- field=manualComplete
+KO|
+EN|Trusted by a Sky Fortress Kritias faction
+
+###189 key=22501002-Kritias_2018_12- field=manualDesc
+KO|
+EN|Be Respected by any Sky Fortress Kritias faction
+
+###190 key=22501002-Kritias_2018_12- field=manualComplete
+KO|
+EN|Respected by a Sky Fortress Kritias faction
+
+###191 key=22501003-Kritias_2018_12- field=manualDesc
+KO|
+EN|Be Beloved by any Sky Fortress Kritias faction
+
+###192 key=22501003-Kritias_2018_12- field=manualComplete
+KO|
+EN|Beloved by a Sky Fortress Kritias faction
+
+###193 key=22501004-Kritias_2018_12- field=manualDesc
+KO|
+EN|Be Revered by any Sky Fortress Kritias faction
+
+###194 key=22501004-Kritias_2018_12- field=manualComplete
+KO|
+EN|Revered by a Sky Fortress Kritias faction
+
+###195 key=22501005-Kritias_2018_12- field=manualDesc
+KO|
+EN|Be Trusted by the Kritias Maple Alliance
+
+###196 key=22501005-Kritias_2018_12- field=manualComplete
+KO|
+EN|Trusted by the Kritias Maple Alliance
+
+###197 key=22501006-Kritias_2018_12- field=manualDesc
+KO|
+EN|Be Respected by the Kritias Maple Alliance
+
+###198 key=22501006-Kritias_2018_12- field=manualComplete
+KO|
+EN|Respected by the Kritias Maple Alliance
+
+###199 key=22501007-Kritias_2018_12- field=manualDesc
+KO|
+EN|Be Beloved by the Kritias Maple Alliance
+
+###200 key=22501007-Kritias_2018_12- field=manualComplete
+KO|
+EN|Beloved by the Kritias Maple Alliance
+
+###201 key=22501008-Kritias_2018_12- field=manualDesc
+KO|
+EN|Be Revered by the Kritias Maple Alliance
+
+###202 key=22501008-Kritias_2018_12- field=manualComplete
+KO|
+EN|Revered by the Kritias Maple Alliance
+
+###203 key=22501009-Kritias_2018_12- field=manualDesc
+KO|
+EN|Be Trusted by the Kritias Green Hoods
+
+###204 key=22501009-Kritias_2018_12- field=manualComplete
+KO|
+EN|Trusted by the Kritias Green Hoods
+
+###205 key=22501010-Kritias_2018_12- field=manualDesc
+KO|
+EN|Be Respected by the Kritias Green Hoods
+
+###206 key=22501010-Kritias_2018_12- field=manualComplete
+KO|
+EN|Respected by the Kritias Green Hoods
+
+###207 key=22501011-Kritias_2018_12- field=manualDesc
+KO|
+EN|Be Beloved by the Kritias Green Hoods
+
+###208 key=22501011-Kritias_2018_12- field=manualComplete
+KO|
+EN|Beloved by the Kritias Green Hoods
+
+###209 key=22501012-Kritias_2018_12- field=manualDesc
+KO|
+EN|Be Revered by the Kritias Green Hoods
+
+###210 key=22501012-Kritias_2018_12- field=manualComplete
+KO|
+EN|Revered by the Kritias Green Hoods
+
+###211 key=22501013-Kritias_2018_12- field=manualDesc
+KO|
+EN|Be Trusted by the Kritias Lumiknights
+
+###212 key=22501013-Kritias_2018_12- field=manualComplete
+KO|
+EN|Trusted by the Kritias Lumiknights
+
+###213 key=22501014-Kritias_2018_12- field=manualDesc
+KO|
+EN|Be Respected by the Kritias Lumiknights
+
+###214 key=22501014-Kritias_2018_12- field=manualComplete
+KO|
+EN|Respected by the Kritias Lumiknights
+
+###215 key=22501015-Kritias_2018_12- field=manualDesc
+KO|
+EN|Be Beloved by the Kritias Lumiknights
+
+###216 key=22501015-Kritias_2018_12- field=manualComplete
+KO|
+EN|Beloved by the Kritias Lumiknights
+
+###217 key=22501016-Kritias_2018_12- field=manualDesc
+KO|
+EN|Be Revered by the Kritias Lumiknights
+
+###218 key=22501016-Kritias_2018_12- field=manualComplete
+KO|
+EN|Revered by the Kritias Lumiknights
+
+###219 key=22501017-Kritias_2018_12- field=desc
+KO|[크리티아스] D급 임무 {0}회 수행하기
+EN|Complete {0} Kritias D Rank mission(s)
+
+###220 key=22501017-Kritias_2018_12- field=complete
+KO|[크리티아스] D급 임무 {0}회 수행 완료
+EN|Completed {0} Kritias D Rank mission(s)
+
+###221 key=22501018-Kritias_2018_12- field=desc
+KO|[크리티아스] C급 임무 {0}회 수행하기
+EN|Complete {0} Kritias C Rank mission(s)
+
+###222 key=22501018-Kritias_2018_12- field=complete
+KO|[크리티아스] C급 임무 {0}회 수행 완료
+EN|Completed {0} Kritias C Rank mission(s)
+
+###223 key=22501019-Kritias_2018_12- field=desc
+KO|[크리티아스] B급 임무 {0}회 수행하기
+EN|Complete {0} Kritias B Rank mission(s)
+
+###224 key=22501019-Kritias_2018_12- field=complete
+KO|[크리티아스] B급 임무 {0}회 수행 완료
+EN|Completed {0} Kritias B Rank mission(s)
+
+###225 key=22501020-Kritias_2018_12- field=desc
+KO|[크리티아스] A급 임무 {0}회 수행하기
+EN|Complete {0} Kritias A Rank mission(s)
+
+###226 key=22501020-Kritias_2018_12- field=complete
+KO|[크리티아스] A급 임무 {0}회 수행 완료
+EN|Completed {0} Kritias A Rank mission(s)
+
+###227 key=22501021-Kritias_2018_12- field=desc
+KO|[크리티아스] S급 임무 또는 특수임무 {0}회 수행하기
+EN|Complete {0} Kritias S Rank mission(s) or special mission(s)
+
+###228 key=22501021-Kritias_2018_12- field=complete
+KO|[크리티아스] S급 임무 또는 특수임무 {0}회 수행 완료
+EN|Completed {0} Kritias S Rank mission(s) or special mission(s)
+
+###229 key=22501022-Kritias_2018_12- field=manualDesc
+KO|
+EN|Complete the Kritias Maple Alliance special mission "$quest:91000130$"
+
+###230 key=22501022-Kritias_2018_12- field=manualComplete
+KO|
+EN|Completed the Kritias Maple Alliance special mission "$quest:91000130$"
+
+###231 key=22501023-Kritias_2018_12- field=manualDesc
+KO|
+EN|Complete the Kritias Maple Alliance special mission "$quest:91000190$"
+
+###232 key=22501023-Kritias_2018_12- field=manualComplete
+KO|
+EN|Completed the Kritias Maple Alliance special mission "$quest:91000190$"
+
+###233 key=22501024-Kritias_2018_12- field=manualDesc
+KO|
+EN|Complete the Kritias Maple Alliance special mission "$quest:91000250$"
+
+###234 key=22501024-Kritias_2018_12- field=manualComplete
+KO|
+EN|Completed the Kritias Maple Alliance special mission "$quest:91000250$"
+
+###235 key=22501025-Kritias_Inferno01- field=manualDesc
+KO|
+EN|Complete the Kritias Maple Alliance special mission "$quest:91000310$"
+
+###236 key=22501025-Kritias_Inferno01- field=manualComplete
+KO|
+EN|Completed the Kritias Maple Alliance special mission "$quest:91000310$"
+
+###237 key=22501026-Kritias_Inferno01- field=manualDesc
+KO|
+EN|Complete the Kritias Maple Alliance special mission "$quest:91000370$"
+
+###238 key=22501026-Kritias_Inferno01- field=manualComplete
+KO|
+EN|Completed the Kritias Maple Alliance special mission "$quest:91000370$"
+
+###239 key=22501027-Kritias_2018_12- field=manualDesc
+KO|
+EN|Complete the Kritias Green Hoods special mission "$quest:91000730$"
+
+###240 key=22501027-Kritias_2018_12- field=manualComplete
+KO|
+EN|Completed the Kritias Green Hoods special mission "$quest:91000730$"
+
+###241 key=22501028-Kritias_2018_12- field=manualDesc
+KO|
+EN|Complete the Kritias Green Hoods special mission "$quest:91000790$"
+
+###242 key=22501028-Kritias_2018_12- field=manualComplete
+KO|
+EN|Completed the Kritias Green Hoods special mission "$quest:91000790$"
+
+###243 key=22501029-Kritias_2018_12- field=manualDesc
+KO|
+EN|Complete the Kritias Green Hoods special mission "$quest:91000850$"
+
+###244 key=22501029-Kritias_2018_12- field=manualComplete
+KO|
+EN|Completed the Kritias Green Hoods special mission "$quest:91000850$"
+
+###245 key=22501030-Kritias_2018_12- field=manualDesc
+KO|
+EN|Complete the Kritias Green Hoods special mission "$quest:91000910$"
+
+###246 key=22501030-Kritias_2018_12- field=manualComplete
+KO|
+EN|Completed the Kritias Green Hoods special mission "$quest:91000910$"
+
+###247 key=22501031-Kritias_2018_12- field=manualDesc
+KO|
+EN|Complete the Kritias Green Hoods special mission "$quest:91000970$"
+
+###248 key=22501031-Kritias_2018_12- field=manualComplete
+KO|
+EN|Completed the Kritias Green Hoods special mission "$quest:91000970$"
+
+###249 key=22501032-Kritias_2018_12- field=manualDesc
+KO|
+EN|Complete the Kritias Lumiknights special mission "$quest:91000420$"
+
+###250 key=22501032-Kritias_2018_12- field=manualComplete
+KO|
+EN|Completed the Kritias Lumiknights special mission "$quest:91000420$"
+
+###251 key=22501033-Kritias_2018_12- field=manualDesc
+KO|
+EN|Complete the Kritias Lumiknights special mission "$quest:91000490$"
+
+###252 key=22501033-Kritias_2018_12- field=manualComplete
+KO|
+EN|Completed the Kritias Lumiknights special mission "$quest:91000490$"
+
+###253 key=22501034-Kritias_2018_12- field=manualDesc
+KO|
+EN|Complete the Kritias Lumiknights special mission "$quest:91000550$"
+
+###254 key=22501034-Kritias_2018_12- field=manualComplete
+KO|
+EN|Completed the Kritias Lumiknights special mission "$quest:91000550$"
+
+###255 key=22501035-Kritias_2018_12- field=manualDesc
+KO|
+EN|Complete the Kritias Lumiknights special mission "$quest:91000610$"
+
+###256 key=22501035-Kritias_2018_12- field=manualComplete
+KO|
+EN|Completed the Kritias Lumiknights special mission "$quest:91000610$"
+
+###257 key=22501036-Kritias_Zakum01- field=manualDesc
+KO|
+EN|Complete the Kritias Lumiknights special mission "$quest:91000670$"
+
+###258 key=22501036-Kritias_Zakum01- field=manualComplete
+KO|
+EN|Completed the Kritias Lumiknights special mission "$quest:91000670$"
+
+###259 key=22501042-Kritias_2018_12- field=desc
+KO|[크리티아스] 모든 세력의 "영웅" 등급 특수임무를 모두 완료
+EN|Complete every special mission Revered by all [Kritias] factions
+
+###260 key=22501042-Kritias_2018_12- field=complete
+KO|[크리티아스] 모든 세력의 "영웅" 등급 특수임무를 모두 완료
+EN|Completed all Revered special missions for all Kritias factions
+
+###261 key=22501042-Kritias_2018_12- field=manualDesc
+KO|
+EN|Completed all Revered special missions for all Kritias factions
+
+###262 key=22501042-Kritias_2018_12- field=manualComplete
+KO|
+EN|Completed all Revered special missions for all Kritias factions
+
+###263 key=22501043-Kritias_2018_12- field=desc
+KO|$item:20302354$ {0}회 열기
+EN|Open {0} $itemPlural:20302354$
+
+###264 key=22501043-Kritias_2018_12- field=complete
+KO|$item:20302354$ {0}회 열기
+EN|Opened {0} $itemPlural:20302354$
+
+###265 key=22501045-Fame_Geo01- field=desc
+KO|게오르크 B급 임무 {0}회 수행하기
+EN|Complete Georg B-rank missions {0} times
+
+###266 key=22501045-Fame_Geo01- field=complete
+KO|게오르크 B급 임무 {0}회 수행 완료
+EN|Completed Georg B-rank missions {0} times
+
+###267 key=22501046-Fame_Geo01- field=desc
+KO|게오르크 A급 임무 {0}회 수행하기
+EN|Complete Georg A-rank missions {0} times
+
+###268 key=22501046-Fame_Geo01- field=complete
+KO|게오르크 A급 임무 {0}회 수행 완료
+EN|Completed Georg A-rank missions {0} times
+
+###269 key=22501047-Fame_Geo01- field=desc
+KO|게오르크 S급 임무 {0}회 수행하기
+EN|Complete Georg S-rank missions {0} times
+
+###270 key=22501047-Fame_Geo01- field=complete
+KO|게오르크 S급 임무 {0}회 수행 완료
+EN|Completed Georg S-rank missions {0} times
+
+###271 key=23100216-CharacterAbility- field=desc
+KO|캐릭터 특성에 특성 포인트 {0}점 사용하기
+EN|Spend {0} trait points on character traits
+
+###272 key=23100216-CharacterAbility- field=complete
+KO|지금까지 캐릭터 특성에 특성 포인트 {0}점 사용
+EN|Spent {0} trait points on character traits so far
+
+###273 key=23100217-CharacterAbility- field=desc
+KO|전투 특성에 특성 포인트 {0}점 사용하기
+EN|Spend {0} trait points on combat traits
+
+###274 key=23100217-CharacterAbility- field=complete
+KO|지금까지 전투 특성에 특성 포인트 {0}점 사용
+EN|Spent {0} trait points on combat traits so far
+
+###275 key=23100218-CharacterAbility- field=desc
+KO|모험 특성에 특성 포인트 {0}점 사용하기
+EN|Spend {0} trait points on adventure traits
+
+###276 key=23100218-CharacterAbility- field=complete
+KO|지금까지 모험 특성에 특성 포인트 {0}점 사용
+EN|Spent {0} trait points on adventure traits so far
+
+###277 key=23100219-CharacterAbility- field=desc
+KO|퀘스트 특성에 특성 포인트 {0}점 사용하기
+EN|Spend {0} trait points on quest traits
+
+###278 key=23100219-CharacterAbility- field=complete
+KO|지금까지 퀘스트 특성에 특성 포인트 {0}점 사용
+EN|Spent {0} trait points on quest traits so far
+
+###279 key=23100220-CharacterAbility- field=desc
+KO|생활 특성에 특성 포인트 {0}점 사용하기
+EN|Spend {0} trait points on lifestyle traits
+
+###280 key=23100220-CharacterAbility- field=complete
+KO|지금까지 생활 특성에 특성 포인트 {0}점 사용
+EN|Spent {0} trait points on lifestyle traits so far
+
+###281 key=23100221-CharacterAbility- field=desc
+KO|특성 초기화 {0}회 하기
+EN|Reset traits {0} times
+
+###282 key=23100221-CharacterAbility- field=complete
+KO|지금까지 특성 초기화 {0}회
+EN|Reset traits {0} times so far
+
+###283 key=23100290-KarmaTokenItem01- field=desc
+KO|딥 다크 악기 트로피 {0}개 모으기
+EN|Collect {0} Deep Dark instrument trophies
+
+###284 key=23100290-KarmaTokenItem01- field=complete
+KO|딥 다크 악기 트로피 {0}개 수집!
+EN|Collected {0} Deep Dark instrument trophies!
+
+###285 key=23100343-Fishing02- field=manualDesc
+KO|
+EN|Become a Pro Angler
+
+###286 key=23100343-Fishing02- field=manualComplete
+KO|
+EN|Became a Pro Angler
+
+###287 key=23100344-Fishing02- field=manualDesc
+KO|
+EN|Become a Champion Angler
+
+###288 key=23100344-Fishing02- field=manualComplete
+KO|
+EN|Became a Champion Angler
+
+###289 key=23100345-Fishing02- field=desc
+KO|크리티아스에서 낚시로 물고기 {0}마리 낚기
+EN|Catch {0} fish in Kritias
+
+###290 key=23100345-Fishing02- field=complete
+KO|크리티아스에서 낚시로 물고기 {0}마리 낚음!
+EN|Caught {0} fish in Kritias
+
+###291 key=23100346-Fishing02- field=desc
+KO|낚시로 울어 {0}마리 낚기
+EN|Catch {0} Sobfish
+
+###292 key=23100346-Fishing02- field=complete
+KO|낚시로 울어 {0}마리 낚음!
+EN|Caught {0} Sobfish
+
+###293 key=23100347-Fishing02- field=desc
+KO|낚시로 활어 {0}마리 낚기
+EN|Catch {0} Bow Fish
+
+###294 key=23100347-Fishing02- field=complete
+KO|낚시로 활어 {0}마리 낚음!
+EN|Caught {0} Bow Fish
+
+###295 key=23100348-Fishing02- field=manualDesc
+KO|
+EN|Purchase $item:32000054$ from the Fisherman's Shop
+
+###296 key=23100348-Fishing02- field=manualComplete
+KO|
+EN|Purchased $item:332000054$ from the Fisherman's Shop
+
+###297 key=23100349-Fishing02- field=desc
+KO|낚시로 블루 엔젤 피쉬 {0}마리 낚기
+EN|Catch {0} Seraph Fish
+
+###298 key=23100349-Fishing02- field=complete
+KO|낚시로 블루 엔젤 피쉬 {0}마리 낚음!
+EN|Caught {0} Seraph Fish
+
+###299 key=23100350-Fishing02- field=desc
+KO|낚시로 블루밍 플라워 피쉬 {0}마리 낚기
+EN|Catch {0} Blooming/Floral Puffling
+
+###300 key=23100350-Fishing02- field=complete
+KO|낚시로 블루밍 플라워 피쉬 {0}마리 낚음!
+EN|Caught {0} Blooming/Floral Puffling
+
+###301 key=23100351-Fishing02- field=desc
+KO|낚시로 블루 젤리 새우 월척 {0}회 낚기
+EN|Catch a prize Blue Jelly Shrimp {0} time(s)
+
+###302 key=23100351-Fishing02- field=complete
+KO|낚시로 블루 젤리 새우 월척 {0}회 낚기 성공
+EN|Caught a prize Blue Jelly Shrimp {0} time(s)
+
+###303 key=23100352-Fishing02- field=desc
+KO|낚시로 에네르 피쉬 {0}마리 낚기
+EN|Catch {0} Aetherine Fish
+
+###304 key=23100352-Fishing02- field=complete
+KO|낚시로 에네르 {0}마리 낚음!
+EN|Caught {0} Aetherine Fish
+
+###305 key=23100357-Fishing02- field=desc
+KO|낚시로 부끄러어 월척 {0}회 낚기
+EN|Catch a prize Shamefish {0} time(s)
+
+###306 key=23100357-Fishing02- field=complete
+KO|낚시로 부끄러어 월척 {0}회 낚기 성공
+EN|Caught a prize Shamefish {0} time(s)
+
+###307 key=23100358-Fishing02- field=manualDesc
+KO|
+EN|Purchase $item:32000055$ from the Fisherman's Shop
+
+###308 key=23100358-Fishing02- field=manualComplete
+KO|
+EN|Purchased $item:32000055$ from the Fisherman's Shop
+
+###309 key=23100359-Fishing02- field=desc
+KO|낚시로 리프 젤리피쉬 {0}마리 낚기
+EN|Catch {0} Leaf Jellyfish
+
+###310 key=23100359-Fishing02- field=complete
+KO|낚시로 리프 젤리피쉬 {0}마리 낚음!
+EN|Caught {0} Leaf Jellyfish
+
+###311 key=23100360-Fishing02- field=desc
+KO|낚시로 프릴리아 월척 {0}회 낚기
+EN|Catch a prize Frillia {0} time(s)
+
+###312 key=23100360-Fishing02- field=complete
+KO|낚시로 프릴리아 월척 {0}회 낚기 성공
+EN|Caught a prize Frillia {0} time(s)
+
+###313 key=23100361-Fishing02- field=desc
+KO|낚시로 보석 물고기 {0}마리 낚기
+EN|Catch {0} Jewel Fish
+
+###314 key=23100361-Fishing02- field=complete
+KO|낚시로 보석 물고기 {0}마리 낚음!
+EN|Caught {0} Jewel Fish
+
+###315 key=23100362-Fishing02- field=desc
+KO|독 청새치를 대형으로 낚아 금메달 획득하기
+EN|Obtain a gold medal by catching a big Toxic Marlin
+
+###316 key=23100362-Fishing02- field=complete
+KO|독 청새치를 대형으로 낚아 금메달 획득
+EN|Obtained a gold medal by catching a big Toxic Marlin
+
+###317 key=23100363-Fishing02- field=desc
+KO|낚시로 캐슬 피쉬 {0}마리 낚기
+EN|Catch {0} Castle Fish
+
+###318 key=23100363-Fishing02- field=complete
+KO|낚시로 캐슬 피쉬 {0}마리 낚음!
+EN|Caught {0} Castle Fish
+
+###319 key=23100364-Fishing02- field=desc
+KO|낚시로 쏘우 헤드 또는 테일 헤드 {0}마리 낚기
+EN|Catch a Saw Head or Tail Head {0} time(s)
+
+###320 key=23100364-Fishing02- field=complete
+KO|낚시로 쏘우 헤드 또는 테일 헤드 {0}마리 낚음!
+EN|Caught a Saw Head or Tail Head {0} time(s)
+
+###321 key=23100365-Fishing02- field=desc
+KO|낚시로 부레옥잠 월척 {0}회 낚기
+EN|Catch a prize Water Hyacinth {0} time(s)
+
+###322 key=23100365-Fishing02- field=complete
+KO|낚시로 부레옥잠 월척 {0}회 낚기 성공
+EN|Caught a prize Water Hyacinth {0} time(s)
+
+###323 key=23100366-Fishing02- field=desc
+KO|낚시로 무지개 해마 {0}마리 낚기
+EN|Catch Rainbow Seahorse {0} time(s)
+
+###324 key=23100366-Fishing02- field=complete
+KO|낚시로 무지개 해마 {0}마리 낚음!
+EN|Caught Rainbow Seahorse {0} time(s)
+
+###325 key=23100367-Fishing02- field=desc
+KO|크리티아스 에메랄드 물에서 월척 {0}회 낚기
+EN|Catch {0} prize fish in the emerald waters of Kritias
+
+###326 key=23100367-Fishing02- field=complete
+KO|크리티아스 에메랄드 물에서 월척 {0}회 낚기 성공
+EN|Caught {0} prize fish in the emerald waters of Kritias
+
+###327 key=23100368-Fishing02- field=desc
+KO|식물을 닮은 물고기들 낚기
+EN|Catch plant-like fish
+
+###328 key=23100368-Fishing02- field=complete
+KO|식물을 닮은 물고기들 낚기 성공
+EN|Caught plant-like fish
+
+###329 key=23100369-Fishing02- field=desc
+KO|크리티아스 서식 어종 금메달 수집하기 (쏘우 헤드, 테일 헤드, 캐슬 피쉬 제외)
+EN|Collect gold medals for all the fish of Kritias (excluding Saw Head, Tail Head, and Castle Fish)
+
+###330 key=23100369-Fishing02- field=complete
+KO|크리티아스에 서식 어종 금메달 수집 완료!
+EN|Collected gold medals for all the fish of Kritias
+
+###331 key=23100371-Fishing02- field=desc
+KO|분홍 점박이 해파리를 대형으로 낚아 금메달 획득하기
+EN|Obtain a gold medal by catching a big Pink Spotted Jellyfish
+
+###332 key=23100371-Fishing02- field=complete
+KO|분홍 점박이 해파리를 대형으로 낚아 금메달 획득
+EN|Obtained a gold medal by catching a big Pink Spotted Jellyfish
+
+###333 key=23100372-Fishing02- field=desc
+KO|낚시 상점에서 $item:11301371$ 스킨 구입하기
+EN|Purchase $item:11301371$ from the Fisherman's Shop
+
+###334 key=23100372-Fishing02- field=complete
+KO|낚시 상점에서 $item:11301371$ 스킨 구입 완료!
+EN|Purchased $item:11301371$ from the Fisherman's Shop
+
+###335 key=23100373-Fishing02- field=desc
+KO|낚시로 데빌 슬라임 피쉬 월척 {0}회 낚기
+EN|Catch a prize Devil Slime Fish {0} time(s)
+
+###336 key=23100373-Fishing02- field=complete
+KO|낚시로 데빌 슬라임 피쉬 월척 {0}회 낚기 성공
+EN|Caught a prize Devil Slime Fish {0} time(s)
+
+###337 key=23100377-Gigantica01- field=desc
+KO|펫 도감에 $item:61100100$ 등록하기
+EN|Add $item:61100100$ to your Pet Album
+
+###338 key=23100377-Gigantica01- field=complete
+KO|펫 도감에 $item:61100100$ 등록 완료
+EN|Added $item:61100100$ to your Pet Album
+
+###339 key=23100378-Pet_70Lv_Taming- field=desc
+KO|$item:61000154$, $item:61000160$, $item:61000161$ 각각 획득하기
+EN|Obtain $item:61000154$, $item:61000160$, and $item:61000161$
+
+###340 key=23100378-Pet_70Lv_Taming- field=complete
+KO|$item:61000154$, $item:61000160$, $item:61000161$ 각각 획득 완료
+EN|Obtained $item:61000154$, $item:61000160$, and $item:61000161$
+
+###341 key=23100379-Pet_70Lv_Taming- field=desc
+KO|$item:61000165$, $item:61000170$ 각각 획득하기
+EN|Obtain $item:61000165$ and $item:61000170$
+
+###342 key=23100379-Pet_70Lv_Taming- field=complete
+KO|$item:61000165$, $item:61000170$ 각각 획득 완료
+EN|Obtained $item:61000165$ and $item:61000170$
+
+###343 key=23100380-Pet_70Lv_Taming- field=desc
+KO|$item:61000163$, $item:61000166$ 각각 획득하기
+EN|Obtain $item:61000163$ and $item:61000166$
+
+###344 key=23100380-Pet_70Lv_Taming- field=complete
+KO|$item:61000163$, $item:61000166$ 각각 획득 완료
+EN|Obtained $item:61000163$ and $item:61000166$
+
+###345 key=23100381-Pet_70Lv_Taming- field=desc
+KO|$item:61000158$, $item:61000159$, $item:61000168$ 각각 획득하기
+EN|Obtain $item:61000158$, $item:61000159$, and $item:61000168$
+
+###346 key=23100381-Pet_70Lv_Taming- field=complete
+KO|$item:61000158$, $item:61000159$, $item:61000168$ 각각 획득 완료
+EN|Obtained $item:61000158$, $item:61000159$, and $item:61000168$
+
+###347 key=23100382-Pet_70Lv_Taming- field=desc
+KO|$item:61000157$, $item:61000167$, $item:61000153$ 각각 획득하기
+EN|Obtain $item:61000157$, $item:61000167$, and $item:61000153$
+
+###348 key=23100382-Pet_70Lv_Taming- field=complete
+KO|$item:61000157$, $item:61000167$, $item:61000153$ 각각 획득 완료
+EN|Obtained $item:61000157$, $item:61000167$, and $item:61000153$
+
+###349 key=23100421-Wedding- field=desc
+KO|약혼 {0}회 하기
+EN|Become engaged {0} times
+
+###350 key=23100421-Wedding- field=complete
+KO|약혼 {0}회 하기 완료
+EN|Become engaged {0} times
+
+###351 key=23100422-Wedding- field=desc
+KO|프로포즈 {0}회 거절당하기
+EN|Reject a proposal {0} times
+
+###352 key=23100422-Wedding- field=complete
+KO|프로포즈 {0}회 거절당하기 완료
+EN|Reject a proposal {0} times
+
+###353 key=23100423-Wedding- field=desc
+KO|프로포즈 {0}회 거절하기
+EN|Get rejected from a proposal {0} times
+
+###354 key=23100423-Wedding- field=complete
+KO|프로포즈 {0}회 거절하기 완료
+EN|Got rejected from a proposal {0} times
+
+###355 key=23100424-Wedding- field=desc
+KO|결혼식장 예약 {0}회 하기
+EN|Make {0} reservations for a wedding hall
+
+###356 key=23100424-Wedding- field=complete
+KO|결혼식장 예약 {0}회 하기 완료
+EN|{0} Wedding hall reservations completed
+
+###357 key=23100425-Wedding- field=desc
+KO|결혼식장 예약 변경 {0}회 하기
+EN|Change your wedding hall reservation {0} times
+
+###358 key=23100425-Wedding- field=complete
+KO|결혼식장 예약 변경 {0}회 하기 완료
+EN|{0} Wedding hall reservations changed
+
+###359 key=23100427-Wedding- field=desc
+KO|웨딩 플래너 추천 결혼식장 투어 {0}회 하기
+EN|Take a wedding venue tour {0} times
+
+###360 key=23100427-Wedding- field=complete
+KO|웨딩 플래너 추천 결혼식장 투어 {0}회 하기 완료
+EN|Completed {0} wedding venue tours
+
+###361 key=23100428-Wedding- field=desc
+KO|결혼식 {0}회 완료하기
+EN|Complete {0} weddings
+
+###362 key=23100428-Wedding- field=complete
+KO|결혼식 {0}회 완료하기 완료
+EN|{0} Weddings completed
+
+###363 key=23100429-Wedding- field=desc
+KO|$map:84000011$에서 열리는 낮 결혼식에 {0}회 참석하기
+EN|Attend {0} daytime weddings held at $map:84000011$
+
+###364 key=23100429-Wedding- field=complete
+KO|$map:84000011$에서 열리는 낮 결혼식에 {0}회 참석하기 완료
+EN|Attended {0} daytime weddings held at $map:84000011$
+
+###365 key=23100430-Wedding- field=desc
+KO|$map:84000011$에서 열리는 밤 결혼식에 {0}회 참석하기
+EN|Attend {0} night weddings held at $map:84000011$
+
+###366 key=23100430-Wedding- field=complete
+KO|$map:84000011$에서 열리는 밤 결혼식에 {0}회 참석하기 완료
+EN|Attended {0} night weddings held at $map:84000011$
+
+###367 key=23100431-Wedding- field=desc
+KO|$map:84000012$에서 열리는 낮 결혼식에 {0}회 참석하기
+EN|Attend {0} daytime weddings held at $map:84000012$
+
+###368 key=23100431-Wedding- field=complete
+KO|$map:84000012$에서 열리는 낮 결혼식에 {0}회 참석하기 완료
+EN|Attended {0} daytime weddings held at $map:84000012$
+
+###369 key=23100432-Wedding- field=desc
+KO|$map:84000012$에서 열리는 밤 결혼식에 {0}회 참석하기
+EN|Attend {0} night weddings held at $map:84000012$
+
+###370 key=23100432-Wedding- field=complete
+KO|$map:84000012$에서 열리는 밤 결혼식에 {0}회 참석하기 완료
+EN|Attended {0} night weddings held at $map:84000012$
+
+###371 key=23100433-Wedding- field=desc
+KO|$map:84000013$에서 열리는 낮 결혼식에 {0}회 참석하기
+EN|Attend {0} daytime weddings held at $map:84000013$
+
+###372 key=23100433-Wedding- field=complete
+KO|$map:84000013$에서 열리는 낮 결혼식에 {0}회 참석하기 완료
+EN|Attended {0} daytime weddings held at $map:84000013$
+
+###373 key=23100434-Wedding- field=desc
+KO|$map:84000013$에서 열리는 밤 결혼식에 {0}회 참석하기
+EN|Attend {0} night weddings held at $map:84000013$
+
+###374 key=23100434-Wedding- field=complete
+KO|$map:84000013$에서 열리는 밤 결혼식에 {0}회 참석하기 완료
+EN|Attended {0} night weddings held at $map:84000013$
+
+###375 key=23100435-Wedding- field=desc
+KO|$map:84000014$에서 열리는 낮 결혼식에 {0}회 참석하기
+EN|Attend {0} daytime weddings held at $map:84000014$
+
+###376 key=23100435-Wedding- field=complete
+KO|$map:84000014$에서 열리는 낮 결혼식에 {0}회 참석하기 완료
+EN|Attended {0} daytime weddings held at $map:84000014$
+
+###377 key=23100436-Wedding- field=desc
+KO|$map:84000014$에서 열리는 밤 결혼식에 {0}회 참석하기
+EN|Attend {0} night weddings held at $map:84000014$
+
+###378 key=23100436-Wedding- field=complete
+KO|$map:84000014$에서 열리는 밤 결혼식에 {0}회 참석하기 완료
+EN|Attended {0} night weddings held at $map:84000014$
+
+###379 key=23100437-Wedding- field=desc
+KO|$map:84000015$에서 열리는 낮 결혼식에 {0}회 참석하기
+EN|Attend {0} daytime weddings held at $map:84000015$
+
+###380 key=23100437-Wedding- field=complete
+KO|$map:84000015$에서 열리는 낮 결혼식에 {0}회 참석하기 완료
+EN|Attended {0} daytime weddings held at $map:84000015$
+
+###381 key=23100438-Wedding- field=desc
+KO|$map:84000015$에서 열리는 밤 결혼식에 {0}회 참석하기
+EN|Attend {0} night weddings held at $map:84000015$
+
+###382 key=23100438-Wedding- field=complete
+KO|$map:84000015$에서 열리는 밤 결혼식에 {0}회 참석하기 완료
+EN|Attended {0} night weddings held at $map:84000015$
+
+###383 key=23100439-Wedding- field=desc
+KO|$map:84000016$에서 열리는 낮 결혼식에 {0}회 참석하기
+EN|Attend {0} daytime weddings held at $map:84000016$
+
+###384 key=23100439-Wedding- field=complete
+KO|$map:84000016$에서 열리는 낮 결혼식에 {0}회 참석하기 완료
+EN|Attended {0} daytime weddings held at $map:84000016$
+
+###385 key=23100440-Wedding- field=desc
+KO|$map:84000016$에서 열리는 밤 결혼식에 {0}회 참석하기
+EN|Attend {0} night weddings held at $map:84000016$
+
+###386 key=23100440-Wedding- field=complete
+KO|$map:84000016$에서 열리는 밤 결혼식에 {0}회 참석하기 완료
+EN|Attended {0} night weddings held at $map:84000016$
+
+###387 key=23100441-Wedding- field=desc
+KO|기념 촬영하러 $map:84000003$ {0}회 방문하기
+EN|Visit $map:84000003$ {0} times to take commemorative photos
+
+###388 key=23100441-Wedding- field=complete
+KO|기념 촬영하러 $map:84000003$ {0}회 방문하기 완료
+EN|Visited $map:84000003$ {0} times to take commemorative photos
+
+###389 key=23100442-Wedding- field=desc
+KO|기념 촬영하러 $map:84000004$ {0}회 방문하기
+EN|Visit $map:84000004$ {0} times to take commemorative photos
+
+###390 key=23100442-Wedding- field=complete
+KO|기념 촬영하러 $map:84000004$ {0}회 방문하기 완료
+EN|Visited $map:84000004$ {0} times to take commemorative photos
+
+###391 key=23100443-Wedding- field=desc
+KO|기념 촬영하러 $map:84000005$ {0}회 방문하기
+EN|Visit $map:84000005$ {0} times to take commemorative photos
+
+###392 key=23100443-Wedding- field=complete
+KO|기념 촬영하러 $map:84000005$ {0}회 방문하기 완료
+EN|Visited $map:84000005$ {0} times to take commemorative photos
+
+###393 key=23100444-Wedding- field=desc
+KO|$map:84000006$ {0}회 참가하기
+EN|Paricipate in $map:84000006$ {0} times
+
+###394 key=23100444-Wedding- field=complete
+KO|$map:84000006$ {0}회 참가하기 완료
+EN|Participated in $map:84000006$ {0} times
+
+###395 key=23100445-Wedding- field=desc
+KO|$map:84000007$ {0}회 참가하기
+EN|Paricipate in $map:84000007$ {0} times
+
+###396 key=23100445-Wedding- field=complete
+KO|$map:84000007$ {0}회 참가하기 완료
+EN|Paricipate in $map:84000007$ {0} times
+
+###397 key=23100446-Wedding- field=desc
+KO|결혼식 하객으로 {0}회 참석하기
+EN|Attend {0} weddings as a guest
+
+###398 key=23100446-Wedding- field=complete
+KO|결혼식 하객으로 {0}회 참석하기 완료
+EN|Attended {0} weddings as a guest
+
+###399 key=23100447-Wedding- field=desc
+KO|합의 이혼 {0}회 하기
+EN|Divorce {0} times
+
+###400 key=23100447-Wedding- field=complete
+KO|합의 이혼 {0}회 하기 완료
+EN|Divorced {0} times
+
+###401 key=23200043-UnlimitedEnchant- field=desc
+KO|한계돌파 {0}회 완료하기
+EN|Complete limit break {0} times
+
+###402 key=23200043-UnlimitedEnchant- field=complete
+KO|한계돌파 {0}회 완료
+EN|Completed limit break {0} times
+
+###403 key=92000094-WorldChampionMushroom- field=desc
+KO|$item:20301428$ {0}개 사용하기
+EN|Use $item:20301428$ {0} times
+
+###404 key=92000094-WorldChampionMushroom- field=complete
+KO|$item:20301428$ {0}개 사용 완료
+EN|Used $item:20301428$ {0} times
+

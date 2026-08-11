@@ -1,0 +1,192 @@
+###1 key=10000101-Develop- field=name
+KO|[开发]限时挑战
+EN|
+
+###2 key=10000201-Develop- field=name
+KO|[开发]不死
+EN|
+
+###3 key=10000301-Develop- field=name
+KO|[开发]消灭首领
+EN|
+
+###4 key=10000401-Develop- field=name
+KO|[开发]恢复药水使用限制
+EN|
+
+###5 key=10000501-Develop- field=name
+KO|[开发]不被首领技能击中
+EN|
+
+###6 key=10000601-Develop- field=name
+KO|[开发]不使用体力
+EN|
+
+###7 key=10000701-Develop- field=name
+KO|[开发]不使用能量
+EN|
+
+###8 key=10000801-Develop- field=name
+KO|[开发]不使用魔法盾
+EN|
+
+###9 key=10000901-Develop- field=name
+KO|[开发]获得特定增益
+EN|
+
+###10 key=10001001-Develop- field=name
+KO|[开发]最后一击消灭首领 
+EN|
+
+###11 key=10001101-Develop- field=name
+KO|[开发]发动互动物体
+EN|
+
+###12 key=10001201-Develop- field=name
+KO|[开发]不被击中
+EN|
+
+###13 key=10001301-Develop- field=name
+KO|[开发]在副本中造成伤害
+EN|
+
+###14 key=10001401-Develop- field=name
+KO|[开发]摧毁鸡笼
+EN|
+
+###15 key=20007004-Zakum01- field=name
+KO|(파티)자쿰의 팔 파괴
+EN|(Party) Destroy Zakum's Arm
+
+###16 key=23050004-Kritias_Balrog01- field=name
+KO|바닥 화염 폭발에 맞으면 감점
+EN|Don't get hit by ground explosions
+
+###17 key=23060004-Kritias_Paika01- field=name
+KO|마력폭주 바닥을 밟으면 감점
+EN|Don't step on magic explosive tiles
+
+###18 key=23100000-DungeonOpen70AH3- field=name
+KO|(파티)$npc:23500001$ 처치
+EN|
+
+###19 key=23100001-DungeonOpen70AH3- field=name
+KO|(파티)7분 내에 $npc:23500001$ 처치
+EN|
+
+###20 key=23100002-DungeonOpen70AH3- field=name
+KO|(파티)4분 내에 $npc:23500001$ 처치
+EN|
+
+###21 key=23100003-DungeonOpen70AH3- field=name
+KO|비석에 깔리면 감점
+EN|
+
+###22 key=23100004-DungeonOpen70AH3- field=name
+KO|지뢰 밟고 피해 받으면 감점
+EN|
+
+###23 key=23110000-DungeonOpen70AH4- field=name
+KO|(파티)$npc:23500002$ 처치
+EN|
+
+###24 key=23110001-DungeonOpen70AH4- field=name
+KO|(파티)7분 내에 $npc:23500002$ 처치
+EN|
+
+###25 key=23110002-DungeonOpen70AH4- field=name
+KO|(파티)4분 내에 $npc:23500002$ 처치
+EN|
+
+###26 key=23110003-DungeonOpen70AH4- field=name
+KO|비석에 깔리면 감점
+EN|
+
+###27 key=23110004-DungeonOpen70AH4- field=name
+KO|양손 내려찍기 맞으면 감점
+EN|
+
+###28 key=23120000-DungeonOpen70CH3- field=name
+KO|(파티)$npc:23500004$ 처치
+EN|
+
+###29 key=23120001-DungeonOpen70CH3- field=name
+KO|(파티)5분 내에 $npc:23500004$ 처치
+EN|
+
+###30 key=23120002-DungeonOpen70CH3- field=name
+KO|(파티)10분 내에 $npc:23500004$ 처치
+EN|
+
+###31 key=23120003-DungeonOpen70CH3- field=name
+KO|비석에 깔리면 감점
+EN|
+
+###32 key=23120004-DungeonOpen70CH3- field=name
+KO|(파티)$npc:23500003$ 처치
+EN|
+
+###33 key=23120005-DungeonOpen70CH3- field=name
+KO|(파티)5분 내에 $npc:23500003$ 처치
+EN|
+
+###34 key=23120006-DungeonOpen70CH3- field=name
+KO|(파티)10분 내에 $npc:23500003$ 처치
+EN|
+
+###35 key=23130000-DungeonOpen70CH4- field=name
+KO|(파티)$npc:23500006$ 처치
+EN|
+
+###36 key=23130001-DungeonOpen70CH4- field=name
+KO|(파티)5분 내에 $npc:23500006$ 처치
+EN|
+
+###37 key=23130002-DungeonOpen70CH4- field=name
+KO|(파티)10분 내에 $npc:23500006$ 처치
+EN|
+
+###38 key=23130003-DungeonOpen70CH4- field=name
+KO|비석에 깔리면 감점
+EN|
+
+###39 key=23130004-DungeonOpen70CH4- field=name
+KO|(파티)$npc:23500005$ 처치
+EN|
+
+###40 key=23130005-DungeonOpen70CH4- field=name
+KO|(파티)5분 내에 $npc:23500005$ 처치
+EN|
+
+###41 key=23130006-DungeonOpen70CH4- field=name
+KO|(파티)10분 내에 $npc:23500005$ 처치
+EN|
+
+###42 key=23140000-DungeonOpen70CH5- field=name
+KO|(파티)$npc:23000102$ 처치
+EN|
+
+###43 key=23140001-DungeonOpen70CH5- field=name
+KO|(파티)5분 내에 $npc:23000102$ 처치
+EN|
+
+###44 key=23140002-DungeonOpen70CH5- field=name
+KO|(파티)10분 내에 $npc:23000102$ 처치
+EN|
+
+###45 key=23140003-DungeonOpen70CH5- field=name
+KO|비석에 깔리면 감점
+EN|
+
+###46 key=23140004-DungeonOpen70CH5- field=name
+KO|(파티)$npc:23000108$ 처치
+EN|
+
+###47 key=23140005-DungeonOpen70CH5- field=name
+KO|(파티)5분 내에 $npc:23000108$ 처치
+EN|
+
+###48 key=23140006-DungeonOpen70CH5- field=name
+KO|(파티)10분 내에 $npc:23000108$ 처치
+EN|
+

@@ -1,0 +1,188 @@
+###1 key=11004386-Kritias_Epic01- field=name
+KO|부관
+EN|Adjutant
+
+###2 key=11004387-Kritias_Epic01- field=name
+KO|사냥꾼
+EN|Hunter
+
+###3 key=11004388-Kritias_Epic01- field=name
+KO|게오르크 척후병
+EN|Scout
+
+###4 key=11004391-Kritias_Epic01- field=name
+KO|게오르크 사냥꾼
+EN|Hunter
+
+###5 key=11004393-Kritias_Epic01- field=name
+KO|게오르크 수색대
+EN|Pathfinder
+
+###6 key=11004394-Kritias_Epic01- field=name
+KO|게오르크 척후병
+EN|Scout
+
+###7 key=11004396-Kritias_Epic01- field=name
+KO|부관
+EN|Adjutant
+
+###8 key=11004397-Kritias_Epic01- field=name
+KO|게오르크 장교
+EN|Officer
+
+###9 key=11004398-Kritias_Epic01- field=name
+KO|게오르크 요원
+EN|Agent
+
+###10 key=11004399-Kritias_Epic01- field=name
+KO|게오르크 요원
+EN|Agent
+
+###11 key=11004433-Kritias_Epic01- field=name
+KO|게오르크 요원
+EN|Agent
+
+###12 key=11004457-Kritias_2018_12- field=name
+KO|승무원
+EN|Ensign
+
+###13 key=11004458-Kritias_2018_12- field=name
+KO|승무원
+EN|Ensign
+
+###14 key=11004459-Kritias_2018_12- field=name
+KO|승무원
+EN|Ensign
+
+###15 key=11004492-Kritias_2018_12- field=name
+KO|식물학자
+EN|Botanist
+
+###16 key=11004493-Kritias_2018_12- field=name
+KO|생물학자
+EN|Biologist
+
+###17 key=11004495-Kritias_2018_12- field=name
+KO|물리학자
+EN|Physicist
+
+###18 key=11004496-Kritias_2018_12- field=name
+KO|어류학자
+EN|Ichthyologist
+
+###19 key=11004497-Kritias_2018_12- field=name
+KO|어류학자
+EN|Ichthyologist
+
+###20 key=11004498-Kritias_2018_12- field=name
+KO|문학가
+EN|Professor
+
+###21 key=11004499-Kritias_2018_12- field=name
+KO|건축학자
+EN|Architect
+
+###22 key=11004527-Kritias_2018_12- field=name
+KO|생태 연구원
+EN|Ecologist
+
+###23 key=11004528-Kritias_2018_12- field=name
+KO|생태 연구원
+EN|Ecologist
+
+###24 key=11004529-Kritias_2018_12- field=name
+KO|생태 연구원
+EN|Ecologist
+
+###25 key=11004530-Kritias_2018_12- field=name
+KO|그린후드 요원
+EN|Agent
+
+###26 key=11004541-Kritias_2018_12- field=name
+KO|스카이 포트리스 연구팀
+EN|Researcher
+
+###27 key=11004542-Kritias_2018_12- field=name
+KO|스카이 포트리스 연구팀
+EN|Researcher
+
+###28 key=11004543-Kritias_2018_12- field=name
+KO|스카이 포트리스 연구팀
+EN|Researcher
+
+###29 key=11004574-Kritias_Epic02- field=name
+KO|난민 리더
+EN|Refugee Leader
+
+###30 key=11004576-Kritias_Epic02- field=name
+KO|정보 상인
+EN|Information Merchant
+
+###31 key=11004694-BlackOnyx- field=name
+KO|장물아비
+EN|Fence
+
+###32 key=11004696-BlackOnyx- field=name
+KO|딜러
+EN|Dealer
+
+###33 key=11004697-BlackOnyx- field=name
+KO|웨이터
+EN|Waiter
+
+###34 key=11004698-BlackOnyx- field=name
+KO|마담
+EN|Madam
+
+###35 key=11004700-BlackOnyx- field=name
+KO|리조트 사업 파견원
+EN|Resort Business Representative
+
+###36 key=11004701-BlackOnyx- field=name
+KO|고대 유적 발굴 전문가
+EN|Ancient Ruins Excavation Specialist
+
+###37 key=11004702-BlackOnyx- field=name
+KO|카르카르 사업가
+EN|Karkar Businessman
+
+###38 key=11004703-BlackOnyx- field=name
+KO|고대 에너지 연구가
+EN|Ancient Energy Researcher
+
+###39 key=11004778-EpicApocalypse01- field=name
+KO|왕실 총리
+EN|Chancellor of the Kingdom
+
+###40 key=11004779-EpicApocalypse01- field=name
+KO|왕실 총리
+EN|Chancellor of the Kingdom
+
+###41 key=11004780-EpicApocalypse01- field=name
+KO|왕실 총리
+EN|Chancellor of the Kingdom
+
+###42 key=11004781-EpicApocalypse01- field=name
+KO|왕실 총리
+EN|Chancellor of the Kingdom
+
+###43 key=11004782-EpicApocalypse01- field=name
+KO|수호사제
+EN|Guardian Priest
+
+###44 key=11004783-EpicApocalypse01- field=name
+KO|수호사제
+EN|Guardian Priest
+
+###45 key=11004784-EpicApocalypse01- field=name
+KO|수호사제
+EN|Guardian Priest
+
+###46 key=11004785-EpicApocalypse01- field=name
+KO|여제
+EN|Empress
+
+###47 key=11004786-EpicApocalypse01- field=name
+KO|여제
+EN|Empress
+

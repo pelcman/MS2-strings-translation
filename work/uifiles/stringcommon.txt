@@ -1,0 +1,940 @@
+###1 key=s_msg_item_open_massive_open_wedding-Wedding- field=value
+KO|<FONT color='#FFD200' size='18' >[결혼식 식후 행사]</FONT>\n<FONT size='3'> </FONT>\n<p align='left'>{0} 아이템을 사용합니다.\n<FONT color='#5CD1E5' >아이템 사용 시 현재 위치에 포탈이 생기고, 캐릭터가 자동으로 식후 행사가 진행되는 맵으로 입장합니다.</FONT>\n\n • 식후 행사 맵 이름 : <FONT color='#FFD200' size='18' >{0}</FONT>\n • 최대 인원 : <FONT color='#FFD200' size='18' >{1}명</FONT></FONT> \n • 입장 포탈 유지시간 : <FONT color='#FFD200' size='18' >{2}</FONT>\n<FONT size='3'> </FONT>\n • 비밀번호 설정<FONT color='#C9C9C9' >(미입력 시 누구나 입장)</FONT></p>
+EN|<FONT color='#FFD200' size='18' >[Post-Wedding Event]</FONT>\n<FONT size='3'> </FONT>\n<p align='left'>Using {0} item.\n<FONT color='#5CD1E5' >When the item is used, a portal will appear at the current location, and the character will automatically enter the map where the post-wedding event takes place.</FONT>\n\n • Post-wedding event map name: <FONT color='#FFD200' size='18' >{0}</FONT>\n • Maximum number of participants: <FONT color='#FFD200' size='18' >{1} people</FONT></FONT> \n • Portal duration: <FONT color='#FFD200' size='18' >{2}</FONT>\n<FONT size='3'> </FONT>\n • Set password<FONT color='#C9C9C9' >(Anyone can enter if not entered)</FONT></p>
+
+###2 key=s_msg_item_open_massive_only_wedding_user-Wedding- field=value
+KO|촬영 티켓, 애프터파티 티켓은 결혼식장에서 신랑, 신부만 사용할 수 있습니다.
+EN|Photo shoot and after-party tickets are only available for the bride and groom at the wedding venue.
+
+###3 key=s_change_gender_err_wedding-Wedding- field=value
+KO|약혼, 결혼, 이혼 조정 중 상태인 캐릭터는 성별 변경권을 사용할 수 없습니다.
+EN|Characters currently in engagement, marriage, or divorce proceedings cannot use a Gender Change Coupon.
+
+###4 key=s_char_err_founderspack-FoundersPackMode- field=value
+KO|
+EN|You cannot create a character right now because you don't have a Founder's Pack.
+
+###5 key=s_char_err_wedding-Wedding- field=value
+KO|약혼, 결혼, 이혼 조정 중 상태인 캐릭터는 삭제할 수 없습니다.
+EN|Characters currently in engagement, marriage, or divorce proceedings cannot be deleted.
+
+###6 key=s_word_item_unlimited_enchant-UnlimitedEnchant- field=value
+KO|*{0} {1}
+EN|*{0} {1}
+
+###7 key=s_quest_alliance_accept_all_georg-Fame_Geo01- field=value
+KO|준비됐나요? 이번에도 완벽하게 해내리라고 믿어요.
+EN|Are you ready? I believe you will do perfectly this time as well.
+
+###8 key=s_quest_alliance_complete_all_georg-Fame_Geo01- field=value
+KO|당신 덕분에 게오르크는 승리에 한 걸음 더 다가서게 되었어요. 정말 감사해요.
+EN|Thanks to you, Humanitas has taken one step closer to victory. I really appreciate it.
+
+###9 key=s_move_err_wedding_complete-Wedding- field=value
+KO|결혼식이 종료되어서 입장 할 수 없습니다
+EN|The wedding ceremony has ended, so you cannot enter.
+
+###10 key=s_tooltip_gamemenu_wedding-Wedding- field=value
+KO|<FONT color='#FFD200' size='15' >결혼 {0}</FONT>\n<FONT size='3'> </FONT>\n나의 결혼 정보를 확인할 수 있습니다.
+EN|<FONT color='#FFD200' size='15' >Marriage {0}</FONT>\n<FONT size='3'> </FONT>\nYou can check your marriage information.
+
+###11 key=s_room_dungeon_AlreadyColosseumHall-ColosseumDungeon- field=value
+KO|이미 여왕의 응접실에 도착했습니다.
+EN|You are already in the Queen's Parlor.
+
+###12 key=s_room_dungeon_error_used_reset_united_reward-DungeonRewardCountJoin02- field=value
+KO|本周已重置过奖励次数。\n请在周五晚上12点以后再尝试。
+EN|You've already reset the weekly clear count for a character on your account this week.\nTry again after midnight on Friday.
+
+###13 key=s_room_dungeon_error_still_have_united_reawrd-DungeonRewardCountJoin02- field=value
+KO|每周奖励次数有剩余。\n请在用光每周奖励次数后，再次尝试。
+EN|You have not yet reached the weekly clear count limit.
+
+###14 key=s_room_dungeon_error_shutdown_united_reawrd_reset-DungeonRewardCountJoin02- field=value
+KO|(Beta)当前处于初始化每周奖励次数的外部测试时间，已暂停使用。
+EN|The weekly clear count reset feature is still in its beta phase and has been temporarily disabled.
+
+###15 key=s_dungeonSearch_confirm_united_reward_reset-DungeonRewardCountJoin02- field=value
+KO|消耗完每周奖励次数后，每周可以重置一次（限账号内一个角色）。\n\n<FONT color='#00A2ED'>完成一次重置后，需要等到周五晚上12点以后才能再次重置。</FONT>\n\n需要重置当前角色的每周奖励次数吗？
+EN|The weekly clear count can only be reset on one character per account, and only after that character has reached the weekly reward limit.\n\nIf you've already reset the weekly clear count this week, you'll have to wait until midnight on Friday to reset it again.\n\nWould you like to reset this character's weekly clear count?
+
+###16 key=s_dungeonSearch_success_united_reward_reset-DungeonRewardCountJoin02- field=value
+KO|已重置每周奖励次数。
+EN|Your weekly clear count has been reset.
+
+###17 key=s_meratmarket_buy_fail_music_score_by_merat_grade-UGCMarketMusicScore- field=value
+KO|无法用红蘑菇币购买乐谱。
+EN|Cannot purchase sheet music with Merets.
+
+###18 key=s_meratmarket_error_add_basket_by_music_score-UGCMarketMusicScore- field=value
+KO|乐谱只能够直接购买。
+EN|Sheet music can only be purchased directly.
+
+###19 key=s_enum_dungeon_group_colosseum-ColosseumDungeon- field=value
+KO|퀸크빈 럼블
+EN|Queen Bean Rumble
+
+###20 key=s_enchantscroll_desc_disable_break-EnchantDisableBreak01- field=value
+KO|
+EN|\n\n<FONT color='#FF5F5F'>Keep in mind, enchanted items cannot be dismantled.
+
+###21 key=s_massive_event_name_event_dungeon-EventMassiveDungeon- field=value
+KO|매드 닥터의 연구소(레벨 50 이상)
+EN|Mad Doctor's Lab (Level 50+)
+
+###22 key=s_fishing_grade_Lv14-Fishing02- field=value
+KO|2급 전문 낚시꾼
+EN|Master II
+
+###23 key=s_fishing_grade_Lv15-Fishing02- field=value
+KO|3급 전문 낚시꾼
+EN|Master III
+
+###24 key=s_fishing_grade_Lv16-Fishing02- field=value
+KO|프로 낚시꾼
+EN|Pro Angler
+
+###25 key=s_fishing_grade_Lv17-Fishing02- field=value
+KO|2급 프로 낚시꾼
+EN|Pro II
+
+###26 key=s_fishing_grade_Lv18-Fishing02- field=value
+KO|3급 프로 낚시꾼
+EN|Pro III
+
+###27 key=s_fishing_grade_Lv19-Fishing02- field=value
+KO|챔피언 낚시꾼
+EN|Champion Angler
+
+###28 key=s_fishing_grade_Lv20-Fishing02- field=value
+KO|2급 챔피언 낚시꾼
+EN|Champion II
+
+###29 key=s_fishing_grade_Lv21-Fishing02- field=value
+KO|3급 챔피언 낚시꾼
+EN|Champion III
+
+###30 key=s_fishing_habitat_emeraldwater-Fishing02- field=value
+KO|에메랄드 물
+EN|Emerald Water
+
+###31 key=s_tooltip_itemoption_unlimited-UnlimitedEnchant- field=value
+KO|<font color='#ffd200'>한계돌파 {0}단계\n{1}</font>
+EN|<font color='#ffd200'>Limit Break {0}*\n{1}</font>
+
+###32 key=s_tooltip_petremake_count-PetRemake01- field=value
+KO|<font color='#ffd200'>추가 능력 변경 가능 (누적 변경 횟수 : {0}회)</font>
+EN|<font color='#ffd200'>Can Change Bonus Talents (Times Changed: {0})</font>
+
+###33 key=s_character_ability_character_category_tooltip-CharacterAbility- field=value
+KO|<FONT color='#FFD200' size='15' >캐릭터</FONT>\n<FONT size='3'> </FONT>\n캐릭터의 고유한 능력을 강화할 수 있습니다.
+EN|<FONT color='#FFD200' size='15' >Character</FONT>⏎<FONT size='3'> </FONT>⏎Enhance your character's unique abilities.
+
+###34 key=s_character_ability_monster_and_dungeon_category_tooltip-CharacterAbility- field=value
+KO|<FONT color='#FFD200' size='15' >전투</FONT>\n<FONT size='3'> </FONT>\n던전 플레이 또는 몬스터와의 전투에서 유용한 기술을 배울 수 있습니다.
+EN|<FONT color='#FFD200' size='15' >Combat</FONT>⏎<FONT size='3'> </FONT>⏎Learn skills useful for dungeon play or combat against monsters.
+
+###35 key=s_character_ability_play_and_feature_category_tooltip-CharacterAbility- field=value
+KO|<FONT color='#FFD200' size='15' >모험</FONT>\n<FONT size='3'> </FONT>\n모험을 하거나 각종 활동들에 대한 보너스를 얻을 수 있습니다.
+EN|<FONT color='#FFD200' size='15' >Adventure</FONT>⏎<FONT size='3'> </FONT>⏎Gain bonuses for adventuring and various activities.
+
+###36 key=s_character_ability_quest_and_grow_category_tooltip-CharacterAbility- field=value
+KO|<FONT color='#FFD200' size='15' >퀘스트</FONT>\n<FONT size='3'> </FONT>\n퀘스트 수행 시 추가 보너스를 얻을 수 있습니다.
+EN|<FONT color='#FFD200' size='15' >Quest</FONT>⏎<FONT size='3'> </FONT>⏎Gain additional bonuses when completing quests.
+
+###37 key=s_character_ability_content_category_tooltip-CharacterAbility- field=value
+KO|<FONT color='#FFD200' size='15' >생활</FONT>\n<FONT size='3'> </FONT>\n생활 컨텐츠 이용 시 보너스를 얻을 수 있습니다.
+EN|<FONT color='#FFD200' size='15' >Life Skills</FONT>⏎<FONT size='3'> </FONT>⏎Gain bonuses when using Life Skill content.
+
+###38 key=s_character_ability_err_no_abilitypoint-CharacterAbility- field=value
+KO|특성 포인트가 부족합니다.
+EN|Not enough trait points.
+
+###39 key=s_character_ability_point_info_text-CharacterAbility- field=value
+KO|특성포인트 {0}/{1}
+EN|Points {0}/{1}
+
+###40 key=s_character_ability_meso_reset_desc-CharacterAbility- field=value
+KO|비용을 지불해서 특성을 초기화 합니다.\n<FONT color='#FFA200'>{1}</FONT><Img Src='export_common_icon_meso' vspace='-4'/>\n특성을 초기화 하겠습니까?\n<FONT color='#C0C0C0'>(단, 특성 초기화 후 다시 메소로 특성을 초기화\n하려면 {0}일이 지나야 합니다.)</font>
+EN|Pay the cost to reset your traits.⏎<FONT color='#FFA200'>{1}</FONT><Img Src='export_common_icon_meso' vspace='-4'/>⏎Reset your traits?⏎<FONT color='#C0C0C0'>(Note: After resetting with Mesos, you must wait {0} days⏎before you can reset again.)</font>
+
+###41 key=s_character_ability_merat_reset_desc-CharacterAbility- field=value
+KO|<font color='#FF5F5F'>특성 초기화 쿨타임이 지나지 않아\n특성 초기화를 할 수 없습니다.</FONT>\n쿨타임이 지난 후 다시 시도해 주세요.
+EN|<font color='#FF5F5F'>The trait reset cooldown has not expired.⏎You cannot reset your traits yet.</FONT>⏎Please try again after the cooldown ends.
+
+###42 key=s_character_ability_err_reset_cooltime-CharacterAbility- field=value
+KO|이미 특성 초기화 재충전이 완료되었습니다.
+EN|Trait reset recharge is already complete.
+
+###43 key=s_character_ability_disabled_quest_desc-CharacterAbility- field=value
+KO|<font color='#FFD200'>[{2}] {3}</FONT>의 <font color='#FFD200'>{0} ({1}레벨) 퀘스트</FONT>를 완료해야 특성을 사용할 수 있습니다.
+EN|You must complete the <font color='#FFD200'>{0} (Level {1}) quest</FONT> in <font color='#FFD200'>[{2}] {3}</FONT> to use traits.
+
+###44 key=s_character_ability_reset_cooltime-CharacterAbility- field=value
+KO|특성 초기화 재충전이 완료되었습니다.
+EN|Trait reset recharge is complete.
+
+###45 key=s_character_ability_reset_cooltime_request-CharacterAbility- field=value
+KO|특성 초기화 재충전을 진행하시겠습니까?
+EN|Would you like to start the trait reset recharge?
+
+###46 key=s_character_ability_err_level_reset_cooltime-CharacterAbility- field=value
+KO|아직 사용할 수 없습니다
+EN|Not available yet.
+
+###47 key=s_additionalEffect_Special_110001014-CharacterAbility- field=value
+KO|특성 효과로 몬스터에게서 추가 보상을 얻었습니다.
+EN|Trait effect: obtained bonus rewards from a monster.
+
+###48 key=s_additionalEffect_Special_110001015-CharacterAbility- field=value
+KO|특성 효과로 용맹의 증표를 추가로 얻었습니다.
+EN|Trait effect: obtained an extra Token of Valor.
+
+###49 key=s_additionalEffect_Special_110001019-CharacterAbility- field=value
+KO|특성 효과로 황금 보물 상자에서 오닉스 결정을 추가로 발견했습니다.
+EN|Trait effect: found extra Onyx Crystals in a Golden Treasure Chest.
+
+###50 key=s_additionalEffect_Special_110001020-CharacterAbility- field=value
+KO|특성 효과로 나무 보물 상자에서 메소를 추가로 발견했습니다.
+EN|Trait effect: found extra Mesos in a Wooden Treasure Chest.
+
+###51 key=s_additionalEffect_Special_110001021-CharacterAbility- field=value
+KO|특성 효과로 추가 경험치를 얻었습니다.
+EN|Trait effect: gained bonus EXP.
+
+###52 key=s_additionalEffect_Special_110001022-CharacterAbility- field=value
+KO|특성 효과로 추가 메소를 얻었습니다.
+EN|Trait effect: gained bonus Mesos.
+
+###53 key=s_additionalEffect_Special_110001023-CharacterAbility- field=value
+KO|특성 효과로 추가 루를 얻었습니다.
+EN|Trait effect: gained bonus Rue.
+
+###54 key=s_additionalEffect_Special_110001024-CharacterAbility- field=value
+KO|특성 효과로 모험레벨 레벨업 상자를 한번 더 열었습니다.
+EN|Trait effect: opened an Adventure Level-Up Box an extra time.
+
+###55 key=s_additionalEffect_Special_110001025-CharacterAbility- field=value
+KO|특성 효과로 추가 경험치를 얻었습니다.
+EN|Gained bonus EXP from a trait effect.
+
+###56 key=s_additionalEffect_Special_110001027-CharacterAbility- field=value
+KO|특성 효과로 추가 경험치 및 숙련도를 얻었습니다.
+EN|Gained bonus EXP and Mastery from a trait effect.
+
+###57 key=s_additionalEffect_Special_110001028-CharacterAbility- field=value
+KO|특성 효과로 프랙타 결정을 추가로 얻었습니다.
+EN|Gained bonus Fractal Crystals from a trait effect.
+
+###58 key=s_additionalEffect_Special_110001029-CharacterAbility- field=value
+KO|특성 효과로 제작 결과물을 하나 더 얻었습니다.
+EN|Gained an extra crafting product from a trait effect.
+
+###59 key=s_pet_remake_notice_disable_lock_item_option-PetRemakeBlock02- field=value
+KO|<p align='left'>선택된 펫 추가 능력 고정 재료가 없어 추가 능력 잠금 기능을 사용할 수 없습니다.\n\n- $item:30000923$\n- $item:30001345$</p>
+EN|<p align='left'>The selected material for locking pet bonus abilities is missing, so the bonus ability lock feature cannot be used.⏎⏎- $item:30000923$⏎- $item:30001345$</p>
+
+###60 key=s_quest_alliance_georg-Fame_Geo01- field=value
+KO|게오르크
+EN|Georg
+
+###61 key=s_alliance_quest_completion_ticket_count-FameCompletionTicket- field=comment
+KO|
+EN|{0}: Number of Instant Completion Items Required
+
+###62 key=s_alliance_quest_completion_ticket_lack-FameCompletionTicket- field=commend
+KO|
+EN|{0}: Instant Complete Ticket item
+
+###63 key=s_alliance_quest_completion_ticket_use-FameCompletionTicket- field=commend
+KO|
+EN|{0}: Instant Complete Ticket item, {1}: Required item quantity
+
+###64 key=s_alliance_quest_completion_ticket_error-FameCompletionTicket- field=commend
+KO|
+EN|{0}: Instant Complete Ticket item
+
+###65 key=s_world_champion_season_info-WorldChampionMushroom- field=value
+KO|<FONT color='#ffd200'>현재 시즌</FONT>: {0}시즌 ({1} ~ {2})
+EN|<FONT color='#ffd200'>Current Season</FONT>: Season {0} ({1} ~ {2})
+
+###66 key=s_burning_levelup_event_set_character_popup--JP field=comment
+KO|
+EN|{0}: Character Name
+
+###67 key=s_burning_levelup_event_set_character_popup_bottom--JP field=comment
+KO|
+EN|{0}: Character Name
+
+###68 key=s_fieldwar_sidepopup_script-Fieldwar01- field=value
+KO|군단 침입 경보 발령!\n<FONT color='#ffd200'>{0}</FONT>\n즉시 지원이 필요합니다.
+EN|Enemy forces incoming!\n<FONT color='#ffd200'>{0}</FONT> needs reinforcements right away!
+
+###69 key=s_discord_msg_party-Discord- field=value
+KO|
+EN|In Group
+
+###70 key=s_discord_msg_solo-Discord- field=value
+KO|
+EN|Solo Play
+
+###71 key=s_discord_msg_details-Discord- field=value
+KO|
+EN|{0} | {1}
+
+###72 key=s_discord_msg_standby-Discord- field=value
+KO|
+EN|Standby
+
+###73 key=s_discord_msg_move_field-Discord- field=value
+KO|
+EN|Moving
+
+###74 key=s_wedding_propose_ok-Wedding- field=value
+KO|{0}님과 약혼하였습니다.
+EN|You are now engaged to {0}
+
+###75 key=s_wedding_hall_reserve_ok-Wedding- field=value
+KO|{0} 예약에 성공하였습니다. \n{1}[{2}메럿]
+EN|{0} Reservation was successful. \n{1}[{2}Meret]
+
+###76 key=s_wedding_hall_reserve_cancel_ok-Wedding- field=value
+KO|결혼식장 예약을 취소하였습니다.
+EN|Cancel my wedding hall reservation.
+
+###77 key=s_wedding_hall_reserve_change_ok-Wedding- field=value
+KO|결혼식장 예약 변경에 성공하였습니다.\n{1} {0} [{2}메럿]
+EN|Successfully changed the wedding hall reservation.\n{1} {0} [{2}Meret]
+
+###78 key=s_wedding_hall_enter_notify_popup-Wedding- field=value
+KO|{0} ♥ {1} 결혼식장 예약 시간이 되었습니다. 결혼식에 입장해 주세요.\n예약 시간 {2}
+EN|It's to start the {0} ♥ {1} wedding hall. Please enter the wedding.\nReservation time: {2}
+
+###79 key=s_wedding_function_item_error-Wedding- field=value
+KO|사용할 수 없습니다.
+EN|Cannot be used.
+
+###80 key=s_wedding_result_err_system-Wedding- field=value
+KO|시스템 오류입니다. [{0}]
+EN|System error. [{0}]
+
+###81 key=s_wedding_result_err_same_field-Wedding- field=value
+KO|약혼, 결혼식장 예약, 결혼식장 예약 변경, 합의 이혼을 하려면 상대방과 같은 맵에 함께 있어야 합니다.
+EN|In order to be engaged, reserve a wedding hall, change reservation, or settle a divorce, you must be together in the same map as the other individual.
+
+###82 key=s_wedding_result_err_already_propose_request-Wedding- field=value
+KO|이미 청혼을 받았습니다.
+EN|You have already been proposed.
+
+###83 key=s_wedding_result_err_only_promise_user-Wedding- field=value
+KO|약혼 상태에서만 가능합니다.
+EN|Only available when engaged.
+
+###84 key=s_wedding_result_err_invalid_wedding_hall-Wedding- field=value
+KO|알 수 없는 웨딩홀입니다.
+EN|This is an unknown wedding hall.
+
+###85 key=s_wedding_result_err_maintenance_time-Wedding- field=value
+KO|결혼식장 점검 시간입니다. 다른 시간으로 예약해주세요.
+EN|There is a maintenance soon. Please make a reservation at a different time.
+
+###86 key=s_wedding_result_err_wedding_block_age_to-WeddingBlockAge- field=value
+KO|Only characters in adult accounts can use the marriage system
+EN|Only characters in adult accounts can use the marriage system
+
+###87 key=s_wedding_result_err_wedding_block_age_from-WeddingBlockAge- field=value
+KO|The marriage system can only be used with characters in adult accounts.
+EN|The marriage system can only be used with characters in adult accounts.
+
+###88 key=s_wedding_result_err_wedding_block_gender-WeddingBlockSex- field=value
+KO|같은 성별의 캐릭터에게 청혼할 수 없습니다.
+EN|You cannot propose to a character of the same gender.
+
+###89 key=s_wedding_result_err_not_buddy-Wedding- field=value
+KO|{0}님과 친구가 아니어서 청혼할 수 없습니다.\n청혼을 하려면 친구를 맺어보세요.
+EN|You cannot propose to {0} because you are not friends.\nBecome friends in order to propose.
+
+###90 key=s_wedding_result_err_propose_state_to-Wedding- field=value
+KO|현재 약혼 상태이므로 {0}님에게 청혼할 수 없습니다.
+EN|You are currently engaged and cannot propose to {0}.
+
+###91 key=s_wedding_result_err_marriage_state_to-Wedding- field=value
+KO|현재 결혼 상태이므로 {0}님에게 청혼할 수 없습니다.
+EN|You are currently married and cannot propose to {0}.
+
+###92 key=s_wedding_result_err_coolingoff_state_to-Wedding- field=value
+KO|이혼 진행 중이므로 다른 캐릭터에게 청혼할 수 없습니다.
+EN|You currently have a divorce in progress and cannot propose to {0}.
+
+###93 key=s_wedding_result_err_prpose_cooltime_state_to-Wedding- field=value
+KO|이혼 후 48시간 동안은 재혼할 수 없습니다.
+EN|You have to wait 48 hours after a divorce to remarry.
+
+###94 key=s_wedding_result_err_propose_state_from-Wedding- field=value
+KO|약혼 상태인 캐릭터에게 청혼할 수 없습니다.
+EN|You cannot propose to a character who is engaged.
+
+###95 key=s_wedding_result_err_mareriage_state_from-Wedding- field=value
+KO|결혼 상태인 캐릭터에게 청혼할 수 없습니다.
+EN|You cannot propose to a married character.
+
+###96 key=s_wedding_result_err_coolingoff_state_from-Wedding- field=value
+KO|이혼 진행 중인 캐릭터에게 청혼할 수 없습니다.
+EN|You cannot propose to a character with a divorce in progress.
+
+###97 key=s_wedding_result_err_propose_cooltime_state_from-Wedding- field=value
+KO|이혼 후 48시간이 지나지 않은 캐릭터에게 청혼할 수 없습니다.
+EN|You cannot propose to a character with less than 48 hours after divorce.
+
+###98 key=s_wedding_result_err_not_find_propose_item-Wedding- field=value
+KO|두 캐릭터 모두 {0}$pp:을,를$ 가지고 있어야 청혼할 수 있습니다. 
+EN|Both characters must have {0} in order to propose. 
+
+###99 key=s_wedding_result_err_propose_distance-Wedding- field=value
+KO|거리가 멀어 청혼할 수 없습니다.
+EN|Distance is too far to propose.
+
+###100 key=s_wedding_result_decline_propose-Wedding- field=value
+KO|{0}님이 청혼을 거절했습니다.
+EN|{0} declined your proposal.
+
+###101 key=s_wedding_result_cancel_propose_from-Wedding- field=value
+KO|{0}님이 청혼을 취소했습니다.
+EN|{0} cancelled the proposal.
+
+###102 key=s_wedding_result_cancel_propose_expire-Wedding- field=value
+KO|대기 시간이 만료되어 청혼이 취소되었습니다.
+EN|The proposal has been cancelled because the waiting time has expired.
+
+###103 key=s_wedding_result_cancel_propose_to-Wedding- field=value
+KO|청혼을 취소했습니다.
+EN|You cancelled the proposal.
+
+###104 key=s_wedding_result_send_wedding_hall_reservation-Wedding- field=value
+KO|상대방에게 결혼식장 예약 확인 요청을 보냈습니다. 상대방이 확인하면 예약이 완료됩니다.
+EN|You sent a request to your fiancee to confirm the wedding hall reservation. The reservation will be complete when they confirm.
+
+###105 key=s_wedding_result_send_wedding_hall_reservation_change-Wedding- field=value
+KO|상대방에게 결혼식장 예약 변경 확인 요청을 보냈습니다. \n상대방이 확인하면 예약 변경이 완료됩니다.
+EN|You have sent a request to your fiancee to change the wedding reservation time.\nThe reservation will be complete when they confirm.
+
+###106 key=s_wedding_result_send_wedding_hall_reservation_cancel-Wedding- field=value
+KO|상대방에게 결혼식장 예약 취소 확인 요청을 보냈습니다. \n상대방이 동의하지 않으면 추후 동일 등급의 결혼식장을 예약할 수 있는 무료 예약 쿠폰이 지급되지 않습니다.
+EN|You have sent a request to your fiancee to cancel the wedding reservation time.\nOnce confirmed, the cancellation will be complete and a free reservation coupon will be given to book a wedding venue of the same grade in the future.
+
+###107 key=s_wedding_result_not_find_weddinghall-Wedding- field=value
+KO|잘못된 결혼식장입니다.
+EN|Could not find the wedding hall.
+
+###108 key=s_wedding_result_already_send_invitation-Wedding- field=value
+KO|이미 발송된 청첩장입니다.
+EN|The wedding invitation has already been sent.
+
+###109 key=s_wedding_result_late_promise_time-Wedding- field=value
+KO|약혼 관계가 만료되었습니다.
+EN|The engagement has expired.
+
+###110 key=s_wedding_result_late_wedding_reserve_modify-Wedding- field=value
+KO|결혼식 시간이 얼마 남지 않아 예약을 변경하거나 취소할 수 없습니다.
+EN|It is too late to modify the reservation.
+
+###111 key=s_wedding_result_already_reservation-Wedding- field=value
+KO|이미 예약한 결혼식이 있습니다.
+EN|You already have a wedding reservation.
+
+###112 key=s_wedding_result_already_same_reservation-Wedding- field=value
+KO|이미 같은 정보로 예약한 결혼식이 있습니다.
+EN|There is a wedding already booked for this time.
+
+###113 key=s_wedding_result_invaild_state_divorce-Wedding- field=value
+KO|결혼을 해야만 이혼할 수 있습니다.
+EN|You can only divorce if you are married.
+
+###114 key=s_wedding_result_lack_marriage_date-Wedding- field=value
+KO|결혼 생활이 짧아 이혼 신청을 할 수 없습니다.
+EN|Your marriage is too new and cannot file for divorce.
+
+###115 key=s_wedding_result_lack_meso_divorce-Wedding- field=value
+KO|이혼 수수료가 부족합니다.
+EN|You do not have enough mesos to divorce.
+
+###116 key=s_wedding_result_late_divorce_agree-Wedding- field=value
+KO|숙려 기간이 지나 이미 이혼이 완료되었습니다.
+EN|The divorce has been completed.
+
+###117 key=s_wedding_result_invalid_divorce_agree_user-Wedding- field=value
+KO|이혼 동의는 이혼 요청을 받은 상대만 할 수 있습니다.
+EN|Divorce consent can only be made by the person who asked for a divorce.
+
+###118 key=s_wedding_result_only_marriage_user-Wedding- field=value
+KO|결혼한 캐릭터만 사용할 수 있습니다.
+EN|Can only be used by married users.
+
+###119 key=s_wedding_result_wedding_invitation_count-Wedding- field=value
+KO|한번에 보낼 수 있는 청첩장 갯수를 초과했습니다.
+EN|You have exceeded the number of invitations you can send at one time.
+
+###120 key=s_wedding_result_lack_meso_invitation-Wedding- field=value
+KO|메소가 부족해 청첩장을 보낼 수 없습니다.
+EN|You do not have enough mesos to send a wedding invitation.
+
+###121 key=s_wedding_result_early_remind_wedding-Wedding- field=value
+KO|결혼식을 진행한지 얼마 지나지 않아 리마인드 웨딩을 진행할 수 없습니다.
+EN|Cannot send reminder not too long after a wedding.
+
+###122 key=s_wedding_result_early_wedding_reserve-Wedding- field=value
+KO|결혼 예약 시간이 너무 가깝습니다.
+EN|The reservation time is too early.
+
+###123 key=s_wedding_result_divorcecancel-Wedding- field=value
+KO|이혼 숙려 기간이 지나서 강제 이혼 신청을 취소할 수 없습니다.
+EN|Forced divorce request cannot be canceled after the divorce meditation period has passed.
+
+###124 key=s_wedding_result_only_booking_character-Wedding- field=value
+KO|결혼식장 예약 변경, 취소는 결혼식장을 예약한 캐릭터만 할 수 있습니다.
+EN|Only the character who reserved the wedding hall can modify or cancel the reservation.
+
+###125 key=s_wedding_result_already_weddinghall_reserve-Wedding- field=value
+KO|이미 예약 중인 결혼식장이 있습니다.
+EN|A wedding hall has already been booked.
+
+###126 key=s_wedding_result_invitation_send_late-Wedding- field=value
+KO|청첩장은 결혼식 시작 10분 전까지만 보낼 수 있습니다.
+EN|Cannot send wedding invitations within 10 minutes of the wedding.
+
+###127 key=s_wedding_msg_box_propose_confirm-Wedding- field=value
+KO|상대방에게 청혼하시겠어요?
+EN|Would you like to propose to someone?
+
+###128 key=s_wedding_msg_box_propose_to-Wedding- field=value
+KO|{0}님에게 청혼했습니다. \n상대방이 동의하면 약혼이 성립됩니다.
+EN|You have proposed to {0}. \nIf they accept, you both will be engaged.
+
+###129 key=s_wedding_msg_box_propose_from-Wedding- field=value
+KO|{0}님이 청혼했습니다. \n수락하면 약혼이 성립됩니다. 받아들이시겠어요?
+EN|{0} has proposed to you. \nIf you accept, you both will be engaged. Do you accept?
+
+###130 key=s_wedding_state_promise-Wedding- field=value
+KO|{0}님과 약혼\n{1}까지
+EN|Engaged to {0}\nUntil {1}
+
+###131 key=s_wedding_state_marriage-Wedding- field=value
+KO|{0}님과 결혼\n{1}일째
+EN|Married to {0}\nFor {1} days
+
+###132 key=s_wedding_state_coolingoff-Wedding- field=value
+KO|{0}님과 이혼 진행중
+EN|Divorce with {0} is in progress
+
+###133 key=s_wedding_reservation_select_page-Wedding- field=value
+KO|결혼식장 선택
+EN|Wedding Hall
+
+###134 key=s_wedding_reservation_prev-Wedding- field=value
+KO|이전
+EN|Previous
+
+###135 key=s_wedding_reservation_reservation-Wedding- field=value
+KO|이대로 예약하기
+EN|Reserve
+
+###136 key=s_wedding_reservation_cancel_page-Wedding- field=value
+KO|예약 취소
+EN|Cancel Reservation
+
+###137 key=s_wedding_reservation_cancel-Wedding- field=value
+KO|예약 취소하기
+EN|Cancel Reservation
+
+###138 key=s_wedding_reservation_cancel_end-Wedding- field=value
+KO|취소 없이 진행하기
+EN|Proceed withhout cancellation
+
+###139 key=s_wedding_reservation_change_page-Wedding- field=value
+KO|예약 변경
+EN|Change reservation
+
+###140 key=s_wedding_reservation_change_start-Wedding- field=value
+KO|예약 변경하기
+EN|Change your reservation
+
+###141 key=s_wedding_reservation_change-Wedding- field=value
+KO|이대로 변경하기
+EN|Change reservation
+
+###142 key=s_wedding_reservation_change_end-Wedding- field=value
+KO|변경 없이 진행하기
+EN|Cancel changes
+
+###143 key=s_wedding_reservation_schedule_page-Wedding- field=value
+KO|시간/공개여부 선택
+EN|Time and privacy
+
+###144 key=s_wedding_reservation_confirm_page-Wedding- field=value
+KO|예약 확인
+EN|Confirm reservation
+
+###145 key=s_wedding_reservation_request_messagebox-Wedding- field=value
+KO|예약 확인\n신랑 {0} ♥ 신부 {1}\n결혼식장 : {2}\n시간 : {3}
+EN|Confirm reservation\n{0} ♥ {1}\nWedding Hall : {2}\nTime : {3}
+
+###146 key=s_wedding_reservation_change_request_messagebox-Wedding- field=value
+KO|예약 변경 확인\n신랑 {0} ♥ 신부 {1}\n결혼식장 : {2}\n시간 : {3}
+EN|Confirm reservation change\n{0} ♥ {1}\nWedding : {2}\nTime : {3}
+
+###147 key=s_wedding_reservation_coupon_warn-Wedding- field=value
+KO|무료 예약 쿠폰으로 결혼식장을 예약할 수 있습니다.\n결혼식장과 동일한 등급의 쿠폰만 사용 가능합니다.
+EN|You can reserve a wedding hall with a free reservation coupon.\nOnly coupons of the same level of the wedding hall can be used.
+
+###148 key=s_wedding_reservation_coupon_checkbox-Wedding- field=value
+KO|무료 예약 쿠폰으로 결제하기
+EN|Pay with a free reservation coupon.
+
+###149 key=s_wedding_reservation_hall_bill_category_grade_1-Wedding- field=value
+KO|하우스 웨딩
+EN|House wedding
+
+###150 key=s_wedding_reservation_hall_bill_category_grade_2-Wedding- field=value
+KO|파티 웨딩
+EN|Party wedding
+
+###151 key=s_wedding_reservation_hall_bill_category_grade_3-Wedding- field=value
+KO|럭셔리 웨딩
+EN|Luxury wedding
+
+###152 key=s_wedding_hall_field_desc_tria-Wedding- field=value
+KO|참석 가능 하객 : 10명\n트라이아의 활발함을 담은 대중적인 웨딩홀
+EN|Guest capacity : 10\nA popular Tria wedding hall
+
+###153 key=s_wedding_hall_field_desc_henesis-Wedding- field=value
+KO|참석 가능 하객 : 10명\n단아하고 소박한 헤네시스의 결혼 예배당
+EN|Guest capacity : 10\nAn elegant and simple Henesys chapel wedding
+
+###154 key=s_wedding_hall_field_desc_elinia-Wedding- field=value
+KO|참석 가능 하객 : 40명\n엘리니아의 아름다운 자연을 담은 사랑의 숲
+EN|Guest capacity : 40\nThe forest of love in Ellinia
+
+###155 key=s_wedding_hall_field_desc_perion-Wedding- field=value
+KO|참석 가능 하객 : 40명\n용맹한 전사의 이름으로 영원을 약속하는 골짜기
+EN|Guest capacity : 40\nA valley that promises an eternity of love
+
+###156 key=s_wedding_hall_field_desc_skycastle-Wedding- field=value
+KO|참석 가능 하객 : 70명\n화려한 도시 속 우아하고 고급스러운 결혼의 성
+EN|Guest capacity : 70\nAn elegant, luxurious marriage in a gorgeous castle
+
+###157 key=s_wedding_hall_field_desc_cruise-Wedding- field=value
+KO|참석 가능 하객 : 70명\n특별하고 자유롭게! 호화로운 선상 결혼 크루즈
+EN|Guest capacity : 70\nA special onboard luxurious wedding cruise
+
+###158 key=s_wedding_mail_title_receiver-Wedding- field=value
+KO|결혼식에 초대합니다.
+EN|Invite to the wedding.
+
+###159 key=s_wedding_mail_contents_receiver-Wedding- field=value
+KO|우리의 결혼식에 초대합니다. \n부디 참석하셔서 자리를 빛내 주세요.
+EN|Invitation to our wedding. \nPlease attend with your grace.
+
+###160 key=s_wedding_mail_change_title_receiver-Wedding- field=value
+KO|[결혼식 일정 변경 알림] 변경된 청첩장을 확인해 주세요.
+EN|[Wedding Rescheduled Notification] Please check for the changed date on the wedding.
+
+###161 key=s_wedding_mail_change_contents_receiver-Wedding- field=value
+KO|결혼식 일정이 변경되어 알려드립니다.\n변경된 시간과 장소를 확인해 주세요.
+EN|This is to notify you that the wedding reservation has been changed.\nPlease check the changed time and place.
+
+###162 key=s_wedding_mail_cancel_title_receiver-Wedding- field=value
+KO|[결혼식 취소 알림] 결혼식이 취소되었습니다.
+EN|[Wedding Cancellation Notice] Wedding has been cancelled.
+
+###163 key=s_wedding_mail_cancel_contents_receiver-Wedding- field=value
+KO|결혼식이 취소되었습니다.\n취소된 결혼식 정보는 아래와 같으며, \n참석하실 필요가 없습니다.
+EN|The wedding has been cancelled.\nThe cancelled wedding information is as follows. \nThere is no longer a need to attend.
+
+###164 key=s_wedding_divorce_mail_sender-Wedding- field=value
+KO|이혼 변호사
+EN|Divorce Attorney
+
+###165 key=s_wedding_divorce_mutual_msgbox-Wedding- field=value
+KO|{0}님이 이혼을 신청했습니다. 이혼에 합의하고, 결혼 관계를 종료하시겠어요? 이혼이 완료되면 현재 결혼과 관련된 모든 아이템이 초기화됩니다.
+EN|{0} has filed for divorce. Do you consent to the divorce? When the divorce is complete, all related wedding related items will be reset.
+
+###166 key=s_wedding_divorce_confirm-Wedding- field=value
+KO|{0}님이 이혼을 신청하셨습니다. 이혼에 합의하면 즉시 이혼이 완료되고, 이혼 수수료가 발생하지 않습니다. 변호사에게 이동해 이혼에 합의하시겠어요?
+EN|{0} has filed for divorce. Divorce will occur immediately if you agree. There will be no divorce fee. Go to a lawyer to settle the divorce?
+
+###167 key=s_wedding_divorce_warn-Wedding- field=value
+KO|이혼 숙려 기간인 {0}까지 결혼관계가 유지되며, 이혼을 신청한 {1}님이 지불한 이혼 수수료는 환불되지 않습니다.\n\n이혼 숙려기간 동안에는 변호사를 통해 이혼에 합의할 수 있습니다.
+EN|The marriage will be maintained until {0}, the end of the contemplation period. The divorce fees paid by {1} is not refundable.\n\nDuring the contemplation period, an agreement can be reached through an attorney.
+
+###168 key=s_wedding_hall_reservation_cancel_request-Wedding- field=value
+KO|{0}님이 결혼식 예약을 취소하려고 합니다.\n취소에 동의하면 추후 동일 등급의 결혼식장을 예약할 수 있는 무료 예약 쿠폰을 지급해 드립니다.\n예약 취소에 동의하시겠어요?
+EN|{0} wants to cancel the wedding reservation.\nIf you agree to the cancellation, a free reservation coupon to reserve a wedding venue of the same tier will be given. \nDo you agree to cancel?
+
+###169 key=s_wedding_hall_reservation_cancel_no_refund_not_find_partner-Wedding- field=value
+KO|{0}님이 같은 맵에 접속해 있지 않아 결혼 예약 취소 동의를 받을 수 없습니다. 이 경우, 추후 동일 등급의 결혼식장을 예약할 수 있는 무료 예약 쿠폰이 지급되지 않습니다.\n그래도 결혼식 예약을 취소하시겠어요?
+EN|Could not get consent to cancel the wedding reservation because {0} is not in the map. In this case, you would not receive a free reservation coupon to reserve a wedding venue of the same tier. \nDo you still want to cancel?
+
+###170 key=s_wedding_hall_reservation_cancel_no_refund_decline-Wedding- field=value
+KO|{0}님이 결혼식 예약 취소에 동의하지 않았습니다. 이 경우, 추후 동일 등급의 결혼식장을 예약할 수 있는 무료 예약 쿠폰이 지급되지 않습니다. \n그래도 결혼식 예약을 취소하시겠어요?
+EN|{0} did not agree to cancel the wedding reservation. You will not receive a free reservation coupon. \nDo you still want to cancel?
+
+###171 key=s_wedding_hall_reservation_select_hall-Wedding- field=value
+KO|결혼식장을 선택해 주세요.
+EN|Please select a wedding venue.
+
+###172 key=s_wedding_hall_reservation_select_time-Wedding- field=value
+KO|결혼식 시간을 선택해 주세요.
+EN|Please select a wedding time.
+
+###173 key=s_wedding_hall_reservation_paclkage_err-Wedding- field=value
+KO|예약 변경을 할 수 있는 결혼식장이 없습니다. 다른 웨딩 플래너를 만나보거나, 결혼식을 예약했던 시간을 다시 확인해 주세요.
+EN|There is no reservation where you can change the venue. Check with the other wedding planners or check your reservation time.
+
+###174 key=s_wedding_visit_confirm-Wedding- field=value
+KO|<P><FONT color='#FFA200' size='20' >[{0}-{1}]</FONT></P><P>결혼식에 참석하시겠습니까?</P>
+EN|<P><FONT color='#FFA200' size='20' >[{0}-{1}]</FONT></P><P>Would you like to attend the wedding?</P>
+
+###175 key=s_wedding_visit_failed_common-Wedding- field=value
+KO|지금은 결혼식에 입장할 수 없습니다.
+EN|You cannot enter the wedding at this time.
+
+###176 key=s_wedding_visit_failed_dead-Wedding- field=value
+KO|비석 상태에서는 결혼식에 입장할 수 없습니다.
+EN|You cannot attend a wedding while you are tombstoned.
+
+###177 key=s_wedding_visit_failed_invalid_time-Wedding- field=value
+KO|결혼식에 입장 가능한 시간이 아닙니다.
+EN|It is not possible to enter the wedding at this time.
+
+###178 key=s_wedding_visit_failed_user_count_limit_exceeded-Wedding- field=value
+KO|결혼식 최대 입장 가능 인원을 초과해, 결혼식장에 입장할 수 없습니다. 
+EN|You cannot enter the wedding hall because the ceremony has reached maximum guest capacity. 
+
+###179 key=s_wedding_visit_failed_user_self_link-Wedding- field=value
+KO|스페셜 월드 대화 : 웨딩 아이템의 초대 링크를 통해 자기 자신의 결혼식에 입장할 수 없습니다.
+EN|Special World Chat : You cannot enter your own wedding through the invitation of the item.
+
+###180 key=s_wedding_visit_failed_disablemap-Wedding- field=value
+KO|이 곳에서는 다른 사람의 결혼식에 입장할 수 없습니다.
+EN|You cannot enter the wedding ceremony in this map.
+
+###181 key=s_wedding_visit_failed_solo_instance-Wedding- field=value
+KO|던전 내에서 결혼식에 입장할 수 없습니다
+EN|You cannoot enter the wedding ceremony while in a dungeon.
+
+###182 key=s_wedding_visit_failed_same_place-Wedding- field=value
+KO|이미 해당 결혼식에 입장하였습니다
+EN|You have already entered the wedding.
+
+###183 key=s_err_wedding_chat_cannot_use_common-Wedding- field=value
+KO|스페셜 월드 대화 : 웨딩 아이템을 이용할 수 없습니다.
+EN|Specia World Chat : wedding item is not available.
+
+###184 key=s_err_wedding_chat_cannot_use_no_reservation-Wedding- field=value
+KO|스페셜 월드 대화 : 웨딩 아이템은 결혼식 예약 없이 이용할 수 없습니다.
+EN|Special World Chat : wedding item is not available without a reservation.
+
+###185 key=s_err_wedding_chat_cannot_use_complete-Wedding- field=value
+KO|스페셜 월드 대화 : 웨딩 아이템은 결혼식이 끝난 후에는 이용할 수 없습니다.
+EN|Special World Chat : wedding items are not available after the wedding is over.
+
+###186 key=s_wedding_mutual_agree_start_acting-Wedding- field=value
+KO|결혼식을 시작하시겠습니까?
+EN|Would you like to start the wedding?
+
+###187 key=s_wedding_mutual_agree_end_acting-Wedding- field=value
+KO|결혼식을 종료하시겠습니까?
+EN|Would you like the end the wedding?
+
+###188 key=s_wedding_enter_nickname-Wedding- field=value
+KO|<FONT color='#FFD200'>{0} </FONT>님과 결혼하시겠습니까?\n결혼하려면 아래 <FONT color='#FFD200'>동의에 체크</FONT>하고, <FONT color='#FFD200'>상대방의 캐릭터 이름</FONT>을 입력해 결혼 서약을 해 주세요.\n결혼이 완료되면 두 사람은 부부가 됩니다.
+EN|Would you like to marry <FONT color='#FFD200'>{0}</FONT>?\nTo get married, check <FONT color='#FFD200'>I Agree</FONT> below and enter <FONT color='#FFD200'>the other person’s character name</FONT> to make your marriage vow.\nOnce the marriage is complete, the two of you will become officially wed.
+
+###189 key=s_wedding_enter_nickname_confirm_checkbox-Wedding- field=value
+KO|결혼에 동의합니다.
+EN|I accept this marriage.
+
+###190 key=s_wedding_enter_nickname_error-Wedding- field=value
+KO|캐릭터 이름을 잘못 입력했습니다. 나와 결혼할 상대방의 캐릭터 이름을 정확히 입력해 주세요.
+EN|You entered the wrong character name. Please enter the exact name of the character you are marrying.
+
+###191 key=s_wedding_enter_nickname_confirm_final-Wedding- field=value
+KO|정말 {0}님과 결혼하시겠어요? 결혼하면 30일 동안은 이혼할 수 없으니, 신중하게 결정해 주십시오.
+EN|Would you like to marry {0}? Once married, you cannot divorce until after 30 days, so please decide carefully.
+
+###192 key=s_wedding_dialog_couple_name-Wedding- field=value
+KO|{0} ♥ {1}의 결혼
+EN|The wedding of {0} ♥ {1}
+
+###193 key=s_wedding_dialog_anniversary-Wedding- field=value
+KO|결혼기념일 : {0}
+EN|Wedding anniversary : {0}
+
+###194 key=s_wedding_dialog_counter-Wedding- field=value
+KO|결혼한지 {0}일
+EN|Married for {0} days
+
+###195 key=s_wedding_dialog_exp_1-Wedding- field=value
+KO|[+{0}점]결혼 상태의 {1}일 지속
+EN|[+{0} points] for {1} days of marriage
+
+###196 key=s_wedding_dialog_exp_2-Wedding- field=value
+KO|[+{0}점]신랑의 부부 메시지 작성
+EN|[+{0} points] Spouse wrote a message
+
+###197 key=s_wedding_dialog_exp_3-Wedding- field=value
+KO|[+{0}점]신부의 부부 메시지 작성
+EN|[+{0} points] Spouse wrote a message
+
+###198 key=s_wedding_dialog_exp_4-Wedding- field=value
+KO|[+{0}점]신랑의 게임 접속
+EN|[+{0} points] Spouse's play time
+
+###199 key=s_wedding_dialog_exp_5-Wedding- field=value
+KO|[+{0}점]신부의 게임 접속
+EN|[+{0} points] Spouse's play time
+
+###200 key=s_wedding_dialog_exp_6-Wedding- field=value
+KO|[{0}점]신랑의 게임 미접속
+EN|[{0} points] Spouse's offline time
+
+###201 key=s_wedding_dialog_exp_7-Wedding- field=value
+KO|[{0}점]신부의 게임 미접속
+EN|[{0} points] Spouse's offline time
+
+###202 key=s_wedding_dialog_exp_8-Wedding- field=value
+KO|[+{0}점]결혼식
+EN|[+{0} points] Wedding
+
+###203 key=s_wedding_dialog_exp_9-Wedding- field=value
+KO|[+{0}점]신랑의 축복의 부적 사용
+EN|[+{0} points] Spouse's Blessing Amulet use
+
+###204 key=s_wedding_dialog_exp_10-Wedding- field=value
+KO|[+{0}점]신부의 축복의 부적 사용
+EN|[+{0} points] Spouse's Blessing Amulet use
+
+###205 key=s_wedding_dialog_exp_11-Wedding- field=value
+KO|[+{0}점]신랑의 웨딩 미션 완료
+EN|[+{0} points] Spouse's completed missions
+
+###206 key=s_wedding_dialog_exp_12-Wedding- field=value
+KO|[+{0}점]신부의 웨딩 미션 완료
+EN|[+{0} points] Spouse's completed missions
+
+###207 key=s_wedding_dialog_exp_13-Wedding- field=value
+KO|[+{0}점]debug
+EN|[+{0} points]debug
+
+###208 key=s_wedding_hall_list_name-Wedding- field=value
+KO|{0} ♥ {1}
+EN|{0} ♥ {1}
+
+###209 key=s_wedding_dialog_wedding_exp-Wedding- field=value
+KO|친밀도 ({0}/{1})
+EN|Intimacy ({0}/{1})
+
+###210 key=s_wedding_dialog_page_message-Wedding- field=value
+KO|메시지
+EN|Message
+
+###211 key=s_wedding_dialog_page_skill-Wedding- field=value
+KO|부부스킬
+EN|Skills
+
+###212 key=s_wedding_dialog_page_mission-Wedding- field=value
+KO|부부미션
+EN|Mission
+
+###213 key=s_wedding_dialog_page_skill_exist-Wedding- field=value
+KO|이미 존재합니다.
+EN|Cannot claim again at this time.
+
+###214 key=s_wedding_dialog_page_wedding_exp_tooltip-Wedding- field=value
+KO|{0} 친밀도
+EN|{0} Intimacy
+
+###215 key=s_wedding_dialog_couple_message_confirm-Wedding- field=value
+KO|메시지는 여러 번 수정할 수 있지만 부부 메시지 작성 친밀도는 한 번만 획득할 수 있습니다. 수정하시겠습니까?
+EN|You can edit the message multiple times a day but you will only receive intimacy once. Are you sure you want to edit?
+
+###216 key=s_wedding_invitation_message-Wedding- field=value
+KO|우리의 결혼식에 초대합니다. \n부디 참석하셔서 자리를 빛내 주세요.
+EN|We formally invite you to our wedding. \nPlease attend as it will mean a lot to have your prescence in this event.
+
+###217 key=s_wedding_invitation_ok-Wedding- field=value
+KO|청첩장을 발송하였습니다.
+EN|Wedding invitation has been sent.
+
+###218 key=s_wedding_invitation_error_user-Wedding- field=value
+KO|청첩장을 보낼 수 없는 캐릭터입니다.
+EN|You cannot send a wedding invitation to them.
+
+###219 key=s_wedding_invitation_error_max_user-Wedding- field=value
+KO|한번에 보낼 수 있는 인원수를 초과했습니다.
+EN|You have reached the maximum number of people that can be invited.
+
+###220 key=s_wedding_invitation_send-Wedding- field=value
+KO|{0}명에게 청첩장을 보냅니다. {1} 메소가 차감됩니다.
+EN|Wedding invitations send to {0} people. It will cost {1} mesos.
+
+###221 key=s_wedding_guest_tab_stranger-Wedding- field=value
+KO|직접 입력
+EN|Direct
+
+###222 key=s_wedding_guest_counter-Wedding- field=value
+KO|선택한 인원: {0} / {1}명
+EN|Number of people selected: {0} / {1}
+
+###223 key=s_unlimited_enchant_fee-UnlimitedEnchant- field=value
+KO|비용 {0}<Img Src='export_common_icon_meso' vspace='-4'></Img>
+EN|비용 {0}<Img Src='export_common_icon_meso' vspace='-4'></Img>
+
+###224 key=s_unlimited_enchant_err_invalid_item-UnlimitedEnchant- field=value
+KO|한계돌파 할 수 없는 아이템입니다.
+EN|This item cannot used for limit break.
+
+###225 key=s_unlimited_enchant_err_lack_ingredient-UnlimitedEnchant- field=value
+KO|재료가 부족합니다.
+EN|Insufficient ingredients.
+
+###226 key=s_unlimited_enchant_err_lack_meso-UnlimitedEnchant- field=value
+KO|메소가 부족합니다.
+EN|Insufficient mesos.
+
+###227 key=s_unlimited_enchant_err_max_unlimited_grade-UnlimitedEnchant- field=value
+KO|한계돌파 최대 단계에 도달한 장비 입니다.
+EN|This equipment has reached the limit break maximum level.
+
+###228 key=s_unlimited_enchant_err_system-UnlimitedEnchant- field=value
+KO|시스템 오류 {0}
+EN|System Error {0}
+
+###229 key=s_payback_dialog_period-Payback- field=value
+KO|기간: {0}년 {1}월 {2}일 ~ {3}년 {4}월 {5}일
+EN|Period: {0}/{1}/{2} ~ {3}/{4}/{5}
+
+###230 key=s_payback_dialog_status_percent-Payback- field=value
+KO|{0}% 페이백
+EN|{0}% Payback
+
+###231 key=s_payback_dialog_maret-Payback- field=value
+KO|{0} <Img Src='export_common_icon_bluemerat_large' vspace='-5'/><font size='20' color='#a0a0a0'> / {1}</font>
+EN|{0} <Img Src='export_common_icon_bluemerat_large' vspace='-5'/><font size='20' color='#a0a0a0'> / {1}</font>
+
+###232 key=s_payback_dialog_merat_text_red_merat-Payback- field=value
+KO|<font color='#ED442A'>{0} </font><Img Src='export_common_icon_redmerat_large' vspace='-5'/><font size='20' color='#a0a0a0'> / {1}</font>
+EN|<font color='#ED442A'>{0} </font><Img Src='export_common_icon_redmerat_large' vspace='-5'/><font size='20' color='#a0a0a0'> / {1}</font>
+
+###233 key=s_payback_bill_bottom_detail_text-Payback- field=value
+KO|※ 페이백 이벤트 진행 중!
+EN|※ Payback Event in Progress!
+
+###234 key=s_tooltip_gamemenu_payback-Payback- field=value
+KO|<FONT color='#FFD200' size='15' >페이백{0}</FONT>\n<FONT size='3'> </FONT>\n주황버섯의 파워업 뽑기에 소모한 메럿의 일부를\n페이백 받을 수 있습니다.
+EN|<FONT color='#FFD200' size='15' >Payback{0}</FONT>⏎<FONT size='3'> </FONT>⏎You can receive a payback of a portion of the Merets⏎spent on Orange Mushroom's Power-Up Draw.
+
+###235 key=s_payback_error_reward_time-Payback- field=value
+KO|페이백 정산 작업 중입니다.\n\n[정산 작업 시간] 00:00 ~ 00:05 
+EN|Payback settlement is in progress.⏎⏎[Settlement Time] 00:00 ~ 00:05 
+

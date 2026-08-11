@@ -1,0 +1,320 @@
+###1 key=KiliansTruth_caption1-EpicApocalypse01- field=name
+KO|사라졌던 영웅의 등장에 놀랐는가?
+EN|Were you surprised to see a hero who had vanished?
+
+###2 key=KiliansTruth_caption2-EpicApocalypse01- field=name
+KO|그렇다. 내가 바로 빛의 마법사 킬리안이다.
+EN|That's right. I am Kilian, the Wizard of Light.
+
+###3 key=KiliansTruth_caption3-EpicApocalypse01- field=name
+KO|그리고 또 다른 이름
+EN|And my other name...
+
+###4 key=KiliansTruth_caption4-EpicApocalypse01- field=name
+KO|검은 마법사.
+EN|The Dark Mage.
+
+###5 key=KiliansTruth_caption5-EpicApocalypse01- field=name
+KO|놀라는 것도 무리는 아니지.
+EN|I can't blame you for being surprised.
+
+###6 key=KiliansTruth_caption6-EpicApocalypse01- field=name
+KO|한때 7영웅의 수장이 바로 나였으니.
+EN|After all, I was once the leader of the Seven Heroes.
+
+###7 key=KiliansTruth_caption7-EpicApocalypse01- field=name
+KO|이제 그날의 진실을 말할 때가 된 것 같구나.
+EN|I think it's time to tell you the truth of that day.
+
+###8 key=KiliansTruth_caption8-EpicApocalypse01- field=name
+KO|나는 라펜타 봉인을 위해
+EN|In order to seal Lapenta,
+
+###9 key=KiliansTruth_caption9-EpicApocalypse01- field=name
+KO|7영웅 중 하나이자 나의 친우인 바론과 함께\n 어둠의 땅으로 향했다.
+EN|I traveled to the Dark Land with Baron,⏎ one of the Seven Heroes and my close friend.
+
+###10 key=KiliansTruth_caption10-EpicApocalypse01- field=name
+KO|그리고, 그곳에 도달한 우리는 깨달았지.
+EN|And upon arriving there, we realized something.
+
+###11 key=KiliansTruth_caption11-EpicApocalypse01- field=name
+KO|봉인을 위해선 여제 에레브의 힘이 필요하다는 것을.
+EN|That we needed the power of Empress Ereve to complete the seal.
+
+###12 key=KiliansTruth_caption12-EpicApocalypse01- field=name
+KO|이를 알리기 위해 바론은 트라이아로 향했다.
+EN|Baron departed for Tria to relay this message.
+
+###13 key=KiliansTruth_caption13-EpicApocalypse01- field=name
+KO|나는 그곳에 남아 상황을 지켜보았지만
+EN|I stayed behind to monitor the situation, but
+
+###14 key=KiliansTruth_caption14-EpicApocalypse01- field=name
+KO|생각보다 빠르게 악화되는 봉인의 상태에\n결단을 내려야만 했다.
+EN|the seal was deteriorating faster than expected,⏎and I had to make a decision.
+
+###15 key=KiliansTruth_caption15-EpicApocalypse01- field=name
+KO|혼자서라도 봉인을 시도해야 했어.
+EN|I had to attempt the seal, even if it meant doing it alone.
+
+###16 key=KiliansTruth_caption16-EpicApocalypse01- field=name
+KO|내 목숨과 바꿔서라도 말이야.
+EN|Even if it cost me my life.
+
+###17 key=KiliansTruth_caption17-EpicApocalypse01- field=name
+KO|다행히 난 봉인에 성공했지만 정신이 혼미해지고 있었다.
+EN|Fortunately, I succeeded in sealing it, but my mind was growing hazy.
+
+###18 key=KiliansTruth_caption18-EpicApocalypse01- field=name
+KO|그리고 돌연, 바론의 기운이 끊어졌다!
+EN|And then suddenly, I could no longer sense Baron's life force!
+
+###19 key=KiliansTruth_caption19-EpicApocalypse01- field=name
+KO|나는, 처음으로 여제를 의심했다.
+EN|For the first time, I doubted the Empress.
+
+###20 key=KiliansTruth_caption20-EpicApocalypse01- field=name
+KO|여제가 늦는 것이 아니라 \n우리 요청이 묵살당한 거라면?
+EN|What if the Empress wasn't simply late,⏎but had ignored our plea entirely?
+
+###21 key=KiliansTruth_caption21-EpicApocalypse01- field=name
+KO|빛의 상징인 여제가 우릴 버렸다면…?
+EN|What if the Empress, the symbol of light, had abandoned us...?
+
+###22 key=KiliansTruth_caption22-EpicApocalypse01- field=name
+KO|그 순간, 나는 보았다.
+EN|In that moment, I saw it.
+
+###23 key=KiliansTruth_caption23-EpicApocalypse01- field=name
+KO|빛의 여제가 가진 강력한 힘이 이 세상을 멸망시키는 모습을.
+EN|A vision of the Empress's immense power destroying the world.
+
+###24 key=KiliansTruth_caption24-EpicApocalypse01- field=name
+KO|빛의 창 끝이 어둠이 아닌 우리를 향하는 날
+EN|The day when the spear of light turns not toward darkness, but toward us.
+
+###25 key=KiliansTruth_caption25-EpicApocalypse01- field=name
+KO|우리가 맞게 될 빛으로부터의 파멸을…
+EN|The ruin that the light would bring upon us…
+
+###26 key=KiliansTruth_caption26-EpicApocalypse01- field=name
+KO|그날 이후 나는 여제의 파멸을 막기 위해 여러 계획을 세우고 실행해왔다.
+EN|Since that day, I have devised and carried out many plans to prevent the Empress's ruin.
+
+###27 key=KiliansTruth_caption27-EpicApocalypse01- field=name
+KO|그 중 가장 심혈을 기울여 준비한 것이 바로 이, 검은 달이다. 
+EN|Of all those plans, the one I poured the most effort into is this—the Black Moon. 
+
+###28 key=KiliansTruth_caption28-EpicApocalypse01- field=name
+KO|여제 에레브… 그녀는 이곳에 봉인되어야 해.
+EN|Empress Ereve... she must be sealed here.
+
+###29 key=KiliansTruth_caption29-EpicApocalypse01- field=name
+KO|최근 트라이아에 나타난 검은 물질들을 보았겠지?
+EN|You've seen the dark substances that recently appeared in Tria, haven't you?
+
+###30 key=KiliansTruth_caption30-EpicApocalypse01- field=name
+KO|그건 바로, 여제 안에 잠들어 있던 불안의 미래가 형상화되어 나타난 것.
+EN|Those are the physical manifestation of the uncertain future that lay dormant within the Empress.
+
+###31 key=KiliansTruth_caption31-EpicApocalypse01- field=name
+KO|언젠가 다가올 파멸의 증거다! 
+EN|They are proof of the ruin that will one day come! 
+
+###32 key=KiliansTruth_caption32-EpicApocalypse01- field=name
+KO|빛으로부터의 파멸
+EN|Ruin from the Light
+
+###33 key=KiliansTruth_caption33-EpicApocalypse01- field=name
+KO|그 예언을 막기 위한 방법은 오직 이것 뿐이다.
+EN|This is the only way to prevent that prophecy.
+
+###34 key=KiliansTruth_caption34-EpicApocalypse01- field=name
+KO|과거의 영웅은 죽었다.
+EN|The hero of the past is dead.
+
+###35 key=KiliansTruth_caption35-EpicApocalypse01- field=name
+KO|내게 남은 것은 오직 세상의 파괴를 막기 위한 간절한 소망 뿐.
+EN|All that remains for me is a desperate wish to prevent the world's destruction.
+
+###36 key=KiliansTruth_caption36-EpicApocalypse01- field=name
+KO|예언을 아는 자라면, 이 진실을 외면할 수 없을 것이다.
+EN|Anyone who knows the prophecy cannot turn away from this truth.
+
+###37 key=KiliansTruth_caption37-EpicApocalypse01- field=name
+KO|애송이, 이제 너도 모든 것을 알게 되었고… 
+EN|Novice, now you know everything... 
+
+###38 key=KiliansTruth_caption38-EpicApocalypse01- field=name
+KO|선택만이 남았다.
+EN|Only the choice remains.
+
+###39 key=KiliansTruth_caption39-EpicApocalypse01- field=name
+KO|진실과 거짓
+EN|Truth and Lies
+
+###40 key=KiliansTruth_caption40-EpicApocalypse01- field=name
+KO|선택하라
+EN|Choose.
+
+###41 key=KiliansTruth_cn_caption1-EpicRuinFromLight- field=name
+KO|见到消失已久的“英雄”，你感到惊讶吗？
+EN|Were you surprised to see a hero who had long vanished?
+
+###42 key=KiliansTruth_cn_caption2-EpicRuinFromLight- field=name
+KO|你没看错，我正是光之魔法师基里安。
+EN|You're not mistaken. I am Kilian, the Wizard of Light.
+
+###43 key=KiliansTruth_cn_caption3-EpicRuinFromLight- field=name
+KO|而我的另一个名字是……
+EN|And my other name is…
+
+###44 key=KiliansTruth_cn_caption4-EpicRuinFromLight- field=name
+KO|魔焰之翼。
+EN|The Dark Mage.
+
+###45 key=KiliansTruth_cn_caption5-EpicRuinFromLight- field=name
+KO|你看起来很难接受啊。 
+EN|It seems hard for you to accept. 
+
+###46 key=KiliansTruth_cn_caption6-EpicRuinFromLight- field=name
+KO|毕竟我曾经是大名鼎鼎的七英雄之首。
+EN|After all, I was once the renowned leader of the Seven Heroes.
+
+###47 key=KiliansTruth_cn_caption7-EpicRuinFromLight- field=name
+KO|是时候说出尘封已久的真相了。
+EN|It's time to reveal the truth that has been buried for so long.
+
+###48 key=KiliansTruth_cn_caption8-EpicRuinFromLight- field=name
+KO|那天，为了封印魔方，
+EN|That day, in order to seal Lapenta,
+
+###49 key=KiliansTruth_cn_caption9-EpicRuinFromLight- field=name
+KO|我与七英雄之一，我的好友巴伦一起前往黑暗之地。
+EN|I traveled to the Dark Land with Baron, one of the Seven Heroes and my close friend.
+
+###50 key=KiliansTruth_cn_caption10-EpicRuinFromLight- field=name
+KO|到达黑暗之地后，我们才知道，
+EN|After reaching the Dark Land, we realized
+
+###51 key=KiliansTruth_cn_caption11-EpicRuinFromLight- field=name
+KO|要封印魔方，必须要有索菲女王的力量。
+EN|that sealing Lapenta required the power of Empress Ereve.
+
+###52 key=KiliansTruth_cn_caption12-EpicRuinFromLight- field=name
+KO|巴伦为了禀报此事匆忙赶往特莱雅，
+EN|Baron rushed to Tria to report this,
+
+###53 key=KiliansTruth_cn_caption13-EpicRuinFromLight- field=name
+KO|而我则留下来观察情况……
+EN|while I stayed behind to observe the situation…
+
+###54 key=KiliansTruth_cn_caption14-EpicRuinFromLight- field=name
+KO|然而，封印的状态急速恶化，\n我不得不立刻做出决断！
+EN|However, the seal was deteriorating rapidly,⏎and I had to make an immediate decision!
+
+###55 key=KiliansTruth_cn_caption15-EpicRuinFromLight- field=name
+KO|即使孤身一人，我也努力靠自己的力量尝试封印。
+EN|Even alone, I tried to complete the seal with my own power.
+
+###56 key=KiliansTruth_cn_caption16-EpicRuinFromLight- field=name
+KO|哪怕……要付出生命的代价。
+EN|Even if... it cost me my life.
+
+###57 key=KiliansTruth_cn_caption17-EpicRuinFromLight- field=name
+KO|虽然侥幸封印成功，但力量消耗过大，我渐渐失去意识。
+EN|Though I barely managed to seal it, I had expended too much power and was losing consciousness.
+
+###58 key=KiliansTruth_cn_caption18-EpicRuinFromLight- field=name
+KO|突然，我感知到巴伦的气息消失了！
+EN|Suddenly, I sensed Baron's life force vanish!
+
+###59 key=KiliansTruth_cn_caption19-EpicRuinFromLight- field=name
+KO|这时，我第一次对女王起了疑心。
+EN|At that moment, for the first time, I doubted the Empress.
+
+###60 key=KiliansTruth_cn_caption20-EpicRuinFromLight- field=name
+KO|难道她不是没得到消息， \n而是刻意无视了我们的请求？
+EN|What if she hadn't failed to receive the message,⏎but had deliberately ignored our plea?
+
+###61 key=KiliansTruth_cn_caption21-EpicRuinFromLight- field=name
+KO|难道，象征着光明的女王陛下抛弃了我们……？
+EN|Could it be that the Empress, the symbol of light, had abandoned us...?
+
+###62 key=KiliansTruth_cn_caption22-EpicRuinFromLight- field=name
+KO|就在那一瞬间
+EN|In that very instant,
+
+###63 key=KiliansTruth_cn_caption23-EpicRuinFromLight- field=name
+KO|我看见了光之女王用她那强大的力量，毁灭这个世界的景象。
+EN|I saw a vision of the Empress using her immense power to destroy the world.
+
+###64 key=KiliansTruth_cn_caption24-EpicRuinFromLight- field=name
+KO|当光之长枪没有指向黑暗，而是对准我们的那一天，
+EN|The day the spear of light points not at darkness, but at us,
+
+###65 key=KiliansTruth_cn_caption25-EpicRuinFromLight- field=name
+KO|我们将遭受[来自光明的毁灭]……
+EN|we shall face Ruin from the Light…
+
+###66 key=KiliansTruth_cn_caption26-EpicRuinFromLight- field=name
+KO|自那以后，我为了阻止女王毁灭世界，制定并实施了一系列计划。
+EN|Since then, I have devised and carried out many plans to stop the Empress from destroying the world.
+
+###67 key=KiliansTruth_cn_caption27-EpicRuinFromLight- field=name
+KO|其中倾注最多心血准备的就是这轮黑月。 
+EN|The one I poured the most effort into is this Black Moon. 
+
+###68 key=KiliansTruth_cn_caption28-EpicRuinFromLight- field=name
+KO|索菲女王……必须将她封印。
+EN|Empress Ereve... she must be sealed.
+
+###69 key=KiliansTruth_cn_caption29-EpicRuinFromLight- field=name
+KO|你应该见过最近在特莱雅出现的黑色物质吧？
+EN|You must have seen the dark substances that recently appeared in Tria?
+
+###70 key=KiliansTruth_cn_caption30-EpicRuinFromLight- field=name
+KO|那正是潜伏在女王体内的不安因素具象化的结晶。
+EN|Those are the crystallization of the unstable future lurking within the Empress.
+
+###71 key=KiliansTruth_cn_caption31-EpicRuinFromLight- field=name
+KO|这就是末日即将来临的证据！ 
+EN|This is proof that the end is coming! 
+
+###72 key=KiliansTruth_cn_caption32-EpicRuinFromLight- field=name
+KO|世界将被光明毁灭……
+EN|The world will be destroyed by the light…
+
+###73 key=KiliansTruth_cn_caption33-EpicRuinFromLight- field=name
+KO|要阻止那个预言成真，只有这一个办法了。
+EN|There is only one way to stop that prophecy from coming true.
+
+###74 key=KiliansTruth_cn_caption34-EpicRuinFromLight- field=name
+KO|过去那个英雄已经死了。
+EN|The hero of the past is dead.
+
+###75 key=KiliansTruth_cn_caption35-EpicRuinFromLight- field=name
+KO|现在的我，为了阻止世界毁灭会不惜一切。
+EN|Now, I will stop at nothing to prevent the world's destruction.
+
+###76 key=KiliansTruth_cn_caption36-EpicRuinFromLight- field=name
+KO|凡是听说过预言的人，都不可能不正视真相。
+EN|Anyone who has heard the prophecy cannot turn a blind eye to the truth.
+
+###77 key=KiliansTruth_cn_caption37-EpicRuinFromLight- field=name
+KO|小子，如今真相摆在你面前……
+EN|Kid, the truth is now laid before you…
+
+###78 key=KiliansTruth_cn_caption38-EpicRuinFromLight- field=name
+KO|抉择的时候到了。
+EN|The time has come to decide.
+
+###79 key=KiliansTruth_cn_caption39-EpicRuinFromLight- field=name
+KO|追随真实，还是执迷于谎言……
+EN|Follow the truth, or cling to lies…
+
+###80 key=KiliansTruth_cn_caption40-EpicRuinFromLight- field=name
+KO|选择吧。
+EN|Choose.
+

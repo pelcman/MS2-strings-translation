@@ -1,0 +1,772 @@
+###1 key=10000331-Zakum01- field=name
+KO|자쿰 정복자
+EN|Zakum Conqueror
+
+###2 key=10000344-Develop- field=name
+KO|高级驯兽师
+EN|
+
+###3 key=10000464-WorldChampionMushroom- field=name
+KO|크림 빌런
+EN|Cream Villain
+
+###4 key=10000544-WorldChampionMushroom- field=name
+KO|반짝반짝 눈이 부신
+EN|Dazzlingly Sparkling
+
+###5 key=10000545-WorldChampionMushroom- field=name
+KO|먹기 위해 태어난
+EN|Born to Eat
+
+###6 key=10000546-WorldChampionMushroom- field=name
+KO|다이어트 중
+EN|On a Diet
+
+###7 key=10000547-WorldChampionMushroom- field=name
+KO|조각같은
+EN|Sculpted
+
+###8 key=10000548-WorldChampionMushroom- field=name
+KO|즐길 줄 아는
+EN|Knows How to Have Fun
+
+###9 key=10000549-WorldChampionMushroom- field=name
+KO|시무룩
+EN|Gloomy
+
+###10 key=10000550-WorldChampionMushroom- field=name
+KO|곰처럼 푸근한
+EN|Warm as a Bear
+
+###11 key=10000551-WorldChampionMushroom- field=name
+KO|고양이 좋아!
+EN|Loves Cats!
+
+###12 key=10000552-WorldChampionMushroom- field=name
+KO|완벽한
+EN|Perfect
+
+###13 key=10000553-WorldChampionMushroom- field=name
+KO|일곱 무지개
+EN|Seven Rainbows
+
+###14 key=10000554-WorldChampionMushroom- field=name
+KO|괴짜
+EN|Oddball
+
+###15 key=10000555-WorldChampionMushroom- field=name
+KO|춤신춤왕
+EN|Dance Master
+
+###16 key=10000556-WorldChampionMushroom- field=name
+KO|해맑은
+EN|Bright-Eyed
+
+###17 key=10000557-WorldChampionMushroom- field=name
+KO|부자
+EN|Rich
+
+###18 key=10000558-WorldChampionMushroom- field=name
+KO|승리의
+EN|Victorious
+
+###19 key=10000559-WorldChampionMushroom- field=name
+KO|외로움 타는
+EN|Prone to Loneliness
+
+###20 key=10000560-WorldChampionMushroom- field=name
+KO|살려줘!
+EN|Save Me!
+
+###21 key=10000561-WorldChampionMushroom- field=name
+KO|훌륭한 옷걸이
+EN|Perfect Clothes Hanger
+
+###22 key=10000562-WorldChampionMushroom- field=name
+KO|푹신푹신한
+EN|Soft and Fluffy
+
+###23 key=10000563-WorldChampionMushroom- field=name
+KO|병약한
+EN|Sickly
+
+###24 key=10000576-Fishing02- field=name
+KO|낚시 좀 해본
+EN|Fair Fisher
+
+###25 key=10000577-Fishing02- field=name
+KO|허세부리는
+EN|Bluffing
+
+###26 key=10000578-Fishing02- field=name
+KO|물고기 대왕님
+EN|Great Fisher
+
+###27 key=10000579-Fishing02- field=name
+KO|유유자적
+EN|Easygoing
+
+###28 key=10000580-Fishing02- field=name
+KO|허탕친
+EN|Fruitless Laborer
+
+###29 key=10000581-Fishing02- field=name
+KO|인어
+EN|$male:Merman,female:Mermaid$
+
+###30 key=10000582-Fishing02- field=name
+KO|바다를 사랑한
+EN|Ocean Lover
+
+###31 key=10000583-Fishing02- field=name
+KO|포이즌
+EN|Poison
+
+###32 key=10000584-Fishing02- field=name
+KO|느끼한
+EN|Greasy
+
+###33 key=10000585-Fishing02- field=name
+KO|가녀린
+EN|Slender
+
+###34 key=10000586-Fishing02- field=name
+KO|열정의 낚시꾼
+EN|Fired-up Fisher
+
+###35 key=10000587-Fishing02- field=name
+KO|푸른 하늘 아래
+EN|Blue Skies
+
+###36 key=10000588-Fishing02- field=name
+KO|무신경한
+EN|Indifferent
+
+###37 key=10000589-Fishing02- field=name
+KO|월척이 따르는
+EN|Prize Fish Magnet
+
+###38 key=10000590-Fishing02- field=name
+KO|낚시줄처럼 질긴
+EN|Fishing Line Tough
+
+###39 key=10000591-Fishing02- field=name
+KO|해산물 킬러
+EN|Seafood Killer
+
+###40 key=10000592-Fishing02- field=name
+KO|은둔 고수
+EN|Hermit
+
+###41 key=10000593-Fishing02- field=name
+KO|낚시왕을 꿈꾸는
+EN|Someday Champion
+
+###42 key=10000594-Fishing02- field=name
+KO|낚시밖에 모르는 바보
+EN|Fishing-Focused
+
+###43 key=10000602-Fishing02- field=name
+KO|프로 낚시꾼
+EN|Pro Angler
+
+###44 key=10000603-Fishing02- field=name
+KO|챔피언 낚시꾼
+EN|Champion Angler
+
+###45 key=10000604-Fishing02- field=name
+KO|크리티아스 낚시꾼
+EN|Kritias Angler
+
+###46 key=10000605-Fishing02- field=name
+KO|크리티아스 물고기 박사
+EN|Kritias Fish Expert
+
+###47 key=10000606-Fishing02- field=name
+KO|엉엉
+EN|SOB
+
+###48 key=10000607-Fishing02- field=name
+KO|잉잉
+EN|$male:King SOB,female:Queen SOB$
+
+###49 key=10000609-Fishing02- field=name
+KO|낚시가 즐거운
+EN|Sport Fisher
+
+###50 key=10000610-Fishing02- field=name
+KO|천사 지망생
+EN|Would-Be Angel
+
+###51 key=10000611-Fishing02- field=name
+KO|푸른 천사
+EN|Blue Angel
+
+###52 key=10000612-Fishing02- field=name
+KO|물에 잘 뜨는
+EN|Buoyant
+
+###53 key=10000613-Fishing02- field=name
+KO|꽃처럼 아름다운
+EN|$male:Flower Boy,female:Flower Girl$
+
+###54 key=10000614-Fishing02- field=name
+KO|젤리링
+EN|Jelly-Like
+
+###55 key=10000615-Fishing02- field=name
+KO|기운이 넘치는
+EN|Energetic
+
+###56 key=10000616-Fishing02- field=name
+KO|기계일 수도 있는
+EN|Android
+
+###57 key=10000617-Fishing02- field=name
+KO|부끄부끄
+EN|Embarrassed
+
+###58 key=10000618-Fishing02- field=name
+KO|낚시할 맛이 나는
+EN|Would-Rather-Be-Fishing
+
+###59 key=10000619-Fishing02- field=name
+KO|투명한
+EN|Invisible
+
+###60 key=10000620-Fishing02- field=name
+KO|고운 빛깔
+EN|Shimmering
+
+###61 key=10000621-Fishing02- field=name
+KO|하늘하늘한
+EN|Soft
+
+###62 key=10000622-Fishing02- field=name
+KO|빛나는 낚시꾼
+EN|Brilliant Angler
+
+###63 key=10000623-Fishing02- field=name
+KO|보석처럼 반짝이는
+EN|Bejeweled
+
+###64 key=10000624-Fishing02- field=name
+KO|위험한 물고기를 잡은
+EN|Fish Murderer
+
+###65 key=10000625-Fishing02- field=name
+KO|세월이 느껴지는
+EN|$male:Old Man,female:Old Woman$
+
+###66 key=10000626-Fishing02- field=name
+KO|고성의 주인
+EN|Castellan
+
+###67 key=10000627-Fishing02- field=name
+KO|용감한 낚시꾼
+EN|Brave Angler
+
+###68 key=10000630-Fishing02- field=name
+KO|에메랄드
+EN|Emerald
+
+###69 key=10000631-Fishing02- field=name
+KO|헷갈리는
+EN|Confused
+
+###70 key=10000633-Fishing02- field=name
+KO|활어 전문가
+EN|Archer-Angler
+
+###71 key=10000635-Fishing02- field=name
+KO|아름답지만 위험한
+EN|$male:Homme Fatale,female:Femme Fatale$
+
+###72 key=10000636-Fishing02- field=name
+KO|패션을 아는 낚시꾼
+EN|Fashionista Angler
+
+###73 key=10000651-JobChange_02- field=name
+KO|세인츠
+EN|Temple Knight
+
+###74 key=10000652-JobChange_02- field=name
+KO|블러디
+EN|$male:Madman,female:Madwoman$
+
+###75 key=10000653-JobChange_02- field=name
+KO|매지컬
+EN|Arch-Wizard
+
+###76 key=10000654-JobChange_02- field=name
+KO|하이
+EN|High Priest
+
+###77 key=10000655-JobChange_02- field=name
+KO|샤프
+EN|Ace Archer
+
+###78 key=10000656-JobChange_02- field=name
+KO|하이퍼
+EN|Mad Scientist
+
+###79 key=10000657-JobChange_02- field=name
+KO|팬텀
+EN|Phantom
+
+###80 key=10000659-JobChange_02- field=name
+KO|아케인
+EN|Arcane Blade
+
+###81 key=10000660-JobChange_02- field=name
+KO|얼티밋
+EN|Ultimate
+
+###82 key=10000661-JobChange_02- field=name
+KO|미스틱
+EN|Mystic
+
+###83 key=10000662-Kritias_2018_12- field=name
+KO|빛의 수호자
+EN|Guardian of Light
+
+###84 key=10000663-Kritias_2018_12- field=name
+KO|모두의 영웅
+EN|Everyone's Hero
+
+###85 key=10000664-Kritias_2018_12- field=name
+KO|환경을 사랑하는
+EN|Environmentalist
+
+###86 key=10000665-Kritias_Balrog01- field=name
+KO|불멸을 잠재운
+EN|Immortal Slayer
+
+###87 key=10000666-Kritias_Paika01- field=name
+KO|어둠을 이겨낸
+EN|Darkness Defeater
+
+###88 key=10000667-Kritias_Balrog01- field=name
+KO|필멸자
+EN|Mortal
+
+###89 key=10000668-Kritias_Paika01- field=name
+KO|빛나는
+EN|Shiny
+
+###90 key=10000669-Fieldwar01- field=name
+KO|해충박멸
+EN|Pest Exterminator
+
+###91 key=10000670-Fieldwar01- field=name
+KO|잘나가는
+EN|On-a-Roll
+
+###92 key=10000671-Fieldwar01- field=name
+KO|자비없는
+EN|Merciless
+
+###93 key=10000672-Fieldwar01- field=name
+KO|군단장
+EN|Commander
+
+###94 key=10000673-Kritias_2018_12- field=name
+KO|새 대륙, 새 각오
+EN|$male:Frontiersman,female:Frontierswoman$
+
+###95 key=10000674-Kritias_2018_12- field=name
+KO|크리티아스의 샛별
+EN|Rising Star of Kritias
+
+###96 key=10000675-Kritias_2018_12- field=name
+KO|크리티아스의 희망
+EN|Hope of Kritias
+
+###97 key=10000676-Kritias_2018_12- field=name
+KO|크리티아스의 영웅
+EN|Hero of Kritias
+
+###98 key=10000677-Kritias_2018_12- field=name
+KO|크리티아스 특무대 특급 용사
+EN|Kritias Agent
+
+###99 key=10000678-Kritias_2018_12- field=name
+KO|크리티아스 조사대 수석 대원
+EN|Kritias Researcher
+
+###100 key=10000679-Kritias_2018_12- field=name
+KO|크리티아스 탐사대 신관 기사
+EN|Kritias Templar
+
+###101 key=10000680-Kritias_2018_12- field=name
+KO|크리티아스 D급 임무 전문 대원
+EN|Kritias D-Class Specialist
+
+###102 key=10000681-Kritias_2018_12- field=name
+KO|크리티아스 C급 상황 대응반
+EN|Kritias C-Class Responder
+
+###103 key=10000682-Kritias_2018_12- field=name
+KO|크리티아스 B급 작전 담당관
+EN|Kritias B-Class Operator
+
+###104 key=10000683-Kritias_2018_12- field=name
+KO|크리티아스 A급 기동 부대원
+EN|Kritias A-Class Enforcer
+
+###105 key=10000684-Kritias_2018_12- field=name
+KO|크리티아스 S급 특수 전술가
+EN|Kritias S-Class Tactician
+
+###106 key=10000685-Kritias_Inferno01- field=name
+KO|동맹의 수호자
+EN|Alliance Defender
+
+###107 key=10000686-Kritias_2018_12- field=name
+KO|일기장을 훔쳐 본
+EN|Journal Snoop
+
+###108 key=10000687-Kritias_Zakum01- field=name
+KO|악마의 나무 벌목꾼
+EN|Demon Lumberjack
+
+###109 key=10000688-Kritias_2018_12- field=name
+KO|크리티아스를 지키는 영웅
+EN|Hero of Kritias
+
+###110 key=10000690-Kritias_2018_12- field=name
+KO|블리체의 고양이
+EN|First Officer
+
+###111 key=10000691-Kritias_2018_12- field=name
+KO|메이슨의 백염룡
+EN|The Prophesied
+
+###112 key=10000692-Kritias_2018_12- field=name
+KO|네이린의 큐티
+EN|Nairin's Favorite
+
+###113 key=10000693-Kritias_2018_12- field=name
+KO|키델 탐험가
+EN|Kidel Explorer
+
+###114 key=10000694-Gigantica01- field=name
+KO|소환술사
+EN|Conjurer
+
+###115 key=10000695-Gigantica01- field=name
+KO|파일럿
+EN|Pilot
+
+###116 key=10000696-Kritias_Balrog01- field=name
+KO|포병
+EN|Bombardier
+
+###117 key=10000697-Gigantica01- field=name
+KO|로봇 사냥꾼
+EN|Robot Hunter
+
+###118 key=10000698-Gigantica01- field=name
+KO|파괴왕
+EN|Demolisher
+
+###119 key=10000699-Gigantica01- field=name
+KO|기간티카의 주인
+EN|Gigantica's Master
+
+###120 key=10000700-Pet_70Lv_Taming- field=name
+KO|타이렌 로봇 마니아
+EN|Tairen Roboticist
+
+###121 key=10000701-Pet_70Lv_Taming- field=name
+KO|휴롯
+EN|Huborg
+
+###122 key=10000702-Pet_70Lv_Taming- field=name
+KO|공룡 사육사
+EN|Dinosaur Breeder
+
+###123 key=10000703-Pet_70Lv_Taming- field=name
+KO|크리티아스 원주민
+EN|Kritian
+
+###124 key=10000704-Pet_70Lv_Taming- field=name
+KO|크리티아스 곤충학자
+EN|Kritias Entomologist
+
+###125 key=10000705-Kritias_2018_12- field=name
+KO|파수견의 주인
+EN|Guard Dog's Master
+
+###126 key=10000706-Kritias_2018_12- field=name
+KO|어둠에 먹힌
+EN|Devoured
+
+###127 key=10000707-Kritias_2018_12- field=name
+KO|동굴 탐험가
+EN|Spelunker
+
+###128 key=10000708-Kritias_2018_12- field=name
+KO|꽃을 든 모험가
+EN|Florist
+
+###129 key=10000709-Kritias_2018_12- field=name
+KO|거짓말쟁이
+EN|Liar
+
+###130 key=10000710-Kritias_2018_12- field=name
+KO|심마니
+EN|Ginseng Digger
+
+###131 key=10000711-Kritias_2018_12- field=name
+KO|생계형 모험가
+EN|Pensioner
+
+###132 key=10000714-Kritias_Zakum01- field=name
+KO|퇴마사
+EN|Exorcist
+
+###133 key=10000715-Kritias_Inferno01- field=name
+KO|고대의
+EN|Ancient
+
+###134 key=10000717-Kritias_Inferno01- field=name
+KO|일격필살
+EN|Deadly
+
+###135 key=10000737-Fieldwar02- field=name
+KO|실속있는
+EN|Sturdy
+
+###136 key=10000738-Fieldwar02- field=name
+KO|날렵한
+EN|Agile
+
+###137 key=10000739-Fieldwar02- field=name
+KO|깡통차는
+EN|Can Kicker
+
+###138 key=10000740-Fieldwar02- field=name
+KO|포수
+EN|Hunter
+
+###139 key=10000743-Colosseum01- field=name
+KO|퀸크빈 럼블 매니아
+EN|Queen Bean Fanatic
+
+###140 key=10000744-Colosseum01- field=name
+KO|퀸크빈의
+EN|Queen Bean's
+
+###141 key=10000752-Fame_Geo01- field=name
+KO|특급 저항군
+EN|Special-Class Resistance
+
+###142 key=10000753-Fame_Geo01- field=name
+KO|$npcName:11004395$의 영웅
+EN|Hero of $npcName:11004395$
+
+###143 key=10000754-Fame_Geo01- field=name
+KO|천재 해커
+EN|Genius Hacker
+
+###144 key=10000756-Kritias02- field=name
+KO|애어른
+EN|Old Soul
+
+###145 key=10000757-Kritias02- field=name
+KO|카사노바
+EN|Casanova
+
+###146 key=10000758-Kritias02- field=name
+KO|짝사랑꾼
+EN|Unrequited Lover
+
+###147 key=10000765-Kritias_Turka01- field=name
+KO|최강병기
+EN|Ultimate Weapon
+
+###148 key=10000766-Kritias_Turka02- field=name
+KO|거신 파괴자
+EN|Giant Destroyer
+
+###149 key=10000767-Kritias_Turka03- field=name
+KO|인류의 희망
+EN|Hope of Humanity
+
+###150 key=10000768-Kritias_Turka01- field=name
+KO|인류 최강의
+EN|Humanity's Strongest
+
+###151 key=10000769-Kritias_Turka02- field=name
+KO|산을 무너뜨리는
+EN|Mountain-Crushing
+
+###152 key=10000770-Kritias_Turka03- field=name
+KO|어둠을 가르는
+EN|Cleaving the Darkness
+
+###153 key=10000781-Fame_Geo01- field=name
+KO|마를레네의 의지
+EN|Marlene's Will
+
+###154 key=10000793-Wedding- field=name
+KO|따뜻한 신랑
+EN|Simple Groom
+
+###155 key=10000794-Wedding- field=name
+KO|따뜻한 신부
+EN|Simple Bride
+
+###156 key=10000795-Wedding- field=name
+KO|다정한 신랑
+EN|Fond Groom
+
+###157 key=10000796-Wedding- field=name
+KO|다정한 신부
+EN|Fond Bride
+
+###158 key=10000797-Wedding- field=name
+KO|사려깊은 신랑
+EN|Thoughtful Groom
+
+###159 key=10000798-Wedding- field=name
+KO|사려깊은 신부
+EN|Thoughtful Bride
+
+###160 key=10000799-Wedding- field=name
+KO|신뢰받는 신랑
+EN|Trusted Groom
+
+###161 key=10000800-Wedding- field=name
+KO|신뢰받는 신부
+EN|Trusted Bride
+
+###162 key=10000801-Wedding- field=name
+KO|햇살 가득 신랑
+EN|Sunshined Groom
+
+###163 key=10000802-Wedding- field=name
+KO|햇살 가득 신부
+EN|Sunshined Bride
+
+###164 key=10000803-Wedding- field=name
+KO|달빛 은은 신랑
+EN|Moonlight Silver Groom
+
+###165 key=10000804-Wedding- field=name
+KO|달빛 은은 신부
+EN|Moonlight Silver Bride
+
+###166 key=10000805-Wedding- field=name
+KO|강인한 신랑
+EN|Tough Groom
+
+###167 key=10000806-Wedding- field=name
+KO|강인한 신부
+EN|Tough Bride
+
+###168 key=10000807-Wedding- field=name
+KO|진중한 신랑
+EN|Serious Groom
+
+###169 key=10000808-Wedding- field=name
+KO|진중한 신부
+EN|Serious Bride
+
+###170 key=10000809-Wedding- field=name
+KO|축복받은 신랑
+EN|Blessed Groom
+
+###171 key=10000810-Wedding- field=name
+KO|축복받은 신부
+EN|Blessed Bride
+
+###172 key=10000811-Wedding- field=name
+KO|빛나는 신랑
+EN|Shining Groom
+
+###173 key=10000812-Wedding- field=name
+KO|빛나는 신부
+EN|Shining Bride
+
+###174 key=10000813-Wedding- field=name
+KO|산뜻한 신랑
+EN|Beautiful Groom
+
+###175 key=10000814-Wedding- field=name
+KO|산뜻한 신부
+EN|Beautiful Bride
+
+###176 key=10000815-Wedding- field=name
+KO|화려한 신랑
+EN|Fancy Groom
+
+###177 key=10000816-Wedding- field=name
+KO|화려한 신부
+EN|Fancy Bride
+
+###178 key=10000823-Wedding- field=name
+KO|임자 있는
+EN|Someone Else's
+
+###179 key=10000824-Wedding- field=name
+KO|열 번 찍는
+EN|Chasing Love
+
+###180 key=10000825-Wedding- field=name
+KO|철벽
+EN|Love-proof
+
+###181 key=10000826-Wedding- field=name
+KO|구경하는
+EN|Watcher
+
+###182 key=10000827-Wedding- field=name
+KO|사랑밖에 모르는
+EN|Know Nothing but Love
+
+###183 key=10000828-Wedding- field=name
+KO|사진 속
+EN|In the Picture
+
+###184 key=10000829-Wedding- field=name
+KO|환상 속의
+EN|Visionary
+
+###185 key=10000830-Wedding- field=name
+KO|바닷속
+EN|Beneath Waves
+
+###186 key=10000831-Wedding- field=name
+KO|스위트 헌터
+EN|Sweet Hunter
+
+###187 key=10000832-Wedding- field=name
+KO|웨딩 댄서
+EN|Wedding Dancer
+
+###188 key=10000833-Wedding- field=name
+KO|돌아온 싱글
+EN|Single Again
+
+###189 key=10000838-UnlimitedEnchant- field=name
+KO|무한한 힘의
+EN|Of Infinite Power
+
+###190 key=10000841-EpicApocalypse01- field=name
+KO|그것이 알고 싶은
+EN|Wants to Know the Truth
+
+###191 key=10000842-EpicApocalypse01- field=name
+KO|걱정스런
+EN|Worried
+
+###192 key=10000843-EpicApocalypse01- field=name
+KO|환영 속 방랑자
+EN|Illusion Wanderer
+
+###193 key=10000844-EpicApocalypse01- field=name
+KO|선을 넘는
+EN|Line Crosser
+

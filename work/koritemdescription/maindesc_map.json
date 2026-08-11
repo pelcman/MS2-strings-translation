@@ -1,0 +1,12 @@
+{
+  "_comment": "mainDescription (見落としフィールド) のKO→JA。改行はリテラル\\n。",
+  "<font size='14'>冷却时间?秒</font>\\n<font size='24'>增强</font>": "<font size='14'>クールタイム?秒</font>\\n<font size='24'>強化</font>",
+  "<font size='14'>쿨타임 5초</font>\\n<font size='24'>HP 1600 회복</font>": "<font size='14'>クールタイム5秒</font>\\n<font size='24'>HP1600回復</font>",
+  "<font size='14'>쿨타임 5초</font>\\n<font size='24'>HP 2400 회복</font>": "<font size='14'>クールタイム5秒</font>\\n<font size='24'>HP2400回復</font>",
+  "<font size='14'>쿨타임 5초</font>\\n<font size='24'>HP 3600 회복</font>": "<font size='14'>クールタイム5秒</font>\\n<font size='24'>HP3600回復</font>",
+  "<font size='14'>쿨타임 15분 | 지속시간 15분</font>\\n<font size='24'>에네르바 섭취</font>": "<font size='14'>クールタイム15分 | 持続時間15分</font>\\n<font size='24'>エネルバー摂取</font>",
+  "<font size='14'>쿨타임 15분 | 지속시간 15분</font>\\n<font size='16'>에네르드링크 섭취</font>": "<font size='14'>クールタイム15分 | 持続時間15分</font>\\n<font size='16'>エネルドリンク摂取</font>",
+  "<font size='14'>쿨타임 20초</font>\\n<font size='24'>머쉬킹표 독버섯 먹기</font>": "<font size='14'>クールタイム20秒</font>\\n<font size='24'>マッシュキング印の毒キノコを食べる</font>",
+  "<font size='14'>쿨타임 30일</font>\\n<font size='24'>친밀도 상승</font>": "<font size='14'>クールタイム30日</font>\\n<font size='24'>親密度上昇</font>",
+  "<font size='14'>쿨타임 2분</font>\\n<font size='24'>배우자 소환</font>": "<font size='14'>クールタイム2分</font>\\n<font size='24'>配偶者召喚</font>"
+}

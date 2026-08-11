@@ -1,0 +1,856 @@
+###1 key=21100065-JobChange_02- field=name
+KO|(계정) 마스터 세인츠 나이트!
+EN|(Account) Master Knight II
+
+###2 key=21100066-JobChange_02- field=name
+KO|(계정) 마스터 블러디 버서커!
+EN|(Account) Master Berserker II
+
+###3 key=21100067-JobChange_02- field=name
+KO|(계정) 마스터 매지컬 위자드!
+EN|(Account) Master Wizard II
+
+###4 key=21100068-JobChange_02- field=name
+KO|(계정) 마스터 하이 프리스트!
+EN|(Account) Master Priest II
+
+###5 key=21100069-JobChange_02- field=name
+KO|(계정) 마스터 샤프 레인저!
+EN|(Account) Master Archer II
+
+###6 key=21100070-JobChange_02- field=name
+KO|(계정) 마스터 하이퍼 헤비거너!
+EN|(Account) Master Heavy Gunner II
+
+###7 key=21100071-JobChange_02- field=name
+KO|(계정) 마스터 팬텀 시프!
+EN|(Account) Master Thief II
+
+###8 key=21100072-JobChange_02- field=name
+KO|(계정) 마스터 쉐도우 어쌔신!
+EN|(Account) Master Assassin II
+
+###9 key=21100073-JobChange_02- field=name
+KO|(계정) 마스터 아케인 룬 블레이더!
+EN|(Account) Master Runeblade II
+
+###10 key=21100074-JobChange_02- field=name
+KO|(계정) 마스터 얼티밋 스트라이커!
+EN|(Account) Master Striker II
+
+###11 key=21100075-JobChange_02- field=name
+KO|(계정) 마스터 미스틱 소울바인더!
+EN|(Account) Master Soul Binder II
+
+###12 key=21100076-JobChange_02- field=name
+KO|새로운 자신
+EN|A New Self
+
+###13 key=21210027-Kritias_2018_12- field=name
+KO|무찌르자 타이렌!
+EN|Versus Tairen
+
+###14 key=21210028-Kritias_2018_12- field=name
+KO|어둠을 밝히는 빛
+EN|A Light in the Dark
+
+###15 key=21210029-Kritias_2018_12- field=name
+KO|우리강산 푸르게 푸르게
+EN|Greenification
+
+###16 key=21230020-Zakum01- field=name
+KO|(계정) 자쿰 정복자
+EN|(Account) Zakum's Vanquisher
+
+###17 key=21230142-Kritias_Balrog01- field=name
+KO|(계정) 불멸의 최후
+EN|(Account) The Immortal's End
+
+###18 key=21230143-Kritias_Paika01- field=name
+KO|(계정) 그릇된 욕망
+EN|(Account) A Wrong Desire
+
+###19 key=21230144-Fieldwar01- field=name
+KO|(계정) 난 벌레가 싫어!
+EN|(Account) Insecticidal
+
+###20 key=21230145-Fieldwar01- field=name
+KO|(계정) 내가 이런 사람이야
+EN|(Account) A Certain Type
+
+###21 key=21230146-Gigantica01- field=name
+KO|(계정) 거대 병기
+EN|(Account) The Gigantic Weapon
+
+###22 key=21230147-Gigantica01- field=name
+KO|전쟁의 시작을 알려라!
+EN|Declare War
+
+###23 key=21230148-Gigantica01- field=name
+KO|내가 탈거야!
+EN|Mount Up
+
+###24 key=21230149-Kritias_Balrog01- field=name
+KO|쏘고 또 쏘고
+EN|Repeater Fire
+
+###25 key=21230150-Kritias_Zakum01- field=name
+KO|(계정) 고대의 악마
+EN|(Account) Ancient Devil
+
+###26 key=21230151-Kritias_Inferno01- field=name
+KO|(계정) 처음이자 마지막
+EN|(Account) First and Last
+
+###27 key=21230152-Fieldwar02- field=name
+KO|(계정) 속없는 놈
+EN|(Account) Imprudent
+
+###28 key=21230153-Fieldwar02- field=name
+KO|(계정) 오리가 아니네
+EN|(Account) Not a Duck
+
+###29 key=21230154-Colosseum01- field=name
+KO|승리의 환희
+EN|Joy of Victory
+
+###30 key=21230155-Colosseum01- field=name
+KO|드디어 입상!
+EN|Victory at Last
+
+###31 key=21230156-Colosseum01- field=name
+KO|냉정과 열정
+EN|Passion Restrained
+
+###32 key=21230157-Colosseum01- field=name
+KO|요리만 잘하는게 아니네
+EN|Bistro Battle
+
+###33 key=21230158-Colosseum01- field=name
+KO|때릴거야?
+EN|Bunny Bully
+
+###34 key=21230159-Colosseum01- field=name
+KO|명예로운 기사단
+EN|Gallant Knight
+
+###35 key=21230160-Colosseum01- field=name
+KO|마법소녀
+EN|Magic Lady
+
+###36 key=21230161-Colosseum01- field=name
+KO|사랑과 증오
+EN|Loved/Hated
+
+###37 key=21230162-Colosseum01- field=name
+KO|전사의 후예
+EN|The Young Chief
+
+###38 key=21230163-Colosseum01- field=name
+KO|빛과 어둠 사이
+EN|Between Light and Darkness
+
+###39 key=21230164-Colosseum01- field=name
+KO|천하제일
+EN|Unrivaled
+
+###40 key=21230165-Colosseum01- field=name
+KO|용의 후예
+EN|Dragon's Heiress
+
+###41 key=21230166-Colosseum01- field=name
+KO|퀸크빈 럼블 마스터
+EN|Queen Bean Rumble Master
+
+###42 key=21230167-Kritias_Turka01- field=name
+KO|(계정) 타이렌 정예 병기
+EN|(Account) Elite Tyren Weapon
+
+###43 key=21230168-Kritias_Turka02- field=name
+KO|(계정) 거신병
+EN|(Account) Colossus Soldier
+
+###44 key=21230169-Kritias_Turka03- field=name
+KO|(계정) 안녕! 투르카
+EN|(Account) Goodbye, Turka!
+
+###45 key=21230170-Colosseum02- field=name
+KO|진검승부
+EN|True Showdown
+
+###46 key=21230171-Colosseum02- field=name
+KO|꼭 혼내주고 싶었어
+EN|I Really Wanted to Teach You a Lesson
+
+###47 key=21230172-Colosseum02- field=name
+KO|별의 아이
+EN|Child of the Stars
+
+###48 key=21230173-BlackBean01- field=name
+KO|(계정) 부릉부릉 뿡뿡! 검정콩
+EN|(Account) Vroom Vroom, Poot Poot! Black Bean
+
+###49 key=21231052-Kritias_Balrog01- field=name
+KO|필멸자의 의지
+EN|Mortal Will
+
+###50 key=21231053-Kritias_Paika01- field=name
+KO|어둠은 어둠속으로
+EN|Darkness unto Darkness
+
+###51 key=21231054-Fieldwar01- field=name
+KO|빌어도 소용없어!
+EN|No Use Begging
+
+###52 key=21231055-Fieldwar01- field=name
+KO|내가 더 강해!
+EN|Contest of Strength
+
+###53 key=21231056-Gigantica01- field=name
+KO|머리를 부수는 최후의 일격
+EN|Breaking the Head
+
+###54 key=21231057-Kritias_Zakum01- field=name
+KO|넘어간다~!
+EN|Falling
+
+###55 key=21231058-Kritias_Inferno01- field=name
+KO|의지를 담은 일격
+EN|Determined Strike
+
+###56 key=21231059-Fieldwar02- field=name
+KO|깡통차기
+EN|Kick the Can
+
+###57 key=21231060-Fieldwar02- field=name
+KO|새인가 사람인가
+EN|Bird or Man?
+
+###58 key=21231061-Kritias_Turka01- field=name
+KO|최강의 힘
+EN|The Strongest Power
+
+###59 key=21231062-Kritias_Turka02- field=name
+KO|산을 무너뜨리다
+EN|Bring Down the Mountain
+
+###60 key=21231063-Kritias_Turka03- field=name
+KO|길고 긴 악연의 끝
+EN|The End of a Long, Long Feud
+
+###61 key=21233021-Gigantica01- field=name
+KO|내동댕이
+EN|Flung
+
+###62 key=21400037-Kritias_2018_12- field=name
+KO|나뭇잎을 휘둘러라!
+EN|Swing the Leaf
+
+###63 key=21400038-Kritias_2018_12- field=name
+KO|괴력의 사나이
+EN|Superhuman Strength
+
+###64 key=21400039-Kritias_2018_12- field=name
+KO|일단 던져라!
+EN|Throw for Today
+
+###65 key=21400040-Kritias02- field=name
+KO|무작정 던져라!
+EN|Throw Without Thinking!
+
+###66 key=21400041-Kritias02- field=name
+KO|에네르 수레를 날려라!
+EN|Launch the Ener Cart!
+
+###67 key=21400042-Kritias02- field=name
+KO|시한 폭탄을 터뜨려라!
+EN|Detonate the Time Bomb!
+
+###68 key=21400043-Kritias02- field=name
+KO|에네르 가로등을 휘둘러라!
+EN|Swing the Ener Streetlight!
+
+###69 key=22200490-Kritias_2018_12- field=name
+KO|키델 탐험가
+EN|Kidel Explorer
+
+###70 key=22200492-Kritias_2018_12- field=name
+KO|새로운 곳을 찾아서 : 크리티아스 키델 지역
+EN|Kidel Cartographer
+
+###71 key=22210018-JobChangeFGT- field=name
+KO|纪念暑期版本专属体验服！
+EN|Commemorating the Summer Version Exclusive Test Server!
+
+###72 key=22210046-Kritias_2018_12- field=name
+KO|동굴속으로
+EN|Into the Cave
+
+###73 key=22210047-Kritias_2018_12- field=name
+KO|꽃밭에서
+EN|In the Flower Garden
+
+###74 key=22210048-Kritias_2018_12- field=name
+KO|벌레가 좋아
+EN|Bug Fan
+
+###75 key=22210049-Kritias_2018_12- field=name
+KO|심봤다
+EN|Eureka
+
+###76 key=22210050-Kritias_2018_12- field=name
+KO|다 먹고 살자고 하는거야
+EN|Making a Living
+
+###77 key=22210051-Kritias02- field=name
+KO|여기엔 슬픈 전설이 있어
+EN|There Is a Sad Legend Here
+
+###78 key=22210052-Kritias02- field=name
+KO|리더의 현실
+EN|The Reality of a Leader
+
+###79 key=22210053-Kritias02- field=name
+KO|모랑계의 전설
+EN|Legend of the Morang World
+
+###80 key=22210054-Kritias02- field=name
+KO|애어른
+EN|Childish Adult
+
+###81 key=22210055-Kritias02- field=name
+KO|상상도 못한 정체
+EN|An Unimaginable Identity
+
+###82 key=22210056-Kritias02- field=name
+KO|이 구역의 카사노바
+EN|The Casanova of This Area
+
+###83 key=22210057-Kritias02- field=name
+KO|너의 사랑 응원할게!
+EN|I Will Support Your Love!
+
+###84 key=22210058-Kritias02- field=name
+KO|여긴 내 구역이야!
+EN|This Is My Area!
+
+###85 key=22210059-Kritias02- field=name
+KO|누구…세요…?
+EN|Who... Are You...?
+
+###86 key=22210060-Kritias02- field=name
+KO|카랑 카랑
+EN|Karan Karan
+
+###87 key=22300137-Kritias_Epic01- field=name
+KO|봉인의 비밀
+EN|Secret of the Seal
+
+###88 key=22300138-Kritias_Epic01- field=name
+KO|새로운 친구
+EN|New Friend
+
+###89 key=22300143-Kritias_Epic02- field=name
+KO|드디어 도달했어!
+EN|Finally Reached It!
+
+###90 key=22300144-Kritias_Epic02- field=name
+KO|처음 뵙겠습니다만?
+EN|I Believe This Is Our First Meeting?
+
+###91 key=22300145-Kritias_Epic02- field=name
+KO|뜻밖의 전문 해커
+EN|An Unexpected Professional Hacker
+
+###92 key=22300146-Kritias_Epic02- field=name
+KO|여제님의 비둘기
+EN|Her Majesty's Messenger Bird
+
+###93 key=22300147-EpicApocalypse01- field=name
+KO|이게 무슨 소리야?
+EN|What Is That Sound?
+
+###94 key=22300148-EpicApocalypse01- field=name
+KO|여제님, 괜찮으세요?
+EN|Your Majesty, Are You All Right?
+
+###95 key=22300149-EpicApocalypse01- field=name
+KO|환영 속 방랑자
+EN|Wanderer in the Illusion
+
+###96 key=22300150-EpicApocalypse01- field=name
+KO|한계의 끝까지
+EN|To the End of the Limit
+
+###97 key=22501001-Kritias_2018_12- field=name
+KO|크리티아스 원정대의 일꾼
+EN|Kritias Expedition's Hand
+
+###98 key=22501002-Kritias_2018_12- field=name
+KO|크리티아스 원정대의 빛
+EN|Kritias Expedition's Light
+
+###99 key=22501003-Kritias_2018_12- field=name
+KO|크리티아스 원정대의 희망
+EN|Kritias Expedition's Hope
+
+###100 key=22501004-Kritias_2018_12- field=name
+KO|크리티아스 원정대의 영웅
+EN|Kritias Expedition's Hero
+
+###101 key=22501005-Kritias_2018_12- field=name
+KO|연합 특무대 병사
+EN|Alliance Task Force Soldier
+
+###102 key=22501006-Kritias_2018_12- field=name
+KO|연합 특무대 분대장
+EN|Alliance Task Force Veteran
+
+###103 key=22501007-Kritias_2018_12- field=name
+KO|연합 특무대 장교
+EN|Alliance Task Force Officer
+
+###104 key=22501008-Kritias_2018_12- field=name
+KO|연합 특무대 고위 지휘관
+EN|Alliance Task Force Commander
+
+###105 key=22501009-Kritias_2018_12- field=name
+KO|자경단 조사대원
+EN|Militia Survey Party Member
+
+###106 key=22501010-Kritias_2018_12- field=name
+KO|자경단 조사대 십인장
+EN|Militia Survey Party Captain
+
+###107 key=22501011-Kritias_2018_12- field=name
+KO|자경단 조사대 백인장
+EN|Militia Survey Party Centurion
+
+###108 key=22501012-Kritias_2018_12- field=name
+KO|자경단 조사대 대장
+EN|Militia Survey Party General
+
+###109 key=22501013-Kritias_2018_12- field=name
+KO|기사단 탐사대 수습 기사
+EN|Knights Exploration Party Squire
+
+###110 key=22501014-Kritias_2018_12- field=name
+KO|기사단 탐사대 정식 기사
+EN|Knights Exploration Party Lumiknight
+
+###111 key=22501015-Kritias_2018_12- field=name
+KO|기사단 탐사대 사제 기사
+EN|Knights Exploration Party High Lumiknight
+
+###112 key=22501016-Kritias_2018_12- field=name
+KO|기사단 탐사대 명예 신관 기사
+EN|Knights Exploration Party Honorary Templar
+
+###113 key=22501017-Kritias_2018_12- field=name
+KO|크리티아스 원정대 D급 임무 전문 대원
+EN|Kritias D-Class Specialist
+
+###114 key=22501018-Kritias_2018_12- field=name
+KO|크리티아스 원정대 C급 상황 대응반
+EN|Kritias C-Class Responder
+
+###115 key=22501019-Kritias_2018_12- field=name
+KO|크리티아스 원정대 B급 작전 담당관
+EN|Kritias B-Class Operator
+
+###116 key=22501020-Kritias_2018_12- field=name
+KO|크리티아스 원정대 A급 기동 부대원
+EN|Kritias A-Class Enforcer
+
+###117 key=22501021-Kritias_2018_12- field=name
+KO|크리티아스 원정대 S급 특수 전술가
+EN|Kritias S-Class Tactician
+
+###118 key=22501022-Kritias_2018_12- field=name
+KO|계속되는 검은 군단과의 싸움
+EN|Daemon Skirmishes
+
+###119 key=22501023-Kritias_2018_12- field=name
+KO|남의 싸움엔 끼기 싫은데…
+EN|Someone Else's Fight
+
+###120 key=22501024-Kritias_2018_12- field=name
+KO|발록, 이번엔 진짜로 안녕.
+EN|Goobye to Balrog
+
+###121 key=22501025-Kritias_Inferno01- field=name
+KO|다시 만난 트리스탄
+EN|Reunion with Tristan
+
+###122 key=22501026-Kritias_Inferno01- field=name
+KO|반격 개시!
+EN|Commence Counterattack
+
+###123 key=22501027-Kritias_2018_12- field=name
+KO|크리티아스 원정대의 바쁜 하루
+EN|A Busy Day in Kritias
+
+###124 key=22501028-Kritias_2018_12- field=name
+KO|크리티아스 자경단원의 하루
+EN|A Day in the Militia Life
+
+###125 key=22501029-Kritias_2018_12- field=name
+KO|크리티아스 조사대원의 하루
+EN|A Day in the Survey Life
+
+###126 key=22501030-Kritias_2018_12- field=name
+KO|크리티아스의 유적지 방문
+EN|Ruin Survey
+
+###127 key=22501031-Kritias_2018_12- field=name
+KO|반겐하임의 일기
+EN|Vanheim's Journal
+
+###128 key=22501032-Kritias_2018_12- field=name
+KO|증폭기 설치 기사
+EN|Amplified Knight
+
+###129 key=22501033-Kritias_2018_12- field=name
+KO|투르카의 그림자
+EN|Turka's Shadow
+
+###130 key=22501034-Kritias_2018_12- field=name
+KO|계약서의 약관을 꼼꼼히 읽어보세요.
+EN|Terms and Conditions Apply
+
+###131 key=22501035-Kritias_2018_12- field=name
+KO|내가 알던 투르카가 아니야
+EN|Not the Turka I Know
+
+###132 key=22501036-Kritias_Zakum01- field=name
+KO|크리티아스에서 자라는 악마의 나무
+EN|The Demon Tree of Kritias
+
+###133 key=22501037-Kritias_2018_12- field=name
+KO|한결같은 함장님
+EN|The Captain Unchanging
+
+###134 key=22501038-Kritias_2018_12- field=name
+KO|의심 많은 네이린
+EN|Nairin's Doubt
+
+###135 key=22501039-Kritias_2018_12- field=name
+KO|심상치 않은 어둠의 힘
+EN|A Quirk of Shadows
+
+###136 key=22501041-Kritias_2018_12- field=name
+KO|다크윈드가 실패했다고?!
+EN|Dark Wind's Failure
+
+###137 key=22501042-Kritias_2018_12- field=name
+KO|크리티아스를 지키는 영웅
+EN|Hero of Kritias
+
+###138 key=22501043-Kritias_2018_12- field=name
+KO|스카이 포트리스 건설 상자 열기
+EN|Sky Fortress Furnisher
+
+###139 key=22501044-Fame_Geo01- field=name
+KO|게오르크를 부탁해!
+EN|Take Care of Georg!
+
+###140 key=22501045-Fame_Geo01- field=name
+KO|게오르크의 구원자
+EN|Savior of Georg
+
+###141 key=22501046-Fame_Geo01- field=name
+KO|크리티아스 전문가
+EN|Kritias Expert
+
+###142 key=22501047-Fame_Geo01- field=name
+KO|$npcName:11004395$의 S급 요원
+EN|$npcName:11004395$'s S-Rank Agent
+
+###143 key=22501048-Fame_Geo01- field=name
+KO|파릇파릇 신입 저항군
+EN|Fresh New Resistance Member
+
+###144 key=22501049-Fame_Geo01- field=name
+KO|열정의 노력파 저항군
+EN|Passionate Hardworking Resistance Member
+
+###145 key=22501050-Fame_Geo01- field=name
+KO|이 구역의 에이스 저항군
+EN|Ace Resistance Member of This Area
+
+###146 key=22501051-Fame_Geo01- field=name
+KO|저항군의 진정한 영웅
+EN|True Hero of the Resistance
+
+###147 key=22501052-Fame_Geo01- field=name
+KO|승진의 기쁨
+EN|The Joy of Promotion
+
+###148 key=22501053-Fame_Geo01- field=name
+KO|게오르크의 수장
+EN|Leader of Georg
+
+###149 key=23100275-Develop- field=name
+KO|高级驯兽师
+EN|Advanced Beast Tamer
+
+###150 key=23100290-KarmaTokenItem01- field=name
+KO|어둠의 악기 모두 수집하기!
+EN|Collect All Dark Instruments!
+
+###151 key=23100291-KarmaTokenItem01- field=name
+KO|딥 다크 오보에 수집하기
+EN|Collect the Deep Dark Oboe
+
+###152 key=23100292-KarmaTokenItem01- field=name
+KO|딥 다크 피치카토 수집하기
+EN|Collect the Deep Dark Pizzicato
+
+###153 key=23100293-KarmaTokenItem01- field=name
+KO|딥 다크 피아노 수집하기
+EN|Collect the Deep Dark Piano
+
+###154 key=23100294-KarmaTokenItem01- field=name
+KO|딥 다크 첼로 수집하기
+EN|Collect the Deep Dark Cello
+
+###155 key=23100343-Fishing02- field=name
+KO|프로 낚시꾼
+EN|Pro Angler
+
+###156 key=23100344-Fishing02- field=name
+KO|챔피언 낚시꾼
+EN|Champion Angler
+
+###157 key=23100345-Fishing02- field=name
+KO|크리티아스에서 물고기 낚기
+EN|Catch Fish in Kritias
+
+###158 key=23100346-Fishing02- field=name
+KO|울어는 매일 울어
+EN|Sobfish Sob
+
+###159 key=23100347-Fishing02- field=name
+KO|활어 낚시를 해보자
+EN|String a Bow Fish
+
+###160 key=23100348-Fishing02- field=name
+KO|손에 착 감기는 프로 낚싯대
+EN|In the Hands of a Pro
+
+###161 key=23100349-Fishing02- field=name
+KO|천사의 물고기를 찾아서
+EN|Heavenly Fishing
+
+###162 key=23100350-Fishing02- field=name
+KO|꽃을 닮은 싱그러운 물고기
+EN|Fishy Flowers
+
+###163 key=23100351-Fishing02- field=name
+KO|월척 블루 젤리 새우 낚기
+EN|Catch a Prize Blue Jelly Shrimp
+
+###164 key=23100352-Fishing02- field=name
+KO|푸른 에너지, 에네르의 힘이 담긴 물고기
+EN|Aetherine Angling
+
+###165 key=23100357-Fishing02- field=name
+KO|월척 부끄러어 낚기
+EN|Catch a Prize Shamefish
+
+###166 key=23100358-Fishing02- field=name
+KO|손맛을 보려면 역시 챔피언 낚싯대!
+EN|A Champion's Fishing Pole
+
+###167 key=23100359-Fishing02- field=name
+KO|감탄을 자아내는 색상, 리프 젤리피쉬
+EN|An Admirable Jellyfish
+
+###168 key=23100360-Fishing02- field=name
+KO|월척 프릴리아 낚기
+EN|Catch a Prize Frillia
+
+###169 key=23100361-Fishing02- field=name
+KO|물이 품은 진귀한 보석
+EN|Treasure of the Water
+
+###170 key=23100362-Fishing02- field=name
+KO|이렇게 큰 독 청새치 본 적 있어요?
+EN|Toxic Overdose
+
+###171 key=23100363-Fishing02- field=name
+KO|티아만의 특별한 물고기
+EN|Tiaman's Special Fish
+
+###172 key=23100364-Fishing02- field=name
+KO|기간티카를 닮은 특별한 물고기
+EN|Metal Scales
+
+###173 key=23100365-Fishing02- field=name
+KO|월척 부레옥잠 낚기
+EN|Catch a Prize Water Hyacinth
+
+###174 key=23100366-Fishing02- field=name
+KO|알록달록 무지개를 입은 물고기
+EN|Flashy Fish
+
+###175 key=23100367-Fishing02- field=name
+KO|크리티아스 에메랄드물에서 월척 낚기
+EN|Emerald Prize
+
+###176 key=23100368-Fishing02- field=name
+KO|식물일까? 물고기일까?
+EN|Plant or Fish?
+
+###177 key=23100369-Fishing02- field=name
+KO|금메달이 너무 많아!
+EN|Too Many Gold Medals
+
+###178 key=23100371-Fishing02- field=name
+KO|이렇게 큰 분홍 점박이 해파리 본 적 있나요?
+EN|Big Spots
+
+###179 key=23100372-Fishing02- field=name
+KO|이 정도는 입어줘야 낚시꾼계의 패션 리더!
+EN|Fashionable Fish
+
+###180 key=23100373-Fishing02- field=name
+KO|데빌 슬라임 피쉬를 노려라!
+EN|Slime of the Devil
+
+###181 key=23100377-Gigantica01- field=name
+KO|내 친구 기간티카
+EN|My Friend Gigantica
+
+###182 key=23100378-Pet_70Lv_Taming- field=name
+KO|타이렌 로봇 세트 완성!
+EN|Tairen Robots, Assemble
+
+###183 key=23100379-Pet_70Lv_Taming- field=name
+KO|모두 모여 휴롯
+EN|Come All Huborgs
+
+###184 key=23100380-Pet_70Lv_Taming- field=name
+KO|크리티아스 공룡 포획
+EN|Kritias Dino Hunter
+
+###185 key=23100381-Pet_70Lv_Taming- field=name
+KO|묘하게 닮았어
+EN|Strangely Similar
+
+###186 key=23100382-Pet_70Lv_Taming- field=name
+KO|크리티아스 곤충 채집
+EN|Kritias Bug Collection
+
+###187 key=23100421-Wedding- field=name
+KO|나의 피앙세
+EN|Fiance
+
+###188 key=23100422-Wedding- field=name
+KO|거절은 거절하고 싶었는데
+EN|Said No
+
+###189 key=23100423-Wedding- field=name
+KO|내가 쉬워 보이니
+EN|Bold Misreader
+
+###190 key=23100424-Wedding- field=name
+KO|두근두근 결혼식 준비
+EN|Nervous Wedding Planner
+
+###191 key=23100425-Wedding- field=name
+KO|결혼식장은 신중하게
+EN|The One Who Chooses Carefully
+
+###192 key=23100427-Wedding- field=name
+KO|둘러만 볼게요
+EN|Passing Curiosity
+
+###193 key=23100428-Wedding- field=name
+KO|행복한 커플
+EN|Bliss In Tandem
+
+###194 key=23100429-Wedding- field=name
+KO|트라이아의 어느 멋진 낮
+EN|Lovely Day in Tria
+
+###195 key=23100430-Wedding- field=name
+KO|트라이아의 어느 멋진 밤
+EN|Tria Under the Stars
+
+###196 key=23100431-Wedding- field=name
+KO|헤네시스의 고요한 낮 
+EN|Serenity in Henesys
+
+###197 key=23100432-Wedding- field=name
+KO|헤네시스의 고요한 밤
+EN|A Quiet Night in Henesys
+
+###198 key=23100433-Wedding- field=name
+KO|엘리니아의 새가 지저귀는 낮
+EN|Ellinia's Melodic Morning
+
+###199 key=23100434-Wedding- field=name
+KO|엘리니아의 별이 빛나는 밤
+EN|Where Stars Shine Over Ellinia
+
+###200 key=23100435-Wedding- field=name
+KO|페리온의 뜨거운 낮
+EN|Perion Under the Blazing Sun
+
+###201 key=23100436-Wedding- field=name
+KO|페리온의 뜨거운 밤
+EN|Perion's Burning Midnight
+
+###202 key=23100437-Wedding- field=name
+KO|빛나는 햇살로부터 축복을 보내며
+EN|Blessing from the Shining Sun
+
+###203 key=23100438-Wedding- field=name
+KO|은은한 달빛으로부터 사랑을 보내며
+EN|With Love from the Gentle Moonlight
+
+###204 key=23100439-Wedding- field=name
+KO|파도 위 부서지는 햇살처럼 
+EN|Like Sunlight Shattering on Waves
+
+###205 key=23100440-Wedding- field=name
+KO|물결 위 피어나는 불꽃처럼
+EN|Like Sparks Dancing on the Tide
+
+###206 key=23100441-Wedding- field=name
+KO|찰칵! 사진 속 순간
+EN|Snapshot in Time
+
+###207 key=23100442-Wedding- field=name
+KO|찰칵! 환상의 나라
+EN|Snapshot of a Fantasy Realm
+
+###208 key=23100443-Wedding- field=name
+KO|찰칵! 물 속 세상
+EN|Snapshot Beneat the Waves
+
+###209 key=23100444-Wedding- field=name
+KO|달콤한 게 제일 좋아
+EN|Nothing Beats Sweet
+
+###210 key=23100445-Wedding- field=name
+KO|웨딩 댄서
+EN|Wedding Dancer
+
+###211 key=23100446-Wedding- field=name
+KO|프로 참석러
+EN|The Event Pro
+
+###212 key=23100447-Wedding- field=name
+KO|돌아온 싱글
+EN|Back On The Market
+
+###213 key=23200043-UnlimitedEnchant- field=name
+KO|한계에 도전하기
+EN|Challenge the Limit
+
+###214 key=92000094-WorldChampionMushroom- field=name
+KO|포자가 두렵지 않아!
+EN|Not Afraid of Spores!
+
