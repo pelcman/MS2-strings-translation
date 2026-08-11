@@ -111,6 +111,74 @@
       "ja": "マッシュトピア",
       "ko": "머쉬토피아",
       "source": "session (GMS2 Mushking Royale)"
+    },
+    "Amherst": {
+      "ja": "アムホスト",
+      "ko": "암허스트",
+      "source": "jms2 (mapname 63000001)",
+      "note": "アムハーストではない(JMS2公式)"
+    },
+    "Babeny": {
+      "ja": "バベニ",
+      "ko": "바베니",
+      "source": "jms2 (mapname 02020041)"
+    },
+    "Kidel": {
+      "ja": "キデル",
+      "ko": "키델",
+      "source": "jms2 (mapname/questdescription)"
+    },
+    "Timaios": {
+      "ja": "ティマイオス",
+      "ko": "티마이오스",
+      "source": "session",
+      "note": "クリティアスの都市(mapname jpは未定のまま)"
+    },
+    "Karkar Island": {
+      "ja": "カルカルアイランド",
+      "ko": "카르카르 아일랜드",
+      "source": "jms2 (questdescription)"
+    },
+    "Victoria Island": {
+      "ja": "ビクトリアアイランド",
+      "ko": "빅토리아 아일랜드",
+      "source": "jms2 (stringguide)"
+    },
+    "Neoulbit Mountain": {
+      "ja": "波色山",
+      "ko": "너울빛 산",
+      "source": "jms2 (mapname 波色修行所/波色の雲跡)"
+    },
+    "Drachenheim": {
+      "ja": "ドラケンハイム",
+      "ko": "드라켄하임",
+      "source": "session",
+      "note": "ルミエラゴンの故郷"
+    },
+    "Nazkar Temple": {
+      "ja": "ナズカル神殿",
+      "ko": "나즈카르 신전",
+      "source": "jms2 (questdescription)"
+    },
+    "Poison Cave": {
+      "ja": "ポイズンケーブ",
+      "ko": "포이즌 케이브",
+      "source": "session"
+    },
+    "Royal Road": {
+      "ja": "ロイヤルロード",
+      "ko": "로얄로드",
+      "source": "jms2 (questdescription)"
+    },
+    "Kerning City": {
+      "ja": "カニングシティ",
+      "ko": "커닝시티",
+      "source": "jms2 (mapname)"
+    },
+    "Ludibrium": {
+      "ja": "ルディブリアム",
+      "ko": "루디브리엄",
+      "source": "jms2 (questdescription: ルディブリアムキューブ)"
     }
   },
   "bosses_monsters": {
@@ -247,6 +315,70 @@
       "ja": "メイプルキノコ",
       "ko": "주황버섯",
       "source": "jms2 (corpus: 주황버섯 쿠폰 박스=メイプルキノコクーポンボックス)"
+    },
+    "Devorak": {
+      "ja": "影術師デボラク",
+      "ko": "그림자술사 데보라크",
+      "source": "jms2 (npcname 23000007)"
+    },
+    "Machar": {
+      "ja": "マチャール",
+      "ko": "마차르",
+      "source": "jms2 (questdescription)",
+      "note": "赤い狼の王"
+    },
+    "Poing": {
+      "ja": "ポイン",
+      "ko": "포잉",
+      "source": "jms2 (npcname)",
+      "note": "猛毒ポイン、オーロラポイン等。三兄弟は長男/次男/三男"
+    },
+    "Nolaju": {
+      "ja": "ノラジュ",
+      "ko": "놀라쥬",
+      "source": "jms2 (npcname)",
+      "note": "猛毒놀라쥬のみ猛毒ノラージュ(表記揺れ)"
+    },
+    "Archeon": {
+      "ja": "アルケオン",
+      "ko": "아르케온",
+      "source": "jms2 (questname: 激突！アルケオン)",
+      "note": "タイレン王国の最新兵器"
+    },
+    "Croix": {
+      "ja": "クロイ",
+      "ko": "크로이",
+      "source": "session",
+      "note": "魔王の手下の小さな悪党"
+    },
+    "Varkant": {
+      "ja": "バルカント",
+      "ko": "바르칸트",
+      "source": "session",
+      "note": "異世界からの訪問者(カオスルベリスク)"
+    },
+    "Captain Moc": {
+      "ja": "キャプテンモーク",
+      "ko": "캡틴 모크",
+      "source": "session",
+      "note": "カオス月明かり船長の要塞"
+    },
+    "Kernel Bear": {
+      "ja": "エレクトロニックベア",
+      "ko": "일렉트로닉 베어",
+      "source": "session",
+      "note": "カーネル博士の創造物(22000023)"
+    },
+    "Grimond": {
+      "ja": "グリモン",
+      "ko": "그리몽",
+      "source": "session"
+    },
+    "Pecky Bird": {
+      "ja": "カチカチ鳥",
+      "ko": "딱딱새",
+      "source": "session",
+      "note": "アムホストの珍鳥"
     }
   },
   "npcs_characters": {
@@ -341,9 +473,9 @@
       "source": "session"
     },
     "Luana": {
-      "ja": "ルアナ",
+      "ja": "ルアーナ",
       "ko": "루아나",
-      "source": "session"
+      "source": "jms2 (npcname 11000601)"
     },
     "Manovich": {
       "ja": "マノビッチ",
@@ -379,6 +511,114 @@
       "ja": "サービーン",
       "ko": "근엄한 경비병 (EN独自)",
       "source": "session"
+    },
+    "Taikun": {
+      "ja": "タイクン",
+      "ko": "어흥이",
+      "source": "jms2 (npcname)",
+      "note": "トライアの虎の獣人。釣り関連NPC"
+    },
+    "Taig Furian": {
+      "ja": "タイグフリアン",
+      "ko": "타이그 퓨리안",
+      "source": "jms2 (questdescription)"
+    },
+    "Bungenheim": {
+      "ja": "バンゲンハイム",
+      "ko": "반겐하임/번겐하임",
+      "source": "jms2 (npcname 11004431)",
+      "note": "クリティアスの賢者。KO表記揺れあり"
+    },
+    "Allon": {
+      "ja": "アーロン",
+      "ko": "알론",
+      "source": "jms2 (npcname 11000076)",
+      "note": "秘密騎士団の騎士団長"
+    },
+    "Jonathan Button": {
+      "ja": "ジョナサン・バトン",
+      "ko": "조나단 버튼",
+      "source": "jms2 (npcname 11001540)"
+    },
+    "Winn Stilton": {
+      "ja": "ウィン・スティルタン",
+      "ko": "윈 스틸턴",
+      "source": "jms2 (npcname 11001816)",
+      "note": "ダークウィンド先代隊長"
+    },
+    "Bella Vidblain": {
+      "ja": "ベラ・ビッドブライム",
+      "ko": "벨라 비드블라임",
+      "source": "jms2 (npcname ベラ + questname ビッドブライム邸)"
+    },
+    "Raymond": {
+      "ja": "レイモン",
+      "ko": "레이먼",
+      "source": "jms2 (questname: レイモンの死)",
+      "note": "バロタ商団団長"
+    },
+    "Eve": {
+      "ja": "イヴ",
+      "ko": "이브",
+      "source": "jms2 (npcname 11000069)"
+    },
+    "Blackeye": {
+      "ja": "ブラックアイ",
+      "ko": "블랙아이",
+      "source": "jms2 (npcname 11000006)",
+      "note": "ホムプルスのリーダー"
+    },
+    "Layla": {
+      "ja": "レイラ",
+      "ko": "레일라",
+      "source": "session",
+      "note": "ミカ(11000735)の母、ルミエラゴン"
+    },
+    "Mika": {
+      "ja": "ミカ",
+      "ko": "미카",
+      "source": "jms2 (questname: ミカを救出せよ！)"
+    },
+    "Retinal": {
+      "ja": "レティナル",
+      "ko": "레티널",
+      "source": "jms2 (npcname 11004397)",
+      "note": "ゲオルクの将校"
+    },
+    "Nairin": {
+      "ja": "ネイリン",
+      "ko": "네이린",
+      "source": "session",
+      "note": "スカイフォートレス研究員(11004315)"
+    },
+    "Bomar": {
+      "ja": "ボマル",
+      "ko": "보마르",
+      "source": "jms2 (questdescription)",
+      "note": "アヤフヤ商団出身"
+    },
+    "Dr. Rokel": {
+      "ja": "Dr.ロケル",
+      "ko": "Dr. 로켈",
+      "source": "jms2 (questname: Dr.ロケルの陰謀)"
+    },
+    "Dr. Katronic": {
+      "ja": "カトロニック博士",
+      "ko": "카트로닉 박사",
+      "source": "session",
+      "note": "マーク52プロジェクト"
+    },
+    "Ten": {
+      "ja": "テン",
+      "ko": "텐",
+      "source": "session",
+      "note": "カカ族出身の英雄(4英雄のひとり)"
+    },
+    "Kanturang": {
+      "ja": "カントゥラン",
+      "ko": "칸투랑",
+      "source": "session",
+      "note": "モラン族の長(11004620)"
     }
   },
   "mascots_pets": {
@@ -561,6 +801,133 @@
       "ja": "マッシュキングロイヤル",
       "ko": "무쉬킹 로얄",
       "source": "session (GMS2専用モード)"
+    }
+  },
+  "organizations": {
+    "Shadow Gate": {
+      "ja": "シャドウゲート",
+      "ko": "쉐도우 게이트",
+      "source": "jms2 (questdescription)",
+      "note": "影の扉(그림자 문)の守護軍名としてはシャドウゲート守護軍"
+    },
+    "Shadow Door": {
+      "ja": "影の扉",
+      "ko": "그림자 문",
+      "source": "jms2 (questdescription/stringcommon)"
+    },
+    "Shadow Legion": {
+      "ja": "影の軍団",
+      "ko": "그림자 군단",
+      "source": "jms2 (scriptquest)",
+      "note": "검은군단(闇の軍団)とは別"
+    },
+    "Book of Shadow Healing": {
+      "ja": "影の兵術書",
+      "ko": "그림자 병술서",
+      "source": "jms2 (questdescription)"
+    },
+    "Lumina Liberation Army": {
+      "ja": "ルミナ解放軍",
+      "ko": "루미나 해방군",
+      "source": "jms2 (questname)"
+    },
+    "Starlight Expedition": {
+      "ja": "星明かり遠征隊",
+      "ko": "별빛 원정대",
+      "source": "session",
+      "note": "별빛=星明かり(questname: 星明かりの義理)"
+    },
+    "Kwinko Grave Robbers": {
+      "ja": "クィンコ盗掘団",
+      "ko": "크윙코 도굴단",
+      "source": "session"
+    },
+    "Red Dragon Jaw Smashers": {
+      "ja": "赤龍顎拳団",
+      "ko": "적룡 턱권단",
+      "source": "session",
+      "note": "顎拳団=턱권단"
+    },
+    "Black Star Scavengers": {
+      "ja": "黒星スカベンジャー",
+      "ko": "흑성 청소부(CN:黑星清道夫)",
+      "source": "session"
+    },
+    "Huntis Federation": {
+      "ja": "ハンティス連合会",
+      "ko": "헌티스 연합회",
+      "source": "session"
+    },
+    "Guidance": {
+      "ja": "ガイダンス",
+      "ko": "가이던스",
+      "source": "jms2 (questdescription)"
+    },
+    "Munakra": {
+      "ja": "ムナクラ",
+      "ko": "무나크라",
+      "source": "jms2 (questdescription)",
+      "note": "ムナクラの光(香炉)、アニマル(애니마르)"
+    },
+    "Wisdom of Baz": {
+      "ja": "バズの知恵",
+      "ko": "바즈의 지혜",
+      "source": "jms2 (questdescription)"
+    },
+    "Holstadt": {
+      "ja": "ホルシュタット",
+      "ko": "홀슈타트",
+      "source": "session"
+    },
+    "Tius Core": {
+      "ja": "ティウスコア",
+      "ko": "티우스 코어(CN:提厄斯核心)",
+      "source": "session",
+      "note": "材料: 蒼穹の心/破滅の翼/神の目/魂の玉/知恵の輪"
+    },
+    "Havi": {
+      "ja": "ハービー",
+      "ko": "하비",
+      "source": "jms2 (questdescription)",
+      "note": "ハービー花/ハービーの実/ハービーモンスター"
+    },
+    "Boroboro": {
+      "ja": "ボロボロ",
+      "ko": "보로보로",
+      "source": "jms2 (questname: ボロボロ救出日記)",
+      "note": "妖精/小人族"
+    },
+    "Twinko": {
+      "ja": "トウィンコ族",
+      "ko": "트윙코족",
+      "source": "jms2 (koritemdescription)"
+    },
+    "Moropapa": {
+      "ja": "モロパパ",
+      "ko": "모로파파",
+      "source": "jms2 (questname: ミカとモロパパ)"
+    },
+    "Kaka Tribe": {
+      "ja": "カカ族",
+      "ko": "카카 부족",
+      "source": "jms2 (questname: カカ族の破滅)",
+      "note": "部族ではなく族"
+    },
+    "Snowfolk": {
+      "ja": "雪人族",
+      "ko": "설인족",
+      "source": "jms2 (questdescription)"
+    },
+    "Seven Divine Generals": {
+      "ja": "七神将",
+      "ko": "칠신장",
+      "source": "session"
+    },
+    "White Flame Dragon": {
+      "ja": "白炎龍",
+      "ko": "백염룡",
+      "source": "session",
+      "note": "メイソン(11004316)の剣"
     }
   },
   "lore_notes": {
