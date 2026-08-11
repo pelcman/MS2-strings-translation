@@ -1,0 +1,718 @@
+###1 count=36 field=name key=10700282|1-JobChange_02- 名=임기 응변
+KO|임기 응변
+EN|Extemporaneous
+
+###2 count=24 field=name key=10400301|1-JobChange_02- 名=신성한 힘
+KO|신성한 힘
+EN|Holy Power
+
+###3 count=24 field=name key=10500291|1-JobChange_02- 名=이글 스쿼드
+KO|이글 스쿼드
+EN|Eagle Squad
+
+###4 count=24 field=name key=10500293|1-JobChange_02- 名=캡틴 이글
+KO|캡틴 이글
+EN|Captain Eagle
+
+###5 count=20 field=name key=92000026|1-ShadowExpedition- 名=예리함
+KO|예리함
+EN|(なし)
+
+###6 count=20 field=tooltipDescription key=92000026|1-ShadowExpedition- 名=예리함
+KO|방어력 관통이 증가합니다.
+EN|(なし)
+
+###7 count=20 field=tooltipDescription key=92000028|1-ShadowExpedition- 名=암살
+KO|크리티컬 대미지가 증가합니다.
+EN|(なし)
+
+###8 count=20 field=name key=92001002|1-ShadowExpedition- 名=상처 찌르기
+KO|상처 찌르기
+EN|(なし)
+
+###9 count=20 field=tooltipDescription key=92001002|1-ShadowExpedition- 名=상처 찌르기
+KO|공격속도 증가\n밀리언 스팅 대미지 증가\n 최대 10회까지 중첩 가능
+EN|(なし)
+SKILL|밀리언 스팅=ミリオンスティング
+
+###10 count=20 field=name key=92001024|1-ShadowExpedition- 名=활력 충전
+KO|활력 충전
+EN|(なし)
+
+###11 count=20 field=tooltipDescription key=92001024|1-ShadowExpedition- 名=활력 충전
+KO|기운을 모아 최대 생명력을 증가시킵니다.\n최대 10회까지 중첩 가능\n10회 중첩 시, 거대화가 발동됩니다.
+EN|(なし)
+
+###12 count=20 field=tooltipDescription key=92001035|1-ShadowExpedition- 名=무력화
+KO|매 초마다 피해, 방어력 감소\n최대 5회까지 중첩 가능
+EN|(なし)
+
+###13 count=20 field=tooltipDescription key=92001038|1-ShadowExpedition- 名=강인한 의지
+KO|크리티컬 대미지가 증가합니다.\n스킬 사용 시 충격파 발산
+EN|(なし)
+
+###14 count=20 field=name key=92002011|1-ShadowExpedition- 名=맹렬한 습격
+KO|맹렬한 습격
+EN|(なし)
+
+###15 count=20 field=tooltipDescription key=92002011|1-ShadowExpedition- 名=맹렬한 습격
+KO|크리티컬 명중 증가\n크리티컬 대미지 증가
+EN|(なし)
+
+###16 count=20 field=name key=92002013|1-ShadowExpedition- 名=흥분
+KO|흥분
+EN|(なし)
+
+###17 count=20 field=tooltipDescription key=92002013|1-ShadowExpedition- 名=흥분
+KO|광전사의 일격 공격속도 증가\n광전사의 일격 대미지 증가\n모든 피해 감소\n최대 5회까지 중첩 가능
+EN|(なし)
+SKILL|전사의 일격=戦士の一撃
+
+###18 count=20 field=tooltipDescription key=92002031|1-ShadowExpedition- 名=피의 서약
+KO|최대 HP 20% 증가\n모든 피해 감소\n적 타격 시 HP 회복
+EN|(なし)
+
+###19 count=20 field=name key=92003005|1-ShadowExpedition- 名=과부하 충전
+KO|과부하 충전
+EN|(なし)
+
+###20 count=20 field=tooltipDescription key=92003007|1-ShadowExpedition- 名=과부하
+KO|이동속도 증가\n번개 채찍 쿨타임 제거\n번개 채찍 대미지 증가\n적의 공격에 밀려나지 않음
+EN|(なし)
+SKILL|이동속도 증가=移動速度増加
+
+###21 count=20 field=name key=92003012|1-ShadowExpedition- 名=화염 구슬
+KO|화염 구슬
+EN|(なし)
+
+###22 count=20 field=tooltipDescription key=92003012|1-ShadowExpedition- 名=화염 구슬
+KO|이동속도 증가\n모든 피해 감소\n0.2초 마다 3m 내의 8명에게 화염 대미지\n0.2초 마다 SP 회복
+EN|(なし)
+SKILL|이동속도 증가=移動速度増加
+
+###23 count=20 field=name key=92004004|1-ShadowExpedition- 名=신앙 증폭
+KO|신앙 증폭
+EN|(なし)
+
+###24 count=20 field=tooltipDescription key=92004004|1-ShadowExpedition- 名=신앙 증폭
+KO|신앙이 증폭됩니다.\홀리 크로스의 스킬 대미지 증가\n최대 5회까지 중첩 가능
+EN|(なし)
+SKILL|홀리 크로스=ホーリークロス
+
+###25 count=20 field=name key=92004015|1-ShadowExpedition- 名=몰아치는 정화
+KO|몰아치는 정화
+EN|(なし)
+
+###26 count=20 field=tooltipDescription key=92004015|1-ShadowExpedition- 名=몰아치는 정화
+KO|정화의 물결이 점점 강화됩니다.\n공격속도 증가\n최대 10회까지 중첩 가능\n10회 중첩 시, 신성 폭발이 발동됩니다.
+EN|(なし)
+SKILL|정화의 물결=浄化の波
+
+###27 count=20 field=name key=92004017|1-ShadowExpedition- 名=신성 폭발
+KO|신성 폭발
+EN|(なし)
+
+###28 count=20 field=tooltipDescription key=92004017|1-ShadowExpedition- 名=신성 폭발
+KO|신성 폭발 효과가 부여되었습니다.\nSP 소비하지 않음\n엔젤레이가 즉시 시전으로 변경\n엔젤레이의 공격속도 증가
+EN|(なし)
+
+###29 count=20 field=name key=92004019|1-ShadowExpedition- 名=홀리 심볼 강화
+KO|홀리 심볼 강화
+EN|(なし)
+SKILL|홀리 심볼=ホーリーシンボル
+
+###30 count=20 field=tooltipDescription key=92004019|1-ShadowExpedition- 名=홀리 심볼 강화
+KO|홀리 심볼이 강화되었습니다.\n모든 공격이 크리티컬로 적중.\n크리티컬 대미지가 증가합니다.
+EN|(なし)
+SKILL|홀리 심볼=ホーリーシンボル
+
+###31 count=20 field=tooltipDescription key=92004010|1-ShadowExpedition- 名=심판의 빛
+KO|공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능
+EN|(なし)
+SKILL|실드 오브 아콘=シールドオブアルコン
+
+###32 count=20 field=name key=92004029|1-ShadowExpedition- 名=전의상실
+KO|전의상실
+EN|(なし)
+
+###33 count=20 field=tooltipDescription key=92004029|1-ShadowExpedition- 名=전의상실
+KO|모든 공격력 감소\n주기적으로 피해를 입습니다.
+EN|(なし)
+
+###34 count=20 field=name key=92004023|1-ShadowExpedition- 名=빛의 방패
+KO|빛의 방패
+EN|(なし)
+
+###35 count=20 field=tooltipDescription key=92004023|1-ShadowExpedition- 名=빛의 방패
+KO|빛의 방패 효과가 부여되었습니다.\n모든 피해량 감소\n피격 시 50% 확률로 성역 효과
+EN|(なし)
+
+###36 count=20 field=tooltipDescription key=92005002|1-ShadowExpedition- 名=출혈
+KO|출혈로 인하여 방어력 감소\n주기적으로 대미지를 입습니다.
+EN|(なし)
+
+###37 count=20 field=name key=92005004|1-ShadowExpedition- 名=혹한
+KO|혹한
+EN|(なし)
+
+###38 count=20 field=tooltipDescription key=92005004|1-ShadowExpedition- 名=혹한
+KO|혹한 상태가 되었습니다.\n물리 저항력과 마법 저항력 감소
+EN|(なし)
+
+###39 count=20 field=name key=92005012|1-ShadowExpedition- 名=발화
+KO|발화
+EN|(なし)
+
+###40 count=20 field=tooltipDescription key=92005012|1-ShadowExpedition- 名=발화
+KO|발화로 인하여 주기적으로 피해를 입습니다.
+EN|(なし)
+
+###41 count=20 field=tooltipDescription key=92005020|1-ShadowExpedition- 名=표적 조정
+KO|표적을 더 정확히 조준합니다\n래피드 샷의 스킬 대미지 증가\n최대 20회까지 중첩 가능
+EN|(なし)
+SKILL|래피드 샷=ラピッドショット
+
+###42 count=20 field=name key=92005024|1-ShadowExpedition- 名=신속태세
+KO|신속태세
+EN|(なし)
+
+###43 count=20 field=name key=92005026|1-ShadowExpedition- 名=냉기 파동
+KO|냉기 파동
+EN|(なし)
+
+###44 count=20 field=tooltipDescription key=92005026|1-ShadowExpedition- 名=냉기 파동
+KO|공격속도가 증가합니다. \n최대 5회까지 중첩 가능\n5회 중첩 시 냉기 오브 생성
+EN|(なし)
+
+###45 count=20 field=name key=92005030|1-ShadowExpedition- 名=회피 기동  
+KO|회피 기동  
+EN|(なし)
+
+###46 count=20 field=tooltipDescription key=92005030|1-ShadowExpedition- 名=회피 기동  
+KO|적의 공격으로 부터 밀려나지 않음\n물리 피해와 마법 피해 감소
+EN|(なし)
+
+###47 count=20 field=tooltipDescription key=92006006|1-ShadowExpedition- 名=점프 재장전
+KO|크리티컬 명중이 상승,\n공격속도가 증가합니다.
+EN|(なし)
+
+###48 count=20 field=name key=92006014|1-ShadowExpedition- 名= 포격 준비   
+KO| 포격 준비   
+EN|(なし)
+
+###49 count=20 field=tooltipDescription key=92006014|1-ShadowExpedition- 名= 포격 준비   
+KO|SP 회복 속도가 증가\n크리티컬 대미지 증가\n특정 스킬 사용 시 포격탄이 발사됩니다.
+EN|(なし)
+
+###50 count=20 field=name key=92006023|1-ShadowExpedition- 名=폭탄 점프
+KO|폭탄 점프
+EN|(なし)
+
+###51 count=20 field=tooltipDescription key=92006023|1-ShadowExpedition- 名=폭탄 점프
+KO|그레네이드를 5회 사용할 때마다, 자신을 중심으로 폭발이 발생합니다.
+EN|(なし)
+SKILL|그레네이드=グレネード
+
+###52 count=20 field=name key=92006031|1-ShadowExpedition- 名=연막 전개
+KO|연막 전개
+EN|(なし)
+
+###53 count=20 field=tooltipDescription key=92006031|1-ShadowExpedition- 名=연막 전개
+KO|연막으로 인해 명중 감소
+EN|(なし)
+
+###54 count=20 field=name key=92006036|1-ShadowExpedition- 名=자력 충전
+KO|자력 충전
+EN|(なし)
+
+###55 count=20 field=tooltipDescription key=92006036|1-ShadowExpedition- 名=자력 충전
+KO|방어력 증가\n최대 50회까지 중첩 가능
+EN|(なし)
+
+###56 count=20 field=tooltipDescription key=92007031|1-ShadowExpedition- 名=급습
+KO|회피 증가
+EN|(なし)
+
+###57 count=20 field=name key=92007034|1-ShadowExpedition- 名=우월한 반사신경
+KO|우월한 반사신경
+EN|(なし)
+
+###58 count=20 field=tooltipDescription key=92007034|1-ShadowExpedition- 名=우월한 반사신경
+KO|모든 피해 감소\n회피 증가\n최대 3회 중첩 가능
+EN|(なし)
+
+###59 count=20 field=tooltipDescription key=92008026|1-ShadowExpedition- 名=민첩함
+KO|모든 피해 감소\n이동속도 증가\n회피 증가
+EN|(なし)
+SKILL|이동속도 증가=移動速度増加
+
+###60 count=20 field=name key=92009023|1-ShadowExpedition- 名=룬 마력 증폭
+KO|룬 마력 증폭
+EN|(なし)
+
+###61 count=20 field=tooltipDescription key=92009023|1-ShadowExpedition- 名=룬 마력 증폭
+KO|룬 마력 증폭 상태가 되었습니다.\n일루전 블레이드의 스킬 대미지 증가 \n일루전 블레이드의 스킬 크리티컬 확률 100%
+EN|(なし)
+SKILL|일루전 블레이드=イリュージョンブレイド
+
+###62 count=20 field=tooltipDescription key=92009027|1-ShadowExpedition- 名=오버 드라이브
+KO|SP 재생력이 감소합니다.\n전투력과 크리티컬 명중이 증가합니다.\n최대 15회 중첩 가능
+EN|(なし)
+
+###63 count=20 field=name key=92009039|1-ShadowExpedition- 名=검기 충전
+KO|검기 충전
+EN|(なし)
+
+###64 count=20 field=tooltipDescription key=92009039|1-ShadowExpedition- 名=검기 충전
+KO|공격속도가 증가합니다.\n전투력이 증가합니다\n최대 5회 중첩 가능
+EN|(なし)
+
+###65 count=20 field=name key=92009041|1-ShadowExpedition- 名=무의 경지
+KO|무의 경지
+EN|(なし)
+
+###66 count=20 field=tooltipDescription key=92009041|1-ShadowExpedition- 名=무의 경지
+KO|공격속도와 전투력이 증가\n모든 공격이 크리티컬로 적중
+EN|(なし)
+
+###67 count=20 field=name key=92009047|1-ShadowExpedition- 名=룬 마력 재생
+KO|룬 마력 재생
+EN|(なし)
+
+###68 count=20 field=tooltipDescription key=92009047|1-ShadowExpedition- 名=룬 마력 재생
+KO|적을 타격 시, 생명력을 회복합니다. \n물리 및 마법 피해 감소
+EN|(なし)
+
+###69 count=20 field=name key=92009050|1-ShadowExpedition- 名=연속 그라운드 디바이드
+KO|연속 그라운드 디바이드
+EN|(なし)
+SKILL|그라운드 디바이드=グラウンドディバイド
+
+###70 count=20 field=tooltipDescription key=92009050|1-ShadowExpedition- 名=연속 그라운드 디바이드
+KO|크리티컬 대미지가 증가\n그라운드 디바이드를 적중 시 SP 회복
+EN|(なし)
+SKILL|그라운드 디바이드=グラウンドディバイド
+
+###71 count=20 field=name key=92010002|1-ShadowExpedition- 名=뎀프시롤
+KO|뎀프시롤
+EN|(なし)
+
+###72 count=20 field=tooltipDescription key=92010002|1-ShadowExpedition- 名=뎀프시롤
+KO|회피 증가\n매그넘 블로우 대미지 증가\n적의 공격에 밀려나지 않음
+EN|(なし)
+
+###73 count=20 field=name key=92010007|1-ShadowExpedition- 名=풋워크
+KO|풋워크
+EN|(なし)
+
+###74 count=20 field=tooltipDescription key=92010007|1-ShadowExpedition- 名=풋워크
+KO|공격속도 증가\n이동속도 증가\n크리티컬 명중 증가\n매그넘 블로우 대미지 증가\n최대 5회 중첩 가능
+EN|(なし)
+SKILL|이동속도 증가=移動速度増加
+
+###75 count=20 field=name key=92010009|1-ShadowExpedition- 名=발차기 연속기 I
+KO|발차기 연속기 I
+EN|(なし)
+
+###76 count=20 field=tooltipDescription key=92010009|1-ShadowExpedition- 名=발차기 연속기 I
+KO|길로틴 대미지 증가
+EN|(なし)
+
+###77 count=20 field=name key=92010011|1-ShadowExpedition- 名=발차기 연속기 II
+KO|발차기 연속기 II
+EN|(なし)
+
+###78 count=20 field=tooltipDescription key=92010011|1-ShadowExpedition- 名=발차기 연속기 II
+KO|드래곤 킥 대미지 증가
+EN|(なし)
+
+###79 count=20 field=name key=92010013|1-ShadowExpedition- 名=발차기 연속기 III
+KO|발차기 연속기 III
+EN|(なし)
+
+###80 count=20 field=tooltipDescription key=92010013|1-ShadowExpedition- 名=발차기 연속기 III
+KO|라이징 킥 대미지 증가
+EN|(なし)
+
+###81 count=20 field=tooltipDescription key=92010016|1-ShadowExpedition- 名=난무
+KO|비트다운 대미지 증가\n최대 10회 중첩 가능
+EN|(なし)
+
+###82 count=20 field=name key=92010020|1-ShadowExpedition- 名=부동
+KO|부동
+EN|(なし)
+
+###83 count=20 field=tooltipDescription key=92010020|1-ShadowExpedition- 名=부동
+KO|방어력 증가\n전투력 증가\n최대 10회 중첩 가능
+EN|(なし)
+
+###84 count=20 field=name key=92010029|1-ShadowExpedition- 名=맷집 달련
+KO|맷집 달련
+EN|(なし)
+
+###85 count=20 field=tooltipDescription key=92010029|1-ShadowExpedition- 名=맷집 달련
+KO|방어력 증가\n최대 5회 중첩 가능
+EN|(なし)
+
+###86 count=20 field=name key=92011004|1-ShadowExpedition2nd- 名=애니마르 집중
+KO|애니마르 집중
+EN|(なし)
+
+###87 count=20 field=tooltipDescription key=92011004|1-ShadowExpedition2nd- 名=애니마르 집중
+KO|공격 속도 증가\n레이 스톰의 스킬 대미지 증가\n최대 10회 중첩 가능
+EN|(なし)
+
+###88 count=20 field=tooltipDescription key=92011006|1-ShadowExpedition2nd- 名=애니마르 폭발
+KO|SP를 소비 하지 않음\n레이 스톰 사용 시 추가 에너지 구체 발사
+EN|(なし)
+
+###89 count=20 field=tooltipDescription key=92011022|1-ShadowExpedition2nd- 名=화신
+KO|SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과
+EN|(なし)
+
+###90 count=20 field=tooltipDescription key=92011014|1-ShadowExpedition2nd- 名=집중의 잔영
+KO|공격속도와 이동속도가 증가합니다.
+EN|(なし)
+
+###91 count=20 field=tooltipDescription key=92011025|1-ShadowExpedition2nd- 名=소진
+KO|대상의 이동속도 및 공격속도가 감소\n매 초마다 피해\n최대 5회 중첩 가능
+EN|(なし)
+
+###92 count=20 field=tooltipDescription key=92011027|1-ShadowExpedition2nd- 名=끝없는 순환
+KO|이동속도 증가, 매 초마다 HP 회복\n최대 20회 중첩 가능
+EN|(なし)
+SKILL|이동속도 증가=移動速度増加
+
+###93 count=14 field=tooltipDescription key=92001026|1-ShadowExpedition- 名=거대화
+KO|활력이 넘치는 상태가 되었습니다.\n최대 생명력이 증가
+EN|(なし)
+
+###94 count=12 field=name key=11000312|1-JobChange_02- 名=혈도 개방EX 1단계
+KO|혈도 개방EX 1단계
+EN|Meridian Flow EX
+
+###95 count=12 field=name key=11000316|1-JobChange_02- 名=혈도 개방EX 2단계
+KO|혈도 개방EX 2단계
+EN|Meridian Flow EX II
+
+###96 count=12 field=name key=11100311|1-JobChange_02- 名=소울 브레이크
+KO|소울 브레이크
+EN|Soul Break
+
+###97 count=12 field=name key=10200271|1-JobChange_02- 名=급소 타격
+KO|급소 타격
+EN|Eviscerate
+
+###98 count=12 field=name key=10200282|1-JobChange_02- 名=피바람
+KO|피바람
+EN|Bloodbath
+
+###99 count=12 field=tooltipDescription key=10200282|1-JobChange_02- 名=피바람
+KO|회오리 공격 가능
+EN|Able to do a whirlwind attack.
+
+###100 count=12 field=name key=10200291|1-JobChange_02- 名=암흑 광기
+KO|암흑 광기
+EN|Dark Insanity
+
+###101 count=12 field=name key=10200292|1-JobChange_02- 名=잠식된 영혼
+KO|잠식된 영혼
+EN|Blighted Soul
+
+###102 count=12 field=name key=10300262|1-JobChange_02- 名=포올!
+KO|포올!
+EN|Winter Fun
+
+###103 count=12 field=tooltipDescription key=10300262|1-JobChange_02- 名=포올!
+KO|얼음 정령이 따르는 중\n아이스 스피어 대신 아이스 밤 사용\n찌릿 치릿 대신 폴 스케이트 사용
+EN|While the ice spirit follows you, Ice Spear becomes Ice Bomb and Perfect Storm becomes Risky Rink.
+SKILL|아이스 스피어=アイススピア
+
+###104 count=12 field=name key=10300268|1-JobChange_02- 名=동결
+KO|동결
+EN|Frozen
+
+###105 count=12 field=tooltipDescription key=10300268|1-JobChange_02- 名=동결
+KO|얼음 떙!
+EN|Frozen!
+
+###106 count=12 field=name key=10300275|1-JobChange_02- 名=용오름
+KO|용오름
+EN|Waterspout
+
+###107 count=12 field=name key=10300285|1-JobChange_02- 名=완전 연소
+KO|완전 연소
+EN|Perfect Combustion
+
+###108 count=12 field=name key=10300292|1-JobChange_02- 名=사나운 불길
+KO|사나운 불길
+EN|Raging Flame
+
+###109 count=12 field=name key=10400271|1-JobChange_02- 名=신의 십자가
+KO|신의 십자가
+EN|Divine Cross
+
+###110 count=12 field=name key=10500093|1-JobChange_02- 名=피닉스 스피릿
+KO|피닉스 스피릿
+EN|Phoenix Spirit
+
+###111 count=12 field=name key=10500261|1-JobChange_02- 名=초열 불꽃
+KO|초열 불꽃
+EN|Burning Flame
+
+###112 count=12 field=name key=10500272|1-JobChange_02- 名=피닉스 폼
+KO|피닉스 폼
+EN|Phoenix Form
+
+###113 count=12 field=name key=10500281|1-JobChange_02- 名=약점 간파
+KO|약점 간파
+EN|Exposed
+
+###114 count=12 field=name key=10600271|1-JobChange_02- 名=포터블 아머리
+KO|포터블 아머리
+EN|Portable Armory
+
+###115 count=12 field=name key=10600281|1-JobChange_02- 名=스티키 몬스터
+KO|스티키 몬스터
+EN|Sticky Monster
+
+###116 count=12 field=tooltipDescription key=10600281|1-JobChange_02- 名=스티키 몬스터
+KO|다기능 연동 점착 폭탄의 기능이 활성화 되었습니다!\n집중 사격, 파이어 봄버, 데몰리션 캐논 스킬 추가 효과 발동
+EN|Sticky bomb's advanced features have been activated! Enables the bonus effects of Focused Fire, Fire Bomber, and Demolition Cannon.
+
+###117 count=12 field=name key=10600288|1-JobChange_02- 名=화염 방사
+KO|화염 방사
+EN|Flamethrower
+
+###118 count=12 field=name key=10800281|1-JobChange_02- 名=낙인
+KO|낙인
+EN|Mark
+
+###119 count=12 field=tooltipDescription key=10800281|1-JobChange_02- 名=낙인
+KO|어둠의 술법이 체내에 쌓이고 있습니다
+EN|Dark magic accumulates within the target.
+
+###120 count=12 field=name key=10800283|1-JobChange_02- 名=부식
+KO|부식
+EN|Decay
+
+###121 count=12 field=tooltipDescription key=10800283|1-JobChange_02- 名=부식
+KO|어둠의 술법에 노출되었습니다\n물리/마법 저항력 60 감소
+EN|Exposed to dark magic. Decreases physical and magic resistance by 60.
+
+###122 count=12 field=tooltipDescription key=10800284|1-JobChange_02- 名=어둠의 힘
+KO|어둠의 힘을 모으고 있습니다
+EN|Gathering the power of darkness.
+
+###123 count=12 field=name key=10800285|1-JobChange_02- 名=비술
+KO|비술
+EN|Secret Arts
+
+###124 count=12 field=tooltipDescription key=10800285|1-JobChange_02- 名=비술
+KO|어둠의 술법이 완성되었습니다
+EN|The pinnacle of dark magic.
+
+###125 count=12 field=name key=10900271|1-JobChange_02- 名=블레이드 러너
+KO|블레이드 러너
+EN|Swift Blade
+
+###126 count=12 field=name key=10900282|1-JobChange_02- 名=화염 속성 증폭
+KO|화염 속성 증폭
+EN|Amplified Flame
+
+###127 count=12 field=name key=10900283|1-JobChange_02- 名=냉기 속성 증폭
+KO|냉기 속성 증폭
+EN|Amplified Frost
+
+###128 count=12 field=name key=10900284|1-JobChange_02- 名=전격 속성 증폭
+KO|전격 속성 증폭
+EN|Amplified Storm
+
+###129 count=8 field=name key=71001011|1-Kritias_2018_12- 名=미니 퍼즐 도전자!
+KO|미니 퍼즐 도전자!
+EN|Mini Puzzle Challenger
+
+###130 count=8 field=tooltipDescription key=71001011|1-Kritias_2018_12- 名=미니 퍼즐 도전자!
+KO|우연히 마주친 퍼즐에 도전합니다. \n도전자만이 보상을 획득할 자격을 가집니다.
+EN|Stumbled upon a puzzle. Only the challenger can obtain the reward.
+
+###131 count=8 field=name key=73000004|1-Kritias_Turka01- 名=아르케온 탑승
+KO|아르케온 탑승
+EN|Riding Archeon
+
+###132 count=8 field=tooltipDescription key=73000004|1-Kritias_Turka01- 名=아르케온 탑승
+KO|아르케온에 탑승했습니다.
+EN|Riding Archeon.
+
+###133 count=7 field=tooltipDescription key=92003005|1-ShadowExpedition- 名=과부하 충전
+KO|15회 중첩 시 과부하 상태
+EN|(なし)
+
+###134 count=6 field=name key=49288020|1-Gigantica01- 名=적응력 적용_2
+KO|적응력 적용_2
+EN|Apply Adaptability_2
+
+###135 count=6 field=tooltipDescription key=49288020|1-Gigantica01- 名=적응력 적용_2
+KO|일반몹에 대한 드릴공격 인식
+EN|Drill attack recognition for common mob
+
+###136 count=6 field=tooltipDescription key=50001408|1-Kritias_Zakum01- 名=전염병 폭발
+KO|5초마다 전염병 폭발이 발생\n자신과 주변 아군에게 독 대미지\n폭발에 영향받은 아군에게 전염병 전파
+EN|Explode with a poisonous plague after 5 seconds. Inflicts poison damage to self and nearby allies. Affected allies are infected with plague.
+
+###137 count=6 field=tooltipDescription key=62100165|1-Kritias_Turka01- 名=기절
+KO|기절 상태 입니다.
+EN|Stunned and unable to act.
+
+###138 count=6 field=name key=71001013|1-Kritias_2018_12- 名=도전 성공!
+KO|도전 성공!
+EN|Challenge Success
+
+###139 count=6 field=tooltipDescription key=71001013|1-Kritias_2018_12- 名=도전 성공!
+KO|도전에 성공하여 황금상자를 열 수 있습니다. \n(시간이 경과하면 상자를 열 수 없습니다.) 
+EN|You completed the challenge and can open the golden chest. Do so before this effect ends! 
+
+###140 count=6 field=tooltipDescription key=92001026|15-ShadowExpedition- 名=거대화
+KO|활력이 넘치는 상태가 되었습니다.\n최대 생명력이 증가\n물리 및 마법 피해 감소
+EN|(なし)
+
+###141 count=5 field=name key=50000157|1-DungeonOpen70CH5- 名=공격력 감소
+KO|공격력 감소
+EN|Attack Reduced
+
+###142 count=5 field=tooltipDescription key=92003005|8-ShadowExpedition- 名=과부하 충전
+KO|14회 중첩 시 과부하 상태
+EN|(なし)
+
+###143 count=4 field=tooltipDescription key=49288028|1-Gigantica01- 名=이동속도 감소
+KO|이동속도가 감소되었습니다.
+EN|Movement speed has been reduced.
+
+###144 count=4 field=tooltipDescription key=62100150|1-Kritias_Turka01- 名=아르케온 탈것 제어
+KO|아르케온 탈것 제어
+EN|Controls the Archeon mount.
+
+###145 count=4 field=name key=62100153|1-Kritias_Turka01- 名=무자비
+KO|무자비
+EN|Merciless
+
+###146 count=4 field=name key=70002201|1-Fieldwar01- 名=군단의 결속 : 무적
+KO|군단의 결속 : 무적
+EN|Army Unity: Invincibility
+
+###147 count=4 field=tooltipDescription key=70002201|1-Fieldwar01- 名=군단의 결속 : 무적
+KO|군단이 결속합니다.\n무적 상태입니다.
+EN|The army unites, granting invincibility.
+
+###148 count=4 field=tooltipDescription key=92003005|13-ShadowExpedition- 名=과부하 충전
+KO|13회 중첩 시 과부하 상태
+EN|(なし)
+
+###149 count=4 field=tooltipDescription key=92003005|17-ShadowExpedition- 名=과부하 충전
+KO|12회 중첩 시 과부하 상태
+EN|(なし)
+
+###150 count=3 field=name key=49288012|1-Gigantica01- 名=적응력
+KO|적응력
+EN|Adaptability
+
+###151 count=3 field=name key=50001658|1-Wedding- 名=피로연에서 춤추기
+KO|피로연에서 춤추기
+EN|Reception Dance
+
+###152 count=3 field=tooltipDescription key=50005329|1-DungeonOpen70CH5- 名=공격력 감소
+KO|공격력 90% 감소
+EN|Attack is reduced by 90%.
+
+###153 count=3 field=name key=50006000|1-Kritias_Zakum01- 名=대미지 극 감소 : 화염 속성 약화
+KO|대미지 극 감소 : 화염 속성 약화
+EN|Flame-Weakened Defense
+
+###154 count=3 field=tooltipDescription key=50006000|1-Kritias_Zakum01- 名=대미지 극 감소 : 화염 속성 약화
+KO|보호의 효과로 대미지 99% 감소\n단 화염 속성 공격에 매우 약함
+EN|Reduces most damage by 99%, but greatly increases damage taken from fire attacks.
+
+###155 count=3 field=name key=50006001|1-Kritias_Zakum01- 名=대미지 극 감소 : 냉기 속성 약화
+KO|대미지 극 감소 : 냉기 속성 약화
+EN|Ice-Weakened Defense
+
+###156 count=3 field=tooltipDescription key=50006001|1-Kritias_Zakum01- 名=대미지 극 감소 : 냉기 속성 약화
+KO|보호의 효과로 대미지 99% 감소\n단 냉기 속성 공격에 매우 약함
+EN|Reduces most damage by 99%, but greatly increases damage taken from ice attacks.
+
+###157 count=3 field=name key=50006002|1-Kritias_Zakum01- 名=대미지 극 감소 : 전격 속성 약화
+KO|대미지 극 감소 : 전격 속성 약화
+EN|Electric-Weakened Defense
+
+###158 count=3 field=tooltipDescription key=50006002|1-Kritias_Zakum01- 名=대미지 극 감소 : 전격 속성 약화
+KO|보호의 효과로 대미지 99% 감소\n단 전격 속성 공격에 매우 약함
+EN|Reduces most damage by 99%, but greatly increases damage taken from electric attacks.
+
+###159 count=3 field=name key=50006003|1-Kritias_Zakum01- 名=대미지 극 감소 : 신성 속성 약화
+KO|대미지 극 감소 : 신성 속성 약화
+EN|Holy-Weakened Defense
+
+###160 count=3 field=tooltipDescription key=50006003|1-Kritias_Zakum01- 名=대미지 극 감소 : 신성 속성 약화
+KO|보호의 효과로 대미지 99% 감소\n단 신성 속성 공격에 매우 약함
+EN|Reduces most damage by 99%, but greatly increases damage taken from holy attacks.
+
+###161 count=3 field=name key=50006004|1-Kritias_Zakum01- 名=대미지 극 감소 : 암흑 속성 약화
+KO|대미지 극 감소 : 암흑 속성 약화
+EN|Dark-Weakened Defense
+
+###162 count=3 field=tooltipDescription key=50006004|1-Kritias_Zakum01- 名=대미지 극 감소 : 암흑 속성 약화
+KO|보호의 효과로 대미지 99% 감소\n단 암흑 속성 공격에 매우 약함
+EN|Reduces most damage by 99%, but greatly increases damage taken from dark attacks.
+
+###163 count=3 field=name key=50006005|1-Kritias_Zakum01- 名=대미지 극 감소 : 독 속성 약화
+KO|대미지 극 감소 : 독 속성 약화
+EN|Poison-Weakened Defense
+
+###164 count=3 field=tooltipDescription key=50006005|1-Kritias_Zakum01- 名=대미지 극 감소 : 독 속성 약화
+KO|보호의 효과로 대미지 99% 감소\n단 독 속성 공격에 매우 약함
+EN|Reduces most damage by 99%, but greatly increases damage taken from poison attacks.
+
+###165 count=3 field=tooltipDescription key=62100102|1-Kritias_Turka01- 名=오버파워1형태
+KO|아르케온은 시간이 지날수록 방어력이 증가 합니다.
+EN|Archeon gains defense over time.
+
+###166 count=3 field=name key=62100104|1-Kritias_Turka01- 名=오버파워1형태_제거
+KO|오버파워1형태_제거
+EN|Remove Overpower Form 1
+
+###167 count=3 field=tooltipDescription key=62100104|1-Kritias_Turka01- 名=오버파워1형태_제거
+KO|오버파워1형태_제거
+EN|Removes Overpower Form 1.
+
+###168 count=3 field=name key=62100150|1-Kritias_Turka01- 名=아르케온 탈것 제어
+KO|아르케온 탈것 제어
+EN|Archeon Mount Control
+
+###169 count=3 field=tooltipDescription key=62100153|1-Kritias_Turka01- 名=무자비
+KO|일반 공격으로는 피해를 입힐 수 없는 상태가 되었습니다.\n방법을 찾으세요.
+EN|Immune to damage from normal attacks.⏎Find another way.
+
+###170 count=3 field=name key=62100201|1-Kritias_Turka02- 名=흑색 에너지 면역
+KO|흑색 에너지 면역
+EN|Black Energy Immunity
+
+###171 count=3 field=tooltipDescription key=62100201|1-Kritias_Turka02- 名=흑색 에너지 면역
+KO|흑색 면역체로 인해 티마이온의 흑색 에너지 공격을 흡수합니다.
+EN|The black immunity field absorbs Timaion's black energy attacks.
+
+###172 count=3 field=name key=62100202|1-Kritias_Turka02- 名=백색 에너지 면역
+KO|백색 에너지 면역
+EN|White Energy Immunity
+
+###173 count=3 field=tooltipDescription key=62100202|1-Kritias_Turka02- 名=백색 에너지 면역
+KO|백색 면역첵로 인해 티마이온의 백색 에너지 공격을 흡수합니다.
+EN|The white immunity field absorbs Timaion's white energy attacks.
+
+###174 count=3 field=name key=62100218|1-Kritias_Turka02- 名=흑색 에너지 과부하
+KO|흑색 에너지 과부하
+EN|Black Energy Overload
+
+###175 count=3 field=name key=62100219|1-Kritias_Turka02- 名=백색 에너지 과부하
+KO|백색 에너지 과부하
+EN|White Energy Overload
+

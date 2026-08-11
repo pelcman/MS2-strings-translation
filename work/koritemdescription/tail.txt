@@ -1,0 +1,1752 @@
+###1 count=1 tag= key=20302110-- field=tooltipDescription item=G-STARスペシャルボックス
+KO|2018 지스타를 기념하기 위해 제작된 스페셜 박스이다. 성장과 모험에 도움이 되는 아이템 뿐 아니라 욕조 모양의 독특한 비행 탈것을 얻을 수 있다.
+EN|(なし)
+
+###2 count=1 tag= key=20302110-- field=guideDescription item=G-STARスペシャルボックス
+KO|소지품 창의 아이템을 더블클릭하면 다양한 아이템을 획득할 수 있다. \n\n<font color='#FFFFFF'>$item:20300531$ 구성품 </font>\n<font color='#FFFFFF'> - 성장 지원 쿠폰 1장</font>\n<font color='#FFFFFF'> - 엘릭서 30개</font>\n<font color='#FFFFFF'> - 숙련가 포션 30개</font>
+EN|(なし)
+
+###3 count=1 tag= key=20302273-- field=tooltipDescription item=新年GMローラのプレゼントボックス
+KO|새해를 앞둔 GM데이를 위해 GM로라가 설레는 마음으로 준비한 특별한 선물이 담겨 있는 상자이다.
+EN|(なし)
+
+###4 count=1 tag=Balrogitem1st key=50740003-Balrogitem1st- field=tooltipDescription item=?
+KO|멈추지 않는 붉은 심장을 가진 불멸의 존재, $npc:23090005$.$npc:11000144$$pp:와,과$ 함께 힘을 모아 $npc:23090005$의 부활을 막아냈다. 이로 인해 $npc:11000144$은 은인 무혼과의 약속을 지켜냈고, 이 세상의 평화와 안정도 지킬 수 있었다.
+EN|(なし)
+
+###5 count=1 tag=BlackBean01 key=50740048-BlackBean01- field=tooltipDescription item=ブラックビーンの記念品
+KO|$npc:23000101$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다.
+EN|A souvenir that only those who defeated $npc:23000101$ can possess.
+
+###6 count=1 tag=ColosseumDungeon key=20302455-ColosseumDungeon- field=tooltipDescription item=レジェンダリー靴の欠片選択ボックス
+KO|레전더리 신발 상자 조각을 선택해서 획득할 수 있는 상자이다.
+EN|Contains fragments for the legendary shoe box of your choice.
+
+###7 count=1 tag=ColosseumDungeon key=20302456-ColosseumDungeon- field=tooltipDescription item=レジェンダリーグローブの欠片選択ボックス
+KO|레전더리 장갑 상자 조각을 선택해서 획득할 수 있는 상자이다.
+EN|Contains fragments for the legendary glove box of your choice.
+
+###8 count=1 tag=ColosseumDungeon key=20302457-ColosseumDungeon- field=tooltipDescription item=レジェンダリー帽子の欠片選択ボックス
+KO|레전더리 모자 상자 조각을 선택해서 획득할 수 있는 상자이다.
+EN|Contains fragments for the legendary headgear box of your choice.
+
+###9 count=1 tag=ColosseumDungeon key=20302458-ColosseumDungeon- field=tooltipDescription item=レジェンダリー服(上下)の欠片選択ボックス
+KO|레전더리 상하의 상자 조각을 선택해서 획득할 수 있는 상자이다.
+EN|Contains fragments for the legendary top/bottoms box of your choice.
+
+###10 count=1 tag=ColosseumDungeon key=20302459-ColosseumDungeon- field=tooltipDescription item=レジェンダリー武器の欠片選択ボックス
+KO|레전더리 무기 상자 조각을 선택해서 획득할 수 있는 상자이다.
+EN|Contains fragments for the legendary weapon box of your choice.
+
+###11 count=2 tag=Develop key=11220075-Develop- field=tooltipDescription item=シャインフェアリーイヤリング(男)
+KO|让人联想起妖精翅膀的耳环。
+EN|(なし)
+
+###12 count=2 tag=Develop key=11320075-Develop- field=tooltipDescription item=シャインフェアリーティアラ(男)
+KO|象征花妖的王冠。
+EN|(なし)
+
+###13 count=2 tag=Develop key=11620075-Develop- field=tooltipDescription item=シャインフェアリーフラワーリング(男)
+KO|带有芬芳花朵装饰的戒指。
+EN|(なし)
+
+###14 count=2 tag=Develop key=11720075-Develop- field=tooltipDescription item=シャインフェアリーシューズ(男)
+KO|带有芬芳花朵装饰的鞋。
+EN|(なし)
+
+###15 count=2 tag=Develop key=11820075-Develop- field=tooltipDescription item=シャインフェアリーフラワーウィング(男)
+KO|妖精的闪亮翅膀。
+EN|(なし)
+
+###16 count=1 tag=Develop key=12220075-Develop- field=tooltipDescription item=シャインフェアリーローブ(男)
+KO|象征花妖的长袍。
+EN|(なし)
+
+###17 count=1 tag=Develop key=12220076-Develop- field=tooltipDescription item=シャインフェアリードレス(女)
+KO|象征花妖的裙。
+EN|(なし)
+
+###18 count=1 tag=Develop key=20000650-Develop- field=guideDescription item=(テスト) 一気にドーピングOK 01
+KO|\n<font color='#7A7A7A'>对应公会团队副本标准装备20001。</font>
+EN|(なし)
+
+###19 count=1 tag=Develop key=20000651-Develop- field=guideDescription item=(テスト) 一気にドーピングOK 02
+KO|\n<font color='#7A7A7A'>对应公会团队副本标准装备20002。</font>
+EN|(なし)
+
+###20 count=1 tag=Develop key=20000652-Develop- field=guideDescription item=(テスト) 一気にドーピングOK 03
+KO|\n<font color='#7A7A7A'>对应公会团队副本标准装备20003。</font>
+EN|(なし)
+
+###21 count=1 tag=Develop key=20000653-Develop- field=guideDescription item=(テスト) 一気にドーピングOK 04
+KO|\n<font color='#7A7A7A'>对应公会团队副本标准装备20004。</font>
+EN|(なし)
+
+###22 count=1 tag=Develop key=20000654-Develop- field=guideDescription item=(テスト) 一気にドーピングOK 05
+KO|\n<font color='#7A7A7A'>对应公会团队副本标准装备20005。</font>
+EN|(なし)
+
+###23 count=1 tag=Develop key=61000001-Develop- field=guideDescription item=青いキノコ
+KO|召唤宠物后，可获得宠物所具有的能力值效果。但是在活动、战场及竞技场等部分特殊地区下无法召唤宠物。
+EN|(なし)
+
+###24 count=1 tag=DungeonOpen70CH3 key=20303140-DungeonOpen70CH3- field=tooltipDescription item=幻影の青い影洞窟Cランク報酬ボックス
+KO|환영의 푸른 그림자 동굴에서 던전 랭크C를 달성했을 때 받게 되는 상자이다. 
+EN|A box received when achieving Dungeon Rank C in the Phantom Blue Shadow Cave. 
+
+###25 count=1 tag=DungeonOpen70CH3 key=20303141-DungeonOpen70CH3- field=tooltipDescription item=幻影の青い影洞窟Bランク報酬ボックス
+KO|환영의 푸른 그림자 동굴에서 던전 랭크B를 달성했을 때 받게 되는 상자이다. 
+EN|A box received when achieving Dungeon Rank B in the Phantom Blue Shadow Cave. 
+
+###26 count=1 tag=DungeonOpen70CH3 key=20303142-DungeonOpen70CH3- field=tooltipDescription item=幻影の青い影洞窟Aランク報酬ボックス
+KO|환영의 푸른 그림자 동굴에서 던전 랭크A를 달성했을 때 받게 되는 상자이다. 
+EN|A box received when achieving Dungeon Rank A in the Phantom Blue Shadow Cave. 
+
+###27 count=1 tag=DungeonOpen70CH3 key=20303143-DungeonOpen70CH3- field=tooltipDescription item=幻影の青い影洞窟Sランク報酬ボックス
+KO|환영의 푸른 그림자 동굴에서 던전 랭크S를 달성했을 때 받게 되는 상자이다. 
+EN|A box received when achieving Dungeon Rank S in the Phantom Blue Shadow Cave. 
+
+###28 count=1 tag=DungeonOpen70CH3 key=20303144-DungeonOpen70CH3- field=tooltipDescription item=幻影の青い影洞窟S+ランク報酬ボックス
+KO|환영의 푸른 그림자 동굴에서 던전 랭크S+를 달성했을 때 받게 되는 상자이다. 
+EN|A box received when achieving Dungeon Rank S+ in the Phantom Blue Shadow Cave. 
+
+###29 count=1 tag=DungeonOpen70CH4 key=20303145-DungeonOpen70CH4- field=tooltipDescription item=幻影のホルスの巣Cランク報酬ボックス
+KO|환영의 호루스의 둥지에서 던전 랭크C를 달성했을 때 받게 되는 상자이다. 
+EN|A box received when achieving Dungeon Rank C in the Phantom Horus's Nest. 
+
+###30 count=1 tag=DungeonOpen70CH4 key=20303146-DungeonOpen70CH4- field=tooltipDescription item=幻影のホルスの巣Bランク報酬ボックス
+KO|환영의 호루스의 둥지에서 던전 랭크B를 달성했을 때 받게 되는 상자이다. 
+EN|A box received when achieving Dungeon Rank B in the Phantom Horus's Nest. 
+
+###31 count=1 tag=DungeonOpen70CH4 key=20303147-DungeonOpen70CH4- field=tooltipDescription item=幻影のホルスの巣Aランク報酬ボックス
+KO|환영의 호루스의 둥지에서 던전 랭크A를 달성했을 때 받게 되는 상자이다. 
+EN|A box received when achieving Dungeon Rank A in the Phantom Horus's Nest. 
+
+###32 count=1 tag=DungeonOpen70CH4 key=20303148-DungeonOpen70CH4- field=tooltipDescription item=幻影のホルスの巣Sランク報酬ボックス
+KO|환영의 호루스의 둥지에서 던전 랭크S를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive when achieving Dungeon Rank S in the Illusion of Horus's Nest. 
+
+###33 count=1 tag=DungeonOpen70CH4 key=20303149-DungeonOpen70CH4- field=tooltipDescription item=幻影のホルスの巣S+ランク報酬ボックス
+KO|환영의 호루스의 둥지에서 던전 랭크S+를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive when achieving Dungeon Rank S+ in the Illusion of Horus's Nest. 
+
+###34 count=1 tag=DungeonOpen70CH5 key=20303184-DungeonOpen70CH5- field=tooltipDescription item=ドタバタブラックビーン遊び場Cランク報酬ボックス
+KO|우당탕 블랙빈 놀이터에서 던전 랭크C를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive when achieving dungeon rank C in Black Bean's fun-wobbling playground. 
+
+###35 count=1 tag=DungeonOpen70CH5 key=20303185-DungeonOpen70CH5- field=tooltipDescription item=ドタバタブラックビーン遊び場Bランク報酬ボックス
+KO|우당탕 블랙빈 놀이터에서 던전 랭크B를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive when achieving dungeon rank B in Black Bean's fun-wobbling playground. 
+
+###36 count=1 tag=DungeonOpen70CH5 key=20303186-DungeonOpen70CH5- field=tooltipDescription item=ドタバタブラックビーン遊び場Aランク報酬ボックス
+KO|우당탕 블랙빈 놀이터에서 던전 랭크A를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive when achieving dungeon rank A in Black Bean's fun-wobbling playground. 
+
+###37 count=1 tag=DungeonOpen70CH5 key=20303187-DungeonOpen70CH5- field=tooltipDescription item=ドタバタブラックビーン遊び場Sランク報酬ボックス
+KO|우당탕 블랙빈 놀이터에서 던전 랭크S를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive when achieving dungeon rank S in Black Bean's fun-wobbling playground. 
+
+###38 count=1 tag=DungeonOpen70CH5 key=20303188-DungeonOpen70CH5- field=tooltipDescription item=ドタバタブラックビーン遊び場S+ランク報酬ボックス
+KO|우당탕 블랙빈 놀이터에서 던전 랭크S+를 달성했을 때 받게 되는 상자이다. 
+EN|A box you can receive when achieving dungeon rank S+ at the Bang Bang Black Bean playground. 
+
+###39 count=1 tag=EpicApocalypse01 key=30001479-EpicApocalypse01- field=tooltipDescription item=監獄の塔の鍵
+KO|$map:52000189$ 최하층 감옥문의 열쇠이다. 그 안에는 일곱 영웅 중 한 명인 $npc:11003368$$pp:가,이$ 수감되어 있다고 한다.
+EN|The key to the prison gate on the lowest floor of $map:52000189$. It is said that $npc:11003368$, one of the Seven Heroes, is imprisoned inside.
+
+###40 count=1 tag=EpicApocalypse01 key=30001480-EpicApocalypse01- field=tooltipDescription item=セリアンの伝言
+KO|$npc:11001812$$pp:가,이$ $npcName:11004744$$pp:를,을$ 통해 전달한 급보로, 어둠의 땅의 완전한 봉인을 위해 $npcName:11004786$ 여제의 지원을 요청하는 내용이 적혀있다.
+EN|An urgent report delivered by $npc:11001812$ through $npcName:11004744$, requesting Empress $npcName:11004786$'s support to completely seal the Land of Darkness.
+
+###41 count=1 tag=EpicApocalypse01 key=30001485-EpicApocalypse01- field=tooltipDescription item=カールの脱毛診断書
+KO|탈모란 권력자의 동반자와도 같은 증상으로, $npc:11000074$도 피해갈 수 없던 듯 하다.
+EN|Hair loss is a symptom that accompanies those in power, and it seems $npc:11000074$ could not escape it either.
+
+###42 count=1 tag=EpicApocalypse01 key=30001486-EpicApocalypse01- field=tooltipDescription item=カールの日記帳
+KO|$npc:11000074$$pp:가,이$ 오랜 시간 정리해온 일기장이다. 비드블라임가의 역사와도 같으며, $npc:11000074$$pp:가,이$ 가장 소중히 여기는 물건이다.
+EN|$npc:11000074$ has kept this diary over a long time. Like the history of the Bidblame family, it is the object $npc:11000074$ treasures most.
+
+###43 count=1 tag=EpicApocalypse01 key=30001487-EpicApocalypse01- field=tooltipDescription item=古いクマのぬいぐるみ
+KO|어린아이를 위한 장난감 곰인형으로, 손을 많이 탔는지 여기저기 헤진 흔적이 있다. 오래된 것으로 보아 지금은 주인이 없는 듯하다.
+EN|A teddy bear toy for a child, worn in many places from much handling. Judging by its age, it seems to have no owner now.
+
+###44 count=1 tag=EpicApocalypse01 key=30001488-EpicApocalypse01- field=tooltipDescription item=くしゃくしゃの手紙
+KO|$npc:11000074$$pp:가,이$ 적다 만 편지로, 보낸 것을 포기한 듯 마구 구겨져 있다. 누군가를 그리워하는 내용이 적혀있으나 잉크가 얼룩져 수신인을 확인할 수 없다.
+EN|An unfinished letter written by $npc:11000074$, crumpled as if abandoned before sending. It contains longing for someone, but the ink is stained and the recipient cannot be identified.
+
+###45 count=1 tag=EpicApocalypse01 key=50201154-EpicApocalypse01- field=tooltipDescription item=黒の魔法師の肖像画
+KO|웹 이벤트 완료 시 보상으로, 두건을 쓰고 있는 검은 마법사의 초상화가 액자에 담겨 있다.
+EN|Reward for completing a web event. A framed portrait of the hooded Black Mage.
+
+###46 count=1 tag=EpicApocalypse01 key=50201155-EpicApocalypse01- field=tooltipDescription item=キリアンの肖像画
+KO|에픽퀘스트 완료 시 보상으로, 두건을 벗은 채 붉은 눈빛을 발산하는 검은 마법사의 초상화가 액자에 담겨 있다.
+EN|Reward for completing an Epic Quest. A framed portrait of the Black Mage with his hood off, radiating a red gaze.
+
+###47 count=2 tag=EpicEnchantScroll50A key=33000313-EpicEnchantScroll50A- field=tooltipDescription item=古代精霊の魔力石
+KO|이름도 위치도 알 수 없는 세계에서 전해졌다는 마법의 광석이다. 물질의 힘을 극한으로 끌어올리는 에너지가 담겨 있다. 사용 조건이 까다로워 아무나 사용할 수 없다. 보물 던전에서 획득할 수 있다.
+EN|A magical ore said to have been passed down from an unknown world. It contains energy that draws out the power of matter to its limits. Its use requirements are strict, so not just anyone can use it. It can be obtained from treasure dungeons.
+
+###48 count=2 tag=EpicEnchantScroll50A key=33000315-EpicEnchantScroll50A- field=tooltipDescription item=古代精霊の魔力石
+KO|이름도 위치도 알 수 없는 세계에서 전해졌다는 마법의 광석이다. 물질의 힘을 극한으로 끌어올리는 에너지가 담겨 있다. 사용 조건이 까다로워 아무나 사용할 수 없다. 카오스 레이드 던전에서 획득할 수 있다.
+EN|A magical ore said to have been handed down from a world whose name and location are unknown. It holds energy that draws the power of matter to its extreme. Its usage conditions are demanding, so anyone cannot use it. It can be obtained from Chaos Raid dungeons.
+
+###49 count=1 tag=EventDungeon02 key=20302681-EventDungeon02- field=tooltipDescription item=70レベルレジェンダリー武器の欠片選択ボックス
+KO|70레벨 레전더리 무기 조각 중 원하는 종류를 선택할 수 있는 상자이다
+EN|(なし)
+
+###50 count=1 tag=EventDungeon02 key=20302682-EventDungeon02- field=tooltipDescription item=70レベルレジェンダリー防具の欠片選択ボックス
+KO|70레벨 레전더리 방어구 조각 중 원하는 종류를 선택할 수 있는 상자이다
+EN|(なし)
+
+###51 count=1 tag=EventDungeon02 key=20302683-EventDungeon02- field=tooltipDescription item=70レベルエクセレントアクセサリーの欠片選択ボックス
+KO|70레벨 엑설런트 액세서리 조각 중 원하는 종류를 선택할 수 있는 상자이다
+EN|(なし)
+
+###52 count=1 tag=EventDungeon02 key=20303094-EventDungeon02- field=tooltipDescription item=70レベルレジェンダリーアクセサリーの欠片選択ボックス
+KO|70레벨 레전더리 액세서리 조각 중 원하는 종류를 선택할 수 있는 상자이다
+EN|(なし)
+
+###53 count=1 tag=Fame_Geo01 key=11301520-Fame_Geo01- field=tooltipDescription item=ヨランの花びら
+KO|요랑족을 도와 선한 마음을 인정받은 자를 위한 증표로, 오직 선한 요랑족만 피울 수 있는 꽃잎이다.
+EN|A token for those whose kind hearts were recognized after helping the Yorang. These petals can bloom only from kind Yorang.
+
+###54 count=1 tag=Fame_Geo01 key=20001438-Fame_Geo01- field=tooltipDescription item=称号：マルレーネの意志
+KO|크리티아스 전역에 마를레네의 의지를 보여준 모험가에게 수여되는 칭호이다.
+EN|A title awarded to Adventurers who have displayed Marlene's will throughout Kritias.
+
+###55 count=1 tag=Fame_Geo01 key=30001353-Fame_Geo01- field=tooltipDescription item=飛行部品
+KO|$npcName:25022206$의 $item:30001353$이다. 드론을 수리하는데 유용할 것 같다.
+EN|This is $npcName:25022206$'s $item:30001353$. It seems useful for repairing drones.
+
+###56 count=1 tag=Fame_Geo01 key=30001354-Fame_Geo01- field=tooltipDescription item=エネルの破片
+KO|$npcName:25022204$의 마법봉에 박혀있는 $item:30001354$이다.
+EN|This is the $item:30001354$ set into $npcName:25022204$'s magic wand.
+
+###57 count=1 tag=Fame_Geo01 key=30001355-Fame_Geo01- field=tooltipDescription item=フォックストロットの毒針
+KO|$item:30001355$이다. 모랑족의 무기를 개조하는데 유용할 것 같다.
+EN|This is $item:30001355$. It seems useful for modifying the Morong's weapons.
+
+###58 count=1 tag=Fame_Geo01 key=30001356-Fame_Geo01- field=tooltipDescription item=ラフレシアの花粉
+KO|$npcName:11004614$$pp:가,이$ 숙면에 좋다고 이야기한 $item:30001356$이다.
+EN|$npcName:11004614$ mentioned that this $item:30001356$ is good for a restful sleep.
+
+###59 count=1 tag=Fame_Geo01 key=30001357-Fame_Geo01- field=tooltipDescription item=A.Iコントローラー
+KO|타이렌 왕국 $item:30001357$이다. 흑화의 원리를 밝혀내는데 도움이 될 것 같다.
+EN|This is a Tairen Kingdom $item:30001357$. It could be helpful in uncovering the principle behind the blackening.
+
+###60 count=1 tag=Fame_Geo01 key=30001358-Fame_Geo01- field=tooltipDescription item=レッドゼラクの構成物質
+KO|게오르크에 큰 피해를 주고 있는 $item:30001358$이다. $npcName:25022601$의 전투력을 분석하는 데 도움이 될 것 같다.
+EN|This is the $item:30001358$ that is causing great damage to Humanitas. It may be helpful in analyzing $npcName:25022601$'s combat ability.
+
+###61 count=1 tag=Fame_Geo01 key=30001359-Fame_Geo01- field=tooltipDescription item=エネル原石
+KO|$npcName:25022202$의 꼬리에 달려있는 $item:30001359$이다. 타이렌 왕국 사족보행 병기의 구조를 파악하는 데 도움이 될 것 같다.
+EN|This is the $item:30001359$ attached to $npcName:25022202$'s tail. It may be helpful in understanding the structure of the Tairen Kingdom's quadruped war machines.
+
+###62 count=1 tag=Fame_Geo01 key=30001360-Fame_Geo01- field=tooltipDescription item=ケルベス野獣の肉
+KO|$npcName:25022307$의 고기이다. 맛과 영양이 좋아 식량으로도 유용하다.
+EN|This is $npcName:25022307$'s meat. Its flavor and nutrition are good, making it useful as food.
+
+###63 count=1 tag=Fame_Geo01 key=30001361-Fame_Geo01- field=tooltipDescription item=凶暴なグムツリーの樹液
+KO|엄청나게 끈적끈적한 $item:30001361$이다.
+EN|This is an extremely sticky $item:30001361$.
+
+###64 count=1 tag=Fame_Geo01 key=30001362-Fame_Geo01- field=tooltipDescription item=漆黒鉄ゴリオンMK-IIのB27論理回路
+KO|$item:30001362$이다. 흑화의 원리를 규명하는 데 도움이 될 것 같다.
+EN|This is a $item:30001362$. It may be helpful in uncovering the principle behind the blackening.
+
+###65 count=1 tag=Fame_Geo01 key=30001363-Fame_Geo01- field=tooltipDescription item=半透明の翼
+KO|$npcName:25022305$의 $item:30001363$이다. 그늘막으로 사용하면 유용할 것 같다.
+EN|This is $npcName:25022305$'s $item:30001363$. It may be useful as a shade cover.
+
+###66 count=1 tag=Fame_Geo01 key=30001364-Fame_Geo01- field=tooltipDescription item=投擲弾
+KO|케르베스가 무기로 사용하는 $item:30001364$이다. 난민들의 불꽃놀이를 위해 쓰임새가 있을 것 같다.
+EN|$item:30001364$ is used by Cerbe's as a weapon. It seems like it could be useful for the refugees' fireworks.
+
+###67 count=1 tag=Fame_Geo01 key=30001365-Fame_Geo01- field=tooltipDescription item=鋭い牙
+KO|$npcName:25022507$의 $item:30001365$이다. 모랑족의 무기를 개조하는 데 유용할 것 같다.
+EN|This is $npcName:25022507$'s $item:30001365$. It may be useful in modifying Morang tribe's weapons.
+
+###68 count=1 tag=Fame_Geo01 key=30001366-Fame_Geo01- field=tooltipDescription item=ずる賢いテブラの青い体液
+KO|강렬한 색상의 $item:30001366$이다. 모랑족의 벽화를 보수하기에 딱 좋은 색상이다.
+EN|This is a vivid-colored $item:30001366$. It would be perfect for restoring the Moran mural.
+
+###69 count=1 tag=Fame_Geo01 key=30001367-Fame_Geo01- field=tooltipDescription item=赤い球体
+KO|$npcName:25022702$의 머리에 박혀있는 $item:30001367$이다. 게오르크 연구팀에서는 $item:30001367$$pp:가,이$ $npcName:25022702$의 힘의 원천이라고 예상하고 있다.
+EN|This is the $item:30001367$ embedded in $npcName:25022702$'s head. The Humanitas research team believes the $item:30001367$ to be the source of $npcName:25022702$'s power.
+
+###70 count=1 tag=Fame_Geo01 key=30001368-Fame_Geo01- field=tooltipDescription item=盾の欠片
+KO|$npcName:25022704$의 $item:30001368$이다. 방패를 뚫을 탄환을 개발하기 위해선 $item:30001368$ 분석이 필요하다.
+EN|This is $npcName:25022704$'s $item:30001368$. Analysis of the $item:30001368$ is needed to develop a bullet that can pierce shields.
+
+###71 count=1 tag=Fame_Geo01 key=30001376-Fame_Geo01- field=tooltipDescription item=ヒューマニタスの証
+KO|게오르크에서 발행한 보급품 교환용 화폐. 게오르크 세력의 다양한 아이템을 구매할 수 있다. 
+EN|Currency issued by Humanitas for exchanging supplies. You can use it to purchase various items from the Humanitas faction. 
+
+###72 count=1 tag=Fame_Geo01 key=30001376-Fame_Geo01- field=guideDescription item=ヒューマニタスの証
+KO|게오르크 세력 상점에서 다양한 물품과 교환할 수 있다.
+EN|Can be exchanged for various goods at the Humanitas faction store.
+
+###73 count=2 tag=Fishing02 key=20001042-Fishing02- field=guideDescription item=プロジュエルルアー(1時間)
+KO|사용하면 1시간 동안 보석 물고기를 유인할 확률이 생긴다.\n<font color="#FF5F5F">모든 미끼는 동시에 두 가지 이상 사용할 수 없으며, 사용 시 기존 미끼 효과가 사라집니다. 아이템을 놓치지 않고 획득할 수 있도록 소지품 창의 기타 탭에 빈칸을 확보한 후 미끼를 사용하세요.</font>
+EN|Grants a chance to obtain Jewel Fish for <font color='#00aaef'>1</font> hour.\n<font color="#FF5F5F">Any new bait will replace your current bait. Make sure you have space in your Misc inventory so you don't miss out on any great items!</font>
+
+###74 count=2 tag=Fishing02 key=20001043-Fishing02- field=guideDescription item=プロジュエルルアー(3時間)
+KO|사용하면 3시간 동안 보석 물고기를 유인할 확률이 생긴다.\n<font color="#FF5F5F">모든 미끼는 동시에 두 가지 이상 사용할 수 없으며, 사용 시 기존 미끼 효과가 사라집니다. 아이템을 놓치지 않고 획득할 수 있도록 소지품 창의 기타 탭에 빈칸을 확보한 후 미끼를 사용하세요.</font>
+EN|Grants a chance to obtain Jewel Fish for <font color='#00aaef'>3</font> hours.\n<font color="#FF5F5F">Any new bait will replace your current bait. Make sure you have space in your Misc inventory so you don't miss out on any great items!</font>
+
+###75 count=1 tag=Fishing02 key=11301371-Fishing02- field=tooltipDescription item=ポロロンタコ
+KO|강력한 빨판으로 어디든 착! 붙는 문어다. 부끄러움이 많지만 사람을 무서워하지는 않는다.
+EN|This octopus will stick to anything. It's shy, and yet it isn't afraid of people.
+
+###76 count=1 tag=Fishing02 key=20302051-Fishing02- field=guideDescription item=釣りバッジの欠片：もり
+KO|더블클릭하면 사용할 수 있으며, 100개를 소모해 '낚시 배지 : 작살'을 만들 수 있다.
+EN|Consume 100 fragments to create a Harpoon Fishing Badge. Double-click to use.
+
+###77 count=1 tag=Fishing02 key=20302052-Fishing02- field=guideDescription item=釣りバッジの欠片：マシンガン
+KO|더블클릭하면 사용할 수 있으며, 100개를 소모해 '낚시 배지 : 머신건'을 만들 수 있다.
+EN|Consume 100 fragments to create a Machine Gun Fishing Badge. Double-click to use.
+
+###78 count=1 tag=Fishing02 key=20302053-Fishing02- field=guideDescription item=釣りバッジの欠片：歯車
+KO|더블클릭하면 사용할 수 있으며, 100개를 소모해 '낚시 배지 : 톱니바퀴'를 만들 수 있다.
+EN|Consume 100 fragments to create a Cogwheel Fishing Badge. Double-click to use.
+
+###79 count=1 tag=Fishing02 key=32000054-Fishing02- field=tooltipDescription item=パープルスター釣り竿
+KO|작은 별님을 콕 박은 튼튼한 낚싯대이다. 보드라운 보라색 천을 사용한 의자가 한 세트이다.
+EN|A sturdy fishing pole set with a little star. Comes with a chair made of soft purple fabric.
+
+###80 count=1 tag=Fishing02 key=32000054-Fishing02- field=guideDescription item=パープルスター釣り竿
+KO|프로 낚시꾼부터 사용할 수 있다. \n이 낚싯대를 사용하면 낚시 시간이 7초 감소한다. \n소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 사용할 수 있다.
+EN|Requires pro fishing skill. Reduces the time needed to reel in a fish by 7 sec. To use, double-click it in your inventory or drag it to a quickslot.
+
+###81 count=1 tag=Fishing02 key=32000055-Fishing02- field=tooltipDescription item=スターライト釣り竿
+KO|유연하면서도 단단한 황금빛 낚싯대이다. 영롱한 보석으로 장식해 고급스러운 분위기를 물씬 풍기는 의자와 한 세트이다.
+EN|A sturdy-yet-flexible golden fishing pool. Comes with a luxurious, bejeweled chair.
+
+###82 count=1 tag=Fishing02 key=32000055-Fishing02- field=guideDescription item=スターライト釣り竿
+KO|챔피언 낚시꾼부터 사용할 수 있다.\n이 낚싯대를 사용하면 낚시 시간이 7초 감소한다. \n소지품 창에서 더블클릭하거나 퀵슬롯에 등록하여 사용할 수 있다.
+EN|Requires champion fishing skill. Reduces the time needed to reel in a fish by 7 sec. To use, double-click it in your inventory or drag it to a quickslot.
+
+###83 count=1 tag=Fishing02 key=50201012-Fishing02- field=tooltipDescription item=縞模様のサザエ
+KO|세로 줄무늬가 있는 소라이다. 사람도 들어갈 수 있을 것 같이 커다랗다.
+EN|A conch with vertical stripes. Big enough to fit a person.
+
+###84 count=1 tag=Fishing02 key=50201013-Fishing02- field=tooltipDescription item=まだら模様の海草
+KO|지나가는 이들에게 인사하는 것처럼 살랑살랑 몸을 흔드는 점박이 해초이다.
+EN|This seaweed sways as if to say hello.
+
+###85 count=1 tag=Fishing02 key=50201014-Fishing02- field=tooltipDescription item=海の花サンゴ礁
+KO|고운 색깔이 눈을 사로잡는 산호초이다.
+EN|A mesmerizingly colorful coral reef.
+
+###86 count=1 tag=Fishing02 key=50201015-Fishing02- field=tooltipDescription item=ゆらゆら海草
+KO|여기를 좀 봐달라는 듯이 흐느적 흐느적 움직이는 흔들흔들 해초이다.
+EN|A seaweed that desperately flails this way and that, is if crying out for your attention.
+
+###87 count=1 tag=Fishing02 key=50201016-Fishing02- field=tooltipDescription item=カラフルイソギンチャク
+KO|고운 색깔이 눈을 사로잡는 말미잘이다.
+EN|A sea anemone with dazzling colors.
+
+###88 count=1 tag=Fishing02 key=50201017-Fishing02- field=tooltipDescription item=宝石海草の木
+KO|큼직한 보석들이 박힌 해초 나무이다. 마치 울타리처럼 생겼지만, 살아있다.
+EN|A seaweed tree studded with jewels. In spite of all appearances, it's alive.
+
+###89 count=1 tag=Fishing02 key=50201018-Fishing02- field=tooltipDescription item=宝物を含んだ貝
+KO|보물을 한가득 품고 있는 커다란 진주 조개이다.
+EN|A huge pearl oyster filled with treasure.
+
+###90 count=1 tag=Fishing02 key=50201019-Fishing02- field=tooltipDescription item=ヒトデと貝殻
+KO|하얀 모래사장에서 온 불가사리와 조개 껍데기이다.
+EN|Starfish and clams from a sandy beach.
+
+###91 count=1 tag=GuideWeapon01 key=20301285-GuideWeapon01- field=tooltipDescription item=?
+KO|在冒险[普通/困难]副本中出现的结晶。据说能用于制作已强化的装备。
+EN|(なし)
+
+###92 count=1 tag=GuideWeapon01 key=20301287-GuideWeapon01- field=tooltipDescription item=?
+KO|能够获得利用不稳定的力量结晶制作的武器和防具的箱子。武器和防具强化等级为9级，并只能使用30天。
+EN|(なし)
+
+###93 count=1 tag=GuideWeapon01 key=20301288-GuideWeapon01- field=tooltipDescription item=?
+KO|能够获得利用不稳定的力量结晶制作的武器和防具的箱子。武器和防具强化等级为10级，并只能使用30天。
+EN|(なし)
+
+###94 count=1 tag=GuideWeapon01 key=20301289-GuideWeapon01- field=tooltipDescription item=?
+KO|能够获得利用不稳定的力量结晶制作的武器和防具的箱子。武器和防具强化等级为11级，并只能使用30天。
+EN|(なし)
+
+###95 count=1 tag=GuideWeapon01 key=20301290-GuideWeapon01- field=tooltipDescription item=?
+KO|能够获得利用不稳定的力量结晶制作的武器和防具的箱子。武器和防具强化等级为12级，并只能使用30天。
+EN|(なし)
+
+###96 count=1 tag=GuideWeapon01 key=20301291-GuideWeapon01- field=tooltipDescription item=?
+KO|能够获得利用不稳定的力量结晶和混沌虚拟币制作的武器和防具的箱子。武器和防具强化等级为12级。
+EN|(なし)
+
+###97 count=1 tag=HappyBirthday key=20301140-HappyBirthday- field=tooltipDescription item=誕生日パッケージ
+KO|打开后可获得为过生日的冒险家准备的礼物，并有机会额外获得惊喜特权券。
+EN|(なし)
+
+###98 count=1 tag=HappyBirthday key=20301140-HappyBirthday- field=guideDescription item=誕生日パッケージ
+KO|在背包中双击道具即可获得相应物品。\n\n<font color="#FF5F5F">※ 但$item:30000974$会以较低概率获得。</font>
+EN|(なし)
+
+###99 count=1 tag=HappyBirthday key=20301143-HappyBirthday- field=tooltipDescription item=星座吹き出しボックス
+KO|箱子里装着生日纪念星座对话框徽章。
+EN|(なし)
+
+###100 count=2 tag=Kritias_2018_12 key=20001144-Kritias_2018_12- field=tooltipDescription item=エネルバー
+KO|<font color='#00aaef'>사용 시 15분 동안 적에게 입히는 대미지가 6% 증가한다. 다른 공격형 마법의 영약과 중복 적용되지 않으며 사망 시에도 효과가 풀리지 않는다.</font>
+EN|Increases damage dealt to enemies by <font color='#00aaef'>6%</font> for <font color='#00aaef'>15</font> min. Does not stack with defensive elixirs. The effect will continue even after death.
+
+###101 count=2 tag=Kritias_2018_12 key=20001144-Kritias_2018_12- field=guideDescription item=エネルバー
+KO|<font color='#7A7A7A'>\n에네르가 가미된 영양 간식이다. 넘치는 에네르로 몸과 마음이 상쾌해진다.</font>
+EN|<font color='#7A7A7A'>\nA nutritious snack flavored with aetherine. Refreshes the mind and body.</font>
+
+###102 count=1 tag=Kritias_2018_12 key=11301372-Kritias_2018_12- field=tooltipDescription item=パタパタチュンチュン
+KO|붉은 무늬가 인상적인 노란 새이다. 작게 날갯짓하며 고개를 갸웃거리는 버릇이 있다.
+EN|This little yellow bird has a distinctive red crest. Look at it flap its tiny wings!
+
+###103 count=1 tag=Kritias_2018_12 key=20001143-Kritias_2018_12- field=tooltipDescription item=フライトゥザユニバース
+KO|우주를 탐험하고 싶은 열망을 담아 만들어진 칵테일이다. 마시면 <font color='#00aaef'>8초 동안 초당 221의 HP를 회복</font>한다. 한 번 마시면 배가 불러 8초 후 다시 마실 수 있다.
+EN|This juice will blast you off into space! Consume to recover <font color='#00aaef'>221</font> health per second over <font color='#00aaef'>8</font> sec. Has a cooldown of <font color='#00aaef'>8</font> sec.
+
+###104 count=1 tag=Kritias_2018_12 key=20302354-Kritias_2018_12- field=tooltipDescription item=スカイフォートレス建設ボックス
+KO|상자를 연 모험가에게는 스카이 포트리스 내부 건설 자재들을 구매할 수 있는 자격이 주어진다.
+EN|Grants the right to use Sky Fortress furnishings in your home.
+
+###105 count=1 tag=Kritias_2018_12 key=20302354-Kritias_2018_12- field=guideDescription item=スカイフォートレス建設ボックス
+KO|소지품 창에서 아이템을 더블클릭하면 스카이 포트리스 건설 자재 7종을 구매할 수 있는 권한을 획득할 수 있다. 사용 후 '내 집'에서 건설 자재 상점을 확인해보자.
+EN|Double-click this in your inventory to unlock 7 Sky Fortress furnishings for purchase. Check the furnishing list in your home after using it.
+
+###106 count=1 tag=Kritias_2018_12 key=20302355-Kritias_2018_12- field=tooltipDescription item=箱の中の手紙
+KO|편지에는 아래와 같은 내용이 적혀있다.\n\n"축하드립니다! 건설 자재 상점에서 아래 건설 자재를 구입하실 수 있습니다. 스카이 포트리스 건설 자재들로 내 집을 더욱 멋지게 꾸며보세요."\n - 스카이 포트리스 큐브\n - 스카이 포트리스 모서리 큐브\n - 스카이 포트리스 경사로\n - 스카이 포트리스 사이드 큐브\n - 스카이 포트리스 포\n - 스카이 포트리스 벽장식\n - 스카이 포트리스 입구\n\n
+EN|The following is written in the letter.\n\n"Congratulations! You can purchase the following furnishings from the furnishing shop. Make your home more awesome with Sky Fortress furnishings."\n - Sky Fortress Block\n - Sky Fortress Corner Block\n - Sky Fortress Slope\n - Sky Fortress Side Block\n - Sky Fortress Cannon\n - Sky Fortress Wall Relief\n - Sky Fortress Hatch\n\n
+
+###107 count=1 tag=Kritias_2018_12 key=20302355-Kritias_2018_12- field=guideDescription item=箱の中の手紙
+KO|이 편지는 30초 후 폭파…되지는 않지만! 딱히 사용처가 없으니 읽은 후 보관하지 않아도 된다.
+EN|This letter will self-destruct in 30 seconds... Not! But it will be useless garbage after you've read it.
+
+###108 count=1 tag=Kritias_2018_12 key=30001216-Kritias_2018_12- field=tooltipDescription item=エネルコア
+KO|정제해서 에네르로 만들 수 있는 에네르 원천이다. 작은 조각이기 때문에 이 자체만으로는 힘을 사용할 수 없다. '바베니'에 있는 에네르 수집가 '노만'을 찾아가보자.
+EN|This is used to make refined aetherine, but this fragment is too small to be useful. Bring it to Norman in $map:02020041$.
+
+###109 count=1 tag=Kritias_2018_12 key=30001216-Kritias_2018_12- field=guideDescription item=エネルコア
+KO|크리티아스에서 몬스터 사냥 / 군단전 / 황금 보물상자를 통해 일정 확률로 획득할 수 있다.
+EN|Can be obtained by hunting monsters, completing legion battles, and opening golden treasure chests in Kritias.
+
+###110 count=1 tag=Kritias_2018_12 key=30001218-Kritias_2018_12- field=tooltipDescription item=故障したガードMK-IIの機械部品
+KO|$npcName:25020201$에게서 획득한 부품. \n겉보기에는 단순한 부품처럼 보이나, 해당 부품을 분석하면 크리티아스의 기계 병사들의 힘의 원천을 알아낼 수 있을 것 같다. 
+EN|Parts taken from a $npcName:25020201$. While they look simple, closer examination reveals that they hum with power. 
+
+###111 count=1 tag=Kritias_2018_12 key=30001219-Kritias_2018_12- field=tooltipDescription item=大きい水晶
+KO|$npcName:25020003$의 등에서 획득한 커다란 수정. \n크리티아스의 에너지원인 에네르와 생김새는 비슷하나 색상이 다르다. 어쩌면 또 다른 에너지원일 가능성이 있어, 정밀한 분석이 필요하다.
+EN|A large crystal from the back of a $npcName:25020003$. It looks like aetherine, but it has a different color. Could it be yet another potent energy source?
+
+###112 count=1 tag=Kritias_2018_12 key=30001220-Kritias_2018_12- field=tooltipDescription item=データボックス
+KO|$npcName:25020203$에게서 획득한 부품. \n$npcName:11001813$$pp:가,이$ 크리티아스의 병사들을 어떻게 해킹했는지 분석할 수 있는 소중한 부품이다. 
+EN|Parts taken from a $npcName:25020203$. Perhaps they can explain how $npcName:11001813$ hacked the robotic soldiers of Kritias. 
+
+###113 count=1 tag=Kritias_2018_12 key=30001221-Kritias_2018_12- field=tooltipDescription item=現場任務用のお弁当
+KO|스카이 포트리스 대원들의 도시락으로, 현장 임무 시 배가 고프지 않기를 바라는 취사병들의 따뜻한 마음이 담겨있다. 맛도 영양도 만점인 도시락이다.
+EN|A packed lunch for the crew of Sky Fortress. Made with love by the staff of the mess hall. Both delicious and nutritious!
+
+###114 count=1 tag=Kritias_2018_12 key=30001222-Kritias_2018_12- field=tooltipDescription item=浮上システム制御チップ
+KO|$npcName:25020403$에게서 획득한 부품으로, 부양과 관련된 시스템을 제어하는 것으로 추정된다. 해당 부품에게서 크리티아스의 부양 기술을 알아내면 앞으로 큰 도움이 될 것 같다.
+EN|Parts obtained from a $npcName:25020403$. They seem to be part of an anti-gravity system. What secrets could be uncovered by analyzing these parts?
+
+###115 count=1 tag=Kritias_2018_12 key=30001223-Kritias_2018_12- field=tooltipDescription item=魂のないアルームの毒液
+KO|$npcName:25020303$$pp:가,이$ 뿜어낸 독액으로, 취급에 주의해야 한다. 뚜껑을 닫아 보관해도 고약한 냄새가 퍼지니 환기가 잘 되는 곳에 보관해야 한다.
+EN|Handle the $npcName:25020303$'s poison with care. Even when it's sealed tight, the foul stench finds a way to seep through.
+
+###116 count=1 tag=Kritias_2018_12 key=30001224-Kritias_2018_12- field=tooltipDescription item=壊れたガードMK-IIIの機械部品
+KO|$npcName:25020601$에게서 획득한 부품. \n파워 출력과 관련된 부품일 것으로 추정되나, 아직 확실한 것은 없다. 
+EN|Parts obtained from a $npcName:25020601$. Maybe has something to do with power output, possibly? 
+
+###117 count=1 tag=Kritias_2018_12 key=30001225-Kritias_2018_12- field=tooltipDescription item=古いMK-Iの機械部品
+KO|$npcName:25020801$에게서 획득한 부품. \n파워 출력과 관련된 부품일 것으로 추정되나, 아직 확실한 것은 없다. 
+EN|Parts obtained from a $npcName:25020801$. Maybe has something to do with power output, possibly? 
+
+###118 count=1 tag=Kritias_2018_12 key=30001226-Kritias_2018_12- field=tooltipDescription item=無口なソルジャーレトの機械部品
+KO|$npcName:25021001$에게서 획득한 부품. \n해당 부품을 분석하면 둔해 보이는 무뚝뚝한 솔저레토의 빠른 움직임이 어떻게 가능한지 알 수 있을지도 모른다.
+EN|Parts obtained from a $npcName:25021001$. Perhaps these parts will explain how this robot can look so slow yet move so fast.
+
+###119 count=1 tag=Kritias_2018_12 key=30001227-Kritias_2018_12- field=tooltipDescription item=ブラッククリスタル
+KO|검은 군단의 힘을 담고 있는 크리스탈로, 작지만 강한 힘이 느껴진다. 오래 가지고 있으면 그들의 힘에 잠식당할 수도 있으니 주의가 필요하다.
+EN|This crystal is filled with potent dark energy. Handle with care, let you yourself become corrupted!
+
+###120 count=1 tag=Kritias_2018_12 key=30001228-Kritias_2018_12- field=tooltipDescription item=乱暴なゴリオンの機械部品
+KO|$npcName:25021201$에게서 획득한 부품. \n$npcName:25021201$의 움직임에 관련한 데이터가 들어 있는 것으로 추정된다.
+EN|Parts obtained from a $npcName:25021201$. It seems to contain the algorithms that guide the robot's movements.
+
+###121 count=1 tag=Kritias_2018_12 key=30001229-Kritias_2018_12- field=tooltipDescription item=ケルベス補給手帳
+KO|$npcName:25021502$에게서 획득한 수첩으로, 케르베스 보급품이다. 각종 행동 규칙이 적혀 있다.
+EN|A notebook carried by $npcNamePlural:25021502$. Various rules of conduct are written within.
+
+###122 count=1 tag=Kritias_2018_12 key=30001230-Kritias_2018_12- field=tooltipDescription item=おいしいチョコレート
+KO|스카이 포트리스 대원들의 비상식량. \n무시무시한 당도를 자랑하여, 한 입 베어 물면 정신이 바짝 든다고 한다. 해당 비상식량의 레시피는 $npcName:11004313$ 부장에게서 나왔다는 소문이 공공연하게 돌고 있다.
+EN|Emergency Sky Fortress rations. It keeps soldiers on their feet through its sheer concentration of <i>sugar</i>. Rumor has it that $npc:11004313$ came up with the recipe.
+
+###123 count=1 tag=Kritias_2018_12 key=30001231-Kritias_2018_12- field=tooltipDescription item=ジャイアントニョロリンの体液
+KO|$npcName:25021801$에게서 획득한 진액으로, 꿈트리가 커지는 원인을 파악할 수 있는 소중한 자료이다. 한번 손에 묻으면 쉽게 떨어지지 않는다.
+EN|This $npcName:25021801$ extract should tell you a thing or two about how they grow. Just don't get it on your hands—you'll never get it off!
+
+###124 count=1 tag=Kritias_2018_12 key=30001232-Kritias_2018_12- field=tooltipDescription item=不思議なメカティラノのチップ
+KO|$npcName:25021701$에게서 획득한 부품. \n내부 데이터 구조가 복잡하여 분석에 어려움을 겪고 있다.
+EN|Parts obtained from a $npcName:25021701$. The internal structure of these parts are unbelievably complex.
+
+###125 count=1 tag=Kritias_2018_12 key=30001233-Kritias_2018_12- field=tooltipDescription item=暗闇の力の結晶
+KO|검은 군단의 힘을 담고 있는 결정. \n바라보고만 있어도 사악한 기운이 느껴진다.
+EN|You can practically see the evil emanating from this dark crystal.
+
+###126 count=1 tag=Kritias_2018_12 key=30001234-Kritias_2018_12- field=tooltipDescription item=奪われた指標測定資料
+KO|빼앗겼던 대원들의 조사자료. \n다행히 문서는 훼손되지 않았으나, 군데군데 빈 페이지가 있다.
+EN|Stolen investigation data. The documents don't appear to be damaged, but some pages are missing.
+
+###127 count=1 tag=Kritias_2018_12 key=30001235-Kritias_2018_12- field=tooltipDescription item=MK-I-S偵察兵のエネルの結晶
+KO|$npcName:25020001$에게서 획득한 에네르 결정으로, $npcName:25020001$의 에너지 원이다. 
+EN|This aetherine crystal was the power source for a $npcName:25020001$. 
+
+###128 count=1 tag=Kritias_2018_12 key=30001236-Kritias_2018_12- field=tooltipDescription item=オーロラエネルギー
+KO|$map:02020001$에서 피어나오는 에너지로, $npcName:11004342$$pp:가,이$ 흡수한 뒤 결정 형태로 변화했다. 오로라 에너지가 어떻게 $npcName:11004342$의 몸에서 결정 형태로 변화하는지는 알려지지 않았다.
+EN|The scientists of Kritias generally understand how aetherine blooms into a crystalline form. However, it's not really clear how aurora energy crystallizes within the $npcNamePlural:11004342$.
+
+###129 count=1 tag=Kritias_2018_12 key=30001237-Kritias_2018_12- field=tooltipDescription item=ネックレスの原石
+KO|$npcName:25020502$의 목에 걸려 있던 목걸이의 원석. \n신비로운 힘이 느껴진다.
+EN|A gemstone worn by $npcNamePlural:25020502$. It contains mysterious power.
+
+###130 count=1 tag=Kritias_2018_12 key=30001238-Kritias_2018_12- field=tooltipDescription item=奪われた探査資料
+KO|빼앗겼던 대원들의 연구자료. \n크리티아스에 관한 정보를 담고 있는 귀중한 자료이다.
+EN|Stolen research containing useful information about Kritias.
+
+###131 count=1 tag=Kritias_2018_12 key=30001239-Kritias_2018_12- field=tooltipDescription item=番犬の牙
+KO|매우 날카로운 송곳니로, 이빨 아래를 자세히 살펴보면 작은 돌기들이 튀어나와 있는 것을 확인할 수 있다.
+EN|This sharp fang has small projections underneath.
+
+###132 count=1 tag=Kritias_2018_12 key=30001240-Kritias_2018_12- field=tooltipDescription item=エネルの凝縮バッテリー
+KO|$npcName:25021304$의 모자 속 숨겨진 배터리이다. 크리티아스의 놀라운 기술력으로 얇은 배터리에 많은 양의 에네르를 주입할 수 있다.
+EN|A battery hidden inside a $npcName:25021304$'s hat. It has a shocking capacity for aetherine.
+
+###133 count=1 tag=Kritias_2018_12 key=30001241-Kritias_2018_12- field=tooltipDescription item=凶暴なメカラプターの機械部品
+KO|$npcName:25021105$에게서 획득한 기계 부품. \n모양이 메이플 월드의 부품과 유사해서 범용적으로 사용할 수 있다.
+EN|Machine parts taken from a $npcName:25021105$. It's strangely similar to parts used in Maple World's robots.
+
+###134 count=1 tag=Kritias_2018_12 key=30001242-Kritias_2018_12- field=tooltipDescription item=兵士の手帳
+KO|$npcName:25022102$의 수첩. 소중히 간직하고 있는 것을 보니 매우 중요한 내용이 적혀 있는 것 같다.
+EN|$npcName:25022102$'s notebook. It must contain some very important information.
+
+###135 count=1 tag=Kritias_2018_12 key=30001243-Kritias_2018_12- field=tooltipDescription item=ブルーガードMK-Iのメモリチップ
+KO|$npcName:25021702$에게서 획득한 메모리 칩. \n해당 메모리 칩을 분석하면 $npcName:11001813$$pp:가,이$ 기계들을 해킹하는 방법을 알아낼지도 모른다.
+EN|A memory chip taken from a $npcName:25021702$. Analyzing this memory chip might reveal how $npcName:11001813$ hacked the machines.
+
+###136 count=1 tag=Kritias_2018_12 key=30001244-Kritias_2018_12- field=tooltipDescription item=リファインエネルの結晶
+KO|정제되지 않은 에네르 결정. \n다른 에네르 결정에 비해 안에 담긴 힘이 적으나, 사용하는 데 큰 무리는 없다.
+EN|An unrefined aetherine crystal. It's not the most powerful crystal, but it will do in a pinch.
+
+###137 count=1 tag=Kritias_2018_12 key=30001245-Kritias_2018_12- field=tooltipDescription item=小さいエネルの結晶
+KO|$npcName:25020105$$pp:가,이$ 연구용으로 가지고 있는 작은 에네르 결정. \n다행히 안에 에네르가 남아있는 것 같다.
+EN|The $npcNamePlural:25020105$ are researching crystals like this. Fortunately, there's some aetherine remaining.
+
+###138 count=1 tag=Kritias_2018_12 key=30001246-Kritias_2018_12- field=tooltipDescription item=毀損された探査報告書
+KO|$npcName:25020501$$pp:가,이$ 훔쳐갔던 탐사 보고서. \n심하게 구겨져서 글자를 읽기 어렵다.
+EN|The $npcNamePlural:25020501$ have been stealing reports like this. It's so crumpled that it's hard to read.
+
+###139 count=1 tag=Kritias_2018_12 key=30001247-Kritias_2018_12- field=tooltipDescription item=抜け落ちた報告書ページ
+KO|$npcName:25020401$에게서 되찾은 연구 자료. \n다행히 문서는 훼손되지 않았다.
+EN|Research data recovered from the $npcNamePlural:25020401$. Everything seems to be there.
+
+###140 count=1 tag=Kritias_2018_12 key=30001248-Kritias_2018_12- field=tooltipDescription item=損傷したエネルの結晶
+KO|심하게 손상된 에네르 결정. \n다시 사용할 수 없을 것 같다.
+EN|A severely damaged aetherine crystal. It's unusable.
+
+###141 count=1 tag=Kritias_2018_12 key=30001249-Kritias_2018_12- field=tooltipDescription item=融合炉の設計図
+KO|$npcName:25020604$에게서 빼앗은 융합로 설계도. \n해당 설계도를 보고 융합로를 만들기 위해서는 크리티아스의 기술력이 필요할 것 같다.
+EN|Reactor blueprints stolen from $npcNamePlural:25020604$. Requires technology that only exists in Kritias.
+
+###142 count=1 tag=Kritias_2018_12 key=30001250-Kritias_2018_12- field=tooltipDescription item=高純度エネルの結晶
+KO|강한 에네르 에너지를 담고 있는 결정. \n$npcName:25020804$의 동력원이다.
+EN|A crystal brimming with aetherine energy. Used to power $npcNamePlural:25020804$.
+
+###143 count=1 tag=Kritias_2018_12 key=30001251-Kritias_2018_12- field=tooltipDescription item=匂う体液
+KO|$npcName:25020904$의 체액. \n냄새는 고약하지만 에네르를 안정화하는 데 도움이 되는 성분이 있다.
+EN|Stinky $npcName:25020904$ goo. As foul as it is, it's indispensable in stabilizing aetherine.
+
+###144 count=1 tag=Kritias_2018_12 key=30001252-Kritias_2018_12- field=tooltipDescription item=新・鮮な体液
+KO|$npcName:25021403$의 체액. \n맹독을 치료하는 데 효과가 있다고 한다.
+EN|$npcName:25021403$ goo. Useful for treating poison.
+
+###145 count=1 tag=Kritias_2018_12 key=30001253-Kritias_2018_12- field=tooltipDescription item=主席研究員の探査日誌
+KO|스카이 포트리스 수석 연구원이 크리티아스의 생활을 자세히 기록한 일지. \n신대륙에 대한 연구원의 생각이 담겨 있다.
+EN|Research notes of a Sky Fortress researchers. It contains thoughts and observations on life in Kritias.
+
+###146 count=1 tag=Kritias_2018_12 key=30001254-Kritias_2018_12- field=tooltipDescription item=クリティアス軍事の秘密文書
+KO|크리티아스의 극비 군사 작전 문서. \n복잡한 암호로 적혀 있어 내용은 알 수 없다.
+EN|Confidential military documents. Indecipherable due to advanced Kritias encryption techniques.
+
+###147 count=1 tag=Kritias_2018_12 key=30001255-Kritias_2018_12- field=tooltipDescription item=破損されたメモリチップ
+KO|$npcName:25021903$에게서 획득한 파손된 메모리 칩. \n파손의 정도가 심해 안의 내용을 분석하는 것은 힘들어 보인다.
+EN|The memory chip ripped from a $npcName:25021903$. It may not be possible to recover the data within.
+
+###148 count=1 tag=Kritias_2018_12 key=30001256-Kritias_2018_12- field=tooltipDescription item=解毒剤新薬サンプル
+KO|스카이 포트리스 연구원들이 만든 해독제 샘플. \n$npcName:23001001$의 독액으로 고통받는 대원들의 고통을 덜어주기 위해 개발되었다.
+EN|Sample of an antidote concocted by Sky Fortress's finest scientists. It should dull the pain of $npcName:23001001$ venom.
+
+###149 count=1 tag=Kritias_2018_12 key=30001257-Kritias_2018_12- field=tooltipDescription item=高純度エネルコア
+KO|고순도의 에네르르 담고 있는 코어. \n크리티아스의 기술력으로 만든 코어로, 작은 사이즈지만 엄청난 양의 에네르를 담고 있다.
+EN|A core containing high-purity aetherine. It may be small, but its energy output is tremendous.
+
+###150 count=1 tag=Kritias_2018_12 key=30001278-Kritias_2018_12- field=tooltipDescription item=ギガンティックドリルバッテリー
+KO|기간틱 드릴의 이동식 배터리이다. 기간틱 드릴이 작동하려면 필요하다.
+EN|A portable battery used to power giant drills.
+
+###151 count=1 tag=Kritias_2018_12 key=30001279-Kritias_2018_12- field=tooltipDescription item=[クリティアス遠征隊]グリーンフッドの証
+KO|그린후드에서 크리티아스 원정을 기념하여 발행한 보급품 교환용 화폐. [크리티아스 원정대] 그린후드 세력의 다양한 아이템을 구매할 수 있다. 
+EN|A currency issued and accepted by the Kritias Green Hoods. 
+
+###152 count=1 tag=Kritias_2018_12 key=30001279-Kritias_2018_12- field=guideDescription item=[クリティアス遠征隊]グリーンフッドの証
+KO|[크리티아스 원정대] 그린후드 세력 상점에서 다양한 물품과 교환할 수 있다.
+EN|Used to purchase items in the Kritias Green Hoods faction shop.
+
+###153 count=1 tag=Kritias_2018_12 key=30001280-Kritias_2018_12- field=tooltipDescription item=[クリティアス遠征隊]ルミナイツの証
+KO|루미나이츠에서 크리티아스 원정을 기념하여 발행한 보급품 교환용 화폐. [크리티아스 원정대] 루미나이츠 세력의 다양한 아이템을 구매할 수 있다. 
+EN|A currency issued and accepted by the Kritias Lumiknights. 
+
+###154 count=1 tag=Kritias_2018_12 key=30001280-Kritias_2018_12- field=guideDescription item=[クリティアス遠征隊]ルミナイツの証
+KO|[크리티아스 원정대] 루미나이츠 세력 상점에서 다양한 물품과 교환할 수 있다.
+EN|Used to purchase items in the Kritias Lumiknights faction shop.
+
+###155 count=1 tag=Kritias_2018_12 key=30001281-Kritias_2018_12- field=tooltipDescription item=[クリティアス遠征隊]メイプル連合の証
+KO|메이플 연합에서 크리티아스 원정을 기념하여 발행한 보급품 교환용 화폐. [크리티아스 원정대] 메이플 연합 세력의 다양한 아이템을 구매할 수 있다. 
+EN|A currency issued and accepted by the Kritias Maple Alliance. 
+
+###156 count=1 tag=Kritias_2018_12 key=30001281-Kritias_2018_12- field=guideDescription item=[クリティアス遠征隊]メイプル連合の証
+KO|[크리티아스 원정대] 메이플 연합 세력 상점에서 다양한 물품과 교환할 수 있다.
+EN|Used to purchase items in the Kritias Maple Alliance faction shop.
+
+###157 count=1 tag=Kritias_2018_12 key=30001289-Kritias_2018_12- field=tooltipDescription item=日記帳のページ
+KO|누군가가 쓴 일기의 찢어진 페이지이다. \n과거 크리티아스에 대한 내용이 적혀있다.
+EN|A paged ripped from a journal. It's about the Kritias of old.
+
+###158 count=1 tag=Kritias_2018_12 key=30001290-Kritias_2018_12- field=tooltipDescription item=無駄な落書き
+KO|누군가가 쓰고 버린 낙서.\n중요한 내용은 아닌 듯 하다.
+EN|Some random scribbling. Doesn't seem important.
+
+###159 count=1 tag=Kritias_2018_12 key=30001297-Kritias_2018_12- field=tooltipDescription item=黒い結晶
+KO|검은 군단 몬스터들에게 에너지를 공급하는 것으로 추정되는 검은 결정이다.
+EN|A dark crystal believed to empower members of the Daemon Army.
+
+###160 count=1 tag=Kritias_2018_12 key=30001299-Kritias_2018_12- field=tooltipDescription item=アルミン
+KO|$npcName:25020705$에게서 얻을 수 있는 점액 성분이다.\n카페인과 비슷한 성분이 들어있다고 전해지며, 진통, 소염 효과가 있어, 약으로 사용되기도 한다.
+EN|$npcName:25020705$ goo. Not only is it a good medicine, but it's chock full of caffeine!
+
+###161 count=1 tag=Kritias_2018_12 key=30001300-Kritias_2018_12- field=tooltipDescription item=クリティアスの桜
+KO|크리티아스에서 보기 힘든 아름다운 벚꽃이다.
+EN|This cherry blossom is a rare sight in Kritias.
+
+###162 count=1 tag=Kritias_2018_12 key=30001301-Kritias_2018_12- field=tooltipDescription item=ティアマンの空の露
+KO|크리티아스 고지대에서만 볼 수 있는 맑은 이슬이다.\n보통 식물의 잎사귀에 매달려 있으며, 몸속의 독소를 빼주는 효능이 있다고 한다.
+EN|Dew from the highlands of Kritias. It's a known curative for toxins.
+
+###163 count=1 tag=Kritias_2018_12 key=30001302-Kritias_2018_12- field=tooltipDescription item=ジュピア蘭
+KO|에네르를 머금고 있는 난초이다. \n가지고만 있어도 신비한 힘이 새어 나오는 듯하다.
+EN|An orchid infused with aetherine. Holding it makes you vibrate with mysterious power.
+
+###164 count=1 tag=Kritias_2018_12 key=30001303-Kritias_2018_12- field=tooltipDescription item=モランペンダント
+KO|크리티아스의 모랑들이 움직일 수 있는 에네르를 공급한다고 알려진 신비한 펜던트이다.
+EN|This pendant provides the leshies of Kritias with aetherine power, granting them the ability to move.
+
+###165 count=1 tag=Kritias_2018_12 key=50201006-Kritias_2018_12- field=tooltipDescription item=スカイフォートレスキューブ
+KO|스카이 포트리스에서 흔히 볼 수 있는 큐브이다.
+EN|A furnishing used in Sky Fortress.
+
+###166 count=1 tag=Kritias_2018_12 key=50201007-Kritias_2018_12- field=tooltipDescription item=スカイフォートレスキューブ(角)
+KO|스카이 포트리스에서 흔히 볼 수 있는 모서리 큐브이다.
+EN|A corner block commonly seen in Sky Fortress.
+
+###167 count=1 tag=Kritias_2018_12 key=50201008-Kritias_2018_12- field=tooltipDescription item=スカイフォートレス傾斜路
+KO|스카이 포트리스에서 흔히 볼 수 있는 경사로이다.
+EN|A slope commonly seen in Sky Fortress.
+
+###168 count=1 tag=Kritias_2018_12 key=50201009-Kritias_2018_12- field=tooltipDescription item=スカイフォートレスサイドキューブ
+KO|스카이 포트리스에서 흔히 볼 수 있는 사이드 큐브이다.
+EN|A side block commonly seen in Sky Fortress.
+
+###169 count=1 tag=Kritias_2018_12 key=50201010-Kritias_2018_12- field=tooltipDescription item=スカイフォートレス大砲
+KO|스카이 포트리스에 설치된 포를 본 떠 만들어졌다. 아쉽게도 포를 쏠 수는 없다.
+EN|A replica of Sky Fortress's cannons. Does not actually fire.
+
+###170 count=1 tag=Kritias_2018_12 key=50201011-Kritias_2018_12- field=tooltipDescription item=スカイフォートレス壁飾り
+KO|가구 장인이 스카이 포트리스에 설치된 벽장식을 모티브로 만들었다고 한다.
+EN|An expert recreation of the wall reliefs featured in Sky Fortress.
+
+###171 count=1 tag=Kritias_2018_12 key=50201027-Kritias_2018_12- field=tooltipDescription item=マルレーネの肖像画
+KO|마를레네의 모습을 그린 그림이 담긴 액자이다.
+EN|A portrait of Marlene.
+
+###172 count=1 tag=Kritias_2018_12 key=50201028-Kritias_2018_12- field=tooltipDescription item=クラウディアの肖像画
+KO|클라디아의 모습을 그린 그림이 담긴 액자이다.
+EN|A portrait of Claudia.
+
+###173 count=1 tag=Kritias_2018_12 key=50201029-Kritias_2018_12- field=tooltipDescription item=マルレーネのエネルツリー
+KO|마를레네가 고마운 마음에 선물한 나무이다. 마를레네의 접견실에도 똑같은 나무가 있다.
+EN|A gift from Marlene. She has the same tree in her reception room.
+
+###174 count=1 tag=Kritias_2018_12 key=50400315-Kritias_2018_12- field=tooltipDescription item=スカイフォートレス入口
+KO|스카이 포트리스 내부에 있는 문을 꼭 닮았다.
+EN|A replica of the doorways used in Sky Fortress.
+
+###175 count=1 tag=Kritias_2018_12 key=50600302-Kritias_2018_12- field=tooltipDescription item=手懐けられた暗黒の軍団の番犬
+KO|야생에서 잡은 $npc:23000306$$pp:를,을$ 길들였다. 윤기나는 검은 털과 초록색 뿔을 검은군단 파수견을 타고 크리티아스를 탐험해보자.
+EN|A tamed $npc:23000306$. With its shiny black fur and green horns, it's the ideal steed on which to explore Kritias.
+
+###176 count=1 tag=Kritias_2018_12 key=70200124-Kritias_2018_12- field=tooltipDescription item=吹き出しバッジ：ブリーチェ
+KO|블리체의 팬이 정성스럽게 제작한 말풍선 배지이다.
+EN|A chat bubble for fans of Veliche.
+
+###177 count=1 tag=Kritias_2018_12 key=70200125-Kritias_2018_12- field=tooltipDescription item=吹き出しバッジ：メイソン
+KO|메이슨의 팬이 정성스럽게 제작한 말풍선 배지이다.
+EN|A chat bubble for fans of Mason.
+
+###178 count=1 tag=Kritias_2018_12 key=70200126-Kritias_2018_12- field=tooltipDescription item=吹き出しバッジ：ネイリン
+KO|네이린의 팬이 정성으럽게 제작한 말풍선 배지이다.
+EN|A chat bubble for fans of Nairin.
+
+###179 count=1 tag=Kritias_2018_12 key=70300133-Kritias_2018_12- field=tooltipDescription item=ネームタグバッジ：ブリーチェ
+KO|블리체의 팬이 정성스럽게 제작한 이름표 배지이다.
+EN|A name tag for fans of Veliche.
+
+###180 count=1 tag=Kritias_2018_12 key=70300134-Kritias_2018_12- field=tooltipDescription item=ネームタグバッジ：メイソン
+KO|메이슨의 팬이 정성스럽게 제작한 이름표 배지이다.
+EN|A name tag for fans of Mason.
+
+###181 count=1 tag=Kritias_2018_12 key=70300135-Kritias_2018_12- field=tooltipDescription item=ネームタグバッジ：ネイリン
+KO|네이린의 팬이 정성스럽게 제작한 이름표 배지이다.
+EN|A name tag for fans of Nairin.
+
+###182 count=1 tag=Kritias_Balrog01 key=50740068-Kritias_Balrog01- field=tooltipDescription item=バルログの記念品
+KO|$npcName:23090006$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다.
+EN|You must defeat $npcName:23090006$ in order to obtain this item.
+
+###183 count=1 tag=Kritias_Epic01 key=30001262-Kritias_Epic01- field=tooltipDescription item=エネルの結晶
+KO|크리티아스의 힘을 담고 있는 에네르 결정. 신기하게도 놀라쥬의 등에서 채취되었다. 
+EN|An aetherine crystal containing the power of Kritias. Amazingly, it was extracted from the back of a waspling. 
+
+###184 count=1 tag=Kritias_Epic01 key=30001263-Kritias_Epic01- field=tooltipDescription item=美味しそうな実
+KO|먹음직스러워 보이는 열매. 사과와 유사하게 생겼다. 맛도 사과와 유사한 지는 알 수 없다.
+EN|It looks like a juicy apple! Who knows what it'll taste like, though?
+
+###185 count=1 tag=Kritias_Epic01 key=30001264-Kritias_Epic01- field=tooltipDescription item=薬草
+KO|에네르 토양에서 자란 약초. 부상당한 크리티아스인들을 회복시킬 수 있다.
+EN|These herbs were grown in aetherine-infused soil. They have useful medicinal properties.
+
+###186 count=1 tag=Kritias_Epic01 key=30001265-Kritias_Epic01- field=tooltipDescription item=兵士のネックレス
+KO|병사의 시신에서 획득한 목걸이. 이름과 번호가 적혀있다. 소중히 보관하다 돌려줘야할 것 같다.
+EN|A soldier's dog tag. Keep it safe until you can return it.
+
+###187 count=1 tag=Kritias_Epic01 key=30001266-Kritias_Epic01- field=tooltipDescription item=送信機の修理部品
+KO|송신기 수리 부품으로 정식 명칭은 ESR-193 단파 증폭기이다. 통신 중계기들에게 오는 신호를 증폭하여, 신호의 위치를 정확히 파악할 수 있게 도와주는 부품이다.
+EN|This part is labeled "ESR-193 Shortwave Amplifier." Whether or not you know what that means, you do know that it will help pinpoint the location of whatever it's installed on.
+
+###188 count=1 tag=Kritias_Epic02 key=30001348-Kritias_Epic02- field=tooltipDescription item=メカサスのコア
+KO|$npcName:25022202$의 핵심 부품으로, 많은 에네르를 가지고 있다.
+EN|A core component of $npcName:25022202$ that holds a great amount of Ener.
+
+###189 count=1 tag=Kritias_Epic02 key=30001349-Kritias_Epic02- field=tooltipDescription item=汚染されたラフレシアの種
+KO|$npcName:25022602$에게서 획득한 씨앗으로, 다른 라플레시아와 달리 사악한 기운이 느껴진다.
+EN|A seed obtained from $npcName:25022602$. Unlike other rafflesia, it carries a sinister aura.
+
+###190 count=1 tag=Kritias_Epic02 key=30001350-Kritias_Epic02- field=tooltipDescription item=細かく挽かれたエネルの粉
+KO|타이렌 왕국의 기술력으로 만든 에네르 가루. \n작은 가루 하나하나에 에네르가 그대로 포함되어 있다.
+EN|Ener powder crafted with the technology of the Tairen Kingdom. \nEach tiny powder grain contains Ener in its entirety.
+
+###191 count=1 tag=Kritias_Epic02 key=30001395-Kritias_Epic02- field=tooltipDescription item=アルケオン設計図
+KO|타이렌의 군사병기인 아르케온의 설계도이다. \n언뜻봐도 꽤 복잡해 보이는 듯 하다.
+EN|This is the blueprint of Arkeon, Tairen's military weapon. \nIt appears quite complex even at a glance.
+
+###192 count=1 tag=Kritias_Epic02 key=50201094-Kritias_Epic02- field=tooltipDescription item=ジェシカの肖像画
+KO|제시카의 모습을 그린 그림이 담긴 액자이다.
+EN|A picture frame with a picture of Jessica painted in it.
+
+###193 count=1 tag=Kritias_Inferno01 key=20302393-Kritias_Inferno01- field=tooltipDescription item=インフェルノック最後の決戦Cランク報酬ボックス
+KO|인페르녹 최후의 결전에서 던전 랭크C를 달성했을 때 받게 되는 상자이다. 
+EN|A box received for achieving C Rank in Showdown with Infernog. 
+
+###194 count=1 tag=Kritias_Inferno01 key=20302394-Kritias_Inferno01- field=tooltipDescription item=インフェルノック最後の決戦Bランク報酬ボックス
+KO|인페르녹 최후의 결전에서 던전 랭크B를 달성했을 때 받게 되는 상자이다. 
+EN|A box received for achieving B Rank in Showdown with Infernog. 
+
+###195 count=1 tag=Kritias_Inferno01 key=20302395-Kritias_Inferno01- field=tooltipDescription item=インフェルノック最後の決戦Aランク報酬ボックス
+KO|인페르녹 최후의 결전에서 던전 랭크A를 달성했을 때 받게 되는 상자이다. 
+EN|A box received for achieving A Rank in Showdown with Infernog. 
+
+###196 count=1 tag=Kritias_Inferno01 key=20302396-Kritias_Inferno01- field=tooltipDescription item=インフェルノック最後の決戦Sランク報酬ボックス
+KO|인페르녹 최후의 결전에서 던전 랭크S를 달성했을 때 받게 되는 상자이다. 
+EN|A box received for achieving S Rank in Showdown with Infernog. 
+
+###197 count=1 tag=Kritias_Inferno01 key=20302397-Kritias_Inferno01- field=tooltipDescription item=インフェルノック最後の決戦S+ランク報酬ボックス
+KO|인페르녹 최후의 결전에서 던전 랭크S+를 달성했을 때 받게 되는 상자이다. 
+EN|A box received for achieving S+ Rank in Showdown with Infernog. 
+
+###198 count=1 tag=Kritias_Inferno01 key=50740071-Kritias_Inferno01- field=tooltipDescription item=インフェルノックの角
+KO|불멸의 존재로 알려졌던 인페르녹의 죽음을 기념하기 위하여 제작된 뿔이다. 실제 인페르녹의 뿔로 제작된 것이라 한다.⏎⏎불멸의 존재, 인페르녹.⏎인류 최초의 공적, 인페르녹.⏎태고의 마왕, 인페르녹.⏎⏎인페르녹은 여러 시대에 여러 이름으로 불릴 만큼, 오랜 시간 동안 인류를 괴롭혀온 적이었다. 인류는 인페르녹을 봉인하거나 잠시 힘을 약하게 할 뿐, 존재를 말살시킬 방법은 없어 항상 고통받아 왔다.⏎⏎그러나 크리티아스에 얻은 새로운 힘이 인페르녹을 영원히 쉴 수 있게 만들어줬다.
+EN|It's said that these were made from Infernog's actual horns. The great demon has tormented humanity over the generations, also returning whenever a new hero would rise up to seal him away.⏎⏎Thanks to the new power obtained in Kritias, his rein of terror has ended once and for all.
+
+###199 count=1 tag=Kritias_Paika01 key=50740069-Kritias_Paika01- field=tooltipDescription item=ペイカの記念品
+KO|$npcName:23000301$$pp:를,을$ 처치한 자만이 가질 수 있는 기념품이다.
+EN|You must defeat $npcName:23000301$ in order to obtain this item.
+
+###200 count=1 tag=Kritias_Turka01 key=20302719-Kritias_Turka01- field=tooltipDescription item=隠された格納庫Cランク報酬ボックス
+KO|숨겨진 격납고에서 던전 랭크C를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive when you achieve Dungeon Rank C in the Hidden Hangar. 
+
+###201 count=1 tag=Kritias_Turka01 key=20302720-Kritias_Turka01- field=tooltipDescription item=隠された格納庫Bランク報酬ボックス
+KO|숨겨진 격납고에서 던전 랭크B를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive when you achieve Dungeon Rank B in the Hidden Hangar. 
+
+###202 count=1 tag=Kritias_Turka01 key=20302721-Kritias_Turka01- field=tooltipDescription item=隠された格納庫Aランク報酬ボックス
+KO|숨겨진 격납고에서 던전 랭크A를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive when you achieve Dungeon Rank A in the Hidden Hangar. 
+
+###203 count=1 tag=Kritias_Turka01 key=20302722-Kritias_Turka01- field=tooltipDescription item=隠された格納庫Sランク報酬ボックス
+KO|숨겨진 격납고에서 던전 랭크S를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive when you achieve Dungeon Rank S in the Hidden Hangar. 
+
+###204 count=1 tag=Kritias_Turka01 key=20302723-Kritias_Turka01- field=tooltipDescription item=隠された格納庫S+ランク報酬ボックス
+KO|숨겨진 격납고에서 던전 랭크S+를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive when you achieve Dungeon Rank S+ in the Hidden Hangar. 
+
+###205 count=1 tag=Kritias_Turka01 key=50740075-Kritias_Turka01- field=tooltipDescription item=アルケオンカイ記念品
+KO|검은군단이 확보한 타이렌 왕국의 비밀병기 아르케온, 타이렌 왕국의 기술력이 총집합된 병기로, 강력한 살상능력을 가지고 있다.
+EN|Arkeon, the secret weapon of the Kingdom of Tairen secured by the Black Legion, is a weapon that brings together the full technical might of the Kingdom of Tairen and possesses powerful lethal capabilities.
+
+###206 count=1 tag=Kritias_Turka02 key=20302724-Kritias_Turka02- field=tooltipDescription item=裏切り者ティマイオンCランク報酬ボックス
+KO|변절자 티마이온에서 던전 랭크C를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive when you achieve Dungeon Rank C from the Betrayer Timaion. 
+
+###207 count=1 tag=Kritias_Turka02 key=20302725-Kritias_Turka02- field=tooltipDescription item=裏切り者ティマイオンBランク報酬ボックス
+KO|변절자 티마이온에서 던전 랭크B를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive when you achieve Dungeon Rank B from the Betrayer Timaion. 
+
+###208 count=1 tag=Kritias_Turka02 key=20302726-Kritias_Turka02- field=tooltipDescription item=裏切り者ティマイオンAランク報酬ボックス
+KO|변절자 티마이온에서 던전 랭크A를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive for achieving Dungeon Rank A in Renegade Timaion. 
+
+###209 count=1 tag=Kritias_Turka02 key=20302727-Kritias_Turka02- field=tooltipDescription item=裏切り者ティマイオンSランク報酬ボックス
+KO|변절자 티마이온에서 던전 랭크S를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive for achieving Dungeon Rank S in Renegade Timaion. 
+
+###210 count=1 tag=Kritias_Turka02 key=20302728-Kritias_Turka02- field=tooltipDescription item=裏切り者ティマイオンS+ランク報酬ボックス
+KO|변절자 티마이온에서 던전 랭크S+를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive for achieving Dungeon Rank S+ in Renegade Timaion. 
+
+###211 count=1 tag=Kritias_Turka02 key=50740076-Kritias_Turka02- field=tooltipDescription item=ティマイオン記念品
+KO|티마이온은 요새 방어에 특화된 병기이다. 오랜 시간 타이렌 왕국을 지키던 수문장이었으나, 이제는 검은군단의 수문장이 되었다.
+EN|Timaion is a weapon specialized in fortress defense. It was the gatekeeper that protected the Kingdom of Tairen for a long time, but now it has become the gatekeeper of the Black Legion.
+
+###212 count=1 tag=Kritias_Turka03 key=20302729-Kritias_Turka03- field=tooltipDescription item=陰謀の殿堂Cランク報酬ボックス
+KO|음모의 전당에서 던전 랭크C를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive for achieving Dungeon Rank C in the Hall of Conspiracy. 
+
+###213 count=1 tag=Kritias_Turka03 key=20302730-Kritias_Turka03- field=tooltipDescription item=陰謀の殿堂Bランク報酬ボックス
+KO|음모의 전당에서 던전 랭크B를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive for achieving Dungeon Rank B in the Hall of Conspiracy. 
+
+###214 count=1 tag=Kritias_Turka03 key=20302731-Kritias_Turka03- field=tooltipDescription item=陰謀の殿堂Aランク報酬ボックス
+KO|음모의 전당에서 던전 랭크A를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive for achieving Dungeon Rank A in the Hall of Conspiracy. 
+
+###215 count=1 tag=Kritias_Turka03 key=20302732-Kritias_Turka03- field=tooltipDescription item=陰謀の殿堂Sランク報酬ボックス
+KO|음모의 전당에서 던전 랭크S를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive for achieving Dungeon Rank S in the Hall of Conspiracy. 
+
+###216 count=1 tag=Kritias_Turka03 key=20302733-Kritias_Turka03- field=tooltipDescription item=陰謀の殿堂S+ランク報酬ボックス
+KO|음모의 전당에서 던전 랭크S+를 달성했을 때 받게 되는 상자이다. 
+EN|A box you receive for achieving Dungeon Rank S+ in the Hall of Conspiracy. 
+
+###217 count=1 tag=Kritias_Turka03 key=50740077-Kritias_Turka03- field=tooltipDescription item=トゥルカ記念品
+KO|자신의 정체를 숨기기 위해 쓴 후드가 자신의 정체성이 되어버린 투르카, 본래의 자신은 사라지고 후드만 남겨졌다.
+EN|The hood that Turka wore to hide her identity became her identity itself. Her original self disappeared, leaving only the hood behind.
+
+###218 count=1 tag=Kritias_Zakum01 key=20302388-Kritias_Zakum01- field=tooltipDescription item=古代エネル鉱山Cランク報酬ボックス
+KO|고대 에네르 광산에서 던전 랭크C를 달성했을 때 받게 되는 상자이다. 
+EN|A box received for achieving C Rank in Ancient Aetherine Mine. 
+
+###219 count=1 tag=Kritias_Zakum01 key=20302389-Kritias_Zakum01- field=tooltipDescription item=古代エネル鉱山Bランク報酬ボックス
+KO|고대 에네르 광산에서 던전 랭크B를 달성했을 때 받게 되는 상자이다. 
+EN|A box received for achieving B Rank in Ancient Aetherine Mine. 
+
+###220 count=1 tag=Kritias_Zakum01 key=20302390-Kritias_Zakum01- field=tooltipDescription item=古代エネル鉱山Aランク報酬ボックス
+KO|고대 에네르 광산에서 던전 랭크A를 달성했을 때 받게 되는 상자이다. 
+EN|A box received for achieving A Rank in Ancient Aetherine Mine. 
+
+###221 count=1 tag=Kritias_Zakum01 key=20302391-Kritias_Zakum01- field=tooltipDescription item=古代エネル鉱山Sランク報酬ボックス
+KO|고대 에네르 광산에서 던전 랭크S를 달성했을 때 받게 되는 상자이다. 
+EN|A box received for achieving S Rank in Ancient Aetherine Mine. 
+
+###222 count=1 tag=Kritias_Zakum01 key=20302392-Kritias_Zakum01- field=tooltipDescription item=古代エネル鉱山S+ランク報酬ボックス
+KO|고대 에네르 광산에서 던전 랭크S+를 달성했을 때 받게 되는 상자이다. 
+EN|A box received for achieving S+ Rank in Ancient Aetherine Mine. 
+
+###223 count=1 tag=Kritias_Zakum01 key=50740070-Kritias_Zakum01- field=tooltipDescription item=悪魔の祭壇
+KO|아주 오래전, 자쿰의 영혼은 나무에 깃들어 있었다. 본래 자쿰은 약한 몬스터를 퇴치하거나, 작은 상처를 치유하는 정도의 힘을 가진 정령의 일종이었다. 정령 기준으로 보면 특별할 것 없는 힘이지만, 당시의 사람들에게는 큰 힘을 가진 존재로 받아들여졌다. 그래서인지 사람들은 자쿰을 수호신이라 생각하며 추종하였다.⏎⏎시간이 지나면서 자쿰을 믿는 사람들은 점점 늘어났고 자쿰의 힘 역시 점점 더 커졌다. 정령이었던 자쿰은 신으로 변해가고 있었다. 사람들은 자쿰을 위해 신전을 세우고 제단을 지었고 마침내 자쿰은 신이 되었다. 그러나 사람들을 위한 신은 아니었다.⏎⏎자쿰의 영혼이 나무에서 제단으로 옮겨가던 날, 자쿰은 인간의 영혼을 먹어치우고 악마의 화신으로 태어났다.
+EN|In another age, Zakum was a meager tree spirit. Even though it had little power of its own, it was beloved by the people who lived in its shade. Over time, they grew to worship it, and it fed upon their adoration.⏎⏎As his faithful grew in numbers, they built a grand altar to Zakum. In its completion, it was so glorious that Zakum abandoned its tree and inhabited the great stone statue. And where once it fed upon its followers' adoration, now it fed upon their very souls.
+
+###224 count=2 tag=Level70Item key=20302280-Level70Item- field=tooltipDescription item=アンティークアリゴン武器ランダムボックス
+KO|모든 직업의 안티크 에라곤 무기 중 1개를 획득할 수 있는 상자이다.
+EN|Contains a random Antique Arigon weapon.
+
+###225 count=2 tag=Level70Item key=20302281-Level70Item- field=tooltipDescription item=タイレンコンバット武器ランダムボックス
+KO|모든 직업의 타이렌 컴뱃 무기 중 1개를 획득할 수 있는 상자이다.
+EN|Contains a random Tairen Combat weapon.
+
+###226 count=2 tag=Level70Item key=20302282-Level70Item- field=tooltipDescription item=アンティークアリゴン服ランダムボックス(上下)
+KO|모든 직업의 안티크 에라곤 상의와 하의 중 1개를 획득할 수 있는 상자이다.
+EN|Pick between a top or bottoms, and you'll get a random Antique Arigon version of that item type.
+
+###227 count=2 tag=Level70Item key=20302283-Level70Item- field=tooltipDescription item=タイレンコンバット服ランダムボックス(上下)
+KO|모든 직업의 타이렌 컴뱃 상의와 하의 중 1개를 획득할 수 있는 상자이다.
+EN|Pick between a top or bottoms, and you'll get a random Tairen Combat version of that item type.
+
+###228 count=2 tag=Level70Item key=20302300-Level70Item- field=tooltipDescription item=タイレンオフィサー服ランダムボックス(上下)
+KO|모든 직업의 타이렌 커맨더 컴뱃 상의와 하의 중 1개를 획득할 수 있는 상자이다.
+EN|Pick between a top or bottoms, and you'll get a random Tairen Officer version of that item type.
+
+###229 count=2 tag=Level70Item key=20302301-Level70Item- field=tooltipDescription item=アンティークインフェルヌーク服ランダムボックス(上下)
+KO|모든 직업의 안티크 인페누크 상의와 하의 중 1개를 획득할 수 있는 상자이다.
+EN|Pick between a top or bottoms, and you'll get a random Antique Infernuke version of that item type.
+
+###230 count=2 tag=Level70Item key=20302304-Level70Item- field=tooltipDescription item=タイレンオフィサー武器ランダムボックス
+KO|모든 직업의 타이렌 커맨더 컴뱃 무기 중 1개를 획득할 수 있는 상자이다.
+EN|Contains a random Tairen Officer weapon.
+
+###231 count=2 tag=Level70Item key=20302305-Level70Item- field=tooltipDescription item=アンティークインフェルヌーク武器ランダムボックス
+KO|모든 직업의 안티크 인페누크 무기 중 1개를 획득할 수 있는 상자이다.
+EN|Contains a random Antique Infernuke weapon.
+
+###232 count=2 tag=Level70Item key=20302312-Level70Item- field=tooltipDescription item=ヒューマニタスフィールドアクセサリーランダムボックス
+KO|게오르크 카이 액세서리 중 1개를 획득할 수 있는 상자이다.
+EN|Contains a random Humanitas Field accessory.
+
+###233 count=2 tag=Level70Item key=20302332-Level70Item- field=guideDescription item=タイレンレンシャアクセサリーの欠片ボックス
+KO|소지품 창에서 아이템을 더블클릭하면 구성품 중 1종류를 획득할 수 있다. 
+EN|Double-click this in your inventory to receive one of the possible contents. 
+
+###234 count=2 tag=Level70Item key=20302651-Level70Item- field=tooltipDescription item=タイレンロイヤルアクセサリーランダムボックス
+KO|타이렌 로열 액세서리 중 1개를 획득할 수 있는 상자이다.
+EN|Contains a random Tairen Royal accessory.
+
+###235 count=2 tag=Level70Item key=36000423-Level70Item- field=tooltipDescription item=アンティークアリゴン武器ボックスの欠片
+KO|안티크 에라곤 무기를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling an Antique Arigon weapon.
+
+###236 count=2 tag=Level70Item key=36000424-Level70Item- field=tooltipDescription item=タイレンコンバット武器ボックスの欠片
+KO|타이렌 컴뱃 무기를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling a Tairen Combat weapon.
+
+###237 count=2 tag=Level70Item key=36000425-Level70Item- field=tooltipDescription item=アンティークアリゴン服選択ボックス(上下)の欠片
+KO|안티크 에라곤 상의,하의 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Antique Arigon tops or bottoms.
+
+###238 count=2 tag=Level70Item key=36000426-Level70Item- field=tooltipDescription item=タイレンコンバット服選択ボックス(上下)の欠片
+KO|타이렌 컴뱃 상의,하의 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Tairen Combat tops or bottoms.
+
+###239 count=2 tag=Level70Item key=36000427-Level70Item- field=tooltipDescription item=アンティークアリゴン帽子ボックスの欠片
+KO|안티크 에라곤 모자 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Antique Arigon headgear.
+
+###240 count=2 tag=Level70Item key=36000428-Level70Item- field=tooltipDescription item=タイレンコンバット帽子ボックスの欠片
+KO|타이렌 컴뱃 모자 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Tairen Combat headgear.
+
+###241 count=2 tag=Level70Item key=36000429-Level70Item- field=tooltipDescription item=アンティークアリゴングローブボックスの欠片
+KO|안티크 에라곤 장갑 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Antique Arigon gloves.
+
+###242 count=2 tag=Level70Item key=36000430-Level70Item- field=tooltipDescription item=タイレンコンバットグローブボックスの欠片
+KO|타이렌 컴뱃 장갑 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Tairen Combat gloves.
+
+###243 count=2 tag=Level70Item key=36000431-Level70Item- field=tooltipDescription item=アンティークアリゴン靴ボックスの欠片
+KO|안티크 에라곤 신발 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Antique Arigon shoes.
+
+###244 count=2 tag=Level70Item key=36000432-Level70Item- field=tooltipDescription item=タイレンコンバット靴ボックスの欠片
+KO|타이렌 컴뱃 신발 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Tairen Combat shoes.
+
+###245 count=2 tag=Level70Item key=36000438-Level70Item- field=tooltipDescription item=タイレンオフィサー服選択ボックス(上下)の欠片
+KO|타이렌 커맨더 컴뱃 상의,하의 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Tairen Officer tops or bottoms.
+
+###246 count=2 tag=Level70Item key=36000439-Level70Item- field=tooltipDescription item=アンティークインフェルヌーク服選択ボックス(上下)の欠片
+KO|안티크 인페누크 상의,하의 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Antique Infernuke tops or bottoms.
+
+###247 count=2 tag=Level70Item key=36000440-Level70Item- field=tooltipDescription item=タイレンオフィサー武器ボックスの欠片
+KO|타이렌 커맨더 컴뱃 무기를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling a Tairen Officer weapon.
+
+###248 count=2 tag=Level70Item key=36000441-Level70Item- field=tooltipDescription item=アンティークインフェルヌーク武器ボックスの欠片
+KO|안티크 인페누크 무기를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling an Antique Infernuke weapon.
+
+###249 count=2 tag=Level70Item key=36000442-Level70Item- field=tooltipDescription item=タイレンオフィサー帽子ボックスの欠片
+KO|타이렌 커맨더 컴뱃 모자 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Tairen Officer headgears.
+
+###250 count=2 tag=Level70Item key=36000443-Level70Item- field=tooltipDescription item=アンティークインフェルヌーク帽子ボックスの欠片
+KO|안티크 인페누크 모자 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Antique Infernuke headgears.
+
+###251 count=2 tag=Level70Item key=36000444-Level70Item- field=tooltipDescription item=タイレンオフィサーグローブボックスの欠片
+KO|타이렌 커맨더 컴뱃 장갑 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Tairen Officer gloves.
+
+###252 count=2 tag=Level70Item key=36000445-Level70Item- field=tooltipDescription item=アンティークインフェルヌークグローブボックスの欠片
+KO|안티크 인페누크 장갑 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Antique Infernuke gloves.
+
+###253 count=2 tag=Level70Item key=36000446-Level70Item- field=tooltipDescription item=タイレンオフィサー靴ボックスの欠片
+KO|타이렌 커맨더 컴뱃 신발 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Tairen Officer shoes.
+
+###254 count=2 tag=Level70Item key=36000447-Level70Item- field=tooltipDescription item=アンティークインフェルヌーク靴ボックスの欠片
+KO|안티크 인페누크 신발 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Antique Infernuke shoes.
+
+###255 count=2 tag=Level70Item key=36000553-Level70Item- field=tooltipDescription item=タイレンロイヤル武器ボックスの欠片
+KO|타이렌 로열 무기를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling a Tairen Royal weapon.
+
+###256 count=2 tag=Level70Item key=36000554-Level70Item- field=tooltipDescription item=タイレンロイヤル帽子/グローブ/靴選択ボックスの欠片
+KO|타이렌 로열 모자,장갑,신발 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Tairen Royal headgear, gloves, or shoes.
+
+###257 count=2 tag=Level70Item key=36000555-Level70Item- field=tooltipDescription item=タイレンロイヤル服選択ボックス(上下)の欠片
+KO|타이렌 로열 상의,하의 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Tairen Royal tops or bottoms.
+
+###258 count=1 tag=Level70Item key=11800130-Level70Item- field=guideDescription item=時空のインフェルノックの翼
+KO|\n<font color='#7A7A7A'>불멸의 대군주 인페르녹이 크리티아스로 오면서 불가사의한 힘을 가지게 된 날개. 시공을 뛰어넘는 과정에서 뒤틀린 시공 때문에, 크리티아스의 물리력을 초월하는 힘이 전이되었다고 추측된다. 시공의 힘이 전이된 다른 장비와 함께 장착하면, 한층 더 강력한 힘을 얻을 수 있다.</font>
+EN|\n<font color='#7A7A7A'>These wings were imbued with the power of the space-time continuum when Infernog crossed over into Kritias. When equipped with other continuum-powered items, the power of this item is amplified.</font>
+
+###259 count=1 tag=Level70Item key=12000111-Level70Item- field=guideDescription item=時空のジャクム指輪
+KO|\n<font color='#7A7A7A'>고대 악마 자쿰이 크리티아스로 오면서 불가사의한 힘을 가지게 된 반지. 시공을 뛰어넘는 과정에서 뒤틀린 시공 때문에, 크리티아스의 물리력을 초월하는 힘이 전이되었다고 추측된다. 시공의 힘이 전이된 다른 장비와 함께 장착하면, 한층 더 강력한 힘을 얻을 수 있다.</font>
+EN|\n<font color='#7A7A7A'>This ring was imbued with the power of the space-time continuum when Zakum crossed over into Kritias. When equipped with other continuum-powered items, the power of this item is amplified.</font>
+
+###260 count=1 tag=Level70Item key=15060310-Level70Item- field=tooltipDescription item=タイレンオフィサーラージソード
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 절단으로 타격 시 36초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>36</font> sec upon hitting with Sever. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+###261 count=1 tag=Level70Item key=15060311-Level70Item- field=tooltipDescription item=アンティークインフェルヌークラージソード
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 더스크 폴로 타격 시 48초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>48</font> sec upon hitting with Dusk Fall. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+###262 count=1 tag=Level70Item key=15160302-Level70Item- field=tooltipDescription item=タイレンオフィサーボウ
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 피닉스 스트라이크 샷으로 타격 시 12초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>12</font> sec upon hitting with Phoenix Strike. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+###263 count=1 tag=Level70Item key=15160303-Level70Item- field=tooltipDescription item=アンティークインフェルヌークボウ
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 이글 스쿼드 상태에서 타격 시 144초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>144</font> sec on hit during Eagle Squad. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+###264 count=1 tag=Level70Item key=15260309-Level70Item- field=tooltipDescription item=タイレンオフィサースタッフ
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 허리케인 경보로 타격 시 48초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>48</font> sec upon hitting with Hurricane Warning. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+###265 count=1 tag=Level70Item key=15260310-Level70Item- field=tooltipDescription item=アンティークインフェルヌークスタッフ
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 사나운 불길 상태의 적을 타격 시 36초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>36</font> sec upon hitting enemy inflicted by Raging Flame. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+###266 count=1 tag=Level70Item key=15360305-Level70Item- field=tooltipDescription item=タイレンオフィサーキャノン
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 가스 중독 상태의 적을 타격 시 24초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>24</font> sec upon hitting enemy inflicted by Poison Gas. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+###267 count=1 tag=Level70Item key=15360306-Level70Item- field=tooltipDescription item=アンティークインフェルヌークキャノン
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 메슬라 코일로 타격 시 72초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>72</font> sec upon hitting with Mesla Coil. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+###268 count=1 tag=Level70Item key=15460190-Level70Item- field=tooltipDescription item=タイレンオフィサーブレイド
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 루나틱 플래쉬로 타격 시 12초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>12</font> sec upon hitting with Lunatic Flash. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+###269 count=1 tag=Level70Item key=15460191-Level70Item- field=tooltipDescription item=アンティークインフェルヌークブレイド
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 게이트 오브 블레이드로 타격 시 12초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>12</font> sec upon hitting with Gate of Blades. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+###270 count=1 tag=Level70Item key=15560227-Level70Item- field=tooltipDescription item=タイレンオフィサーナックル
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 얼티밋 러쉬로 타격 시 12초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>12</font> sec upon hitting with Ultimate Rush. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+###271 count=1 tag=Level70Item key=15560228-Level70Item- field=tooltipDescription item=アンティークインフェルヌークナックル
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 얼티밋 디스트로이 킥으로 타격 시 12초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>12</font> sec upon hitting with Ultimate Destroyer Kick. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+###272 count=1 tag=Level70Item key=15660231-Level70Item- field=tooltipDescription item=タイレンオフィサースピリット
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 힘의 해방으로 타격 시 72초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>72</font> sec upon hitting with Power Liberation. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+###273 count=1 tag=Level70Item key=15660232-Level70Item- field=tooltipDescription item=アンティークインフェルヌークスピリット
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 완벽한 선율을 습득한 상태에서 타격 시 10초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>10</font> sec on hit if you learned Perfect Melody. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+###274 count=1 tag=Level70Item key=20302313-Level70Item- field=tooltipDescription item=エリートアドベンチャー装備ボックス
+KO|70레벨 달성시 길라잡이 보상으로 받게 되는 보상 상자이다. 직업에 맞는 무기, 방어구 및 공용 액세서리로 구성되어 있다. 단, 초보자의 경우 랜덤한 직업의 무기, 방어구로 획득되며, 방어구의 경우 착용할 수 없다.
+EN|Reach Lv. 70 to unlock this reward box in the Navigator. It contains weapons and armor for your job, as well as common accessories.
+
+###275 count=1 tag=Level70Item key=20302332-Level70Item- field=tooltipDescription item=タイレンレンシャアクセサリーの欠片ボックス
+KO|$item:36000436$, $item:36000434$, $item:36000435$ 중 1종류를 20개 얻을 수 있는 상자이다.
+EN|Contains your choice of 20 of the following: $item:36000436$, $item:36000434$, or $item:36000435$.
+
+###276 count=1 tag=Level70Item key=20302345-Level70Item- field=tooltipDescription item=70レベルエクセレント武器オプション変更券選択ボックス
+KO|$item:31001530$, $item:31001531$ 중 1개를 선택해서 획득할 수 있는 상자이다.
+EN|Contains your choice of 1 of the following: $item:31001530$ or $item:31001531$.
+
+###277 count=1 tag=Level70Item key=20302346-Level70Item- field=tooltipDescription item=70レベルレジェンダリー武器オプション変更券選択ボックス
+KO|$item:31001534$, $item:31001535$ 중 1개를 선택해서 획득할 수 있는 상자이다.
+EN|Contains your choice of 1 of the following: $item:31001534$ or $item:31001535$.
+
+###278 count=1 tag=Level70Item key=20302356-Level70Item- field=tooltipDescription item=70レベルアクセサリーオプション数値変更券ボックス
+KO|$item:31001533$를 획득할 수 있는 상자이다.
+EN|Contains $item:31001533$.
+
+###279 count=1 tag=Level70Item key=20302357-Level70Item- field=tooltipDescription item=70レベルアクセサリー1ソケット変換呪文書ボックス
+KO|$item:31001542$를 획득할 수 있는 상자이다.
+EN|Contains $item:31001542$.
+
+###280 count=1 tag=Level70Item key=20302744-Level70Item- field=tooltipDescription item=70レベルエピックオプション変更券(武器)選択ボックス
+KO|$item:31001538$ 2장$pp:와,과$ $item:31001539$ 1장 중 하나를 선택해 얻을 수 있는 상자이다.
+EN|Select either 2 $itemPlural:31001538$ or 1 $item:31001539$ from this box.
+
+###281 count=1 tag=Level70Item key=20302838-Level70Item- field=tooltipDescription item=タイレンレンシャアクセサリーの欠片ボックス
+KO|$item:36000570$, $item:36000568$, $item:36000569$ 중 1종류를 20개 얻을 수 있는 상자이다.
+EN|Contains 20 of one of the following items: $item:36000436$, $item:36000434$, or $item:36000435$.
+
+###282 count=1 tag=Level70Item key=20302952-Level70Item- field=tooltipDescription item=(ネットカフェ) エリートアドベンチャー装備ボックス
+KO|PC방 혜택으로 받을 수 있는 보상 상자이다. 직업에 맞는 무기, 방어구 및 공용 액세서리로 구성되어 있다. 단, 초보자의 경우 랜덤한 직업의 무기, 방어구로 획득되며, 방어구의 경우 착용할 수 없다.
+EN|(なし)
+
+###283 count=1 tag=Level70Item key=20302952-Level70Item- field=guideDescription item=(ネットカフェ) エリートアドベンチャー装備ボックス
+KO|소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다. 단, 획득한 아이템은 분해가 불가능하다.
+EN|(なし)
+
+###284 count=1 tag=Level70Item key=20303027-Level70Item- field=tooltipDescription item=タイレンオフィサーオールインワンボックス
+KO|자신의 직업에 맞는 타이렌 커맨더 컴뱃 장비가 들어있는 상자이다.
+EN|A box containing a piece of Tairen Officer gear for your job.
+
+###285 count=1 tag=Level70Item key=20303028-Level70Item- field=tooltipDescription item=アンティークインフェルヌークオールインワンボックス
+KO|자신의 직업에 맞는 안티크 인페누크 장비가 들어있는 상자이다.
+EN|A box containing an Antique Infernuke gear for your job.
+
+###286 count=1 tag=Level70Item key=20303093-Level70Item- field=tooltipDescription item=ファイアプリズムアクセサリーランダムボックス
+KO|파이어 프리즘 액세서리 중 1개를 획득할 수 있는 상자이다.
+EN|Contains a random Fire Prism accessory.
+
+###287 count=1 tag=Level70Item key=20303175-Level70Item- field=tooltipDescription item=ファイアプリズム帽子/グローブ/靴ボックス
+KO|상자를 열면 파이어 프리즘 장갑,신발,모자를 획득할 수 있다.
+EN|(なし)
+
+###288 count=1 tag=Level70Item key=20303176-Level70Item- field=tooltipDescription item=ファイアプリズムベルト/マントボックス
+KO|상자를 열면 파이어 프리즘 벨트,망토를 획득할 수 있다.
+EN|(なし)
+
+###289 count=1 tag=Level70Item key=30001291-Level70Item- field=tooltipDescription item=クリティアス魔法碑石の欠片
+KO|크리티아스에 세워진 마법 비석의 조각으로 마법의 힘이 흘러나오고 있다. [크리티아스 원정대] 그린후드 세력의 [주간][유니크] 임무를 통해 획득할 수 있다.
+EN|A fragment taken from one of the magical tombstones in Kritias. It flows with magic power. Can be obtained from weekly Kritias Green Hoods special missions.
+
+###290 count=1 tag=Level70Item key=30001291-Level70Item- field=guideDescription item=クリティアス魔法碑石の欠片
+KO|[크리티아스 원정대] 그린후드 세력 상점에서 판매하는 주문서의 재료로 사용된다.
+EN|Used as a catalyst for scrolls in the Kritias Green Hoods faction shop.
+
+###291 count=1 tag=Level70Item key=30001292-Level70Item- field=tooltipDescription item=クリティアス歯車
+KO|크리티아스 전역에서 발견되는 톱니바퀴로 크리티아스에서 사용하는 금속으로 이루어져 있다. [크리티아스 원정대] 루미나이츠 세력의 [주간][유니크] 임무를 통해 획득할 수 있다.
+EN|A cogwheel made from a metal found in Kritias. Can be obtained from weekly Kritias Lumiknights special missions.
+
+###292 count=1 tag=Level70Item key=30001292-Level70Item- field=guideDescription item=クリティアス歯車
+KO|[크리티아스 원정대] 루미나이츠 세력 상점에서 판매하는 주문서의 재료로 사용된다.
+EN|Used as a catalyst for scrolls in the Kritias Lumiknights faction shop.
+
+###293 count=1 tag=Level70Item key=30001293-Level70Item- field=tooltipDescription item=クリティアスラペンタの欠片
+KO|크리티아스에서 생산되는 라펜타 조각으로 신비한 힘을 담고 있다. [크리티아스 원정대] 메이플연합 세력의 [주간][유니크] 임무를 통해 획득할 수 있다.
+EN|A lapenta fragment from Kritias. Can be obtained from weekly Kritias Maple Alliance special missions.
+
+###294 count=1 tag=Level70Item key=30001293-Level70Item- field=guideDescription item=クリティアスラペンタの欠片
+KO|[크리티아스 원정대] 메이플연합 세력 상점에서 판매하는 주문서의 재료로 사용된다.
+EN|Used as a catalyst for scrolls in the Kritias Maple Alliance faction shop.
+
+###295 count=1 tag=Level70Item key=30001294-Level70Item- field=tooltipDescription item=レジェンダリークリティアス石碑の欠片
+KO|크리티아스에 세워진 마법 비석의 조각으로 마법의 힘이 흘러나오고 있다.
+EN|A fragment taken from one of the magical tombstones in Kritias. It flows with magic power.
+
+###296 count=1 tag=Level70Item key=30001294-Level70Item- field=guideDescription item=レジェンダリークリティアス石碑の欠片
+KO|그린후드 세력 상점에서 판매하는 주문서의 재료로 사용된다.
+EN|Used as a catalyst for scrolls in the Green Hoods faction shop.
+
+###297 count=1 tag=Level70Item key=30001295-Level70Item- field=tooltipDescription item=レジェンダリークリティアス歯車
+KO|크리티아스 전역에서 발견되는 톱니바퀴로 크리티아스에서 사용하는 금속으로 이루어져 있다.
+EN|A cogwheel made from a metal found in Kritias.
+
+###298 count=1 tag=Level70Item key=30001295-Level70Item- field=guideDescription item=レジェンダリークリティアス歯車
+KO|루미나이츠 세력 상점에서 판매하는 주문서의 재료로 사용된다.
+EN|Used as a catalyst for scrolls in the Lumiknights faction shop.
+
+###299 count=1 tag=Level70Item key=30001296-Level70Item- field=tooltipDescription item=レジェンダリークリティアスラペンタの欠片
+KO|크리티아스에서 생산되는 라펜타 조각으로 신비한 힘을 담고 있다.
+EN|A lapenta fragment from Kritias.
+
+###300 count=1 tag=Level70Item key=30001296-Level70Item- field=guideDescription item=レジェンダリークリティアスラペンタの欠片
+KO|메이플연합 세력 상점에서 판매하는 주문서의 재료로 사용된다.
+EN|Used as a catalyst for scrolls in the Maple Alliance faction shop.
+
+###301 count=1 tag=Level70Item key=30001396-Level70Item- field=tooltipDescription item=クリティアスのドラゴンの卵
+KO|크리티아스 지역에서 희귀하게 볼 수 있는 드래곤 알이며, 마법의 힘이 흘러나오고 있다. 게오르크 세력의 [주간] 미지의 대모험 관련 임무를 통해 획득할 수 있다.
+EN|This dragon egg is a rarity even in Kritias. It overflows with magic. Can be obtained from weekly Humanitas Adventure missions.
+
+###302 count=1 tag=Level70Item key=30001396-Level70Item- field=guideDescription item=クリティアスのドラゴンの卵
+KO|게오르크 세력 상점에서 판매하는 주문서의 재료로 사용된다.
+EN|Used as a catalyst for scrolls in the Humanitas faction shop.
+
+###303 count=1 tag=Level70Item key=36000599-Level70Item- field=tooltipDescription item=ファイアプリズム武器ボックスの欠片
+KO|파이어 프리즘 무기를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling a Fire Prism weapon.
+
+###304 count=1 tag=Level70Item key=36000599-Level70Item- field=guideDescription item=ファイアプリズム武器ボックスの欠片
+KO|더블클릭하면 사용할 수 있으며, 20개를 소모해 $item:20303090$$pp:를,을$ 만들 수 있다.
+EN|Double-click to use, consuming 20 to create $item:20303090$.
+
+###305 count=1 tag=Level70Item key=36000600-Level70Item- field=tooltipDescription item=ファイアプリズム帽子/グローブ/靴選択ボックスの欠片
+KO|파이어 프리즘 모자,장갑,신발 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Fire Prism headgear, gloves, or shoes.
+
+###306 count=1 tag=Level70Item key=36000600-Level70Item- field=guideDescription item=ファイアプリズム帽子/グローブ/靴選択ボックスの欠片
+KO|더블클릭하면 사용할 수 있으며, 20개를 소모해 $item:20303091$$pp:를,을$ 만들 수 있다.
+EN|Double-click to use, consuming 20 to create $item:20303091$.
+
+###307 count=1 tag=Level70Item key=36000601-Level70Item- field=tooltipDescription item=ファイアプリズム服選択ボックス(上下)の欠片
+KO|파이어 프리즘 상의,하의 방어구를 분해하면 얻을 수 있는 조각이다.
+EN|These fragments can be obtained by dismantling Fire Prism tops or bottoms.
+
+###308 count=1 tag=Level70Item key=36000601-Level70Item- field=guideDescription item=ファイアプリズム服選択ボックス(上下)の欠片
+KO|더블클릭하면 사용할 수 있으며, 20개를 소모해 $item:20303092$$pp:를,을$ 만들 수 있다.
+EN|Double-click to use, consuming 20 to create $item:20303092$.
+
+###309 count=1 tag=Level70Item key=36000602-Level70Item- field=tooltipDescription item=ファイアプリズムアクセサリーランダムボックスの欠片
+KO|$item:20303093$의 조각이다.
+EN|A small $item:20303093$ fragment.
+
+###310 count=1 tag=Level70Item key=36000602-Level70Item- field=guideDescription item=ファイアプリズムアクセサリーランダムボックスの欠片
+KO|더블클릭하면 사용할 수 있으며, 16개를 소모해 $item:20303093$$pp:를,을$ 만들 수 있다.
+EN|Double-click to use, consuming 16 to create $item:20303093$.
+
+###311 count=1 tag=MassiveCrazyRunnersShanghai key=30000855-MassiveCrazyRunnersShanghai- field=tooltipDescription item=?
+KO|상해 동방명주가 그려진 코인이다. 상해 크레이지 러너즈를 완주하면 얻을 수 있다. 
+EN|A coin with the Oriental Pearl Tower of Shanghai depicted on it. You can obtain this by completing the Shanghai Crazy Runners. 
+
+###312 count=1 tag=MassiveCrazyRunnersShanghai key=30000855-MassiveCrazyRunnersShanghai- field=guideDescription item=?
+KO|트라이아의 밍밍에게 찾아가면 아이템으로 교환할 수 있다. 
+EN|Used to purchase items at Ming Ming's shop in Tria. 
+
+###313 count=2 tag=PetRemakeBlock02 key=30001345-PetRemakeBlock02- field=tooltipDescription item=ペット追加能力2個固定キャンディー
+KO|특별한 레시피로 만든 무지개 캔디로 여전히 알록달록 맛있어 보이지만 더 특별해졌다. 반짝이는 무지개 캔디를 사용하여 펫의 추가 능력을 고정하면 펫 추가 능력을 변경을 진행하여도 고정된 능력의 종류와 수치가 변경되지 않는다. 반짝이는 특별한 힘이 펫의 능력을 최대 2개까지 고정할 수 있게 만들어 준다.
+EN|A rainbow candy made from a special recipe. It still looks deliciously colorful, but it has become even more special. If you use a sparkling rainbow candy to lock your pet's bonus abilities, the type and values of locked abilities will not change even when you re-roll your pet's bonus abilities. This sparkling special power lets you lock up to 2 of your pet's abilities.
+
+###314 count=2 tag=PetRemakeBlock02 key=30001345-PetRemakeBlock02- field=guideDescription item=ペット追加能力2個固定キャンディー
+KO|펫 능력 변경 시 추가 능력을 고정하게 되면 소모된다. 이 아이템으로 선택한 능력의 종류와 수치가 고정된다. 최대 2종류의 능력을 고정시킬 수 있다.
+EN|Consumed when you lock a bonus ability while changing your pet's abilities. The type and value of the ability selected with this item become locked. Up to 2 abilities can be locked.
+
+###315 count=1 tag=Pet_70Lv key=20001286-Pet_70Lv- field=tooltipDescription item=ギガンティカペット召喚装置
+KO|$item:61100100$$pp:를,을$ 소환할 수 있는 기계장치이다.
+EN|A machine that can summon $item:61100100$.
+
+###316 count=1 tag=Pet_70Lv key=30001283-Pet_70Lv- field=tooltipDescription item=ギガンティカペット召喚装置バッテリー
+KO|$item:61100100$$pp:를,을$ 소환하는 $item:20001286$의 배터리이다.
+EN|A battery for $item:20001286$. Used to summon $item:61100100$.
+
+###317 count=1 tag=Pet_70Lv key=30001283-Pet_70Lv- field=guideDescription item=ギガンティカペット召喚装置バッテリー
+KO|$item:20001286$의 재료로 사용된다.
+EN|Used as material for $item:20001286$.
+
+###318 count=2 tag=Pet_70Lv_Taming key=20302687-Pet_70Lv_Taming- field=tooltipDescription item=?
+KO|70레벨 이상의 모험가만이 다룰 수 있는 엑설런트 등급의 전투펫 중 원하는 펫 하나를 선택해서 얻을 수 있는 상자이다.
+EN|A box containing the epic combat pet of your choice. Only for adventurers Lv. 70 and up!
+
+###319 count=2 tag=Pet_70Lv_Taming key=20302687-Pet_70Lv_Taming- field=guideDescription item=?
+KO|소지품 창에서 아이템을 더블클릭하면, 구성품 중 1개를 선택하여 획득할 수 있다.<font color='#FF5F5F'>\n\n※ 획득하는 펫은 캐릭터 귀속 펫입니다.</font>
+EN|Double-click this in your inventory to receive an item of your choice.<font color='#FF5F5F'>\n\nThe pet you obtain will be bound to you.</font>
+
+###320 count=1 tag=Pet_70Lv_Taming key=20302946-Pet_70Lv_Taming- field=guideDescription item=?
+KO|소지품 창에서 아이템을 더블클릭하면, 구성품 중 1개를 선택하여 획득할 수 있다.<font color='#FF5F5F'>\n\n※ 획득하는 펫은 캐릭터 귀속 펫입니다.</font>\n<font color='#C888FF'>  - 전투펫: $item:61130144$\n  - 전투펫: $item:61130147$\n  - 전투펫: $item:61130100$\n  - 전투펫: $item:61030153$\n  - 전투펫: $item:61030154$\n  - 전투펫: $item:61030155$\n  - 전투펫: $item:61030156$\n  - 전투펫: $item:61030157$\n  - 전투펫: $item:61030158$\n  - 전투펫: $item:61030159$\n  - 전투펫: $item:61030160$\n  - 전투펫: $item:61030161$\n  - 전투펫: $item:61030163$\n  - 전투펫: $item:61030164$\n  - 전투펫: $item:61030165$\n  - 전투펫: $item:61030166$\n  - 전투펫: $item:61030167$\n  - 전투펫: $item:61030168$\n  - 전투펫: $item:61030169$\n  - 전투펫: $item:61030170$\n  - 전투펫: $item:61140145$\n  - 전투펫: $item:61140146$\n</font>
+EN|Double-click to obtain 1 item of your choice.<font color='#FF5F5F'>\n\nThe pet will be bound to you.</font>\n<font color='#C888FF'>  - $item:61130144$ (Combat Pet)\n  - $item:61130147$ (Combat Pet)\n  - $item:61130100$ (Combat Pet)\n  - $item:61030153$ (Combat Pet)\n  - $item:61030154$ (Combat Pet)\n  - $item:61030155$ (Combat Pet)\n  - $item:61030156$ (Combat Pet)\n  - $item:61030157$ (Combat Pet)\n  - $item:61030158$ (Combat Pet)\n  - $item:61030159$ (Combat Pet)\n  - $item:61030160$ (Combat Pet)\n  - $item:61030161$ (Combat Pet)\n  - $item:61030163$ (Combat Pet)\n  - $item:61030164$ (Combat Pet)\n  - $item:61030165$ (Combat Pet)\n  - $item:61030166$ (Combat Pet)\n  - $item:61030167$ (Combat Pet)\n  - $item:61030168$ (Combat Pet)\n  - $item:61030169$ (Combat Pet)\n  - $item:61030170$ (Combat Pet)\n  - $item:61140145$ (Combat Pet)\n  - $item:61140146$ (Combat Pet)\n</font>
+
+###321 count=1 tag=Timaion01 key=30000975-Timaion01- field=tooltipDescription item=1つ目のティアスコアの破片
+KO|在$map:52020009$发现的第一块提厄斯核心碎片。
+EN|(なし)
+
+###322 count=1 tag=Timaion01 key=30000976-Timaion01- field=tooltipDescription item=2つ目のティアスコアの破片
+KO|在$map:52020010$发现的第二块提厄斯核心碎片。
+EN|(なし)
+
+###323 count=1 tag=Timaion01 key=30000977-Timaion01- field=tooltipDescription item=3つ目のティアスコアの破片
+KO|在$map:52020012$发现的第三块提厄斯核心碎片。
+EN|(なし)
+
+###324 count=1 tag=Timaion01 key=30000978-Timaion01- field=tooltipDescription item=4つ目のティアスコアの破片
+KO|在$map:52020016$发现的第四块提厄斯核心碎片。
+EN|(なし)
+
+###325 count=1 tag=Timaion01 key=30000979-Timaion01- field=tooltipDescription item=5つ目のティアスコアの破片
+KO|在$map:52020017$发现的第五块提厄斯核心碎片。
+EN|(なし)
+
+###326 count=1 tag=Timaion01 key=30000980-Timaion01- field=tooltipDescription item=ティアスコア
+KO|用含有黑暗之神遗骸的水晶制作的提麦翁动力源。用散落在$map:52020024$的碎片拼合而成。
+EN|(なし)
+
+###327 count=1 tag=Timaion01 key=30000984-Timaion01- field=tooltipDescription item=人形のネジ
+KO|从徘徊在$map:02020004$的木偶身上弄到的零部件。可用来修理坏掉的门。
+EN|(なし)
+
+###328 count=1 tag=Timaion01 key=30000985-Timaion01- field=tooltipDescription item=クリティアスコイン
+KO|克里蒂亚斯流通的货币。可用来购买人偶剧场的入场券。
+EN|(なし)
+
+###329 count=1 tag=Timaion01 key=30001015-Timaion01- field=tooltipDescription item=香ばしい戦闘食糧
+KO|男女老少都十分喜欢的特制战斗食物，散发出香喷喷的诱人香味。
+EN|(なし)
+
+###330 count=1 tag=Timaion01 key=30001016-Timaion01- field=tooltipDescription item=レッドライトコア
+KO|闪烁着神秘光芒的红色小型结晶体。似乎是操控机械动作的装置，准确用途不明。
+EN|(なし)
+
+###331 count=1 tag=Timaion01 key=30001017-Timaion01- field=tooltipDescription item=遠隔販売呪文書
+KO|盖着金色机械叶子图案的纸。上面写着“有什么需要请写下来投入口中。我确认后会答复你。$npc:11003658$”。
+EN|(なし)
+
+###332 count=1 tag=Timaion01 key=30001018-Timaion01- field=tooltipDescription item=黄金のマスターキー
+KO|金光闪烁的光滑钥匙。加工得十分精致。
+EN|(なし)
+
+###333 count=1 tag=Timaion01 key=30001019-Timaion01- field=tooltipDescription item=破れたゴムの切れ
+KO|破破烂烂的胶皮，将其拼合起来可以阻断电流。
+EN|(なし)
+
+###334 count=1 tag=Timaion01 key=30001020-Timaion01- field=tooltipDescription item=特殊ラッピングペーパー
+KO|表面发出微光的特殊材质的包装纸。据说可用来包裹具有爆炸危险的物品。
+EN|(なし)
+
+###335 count=1 tag=Timaion01 key=30001021-Timaion01- field=tooltipDescription item=人工光合成装置
+KO|设计精巧，无需见光也可以生长的机械树的核心零件，内部发出一刻不停的滴答声。是高度发达的技术与魔法相结合创造的惊人装置。
+EN|(なし)
+
+###336 count=1 tag=Timaion01 key=30001022-Timaion01- field=tooltipDescription item=銀色のアシ
+KO|银色的芦苇，泛着像金属一样冰冷的光泽。当心别被它锋利的边缘割伤。
+EN|(なし)
+
+###337 count=1 tag=Timaion01 key=30001023-Timaion01- field=tooltipDescription item=ネオンクレイ
+KO|发出强荧光的奇怪物质。可以塑造成任何形状。
+EN|(なし)
+
+###338 count=1 tag=Timaion01 key=30001024-Timaion01- field=tooltipDescription item=クロビスセル
+KO|$npc:11003658$利用参考克里蒂亚斯留存的记录开发出的制造法来研制的特殊电池。据说可以驱动位于克里蒂亚斯的特殊装置。
+EN|(なし)
+
+###339 count=1 tag=Timaion01 key=30001029-Timaion01- field=tooltipDescription item=壊れたタレットの欠片
+KO|用坚硬的矿石制作的$npc:21200017$的碎片。
+EN|(なし)
+
+###340 count=1 tag=UnlimitedEnchant key=36000603-UnlimitedEnchant- field=tooltipDescription item=プリズムストーンの欠片
+KO|$item:40100056$의 조각이다.
+EN|A small $item:40100056$ fragment.
+
+###341 count=1 tag=UnlimitedEnchant key=36000603-UnlimitedEnchant- field=guideDescription item=プリズムストーンの欠片
+KO|더블클릭하면 사용할 수 있으며, 10개를 소모해 $item:40100056$$pp:를,을$ 만들 수 있다.
+EN|Double-click to use, consuming 10 to create $item:40100056$.
+
+###342 count=2 tag=Wedding key=11050067-Wedding- field=tooltipDescription item=スペシャルウェディングピンクローズ(男)
+KO|순수한 사랑을 상징하는 한 송이의 장미꽃이다.
+EN|A single rose symbolizing pure love.
+
+###343 count=2 tag=Wedding key=11250210-Wedding- field=tooltipDescription item=スペシャルウェディングストーンイヤリング(男)
+KO|은은하고 밝게 빛나는 하트 모양의 귀고리이다.
+EN|These heart-shaped earrings shine brightly and softly.
+
+###344 count=2 tag=Wedding key=20001701-Wedding- field=guideDescription item=アフターパーティーチケット：ピニャータ
+KO|소지품 창에서 아이템을 더블클릭하면 애프터 파티 맵으로 이동하는 포털을 열 수 있다.
+EN|소지품 창에서 아이템을 더블클릭하면 애프터 파티 맵으로 이동하는 포털을 열 수 있다.
+
+###345 count=2 tag=Wedding key=20001704-Wedding- field=tooltipDescription item=称号：温かい花婿
+KO|마음이 따뜻한 부부의 결혼을 축하하는 특별한 칭호이다.
+EN|It is a special title to celebrate the marriage of a warm-hearted couple.
+
+###346 count=2 tag=Wedding key=20001706-Wedding- field=tooltipDescription item=称号：優しい花婿
+KO|누구보다 다정한 부부의 결혼을 축하하는 특별한 칭호이다.
+EN|It is a special title to celebrate the marriage of a couple who are more affectionate than anyone else.
+
+###347 count=2 tag=Wedding key=20001710-Wedding- field=tooltipDescription item=称号：思いやりのある花婿
+KO|심성이 사려깊은 부부의 결혼을 축하하는 특별한 칭호이다.
+EN|It is a special title to celebrate the marriage of a thoughtful couple.
+
+###348 count=2 tag=Wedding key=20001712-Wedding- field=tooltipDescription item=称号：信頼される花婿
+KO|모두에게 신뢰받는 부부의 결혼을 축하하는 특별한 칭호이다.
+EN|It is a special title to celebrate the marriage of a couple who are trusted by everyone.
+
+###349 count=2 tag=Wedding key=20001714-Wedding- field=tooltipDescription item=称号：陽射しあふれる花婿
+KO|햇살 가득 싱그러운 부부의 결혼을 축하하는 특별한 칭호이다.
+EN|It is a special title to celebrate the wedding of a couple full of sunshine and freshness.
+
+###350 count=2 tag=Wedding key=20001716-Wedding- field=tooltipDescription item=称号：ほのかな月明かりの花婿
+KO|달빛이 은은한 밤 결혼한 부부의 특별한 칭호이다.
+EN|A special title for a married couple on a moonlit night.
+
+###351 count=2 tag=Wedding key=20001718-Wedding- field=tooltipDescription item=称号：頼もしい花婿
+KO|누구보다 강인한 부부의 결혼을 축하하는 특별한 칭호이다.
+EN|It is a special title to celebrate the marriage of a couple who are stronger than anyone else.
+
+###352 count=2 tag=Wedding key=20001720-Wedding- field=tooltipDescription item=称号：真剣な花婿
+KO|서로에게 진중한 부부의 결혼을 축하하는 특별한 칭호이다.
+EN|It is a special title to congratulate the marriage of a couple who are serious about each other.
+
+###353 count=2 tag=Wedding key=20001722-Wedding- field=tooltipDescription item=称号：祝福された花婿
+KO|모두에게 축복받은 부부의 결혼을 축하하는 특별한 칭호이다.
+EN|It is a special title that celebrates the marriage of a couple who is blessed by everyone.
+
+###354 count=2 tag=Wedding key=20001724-Wedding- field=tooltipDescription item=称号：輝く花婿
+KO|어느 때보다 빛나는 부부의 결혼을 축하하는 특별한 칭호이다.
+EN|It is a special title to celebrate the marriage of a couple that shines more than ever.
+
+###355 count=2 tag=Wedding key=20001726-Wedding- field=tooltipDescription item=称号：初々しい花婿
+KO|상큼하고 산뜻한 부부의 결혼을 축하하는 특별한 칭호이다.
+EN|It is a special title to celebrate the marriage of a fresh and bright couple.
+
+###356 count=2 tag=Wedding key=20001728-Wedding- field=tooltipDescription item=称号：華麗な花婿
+KO|누구보다 화려한 부부의 결혼을 축하하는 특별한 칭호이다.
+EN|It is a special title to celebrate the marriage of a couple more splendid than anyone else.
+
+###357 count=2 tag=Wedding key=20302962-Wedding- field=tooltipDescription item=スペシャルウェディングコスチュームボックス
+KO|결혼식을 더욱 아름답게 빛내줄 특별한 의상이 담긴 상자이다.
+EN|A box containing special outfits that will make your wedding even more beautiful.
+
+###358 count=2 tag=Wedding key=20302963-Wedding- field=tooltipDescription item=ルアナの輝くプレゼント
+KO|결혼을 축하하는 마음을 가득 담아 루아나가 전하는 선물이다.
+EN|A gift from Luana, full of heartfelt congratulations on your marriage.
+
+###359 count=2 tag=Wedding key=20302965-Wedding- field=tooltipDescription item=アモランラブインテリアボックス
+KO|트라이아 결혼식장에서 부부에게 제공하는 인테리어 박스이다. 결혼식 소품으로 신혼집을 꾸며보자.
+EN|An interior box given to couples at the Tria wedding hall. Decorate your new home with wedding props.
+
+###360 count=2 tag=Wedding key=20302968-Wedding- field=tooltipDescription item=トライア風の華やかな引き出物
+KO|결혼식을 함께한 분들께 감사한 마음을 담아 전하는 트라이아풍 답례품이다.
+EN|A Tria-style return gift given with gratitude to those who shared in your wedding.
+
+###361 count=2 tag=Wedding key=20302969-Wedding- field=tooltipDescription item=トライアウェディングデーインテリアボックス
+KO|트라이아 결혼식장에서 하객들에게 제공하는 답례품으로, 지역 특색이 담긴 건설 자재가 포함되어 있다.
+EN|A return gift given to guests at the Tria wedding hall, containing construction materials with local characteristics.
+
+###362 count=2 tag=Wedding key=20302972-Wedding- field=tooltipDescription item=マノビッチの輝くプレゼント
+KO|결혼을 축하하는 마음을 가득 담아 마노비치가 전하는 선물이다.
+EN|A gift from Manovich, full of heartfelt congratulations on your marriage.
+
+###363 count=2 tag=Wedding key=20302974-Wedding- field=tooltipDescription item=ハーモニーグローリーインテリアボックス
+KO|헤네시스 결혼식장에서 부부에게 제공하는 인테리어 박스이다. 결혼식 소품으로 신혼집을 꾸며보자.
+EN|An interior box given to couples at the Henesys wedding hall. Decorate your new home with wedding decorations.
+
+###364 count=2 tag=Wedding key=20302977-Wedding- field=tooltipDescription item=ヘネシス風の華やかな引き出物
+KO|결혼식을 함께한 분들께 감사한 마음을 담아 전하는 헤네시스풍 답례품이다.
+EN|A Henesys-style gift given to show gratitude to those who joined your wedding.
+
+###365 count=2 tag=Wedding key=20302978-Wedding- field=tooltipDescription item=ヘネシスウェディングデーインテリアボックス
+KO|헤네시스 결혼식장에서 하객들에게 제공하는 답례품으로, 지역 특색이 담긴 건설 자재가 포함되어 있다.
+EN|A gift given to guests at the Henesys wedding hall, containing construction materials with local flair.
+
+###366 count=2 tag=Wedding key=20302981-Wedding- field=tooltipDescription item=アシモフの輝くプレゼント
+KO|결혼을 축하하는 마음을 가득 담아 아시모프가 전하는 선물이다.
+EN|A gift from Asimov filled with wishes to congratulate your marriage.
+
+###367 count=2 tag=Wedding key=20302983-Wedding- field=tooltipDescription item=エリニアホーリーウッドインテリアボックス
+KO|엘리니아 결혼식장에서 부부에게 제공하는 인테리어 박스이다. 결혼식 소품으로 신혼집을 꾸며보자.
+EN|An interior box given to couples at the Ellinia wedding venue. Decorate your wedding home with wedding decorations.
+
+###368 count=2 tag=Wedding key=20302987-Wedding- field=tooltipDescription item=エリニア風の華やかな引き出物
+KO|결혼식을 함께한 분들께 감사한 마음을 담아 전하는 엘리니아풍 답례품이다.
+EN|An Ellinia-style gift given to those who joined your wedding to express your gratitude.
+
+###369 count=2 tag=Wedding key=20302988-Wedding- field=tooltipDescription item=エリニアラブデーインテリアボックス
+KO|엘리니아 결혼식장에서 하객들에게 제공하는 답례품으로, 지역 특색이 담긴 건설 자재가 포함되어 있다.
+EN|A gift given to guests at the Ellinia wedding hall, containing construction materials with local flair.
+
+###370 count=2 tag=Wedding key=20302991-Wedding- field=tooltipDescription item=ナメドの輝くプレゼント
+KO|결혼을 축하하는 마음을 가득 담아 나메드가 전하는 선물이다.
+EN|A gift from Named, filled with heartfelt congratulations on your marriage.
+
+###371 count=2 tag=Wedding key=20302993-Wedding- field=tooltipDescription item=ペリオン特製ソリッドインテリアボックス
+KO|페리온 결혼식장에서 부부에게 제공하는 인테리어 박스이다. 결혼식 소품으로 신혼집을 꾸며보자.
+EN|An interior box offered to couples at the Perion wedding hall. Decorate your new home with wedding accessories.
+
+###372 count=2 tag=Wedding key=20302997-Wedding- field=tooltipDescription item=ペリオン風の華やかな引き出物
+KO|결혼식을 함께한 분들께 감사한 마음을 담아 전하는 페리온풍 답례품이다.
+EN|A Perion-style return gift given with gratitude to everyone who joined the wedding.
+
+###373 count=2 tag=Wedding key=20302998-Wedding- field=tooltipDescription item=ペリオンラブデーインテリアボックス
+KO|페리온 결혼식장에서 하객들에게 제공하는 답례품으로, 지역 특색이 담긴 건설 자재가 포함되어 있다.
+EN|A return gift given to guests at the Perion wedding hall, containing locally-themed construction materials.
+
+###374 count=2 tag=Wedding key=20303001-Wedding- field=tooltipDescription item=クロリスのきらめくプレゼント
+KO|결혼을 축하하는 마음을 가득 담아 클로리스가 전하는 선물이다.
+EN|A gift from Cloris, giving all her heartfelt congratulations on your marriage.
+
+###375 count=2 tag=Wedding key=20303003-Wedding- field=tooltipDescription item=ルデリーグロッシーインテリアボックス
+KO|루델리 결혼식장에서 부부에게 제공하는 인테리어 박스이다. 결혼식 소품으로 신혼집을 꾸며보자.
+EN|An interior box from the Ludari wedding hall. Decorate your wedding home with these wedding props.
+
+###376 count=2 tag=Wedding key=20303007-Wedding- field=tooltipDescription item=スカイキャッスル風のきらめく引き出物
+KO|결혼식을 함께한 분들께 감사한 마음을 담아 전하는 스카이 캐슬풍 답례품이다.
+EN|A Sky Castle-style return gift offered in gratitude to those who shared the wedding ceremony.
+
+###377 count=2 tag=Wedding key=20303008-Wedding- field=tooltipDescription item=ルデリートゥインクルインテリアボックス
+KO|루델리 결혼식장에서 하객들에게 제공하는 답례품으로, 지역 특색이 담긴 건설 자재가 포함되어 있다.
+EN|A return gift provided to guests at the Ludari wedding hall, containing construction materials with local flavor.
+
+###378 count=2 tag=Wedding key=20303011-Wedding- field=tooltipDescription item=デイデイのきらめくプレゼント
+KO|결혼을 축하하는 마음을 가득 담아 데이데이가 전하는 선물이다.
+EN|A gift given by DayDay with a heart full of congratulations for the marriage.
+
+###379 count=2 tag=Wedding key=20303013-Wedding- field=tooltipDescription item=ラグジュアリーマリンインテリアボックス
+KO|럭셔리 크루즈에서 부부에게 제공하는 인테리어 박스이다. 결혼식 소품으로 신혼집을 꾸며보자.
+EN|An interior box provided to couples on the Luxury Cruise. Decorate your newlywed home with wedding props.
+
+###380 count=2 tag=Wedding key=20303017-Wedding- field=tooltipDescription item=ラグジュアリークルーズ風のきらめく引き出物
+KO|결혼식을 함께한 분들께 감사한 마음을 담아 전하는 럭셔리 크루즈풍 답례품이다.
+EN|A Luxury Cruise-style return gift offered in gratitude to those who shared the wedding ceremony.
+
+###381 count=2 tag=Wedding key=20303018-Wedding- field=tooltipDescription item=マリーナブルーインテリアボックス
+KO|럭셔리 크루즈에서 하객들에게 제공하는 답례품으로, 크루즈 소품 건설 자재가 포함되어 있다.
+EN|A return gift provided to guests on the Luxury Cruise, containing construction materials for cruise props.
+
+###382 count=1 tag=Wedding key=11320365-Wedding- field=tooltipDescription item=スペシャルウェディングラブリーハット(男)
+KO|반짝반짝 빛나는 사랑의 기운이 가득한 모자이다.
+EN|Hat filled with sparkling energy of love.
+
+###383 count=1 tag=Wedding key=11320366-Wedding- field=tooltipDescription item=スペシャルウェディングラブリーティアラ(女)
+KO|반짝반짝 빛나는 사랑의 기운이 가득한 티아라이다.
+EN|Hat filled with sparkling energy of love.
+
+###384 count=1 tag=Wedding key=11610042-Wedding- field=tooltipDescription item=スペシャルウェディングストーンリング(男)
+KO|심플하고 세련된 디자인의 실버링이다.
+EN|Silver ring with a simple and sophisticated design.
+
+###385 count=1 tag=Wedding key=11610043-Wedding- field=tooltipDescription item=スペシャルウェディングストーンブレスレット(女)
+KO|손목에서부터 이어지는 디자인이 아름다운 브레이슬릿이다.
+EN|Bracelet with a beautiful design.
+
+###386 count=1 tag=Wedding key=11710056-Wedding- field=tooltipDescription item=スペシャルウェディングテールローファー(男)
+KO|깔끔하고 세련된 디자인에 테슬 장식으로 포인트를 준 로퍼이다.
+EN|These loafers feature a neat and sophisticated design with a tassel.
+
+###387 count=1 tag=Wedding key=11710057-Wedding- field=tooltipDescription item=スペシャルウェディングクリスタルシューズ(女)
+KO|맑은 유리를 연상케하는 크리스탈 웨딩 슈즈이다.
+EN|These crystal wedding shoes are made of clear glass.
+
+###388 count=1 tag=Wedding key=12200725-Wedding- field=tooltipDescription item=スペシャルウェディングブートニアスーツ(男)
+KO|부토니에 장식으로 로맨틱함이 더해진 스페셜 웨딩 수트이다.
+EN|A special wedding suit made more romantic with a boutonniere.
+
+###389 count=1 tag=Wedding key=12200726-Wedding- field=tooltipDescription item=スペシャルウェディングシャインドレス(女)
+KO|순수하고 맑은 느낌의 사랑스러운 스페셜 웨딩드레스이다.
+EN|A special wedding dress that is lovely with a pure and clear feel.
+
+###390 count=1 tag=Wedding key=20001697-Wedding- field=tooltipDescription item=約束のモミジ
+KO|<font color='#00aaef'>약혼</font>을 하려면 필요한 아이템이다. 청혼을 할 사람과 받을 사람 모두 가지고 있어야 한다.
+EN|An item necessary for an <font color='#00aaef'>engagement</font> to occur. Both the proposer and the person getting proposed to must have it.
+
+###391 count=1 tag=Wedding key=20001697-Wedding- field=guideDescription item=約束のモミジ
+KO|<font color='#6e6e6e'>앞으로의 날들을 항상 함께 하고픈 두 사람의 소중한 약속을 담는 금빛 단풍잎이다. 나와 친구 관계인 캐릭터 모두가 가지고 있을 때, 청혼을 할 수 있다.\n청혼이 성공하면 약혼 관계가 되고, 약혼은 7일간 지속된다. 약혼 기간 안에 결혼식을 완료하면 부부가 될 수 있다. \n결혼을 하고 싶다면 $map:84000001$에 방문해 웨딩 플래너를 만나 결혼식장을 예약하자.</font>
+EN|<font color='#6e6e6e'>A golden maple leaf containing the precious promise of two people that want to spend the rest of their days together. The proposal can occur once both parties are friends and possess the item. If the proposal is successful, they become engaged, and the engagement lasts for 7 days. An engaged couple can be married if the wedding is completed within the engagement period. If you want to get married, visit $map:84000001$ and talk to a wedding planner to book a wedding venue.</font>
+
+###392 count=1 tag=Wedding key=20001701-Wedding- field=tooltipDescription item=アフターパーティーチケット：ピニャータ
+KO|결혼식장에서 신랑 또는 신부가 주례의 성혼 선언 이후부터 결혼식장 폐쇄 전까지 사용할 수 있는 애프터 파티 티켓이다. 사용 시 현재 채널의 현재 위치에 입장 포털이 생기고 포털을 통해 자유롭게 애프터 파티 맵에 입장할 수 있다. 아이템 하단에 작은 글씨로 `결혼 축하해요! 손님들과 함께 즐거운 파티를 즐겨보세요!'이라고 적혀있다. 애프터 파티를 진행한 후, 포털을 통해 결혼식장으로 돌아올 수 있다.
+EN|결혼식장에서 신랑 또는 신부가 주례의 성혼 선언 이후부터 결혼식장 폐쇄 전까지 사용할 수 있는 애프터 파티 티켓이다. 사용 시 현재 채널의 현재 위치에 입장 포털이 생기고 포털을 통해 자유롭게 애프터 파티 맵에 입장할 수 있다. 아이템 하단에 작은 글씨로 `결혼 축하해요! 손님들과 함께 즐거운 파티를 즐겨보세요!'이라고 적혀있다. 애프터 파티를 진행한 후, 포털을 통해 결혼식장으로 돌아올 수 있다.
+
+###393 count=1 tag=Wedding key=20001702-Wedding- field=tooltipDescription item=アフターパーティーチケット：ダンスダンスストップ
+KO|결혼식장에서 신랑 또는 신부가 주례의 성혼 선언 이후부터 결혼식장 폐쇄 전까지 사용할 수 있는 애프터 파티 티켓이다. 사용 시 현재 채널의 현재 위치에 입장 포털이 생기고 포털을 통해 자유롭게 애프터 파티 맵에 입장할 수 있다. 아이템 하단에 작은 글씨로 `결혼 축하해요! 손님들과 함께 댄스 파티를 즐겨보세요!'이라고 적혀있다. 애프터 파티를 진행한 후, 포털을 통해 결혼식장으로 돌아올 수 있다.
+EN|결혼식장에서 신랑 또는 신부가 주례의 성혼 선언 이후부터 결혼식장 폐쇄 전까지 사용할 수 있는 애프터 파티 티켓이다. 사용 시 현재 채널의 현재 위치에 입장 포털이 생기고 포털을 통해 자유롭게 애프터 파티 맵에 입장할 수 있다. 아이템 하단에 작은 글씨로 `결혼 축하해요! 손님들과 함께 댄스 파티를 즐겨보세요!'이라고 적혀있다. 애프터 파티를 진행한 후, 포털을 통해 결혼식장으로 돌아올 수 있다.
+
+###394 count=1 tag=Wedding key=20001703-Wedding- field=tooltipDescription item=祝福のお守り
+KO|<font color='#00aaef'>부부의 앞날을 축복하는 사랑스런 금빛 기운이 가득한 부적이다. 사용하면 부부의 친밀도를 올려 준다.</font>
+EN|<font color='#00aaef'>부부의 앞날을 축복하는 사랑스런 금빛 기운이 가득한 부적이다. 사용하면 부부의 친밀도를 올려 준다.</font>
+
+###395 count=1 tag=Wedding key=20001703-Wedding- field=guideDescription item=祝福のお守り
+KO|<font color='#6e6e6e'>소지품 창에서 아이템을 더블클릭하여 사용할 수 있다.\n한 번 사용하면 30일 후 다시 사용할 수 있다.</font>
+EN|<font color='#6e6e6e'>소지품 창에서 아이템을 더블클릭하여 사용할 수 있다.\n한 번 사용하면 30일 후 다시 사용할 수 있다.</font>
+
+###396 count=1 tag=Wedding key=20001708-Wedding- field=tooltipDescription item=オレンジブロッサム
+KO|오렌지 주스와 얼음을 넣어 만든 상큼한 칵테일이다.
+EN|A refreshing cocktail made with orange juice and ice.
+
+###397 count=1 tag=Wedding key=20001709-Wedding- field=tooltipDescription item=レインボーソーダポップ
+KO|푸른 바다와 석양을 떠올리게 하는 아름다운 빛깔의 음료이다.
+EN|It is a drink with a beautiful color that reminds you of the blue sea and sunset.
+
+###398 count=1 tag=Wedding key=20302957-Wedding- field=tooltipDescription item=ハウスウェディング予約プレゼント
+KO|하우스 웨딩 예약 시 획득할 수 있는 상자이다.
+EN|A box that can be obtained when you reserve a House Wedding.
+
+###399 count=1 tag=Wedding key=20302958-Wedding- field=tooltipDescription item=記念撮影チケット選択ボックス
+KO|다양한 배경에서 기념 촬영을 진행할 수 있는 티켓이 담긴 상자이다.
+EN|A box containing tickets that allow you to take commemorative photos against various backdrops.
+
+###400 count=1 tag=Wedding key=20302959-Wedding- field=tooltipDescription item=パーティーウェディング予約プレゼント
+KO|파티 웨딩 예약 시 획득할 수 있는 상자이다.
+EN|A box that can be obtained when you reserve a Party Wedding.
+
+###401 count=1 tag=Wedding key=20302960-Wedding- field=tooltipDescription item=アフターパーティーチケット選択ボックス
+KO|애프터 파티를 선택할 수 있는 티켓이 담긴 상자이다.
+EN|A box containing tickets that allow you to select an After Party.
+
+###402 count=1 tag=Wedding key=20302961-Wedding- field=tooltipDescription item=ラグジュアリーウェディング予約プレゼント
+KO|럭셔리 웨딩 예약 시 획득할 수 있는 상자이다.
+EN|A box that can be obtained when you reserve a Luxury Wedding.
+
+###403 count=1 tag=Wedding key=20302964-Wedding- field=tooltipDescription item=温かい夫婦の称号選択ボックス
+KO|따뜻한 부부의 칭호 중 1개를 선택해서 획득할 수 있는 상자이다.
+EN|A box from which you can select and obtain one of the Warm Couple titles.
+
+###404 count=1 tag=Wedding key=20302967-Wedding- field=tooltipDescription item=優しい夫婦の称号選択ボックス
+KO|다정한 부부의 칭호 중 1개를 선택해서 획득할 수 있는 상자이다.
+EN|A box from which you can select and obtain one of the Affectionate Couple titles.
+
+###405 count=1 tag=Wedding key=20302973-Wedding- field=tooltipDescription item=思いやりのある夫婦の称号選択ボックス
+KO|사려깊은 부부의 칭호 중 1개를 선택해서 획득할 수 있는 상자이다.
+EN|A box from which you can select and obtain one of the Considerate Couple titles.
+
+###406 count=1 tag=Wedding key=20302976-Wedding- field=tooltipDescription item=信頼される夫婦の称号選択ボックス
+KO|신뢰하는 부부의 칭호 중 1개를 선택해서 획득할 수 있는 상자이다.
+EN|A box that lets you select one of the Trusting Couple titles.
+
+###407 count=1 tag=Wedding key=20302982-Wedding- field=tooltipDescription item=陽射しあふれる夫婦の称号選択ボックス
+KO|햇살 가득 부부의 칭호 중 1개를 선택해서 획득할 수 있는 상자이다.
+EN|A box that lets you select one of the Sunny Couple titles.
+
+###408 count=1 tag=Wedding key=20302985-Wedding- field=tooltipDescription item=ほのかな月明かりの夫婦の称号選択ボックス
+KO|달빛 은은 부부의 칭호 중 1개를 선택해서 획득할 수 있는 상자이다.
+EN|A box that lets you select one of the Moonlit Couple titles.
+
+###409 count=1 tag=Wedding key=20302992-Wedding- field=tooltipDescription item=頼もしい夫婦の称号選択ボックス
+KO|강인한 부부의 칭호 중 1개를 선택해서 획득할 수 있는 상자이다.
+EN|A box that lets you choose one of the titles for a strong-willed couple.
+
+###410 count=1 tag=Wedding key=20302995-Wedding- field=tooltipDescription item=真剣な夫婦の称号選択ボックス
+KO|진중한 부부의 칭호 중 1개를 선택해서 획득할 수 있는 상자이다.
+EN|A box that lets you choose one of the titles for a serious couple.
+
+###411 count=1 tag=Wedding key=20303002-Wedding- field=tooltipDescription item=祝福された夫婦の称号選択ボックス
+KO|축복받은 부부의 칭호 중 1개를 선택해서 획득할 수 있는 상자이다.
+EN|A box that lets you choose one of the titles for a blessed couple.
+
+###412 count=1 tag=Wedding key=20303005-Wedding- field=tooltipDescription item=輝く夫婦の称号選択ボックス
+KO|빛나는 부부의 칭호 중 1개를 선택해서 획득할 수 있는 상자이다.
+EN|A box that lets you choose one of the titles for a shining couple.
+
+###413 count=1 tag=Wedding key=20303012-Wedding- field=tooltipDescription item=初々しい夫婦の称号選択ボックス
+KO|산뜻한 부부의 칭호 중 1개를 선택해서 획득할 수 있는 상자이다.
+EN|A box that lets you select and obtain one of the Refreshing Couple titles.
+
+###414 count=1 tag=Wedding key=20303015-Wedding- field=tooltipDescription item=華麗な夫婦の称号選択ボックス
+KO|화려한 부부의 칭호 중 1개를 선택해서 획득할 수 있는 상자이다.
+EN|A box that lets you select and obtain one of the Splendid Couple titles.
+
+###415 count=1 tag=Wedding key=20303110-Wedding- field=tooltipDescription item=恐怖のウェディングランダムボックス
+KO|웨딩 랜덤 캔디가 잔뜩 들어있는 상자로, 어떤 캔디를 얻게 될지는 아무도 모른다.
+EN|A box full of wedding random candies, and no one knows which candy you will get.
+
+###416 count=1 tag=Wedding key=20303165-Wedding- field=tooltipDescription item=夫婦召喚スクロール
+KO|신비한 능력을 가진 스크롤이다. 멀리 떨어져 있는 배우자를 소환할 수 있는 텔레포트 게이트를 열어준다.
+EN|A scroll with mysterious powers. It opens a teleport gate that can summon your faraway spouse.
+
+###417 count=1 tag=Wedding key=20303165-Wedding- field=guideDescription item=夫婦召喚スクロール
+KO|소지품 창에서 아이템을 더블클릭하면 접속 중인 배우자에게 소환 요청을 보낸다. 던전, 이벤트 맵, 집에선 사용이 불가능하다.
+EN|Double-click the item in your inventory to send a summon request to your online spouse. Cannot be used in dungeons, event maps, or homes.
+
+###418 count=1 tag=Wedding key=20303166-Wedding- field=tooltipDescription item=ハウスウェディング無料予約クーポン
+KO|쿠폰을 사용해 무료로 하우스 웨딩 등급의 결혼식장을 예약할 수 있다. 예약 변경 시에는 사용할 수 없다.
+EN|Use a coupon to reserve a House Wedding grade wedding hall for free. Cannot be used when changing a reservation.
+
+###419 count=1 tag=Wedding key=20303166-Wedding- field=guideDescription item=ハウスウェディング無料予約クーポン
+KO|$item:20303166$$pp:를,을$ 사용해 결혼식장을 예약하고 싶다면 소지품 창에 아이템을 보유한 상태로 $map:84000001$에 있는 웨딩 플래너 $npc:11004707$, $npc:11004708$, $npc:11004709$$pp:를,을$ 찾아가자. 결혼식장을 예약하려면 결혼 상대방과 같은 맵에 접속해 있어야 한다.\n\n<font color='#FFFFFF'>예약 가능 결혼식장\n- $map:84000011$\n- $map:84000012$</font>
+EN|Use $item:20303166$ to reserve a wedding hall, and visit the wedding planner $npc:11004707$, $npc:11004708$, $npc:11004709$ at $map:84000001$ while holding the item in your inventory. To reserve a wedding hall, you must be on the same map as your marriage partner.\n\n<font color='#FFFFFF'>Reservable Wedding Halls\n- $map:84000011$\n- $map:84000012$</font>
+
+###420 count=1 tag=Wedding key=20303167-Wedding- field=tooltipDescription item=パーティーウェディング無料予約クーポン
+KO|쿠폰을 사용해 무료로 파티 웨딩 등급의 결혼식장을 예약할 수 있다. 예약 변경 시에는 사용할 수 없다.
+EN|Use a coupon to reserve a Party Wedding grade wedding hall for free. Cannot be used when changing a reservation.
+
+###421 count=1 tag=Wedding key=20303167-Wedding- field=guideDescription item=パーティーウェディング無料予約クーポン
+KO|$item:20303167$$pp:를,을$ 사용해 결혼식장을 예약하고 싶다면 소지품 창에 아이템을 보유한 상태로 $map:84000001$에 있는 웨딩 플래너 $npc:11004708$, $npc:11004709$$pp:를,을$ 찾아가자. 결혼식장을 예약하려면 결혼 상대방과 같은 맵에 접속해 있어야 한다.\n\n<font color='#FFFFFF'>예약 가능 결혼식장\n- $map:84000013$\n- $map:84000014$</font>
+EN|If you want to use $item:20303167$ to reserve a wedding hall, go to the Wedding Planner $npc:11004708$, $npc:11004709$ at $map:84000001$ while holding the item in your inventory. You must be connected to the same map as your spouse-to-be to reserve a wedding hall.\n\n<font color='#FFFFFF'>Wedding halls available for reservation\n- $map:84000013$\n- $map:84000014$</font>
+
+###422 count=1 tag=Wedding key=20303168-Wedding- field=tooltipDescription item=ラグジュアリーウェディング無料予約クーポン
+KO|쿠폰을 사용해 무료로 럭셔리 웨딩 등급의 결혼식장을 예약할 수 있다. 예약 변경 시에는 사용할 수 없다.
+EN|Use a coupon to reserve a Luxury Wedding tier wedding venue for free. Cannot be used when changing a reservation.
+
+###423 count=1 tag=Wedding key=20303168-Wedding- field=guideDescription item=ラグジュアリーウェディング無料予約クーポン
+KO|$item:20303168$$pp:를,을$ 사용해 결혼식장을 예약하고 싶다면 소지품 창에 아이템을 보유한 상태로 $map:84000001$에 있는 웨딩 플래너 $npc:11004709$$pp:를,을$ 찾아가자. 결혼식장을 예약하려면 결혼 상대방과 같은 맵에 접속해 있어야 한다.\n\n<font color='#FFFFFF'>예약 가능 결혼식장\n- $map:84000015$\n- $map:84000016$</font>
+EN|If you want to use $item:20303168$ to reserve a wedding hall, go to the Wedding Planner $npc:11004709$ at $map:84000001$ while holding the item in your inventory. You must be connected to the same map as your spouse-to-be to reserve a wedding hall.\n\n<font color='#FFFFFF'>Wedding halls available for reservation\n- $map:84000015$\n- $map:84000016$</font>
+
+###424 count=1 tag=Wedding key=20303170-Wedding- field=tooltipDescription item=夫婦ミッションクリアボックス
+KO|부부가 함께 미션을 클리어하면 획득할 수 있는 상자이다.
+EN|A box that can be obtained when a married couple clears missions together.
+
+###425 count=1 tag=Wedding key=20800040-Wedding- field=tooltipDescription item=スペシャルワールドチャット：ウェディング
+KO|결혼식을 예약한 후 사용할 수 있는 스페셜 월드 대화 쿠폰이다. 쿠폰을 사용해 채팅을 하면 내 결혼식 일정을 특별한 컬러의 배경과 깜찍한 아이콘으로 장식한 스페셜 월드 대화로 보내 알릴 수 있다. 결혼식 입장 가능 시간에 내가 보낸 스페셜 월드 대화를 클릭하면 결혼식에 입장할 수 있다. 단, 결혼식장 입장 최대 인원이 초과된 경우 입장할 수 없으며 결혼식의 신랑, 신부는 이 월드 대화를 클릭해서는 결혼식장에 입장할 수 없다. 
+EN|A special World Chat Coupon you can use after reserving a wedding. Use the coupon to chat and send a special World Chat announcing your wedding schedule decorated with a special colored background and adorable icons. If a player clicks your special World Chat during the wedding entry time, they can enter the wedding. That said, if the wedding hall is at maximum capacity they cannot enter, and the wedding's groom and bride cannot enter the wedding venue by clicking this World Chat. 
+
+###426 count=2 tag=WorldChampionMushroom key=20301926-WorldChampionMushroom- field=tooltipDescription item=感じぷんぷん称号ボックス
+KO|특별한 칭호들 중 하나를 획득할 수 있는 상자이다.
+EN|A box that gives you a random title from a selection of themed titles.
+
+###427 count=1 tag=WorldChampionMushroom key=20000973-WorldChampionMushroom- field=tooltipDescription item=?
+KO|쫄깃하고 긴 면의 식감이 일품인 장수면이다. 먹으면 <font color='#00aaef'>HP를 즉시 50% 회복</font>할 수 있다. 한 번 먹으면 배가 불러 5초 후 다시 먹을 수 있다.
+EN|(なし)
+
+###428 count=1 tag=WorldChampionMushroom key=20000974-WorldChampionMushroom- field=tooltipDescription item=?
+KO|부드러운 빵과 달콤한 크림이 어우러진 훌륭한 케이크이다. 모쿰들에 의하면 머쉬킹이 메이플스토리2 1주년을 기뻐하며 직접 만들었다고 한다.
+EN|(なし)
+
+###429 count=1 tag=WorldChampionMushroom key=20000975-WorldChampionMushroom- field=tooltipDescription item=?
+KO|탐스러운 복숭아를 쏙 빼닮은 빵이다. 먹으면 <font color='#00aaef'>HP를 즉시 25% 회복</font>할 수 있다. 한 번 먹으면 배가 불러 5초 후 다시 마실 수 있다.
+EN|(なし)
+
+###430 count=1 tag=WorldChampionMushroom key=20001033-WorldChampionMushroom- field=tooltipDescription item=マッシュキング印の毒キノコ
+KO|머쉬킹이 키우는 독버섯이다. 예쁜 색을 지녔지만, 어딘가 위험해 보인다. 능력치에 영향을 줄 것 같지는 않다.
+EN|A poisonous mushroom grown by Mushking. It has a pretty color, but it looks dangerous somehow. It doesn't seem to affect any of your stats.
+
+###431 count=1 tag=WorldChampionMushroom key=20001033-WorldChampionMushroom- field=guideDescription item=マッシュキング印の毒キノコ
+KO|더블클릭하여 사용 시 어지러움증과 함께 잠시 몸을 움직일 수 없다.
+EN|When used with a double-click, you become dizzy and can't move your body for a while.
+
+###432 count=1 tag=WorldChampionMushroom key=20301927-WorldChampionMushroom- field=tooltipDescription item=マッシュキングの1周年ケーキボックス
+KO|머쉬킹의 1주년 케이크 상자이다. 내용물은 모쿰이 다 먹은 것 같다. 비록 케이크는 사라졌지만, 남아있던 예쁜 상자에 머쉬킹이 소지품을 보관한 흔적이 보인다.
+EN|A Mushking 1st anniversary cake box. It looks like Mocum ate everything inside. Though the cake is gone, traces of Mushking stashing his belongings in the pretty box that remained can be seen.
+
+###433 count=1 tag=WorldChampionMushroom key=20301928-WorldChampionMushroom- field=tooltipDescription item=マッシュキングの1周年ケーキボックスの欠片
+KO|머쉬킹의 1주년 케이크 상자의 일부이다.
+EN|A part of Mushking's 1st anniversary cake box.
+
+###434 count=1 tag=WorldChampionMushroom key=20301928-WorldChampionMushroom- field=guideDescription item=マッシュキングの1周年ケーキボックスの欠片
+KO|소지품 창에서 더블클릭하여 사용할 수 있다. 5개를 소모해 '머쉬킹의 1주년 케이크 상자' 1개를 획득할 수 있다.
+EN|Can be used by double-clicking it in your Inventory window. Consume 5 to obtain 1 'Mushking 1st anniversary cake box'.
+
+###435 count=1 tag=WorldChampionMushroom key=50200897-WorldChampionMushroom- field=tooltipDescription item=キノコ島の青い木
+KO|버섯 섬에서 서식하는 작고 푸른 나무이다.
+EN|A small blue tree that grows on Mushroom Island.
+
+###436 count=1 tag=WorldChampionMushroom key=50200898-WorldChampionMushroom- field=tooltipDescription item=苔キノコの草
+KO|이끼 버섯이 자라고 있는 풀포기로 버섯 섬에서 채취했다.
+EN|A fresh moss mushroom tuft harvested from Mushroom Island.
+
+###437 count=1 tag=WorldChampionMushroom key=50200899-WorldChampionMushroom- field=tooltipDescription item=キノコ島監視小屋
+KO|버섯 섬에서 감시 초소로 사용하는 작은 버섯집이다.
+EN|A small mushroom house used as a look-out post on Mushroom Island.
+
+###438 count=1 tag=WorldChampionMushroom key=50600239-WorldChampionMushroom- field=tooltipDescription item=マッシュキングの黄金駕籠
+KO|머쉬킹이 항상 타고 다니는 황금 가마와 똑같은 디자인의 가마이다.
+EN|A palanquin with the exact same design as the golden palanquin Mushking always rides.
+

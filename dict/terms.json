@@ -148,7 +148,14 @@
     "Legion War": {"ja": "軍団戦", "ko": "군단전"},
     "Flower Pot": {"ja": "鉢植え", "ko": "화분"},
     "Vase": {"ja": "花瓶", "ko": "화병"},
-    "Candlestick": {"ja": "燭台", "ko": "촛대"}
+    "Candlestick": {"ja": "燭台", "ko": "촛대"},
+    "Beginner (job)": {"ja": "ビギナー", "ko": "초보자"},
+    "Weekly mission": {"ja": "[ウィークリー]任務", "ko": "주간 임무", "note": "일일 임무=デイリー任務(既訳)"},
+    "Return gift (wedding)": {"ja": "引き出物", "ko": "답례품"},
+    "Wedding guest": {"ja": "招待客", "ko": "하객"},
+    "Inventory": {"ja": "インベントリ", "ko": "소지품 창"},
+    "Combat power": {"ja": "戦闘力", "ko": "전투력"},
+    "Battleground and arena": {"ja": "戦場および闘技場", "ko": "전장 및 투기장", "note": "定型文「戦場および闘技場では効果が適用されない。」"}
   },
 
   "wedding": {

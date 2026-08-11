@@ -13,7 +13,10 @@ work/
 │   ├── apply_freq3.py     # 定型文76種の適用(1,287文字列)
 │   ├── clusters2.txt      # バッチ2のクラスタ抽出(@@TAG ↔ KO原文)
 │   ├── crafted2_ja.json   # バッチ2の手作り訳(SCROLL/QBR/PROC/PETKO)
-│   └── apply_batch2.py    # バッチ2適用(TM+ルール生成+手作り、725文字列)
+│   ├── apply_batch2.py    # バッチ2適用(TM+ルール生成+手作り、725文字列)
+│   ├── tail.txt           # 一点物438種の抽出(###n ↔ KO原文)
+│   ├── tail_ja.json       # ###n → JA訳マップ(528文字列)
+│   └── apply_tail.py      # 一点物の適用 → これで翻訳可能分は完訳
 └── itemname/           # 2026-08 アイテム名翻訳セッションの成果物
     ├── auto_map.json   # ルールベース翻訳の結果 (EN→JA 1,062種)
     ├── manual_en.json  # 手動翻訳マップ EN→JA (exact + gendered)
