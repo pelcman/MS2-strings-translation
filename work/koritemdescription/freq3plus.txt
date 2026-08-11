@@ -1,0 +1,304 @@
+###1 count=136 key=11301349-Level70Item- field=guideDescription item=タイレンロイヤルサークレット(ナイト)
+KO|\n<font color='#7A7A7A'>타이렌 왕국 직계 왕족에게만 지급되는 왕실 장비. 인공지능체 제시카가 왕실을 위해 개발했다. 전장에는 기계 병사와 정규군이 출정하고 있지만, 전선을 방문하는 왕족들을 위해 제작되었다. 왕실의례나 열병식과 같은 의전용으로도 사용되고 있다. 의전용이라는 말이 무색하게, 고도의 기술력을 집약하여 강력한 성능을 자랑한다. 여기에는 제시카가 왕실이 가진 박탈감을 보상해주려는 의도가 포함되어 있다. 외형 역시, 왕실의 위엄을 한껏 높이기 위해 화려하고 위엄있게 디자인되었다.</font>
+EN|\n<font color='#7A7A7A'>This accessory is granted only to the direct royal line of Tairen. It's mostly used for ceremonial purposes, but the technology integrated within is cutting edge—perhaps a direct gift from its designer, the AI Jessica, to the royals. It is as majestic as is fitting for its intended wearer.</font>
+
+###2 count=132 key=11301283-Level70Item- field=guideDescription item=アンティークアリゴンサークレット(ナイト)
+KO|<font color='#7A7A7A'>루미에라곤의 비늘로 제작된 장비. 미지의 대륙 크리티아스. '이곳에 왜 메이플 월드의 용족이 존재하는가'는 밝혀진 바 없다. 현재까지 루미에라곤을 본 크리티아스인은 단 한 명도 없다고 전해진다. 루미에라곤의 비늘답게 날카로운 공격력과 질긴 방어력을 자랑한다.</font>
+EN|<font color='#7A7A7A'>Gear made from lumarigon scales. It's unclear how such an item came to Kritias, where there's no record of lumarigon activity, but its offensive and defensive capabilities are without question.</font>
+
+###3 count=132 key=11301294-Level70Item- field=guideDescription item=タイレンコンバットサークレット(ナイト)
+KO|<font color='#7A7A7A'>타이렌 왕국 병사를 위한 차세대 전투 장비. 인공지능체 제시카가 게오르크와의 전투에서 승리하기 위해 개발했다. 프로토타입 테스트 중, 일부가 정체불명의 조직에게 탈취당했다고 전해진다. 공격력과 방어력을 균형 있게 갖추고 있으며, 에네르의 효율성을 높인 고성능 장비이다.</font>
+EN|<font color='#7A7A7A'>Next-generation combat gear for the soldiers of Tairen. Jessica designed it specifically to defeat Humanitas. Stolen during the prototyping phase, this item has a balance of offense and defense.</font>
+
+###4 count=123 key=11301316-Level70Item- field=guideDescription item=タイレンオフィサーサークレット(ナイト)
+KO|\n<font color='#7A7A7A'>타이렌 왕국 지휘관을 위한 차세대 전투 장비. 인공지능체 제시카가 게오르크와의 전투에서 승리하기 위해 개발했다. 프로토타입 테스트 중, 일부가 정체불명의 조직에게 탈취당했다고 전해진다. 무기와 방어구 간 에네르 효율을 극대화한, 초고성능 장비이다. 병사용 워리어 세트보다 한층 강력한 공격력과 방어력을 자랑한다.</font>
+EN|<font color='#7A7A7A'>Next-generation combat gear for the officers of Tairen. Jessica designed it specifically to defeat Humanitas. With boosted aetherine efficiency, this item has formidable offense and defense.</font>
+
+###5 count=123 key=11301327-Level70Item- field=guideDescription item=アンティークインフェルヌークヘルメット(ナイト)
+KO|\n<font color='#7A7A7A'>인페르녹을 형상화한 장비. 장비에 적용된 기술은 고대 크리티아스의 문명이다. 미지의 대륙 크리티아스. '이곳에 왜 인페르녹을 형상화한 장비가 존재하는가'는 밝혀진 바 없다. 고대인들이 인페르녹을 숭상했거나, 악의 존재를 후대에 전하기 위한 것이라는 가설이 있을 뿐…. 고대 크리티아스 문명의 집약된 장비로 강력하고 묵직한 힘을 발휘한다.</font>
+EN|\n<font color='#7A7A7A'>Gear from ancient Kritias. The design seems to imply that the ancients either revered Infernog... or were trying to warn future generations of the danger he represents. In either case, the power imbued within is formidable.</font>
+
+###6 count=110 key=11301349-Level70Item- field=tooltipDescription item=タイレンロイヤルサークレット(ナイト)
+KO|<font color='#ff8ae5' size='14'>[연속 포격]\n타이렌 로열 무기로 타격 시 60초 마다 게오르크 군이 주변 적에게 1425% 대미지의 포격을 6회 입힌다. 포격을 지원 받는 동안 명중이 8 증가한다. 전장 및 투기장에서는 효과가 적용되지 않는다.
+EN|<font color='#ff8ae5' size='14'>Continuous Bombardment</font>\nUpon attacking with a Tairen Royal weapon, Humanitas forces bombard nearby enemies, dealing <font color='#ff8ae5'>1,425%</font> damage <font color='#ff8ae5'>6</font> times for <font color='#ff8ae5'>60</font> sec. Increases accuracy by <font color='#ff8ae5'>8</font> while receiving bombardment support. The effect can't be triggered in battlegrounds or arenas.
+
+###7 count=37 key=20001013-WorldChampionMushroom- field=tooltipDescription item=称号：キラキラ光る
+KO|칭호 상자에서 획득할 수 있는 특별한 칭호이다.
+EN|A special title that can be obtained from a title box.
+
+###8 count=19 key=20303090-Level70Item- field=guideDescription item=ファイアプリズム武器ボックス
+KO|소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다.
+EN|Double-click the item in your inventory to get what's inside.
+
+###9 count=14 key=15000313-Level70Item- field=tooltipDescription item=タイレンロイヤルラージソード
+KO|<font color='#ff8ae5' size='14'>[포격 지원]\n타격 시 5초 마다 게오르크 군이 주변 적에게 685% 대미지의 포격을 입힌다. 전장 및 투기장에서는 효과가 적용되지 않는다.
+EN|<font color='#ff8ae5' size='14'>Bombardment Support</font>\nHumanitas forces bombards nearby enemies on hit, dealing <font color='#ff8ae5'>685%</font> damage every <font color='#ff8ae5'>5</font> sec. The effect can't be triggered in battlegrounds or arenas.
+
+###10 count=13 key=20302969-Wedding- field=guideDescription item=トライアウェディングデーインテリアボックス
+KO|소지품 창에서 아이템을 더블클릭하면 구성품 중 1개를 랜덤으로 획득할 수 있다.
+EN|Double-click the item in your inventory to randomly obtain one of its components.
+
+###11 count=11 key=13140150-DungeonOpenCN1704- field=guideDescription item=単分子カッター - ビヨンドナイフ
+KO|\n<font color='#7A7A7A'>在邪豹的指挥下，在超链接中制作而成的黑暗军团制式武器。起初是专为大规模入侵冒险岛世界而特制的黑暗武器，但自从被冒险岛联盟回收后，进行了反向设计，被改造成可以对黑暗军团造成致命伤害的武器。</font>
+EN|(なし)
+
+###12 count=11 key=20302286-Level70Item- field=tooltipDescription item=アンティークアリゴン服選択ボックス(上下)
+KO|자신의 직업에 맞는 상의,하의 중 원하는 부위를 선택할 수 있는 상자이다.
+EN|A box containing the top/bottoms piece of your choice.
+
+###13 count=10 key=11200094-Level70Item- field=guideDescription item=タイレンレンシャイヤリング
+KO|\n<font color='#7A7A7A'>타이렌 왕국 부유층이 사용하는 장신구. 절제된 세련미를 자랑하는 장신구는 착용자의 능력을 크게 향상시켜준다. 일부가 타이렌 왕국에서 밀수품으로 흘러나와 게오르크에 입수되고 있다.</font>
+EN|\n<font color='#7A7A7A'>An accessory worn by the nobility of Tairen. It greatly enhances the abilities of its wearer. This was smuggled out of Tairen and acquired by members of Humanitas through illicit means.</font>
+
+###14 count=10 key=11200095-Level70Item- field=guideDescription item=ヒューマニタスフィールドイヤリング
+KO|\n<font color='#7A7A7A'>타이렌 왕국 장신구를 게오르크가 개량한 버전. 장신구의 성능에 주목한 게오르크는 곧바로 군용으로 개량했다. 세련된 디자인을 버리고 에네르 출력을 높여 성능이 대폭 향상되었다.</font>
+EN|\n<font color='#7A7A7A'>This Tairen accessory was acquired by Humanitas and modified for military use. More sophisticated features were cut in favor of increased aetherine output.</font>
+
+###15 count=10 key=11200096-Level70Item- field=guideDescription item=タイレンロイヤルイヤリング
+KO|\n<font color='#7A7A7A'>타이렌 왕국 직계 왕족에게만 지급되는 왕실 장신구. 인공지능체 제시카가 왕실을 위해 개발했다. 왕실의례나 열병식과 같은 의전용으로 주로 사용되고 있다. 의전용이라는 말이 무색하게, 고도의 기술력을 집약하여 강력한 성능을 자랑한다. 여기에는 제시카가 왕실이 가진 박탈감을 보상해주려는 의도가 포함되어 있다. 외형 역시, 왕실의 위엄을 한껏 높이기 위해 화려하고 위엄있게 디자인되었다.</font>
+EN|\n<font color='#7A7A7A'>This accessory is granted only to the direct royal line of Tairen. It's mostly used for ceremonial purposes, but the technology integrated within is cutting edge—perhaps a direct gift from its designer, the AI Jessica, to the royals. It is as majestic as is fitting for its intended wearer.</font>
+
+###16 count=10 key=11301316-Level70Item- field=tooltipDescription item=タイレンオフィサーサークレット(ナイト)
+KO|<font color='#ff8ae5' size='14'>[에네르 부스트]\n'타이렌 커맨더 컴뱃 롱소드'의 발동효과를 2배 강화한다. 이 무기에는 '서먼 소드'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Boost</font>\nDoubles the potency of Tairen Officer Longsword's special effect. This item contains the power of Summon Sword.</font>
+
+###17 count=10 key=11301317-Level70Item- field=tooltipDescription item=タイレンオフィサーサークレット(バーサーカー)
+KO|<font color='#ff8ae5' size='14'>[에네르 부스트]\n'타이렌 커맨더 컴뱃 라지소드'의 발동효과를 2배 강화한다. 이 무기에는 '절단'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Boost</font>\nDoubles the potency of Tairen Officer Greatsword's special effect. This item contains the power of Sever.</font>
+
+###18 count=10 key=11301318-Level70Item- field=tooltipDescription item=タイレンオフィサーサークレット(ウィザード)
+KO|<font color='#ff8ae5' size='14'>[에네르 부스트]\n'타이렌 커맨더 컴뱃 스태프'의 발동효과를 2배 강화한다. 이 무기에는 '허리케인 경보'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Boost</font>\nDoubles the potency of Tairen Officer Staff's special effect. This item contains the power of Hurricane Warning.</font>
+
+###19 count=10 key=11301319-Level70Item- field=tooltipDescription item=タイレンオフィサーサークレット(プリースト)
+KO|<font color='#ff8ae5' size='14'>[에네르 부스트]\n'타이렌 커맨더 컴뱃 홀'의 발동효과를 2배 강화한다. 이 무기에는 '홀리 익스텐션'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Boost</font>\nDoubles the potency of Tairen Officer Scepter's special effect. This item contains the power of Holy Extension.</font>
+
+###20 count=10 key=11301320-Level70Item- field=tooltipDescription item=タイレンオフィサーサークレット(レンジャー)
+KO|<font color='#ff8ae5' size='14'>[에네르 부스트]\n'타이렌 커맨더 컴뱃 보우'의 발동효과를 2배 강화한다. 이 무기에는 '피닉스 스트라이크 샷'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Boost</font>\nDoubles the potency of Tairen Officer Bow's special effect. This item contains the power of Phoenix Strike Shot.</font>
+
+###21 count=10 key=11301321-Level70Item- field=tooltipDescription item=タイレンオフィサーサークレット(ヘビーガンナー)
+KO|<font color='#ff8ae5' size='14'>[에네르 부스트]\n'타이렌 커맨더 컴뱃 캐논'의 발동효과를 2배 강화한다. 이 무기에는 '부비 트랩 MK2'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Boost</font>\nDoubles the potency of Tairen Officer Cannon's special effect. This item contains the power of Booby Trap MK2.</font>
+
+###22 count=10 key=11301322-Level70Item- field=tooltipDescription item=タイレンオフィサーサークレット(シーフ)
+KO|<font color='#ff8ae5' size='14'>[에네르 부스트]\n'타이렌 커맨더 컴뱃 나이프'의 발동효과를 2배 강화한다. 이 무기에는 '포이즌 플랜'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Boost</font>\nDoubles the potency of Tairen Officer Knife's special effect. This item contains the power of Poison Plan.</font>
+
+###23 count=10 key=11301323-Level70Item- field=tooltipDescription item=タイレンオフィサーサークレット(アサシン)
+KO|<font color='#ff8ae5' size='14'>[에네르 부스트]\n'타이렌 커맨더 컴뱃 스파이크'의 발동효과를 2배 강화한다. 이 무기에는 '비기 : 파괴'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Boost</font>\nDoubles the potency of Tairen Officer Star's special effect. This item contains the power of Secret Art: Destruction.</font>
+
+###24 count=10 key=11301324-Level70Item- field=tooltipDescription item=タイレンオフィサーサークレット(ルーンブレイダー)
+KO|<font color='#ff8ae5' size='14'>[에네르 부스트]\n'타이렌 커맨더 컴뱃 블레이드'의 발동효과를 2배 강화한다. 이 무기에는 '루나틱 플래쉬'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Boost</font>\nDoubles the potency of Tairen Officer Blade's special effect. This item contains the power of Lunatic Flash.</font>
+
+###25 count=10 key=11301325-Level70Item- field=tooltipDescription item=タイレンオフィサーサークレット(ストライカー)
+KO|<font color='#ff8ae5' size='14'>[에네르 부스트]\n'타이렌 커맨더 컴뱃 너클'의 발동효과를 2배 강화한다. 이 무기에는 '얼티밋 러쉬'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Boost</font>\nDoubles the potency of Tairen Officer Knuckles's special effect. This item contains the power of Ultimate Rush.</font>
+
+###26 count=10 key=11301326-Level70Item- field=tooltipDescription item=タイレンオフィサーサークレット(ソウルバインダー)
+KO|<font color='#ff8ae5' size='14'>[에네르 부스트]\n'타이렌 커맨더 컴뱃 스피릿'의 발동효과를 2배 강화한다. 이 무기에는 '힘의 해방'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Boost</font>\nDoubles the potency of Tairen Officer Spirit's special effect. This item contains the power of Power Liberation.</font>
+
+###27 count=10 key=11301327-Level70Item- field=tooltipDescription item=アンティークインフェルヌークヘルメット(ナイト)
+KO|<font color='#ff8ae5' size='14'>[고대의 힘 강화]\n'안티크 인페누크 롱소드'의 발동효과를 2배 강화한다. 이 무기에는 '공격 태세 돌파'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Infusion</font>\nDoubles the potency of Antique Infernuke Longsword's special effect. This item contains the power of Breaking Charge.</font>
+
+###28 count=10 key=11301328-Level70Item- field=tooltipDescription item=アンティークインフェルヌークヘルメット(バーサーカー)
+KO|<font color='#ff8ae5' size='14'>[고대의 힘 강화]\n'안티크 인페누크 라지소드'의 발동효과를 2배 강화한다. 이 무기에는 '더스크 폴'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Infusion</font>\nDoubles the potency of Antique Infernuke Greatsword's special effect. This item contains the power of Dusk Fall.</font>
+
+###29 count=10 key=11301329-Level70Item- field=tooltipDescription item=アンティークインフェルヌークヘルメット(ウィザード)
+KO|<font color='#ff8ae5' size='14'>[고대의 힘 강화]\n'안티크 인페누크 스태프'의 발동효과를 2배 강화한다. 이 무기에는 '와일드 파이어'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Infusion</font>\nDoubles the potency of Antique Infernuke Staff's special effect. This item contains the power of Wild Fire.</font>
+
+###30 count=10 key=11301330-Level70Item- field=tooltipDescription item=アンティークインフェルヌークヘルメット(プリースト)
+KO|<font color='#ff8ae5' size='14'>[고대의 힘 강화]\n'안티크 인페누크 액스'의 발동효과를 2배 강화한다. 이 무기에는 '신성한 힘'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Infusion</font>\nDoubles the potency of Antique Infernuke Axe's special effect. This item contains the power of Holy Power.</font>
+
+###31 count=10 key=11301331-Level70Item- field=tooltipDescription item=アンティークインフェルヌークヘルメット(レンジャー)
+KO|<font color='#ff8ae5' size='14'>[고대의 힘 강화]\n'안티크 인페누크 보우'의 발동효과를 2배 강화한다. 이 무기에는 '이글 스쿼드'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Infusion</font>\nDoubles the potency of Antique Infernuke Bow's special effect. This item contains the power of Eagle Squad.</font>
+
+###32 count=10 key=11301332-Level70Item- field=tooltipDescription item=アンティークインフェルヌークヘルメット(ヘビーガンナー)
+KO|<font color='#ff8ae5' size='14'>[고대의 힘 강화]\n'안티크 인페누크 캐논'의 발동효과를 2배 강화한다. 이 무기에는 '메슬라 코일'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Infusion</font>\nDoubles the potency of Antique Infernuke Cannon's special effect. This item contains the power of Mesla Coil.</font>
+
+###33 count=10 key=11301333-Level70Item- field=tooltipDescription item=アンティークインフェルヌークヘルメット(シーフ)
+KO|<font color='#ff8ae5' size='14'>[고대의 힘 강화]\n'안티크 인페누크 나이프'의 발동효과를 2배 강화한다. 이 무기에는 '임기응변'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Infusion</font>\nDoubles the potency of Antique Infernuke Knife's special effect. This item contains the power of Extemporaneous.</font>
+
+###34 count=10 key=11301334-Level70Item- field=tooltipDescription item=アンティークインフェルヌークヘルメット(アサシン)
+KO|<font color='#ff8ae5' size='14'>[고대의 힘 강화]\n'안티크 인페누크 스파이크'의 발동효과를 2배 강화한다. 이 무기에는 '비술 : 붕괴'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Infusion</font>\nDoubles the potency of Antique Infernuke Star's special effect. This item contains the power of Secret Art: Collapse.</font>
+
+###35 count=10 key=11301335-Level70Item- field=tooltipDescription item=アンティークインフェルヌークヘルメット(ルーンブレイダー)
+KO|<font color='#ff8ae5' size='14'>[고대의 힘 강화]\n'안티크 인페누크 블레이드'의 발동효과를 2배 강화한다. 이 무기에는 '게이트 오브 블레이드'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Infusion</font>\nDoubles the potency of Antique Infernuke Blade's special effect. This item contains the power of Gate of Blade.</font>
+
+###36 count=10 key=11301336-Level70Item- field=tooltipDescription item=アンティークインフェルヌークヘルメット(ストライカー)
+KO|<font color='#ff8ae5' size='14'>[고대의 힘 강화]\n'안티크 인페누크 너클'의 발동효과를 2배 강화한다. 이 무기에는 '얼티밋 디스트로이 킥'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Infusion</font>\nDoubles the potency of Antique Infernuke Knuckles's special effect. This item contains the power of Ultimate Destroyer Kick.</font>
+
+###37 count=10 key=11301337-Level70Item- field=tooltipDescription item=アンティークインフェルヌークヘルメット(ソウルバインダー)
+KO|<font color='#ff8ae5' size='14'>[고대의 힘 강화]\n'안티크 인페누크 스피릿'의 발동효과를 2배 강화한다. 이 무기에는 '완벽한 선율'에 관한 힘이 담겨있다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Infusion</font>\nDoubles the potency of Antique Infernuke Spirit's special effect. This item contains the power of Perfect Melody.</font>
+
+###38 count=10 key=20000650-Develop- field=tooltipDescription item=(テスト) 一気にドーピングOK 01
+KO|<font color='#00aaef'>现在整合了特制战士药水，特制体力药水、攻击力提升效果、防御里提升效果、辅助魔法、进阶、公会增益、宠物、房屋增益效果、管家料理增益等所有效果。死亡后效果不会消失。注意不要和其他增益叠加使用。为了体现战斗刺激感，没有整合角色技能增益。</font>
+EN|(なし)
+
+###39 count=10 key=20001736-Wedding- field=tooltipDescription item=恐怖のウェディングキャンディー
+KO|피냐타 피로연장에서 먹을 수 있는 랜덤 캔디이다. 먹으면 무슨 일이 일어날지는 아무도 모른다.
+EN|It's a candy you can eat at the piñata party. No one knows what will happen if you eat it.
+
+###40 count=10 key=31002017-Level70Item- field=tooltipDescription item=エクセレントマントオプション数値変更券(LV70)
+KO|아이템의 성능을 새롭게 바꿔주는 옵션 변경권이다.
+EN|A voucher used to alter item attributes.
+
+###41 count=9 key=13240146-DungeonOpenCN1704- field=tooltipDescription item=キネティックスライサー – ビヨンドロングソード
+KO|<font color='#ff8ae5' size='14'>[反向设计的粒子武器]\n为强化黑暗军团而制造出来的粒子如今已被冒险岛联盟攻克。装备该武器期间，在（混沌）影子军团祭坛中战斗力提高440。\n
+EN|(なし)
+
+###42 count=8 key=20302288-Level70Item- field=tooltipDescription item=アンティークアリゴン帽子ボックス
+KO|자신의 직업에 맞는 모자가 들어있는 상자이다.
+EN|A box containing headgear for your job.
+
+###43 count=8 key=20302290-Level70Item- field=tooltipDescription item=アンティークアリゴングローブボックス
+KO|자신의 직업에 맞는 장갑이 들어있는 상자이다.
+EN|A box containing gloves for your job.
+
+###44 count=8 key=20302292-Level70Item- field=tooltipDescription item=アンティークアリゴン靴ボックス
+KO|자신의 직업에 맞는 신발이 들어있는 상자이다.
+EN|A box containing shoes for your job.
+
+###45 count=7 key=63100003-Develop- field=tooltipDescription item=マトス捕獲カプセルB1
+KO|马托斯公司开发的可以捕捉怪物的捕捉胶囊。仅对“温顺的怪物”有效。配方已公开，只要稍微熟练的人都可以轻松自制。但材料中不含信息，而是通过通讯芯片传输信息，所以没人知道具体的运作原理。有传闻说，魔法密林的某个好奇份子为了搞清楚运作原理，曾试图进入胶囊，但由于无法成为“温顺的怪物”，最后还是失败了。
+EN|(なし)
+
+###46 count=6 key=40100055-UnlimitedEnchant- field=tooltipDescription item=プリズムの欠片
+KO|시공의 균열 너머 환영의 공간에서 발견되는 신기한 결정. 메이플 월드에 처음 등장한 물질로, 균열의 힘이 깃들어있어 강력한 에너지를 가지고 있다. 환영의 던전에서 얻는 파이어 프리즘 무기에 적용하면 엄청난 시너지를 발생시킬 수 있다.
+EN|(なし)
+
+###47 count=6 key=40100055-UnlimitedEnchant- field=guideDescription item=プリズムの欠片
+KO|한계돌파에 필요한 재료로, 무기의 한계를 넘겨 성능을 끌어 올릴 수 있다.
+EN|(なし)
+
+###48 count=5 key=20000655-Develop- field=guideDescription item=(一撃) ダークストリーム06～10
+KO|\n<font color='#7A7A7A'>对应公会团队副本标准装备1。</font>
+EN|(なし)
+
+###49 count=4 key=14000264-Level70Item- field=guideDescription item=アンティークアリゴンタブレット
+KO|\n<font color='#7A7A7A'>루미에라곤의 비늘로 제작된 장비. 미지의 대륙 크리티아스. '이곳에 왜 메이플 월드의 용족이 존재하는가'는 밝혀진 바 없다. 현재까지 루미에라곤을 본 크리티아스인은 단 한 명도 없다고 전해진다. 루미에라곤의 비늘답게 날카로운 공격력과 질긴 방어력을 자랑한다.</font>
+EN|\n<font color='#7A7A7A'>Gear made from lumarigon scales. It's unclear how such an item came to Kritias, where there's no record of lumarigon activity, but its offensive and defensive capabilities are without question.</font>
+
+###50 count=4 key=14000265-Level70Item- field=guideDescription item=タイレンコンバットマニュアル
+KO|\n<font color='#7A7A7A'>타이렌 왕국 병사를 위한 차세대 전투 장비. 인공지능체 제시카가 게오르크와의 전투에서 승리하기 위해 개발했다. 프로토타입 테스트 중, 일부가 정체불명의 조직에게 탈취당했다고 전해진다. 공격력과 방어력을 균형 있게 갖추고 있으며, 에네르의 효율성을 높인 고성능 장비이다.</font>
+EN|\n<font color='#7A7A7A'>Next-generation combat gear for the soldiers of Tairen. Jessica designed it specifically to defeat Humanitas. Stolen during the prototyping phase, this item has a balance of offense and defense.</font>
+
+###51 count=4 key=20001042-Fishing02- field=tooltipDescription item=プロジュエルルアー(1時間)
+KO|보석 물고기가 좋아하는 반짝반짝 빛나는 미끼이다. 높은 단계의 쥬얼 루어를 사용할 수록 보석 물고기를 낚을 확률이 높아진다.
+EN|Jewel Fish love this glittering lure. The higher tier this lure, the greater your chances of catching a Jewel Fish.
+
+###52 count=4 key=20001759-NewPotion01- field=tooltipDescription item=ハイパー赤いポーション
+KO|새로운 기술을 적용하여 만든 강력한 포션이다. 단번에 마실 수 있어 효과가 좋다. 마시면 <font color='#00aaef'>HP를 즉시 1600 회복</font>할 수 있다. 한 번 마시면 배가 불러 5초 후 다시 마실 수 있다.
+EN|A powerful potion crafted with new technology. Drink it all at once for a great effect. When consumed, it <font color='#00aaef'>immediately restores 1600 HP</font>. Once you drink it, you'll feel full and can drink again after 5 seconds.
+
+###53 count=4 key=33000313-EpicEnchantScroll50A- field=guideDescription item=古代精霊の魔力石
+KO|에픽 인챈트 룬 마법부여 재료로 사용된다.
+EN|Used as a material for Epic Enchant Rune enchanting.
+
+###54 count=3 key=11301252-WorldChampionMushroom- field=tooltipDescription item=?
+KO|메이플스토리2의 1주년을 맞이해 메이플 월드를 호시탐탐 노리는 머쉬킹까지 생일 축하에 나섰다. 머쉬킹이 쓴 축하 왕관을 본떠 만든 먹음직스러운 왕관이다.
+EN|(なし)
+
+###55 count=3 key=11304776-WorldChampionMushroom- field=tooltipDescription item=マッシュキングジュエルクラウン：ブロンズ
+KO|머쉬킹 처치에 큰 공을 세운 모험가에게 주어지는 왕관이다.
+EN|A crown given to adventurers who made great contributions to defeating Mushking.
+
+###56 count=3 key=11900122-Level70Item- field=guideDescription item=ペイカのラペンシャードイヤリング
+KO|\n<font color='#7A7A7A'>블랙샤드의 구성물질인 라펜샤드로 만들어진 목걸이. 페이카가 크리티아스의 라펜샤드를 채취해 직접 제작했다. 미지의 대륙 크리티아스. '이곳에 왜 메이플 월드의 물질이 존재하는가'는 밝혀진 바 없다.  장착 시 라펜샤드의 강력한 파동이 전신을 보호한다. 라펜샤드로 제작된 다른 장비와 함께 장착하면, 라펜샤드 간의 공명으로 한층 더 강력한 힘을 얻을 수 있다.</font>
+EN|\n<font color='#7A7A7A'>A necklace made from a piece of the blackshard by Paika. How did such an item come to Kritias? Whatever the answer, this item grows more power when worn with other lapenshard accessories.</font>
+
+###57 count=3 key=12100112-Level70Item- field=guideDescription item=バルログのラペンシャードベルト
+KO|\n<font color='#7A7A7A'>블랙샤드의 구성물질인 라펜샤드로 만들어진 벨트. 발록이 크리티아스의 라펜샤드를 채취해 직접 제작했다. 미지의 대륙 크리티아스. '이곳에 왜 메이플 월드의 물질이 존재하는가'는 밝혀진 바 없다. 장착 시 라펜샤드의 강력한 파동이 전신을 보호한다. 라펜샤드로 제작된 다른 장비와 함께 장착하면, 라펜샤드 간의 공명으로 한층 더 강력한 힘을 얻을 수 있다.</font>
+EN|\n<font color='#7A7A7A'>A belt made from a piece of the blackshard by Balrog. How did such an item come to Kritias? Whatever the answer, this item grows more power when worn with other lapenshard accessories.</font>
+
+###58 count=3 key=20001105-Fishing02- field=tooltipDescription item=称号：お魚大王
+KO|낚시꾼에게 잘 어울리는 칭호를 획득할 수 있다.
+EN|Grants a title fitting for a fisherman.
+
+###59 count=3 key=20001287-Level70Item- field=tooltipDescription item=タイレンレンシャアクセサリーの欠片ボックス呪文書
+KO|신비한 합성 마법이 담긴 주문서로 재료를 모아 $item:20302332$$pp:를,을$ 만들 수 있다.
+EN|This scroll contains synthesis magics capable of creating $item:20302332$ if you have the right materials.
+
+###60 count=3 key=20001580-Level70Item- field=tooltipDescription item=タイレンレンシャアクセサリーの欠片ボックス呪文書
+KO|신비한 합성 마법이 담긴 주문서로 재료를 모아 $item:20302838$$pp:를,을$ 만들 수 있다.
+EN|This scroll contains synthesis magics capable of creating $item:20302838$ if you have the right materials.
+
+###61 count=3 key=20001698-Wedding- field=tooltipDescription item=撮影チケット：ドキドキスタジオ
+KO|결혼식장에서 신랑 또는 신부가 주례의 성혼 선언 이후부터 결혼식장 폐쇄 전까지 사용할 수 있는 기념 촬영 티켓이다. 사용 시 현재 채널의 현재 위치에 입장 포털이 생기고 포털을 통해 자유롭게 기념 촬영 맵에 입장할 수 있다. 아이템 하단에 작은 글씨로 `결혼 축하해요! 당신의 행복한 지금 이 순간을 찰칵!'이라고 적혀있다. 기념 촬영을 진행한 후, 포털을 통해 결혼식장으로 돌아올 수 있다.
+EN|This is a commemorative photo ticket that can be used by the newly wed couple at the wedding hall from the time the officiant declares marriage until the closing of the wedding hall. When used, an entry portal will appear at the current location of the current channel, and you can freely enter the commemorative photo map through the portal. At the bottom of the item, small letters read, 'Congratulations on your wedding! Capture this happy moment!' After taking commemorative photos, you can return to the wedding hall through the portal.
+
+###62 count=3 key=20001698-Wedding- field=guideDescription item=撮影チケット：ドキドキスタジオ
+KO|소지품 창에서 아이템을 더블클릭하면 기념 촬영 맵으로 이동하는 포털을 열 수 있다.
+EN|Double-clicking the item in your inventory will open a portal that will take you to the commemorative photo map.
+
+###63 count=3 key=20001760-NewPotion01- field=tooltipDescription item=ハイパー橙色ポーション
+KO|새로운 기술을 적용하여 만든 강력한 포션이다. 단번에 마실 수 있어 효과가 좋다. 마시면 <font color='#00aaef'>HP를 즉시 2400 회복</font>할 수 있다. 한 번 마시면 배가 불러 5초 후 다시 마실 수 있다.
+EN|A powerful potion crafted with new technology. Drink it all at once for a great effect. When consumed, it <font color='#00aaef'>immediately restores 2400 HP</font>. Once you drink it, you'll feel full and can drink again after 5 seconds.
+
+###64 count=3 key=20001761-NewPotion01- field=tooltipDescription item=ハイパー白いポーション
+KO|새로운 기술을 적용하여 만든 강력한 포션이다. 단번에 마실 수 있어 효과가 좋다. 마시면 <font color='#00aaef'>HP를 즉시 3600 회복</font>할 수 있다. 한 번 마시면 배가 불러 5초 후 다시 마실 수 있다.
+EN|A powerful potion crafted with new technology. Drink it all at once for a great effect. When consumed, it <font color='#00aaef'>immediately restores 3600 HP</font>. Once you drink it, you'll feel full and can drink again after 5 seconds.
+
+###65 count=3 key=20302051-Fishing02- field=tooltipDescription item=釣りバッジの欠片：もり
+KO|낚시 배지 조각이다.
+EN|A fishing badge fragment.
+
+###66 count=3 key=20302649-Level70Item- field=tooltipDescription item=タイレンロイヤル帽子/グローブ/靴選択ボックス
+KO|자신의 직업에 맞는 모자,장갑,신발 중 원하는 부위를 선택할 수 있는 상자이다.
+EN|A box containing the headgear/gloves/shoes of your choice.
+
+###67 count=3 key=20303091-Level70Item- field=guideDescription item=ファイアプリズム帽子/グローブ/靴選択ボックス
+KO|소지품 창에서 아이템을 더블클릭하면, 구성품 중 1개를 선택하여 획득할 수 있다.
+EN|Double-click this in your inventory to receive an item of your choice.
+
+###68 count=3 key=30000981-Timaion01- field=tooltipDescription item=時計の歯車
+KO|在$map:02020007$找到的时钟零件。可用来修理$npc:11003603$。
+EN|(なし)
+
+###69 count=3 key=31001051-EpicEnchantScroll5099A- field=guideDescription item=+10 エピックエンチャントルーン(片手)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 한손 무기 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +10 인챈트 아이템이 된다.
+EN|Double-click to use the Rune Stone to enchant equipment.\nCan be used only on enchantable one-handed weapon equipment of Normal, Rare, Exceptional, Epic, Legendary, and Epic grade. When used, the item becomes a +10 Enchanted item with a 100% chance.
+
+###70 count=3 key=31001052-EpicEnchantScroll5099A- field=guideDescription item=+10 エピックエンチャントルーン(双手)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 쌍수 무기 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +10 인챈트 아이템이 된다.
+EN|Double-click to use the Rune Stone to enchant equipment.\nCan be used only on enchantable dual weapon equipment of Normal, Rare, Exceptional, Epic, Legendary, and Epic grade. When used, the item becomes a +10 Enchanted item with a 100% chance.
+
+###71 count=3 key=31001053-EpicEnchantScroll5099A- field=guideDescription item=+10 エピックエンチャントルーン(両手)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 양손 무기 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +10 인챈트 아이템이 된다.
+EN|Double-click to use the Rune Stone to enchant equipment.\nCan be used only on enchantable two-handed weapon equipment of Normal, Rare, Exceptional, Epic, Legendary, and Epic grade. When used, the item becomes a +10 Enchanted item with a 100% chance.
+
+###72 count=3 key=31001054-EpicEnchantScroll5099A- field=guideDescription item=+10 エピックエンチャントルーン(帽子)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 모자 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +10 인챈트 아이템이 된다.
+EN|Double-click to use the Rune Stone to enchant equipment.\nCan be used only on enchantable hat equipment of Normal, Rare, Exceptional, Epic, Legendary, and Epic grade. When used, the item becomes a +10 Enchanted item with a 100% chance.
+
+###73 count=3 key=31001055-EpicEnchantScroll5099A- field=guideDescription item=+10 エピックエンチャントルーン(上)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 상의 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +10 인챈트 아이템이 된다.
+EN|Double-click to use the Rune Stone to enchant equipment.\nCan be used only on enchantable top equipment of Normal, Rare, Exceptional, Epic, Legendary, and Epic grade. When used, the item becomes a +10 Enchanted item with a 100% chance.
+
+###74 count=3 key=31001056-EpicEnchantScroll5099A- field=guideDescription item=+10 エピックエンチャントルーン(下)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 하의 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +10 인챈트 아이템이 된다.
+EN|Double-click to use the Rune Stone to enchant equipment.\nCan only be used on enchantable equipment of Normal, Rare, Exceptional, Epic, Legendary, and Epic grades. When used, the item will become a +10 enchanted item with a 100% chance.
+
+###75 count=3 key=31001057-EpicEnchantScroll5099A- field=guideDescription item=+10 エピックエンチャントルーン(グローブ)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 장갑 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +10 인챈트 아이템이 된다.
+EN|Double-click to use the Rune Stone to enchant equipment.\nCan only be used on enchantable glove equipment of Normal, Rare, Exceptional, Epic, Legendary, and Epic grades. When used, the item will become a +10 enchanted item with a 100% chance.
+
+###76 count=3 key=31001058-EpicEnchantScroll5099A- field=guideDescription item=+10 エピックエンチャントルーン(靴)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 신발 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +10 인챈트 아이템이 된다.
+EN|Double-click to use the Rune Stone to enchant equipment.\nCan only be used on enchantable shoe equipment of Normal, Rare, Exceptional, Epic, Legendary, and Epic grades. When used, the item will become a +10 enchanted item with a 100% chance.
+
