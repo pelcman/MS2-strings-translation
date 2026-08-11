@@ -18452,7 +18452,7 @@
     "complete": "完了ボタンを押す",
     "count": "",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000380_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "$npcName:11004316$が異質な闇の力を感じるという。調査が必要だ。"
   },
   "91000390-Kritias_2018_12-": {
     "name": "ルミナイツの特殊任務、その1",
@@ -18488,7 +18488,7 @@
     "complete": "完了ボタンを押す",
     "count": "",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000420_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "$npcName:11004316$が感じた闇の力は、高度に発展した先端技術だった。"
   },
   "91000430-Kritias_2018_12-": {
     "name": "ルミナイツの特殊任務、その1",
@@ -18569,7 +18569,7 @@
     "complete": "完了ボタンを押す",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000510_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "$npcName:11004316$の連絡を待つ間、闇の軍団を撃退しよう。"
   },
   "91000520-Kritias_2018_12-": {
     "name": "ルミナイツの特殊任務、その3",
@@ -18587,7 +18587,7 @@
     "complete": "完了ボタンを押す",
     "count": "",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000530_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "$npcName:11004316$が残したルーンを通じて、$npcName:11004316$の気運を得ることにしよう。"
   },
   "91000540-Kritias_2018_12-": {
     "name": "ルミナイツの特殊任務、その3",
@@ -18614,7 +18614,7 @@
     "complete": "完了ボタンを押す",
     "count": "",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000560_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "$npcName:11004314$がくれた助言に従い、ハッキングされた機械兵を退治しに$map:02020017$へ移動しよう。 "
   },
   "91000570-Kritias_2018_12-": {
     "name": "ルミナイツの特殊任務、その4",
@@ -18668,7 +18668,7 @@
     "complete": "完了ボタンを押す",
     "count": "",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000620_DESCFAMEUI:[F]Kritias_Zakum01"
+    "descFameUI": "$npcName:11004316$が教えてくれた$npcName:23000073$の位置である$map:02020034$へ移動しよう。"
   },
   "91000630-Kritias_Zakum01-": {
     "name": "ルミナイツの特殊任務、その5",
@@ -18929,7 +18929,7 @@
     "complete": "完了ボタンを押す",
     "count": "",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000910_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "$map:52100107$で発見した謎の書籍を、$map:02020041$にいる$npcName:11004315$に渡そう。"
   },
   "91000920-Kritias_2018_12-": {
     "name": "グリーンフッドの特殊任務、その5",
@@ -18947,7 +18947,7 @@
     "complete": "完了ボタンを押す",
     "count": "",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000930_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "$npcName:11004315$は、$map:02020018$が日記帳に描かれたものと一致する場所だと驚く。"
   },
   "91000940-Kritias_2018_12-": {
     "name": "グリーンフッドの特殊任務、その5",
@@ -20882,7 +20882,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000014_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "$npcName:11001813$のハッキング方法を突き止めるため、$map:02020031$へ行って$npcName:25020203$を退治し、$item:30001220$を収集してこなければならない。"
   },
   "94000015-Kritias_2018_12-": {
     "name": "定期テスト：メイプル連合",
@@ -21953,7 +21953,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000133_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "$npcName:11004316$の意図を正確に把握した。$map:02020017$のエネルを採取しよう。"
   },
   "94000134-Kritias_2018_12-": {
     "name": "一つ片付ければ一つ問題が起きる",
@@ -23474,7 +23474,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000296_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "$npcName:11004316$の研究のために$item:30000232$を集めなければならない。"
   },
   "94000297-Kritias_2018_12-": {
     "name": "天然の薬材を探して",
@@ -23582,7 +23582,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
     "count": "1|1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000308_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "$npcName:11004315$の仮説を立証するため、$map:02020006$の$npcName:25020302$、$map:02020001$の$npcName:25020505$を調査しなければならない。"
   },
   "94000309-Kritias_2018_12-": {
     "name": "体系的な調査",
@@ -23798,7 +23798,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000332_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020067$にある$map:52100114$へ行って$npcName:25022900$を退治しなければならない。"
   },
   "94000333-Fame_Geo01-": {
     "name": "未知の大冒険、彼女の責任感",
@@ -23807,7 +23807,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000333_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020069$へ行って$npcName:11004620$に会い、危機に瀕したモラン族を助けてあげなければならない。"
   },
   "94000334-Fame_Geo01-": {
     "name": "$map:02020071$奇襲",
@@ -23834,7 +23834,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1|1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000336_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020070$で$npcName:25022800$を、$map:02020071$で$npcName:25022810$を破壊しなければならない。"
   },
   "94000337-Fame_Geo01-": {
     "name": "$map:02020066$の危機",
@@ -23906,7 +23906,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000344_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020066$へ行って$npc:11004574$に会った後、何があったのか調べなければならない。"
   },
   "94000345-Fame_Geo01-": {
     "name": "特殊部隊任務：ゲオルク",
@@ -23924,7 +23924,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1|1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000346_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020067$で$npcName:25022302$、$map:02020068$で$npcName:25022401$を退治しなければならない。"
   },
   "94000347-Fame_Geo01-": {
     "name": "モラン族の分裂",
@@ -23933,7 +23933,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000347_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020069$へ行って$npc:11004620$に会い、モラン族を助けなければならない。"
   },
   "94000348-Fame_Geo01-": {
     "name": "特殊部隊任務：ゲオルク",
@@ -23951,7 +23951,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1|1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000349_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020070$へ行って$npcName:25022601$を、$map:02020071$へ行って$npcName:25022700$を退治しなければならない。"
   },
   "94000350-Fame_Geo01-": {
     "name": "$map:02020066$のドローン",
@@ -23969,7 +23969,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000351_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020066$へ行って$npc:11004574$に会い、難民たちの困りごとを解決してあげなければならない。"
   },
   "94000352-Fame_Geo01-": {
     "name": "ケルベスの怪しい動き",
@@ -23996,7 +23996,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000354_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020069$へ行って$npc:11004620$に会い、解決策を探さなければならない。"
   },
   "94000355-Fame_Geo01-": {
     "name": "怪しい$npcName:11004614$",
@@ -24005,7 +24005,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000355_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020068$へ行って$npcName:25022407$を制圧した後、$item:30001356$を手に入れてこなければならない。"
   },
   "94000356-Fame_Geo01-": {
     "name": "情報部の予測",
@@ -24014,7 +24014,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000356_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020069$へ行って$npc:11004620$に会い、危機を知らせなければならない。"
   },
   "94000357-Fame_Geo01-": {
     "name": "険悪になった$map:02020069$",
@@ -24023,7 +24023,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000357_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020069$へ行って$npc:11004620$に会い、雰囲気が物々しくなった理由を把握しなければならない。"
   },
   "94000358-Fame_Geo01-": {
     "name": "黒化を解明するための努力",
@@ -24032,7 +24032,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000358_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020071$へ行って$npcName:25022707$と$npcName:25022708$を退治した後、$item:30001357$を回収しなければならない。"
   },
   "94000359-Fame_Geo01-": {
     "name": "一角の怪物の実体を明らかにせよ",
@@ -24041,7 +24041,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000359_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020070$へ行って$npcName:25022601$を退治した後、$item:30001358$を手に入れてこなければならない。"
   },
   "94000360-Fame_Geo01-": {
     "name": "あふれかえるゲオルク軍病院",
@@ -24050,7 +24050,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000360_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020071$へ行って$npcName:25022705$を退治しなければならない。"
   },
   "94000361-Fame_Geo01-": {
     "name": "競ってみたい相手",
@@ -24059,7 +24059,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000361_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020071$へ行って$npcName:25022700$と腕を競ってみよう。"
   },
   "94000362-Fame_Geo01-": {
     "name": "エネル需給のための妙案",
@@ -24176,7 +24176,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000374_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020069$へ行って$npc:11004620$に会い、状況を把握した後、解決策を探さなければならない。"
   },
   "94000375-Fame_Geo01-": {
     "name": "彼女の説得法",
@@ -24185,7 +24185,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000375_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020069$へ行って$npc:11004620$に会って会話を交わし、手伝えることを探してみなければならない。"
   },
   "94000376-Fame_Geo01-": {
     "name": "謎の胞子",
@@ -24194,7 +24194,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000376_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020069$へ行って$npc:11004620$に会い、事件を調査しなければならない。"
   },
   "94000377-Fame_Geo01-": {
     "name": "混乱に陥った$map:02020069$",
@@ -24203,7 +24203,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000377_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020069$へ行って$npc:11004620$に会い、$npcName:25022505$たちを撃退する方法を探さなければならない。"
   },
   "94000378-Fame_Geo01-": {
     "name": "舞い散る黒い気運",
@@ -24212,7 +24212,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000378_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020070$へ行って、黒い気運に蝕まれた$npcName:25022602$を退治しなければならない。"
   },
   "94000379-Fame_Geo01-": {
     "name": "続く研究",
@@ -24230,7 +24230,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000380_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020071$へ行って$npcName:25022706$を捕獲しなければならない。"
   },
   "94000381-Fame_Geo01-": {
     "name": "血をたぎらせる相手",
@@ -24347,7 +24347,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000393_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020067$へ行って$npcName:25022303$を制圧した後、$item:30001364$を手に入れてこなければならない。"
   },
   "94000394-Fame_Geo01-": {
     "name": "蝕まれる$map:02020068$",
@@ -24356,7 +24356,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000394_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020069$へ行って$npc:11004620$に会った後、汚染を防ぐ方法を探してみなければならない。"
   },
   "94000395-Fame_Geo01-": {
     "name": "$map:02020069$の食糧難",
@@ -24365,7 +24365,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000395_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020069$へ行って$npc:11004620$に会い、食糧難が発生した原因を調査しなければならない。"
   },
   "94000396-Fame_Geo01-": {
     "name": "解くべき宿題",
@@ -24374,7 +24374,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000396_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020069$へ行って$npc:11004620$に会い、警備を強化する方法を協議しなければならない。"
   },
   "94000397-Fame_Geo01-": {
     "name": "モラン族の怪しい動き",
@@ -24383,7 +24383,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000397_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020069$へ行って$npc:11004620$に会い、何が起きたのか調べなければならない。"
   },
   "94000398-Fame_Geo01-": {
     "name": "総攻勢のために",
@@ -24509,7 +24509,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1|1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000411_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020070$へ行って$npcName:25022607$と$npcName:25022608$を制圧しなければならない。"
   },
   "94000412-Fame_Geo01-": {
     "name": "致命的な狂暴さ",
@@ -24518,7 +24518,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1|1|1|1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000412_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:02020070$で$npcName:25022606$と$npcName:25022609$を、$map:02020071$で$npcName:25022703$と$npcName:25022709$を制圧しなければならない。"
   },
   "94000413-Fame_Geo01-": {
     "name": "遠い勝利",
@@ -24527,7 +24527,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1|1|1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000413_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:52100115$で$npcName:25023003$と$npcName:25023004$を、$map:52100118$で$npcName:25023303$を退治しなければならない。"
   },
   "94000414-Fame_Geo01-": {
     "name": "悲観的なシミュレーション",
@@ -24536,7 +24536,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1|1|1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000414_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "$map:52100114$で$npcName:25022902$と$npcName:25022903$を、$map:52100116$で$npcName:25023102$を制圧しなければならない。"
   },
   "72000001--": {
     "name": "望遠鏡で$map:02000001$の風景を眺める",
