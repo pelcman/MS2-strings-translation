@@ -35878,92 +35878,92 @@
     "type": "AddCinematicTalk"
   },
   "02000536_BF__MAIN__4-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000536_BF__MAIN__4_NAME:[F]BlackOnyx",
+    "name": "黒星会幹部$npcName:11004704$を倒してください！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000536_BF__MAIN__5-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000536_BF__MAIN__5_NAME:[F]BlackOnyx",
+    "name": "なかなかやるね？一人でここに入ってくるだけのことはある～褒めてあげるよ。",
     "npc": "하렌",
     "type": "SideNpcTalk"
   },
   "02000536_BF__MAIN__6-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000536_BF__MAIN__6_NAME:[F]BlackOnyx",
+    "name": "しつこいね。それならそろそろ遊んでみようか？",
     "npc": "하렌",
     "type": "SideNpcTalk"
   },
   "02000536_BF__MAIN__8-BlackOnyx-": {
-    "name": "STRINGTRIGGER_02000536_BF__MAIN__8_NAME:[F]BlackOnyx",
+    "name": "なかなかやるじゃないか？認めてあげないとね！",
     "npc": "하렌",
     "type": "SideNpcTalk"
   },
   "02000537_BF__MAIN__0-DarkTear-": {
-    "name": "STRINGTRIGGER_02000537_BF__MAIN__0_NAME:[F]DarkTear",
+    "name": "はるかな城砦に沿って下りて行かなければなりません。\\n押し寄せる闇に気をつけてください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000537_BF__MAIN__1-DarkTear-": {
-    "name": "STRINGTRIGGER_02000537_BF__MAIN__1_NAME:[F]DarkTear",
+    "name": "人間？この匂いを嗅ぐのはいつ以来か、実に香ばしいな。ゆっくりと闇の中へ下りて来い。",
     "npc": "에이션트 리자드",
     "type": "SideNpcTalk"
   },
   "02000537_BF__MAIN__2-DarkTear-": {
-    "name": "STRINGTRIGGER_02000537_BF__MAIN__2_NAME:[F]DarkTear",
+    "name": "哀れな人間…。泉はすでにお前を見つめている。闇がお前を追うだろう。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000537_BF__MAIN__3-DarkTear-": {
-    "name": "STRINGTRIGGER_02000537_BF__MAIN__3_NAME:[F]DarkTear",
+    "name": "闇の泉があなたの存在に気づきました。\\n生命をむさぼる黒い矢があなたを追いかけます。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000537_BF__MAIN__4-DarkTear-": {
-    "name": "STRINGTRIGGER_02000537_BF__MAIN__4_NAME:[F]DarkTear",
+    "name": "数百年の間眠っていた泉が目覚めた。泉は魂を欲している。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000537_BF__MAIN__5-DarkTear-": {
-    "name": "STRINGTRIGGER_02000537_BF__MAIN__5_NAME:[F]DarkTear",
+    "name": "クモ…。私はクモが嫌い…クモは魂を縛りつける者…。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000537_BF__MAIN__6-DarkTear-": {
-    "name": "STRINGTRIGGER_02000537_BF__MAIN__6_NAME:[F]DarkTear",
+    "name": "泉はクモの目を借りて全てを監視している。気をつけたほうがいい。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000537_BF__MAIN__7-DarkTear-": {
-    "name": "STRINGTRIGGER_02000537_BF__MAIN__7_NAME:[F]DarkTear",
+    "name": "あとどれだけ待てばいいんだ？早く下りて来いよ。",
     "npc": "에이션트 리자드",
     "type": "SideNpcTalk"
   },
   "02000537_BF__MAIN__8-DarkTear-": {
-    "name": "STRINGTRIGGER_02000537_BF__MAIN__8_NAME:[F]DarkTear",
+    "name": "かわいそうに。ここに入った以上、出るのは難しいよ。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000537_BF__MAIN__9-DarkTear-": {
-    "name": "STRINGTRIGGER_02000537_BF__MAIN__9_NAME:[F]DarkTear",
+    "name": "泉がお前の魂を束縛するだろう。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000537_BF__MAIN__10-DarkTear-": {
-    "name": "STRINGTRIGGER_02000537_BF__MAIN__10_NAME:[F]DarkTear",
+    "name": "そう、まるで私たちのように…。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000537_BF__MAIN__11-DarkTear-": {
-    "name": "STRINGTRIGGER_02000537_BF__MAIN__11_NAME:[F]DarkTear",
+    "name": "そうだ！やっとここまで来たな。お前の魂も泉に捧げてやろう！",
     "npc": "에이션트 리자드",
     "type": "SideNpcTalk"
   },
   "02000537_BF__MAIN__12-DarkTear-": {
-    "name": "STRINGTRIGGER_02000537_BF__MAIN__12_NAME:[F]DarkTear",
+    "name": "お前がどこへ行き着くのか…私たちには分からない。ここは歪んだ未知の空間。全ては泉の思うまま…。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000538_BF__MAIN__0-DarkTear-": {
-    "name": "STRINGTRIGGER_02000538_BF__MAIN__0_NAME:[F]DarkTear",
+    "name": "果てしない闇を突き抜けて下へ下りなければなりません。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -35973,227 +35973,227 @@
     "type": "SideNpcTalk"
   },
   "02000538_BF__MAIN__2-DarkTear-": {
-    "name": "STRINGTRIGGER_02000538_BF__MAIN__2_NAME:[F]DarkTear",
+    "name": "見えるものも、見えないものも信じられない道…。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000538_BF__MAIN__3-DarkTear-": {
-    "name": "STRINGTRIGGER_02000538_BF__MAIN__3_NAME:[F]DarkTear",
+    "name": "何が起きてもあまり驚かないで。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000538_BF__MAIN__4-DarkTear-": {
-    "name": "STRINGTRIGGER_02000538_BF__MAIN__4_NAME:[F]DarkTear",
+    "name": "泉に出会うまでは大丈夫なはず。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000538_BF__MAIN__5-DarkTear-": {
-    "name": "STRINGTRIGGER_02000538_BF__MAIN__5_NAME:[F]DarkTear",
+    "name": "ここは命ある者が入れない場所。泉が絶えず君を下へと導いている。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000538_BF__MAIN__6-DarkTear-": {
-    "name": "STRINGTRIGGER_02000538_BF__MAIN__6_NAME:[F]DarkTear",
+    "name": "私たちのようにここに縛られないで。君だけでもここを出られたらいいのに。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000538_BF__MAIN__7-DarkTear-": {
-    "name": "STRINGTRIGGER_02000538_BF__MAIN__7_NAME:[F]DarkTear",
+    "name": "何も見えないからといって道がないわけじゃない。道は見えないところにあるんだ。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000538_BF__MAIN__8-DarkTear-": {
-    "name": "STRINGTRIGGER_02000538_BF__MAIN__8_NAME:[F]DarkTear",
+    "name": "怖いだろうけど私を信じて。私が開けてあげる。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000539_BF__MAIN__0-DarkTear-": {
-    "name": "STRINGTRIGGER_02000539_BF__MAIN__0_NAME:[F]DarkTear",
+    "name": "ここは闇の空間。生きている命はここを越えられない。私が開けてあげる。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000539_BF__MAIN__1-DarkTear-": {
-    "name": "STRINGTRIGGER_02000539_BF__MAIN__1_NAME:[F]DarkTear",
+    "name": "ここはずっと昔に橋が壊れたんだ。ここに入ると、どこへも行けずに閉じ込められてしまう。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000539_BF__MAIN__2-DarkTear-": {
-    "name": "STRINGTRIGGER_02000539_BF__MAIN__2_NAME:[F]DarkTear",
+    "name": "上には道がない。静かに下りておいで。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000539_BF__MAIN__3-DarkTear-": {
-    "name": "STRINGTRIGGER_02000539_BF__MAIN__3_NAME:[F]DarkTear",
+    "name": "残った力で橋を作ってあげる。ついてきて。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000539_BF__MAIN__4-DarkTear-": {
-    "name": "STRINGTRIGGER_02000539_BF__MAIN__4_NAME:[F]DarkTear",
+    "name": "私たちのことは心配しないで。私たちは大丈夫。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000539_BF__MAIN__5-DarkTear-": {
-    "name": "STRINGTRIGGER_02000539_BF__MAIN__5_NAME:[F]DarkTear",
+    "name": "ここは少しうるさいやつが道を守っている。彼に気づかれずにここを通り抜けられるかな？",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000539_BF__MAIN__6-DarkTear-": {
-    "name": "STRINGTRIGGER_02000539_BF__MAIN__6_NAME:[F]DarkTear",
+    "name": "もう見張られているかもしれない。彼は鼻が利くから。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000539_BF__MAIN__7-DarkTear-": {
-    "name": "STRINGTRIGGER_02000539_BF__MAIN__7_NAME:[F]DarkTear",
+    "name": "今度は上だよ。上っておいで。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000539_BF__MAIN__8-DarkTear-": {
-    "name": "STRINGTRIGGER_02000539_BF__MAIN__8_NAME:[F]DarkTear",
+    "name": "橋を作ってあげるのがいいことなのか悩んでしまう。泉に出会わないほうが苦しみは少ないかもしれない。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000539_BF__MAIN__9-DarkTear-": {
-    "name": "STRINGTRIGGER_02000539_BF__MAIN__9_NAME:[F]DarkTear",
+    "name": "彼の声が聞こえる。彼が君を出迎えるだろう。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000539_BF__MAIN__10-DarkTear-": {
-    "name": "STRINGTRIGGER_02000539_BF__MAIN__10_NAME:[F]DarkTear",
+    "name": "下へ下りる扉が開いた。闇が気づく前に早く移動しよう。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000539_BF__TALK__0-DarkTear-": {
-    "name": "STRINGTRIGGER_02000539_BF__TALK__0_NAME:[F]DarkTear",
+    "name": "生きた人間の匂い…。",
     "npc": "구속당한 영혼",
     "type": "AddBalloonTalk"
   },
   "02000539_BF__TALK__1-DarkTear-": {
-    "name": "STRINGTRIGGER_02000539_BF__TALK__1_NAME:[F]DarkTear",
+    "name": "この下から変な音が聞こえる…気をつけたほうがいい…。",
     "npc": "구속당한 영혼",
     "type": "AddBalloonTalk"
   },
   "02000539_BF__TALK__2-DarkTear-": {
-    "name": "STRINGTRIGGER_02000539_BF__TALK__2_NAME:[F]DarkTear",
+    "name": "ここがどこだか分かっているの？",
     "npc": "구속당한 영혼",
     "type": "AddBalloonTalk"
   },
   "02000539_BF__TALK__3-DarkTear-": {
-    "name": "STRINGTRIGGER_02000539_BF__TALK__3_NAME:[F]DarkTear",
+    "name": "闇は上から染み込んできている…。",
     "npc": "구속당한 영혼",
     "type": "AddBalloonTalk"
   },
   "02000539_BF__TALK__4-DarkTear-": {
-    "name": "STRINGTRIGGER_02000539_BF__TALK__4_NAME:[F]DarkTear",
+    "name": "中央の橋を渡らないと…。",
     "npc": "구속당한 영혼",
     "type": "AddBalloonTalk"
   },
   "02000540_BF__MAIN__0-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__0_NAME:[F]DarkTear",
+    "name": "ポータルに乗って寺院へ移動してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000540_BF__MAIN__1-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__1_NAME:[F]DarkTear",
+    "name": "人間の匂いがする。",
     "npc": "강화된 병정거미",
     "type": "AddBalloonTalk"
   },
   "02000540_BF__MAIN__2-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__2_NAME:[F]DarkTear",
+    "name": "久しぶりに見る肉の塊だな…。",
     "npc": "검은 병정거미",
     "type": "AddBalloonTalk"
   },
   "02000540_BF__MAIN__3-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__3_NAME:[F]DarkTear",
+    "name": "寺院が光を取り戻せば、下りる入口が見えるはず。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000540_BF__MAIN__4-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__4_NAME:[F]DarkTear",
+    "name": "うまそうな匂いがするな…。",
     "npc": "제너럴 스파이더",
     "type": "AddBalloonTalk"
   },
   "02000540_BF__MAIN__5-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__5_NAME:[F]DarkTear",
+    "name": "寺院の火を灯してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000540_BF__MAIN__6-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__6_NAME:[F]DarkTear",
+    "name": "1番目の火が灯りました。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000540_BF__MAIN__7-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__7_NAME:[F]DarkTear",
+    "name": "この程度じゃ足りない。4つの灯火を全て灯さないといけないみたいだ。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000540_BF__MAIN__8-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__8_NAME:[F]DarkTear",
+    "name": "怖いもの知らずに下へ下りようというのか？大人しくここで我らの餌になれ。",
     "npc": "그림자 영혼",
     "type": "AddBalloonTalk"
   },
   "02000540_BF__MAIN__9-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__9_NAME:[F]DarkTear",
+    "name": "寺院の火を灯してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000540_BF__MAIN__10-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__10_NAME:[F]DarkTear",
+    "name": "2番目の火が灯りました。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000540_BF__MAIN__11-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__11_NAME:[F]DarkTear",
+    "name": "寺院の火を全て灯せば、下へ下りられる。",
     "npc": "구속당한 영혼",
     "type": "AddBalloonTalk"
   },
   "02000540_BF__MAIN__12-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__12_NAME:[F]DarkTear",
+    "name": "愚かな生き物どもが怖いもの知らずにここへ入ってくるとはな。",
     "npc": "제너럴 스파이더",
     "type": "AddBalloonTalk"
   },
   "02000540_BF__MAIN__13-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__13_NAME:[F]DarkTear",
+    "name": "寺院の火を灯してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000540_BF__MAIN__14-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__14_NAME:[F]DarkTear",
+    "name": "3番目の火が灯りました。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000540_BF__MAIN__15-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__15_NAME:[F]DarkTear",
+    "name": "うまそうな匂いがするな。",
     "npc": "제너럴 스파이더",
     "type": "AddBalloonTalk"
   },
   "02000540_BF__MAIN__16-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__16_NAME:[F]DarkTear",
+    "name": "寺院の火を灯してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000540_BF__MAIN__17-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__17_NAME:[F]DarkTear",
+    "name": "全ての寺院の火が灯りました。\\n中央へ下りるポータルを探してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000540_BF__MAIN__18-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__18_NAME:[F]DarkTear",
+    "name": "この光がどれだけ保つかは分からないけど、懐かしい感じだ。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000540_BF__MAIN__19-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__19_NAME:[F]DarkTear",
+    "name": "誰かが来る。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000540_BF__MAIN__20-DarkTear-": {
-    "name": "STRINGTRIGGER_02000540_BF__MAIN__20_NAME:[F]DarkTear",
+    "name": "この下から泉の匂いがする。",
     "npc": "구속당한 영혼",
     "type": "SideNpcTalk"
   },
   "02000542_BF__MAIN__0-DarkTear-": {
-    "name": "STRINGTRIGGER_02000542_BF__MAIN__0_NAME:[F]DarkTear",
+    "name": "監獄の扉を開けて移動してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
