@@ -1,194 +1,699 @@
 {
   "_comment": "一般用語の確定訳。key=英語, value=日本語。ko は韓国語オリジナル表記(実体確認用)。既存JMS2訳コーパス(corpus/itemname-pairs.tsv)から抽出・確定したもの。",
-
   "classes": {
     "_comment": "職業名。Archer はレンジャー(アーチャーではない)。class接尾は名前末尾に半角括弧で付ける: 〜サークレット(レンジャー)",
-    "Knight": {"ja": "ナイト", "ko": "나이트"},
-    "Berserker": {"ja": "バーサーカー", "ko": "버서커"},
-    "Wizard": {"ja": "ウィザード", "ko": "위자드"},
-    "Priest": {"ja": "プリースト", "ko": "프리스트"},
-    "Archer": {"ja": "レンジャー", "ko": "레인저"},
-    "Heavy Gunner": {"ja": "ヘビーガンナー", "ko": "헤비거너"},
-    "Thief": {"ja": "シーフ", "ko": "시프"},
-    "Assassin": {"ja": "アサシン", "ko": "어쌔신"},
-    "Runeblade": {"ja": "ルーンブレイダー", "ko": "룬블레이더"},
-    "Striker": {"ja": "ストライカー", "ko": "스트라이커"},
-    "Soul Binder": {"ja": "ソウルバインダー", "ko": "소울바인더"}
+    "Knight": {
+      "ja": "ナイト",
+      "ko": "나이트"
+    },
+    "Berserker": {
+      "ja": "バーサーカー",
+      "ko": "버서커"
+    },
+    "Wizard": {
+      "ja": "ウィザード",
+      "ko": "위자드"
+    },
+    "Priest": {
+      "ja": "プリースト",
+      "ko": "프리스트"
+    },
+    "Archer": {
+      "ja": "レンジャー",
+      "ko": "레인저"
+    },
+    "Heavy Gunner": {
+      "ja": "ヘビーガンナー",
+      "ko": "헤비거너"
+    },
+    "Thief": {
+      "ja": "シーフ",
+      "ko": "시프"
+    },
+    "Assassin": {
+      "ja": "アサシン",
+      "ko": "어쌔신"
+    },
+    "Runeblade": {
+      "ja": "ルーンブレイダー",
+      "ko": "룬블레이더"
+    },
+    "Striker": {
+      "ja": "ストライカー",
+      "ko": "스트라이커"
+    },
+    "Soul Binder": {
+      "ja": "ソウルバインダー",
+      "ko": "소울바인더"
+    }
   },
-
   "rarity": {
     "_comment": "重要: ENとJAで名称がずれている。EN Epic=JAエクセレント、EN Ascendant=JAエピック",
-    "Epic": {"ja": "エクセレント", "ko": "엑설런트"},
-    "Ascendant": {"ja": "エピック", "ko": "에픽"},
-    "Legendary": {"ja": "レジェンダリー", "ko": "레전더리"}
+    "Epic": {
+      "ja": "エクセレント",
+      "ko": "엑설런트"
+    },
+    "Ascendant": {
+      "ja": "エピック",
+      "ko": "에픽"
+    },
+    "Legendary": {
+      "ja": "レジェンダリー",
+      "ko": "레전더리"
+    }
   },
-
   "gender": {
-    "(F)": "(女)", "(M)": "(男)", "(Female)": "(女)", "(Male)": "(男)",
-    "(여)": "(女)", "(남)": "(男)", "（女）": "(女)", "（男）": "(男)"
+    "(F)": "(女)",
+    "(M)": "(男)",
+    "(Female)": "(女)",
+    "(Male)": "(男)",
+    "(여)": "(女)",
+    "(남)": "(男)",
+    "（女）": "(女)",
+    "（男）": "(男)"
   },
-
   "equipment_pieces": {
     "_comment": "装備部位・武器種。EN表記が実体とずれることがあるためKO列で確認する(Tassets/Greaves=팬츠=パンツ等)",
-    "Armor": {"ja": "アーマー", "ko": "아머"},
-    "Blade": {"ja": "ブレイド", "ko": "블레이드"},
-    "Boots": {"ja": "ブーツ", "ko": "부츠"},
-    "Bow": {"ja": "ボウ", "ko": "보우", "note": "KR固有語 활 の場合は「弓」"},
-    "Bracers": {"ja": "グローブ", "ko": "글러브"},
-    "Cannon": {"ja": "キャノン", "ko": "캐논"},
-    "Circlet": {"ja": "サークレット", "ko": "써클릿"},
-    "Claws": {"ja": "クローハンド", "ko": "핸드"},
-    "Coat": {"ja": "コート", "ko": "코트"},
-    "Codex": {"ja": "法典", "ko": "법전"},
-    "Dagger": {"ja": "短剣", "ko": "단검"},
-    "Gauntlets": {"ja": "グローブ", "ko": "글러브", "note": "KR 건틀렛 ならガントレット"},
-    "Greatsword": {"ja": "ラージソード", "ko": "라지소드"},
-    "Greaves": {"ja": "パンツ", "ko": "팬츠", "note": "KR 그리브 ならグリーブ"},
-    "Helmet": {"ja": "ヘルメット", "ko": "헬멧"},
-    "Knife": {"ja": "ナイフ", "ko": "나이프"},
-    "Knuckles": {"ja": "ナックル", "ko": "너클"},
-    "Longsword": {"ja": "ロングソード", "ko": "롱소드"},
-    "Orb": {"ja": "オーブ", "ko": "오브"},
-    "Pants": {"ja": "パンツ", "ko": "팬츠"},
-    "Scepter": {"ja": "セプター", "ko": "홀 / 셉터"},
-    "Shield": {"ja": "シールド", "ko": "쉴드", "note": "KR固有語 방패 の場合は「盾」"},
-    "Staff": {"ja": "スタッフ", "ko": "스태프"},
-    "Star": {"ja": "スパイク", "ko": "스파이크", "note": "KR固有語 표창 の場合は「手裏剣」"},
-    "Tassets": {"ja": "パンツ", "ko": "팬츠", "note": "KR 타시트 ならタシット"},
-    "Vest": {"ja": "ベスト", "ko": "베스트"},
-    "Belt": {"ja": "ベルト", "ko": "벨트"},
-    "Cape": {"ja": "マント", "ko": "망토"},
-    "Earrings": {"ja": "イヤリング", "ko": "귀고리"},
-    "Necklace": {"ja": "ネックレス", "ko": "목걸이"},
-    "Ring": {"ja": "指輪", "ko": "반지", "note": "コスチューム系でKR 링 ならリング"}
+    "Armor": {
+      "ja": "アーマー",
+      "ko": "아머"
+    },
+    "Blade": {
+      "ja": "ブレイド",
+      "ko": "블레이드"
+    },
+    "Boots": {
+      "ja": "ブーツ",
+      "ko": "부츠"
+    },
+    "Bow": {
+      "ja": "ボウ",
+      "ko": "보우",
+      "note": "KR固有語 활 の場合は「弓」"
+    },
+    "Bracers": {
+      "ja": "グローブ",
+      "ko": "글러브"
+    },
+    "Cannon": {
+      "ja": "キャノン",
+      "ko": "캐논"
+    },
+    "Circlet": {
+      "ja": "サークレット",
+      "ko": "써클릿"
+    },
+    "Claws": {
+      "ja": "クローハンド",
+      "ko": "핸드"
+    },
+    "Coat": {
+      "ja": "コート",
+      "ko": "코트"
+    },
+    "Codex": {
+      "ja": "法典",
+      "ko": "법전"
+    },
+    "Dagger": {
+      "ja": "短剣",
+      "ko": "단검"
+    },
+    "Gauntlets": {
+      "ja": "グローブ",
+      "ko": "글러브",
+      "note": "KR 건틀렛 ならガントレット"
+    },
+    "Greatsword": {
+      "ja": "ラージソード",
+      "ko": "라지소드"
+    },
+    "Greaves": {
+      "ja": "パンツ",
+      "ko": "팬츠",
+      "note": "KR 그리브 ならグリーブ"
+    },
+    "Helmet": {
+      "ja": "ヘルメット",
+      "ko": "헬멧"
+    },
+    "Knife": {
+      "ja": "ナイフ",
+      "ko": "나이프"
+    },
+    "Knuckles": {
+      "ja": "ナックル",
+      "ko": "너클"
+    },
+    "Longsword": {
+      "ja": "ロングソード",
+      "ko": "롱소드"
+    },
+    "Orb": {
+      "ja": "オーブ",
+      "ko": "오브"
+    },
+    "Pants": {
+      "ja": "パンツ",
+      "ko": "팬츠"
+    },
+    "Scepter": {
+      "ja": "セプター",
+      "ko": "홀 / 셉터"
+    },
+    "Shield": {
+      "ja": "シールド",
+      "ko": "쉴드",
+      "note": "KR固有語 방패 の場合は「盾」"
+    },
+    "Staff": {
+      "ja": "スタッフ",
+      "ko": "스태프"
+    },
+    "Star": {
+      "ja": "スパイク",
+      "ko": "스파이크",
+      "note": "KR固有語 표창 の場合は「手裏剣」"
+    },
+    "Tassets": {
+      "ja": "パンツ",
+      "ko": "팬츠",
+      "note": "KR 타시트 ならタシット"
+    },
+    "Vest": {
+      "ja": "ベスト",
+      "ko": "베스트"
+    },
+    "Belt": {
+      "ja": "ベルト",
+      "ko": "벨트"
+    },
+    "Cape": {
+      "ja": "マント",
+      "ko": "망토"
+    },
+    "Earrings": {
+      "ja": "イヤリング",
+      "ko": "귀고리"
+    },
+    "Necklace": {
+      "ja": "ネックレス",
+      "ko": "목걸이"
+    },
+    "Ring": {
+      "ja": "指輪",
+      "ko": "반지",
+      "note": "コスチューム系でKR 링 ならリング"
+    }
   },
-
   "cosmetic_slots": {
     "_comment": "コスチュームのスロット名。KR表記が正",
-    "Top": {"ja": "服(上)", "ko": "상의"},
-    "Bottoms / Bottom / Pants / Skirt": {"ja": "服(下)", "ko": "하의"},
-    "Hat": {"ja": "帽子", "ko": "모자"},
-    "Gloves": {"ja": "グローブ", "ko": "장갑"},
-    "Shoes": {"ja": "靴", "ko": "신발"},
-    "Cape": {"ja": "マント", "ko": "망토"},
-    "Onesie (full-body)": {"ja": "オールインワン", "ko": "전신"},
-    "Face Decoration / Face Ornament": {"ja": "顔飾り", "ko": "얼굴장식"},
-    "Eye Decoration": {"ja": "目の飾り", "ko": "눈장식"},
-    "Entrance / Entry / Fame": {"ja": "入場式", "ko": "입장식", "note": "EN表記が揺れているが全て同一スロット"},
-    "Hair": {"ja": "ヘア", "ko": "헤어"},
-    "Weapon Skin": {"ja": "武器スキン", "ko": "무기 스킨"}
+    "Top": {
+      "ja": "服(上)",
+      "ko": "상의"
+    },
+    "Bottoms / Bottom / Pants / Skirt": {
+      "ja": "服(下)",
+      "ko": "하의"
+    },
+    "Hat": {
+      "ja": "帽子",
+      "ko": "모자"
+    },
+    "Gloves": {
+      "ja": "グローブ",
+      "ko": "장갑"
+    },
+    "Shoes": {
+      "ja": "靴",
+      "ko": "신발"
+    },
+    "Cape": {
+      "ja": "マント",
+      "ko": "망토"
+    },
+    "Onesie (full-body)": {
+      "ja": "オールインワン",
+      "ko": "전신"
+    },
+    "Face Decoration / Face Ornament": {
+      "ja": "顔飾り",
+      "ko": "얼굴장식"
+    },
+    "Eye Decoration": {
+      "ja": "目の飾り",
+      "ko": "눈장식"
+    },
+    "Entrance / Entry / Fame": {
+      "ja": "入場式",
+      "ko": "입장식",
+      "note": "EN表記が揺れているが全て同一スロット"
+    },
+    "Hair": {
+      "ja": "ヘア",
+      "ko": "헤어"
+    },
+    "Weapon Skin": {
+      "ja": "武器スキン",
+      "ko": "무기 스킨"
+    }
   },
-
   "item_suffixes": {
     "_comment": "アイテム名の接尾・ボックス類",
-    "Selection Box": {"ja": "選択ボックス", "ko": "선택 상자"},
-    "Random Box": {"ja": "ランダムボックス", "ko": "랜덤 상자 / 뽑기 상자"},
-    "Reward Box": {"ja": "報酬ボックス", "ko": "보상 상자"},
-    "X Rank Reward Box": {"ja": "Xランク報酬ボックス", "ko": "X랭크 보상 상자"},
-    "Fragment (装備・箱の欠片)": {"ja": "〜の欠片", "ko": "조각"},
-    "Fragment (素材の破片)": {"ja": "〜の破片", "ko": "파편"},
-    "Scroll (装備入手用)": {"ja": "呪文書", "ko": "주문서"},
-    "Synthesis Scroll": {"ja": "合成呪文書", "ko": "합성 주문서"},
-    "Top/Bottoms ... Box": {"ja": "〜服…ボックス(上下)", "ko": "상의,하의", "note": "例: ファイアプリズム服選択ボックス(上下)"},
-    "All-in-One Box": {"ja": "オールインワンボックス", "ko": "올인원 상자"},
-    "Weapon Box": {"ja": "武器ボックス", "ko": "무기 상자"},
-    "Headgear Box": {"ja": "帽子ボックス", "ko": "모자 상자"},
-    "Interior Box": {"ja": "インテリアボックス", "ko": "인테리어 상자"},
-    "Voucher": {"ja": "クーポン", "ko": "쿠폰"},
-    "Souvenir": {"ja": "記念品", "ko": "기념품"},
-    "Return Gift": {"ja": "引き出物", "ko": "답례품"},
-    "Gift": {"ja": "プレゼント", "ko": "선물"},
-    "Treasure Chest": {"ja": "宝箱", "ko": "보물상자"},
-    "Recipe": {"ja": "レシピ", "ko": "레시피"},
-    "Package": {"ja": "パッケージ", "ko": "패키지"},
-    "Bundle": {"ja": "包み", "ko": "꾸러미"},
-    "Capsule (gacha)": {"ja": "ガチャカプセル", "ko": "가챠 캡슐", "note": "Random Capsule=ガチャカプセル"}
+    "Selection Box": {
+      "ja": "選択ボックス",
+      "ko": "선택 상자"
+    },
+    "Random Box": {
+      "ja": "ランダムボックス",
+      "ko": "랜덤 상자 / 뽑기 상자"
+    },
+    "Reward Box": {
+      "ja": "報酬ボックス",
+      "ko": "보상 상자"
+    },
+    "X Rank Reward Box": {
+      "ja": "Xランク報酬ボックス",
+      "ko": "X랭크 보상 상자"
+    },
+    "Fragment (装備・箱の欠片)": {
+      "ja": "〜の欠片",
+      "ko": "조각"
+    },
+    "Fragment (素材の破片)": {
+      "ja": "〜の破片",
+      "ko": "파편"
+    },
+    "Scroll (装備入手用)": {
+      "ja": "呪文書",
+      "ko": "주문서"
+    },
+    "Synthesis Scroll": {
+      "ja": "合成呪文書",
+      "ko": "합성 주문서"
+    },
+    "Top/Bottoms ... Box": {
+      "ja": "〜服…ボックス(上下)",
+      "ko": "상의,하의",
+      "note": "例: ファイアプリズム服選択ボックス(上下)"
+    },
+    "All-in-One Box": {
+      "ja": "オールインワンボックス",
+      "ko": "올인원 상자"
+    },
+    "Weapon Box": {
+      "ja": "武器ボックス",
+      "ko": "무기 상자"
+    },
+    "Headgear Box": {
+      "ja": "帽子ボックス",
+      "ko": "모자 상자"
+    },
+    "Interior Box": {
+      "ja": "インテリアボックス",
+      "ko": "인테리어 상자"
+    },
+    "Voucher": {
+      "ja": "クーポン",
+      "ko": "쿠폰"
+    },
+    "Souvenir": {
+      "ja": "記念品",
+      "ko": "기념품"
+    },
+    "Return Gift": {
+      "ja": "引き出物",
+      "ko": "답례품"
+    },
+    "Gift": {
+      "ja": "プレゼント",
+      "ko": "선물"
+    },
+    "Treasure Chest": {
+      "ja": "宝箱",
+      "ko": "보물상자"
+    },
+    "Recipe": {
+      "ja": "レシピ",
+      "ko": "레시피"
+    },
+    "Package": {
+      "ja": "パッケージ",
+      "ko": "패키지"
+    },
+    "Bundle": {
+      "ja": "包み",
+      "ko": "꾸러미"
+    },
+    "Capsule (gacha)": {
+      "ja": "ガチャカプセル",
+      "ko": "가챠 캡슐",
+      "note": "Random Capsule=ガチャカプセル"
+    }
   },
-
   "prefix_formats": {
     "_comment": "「接頭辞：名前」形式(コロンは全角・スペースなし)",
-    "Title: X": {"ja": "称号：X", "ko": "칭호 : X"},
-    "X Name Tag": {"ja": "ネームタグバッジ：X", "ko": "이름표 배지 : X"},
-    "X Chat Bubble": {"ja": "吹き出しバッジ：X", "ko": "말풍선 배지 : X"},
-    "X Emote": {"ja": "アクション受講証：X", "ko": "액션 수강증 : X"},
-    "X Buddy Emote": {"ja": "2人アクション受講証：X", "ko": "2인 액션 수강증 : X"},
-    "X Buddy Badge": {"ja": "カップルエフェクトバッジ：X", "ko": "커플 이펙트 배지 : X"},
-    "X Buddy Badge Chest": {"ja": "カップルエフェクトバッジボックス：X", "ko": "커플 이펙트 배지함 : X"},
-    "X Super Chat Theme": {"ja": "スーパーワールドチャット：X", "ko": "슈퍼 월드 대화 : X"},
-    "X Special Chat Theme": {"ja": "スペシャルワールドチャット：X", "ko": "스페셜 월드 대화 : X"},
-    "Photo Ticket: X": {"ja": "撮影チケット：X", "ko": "촬영 티켓 : X"},
-    "After Party Ticket: X": {"ja": "アフターパーティーチケット：X", "ko": "애프터 파티 티켓 : X"},
-    "Cushion: X": {"ja": "クッション：X", "ko": "쿠션: X"},
-    "Random Box: X": {"ja": "ランダムボックス：X", "ko": "랜덤 상자 : X"}
+    "Title: X": {
+      "ja": "称号：X",
+      "ko": "칭호 : X"
+    },
+    "X Name Tag": {
+      "ja": "ネームタグバッジ：X",
+      "ko": "이름표 배지 : X"
+    },
+    "X Chat Bubble": {
+      "ja": "吹き出しバッジ：X",
+      "ko": "말풍선 배지 : X"
+    },
+    "X Emote": {
+      "ja": "アクション受講証：X",
+      "ko": "액션 수강증 : X"
+    },
+    "X Buddy Emote": {
+      "ja": "2人アクション受講証：X",
+      "ko": "2인 액션 수강증 : X"
+    },
+    "X Buddy Badge": {
+      "ja": "カップルエフェクトバッジ：X",
+      "ko": "커플 이펙트 배지 : X"
+    },
+    "X Buddy Badge Chest": {
+      "ja": "カップルエフェクトバッジボックス：X",
+      "ko": "커플 이펙트 배지함 : X"
+    },
+    "X Super Chat Theme": {
+      "ja": "スーパーワールドチャット：X",
+      "ko": "슈퍼 월드 대화 : X"
+    },
+    "X Special Chat Theme": {
+      "ja": "スペシャルワールドチャット：X",
+      "ko": "스페셜 월드 대화 : X"
+    },
+    "Photo Ticket: X": {
+      "ja": "撮影チケット：X",
+      "ko": "촬영 티켓 : X"
+    },
+    "After Party Ticket: X": {
+      "ja": "アフターパーティーチケット：X",
+      "ko": "애프터 파티 티켓 : X"
+    },
+    "Cushion: X": {
+      "ja": "クッション：X",
+      "ko": "쿠션: X"
+    },
+    "Random Box: X": {
+      "ja": "ランダムボックス：X",
+      "ko": "랜덤 상자 : X"
+    }
   },
-
   "systems": {
     "_comment": "システム・強化用語",
-    "Meso": {"ja": "メル", "ko": "메소", "note": "MS1以来のJA伝統訳"},
-    "Bonus Re-roller": {"ja": "オプション変更券", "ko": "옵션 변경권"},
-    "Bonus Value Re-roller": {"ja": "オプション数値変更券", "ko": "옵션 수치 변경권"},
-    "Attribute Lock Scroll": {"ja": "オプション固定呪文書", "ko": "옵션 고정 주문서"},
-    "N-Socket Conversion Scroll": {"ja": "Nソケット変換呪文書", "ko": "N소켓 변환 주문서"},
-    "(Lv. 70)": {"ja": "(LV70)", "note": "接頭辞なら「70レベル〜」"},
-    "(Lv. 70/Armor)": {"ja": "(LV70/防具)"},
-    "Main Hand": {"ja": "片手", "ko": "한손"},
-    "Two-handed": {"ja": "両手", "ko": "양손"},
-    "Weapon": {"ja": "武器", "ko": "무기"},
-    "Armor": {"ja": "防具", "ko": "방어구"},
-    "Accessory": {"ja": "アクセサリー", "ko": "액세서리"},
-    "(PC Cafe)": {"ja": "(ネットカフェ) ", "ko": "(PC방)"},
-    "(Prize)": {"ja": "(景品) ", "ko": "(경품)"},
-    "(Intro)": {"ja": "(入門用) ", "ko": "(입문용)"},
-    "(Premium)": {"ja": "(プレミアム) ", "ko": "(프리미엄)"},
-    "Lapenshard": {"ja": "ラペンシャード", "ko": "라펜샤드"},
-    "Riding (mount)": {"ja": "〜ライディング", "ko": "라이딩", "note": "例: ピンクビーンブンブンカーライディング"},
-    "Car (붕붕카)": {"ja": "ブンブンカー", "ko": "붕붕카", "note": "文脈によりブーブーカーの既存訳もあり"},
-    "Potion": {"ja": "ポーション", "ko": "포션", "note": "赤いポーション/橙色ポーション/白いポーション"},
-    "Officiating Podium": {"ja": "司式台", "ko": "주례 단상"},
-    "Legion War": {"ja": "軍団戦", "ko": "군단전"},
-    "Flower Pot": {"ja": "鉢植え", "ko": "화분"},
-    "Vase": {"ja": "花瓶", "ko": "화병"},
-    "Candlestick": {"ja": "燭台", "ko": "촛대"},
-    "Beginner (job)": {"ja": "ビギナー", "ko": "초보자"},
-    "Weekly mission": {"ja": "[ウィークリー]任務", "ko": "주간 임무", "note": "일일 임무=デイリー任務(既訳)"},
-    "Return gift (wedding)": {"ja": "引き出物", "ko": "답례품"},
-    "Wedding guest": {"ja": "招待客", "ko": "하객"},
-    "Inventory": {"ja": "インベントリ", "ko": "소지품 창"},
-    "Combat power": {"ja": "戦闘力", "ko": "전투력"},
-    "Battleground and arena": {"ja": "戦場および闘技場", "ko": "전장 및 투기장", "note": "定型文「戦場および闘技場では効果が適用されない。」"}
+    "Meso": {
+      "ja": "メル",
+      "ko": "메소",
+      "note": "MS1以来のJA伝統訳"
+    },
+    "Bonus Re-roller": {
+      "ja": "オプション変更券",
+      "ko": "옵션 변경권"
+    },
+    "Bonus Value Re-roller": {
+      "ja": "オプション数値変更券",
+      "ko": "옵션 수치 변경권"
+    },
+    "Attribute Lock Scroll": {
+      "ja": "オプション固定呪文書",
+      "ko": "옵션 고정 주문서"
+    },
+    "N-Socket Conversion Scroll": {
+      "ja": "Nソケット変換呪文書",
+      "ko": "N소켓 변환 주문서"
+    },
+    "(Lv. 70)": {
+      "ja": "(LV70)",
+      "note": "接頭辞なら「70レベル〜」"
+    },
+    "(Lv. 70/Armor)": {
+      "ja": "(LV70/防具)"
+    },
+    "Main Hand": {
+      "ja": "片手",
+      "ko": "한손"
+    },
+    "Two-handed": {
+      "ja": "両手",
+      "ko": "양손"
+    },
+    "Weapon": {
+      "ja": "武器",
+      "ko": "무기"
+    },
+    "Armor": {
+      "ja": "防具",
+      "ko": "방어구"
+    },
+    "Accessory": {
+      "ja": "アクセサリー",
+      "ko": "액세서리"
+    },
+    "(PC Cafe)": {
+      "ja": "(ネットカフェ) ",
+      "ko": "(PC방)"
+    },
+    "(Prize)": {
+      "ja": "(景品) ",
+      "ko": "(경품)"
+    },
+    "(Intro)": {
+      "ja": "(入門用) ",
+      "ko": "(입문용)"
+    },
+    "(Premium)": {
+      "ja": "(プレミアム) ",
+      "ko": "(프리미엄)"
+    },
+    "Lapenshard": {
+      "ja": "ラペンシャード",
+      "ko": "라펜샤드"
+    },
+    "Riding (mount)": {
+      "ja": "〜ライディング",
+      "ko": "라이딩",
+      "note": "例: ピンクビーンブンブンカーライディング"
+    },
+    "Car (붕붕카)": {
+      "ja": "ブンブンカー",
+      "ko": "붕붕카",
+      "note": "文脈によりブーブーカーの既存訳もあり"
+    },
+    "Potion": {
+      "ja": "ポーション",
+      "ko": "포션",
+      "note": "赤いポーション/橙色ポーション/白いポーション"
+    },
+    "Officiating Podium": {
+      "ja": "司式台",
+      "ko": "주례 단상"
+    },
+    "Legion War": {
+      "ja": "軍団戦",
+      "ko": "군단전"
+    },
+    "Flower Pot": {
+      "ja": "鉢植え",
+      "ko": "화분"
+    },
+    "Vase": {
+      "ja": "花瓶",
+      "ko": "화병"
+    },
+    "Candlestick": {
+      "ja": "燭台",
+      "ko": "촛대"
+    },
+    "Beginner (job)": {
+      "ja": "ビギナー",
+      "ko": "초보자"
+    },
+    "Weekly mission": {
+      "ja": "[ウィークリー]任務",
+      "ko": "주간 임무",
+      "note": "일일 임무=デイリー任務(既訳)"
+    },
+    "Return gift (wedding)": {
+      "ja": "引き出物",
+      "ko": "답례품"
+    },
+    "Wedding guest": {
+      "ja": "招待客",
+      "ko": "하객"
+    },
+    "Inventory": {
+      "ja": "インベントリ",
+      "ko": "소지품 창"
+    },
+    "Combat power": {
+      "ja": "戦闘力",
+      "ko": "전투력"
+    },
+    "Battleground and arena": {
+      "ja": "戦場および闘技場",
+      "ko": "전장 및 투기장",
+      "note": "定型文「戦場および闘技場では効果が適用されない。」"
+    },
+    "Meret": {
+      "ja": "メロット",
+      "ko": "메럿",
+      "note": "JMS2はメレットではなくメロット(corpus: 메럿 주머니=ブルーメロット袋)。레드메럿=レッドメロット、블루메럿=ブルーメロット"
+    },
+    "Limit Break": {
+      "ja": "限界突破",
+      "ko": "한계돌파"
+    },
+    "Trait": {
+      "ja": "特性",
+      "ko": "특성",
+      "note": "特性ポイント/初期化(CharacterAbility)"
+    },
+    "World Chat": {
+      "ja": "ワールドチャット",
+      "ko": "월드 대화",
+      "note": "스페셜 월드 대화=スペシャルワールドチャット"
+    },
+    "Payback": {
+      "ja": "ペイバック",
+      "ko": "페이백"
+    },
+    "Dungeon difficulty tags": {
+      "ja": "[ノーマル]/[ハード]/[ノーマル/ハード]",
+      "ko": "[일반]/[어려움]",
+      "note": "stringfieldenterance既訳準拠"
+    },
+    "Fishing grades": {
+      "ja": "初級/中級/上級N段階→プロ釣り師(전문)→プロ釣り人(프로)→チャンピオン釣り人(챔피언)、N급=N級を前置",
+      "ko": "초보/중급/상급/전문/프로/챔피언 낚시꾼"
+    },
+    "Kritias reputation grades": {
+      "ja": "信頼/尊敬/親愛/英雄",
+      "ko": "EN: Trusted/Respected/Beloved/Revered",
+      "note": "特殊任務等級の영웅=英雄と対応(achievedescription)"
+    },
+    "Mail": {
+      "ja": "郵便",
+      "ko": "우편"
+    }
   },
-
   "wedding": {
-    "_comment": "結婚(ウェディング)関連。Couple(부부)=夫婦、Bride(신부)=花嫁、Groom(신랑)=花婿",
-    "Bride": {"ja": "花嫁", "ko": "신부"},
-    "Groom": {"ja": "花婿", "ko": "신랑"},
-    "Couple (married)": {"ja": "夫婦", "ko": "부부"},
-    "Affectionate / Loving (다정한)": {"ja": "優しい"},
-    "Blessed (축복받은)": {"ja": "祝福された"},
-    "Considerate (자상한)": {"ja": "思いやりのある"},
-    "Fresh (풋풋한)": {"ja": "初々しい"},
-    "Gentle/Soft Moonlight (달빛 은은)": {"ja": "ほのかな月明かりの"},
-    "Radiant / Shining (빛나는)": {"ja": "輝く"},
-    "Serious (진지한)": {"ja": "真剣な"},
-    "Splendid (화려한)": {"ja": "華麗な"},
-    "Strong (든든한)": {"ja": "頼もしい"},
-    "Sunshine-Filled / Sunlit (햇살 가득)": {"ja": "陽射しあふれる"},
-    "Trusted / Trusting (신뢰받는)": {"ja": "信頼される"},
-    "Warm (따뜻한)": {"ja": "温かい"},
-    "Bright (화사한)": {"ja": "華やかな"},
-    "Calm (차분한)": {"ja": "落ち着いた"},
-    "Brilliant (찬란한)": {"ja": "きらめく"},
-    "Elegant (우아한)": {"ja": "優雅な"},
-    "Gentle (은은한)": {"ja": "ほのかな"},
-    "Wedding Reservation Coupon": {"ja": "ウェディング無料予約クーポン", "ko": "웨딩 무료 예약 쿠폰"}
+    "_comment": "結婚(ウェディング)関連。Couple(부부)=夫婦、Bride(신부)/Groom(신랑)は称号・アイテム名では花嫁/花婿、UI・説明文では新婦/新郎(koritemdescription既訳の使い分けに従う)",
+    "Bride": {
+      "ja": "花嫁",
+      "ko": "신부"
+    },
+    "Groom": {
+      "ja": "花婿",
+      "ko": "신랑"
+    },
+    "Couple (married)": {
+      "ja": "夫婦",
+      "ko": "부부"
+    },
+    "Affectionate / Loving (다정한)": {
+      "ja": "優しい"
+    },
+    "Blessed (축복받은)": {
+      "ja": "祝福された"
+    },
+    "Considerate (자상한)": {
+      "ja": "思いやりのある"
+    },
+    "Fresh (풋풋한)": {
+      "ja": "初々しい"
+    },
+    "Gentle/Soft Moonlight (달빛 은은)": {
+      "ja": "ほのかな月明かりの"
+    },
+    "Radiant / Shining (빛나는)": {
+      "ja": "輝く"
+    },
+    "Serious (진지한)": {
+      "ja": "真剣な"
+    },
+    "Splendid (화려한)": {
+      "ja": "華麗な"
+    },
+    "Strong (든든한)": {
+      "ja": "頼もしい"
+    },
+    "Sunshine-Filled / Sunlit (햇살 가득)": {
+      "ja": "陽射しあふれる"
+    },
+    "Trusted / Trusting (신뢰받는)": {
+      "ja": "信頼される"
+    },
+    "Warm (따뜻한)": {
+      "ja": "温かい"
+    },
+    "Bright (화사한)": {
+      "ja": "華やかな"
+    },
+    "Calm (차분한)": {
+      "ja": "落ち着いた"
+    },
+    "Brilliant (찬란한)": {
+      "ja": "きらめく"
+    },
+    "Elegant (우아한)": {
+      "ja": "優雅な"
+    },
+    "Gentle (은은한)": {
+      "ja": "ほのかな"
+    },
+    "Wedding Reservation Coupon": {
+      "ja": "ウェディング無料予約クーポン",
+      "ko": "웨딩 무료 예약 쿠폰"
+    },
+    "Wedding Invitation": {
+      "ja": "招待状",
+      "ko": "청첩장"
+    },
+    "Intimacy": {
+      "ja": "親密度",
+      "ko": "친밀도"
+    },
+    "Divorce contemplation period": {
+      "ja": "熟慮期間",
+      "ko": "숙려 기간"
+    },
+    "Blessing Charm": {
+      "ja": "祝福のお守り",
+      "ko": "축복의 부적"
+    }
   },
-
   "modifiers": {
     "_comment": "名前の修飾語。魚名の 독〜はドク+和名(ドクマカジキ等)、황금〜は黄金+和名(黄金タツノオトシゴ等)がコーパス既訳",
-    "Corrupted": {"ja": "侵食された", "ko": "침식된", "note": "闇の力による침식は「侵食」(questdescription既訳)。物理的な浸食作用は「浸食」(koritemdescription既訳)"},
-    "Toxic (fish)": {"ja": "ドク〜", "ko": "독", "note": "魚名では独立語の독→ドク+和名: ドクマカジキ/ドクアワビ/ドクナマズ/ドクカメノテ。既訳 독나비돔→ドクシラコダイ"},
-    "Rainbow (fauna)": {"ja": "虹〜", "ko": "무지개", "note": "生物名では虹(虹タツノオトシゴ)。コスチューム類はレインボー既訳が多い"},
-    "Black Legion / Daemon": {"ja": "闇の軍団", "ko": "검은군단 / 검은 군단", "note": "ENはDaemon/Black Legionで揺れ。既訳(koritemdescription)準拠で闇の軍団。※itemname既訳に「暗黒の軍団の番犬」が1件あるが闇の軍団が正"},
-    "Owl (부엉이/올빼미)": {"ja": "ミミズク / フクロウ", "ko": "부엉이=ミミズク、올빼미=フクロウ"}
+    "Corrupted": {
+      "ja": "侵食された",
+      "ko": "침식된",
+      "note": "闇の力による침식は「侵食」(questdescription既訳)。物理的な浸食作用は「浸食」(koritemdescription既訳)"
+    },
+    "Toxic (fish)": {
+      "ja": "ドク〜",
+      "ko": "독",
+      "note": "魚名では独立語の독→ドク+和名: ドクマカジキ/ドクアワビ/ドクナマズ/ドクカメノテ。既訳 독나비돔→ドクシラコダイ"
+    },
+    "Rainbow (fauna)": {
+      "ja": "虹〜",
+      "ko": "무지개",
+      "note": "生物名では虹(虹タツノオトシゴ)。コスチューム類はレインボー既訳が多い"
+    },
+    "Black Legion / Daemon": {
+      "ja": "闇の軍団",
+      "ko": "검은군단 / 검은 군단",
+      "note": "ENはDaemon/Black Legionで揺れ。既訳(koritemdescription)準拠で闇の軍団。※itemname既訳に「暗黒の軍団の番犬」が1件あるが闇の軍団が正"
+    },
+    "Owl (부엉이/올빼미)": {
+      "ja": "ミミズク / フクロウ",
+      "ko": "부엉이=ミミズク、올빼미=フクロウ"
+    }
   }
 }

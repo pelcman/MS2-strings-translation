@@ -36,6 +36,18 @@ work/
 │   ├── tail.txt           # 一点物438種の抽出(###n ↔ KO原文)
 │   ├── tail_ja.json       # ###n → JA訳マップ(528文字列)
 │   └── apply_tail.py      # 一点物の適用 → これで翻訳可能分は完訳
+├── uifiles/            # 2026-08-11 UI系小型ファイル一括翻訳セッション
+│   ├── apply_ui.py        # 汎用適用(KO完全一致マップ): python work/uifiles/apply_ui.py <データ名> <マップJSON>
+│   ├── apply_rules.py     # 汎用適用(数値→#正規化テンプレート、KO不可時はEN::キーでENフォールバック)
+│   ├── apply_sfe.py       # stringfieldenterance 専用(行単位TM+装備ガイド行のルール生成)
+│   ├── <データ名>.txt      # 各ファイルの未翻訳抽出(###n key= / KO| / EN|)
+│   ├── mapname_ja.json / titlename_ja.json / achievename_ja.json  # 完全一致マップ
+│   ├── achievedesc_rules.json / achievedesc_en_rules.json  # 実績説明(KO源280+EN源124)
+│   ├── dungeonmission_rules.json / npctitle_ja.json / stringnpcai_ja.json
+│   ├── sfe_map.json / sfe_missing.txt      # stringfieldenterance 行マップ
+│   ├── usmsubtitle_ja.json                 # キリアンの真実 字幕(KR40+CN40、CN固有名詞はKR準拠に正規化)
+│   ├── korflash_ja.json / stringcommon_ja.json  # UI文字列(EN::キー=KO空欄/英語混入分)
+│   └── *.backup.json      # 適用直前のバックアップ
 └── itemname/           # 2026-08 アイテム名翻訳セッションの成果物
     ├── auto_map.json   # ルールベース翻訳の結果 (EN→JA 1,062種)
     ├── manual_en.json  # 手動翻訳マップ EN→JA (exact + gendered)
@@ -56,3 +68,5 @@ work/
   (JMS2公式訳と新規訳の区別はコーパス上ではつかない)。どれが新規訳かは
   `work/itemname/auto_map.json` / `manual_*.json` で判別できる。
 - 新しいデータ(UI・ストーリー等)の作業は `work/<データ名>/` を新設して行う。
+- stringcommon の `comment`/`commend`/`desc` 等の開発者向けメモフィールドは JMS2 でも韓国語のままの
+  ものが多数あり(85件中62件)、ハングル残存チェックの対象外とする(addressname の `*Kor` と同様)。
