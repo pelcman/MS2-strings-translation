@@ -1,0 +1,2432 @@
+###1 count=1 field=name key=10200265|1-JobChange_02- 名=고군 분투 1단계
+KO|고군 분투 1단계
+EN|Death Rattle I
+
+###2 count=1 field=name key=10200265|2-JobChange_02- 名=고군 분투 2단계
+KO|고군 분투 2단계
+EN|Death Rattle II
+
+###3 count=1 field=name key=10200265|3-JobChange_02- 名=고군 분투 3단계
+KO|고군 분투 3단계
+EN|Death Rattle III
+
+###4 count=1 field=name key=10200265|4-JobChange_02- 名=고군 분투 4단계
+KO|고군 분투 4단계
+EN|Death Rattle IV
+
+###5 count=1 field=name key=10200265|5-JobChange_02- 名=고군 분투 5단계
+KO|고군 분투 5단계
+EN|Death Rattle V
+
+###6 count=1 field=name key=10300283|1-JobChange_02- 名=소화
+KO|소화
+EN|Extinguish
+
+###7 count=1 field=name key=10500295|1-JobChange_02- 名=휴식 시간
+KO|휴식 시간
+EN|Roosting
+
+###8 count=1 field=name key=110001001|1-CharacterAbility- 名=HP 및 방어력 증가
+KO|HP 및 방어력 증가
+EN|Increased HP and Defense
+
+###9 count=1 field=name key=110001002|1-CharacterAbility- 名=물리 저항력 증가
+KO|물리 저항력 증가
+EN|Increased Physical Resistance
+
+###10 count=1 field=name key=110001003|1-CharacterAbility- 名=마법 저항력 증가
+KO|마법 저항력 증가
+EN|Increased Magic Resistance
+
+###11 count=1 field=name key=110001004|1-CharacterAbility- 名=엘리트 몬스터 대미지 증가
+KO|엘리트 몬스터 대미지 증가
+EN|Increased Elite Monster Damage
+
+###12 count=1 field=name key=110001005|1-CharacterAbility- 名=보스 몬스터 대미지 증가
+KO|보스 몬스터 대미지 증가
+EN|Increased Boss Monster Damage
+
+###13 count=1 field=name key=110001006|1-CharacterAbility- 名=무기 공격력 증가
+KO|무기 공격력 증가
+EN|Increased Weapon Attack
+
+###14 count=1 field=name key=110001007|1-CharacterAbility- 名=명중 증가
+KO|명중 증가
+EN|Increased Accuracy
+
+###15 count=1 field=name key=110001008|1-CharacterAbility- 名=방어력 관통 증가
+KO|방어력 관통 증가
+EN|Increased Piercing
+
+###16 count=1 field=name key=110001009|1-CharacterAbility- 名=물리 및 마법 대미지 증가
+KO|물리 및 마법 대미지 증가
+EN|Increased Physical and Magic Damage
+
+###17 count=1 field=name key=110001010|1-CharacterAbility- 名=물리 및 마법 저항력 관통 증가
+KO|물리 및 마법 저항력 관통 증가
+EN|Increased Physical and Magic Resistance Piercing
+
+###18 count=1 field=name key=110001011|1-CharacterAbility- 名=물리 및 마법 공격력 증가
+KO|물리 및 마법 공격력 증가
+EN|Increased Physical and Magic Attack
+
+###19 count=1 field=name key=110001012|1-CharacterAbility- 名=피격 시 공격속도 증가
+KO|피격 시 공격속도 증가
+EN|Increased Attack Speed When Hit
+
+###20 count=1 field=name key=110001013|1-CharacterAbility- 名=엘리트 몬스터에게 피격 시 피해 감소
+KO|엘리트 몬스터에게 피격 시 피해 감소
+EN|Reduced Damage from Elite Monsters
+
+###21 count=1 field=name key=110001014|1-CharacterAbility- 名=필드 보스 몬스터 처치 시 보너스 획득
+KO|필드 보스 몬스터 처치 시 보너스 획득
+EN|Bonus Rewards from Field Bosses
+
+###22 count=1 field=name key=110001015|1-CharacterAbility- 名=투기장 승리 시 용맹의 증표 추가 획득
+KO|투기장 승리 시 용맹의 증표 추가 획득
+EN|Bonus Valor Tokens from Arena Victories
+
+###23 count=1 field=name key=110001016|1-CharacterAbility- 名=포션 사용 시 쿨타임 감소
+KO|포션 사용 시 쿨타임 감소
+EN|Reduced Potion Cooldown
+
+###24 count=1 field=name key=110001017|1-CharacterAbility- 名=엘릭서 사용 시 쿨타임 감소
+KO|엘릭서 사용 시 쿨타임 감소
+EN|Reduced Elixir Cooldown
+
+###25 count=1 field=name key=110001018|1-CharacterAbility- 名=탈것 이동속도 증가
+KO|탈것 이동속도 증가
+EN|Increased Mount Movement Speed
+
+###26 count=1 field=name key=110001019|1-CharacterAbility- 名=황금 보물 상자에서 추가 보너스 획득
+KO|황금 보물 상자에서 추가 보너스 획득
+EN|Bonus Rewards from Golden Treasure Chests
+
+###27 count=1 field=name key=110001020|1-CharacterAbility- 名=나무 보물 상자에서 추가 보너스 획득
+KO|나무 보물 상자에서 추가 보너스 획득
+EN|Bonus Rewards from Wooden Treasure Chests
+
+###28 count=1 field=name key=110001021|1-CharacterAbility- 名=일일 퀘스트에서 추가 경험치 획득
+KO|일일 퀘스트에서 추가 경험치 획득
+EN|Bonus EXP from Daily Quests
+
+###29 count=1 field=name key=110001022|1-CharacterAbility- 名=일일 퀘스트에서 추가 메소 획득
+KO|일일 퀘스트에서 추가 메소 획득
+EN|Bonus Mesos from Daily Quests
+
+###30 count=1 field=name key=110001023|1-CharacterAbility- 名=일일 퀘스트에서 추가 루 획득
+KO|일일 퀘스트에서 추가 루 획득
+EN|Bonus Lu from Daily Quests
+
+###31 count=1 field=name key=110001024|1-CharacterAbility- 名=$item:30001133$에서 보너스 보상 획득
+KO|$item:30001133$에서 보너스 보상 획득
+EN|Bonus Rewards from $item:30001133$
+
+###32 count=1 field=name key=110001025|1-CharacterAbility- 名=악보 연주 시 추가 경험치 획득
+KO|악보 연주 시 추가 경험치 획득
+EN|Bonus EXP from Sheet Music Performances
+
+###33 count=1 field=name key=110001026|1-CharacterAbility- 名=대도시에서 휴식 경험치 획득 가능
+KO|대도시에서 휴식 경험치 획득 가능
+EN|Rest EXP in Major Cities
+
+###34 count=1 field=name key=110001027|1-CharacterAbility- 名=월척 시 경험치 및 숙련도 획득량 증가
+KO|월척 시 경험치 및 숙련도 획득량 증가
+EN|Increased EXP and Mastery from Prize Catches
+
+###35 count=1 field=name key=110001028|1-CharacterAbility- 名=인챈트 실패 시 프랙타 결정 추가 획득
+KO|인챈트 실패 시 프랙타 결정 추가 획득
+EN|Bonus Fracta Crystals on Enchant Failure
+
+###36 count=1 field=name key=110001029|1-CharacterAbility- 名=반지 제작 대성공 시 아이템 추가 획득
+KO|반지 제작 대성공 시 아이템 추가 획득
+EN|Bonus Items from Great Success in Ring Crafting
+
+###37 count=1 field=name key=11100266|1-JobChange_02- 名=스피릿 번
+KO|스피릿 번
+EN|Spirit Burn
+
+###38 count=1 field=name key=11100269|1-JobChange_02- 名=소진 상태
+KO|소진 상태
+EN|Exhaustion
+
+###39 count=1 field=name key=11100297|1-JobChange_02- 名=비전 스피릿 번
+KO|비전 스피릿 번
+EN|Vision Spirit Burn
+
+###40 count=1 field=name key=49288001|1-Gigantica01- 名=땅속 숨기
+KO|땅속 숨기
+EN|Burrowing
+
+###41 count=1 field=name key=49288003|1-Gigantica01- 名=꼬리 중독
+KO|꼬리 중독
+EN|Poison Sting
+
+###42 count=1 field=name key=49288008|1-Gigantica01- 名=맹독 숙주
+KO|맹독 숙주
+EN|Poison Host
+
+###43 count=1 field=name key=49288009|1-Gigantica01- 名=극심한 고통
+KO|극심한 고통
+EN|Terrible Pain
+
+###44 count=1 field=name key=49288010|1-Gigantica01- 名=감전 해제
+KO|감전 해제
+EN|Cure Shock
+
+###45 count=1 field=name key=49288011|1-Gigantica01- 名=중독 해제
+KO|중독 해제
+EN|Cure Poison
+
+###46 count=1 field=name key=49288015|1-Gigantica01- 名=적응력 해제
+KO|적응력 해제
+EN|Adaptability Disabled
+
+###47 count=1 field=name key=49288016|1-Gigantica01- 名=적응력 적용
+KO|적응력 적용
+EN|Apply Adaptability
+
+###48 count=1 field=name key=49288017|1-Gigantica01- 名=기간티카 일반몹 인식용
+KO|기간티카 일반몹 인식용
+EN|Gigantica common mob recognition use
+
+###49 count=1 field=name key=49288018|1-Gigantica01- 名=기간티카 일반몹 드릴 추가 피해
+KO|기간티카 일반몹 드릴 추가 피해
+EN|Gigantica common mob drill additional damage
+
+###50 count=1 field=name key=49288019|1-Gigantica01- 名=일반몹에 대한 드릴공격 인식
+KO|일반몹에 대한 드릴공격 인식
+EN|Drill attack recognition for common mob
+
+###51 count=1 field=name key=49288021|1-Gigantica01- 名=팬텀 디스트로이어 체력 감소
+KO|팬텀 디스트로이어 체력 감소
+EN|Phantom Destroyer health reduction
+
+###52 count=1 field=name key=49288027|1-Gigantica01- 名=기간티카 공격에 의한 디버프 모드 해제
+KO|기간티카 공격에 의한 디버프 모드 해제
+EN|Disable all debuffs from Gigantica's attack
+
+###53 count=1 field=name key=49289001|1-Colosseum01- 名=기사의 함성
+KO|기사의 함성
+EN|Knight's War Cry
+
+###54 count=1 field=name key=49289011|1-Colosseum01- 名=무적
+KO|무적
+EN|Invincible
+
+###55 count=1 field=name key=49289012|1-Colosseum01- 名=전체 체력 감소
+KO|전체 체력 감소
+EN|Max Health Down
+
+###56 count=1 field=name key=49289051|1-Colosseum01- 名=강화 시도 중
+KO|강화 시도 중
+EN|Pending Power
+
+###57 count=1 field=name key=49289052|1-Colosseum01- 名=강화 성공
+KO|강화 성공
+EN|Powered Up
+
+###58 count=2 field=name key=49289063|1-Colosseum01- 名=고도의 집중력
+KO|고도의 집중력
+EN|Extreme Concentration
+
+###59 count=1 field=name key=49289071|1-Colosseum02- 名=강해짐
+KO|강해짐
+EN|Empowered
+
+###60 count=1 field=name key=50000061|1-DungeonOpen70CH5- 名=이동속도 저하
+KO|이동속도 저하
+EN|Movement Speed Reduced
+
+###61 count=1 field=name key=50000081|2-DungeonOpen70AH3- 名=화상
+KO|화상
+EN|Burn
+
+###62 count=1 field=name key=50000089|1-Kritias_Turka03- 名=투르카의 위협
+KO|투르카의 위협
+EN|Turka's Threat
+
+###63 count=1 field=name key=50000513|1-DungeonOpen70CH5- 名=SP 봉인
+KO|SP 봉인
+EN|SP Sealed
+
+###64 count=1 field=name key=50000917|1-DungeonOpen70CH5- 名=블랙빈의 저주 폭탄
+KO|블랙빈의 저주 폭탄
+EN|Black Bean's Curse Bomb
+
+###65 count=1 field=name key=50001555|1-DungeonOpen70CH5- 名=흡수된 상태
+KO|흡수된 상태
+EN|Absorbed
+
+###66 count=1 field=name key=50001662|1-DungeonOpen70CH5- 名=명중 감소
+KO|명중 감소
+EN|Accuracy Reduced
+
+###67 count=2 field=name key=50003307|1-DungeonOpen70CH5- 名=공격 반사
+KO|공격 반사
+EN|Attack Reflection
+
+###68 count=1 field=name key=50004548|1-Kritias_Inferno01- 名=인페르녹 눈빛의 저주
+KO|인페르녹 눈빛의 저주
+EN|Infernog Eye Curse
+
+###69 count=1 field=name key=50004557|1-Kritias_Inferno01- 名=기력 저하
+KO|기력 저하
+EN|Vitality Down
+
+###70 count=2 field=name key=50004570|1-Kritias_Turka03- 名=투르카의 분노
+KO|투르카의 분노
+EN|Turka's Rage
+
+###71 count=1 field=name key=50004573|1-Kritias_Turka03- 名=마력 구슬의 공포
+KO|마력 구슬의 공포
+EN|Terror of the Magic Orb
+
+###72 count=1 field=name key=50005103|1-DungeonOpen70CH5- 名=공격력 상승
+KO|공격력 상승
+EN|Attack Increased
+
+###73 count=1 field=name key=50005300|1-Kritias_Zakum01- 名=토템의 자쿰 보호 명령
+KO|토템의 자쿰 보호 명령
+EN|Totem's Protection
+
+###74 count=1 field=name key=50005301|1-Kritias_Zakum01- 名=자쿰의 토템 보호 명령
+KO|자쿰의 토템 보호 명령
+EN|Zakum's Protection
+
+###75 count=1 field=name key=50005319|1-DungeonOpen70CH5- 名=검은색 페인트의 피해
+KO|검은색 페인트의 피해
+EN|Black Paint Damage
+
+###76 count=1 field=name key=50005320|1-DungeonOpen70CH5- 名=빨간색 페인트
+KO|빨간색 페인트
+EN|Red Paint
+
+###77 count=1 field=name key=50005321|1-DungeonOpen70CH5- 名=노란색 페인트
+KO|노란색 페인트
+EN|Yellow Paint
+
+###78 count=1 field=name key=50005322|1-DungeonOpen70CH5- 名=파란색 페인트
+KO|파란색 페인트
+EN|Blue Paint
+
+###79 count=1 field=name key=50005323|1-DungeonOpen70CH5- 名=노란색 페인트의 피해 1단계
+KO|노란색 페인트의 피해 1단계
+EN|Yellow Paint Damage I
+
+###80 count=1 field=name key=50005324|1-DungeonOpen70CH5- 名=노란색 페인트의 피해 2단계
+KO|노란색 페인트의 피해 2단계
+EN|Yellow Paint Damage II
+
+###81 count=1 field=name key=50005325|1-DungeonOpen70CH5- 名=노란색 페인트의 피해 3단계
+KO|노란색 페인트의 피해 3단계
+EN|Yellow Paint Damage III
+
+###82 count=2 field=name key=62100102|1-Kritias_Turka01- 名=오버파워1형태
+KO|오버파워1형태
+EN|Overpower Form 1
+
+###83 count=2 field=name key=62100105|1-Kritias_Turka01- 名=오버파워2형태
+KO|오버파워2형태
+EN|Overpower Form 2
+
+###84 count=2 field=name key=62100107|1-Kritias_Turka01- 名=오버파워2형태_제거
+KO|오버파워2형태_제거
+EN|Remove Overpower Form 2
+
+###85 count=2 field=name key=62100108|1-Kritias_Turka01- 名=오버파워3형태
+KO|오버파워3형태
+EN|Overpower Form 3
+
+###86 count=1 field=name key=62100110|1-Kritias_Turka01- 名=아르케온 밤 준비 완료
+KO|아르케온 밤 준비 완료
+EN|Archeon Night Ready
+
+###87 count=2 field=name key=62100111|1-Kritias_Turka01- 名=오버파워3형태_제거
+KO|오버파워3형태_제거
+EN|Remove Overpower Form 3
+
+###88 count=2 field=name key=62100121|1-Kritias_Turka01- 名=폭주
+KO|폭주
+EN|Frenzy
+
+###89 count=1 field=name key=62100150|2-Kritias_Turka01- 名=아르케온 탈것 제어 (연료)
+KO|아르케온 탈것 제어 (연료)
+EN|Archeon Mount Control (Fuel)
+
+###90 count=2 field=name key=62100161|1-Kritias_Turka01- 名=아르케온 케논 타겟용 버프
+KO|아르케온 케논 타겟용 버프
+EN|Archeon Cannon Target Buff
+
+###91 count=1 field=name key=62100166|1-Kritias_Turka01- 名=피곤함
+KO|피곤함
+EN|Fatigue
+
+###92 count=1 field=name key=62100171|1-Kritias_Turka01- 名=아르케온 케논 피격용
+KO|아르케온 케논 피격용
+EN|Archeon Cannon Hit Target
+
+###93 count=1 field=name key=70002221|1-Fieldwar01- 名=군단의 결속 : 기운
+KO|군단의 결속 : 기운
+EN|Army Unity: Energy
+
+###94 count=2 field=name key=70002231|1-Kritias_2018_12- 名=군단 파괴자
+KO|군단 파괴자
+EN|Army Destroyer
+
+###95 count=2 field=name key=70002241|1-Kritias_2018_12- 名=군단 학살자
+KO|군단 학살자
+EN|Army Slayer
+
+###96 count=2 field=name key=70002251|1-Kritias_2018_12- 名=군단 처리자
+KO|군단 처리자
+EN|Army Disposer
+
+###97 count=2 field=name key=70002261|1-Kritias_2018_12- 名=군단 처형자
+KO|군단 처형자
+EN|Army Executioner
+
+###98 count=1 field=name key=70002501|1-Develop- 名=拥有资源3
+KO|拥有资源3
+EN|(なし)
+
+###99 count=1 field=name key=70002502|1-Develop- 名=拥有资源6
+KO|拥有资源6
+EN|(なし)
+
+###100 count=1 field=name key=70002503|1-Develop- 名=拥有资源9
+KO|拥有资源9
+EN|(なし)
+
+###101 count=2 field=name key=70002504|1-Develop- 名=累积资源
+KO|累积资源
+EN|(なし)
+
+###102 count=2 field=name key=70002511|1-Develop- 名=总资源
+KO|总资源
+EN|(なし)
+
+###103 count=1 field=name key=70002541|1-Develop- 名=渗透组增益
+KO|渗透组增益
+EN|(なし)
+
+###104 count=1 field=name key=70002551|1-Develop- 名=删除渗透组增益
+KO|删除渗透组增益
+EN|(なし)
+
+###105 count=2 field=name key=71001211|1-Kritias_2018_12- 名=밝은 인사성
+KO|밝은 인사성
+EN|Bright and Courteous
+
+###106 count=2 field=name key=71001221|1-Kritias_2018_12- 名=빤히보기
+KO|빤히보기
+EN|Staring
+
+###107 count=1 field=name key=71001271|1-Kritias_2018_12- 名=제한시간!
+KO|제한시간!
+EN|Time Limit!
+
+###108 count=1 field=name key=71001281|1-Kritias_2018_12- 名=시간초과!
+KO|시간초과!
+EN|Time's Up!
+
+###109 count=1 field=name key=71001311|1-Kritias_2018_12- 名=수줍음 상승
+KO|수줍음 상승
+EN|Feeling Shy
+
+###110 count=1 field=name key=73000003|1-Fieldwar02- 名=스톤 골렘 탑승
+KO|스톤 골렘 탑승
+EN|Mount Stone Golem
+
+###111 count=2 field=name key=73000011|1-Kritias_Turka03- 名=아르케온 델타 탑승
+KO|아르케온 델타 탑승
+EN|Riding Archeon Delta
+
+###112 count=2 field=name key=73000100|1-Kritias_Turka02- 名=붉은색 코어 에너지
+KO|붉은색 코어 에너지
+EN|Red Core Energy
+
+###113 count=2 field=name key=73000101|1-Kritias_Turka02- 名=초록색 코어 에너지
+KO|초록색 코어 에너지
+EN|Green Core Energy
+
+###114 count=2 field=name key=73000102|1-Kritias_Turka02- 名=푸른색 코어 에너지
+KO|푸른색 코어 에너지
+EN|Blue Core Energy
+
+###115 count=2 field=name key=73000103|1-Kritias_Turka02- 名=노란색 코어 에너지
+KO|노란색 코어 에너지
+EN|(なし)
+
+###116 count=2 field=name key=90051620|1-Level70Item- 名=영롱한 푸른빛
+KO|영롱한 푸른빛
+EN|Intense Blue Glow
+
+###117 count=1 field=name key=90051621|1-Level70Item- 名=미약한 푸른빛
+KO|미약한 푸른빛
+EN|Weak Blue Glow
+
+###118 count=1 field=name key=90051622|1-Level70Item- 名=영롱하군요!!!
+KO|영롱하군요!!!
+EN|Extreme Brightness
+
+###119 count=1 field=name key=90051639|1-Level70Item- 名=이동속도 6% 증가 (전장에서 미적용)
+KO|이동속도 6% 증가 (전장에서 미적용)
+EN|Movement Speed +6% (Excepting Battlegrounds)
+
+###120 count=1 field=name key=90051640|1-Level70Item- 名=지상 탈것 탑승 시 이동속도 20% 증가 (전장에서 미적용)
+KO|지상 탈것 탑승 시 이동속도 20% 증가 (전장에서 미적용)
+EN|Ground Mount Speed +20% (Excluding Battlegrounds)
+
+###121 count=1 field=name key=90051641|1-Level70Item- 名=에네르 부스트
+KO|에네르 부스트
+EN|Aetherine Boost
+
+###122 count=1 field=name key=90051642|1-Level70Item- 名=고대의 힘 강화
+KO|고대의 힘 강화
+EN|Ancient Infusion
+
+###123 count=1 field=name key=90051650|1-Level70Item- 名=타오르는 에너지
+KO|타오르는 에너지
+EN|Burning Bubble
+
+###124 count=1 field=name key=90051651|1-Level70Item- 名=에너지 보호막
+KO|에너지 보호막
+EN|Energy Barrier
+
+###125 count=2 field=name key=90051744-Level70Item- 名=연속 포격
+KO|연속 포격
+EN|Continuous Bombardment
+
+###126 count=1 field=name key=92002016|1-ShadowExpedition- 名=유혈 사태
+KO|유혈 사태
+EN|(なし)
+
+###127 count=1 field=name key=92002029|1-ShadowExpedition- 名=피의 울림
+KO|피의 울림
+EN|(なし)
+
+###128 count=1 field=name key=92003019|1-ShadowExpedition- 名=한파
+KO|한파
+EN|(なし)
+
+###129 count=1 field=name key=92007004|1-ShadowExpedition- 名=좌충우돌
+KO|좌충우돌
+EN|(なし)
+
+###130 count=1 field=name key=92007006|1-ShadowExpedition- 名=맹독 주머니
+KO|맹독 주머니
+EN|(なし)
+
+###131 count=1 field=name key=92007032|1-ShadowExpedition- 名=감속
+KO|감속
+EN|(なし)
+
+###132 count=1 field=name key=92008019|1-ShadowExpedition- 名=분리주의자 충전
+KO|분리주의자 충전
+EN|(なし)
+
+###133 count=1 field=name key=92008021|1-ShadowExpedition- 名=분리주의자
+KO|분리주의자
+EN|(なし)
+
+###134 count=1 field=name key=92900000|1-ShadowExpedition- 名=원정대의 힘
+KO|원정대의 힘
+EN|(なし)
+
+###135 count=1 field=name key=92900001|1-ShadowExpedition- 名=여제의 구원
+KO|여제의 구원
+EN|(なし)
+
+###136 count=1 field=name key=92900002|1-ShadowExpedition- 名=붉은 늑대의 힘
+KO|붉은 늑대의 힘
+EN|(なし)
+
+###137 count=1 field=name key=92900003|1-ShadowExpedition- 名=생명의 속도
+KO|생명의 속도
+EN|(なし)
+
+###138 count=1 field=name key=92900996|1-ShadowExpedition- 名=재빠름
+KO|재빠름
+EN|(なし)
+
+###139 count=1 field=name key=92900997|1-ShadowExpedition- 名=우월함
+KO|우월함
+EN|(なし)
+
+###140 count=1 field=name key=92900998|1-ShadowExpedition- 名=난폭함
+KO|난폭함
+EN|(なし)
+
+###141 count=1 field=name key=99910161|1-Gigantica01- 名=팬텀 디스트로이어 탑승
+KO|팬텀 디스트로이어 탑승
+EN|Mount Phantom Destroyer
+
+###142 count=1 field=tooltipDescription key=10200265|1-JobChange_02- 名=고군 분투 1단계
+KO|방어력 2%, 물리 공격력 3.5% 증가
+EN|Increases defense by 2% and physical attack by 3.5%
+
+###143 count=1 field=tooltipDescription key=10200265|2-JobChange_02- 名=고군 분투 2단계
+KO|방어력 4%, 물리 공격력 7% 증가
+EN|Increases defense by 4% and physical attack by 7%
+
+###144 count=1 field=tooltipDescription key=10200265|3-JobChange_02- 名=고군 분투 3단계
+KO|방어력 6%, 물리 공격력 10.5% 증가
+EN|Increases defense by 6% and physical attack by 10.5%
+
+###145 count=1 field=tooltipDescription key=10200265|4-JobChange_02- 名=고군 분투 4단계
+KO|방어력 8%, 물리 공격력 14% 증가
+EN|Increases defense by 8% and physical attack by 14%
+
+###146 count=1 field=tooltipDescription key=10200265|5-JobChange_02- 名=고군 분투 5단계
+KO|방어력 10%, 물리 공격력 17.5% 증가
+EN|Increases defense by 10% and physical attack by 17.5%
+
+###147 count=1 field=tooltipDescription key=10300271|1-JobChange_02- 名=허리케인 북상 중!
+KO|매 초 232% 범위 대미지\n매 초 중첩 당 93% 대미지\n서리 획득 시 중첩 증가
+EN|232% area damage per sec.\n93% damage per stack per sec.\nGains a stack when Frost is inflicted.
+
+###148 count=1 field=tooltipDescription key=10300271|10-JobChange_02- 名=허리케인 북상 중!
+KO|매 초 466% 범위 대미지\n매 초 중첩 당 192% 대미지\n서리 획득 시 중첩 증가
+EN|466% area damage per sec.\n192% damage per stack per sec.\nGains a stack when Frost is inflicted.
+
+###149 count=1 field=tooltipDescription key=10300271|11-JobChange_02- 名=허리케인 북상 중!
+KO|매 초 492% 범위 대미지\n매 초 중첩 당 203% 대미지\n서리 획득 시 중첩 증가
+EN|492% area damage per sec.\n203% damage per stack per sec.\nGains a stack when Frost is inflicted.
+
+###150 count=1 field=tooltipDescription key=10300271|12-JobChange_02- 名=허리케인 북상 중!
+KO|매 초 518% 범위 대미지\n매 초 중첩 당 214% 대미지\n서리 획득 시 중첩 증가
+EN|518% area damage per sec.\n214% damage per stack per sec.\nGains a stack when Frost is inflicted.
+
+###151 count=1 field=tooltipDescription key=10300271|2-JobChange_02- 名=허리케인 북상 중!
+KO|매 초 258% 범위 대미지\n매 초 중첩 당 104% 대미지\n서리 획득 시 중첩 증가
+EN|258% area damage per sec.\n104% damage per stack per sec.\nGains a stack when Frost is inflicted.
+
+###152 count=1 field=tooltipDescription key=10300271|3-JobChange_02- 名=허리케인 북상 중!
+KO|매 초 284% 범위 대미지\n매 초 중첩 당 115% 대미지\n서리 획득 시 중첩 증가
+EN|284% area damage per sec.\n115% damage per stack per sec.\nGains a stack when Frost is inflicted.
+
+###153 count=1 field=tooltipDescription key=10300271|4-JobChange_02- 名=허리케인 북상 중!
+KO|매 초 310% 범위 대미지\n매 초 중첩 당 126% 대미지\n서리 획득 시 중첩 증가
+EN|310% area damage per sec.\n126% damage per stack per sec.\nGains a stack when Frost is inflicted.
+
+###154 count=1 field=tooltipDescription key=10300271|5-JobChange_02- 名=허리케인 북상 중!
+KO|매 초 336% 범위 대미지\n매 초 중첩 당 137% 대미지\n서리 획득 시 중첩 증가
+EN|336% area damage per sec.\n137% damage per stack per sec.\nGains a stack when Frost is inflicted.
+
+###155 count=1 field=tooltipDescription key=10300271|6-JobChange_02- 名=허리케인 북상 중!
+KO|매 초 362% 범위 대미지\n매 초 중첩 당 148% 대미지\n서리 획득 시 중첩 증가
+EN|362% area damage per sec.\n148% damage per stack per sec.\nGains a stack when Frost is inflicted.
+
+###156 count=1 field=tooltipDescription key=10300271|7-JobChange_02- 名=허리케인 북상 중!
+KO|매 초 388% 범위 대미지\n매 초 중첩 당 159% 대미지\n서리 획득 시 중첩 증가
+EN|388% area damage per sec.\n159% damage per stack per sec.\nGains a stack when Frost is inflicted.
+
+###157 count=1 field=tooltipDescription key=10300271|8-JobChange_02- 名=허리케인 북상 중!
+KO|매 초 414% 범위 대미지\n매 초 중첩 당 170% 대미지\n서리 획득 시 중첩 증가
+EN|414% area damage per sec.\n170% damage per stack per sec.\nGains a stack when Frost is inflicted.
+
+###158 count=1 field=tooltipDescription key=10300271|9-JobChange_02- 名=허리케인 북상 중!
+KO|매 초 440% 범위 대미지\n매 초 중첩 당 181% 대미지\n서리 획득 시 중첩 증가
+EN|440% area damage per sec.\n181% damage per stack per sec.\nGains a stack when Frost is inflicted.
+
+###159 count=1 field=tooltipDescription key=10300275|1-JobChange_02- 名=용오름
+KO|매 0.5초 355% 범위 대미지
+EN|355% area damage per 0.5 sec
+
+###160 count=1 field=tooltipDescription key=10300275|10-JobChange_02- 名=용오름
+KO|매 0.5초 724% 범위 대미지
+EN|724% area damage per 0.5 sec
+
+###161 count=1 field=tooltipDescription key=10300275|11-JobChange_02- 名=용오름
+KO|매 0.5초 765% 범위 대미지
+EN|765% area damage per 0.5 sec
+
+###162 count=1 field=tooltipDescription key=10300275|12-JobChange_02- 名=용오름
+KO|매 0.5초 806% 범위 대미지
+EN|806% area damage per 0.5 sec
+
+###163 count=1 field=tooltipDescription key=10300275|2-JobChange_02- 名=용오름
+KO|매 0.5초 396% 범위 대미지
+EN|396% area damage per 0.5 sec
+
+###164 count=1 field=tooltipDescription key=10300275|3-JobChange_02- 名=용오름
+KO|매 0.5초 437% 범위 대미지
+EN|437% area damage per 0.5 sec
+
+###165 count=1 field=tooltipDescription key=10300275|4-JobChange_02- 名=용오름
+KO|매 0.5초 478% 범위 대미지
+EN|478% area damage per 0.5 sec
+
+###166 count=1 field=tooltipDescription key=10300275|5-JobChange_02- 名=용오름
+KO|매 0.5초 519% 범위 대미지
+EN|519% area damage per 0.5 sec
+
+###167 count=1 field=tooltipDescription key=10300275|6-JobChange_02- 名=용오름
+KO|매 0.5초 560% 범위 대미지
+EN|560% area damage per 0.5 sec
+
+###168 count=1 field=tooltipDescription key=10300275|7-JobChange_02- 名=용오름
+KO|매 0.5초 601% 범위 대미지
+EN|601% area damage per 0.5 sec
+
+###169 count=1 field=tooltipDescription key=10300275|8-JobChange_02- 名=용오름
+KO|매 0.5초 642% 범위 대미지
+EN|642% area damage per 0.5 sec
+
+###170 count=1 field=tooltipDescription key=10300275|9-JobChange_02- 名=용오름
+KO|매 0.5초 683% 범위 대미지
+EN|683% area damage per 0.5 sec
+
+###171 count=1 field=tooltipDescription key=10300283|1-JobChange_02- 名=소화
+KO|완전 연소 불가
+EN|Cannot use Perfect Combustion
+
+###172 count=1 field=tooltipDescription key=10300285|1-JobChange_02- 名=완전 연소
+KO|화염 공격력 22% 증가\n에너지 익스플로전 강화
+EN|Increases physical & magic attack from fire-based skills by 22%.\nEnhances Arcane Blast.
+
+###173 count=1 field=tooltipDescription key=10300285|10-JobChange_02- 名=완전 연소
+KO|화염 공격력 94% 증가\n에너지 익스플로전 강화
+EN|Increases physical & magic attack from fire-based skills by 94%.\nEnhances Arcane Blast.
+
+###174 count=1 field=tooltipDescription key=10300285|11-JobChange_02- 名=완전 연소
+KO|화염 공격력 102% 증가\n에너지 익스플로전 강화
+EN|Increases physical & magic attack from fire-based skills by 102%.\nEnhances Arcane Blast.
+
+###175 count=1 field=tooltipDescription key=10300285|12-JobChange_02- 名=완전 연소
+KO|화염 공격력 110% 증가\n에너지 익스플로전 강화
+EN|Increases physical & magic attack from fire-based skills by 110%.\nEnhances Arcane Blast.
+
+###176 count=1 field=tooltipDescription key=10300285|2-JobChange_02- 名=완전 연소
+KO|화염 공격력 30% 증가\n에너지 익스플로전 강화
+EN|Increases physical & magic attack from fire-based skills by 30%.\nEnhances Arcane Blast.
+
+###177 count=1 field=tooltipDescription key=10300285|3-JobChange_02- 名=완전 연소
+KO|화염 공격력 38% 증가\n에너지 익스플로전 강화
+EN|Increases physical & magic attack from fire-based skills by 38%.\nEnhances Arcane Blast.
+
+###178 count=1 field=tooltipDescription key=10300285|4-JobChange_02- 名=완전 연소
+KO|화염 공격력 46% 증가\n에너지 익스플로전 강화
+EN|Increases physical & magic attack from fire-based skills by 46%.\nEnhances Arcane Blast.
+
+###179 count=1 field=tooltipDescription key=10300285|5-JobChange_02- 名=완전 연소
+KO|화염 공격력 54% 증가\n에너지 익스플로전 강화
+EN|Increases physical & magic attack from fire-based skills by 54%.\nEnhances Arcane Blast.
+
+###180 count=1 field=tooltipDescription key=10300285|6-JobChange_02- 名=완전 연소
+KO|화염 공격력 62% 증가\n에너지 익스플로전 강화
+EN|Increases physical & magic attack from fire-based skills by 62%.\nEnhances Arcane Blast.
+
+###181 count=1 field=tooltipDescription key=10300285|7-JobChange_02- 名=완전 연소
+KO|화염 공격력 70% 증가\n에너지 익스플로전 강화
+EN|Increases physical & magic attack from fire-based skills by 70%.\nEnhances Arcane Blast.
+
+###182 count=1 field=tooltipDescription key=10300285|8-JobChange_02- 名=완전 연소
+KO|화염 공격력 78% 증가\n에너지 익스플로전 강화
+EN|Increases physical & magic attack from fire-based skills by 78%.\nEnhances Arcane Blast.
+
+###183 count=1 field=tooltipDescription key=10300285|9-JobChange_02- 名=완전 연소
+KO|화염 공격력 86% 증가\n에너지 익스플로전 강화
+EN|Increases physical & magic attack from fire-based skills by 86%.\nEnhances Arcane Blast.
+
+###184 count=1 field=tooltipDescription key=10300292|1-JobChange_02- 名=사나운 불길
+KO|매 초 128% 대미지\n10% 확률로 폭파
+EN|128% damage per sec.\n10% chance to explode.
+
+###185 count=1 field=tooltipDescription key=10300292|10-JobChange_02- 名=사나운 불길
+KO|매 초 254% 대미지\n10% 확률로 폭파
+EN|254% damage per sec.\n10% chance to explode.
+
+###186 count=1 field=tooltipDescription key=10300292|11-JobChange_02- 名=사나운 불길
+KO|매 초 268% 대미지\n10% 확률로 폭파
+EN|268% damage per sec.\n10% chance to explode.
+
+###187 count=1 field=tooltipDescription key=10300292|12-JobChange_02- 名=사나운 불길
+KO|매 초 282% 대미지\n10% 확률로 폭파
+EN|282% damage per sec.\n10% chance to explode.
+
+###188 count=1 field=tooltipDescription key=10300292|2-JobChange_02- 名=사나운 불길
+KO|매 초 142% 대미지\n10% 확률로 폭파
+EN|142% damage per sec.\n10% chance to explode.
+
+###189 count=1 field=tooltipDescription key=10300292|3-JobChange_02- 名=사나운 불길
+KO|매 초 156% 대미지\n10% 확률로 폭파
+EN|156% damage per sec.\n10% chance to explode.
+
+###190 count=1 field=tooltipDescription key=10300292|4-JobChange_02- 名=사나운 불길
+KO|매 초 170% 대미지\n10% 확률로 폭파
+EN|170% damage per sec.\n10% chance to explode.
+
+###191 count=1 field=tooltipDescription key=10300292|5-JobChange_02- 名=사나운 불길
+KO|매 초 184% 대미지\n10% 확률로 폭파
+EN|184% damage per sec.\n10% chance to explode.
+
+###192 count=1 field=tooltipDescription key=10300292|6-JobChange_02- 名=사나운 불길
+KO|매 초 198% 대미지\n10% 확률로 폭파
+EN|198% damage per sec.\n10% chance to explode.
+
+###193 count=1 field=tooltipDescription key=10300292|7-JobChange_02- 名=사나운 불길
+KO|매 초 212% 대미지\n10% 확률로 폭파
+EN|212% damage per sec.\n10% chance to explode.
+
+###194 count=1 field=tooltipDescription key=10300292|8-JobChange_02- 名=사나운 불길
+KO|매 초 226% 대미지\n10% 확률로 폭파
+EN|226% damage per sec.\n10% chance to explode.
+
+###195 count=1 field=tooltipDescription key=10300292|9-JobChange_02- 名=사나운 불길
+KO|매 초 240% 대미지\n10% 확률로 폭파
+EN|240% damage per sec.\n10% chance to explode.
+
+###196 count=1 field=tooltipDescription key=10400271|1-JobChange_02- 名=신의 십자가
+KO|공격속도 1% ,마법 공격력 2% 증가
+EN|Increases attack speed by 1% and magic attack by 2%.
+
+###197 count=1 field=tooltipDescription key=10400271|10-JobChange_02- 名=신의 십자가
+KO|공격속도 10% ,마법 공격력 20% 증가
+EN|Increases attack speed by 10% and magic attack by 20%.
+
+###198 count=1 field=tooltipDescription key=10400271|11-JobChange_02- 名=신의 십자가
+KO|공격속도 11% ,마법 공격력 22% 증가
+EN|Increases attack speed by 11% and magic attack by 22%.
+
+###199 count=1 field=tooltipDescription key=10400271|12-JobChange_02- 名=신의 십자가
+KO|공격속도 12% ,마법 공격력 24% 증가
+EN|Increases attack speed by 12% and magic attack by 24%.
+
+###200 count=1 field=tooltipDescription key=10400271|2-JobChange_02- 名=신의 십자가
+KO|공격속도 2% ,마법 공격력 4% 증가
+EN|Increases attack speed by 2% and magic attack by 4%.
+
+###201 count=1 field=tooltipDescription key=10400271|3-JobChange_02- 名=신의 십자가
+KO|공격속도 3% ,마법 공격력 6% 증가
+EN|Increases attack speed by 3% and magic attack by 6%.
+
+###202 count=1 field=tooltipDescription key=10400271|4-JobChange_02- 名=신의 십자가
+KO|공격속도 4% ,마법 공격력 8% 증가
+EN|Increases attack speed by 4% and magic attack by 8%.
+
+###203 count=1 field=tooltipDescription key=10400271|5-JobChange_02- 名=신의 십자가
+KO|공격속도 5% ,마법 공격력 10% 증가
+EN|Increases attack speed by 5% and magic attack by 10%.
+
+###204 count=1 field=tooltipDescription key=10400271|6-JobChange_02- 名=신의 십자가
+KO|공격속도 6% ,마법 공격력 12% 증가
+EN|Increases attack speed by 6% and magic attack by 12%.
+
+###205 count=1 field=tooltipDescription key=10400271|7-JobChange_02- 名=신의 십자가
+KO|공격속도 7% ,마법 공격력 14% 증가
+EN|Increases attack speed by 7% and magic attack by 14%.
+
+###206 count=1 field=tooltipDescription key=10400271|8-JobChange_02- 名=신의 십자가
+KO|공격속도 8% ,마법 공격력 16% 증가
+EN|Increases attack speed by 8% and magic attack by 16%.
+
+###207 count=1 field=tooltipDescription key=10400271|9-JobChange_02- 名=신의 십자가
+KO|공격속도 9% ,마법 공격력 18% 증가
+EN|Increases attack speed by 9% and magic attack by 18%.
+
+###208 count=2 field=tooltipDescription key=10400301|1-JobChange_02- 名=신성한 힘
+KO|이동속도 2%, 공격속도 1%, 물리/마법 저항력 40 증가
+EN|Increases movement speed by 2%, attack speed by 1%, and physical and magic resistance by 40.
+
+###209 count=2 field=tooltipDescription key=10400301|10-JobChange_02- 名=신성한 힘
+KO|이동속도 20%, 공격속도 10%, 물리/마법 저항력 220 증가
+EN|Increases movement speed by 20%, attack speed by 10%, and physical and magic resistance by 220.
+
+###210 count=2 field=tooltipDescription key=10400301|11-JobChange_02- 名=신성한 힘
+KO|이동속도 22%, 공격속도 11%, 물리/마법 저항력 240 증가
+EN|Increases movement speed by 22%, attack speed by 11%, and physical and magic resistance by 240.
+
+###211 count=2 field=tooltipDescription key=10400301|12-JobChange_02- 名=신성한 힘
+KO|이동속도 24%, 공격속도 12%, 물리/마법 저항력 260 증가
+EN|Increases movement speed by 24%, attack speed by 12%, and physical and magic resistance by 260.
+
+###212 count=2 field=tooltipDescription key=10400301|2-JobChange_02- 名=신성한 힘
+KO|이동속도 4%, 공격속도 2%, 물리/마법 저항력 60 증가
+EN|Increases movement speed by 4%, attack speed by 2%, and physical and magic resistance by 60.
+
+###213 count=2 field=tooltipDescription key=10400301|3-JobChange_02- 名=신성한 힘
+KO|이동속도 6%, 공격속도 3%, 물리/마법 저항력 80 증가
+EN|Increases movement speed by 6%, attack speed by 3%, and physical and magic resistance by 80.
+
+###214 count=2 field=tooltipDescription key=10400301|4-JobChange_02- 名=신성한 힘
+KO|이동속도 8%, 공격속도 4%, 물리/마법 저항력 100 증가
+EN|Increases movement speed by 8%, attack speed by 4%, and physical and magic resistance by 100.
+
+###215 count=2 field=tooltipDescription key=10400301|5-JobChange_02- 名=신성한 힘
+KO|이동속도 10%, 공격속도 5%, 물리/마법 저항력 120 증가
+EN|Increases movement speed by 10%, attack speed by 5%, and physical and magic resistance by 120.
+
+###216 count=2 field=tooltipDescription key=10400301|6-JobChange_02- 名=신성한 힘
+KO|이동속도 12%, 공격속도 6%, 물리/마법 저항력 140 증가
+EN|Increases movement speed by 12%, attack speed by 6%, and physical and magic resistance by 140.
+
+###217 count=2 field=tooltipDescription key=10400301|7-JobChange_02- 名=신성한 힘
+KO|이동속도 14%, 공격속도 7%, 물리/마법 저항력 160 증가
+EN|Increases movement speed by 14%, attack speed by 7%, and physical and magic resistance by 160.
+
+###218 count=2 field=tooltipDescription key=10400301|8-JobChange_02- 名=신성한 힘
+KO|이동속도 16%, 공격속도 8%, 물리/마법 저항력 180 증가
+EN|Increases movement speed by 16%, attack speed by 8%, and physical and magic resistance by 180.
+
+###219 count=2 field=tooltipDescription key=10400301|9-JobChange_02- 名=신성한 힘
+KO|이동속도 18%, 공격속도 9%, 물리/마법 저항력 200 증가
+EN|Increases movement speed by 18%, attack speed by 9%, and physical and magic resistance by 200.
+
+###220 count=1 field=tooltipDescription key=10500093|1-JobChange_02- 名=피닉스 스피릿
+KO|신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 3 회복\n공격 명중 시 피닉스 지원 공격 발동
+EN|The mysterious phoenix's majesty inspires. Restores 3 spirit every sec. The phoenix also attacks on hit.
+
+###221 count=1 field=tooltipDescription key=10500093|10-JobChange_02- 名=피닉스 스피릿
+KO|신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 12 회복\n공격 명중 시 피닉스 지원 공격 발동
+EN|The mysterious phoenix's majesty inspires. Restores 12 spirit every sec. The phoenix also attacks on hit.
+
+###222 count=1 field=tooltipDescription key=10500093|11-JobChange_02- 名=피닉스 스피릿
+KO|신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 13 회복\n공격 명중 시 피닉스 지원 공격 발동
+EN|The mysterious phoenix's majesty inspires. Restores 13 spirit every sec. The phoenix also attacks on hit.
+
+###223 count=1 field=tooltipDescription key=10500093|12-JobChange_02- 名=피닉스 스피릿
+KO|신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 14 회복\n공격 명중 시 피닉스 지원 공격 발동
+EN|The mysterious phoenix's majesty inspires. Restores 14 spirit every sec. The phoenix also attacks on hit.
+
+###224 count=1 field=tooltipDescription key=10500093|2-JobChange_02- 名=피닉스 스피릿
+KO|신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 4 회복\n공격 명중 시 피닉스 지원 공격 발동
+EN|The mysterious phoenix's majesty inspires. Restores 4 spirit every sec. The phoenix also attacks on hit.
+
+###225 count=1 field=tooltipDescription key=10500093|3-JobChange_02- 名=피닉스 스피릿
+KO|신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 5 회복\n공격 명중 시 피닉스 지원 공격 발동
+EN|The mysterious phoenix's majesty inspires. Restores 5 spirit every sec. The phoenix also attacks on hit.
+
+###226 count=1 field=tooltipDescription key=10500093|4-JobChange_02- 名=피닉스 스피릿
+KO|신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 6 회복\n공격 명중 시 피닉스 지원 공격 발동
+EN|The mysterious phoenix's majesty inspires. Restores 6 spirit every sec. The phoenix also attacks on hit.
+
+###227 count=1 field=tooltipDescription key=10500093|5-JobChange_02- 名=피닉스 스피릿
+KO|신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 7 회복\n공격 명중 시 피닉스 지원 공격 발동
+EN|The mysterious phoenix's majesty inspires. Restores 7 spirit every sec. The phoenix also attacks on hit.
+
+###228 count=1 field=tooltipDescription key=10500093|6-JobChange_02- 名=피닉스 스피릿
+KO|신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 8 회복\n공격 명중 시 피닉스 지원 공격 발동
+EN|The mysterious phoenix's majesty inspires. Restores 8 spirit every sec. The phoenix also attacks on hit.
+
+###229 count=1 field=tooltipDescription key=10500093|7-JobChange_02- 名=피닉스 스피릿
+KO|신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 9 회복\n공격 명중 시 피닉스 지원 공격 발동
+EN|The mysterious phoenix's majesty inspires. Restores 9 spirit every sec. The phoenix also attacks on hit.
+
+###230 count=1 field=tooltipDescription key=10500093|8-JobChange_02- 名=피닉스 스피릿
+KO|신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 10 회복\n공격 명중 시 피닉스 지원 공격 발동
+EN|The mysterious phoenix's majesty inspires. Restores 10 spirit every sec. The phoenix also attacks on hit.
+
+###231 count=1 field=tooltipDescription key=10500093|9-JobChange_02- 名=피닉스 스피릿
+KO|신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 11 회복\n공격 명중 시 피닉스 지원 공격 발동
+EN|The mysterious phoenix's majesty inspires. Restores 11 spirit every sec. The phoenix also attacks on hit.
+
+###232 count=1 field=tooltipDescription key=10500261|1-JobChange_02- 名=초열 불꽃
+KO|피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 202% 의 지속 대미지
+EN|The flame of the phoenix burns enemies. Deals 172% damage per sec for 10 sec.
+
+###233 count=1 field=tooltipDescription key=10500261|10-JobChange_02- 名=초열 불꽃
+KO|피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 382% 의 지속 대미지
+EN|The flame of the phoenix burns enemies. Deals 352% damage per sec for 10 sec.
+
+###234 count=1 field=tooltipDescription key=10500261|11-JobChange_02- 名=초열 불꽃
+KO|피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 402% 의 지속 대미지
+EN|The flame of the phoenix burns enemies. Deals 372% damage per sec for 10 sec.
+
+###235 count=1 field=tooltipDescription key=10500261|12-JobChange_02- 名=초열 불꽃
+KO|피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 422% 의 지속 대미지
+EN|The flame of the phoenix burns enemies. Deals 392% damage per sec for 10 sec.
+
+###236 count=1 field=tooltipDescription key=10500261|2-JobChange_02- 名=초열 불꽃
+KO|피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 222% 의 지속 대미지
+EN|The flame of the phoenix burns enemies. Deals 192% damage per sec for 10 sec.
+
+###237 count=1 field=tooltipDescription key=10500261|3-JobChange_02- 名=초열 불꽃
+KO|피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 242% 의 지속 대미지
+EN|The flame of the phoenix burns enemies. Deals 212% damage per sec for 10 sec.
+
+###238 count=1 field=tooltipDescription key=10500261|4-JobChange_02- 名=초열 불꽃
+KO|피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 262% 의 지속 대미지
+EN|The flame of the phoenix burns enemies. Deals 232% damage per sec for 10 sec.
+
+###239 count=1 field=tooltipDescription key=10500261|5-JobChange_02- 名=초열 불꽃
+KO|피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 282% 의 지속 대미지
+EN|The flame of the phoenix burns enemies. Deals 252% damage per sec for 10 sec.
+
+###240 count=1 field=tooltipDescription key=10500261|6-JobChange_02- 名=초열 불꽃
+KO|피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 302% 의 지속 대미지
+EN|The flame of the phoenix burns enemies. Deals 272% damage per sec for 10 sec.
+
+###241 count=1 field=tooltipDescription key=10500261|7-JobChange_02- 名=초열 불꽃
+KO|피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 322% 의 지속 대미지
+EN|The flame of the phoenix burns enemies. Deals 292% damage per sec for 10 sec.
+
+###242 count=1 field=tooltipDescription key=10500261|8-JobChange_02- 名=초열 불꽃
+KO|피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 342% 의 지속 대미지
+EN|The flame of the phoenix burns enemies. Deals 312% damage per sec for 10 sec.
+
+###243 count=1 field=tooltipDescription key=10500261|9-JobChange_02- 名=초열 불꽃
+KO|피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 362% 의 지속 대미지
+EN|The flame of the phoenix burns enemies. Deals 332% damage per sec for 10 sec.
+
+###244 count=1 field=tooltipDescription key=10500272|1-JobChange_02- 名=피닉스 폼
+KO|피닉스가 전투를 지원합니다.\n크리티컬 명중 10 증가\n물리 대미지 7% 증가\nDEX 3% 증가
+EN|Phoenix aids you in combat.\nIncreases critical rate by 10.\nIncreases physical damage by 4%.\nIncreases dexterity by 1.5%.
+
+###245 count=1 field=tooltipDescription key=10500272|10-JobChange_02- 名=피닉스 폼
+KO|피닉스가 전투를 지원합니다.\n크리티컬 명중 100 증가\n물리 대미지 25% 증가\nDEX 16.5% 증가
+EN|Phoenix aids you in combat.\nIncreases critical rate by 100.\nIncreases physical damage by 22%.\nIncreases dexterity by 15%.
+
+###246 count=1 field=tooltipDescription key=10500272|11-JobChange_02- 名=피닉스 폼
+KO|피닉스가 전투를 지원합니다.\n크리티컬 명중 110 증가\n물리 대미지 27% 증가\nDEX 18% 증가
+EN|Phoenix aids you in combat.\nIncreases critical rate by 110.\nIncreases physical damage by 24%.\nIncreases dexterity by 16.5%.
+
+###247 count=1 field=tooltipDescription key=10500272|12-JobChange_02- 名=피닉스 폼
+KO|피닉스가 전투를 지원합니다.\n크리티컬 명중 120 증가\n물리 대미지 29% 증가\nDEX 19.5% 증가
+EN|Phoenix aids you in combat.\nIncreases critical rate by 120.\nIncreases physical damage by 26%.\nIncreases dexterity by 18%.
+
+###248 count=1 field=tooltipDescription key=10500272|2-JobChange_02- 名=피닉스 폼
+KO|피닉스가 전투를 지원합니다.\n크리티컬 명중 20 증가\n물리 대미지 9% 증가\nDEX 4.5% 증가
+EN|Phoenix aids you in combat.\nIncreases critical rate by 20.\nIncreases physical damage by 6%.\nIncreases dexterity by 3%.
+
+###249 count=1 field=tooltipDescription key=10500272|3-JobChange_02- 名=피닉스 폼
+KO|피닉스가 전투를 지원합니다.\n크리티컬 명중 30 증가\n물리 대미지 11% 증가\nDEX 6% 증가
+EN|Phoenix aids you in combat.\nIncreases critical rate by 30.\nIncreases physical damage by 8%.\nIncreases dexterity by 4.5%.
+
+###250 count=1 field=tooltipDescription key=10500272|4-JobChange_02- 名=피닉스 폼
+KO|피닉스가 전투를 지원합니다.\n크리티컬 명중 40 증가\n물리 대미지 13% 증가\nDEX 7.5% 증가
+EN|Phoenix aids you in combat.\nIncreases critical rate by 40.\nIncreases physical damage by 10%.\nIncreases dexterity by 6%.
+
+###251 count=1 field=tooltipDescription key=10500272|5-JobChange_02- 名=피닉스 폼
+KO|피닉스가 전투를 지원합니다.\n크리티컬 명중 50 증가\n물리 대미지 15% 증가\nDEX 9% 증가
+EN|Phoenix aids you in combat.\nIncreases critical rate by 50.\nIncreases physical damage by 12%.\nIncreases dexterity by 7.5%.
+
+###252 count=1 field=tooltipDescription key=10500272|6-JobChange_02- 名=피닉스 폼
+KO|피닉스가 전투를 지원합니다.\n크리티컬 명중 60 증가\n물리 대미지 17% 증가\nDEX 10.5% 증가
+EN|Phoenix aids you in combat.\nIncreases critical rate by 60.\nIncreases physical damage by 14%.\nIncreases dexterity by 9%.
+
+###253 count=1 field=tooltipDescription key=10500272|7-JobChange_02- 名=피닉스 폼
+KO|피닉스가 전투를 지원합니다.\n크리티컬 명중 70 증가\n물리 대미지 19% 증가\nDEX 12% 증가
+EN|Phoenix aids you in combat.\nIncreases critical rate by 70.\nIncreases physical damage by 16%.\nIncreases dexterity by 10.5%.
+
+###254 count=1 field=tooltipDescription key=10500272|8-JobChange_02- 名=피닉스 폼
+KO|피닉스가 전투를 지원합니다.\n크리티컬 명중 80 증가\n물리 대미지 21% 증가\nDEX 13.5% 증가
+EN|Phoenix aids you in combat.\nIncreases critical rate by 80.\nIncreases physical damage by 18%.\nIncreases dexterity by 12%.
+
+###255 count=1 field=tooltipDescription key=10500272|9-JobChange_02- 名=피닉스 폼
+KO|피닉스가 전투를 지원합니다.\n크리티컬 명중 90 증가\n물리 대미지 23% 증가\nDEX 15% 증가
+EN|Phoenix aids you in combat.\nIncreases critical rate by 90.\nIncreases physical damage by 20%.\nIncreases dexterity by 13.5%.
+
+###256 count=1 field=tooltipDescription key=10500281|1-JobChange_02- 名=약점 간파
+KO|날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 456% 의 추가 대미지
+EN|The target's weakness has been exposed!\n356% additional damage for 10 sec on hit from the caster.
+
+###257 count=1 field=tooltipDescription key=10500281|10-JobChange_02- 名=약점 간파
+KO|날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 825% 의 추가 대미지
+EN|The target's weakness has been exposed!\n725% additional damage for 10 sec on hit from the caster.
+
+###258 count=1 field=tooltipDescription key=10500281|11-JobChange_02- 名=약점 간파
+KO|날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 866% 의 추가 대미지
+EN|The target's weakness has been exposed!\n766% additional damage for 10 sec on hit from the caster.
+
+###259 count=1 field=tooltipDescription key=10500281|12-JobChange_02- 名=약점 간파
+KO|날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 907% 의 추가 대미지
+EN|The target's weakness has been exposed!\n807% additional damage for 10 sec on hit from the caster.
+
+###260 count=1 field=tooltipDescription key=10500281|2-JobChange_02- 名=약점 간파
+KO|날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 497% 의 추가 대미지
+EN|The target's weakness has been exposed!\n397% additional damage for 10 sec on hit from the caster.
+
+###261 count=1 field=tooltipDescription key=10500281|3-JobChange_02- 名=약점 간파
+KO|날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 538% 의 추가 대미지
+EN|The target's weakness has been exposed!\n438% additional damage for <font color='#00aaef'>10</font> sec on hit from the caster.
+
+###262 count=1 field=tooltipDescription key=10500281|4-JobChange_02- 名=약점 간파
+KO|날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 579% 의 추가 대미지
+EN|The target's weakness has been exposed!\n479% additional damage for 10 sec on hit from the caster.
+
+###263 count=1 field=tooltipDescription key=10500281|5-JobChange_02- 名=약점 간파
+KO|날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 620% 의 추가 대미지
+EN|The target's weakness has been exposed!\n520% additional damage for 10 sec on hit from the caster.
+
+###264 count=1 field=tooltipDescription key=10500281|6-JobChange_02- 名=약점 간파
+KO|날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 661% 의 추가 대미지
+EN|The target's weakness has been exposed!\n561% additional damage for 10 sec on hit from the caster.
+
+###265 count=1 field=tooltipDescription key=10500281|7-JobChange_02- 名=약점 간파
+KO|날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 702% 의 추가 대미지
+EN|The target's weakness has been exposed!\n602% additional damage for 10 sec on hit from the caster.
+
+###266 count=1 field=tooltipDescription key=10500281|8-JobChange_02- 名=약점 간파
+KO|날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 743% 의 추가 대미지
+EN|The target's weakness has been exposed!\n643% additional damage for 10 sec on hit from the caster.
+
+###267 count=1 field=tooltipDescription key=10500281|9-JobChange_02- 名=약점 간파
+KO|날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 784% 의 추가 대미지
+EN|The target's weakness has been exposed!\n684% additional damage for 10 sec on hit from the caster.
+
+###268 count=2 field=tooltipDescription key=10500291|1-JobChange_02- 名=이글 스쿼드
+KO|이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 2% 증가
+EN|The Eagle Squad is here! Increases physical and magic attack by 2% for 40 sec.
+
+###269 count=2 field=tooltipDescription key=10500291|10-JobChange_02- 名=이글 스쿼드
+KO|이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 20% 증가
+EN|The Eagle Squad is here! Increases physical and magic attack by 20% for 40 sec.
+
+###270 count=2 field=tooltipDescription key=10500291|11-JobChange_02- 名=이글 스쿼드
+KO|이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 22% 증가
+EN|The Eagle Squad is here! Increases physical and magic attack by 22% for 40 sec.
+
+###271 count=2 field=tooltipDescription key=10500291|12-JobChange_02- 名=이글 스쿼드
+KO|이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 24% 증가
+EN|The Eagle Squad is here! Increases physical and magic attack by 24% for 40 sec.
+
+###272 count=2 field=tooltipDescription key=10500291|2-JobChange_02- 名=이글 스쿼드
+KO|이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 4% 증가
+EN|The Eagle Squad is here! Increases physical and magic attack by 4% for 40 sec.
+
+###273 count=2 field=tooltipDescription key=10500291|3-JobChange_02- 名=이글 스쿼드
+KO|이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 6% 증가
+EN|The Eagle Squad is here! Increases physical and magic attack by 6% for 40 sec.
+
+###274 count=2 field=tooltipDescription key=10500291|4-JobChange_02- 名=이글 스쿼드
+KO|이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 8% 증가
+EN|The Eagle Squad is here! Increases physical and magic attack by 8% for 40 sec.
+
+###275 count=2 field=tooltipDescription key=10500291|5-JobChange_02- 名=이글 스쿼드
+KO|이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 10% 증가
+EN|The Eagle Squad is here! Increases physical and magic attack by 10% for 40 sec.
+
+###276 count=2 field=tooltipDescription key=10500291|6-JobChange_02- 名=이글 스쿼드
+KO|이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 12% 증가
+EN|The Eagle Squad is here! Increases physical and magic attack by 12% for 40 sec.
+
+###277 count=2 field=tooltipDescription key=10500291|7-JobChange_02- 名=이글 스쿼드
+KO|이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 14% 증가
+EN|The Eagle Squad is here! Increases physical and magic attack by 14% for 40 sec.
+
+###278 count=2 field=tooltipDescription key=10500291|8-JobChange_02- 名=이글 스쿼드
+KO|이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 16% 증가
+EN|The Eagle Squad is here! Increases physical and magic attack by 16% for 40 sec.
+
+###279 count=2 field=tooltipDescription key=10500291|9-JobChange_02- 名=이글 스쿼드
+KO|이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 18% 증가
+EN|The Eagle Squad is here! Increases physical and magic attack by 18% for 40 sec.
+
+###280 count=2 field=tooltipDescription key=10500293|1-JobChange_02- 名=캡틴 이글
+KO|캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 16% 증가
+EN|Receive Captain Eagle's guidance! Increases physical attack by 6% for 40 sec.
+
+###281 count=2 field=tooltipDescription key=10500293|10-JobChange_02- 名=캡틴 이글
+KO|캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 70% 증가
+EN|Receive Captain Eagle's guidance! Increases physical attack by 60% for 40 sec.
+
+###282 count=2 field=tooltipDescription key=10500293|11-JobChange_02- 名=캡틴 이글
+KO|캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 76% 증가
+EN|Receive Captain Eagle's guidance! Increases physical attack by 66% for 40 sec.
+
+###283 count=2 field=tooltipDescription key=10500293|12-JobChange_02- 名=캡틴 이글
+KO|캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 82% 증가
+EN|Receive Captain Eagle's guidance! Increases physical attack by 72% for 40 sec.
+
+###284 count=2 field=tooltipDescription key=10500293|2-JobChange_02- 名=캡틴 이글
+KO|캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 22% 증가
+EN|Receive Captain Eagle's guidance! Increases physical attack by 12% for 40 sec.
+
+###285 count=2 field=tooltipDescription key=10500293|3-JobChange_02- 名=캡틴 이글
+KO|캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 28% 증가
+EN|Receive Captain Eagle's guidance! Increases physical attack by 18% for 40 sec.
+
+###286 count=2 field=tooltipDescription key=10500293|4-JobChange_02- 名=캡틴 이글
+KO|캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 34% 증가
+EN|Receive Captain Eagle's guidance! Increases physical attack by 24% for 40 sec.
+
+###287 count=2 field=tooltipDescription key=10500293|5-JobChange_02- 名=캡틴 이글
+KO|캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 40% 증가
+EN|Receive Captain Eagle's guidance! Increases physical attack by 30% for 40 sec.
+
+###288 count=2 field=tooltipDescription key=10500293|6-JobChange_02- 名=캡틴 이글
+KO|캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 46% 증가
+EN|Receive Captain Eagle's guidance! Increases physical attack by 36% for 40 sec.
+
+###289 count=2 field=tooltipDescription key=10500293|7-JobChange_02- 名=캡틴 이글
+KO|캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 52% 증가
+EN|Receive Captain Eagle's guidance! Increases physical attack by 42% for 40 sec.
+
+###290 count=2 field=tooltipDescription key=10500293|8-JobChange_02- 名=캡틴 이글
+KO|캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 58% 증가
+EN|Receive Captain Eagle's guidance! Increases physical attack by 48% for 40 sec.
+
+###291 count=2 field=tooltipDescription key=10500293|9-JobChange_02- 名=캡틴 이글
+KO|캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 64% 증가
+EN|Receive Captain Eagle's guidance! Increases physical attack by 54% for 40 sec.
+
+###292 count=1 field=tooltipDescription key=10500295|1-JobChange_02- 名=휴식 시간
+KO|이글 스쿼드가 휴식을 취하고 있습니다.\n100초 간 이글 스쿼드, 캡틴 이글 효과 면역
+EN|The eagle squad is taking a rest. Immune to Eagle Squad and Captain Eagle effects for 120 sec.
+
+###293 count=1 field=tooltipDescription key=10600271|1-JobChange_02- 名=포터블 아머리
+KO|자동으로 탄약이 보급됩니다\n초당 SP 20 회복\n플라즈마 계열 스킬 대미지 6% 증가
+EN|Automatically supplied with ammunition. Restores 20 spirit per sec. Increases damage of plasma skills by 6%.
+
+###294 count=1 field=tooltipDescription key=10600271|10-JobChange_02- 名=포터블 아머리
+KO|자동으로 탄약이 보급됩니다\n초당 SP 20 회복\n플라즈마 계열 스킬 대미지 60% 증가
+EN|Automatically supplied with ammunition. Restores 20 spirit per sec. Increases damage of plasma skills by 60%.
+
+###295 count=1 field=tooltipDescription key=10600271|11-JobChange_02- 名=포터블 아머리
+KO|자동으로 탄약이 보급됩니다\n초당 SP 20 회복\n플라즈마 계열 스킬 대미지 66% 증가
+EN|Automatically supplied with ammunition. Restores 20 spirit per sec. Increases damage of plasma skills by 66%.
+
+###296 count=1 field=tooltipDescription key=10600271|12-JobChange_02- 名=포터블 아머리
+KO|자동으로 탄약이 보급됩니다\n초당 SP 20 회복\n플라즈마 계열 스킬 대미지 72% 증가
+EN|Automatically supplied with ammunition. Restores 20 spirit per sec. Increases damage of plasma skills by 72%.
+
+###297 count=1 field=tooltipDescription key=10600271|2-JobChange_02- 名=포터블 아머리
+KO|자동으로 탄약이 보급됩니다\n초당 SP 20 회복\n플라즈마 계열 스킬 대미지 12% 증가
+EN|Automatically supplied with ammunition. Restores 20 spirit per sec. Increases damage of plasma skills by 12%.
+
+###298 count=1 field=tooltipDescription key=10600271|3-JobChange_02- 名=포터블 아머리
+KO|자동으로 탄약이 보급됩니다\n초당 SP 20 회복\n플라즈마 계열 스킬 대미지 18% 증가
+EN|Automatically supplied with ammunition. Restores 20 spirit per sec. Increases damage of plasma skills by 18%.
+
+###299 count=1 field=tooltipDescription key=10600271|4-JobChange_02- 名=포터블 아머리
+KO|자동으로 탄약이 보급됩니다\n초당 SP 20 회복\n플라즈마 계열 스킬 대미지 24% 증가
+EN|Automatically supplied with ammunition. Restores 20 spirit per sec. Increases damage of plasma skills by 24%.
+
+###300 count=1 field=tooltipDescription key=10600271|5-JobChange_02- 名=포터블 아머리
+KO|자동으로 탄약이 보급됩니다\n초당 SP 20 회복\n플라즈마 계열 스킬 대미지 30% 증가
+EN|Automatically supplied with ammunition. Restores 20 spirit per sec. Increases damage of plasma skills by 30%.
+
+###301 count=1 field=tooltipDescription key=10600271|6-JobChange_02- 名=포터블 아머리
+KO|자동으로 탄약이 보급됩니다\n초당 SP 20 회복\n플라즈마 계열 스킬 대미지 36% 증가
+EN|Automatically supplied with ammunition. Restores 20 spirit per sec. Increases damage of plasma skills by 36%.
+
+###302 count=1 field=tooltipDescription key=10600271|7-JobChange_02- 名=포터블 아머리
+KO|자동으로 탄약이 보급됩니다\n초당 SP 20 회복\n플라즈마 계열 스킬 대미지 42% 증가
+EN|Automatically supplied with ammunition. Restores 20 spirit per sec. Increases damage of plasma skills by 42%.
+
+###303 count=1 field=tooltipDescription key=10600271|8-JobChange_02- 名=포터블 아머리
+KO|자동으로 탄약이 보급됩니다\n초당 SP 20 회복\n플라즈마 계열 스킬 대미지 48% 증가
+EN|Automatically supplied with ammunition. Restores 20 spirit per sec. Increases damage of plasma skills by 48%.
+
+###304 count=1 field=tooltipDescription key=10600271|9-JobChange_02- 名=포터블 아머리
+KO|자동으로 탄약이 보급됩니다\n초당 SP 20 회복\n플라즈마 계열 스킬 대미지 54% 증가
+EN|Automatically supplied with ammunition. Restores 20 spirit per sec. Increases damage of plasma skills by 54%.
+
+###305 count=1 field=tooltipDescription key=10600288|1-JobChange_02- 名=화염 방사
+KO|뜨거운 화염이 방출됩니다!\n방출 시마다 233% 의 화염 대미지
+EN|Spewing hot flame! Each burst deals 233% fire damage.
+
+###306 count=1 field=tooltipDescription key=10600288|10-JobChange_02- 名=화염 방사
+KO|뜨거운 화염이 방출됩니다!\n방출 시마다 476% 의 화염 대미지
+EN|Spewing hot flame! Each burst deals 476% fire damage.
+
+###307 count=1 field=tooltipDescription key=10600288|11-JobChange_02- 名=화염 방사
+KO|뜨거운 화염이 방출됩니다!\n방출 시마다 503% 의 화염 대미지
+EN|Spewing hot flame! Each burst deals 503% fire damage.
+
+###308 count=1 field=tooltipDescription key=10600288|12-JobChange_02- 名=화염 방사
+KO|뜨거운 화염이 방출됩니다!\n방출 시마다 530% 의 화염 대미지
+EN|Spewing hot flame! Each burst deals 530% fire damage.
+
+###309 count=1 field=tooltipDescription key=10600288|2-JobChange_02- 名=화염 방사
+KO|뜨거운 화염이 방출됩니다!\n방출 시마다 260% 의 화염 대미지
+EN|Spewing hot flame! Each burst deals 260% fire damage.
+
+###310 count=1 field=tooltipDescription key=10600288|3-JobChange_02- 名=화염 방사
+KO|뜨거운 화염이 방출됩니다!\n방출 시마다 287% 의 화염 대미지
+EN|Spewing hot flame! Each burst deals 287% fire damage.
+
+###311 count=1 field=tooltipDescription key=10600288|4-JobChange_02- 名=화염 방사
+KO|뜨거운 화염이 방출됩니다!\n방출 시마다 314% 의 화염 대미지
+EN|Spewing hot flame! Each burst deals 314% fire damage.
+
+###312 count=1 field=tooltipDescription key=10600288|5-JobChange_02- 名=화염 방사
+KO|뜨거운 화염이 방출됩니다!\n방출 시마다 341% 의 화염 대미지
+EN|Spewing hot flame! Each burst deals 341% fire damage.
+
+###313 count=1 field=tooltipDescription key=10600288|6-JobChange_02- 名=화염 방사
+KO|뜨거운 화염이 방출됩니다!\n방출 시마다 368% 의 화염 대미지
+EN|Spewing hot flame! Each burst deals 368% fire damage.
+
+###314 count=1 field=tooltipDescription key=10600288|7-JobChange_02- 名=화염 방사
+KO|뜨거운 화염이 방출됩니다!\n방출 시마다 395% 의 화염 대미지
+EN|Spewing hot flame! Each burst deals 395% fire damage.
+
+###315 count=1 field=tooltipDescription key=10600288|8-JobChange_02- 名=화염 방사
+KO|뜨거운 화염이 방출됩니다!\n방출 시마다 422% 의 화염 대미지
+EN|Spewing hot flame! Each burst deals 422% fire damage.
+
+###316 count=1 field=tooltipDescription key=10600288|9-JobChange_02- 名=화염 방사
+KO|뜨거운 화염이 방출됩니다!\n방출 시마다 449% 의 화염 대미지
+EN|Spewing hot flame! Each burst deals 449% fire damage.
+
+###317 count=1 field=tooltipDescription key=10600291|1-JobChange_02- 名=가스 중독
+KO|강력한 독가스에 노출되었습니다!\n매 초마다 785% 의 독 대미지
+EN|Exposed to a potent poison gas! Inflicts 785% poison damage per sec.
+
+###318 count=1 field=tooltipDescription key=10600291|10-JobChange_02- 名=가스 중독
+KO|강력한 독가스에 노출되었습니다!\n매 초마다 1595% 의 독 대미지
+EN|Exposed to a potent poison gas! Inflicts 1595% poison damage per sec.
+
+###319 count=1 field=tooltipDescription key=10600291|11-JobChange_02- 名=가스 중독
+KO|강력한 독가스에 노출되었습니다!\n매 초마다 1685% 의 독 대미지
+EN|Exposed to a potent poison gas! Inflicts 1685% poison damage per sec.
+
+###320 count=1 field=tooltipDescription key=10600291|12-JobChange_02- 名=가스 중독
+KO|강력한 독가스에 노출되었습니다!\n매 초마다 1775% 의 독 대미지
+EN|Exposed to a potent poison gas! Inflicts 1775% poison damage per sec.
+
+###321 count=1 field=tooltipDescription key=10600291|2-JobChange_02- 名=가스 중독
+KO|강력한 독가스에 노출되었습니다!\n매 초마다 875% 의 독 대미지
+EN|Exposed to a potent poison gas! Inflicts 875% poison damage per sec.
+
+###322 count=1 field=tooltipDescription key=10600291|3-JobChange_02- 名=가스 중독
+KO|강력한 독가스에 노출되었습니다!\n매 초마다 965% 의 독 대미지
+EN|Exposed to a potent poison gas! Inflicts 965% poison damage per sec.
+
+###323 count=1 field=tooltipDescription key=10600291|4-JobChange_02- 名=가스 중독
+KO|강력한 독가스에 노출되었습니다!\n매 초마다 1055% 의 독 대미지
+EN|Exposed to a potent poison gas! Inflicts 1055% poison damage per sec.
+
+###324 count=1 field=tooltipDescription key=10600291|5-JobChange_02- 名=가스 중독
+KO|강력한 독가스에 노출되었습니다!\n매 초마다 1145% 의 독 대미지
+EN|Exposed to a potent poison gas! Inflicts 1145% poison damage per sec.
+
+###325 count=1 field=tooltipDescription key=10600291|6-JobChange_02- 名=가스 중독
+KO|강력한 독가스에 노출되었습니다!\n매 초마다 1235% 의 독 대미지
+EN|Exposed to a potent poison gas! Inflicts 1235% poison damage per sec.
+
+###326 count=1 field=tooltipDescription key=10600291|7-JobChange_02- 名=가스 중독
+KO|강력한 독가스에 노출되었습니다!\n매 초마다 1325% 의 독 대미지
+EN|Exposed to a potent poison gas! Inflicts 1325% poison damage per sec.
+
+###327 count=1 field=tooltipDescription key=10600291|8-JobChange_02- 名=가스 중독
+KO|강력한 독가스에 노출되었습니다!\n매 초마다 1415% 의 독 대미지
+EN|Exposed to a potent poison gas! Inflicts 1415% poison damage per sec.
+
+###328 count=1 field=tooltipDescription key=10600291|9-JobChange_02- 名=가스 중독
+KO|강력한 독가스에 노출되었습니다!\n매 초마다 1505% 의 독 대미지
+EN|Exposed to a potent poison gas! Inflicts 1505% poison damage per sec.
+
+###329 count=1 field=tooltipDescription key=10700282|1-JobChange_02- 名=임기 응변
+KO|공격속도 7%, 이동속도 4% 증가
+EN|Increases attack speed by 7% and movement speed by 4%.
+
+###330 count=1 field=tooltipDescription key=10700282|10-JobChange_02- 名=임기 응변
+KO|공격속도 70%, 이동속도 40% 증가
+EN|Increases attack speed by 70% and movement speed by 40%.
+
+###331 count=1 field=tooltipDescription key=10700282|11-JobChange_02- 名=임기 응변
+KO|공격속도 77%, 이동속도 44% 증가
+EN|Increases attack speed by 77% and movement speed by 44%.
+
+###332 count=1 field=tooltipDescription key=10700282|12-JobChange_02- 名=임기 응변
+KO|공격속도 84%, 이동속도 48% 증가
+EN|Increases attack speed by 84% and movement speed by 48%.
+
+###333 count=1 field=tooltipDescription key=10700282|2-JobChange_02- 名=임기 응변
+KO|공격속도 14%, 이동속도 8% 증가
+EN|Increases attack speed by 14% and movement speed by 8%.
+
+###334 count=1 field=tooltipDescription key=10700282|3-JobChange_02- 名=임기 응변
+KO|공격속도 21%, 이동속도 12% 증가
+EN|Increases attack speed by 21% and movement speed by 12%.
+
+###335 count=1 field=tooltipDescription key=10700282|4-JobChange_02- 名=임기 응변
+KO|공격속도 28%, 이동속도 16% 증가
+EN|Increases attack speed by 28% and movement speed by 16%.
+
+###336 count=1 field=tooltipDescription key=10700282|5-JobChange_02- 名=임기 응변
+KO|공격속도 35%, 이동속도 20% 증가
+EN|Increases attack speed by 35% and movement speed by 20%.
+
+###337 count=1 field=tooltipDescription key=10700282|6-JobChange_02- 名=임기 응변
+KO|공격속도 42%, 이동속도 24% 증가
+EN|Increases attack speed by 42% and movement speed by 24%.
+
+###338 count=1 field=tooltipDescription key=10700282|7-JobChange_02- 名=임기 응변
+KO|공격속도 49%, 이동속도 28% 증가
+EN|Increases attack speed by 49% and movement speed by 28%.
+
+###339 count=1 field=tooltipDescription key=10700282|8-JobChange_02- 名=임기 응변
+KO|공격속도 56%, 이동속도 32% 증가
+EN|Increases attack speed by 56% and movement speed by 32%.
+
+###340 count=1 field=tooltipDescription key=10700282|9-JobChange_02- 名=임기 응변
+KO|공격속도 63%, 이동속도 36% 증가
+EN|Increases attack speed by 63% and movement speed by 36%.
+
+###341 count=1 field=tooltipDescription key=10700283|1-JobChange_02- 名=임기 응변
+KO|물리/마법 공격력 6%, 물리/마법 저항력 105 증가
+EN|Increases physical and magic attack by 6% and physical and magic resistance by 105.
+
+###342 count=1 field=tooltipDescription key=10700283|10-JobChange_02- 名=임기 응변
+KO|물리/마법 공격력 60%, 물리/마법 저항력 375 증가
+EN|Increases physical and magic attack by 60% and physical and magic resistance by 375.
+
+###343 count=1 field=tooltipDescription key=10700283|11-JobChange_02- 名=임기 응변
+KO|물리/마법 공격력 66%, 물리/마법 저항력 405 증가
+EN|Increases physical and magic attack by 66% and physical and magic resistance by 405.
+
+###344 count=1 field=tooltipDescription key=10700283|12-JobChange_02- 名=임기 응변
+KO|물리/마법 공격력 72%, 물리/마법 저항력 435 증가
+EN|Increases physical and magic attack by 72% and physical and magic resistance by 435.
+
+###345 count=1 field=tooltipDescription key=10700283|2-JobChange_02- 名=임기 응변
+KO|물리/마법 공격력 12%, 물리/마법 저항력 135 증가
+EN|Increases physical and magic attack by 12% and physical and magic resistance by 135.
+
+###346 count=1 field=tooltipDescription key=10700283|3-JobChange_02- 名=임기 응변
+KO|물리/마법 공격력 18%, 물리/마법 저항력 165 증가
+EN|Increases physical and magic attack by 18% and physical and magic resistance by 165.
+
+###347 count=1 field=tooltipDescription key=10700283|4-JobChange_02- 名=임기 응변
+KO|물리/마법 공격력 24%, 물리/마법 저항력 195 증가
+EN|Increases physical and magic attack by 24% and physical and magic resistance by 195.
+
+###348 count=1 field=tooltipDescription key=10700283|5-JobChange_02- 名=임기 응변
+KO|물리/마법 공격력 30%, 물리/마법 저항력 225 증가
+EN|Increases physical and magic attack by 30% and physical and magic resistance by 225.
+
+###349 count=1 field=tooltipDescription key=10700283|6-JobChange_02- 名=임기 응변
+KO|물리/마법 공격력 36%, 물리/마법 저항력 255 증가
+EN|Increases physical and magic attack by 36% and physical and magic resistance by 255.
+
+###350 count=1 field=tooltipDescription key=10700283|7-JobChange_02- 名=임기 응변
+KO|물리/마법 공격력 42%, 물리/마법 저항력 285 증가
+EN|Increases physical and magic attack by 42% and physical and magic resistance by 285.
+
+###351 count=1 field=tooltipDescription key=10700283|8-JobChange_02- 名=임기 응변
+KO|물리/마법 공격력 48%, 물리/마법 저항력 315 증가
+EN|Increases physical and magic attack by 48% and physical and magic resistance by 315.
+
+###352 count=1 field=tooltipDescription key=10700283|9-JobChange_02- 名=임기 응변
+KO|물리/마법 공격력 54%, 물리/마법 저항력 345 증가
+EN|Increases physical and magic attack by 54% and physical and magic resistance by 345.
+
+###353 count=1 field=tooltipDescription key=10700284|1-JobChange_02- 名=임기 응변
+KO|보복 상태에서 무기 공격력 4%, 회피 4 증가
+EN|Increases physical attack by 4% and evasion by 4 while affected by Retaliation.
+
+###354 count=1 field=tooltipDescription key=10700284|10-JobChange_02- 名=임기 응변
+KO|보복 상태에서 무기 공격력 40%, 회피 40 증가
+EN|Increases physical attack by 40% and evasion by 40 while affected by Retaliation.
+
+###355 count=1 field=tooltipDescription key=10700284|11-JobChange_02- 名=임기 응변
+KO|보복 상태에서 무기 공격력 44%, 회피 44 증가
+EN|Increases physical attack by 44% and evasion by 44 while affected by Retaliation.
+
+###356 count=1 field=tooltipDescription key=10700284|12-JobChange_02- 名=임기 응변
+KO|보복 상태에서 무기 공격력 48%, 회피 48 증가
+EN|Increases physical attack by 48% and evasion by 48 while affected by Retaliation.
+
+###357 count=1 field=tooltipDescription key=10700284|2-JobChange_02- 名=임기 응변
+KO|보복 상태에서 무기 공격력 8%, 회피 8 증가
+EN|Increases physical attack by 8% and evasion by 8 while affected by Retaliation.
+
+###358 count=1 field=tooltipDescription key=10700284|3-JobChange_02- 名=임기 응변
+KO|보복 상태에서 무기 공격력 12%, 회피 12 증가
+EN|Increases physical attack by 12% and evasion by 12 while affected by Retaliation.
+
+###359 count=1 field=tooltipDescription key=10700284|4-JobChange_02- 名=임기 응변
+KO|보복 상태에서 무기 공격력 16%, 회피 16 증가
+EN|Increases physical attack by 16% and evasion by 16 while affected by Retaliation.
+
+###360 count=1 field=tooltipDescription key=10700284|5-JobChange_02- 名=임기 응변
+KO|보복 상태에서 무기 공격력 20%, 회피 20 증가
+EN|Increases physical attack by 20% and evasion by 20 while affected by Retaliation.
+
+###361 count=1 field=tooltipDescription key=10700284|6-JobChange_02- 名=임기 응변
+KO|보복 상태에서 무기 공격력 24%, 회피 24 증가
+EN|Increases physical attack by 24% and evasion by 24 while affected by Retaliation.
+
+###362 count=1 field=tooltipDescription key=10700284|7-JobChange_02- 名=임기 응변
+KO|보복 상태에서 무기 공격력 28%, 회피 28 증가
+EN|Increases physical attack by 28% and evasion by 28 while affected by Retaliation.
+
+###363 count=1 field=tooltipDescription key=10700284|8-JobChange_02- 名=임기 응변
+KO|보복 상태에서 무기 공격력 32%, 회피 32 증가
+EN|Increases physical attack by 32% and evasion by 32 while affected by Retaliation.
+
+###364 count=1 field=tooltipDescription key=10700284|9-JobChange_02- 名=임기 응변
+KO|보복 상태에서 무기 공격력 36%, 회피 36 증가
+EN|Increases physical attack by 36% and evasion by 36 while affected by Retaliation.
+
+###365 count=1 field=tooltipDescription key=10900271|1-JobChange_02- 名=블레이드 러너
+KO|체내의 룬 마력을 활성화 시킵니다.\n무기 공격력 17% 증가\n이동 속도 2% 증가
+EN|Activate rune magic. Increase weapon attack by 2%. Increases movement speed by 2%.
+
+###366 count=1 field=tooltipDescription key=10900271|10-JobChange_02- 名=블레이드 러너
+KO|체내의 룬 마력을 활성화 시킵니다.\n무기 공격력 35% 증가\n이동 속도 20% 증가
+EN|Activate rune magic. Increase weapon attack by 20%. Increases movement speed by 20%.
+
+###367 count=1 field=tooltipDescription key=10900271|11-JobChange_02- 名=블레이드 러너
+KO|체내의 룬 마력을 활성화 시킵니다.\n무기 공격력 37% 증가\n이동 속도 22% 증가
+EN|Activate rune magic. Increase weapon attack by 22%. Increases movement speed by 22%.
+
+###368 count=1 field=tooltipDescription key=10900271|12-JobChange_02- 名=블레이드 러너
+KO|체내의 룬 마력을 활성화 시킵니다.\n무기 공격력 39% 증가\n이동 속도 24% 증가
+EN|Activate rune magic. Increase weapon attack by 24%. Increases movement speed by 24%.
+
+###369 count=1 field=tooltipDescription key=10900271|2-JobChange_02- 名=블레이드 러너
+KO|체내의 룬 마력을 활성화 시킵니다.\n무기 공격력 19% 증가\n이동 속도 4% 증가
+EN|Activate rune magic. Increase weapon attack by 4%. Increases movement speed by 4%.
+
+###370 count=1 field=tooltipDescription key=10900271|3-JobChange_02- 名=블레이드 러너
+KO|체내의 룬 마력을 활성화 시킵니다.\n무기 공격력 21% 증가\n이동 속도 6% 증가
+EN|Activate rune magic. Increase weapon attack by 6%. Increases movement speed by 6%.
+
+###371 count=1 field=tooltipDescription key=10900271|4-JobChange_02- 名=블레이드 러너
+KO|체내의 룬 마력을 활성화 시킵니다.\n무기 공격력 23% 증가\n이동 속도 8% 증가
+EN|Activate rune magic. Increase weapon attack by 8%. Increases movement speed by 8%.
+
+###372 count=1 field=tooltipDescription key=10900271|5-JobChange_02- 名=블레이드 러너
+KO|체내의 룬 마력을 활성화 시킵니다.\n무기 공격력 25% 증가\n이동 속도 10% 증가
+EN|Activate rune magic. Increase weapon attack by 10%. Increases movement speed by 10%.
+
+###373 count=1 field=tooltipDescription key=10900271|6-JobChange_02- 名=블레이드 러너
+KO|체내의 룬 마력을 활성화 시킵니다.\n무기 공격력 27% 증가\n이동 속도 12% 증가
+EN|Activate rune magic. Increase weapon attack by 12%. Increases movement speed by 12%.
+
+###374 count=1 field=tooltipDescription key=10900271|7-JobChange_02- 名=블레이드 러너
+KO|체내의 룬 마력을 활성화 시킵니다.\n무기 공격력 29% 증가\n이동 속도 14% 증가
+EN|Activate rune magic. Increase weapon attack by 14%. Increases movement speed by 14%.
+
+###375 count=1 field=tooltipDescription key=10900271|8-JobChange_02- 名=블레이드 러너
+KO|체내의 룬 마력을 활성화 시킵니다.\n무기 공격력 31% 증가\n이동 속도 16% 증가
+EN|Activate rune magic. Increase weapon attack by 16%. Increases movement speed by 16%.
+
+###376 count=1 field=tooltipDescription key=10900271|9-JobChange_02- 名=블레이드 러너
+KO|체내의 룬 마력을 활성화 시킵니다.\n무기 공격력 33% 증가\n이동 속도 18% 증가
+EN|Activate rune magic. Increase weapon attack by 18%. Increases movement speed by 18%.
+
+###377 count=1 field=tooltipDescription key=10900282|1-JobChange_02- 名=화염 속성 증폭
+KO|화염 마력의 흐름이 강렬해졌습니다!\n화염 대미지 13% 증가
+EN|The flow of fire magic intensifies! Increases fire damage by 8%.
+
+###378 count=1 field=tooltipDescription key=10900282|10-JobChange_02- 名=화염 속성 증폭
+KO|화염 마력의 흐름이 강렬해졌습니다!\n화염 대미지 85% 증가
+EN|The flow of fire magic intensifies! Increases fire damage by 80%.
+
+###379 count=1 field=tooltipDescription key=10900282|11-JobChange_02- 名=화염 속성 증폭
+KO|화염 마력의 흐름이 강렬해졌습니다!\n화염 대미지 93% 증가
+EN|The flow of fire magic intensifies! Increases fire damage by 88%.
+
+###380 count=1 field=tooltipDescription key=10900282|12-JobChange_02- 名=화염 속성 증폭
+KO|화염 마력의 흐름이 강렬해졌습니다!\n화염 대미지 101% 증가
+EN|The flow of fire magic intensifies! Increases fire damage by 96%.
+
+###381 count=1 field=tooltipDescription key=10900282|2-JobChange_02- 名=화염 속성 증폭
+KO|화염 마력의 흐름이 강렬해졌습니다!\n화염 대미지 21% 증가
+EN|The flow of fire magic intensifies! Increases fire damage by 16%.
+
+###382 count=1 field=tooltipDescription key=10900282|3-JobChange_02- 名=화염 속성 증폭
+KO|화염 마력의 흐름이 강렬해졌습니다!\n화염 대미지 29% 증가
+EN|The flow of fire magic intensifies! Increases fire damage by 24%.
+
+###383 count=1 field=tooltipDescription key=10900282|4-JobChange_02- 名=화염 속성 증폭
+KO|화염 마력의 흐름이 강렬해졌습니다!\n화염 대미지 37% 증가
+EN|The flow of fire magic intensifies! Increases fire damage by 32%.
+
+###384 count=1 field=tooltipDescription key=10900282|5-JobChange_02- 名=화염 속성 증폭
+KO|화염 마력의 흐름이 강렬해졌습니다!\n화염 대미지 45% 증가
+EN|The flow of fire magic intensifies! Increases fire damage by 40%.
+
+###385 count=1 field=tooltipDescription key=10900282|6-JobChange_02- 名=화염 속성 증폭
+KO|화염 마력의 흐름이 강렬해졌습니다!\n화염 대미지 53% 증가
+EN|The flow of fire magic intensifies! Increases fire damage by 48%.
+
+###386 count=1 field=tooltipDescription key=10900282|7-JobChange_02- 名=화염 속성 증폭
+KO|화염 마력의 흐름이 강렬해졌습니다!\n화염 대미지 61% 증가
+EN|The flow of fire magic intensifies! Increases fire damage by 56%.
+
+###387 count=1 field=tooltipDescription key=10900282|8-JobChange_02- 名=화염 속성 증폭
+KO|화염 마력의 흐름이 강렬해졌습니다!\n화염 대미지 69% 증가
+EN|The flow of fire magic intensifies! Increases fire damage by 64%.
+
+###388 count=1 field=tooltipDescription key=10900282|9-JobChange_02- 名=화염 속성 증폭
+KO|화염 마력의 흐름이 강렬해졌습니다!\n화염 대미지 77% 증가
+EN|The flow of fire magic intensifies! Increases fire damage by 72%.
+
+###389 count=1 field=tooltipDescription key=10900283|1-JobChange_02- 名=냉기 속성 증폭
+KO|냉기 마력의 흐름이 강렬해졌습니다!\n냉기 대미지 13% 증가
+EN|The flow of ice magic intensifies! Increases ice damage by 8%.
+
+###390 count=1 field=tooltipDescription key=10900283|10-JobChange_02- 名=냉기 속성 증폭
+KO|냉기 마력의 흐름이 강렬해졌습니다!\n냉기 대미지 85% 증가
+EN|The flow of ice magic intensifies! Increases ice damage by 80%.
+
+###391 count=1 field=tooltipDescription key=10900283|11-JobChange_02- 名=냉기 속성 증폭
+KO|냉기 마력의 흐름이 강렬해졌습니다!\n냉기 대미지 93% 증가
+EN|The flow of ice magic intensifies! Increases ice damage by 88%.
+
+###392 count=1 field=tooltipDescription key=10900283|12-JobChange_02- 名=냉기 속성 증폭
+KO|냉기 마력의 흐름이 강렬해졌습니다!\n냉기 대미지 101% 증가
+EN|The flow of ice magic intensifies! Increases ice damage by 96%.
+
+###393 count=1 field=tooltipDescription key=10900283|2-JobChange_02- 名=냉기 속성 증폭
+KO|냉기 마력의 흐름이 강렬해졌습니다!\n냉기 대미지 21% 증가
+EN|The flow of ice magic intensifies! Increases ice damage by 16%.
+
+###394 count=1 field=tooltipDescription key=10900283|3-JobChange_02- 名=냉기 속성 증폭
+KO|냉기 마력의 흐름이 강렬해졌습니다!\n냉기 대미지 29% 증가
+EN|The flow of ice magic intensifies! Increases ice damage by 24%.
+
+###395 count=1 field=tooltipDescription key=10900283|4-JobChange_02- 名=냉기 속성 증폭
+KO|냉기 마력의 흐름이 강렬해졌습니다!\n냉기 대미지 37% 증가
+EN|The flow of ice magic intensifies! Increases ice damage by 32%.
+
+###396 count=1 field=tooltipDescription key=10900283|5-JobChange_02- 名=냉기 속성 증폭
+KO|냉기 마력의 흐름이 강렬해졌습니다!\n냉기 대미지 45% 증가
+EN|The flow of ice magic intensifies! Increases ice damage by 40%.
+
+###397 count=1 field=tooltipDescription key=10900283|6-JobChange_02- 名=냉기 속성 증폭
+KO|냉기 마력의 흐름이 강렬해졌습니다!\n냉기 대미지 53% 증가
+EN|The flow of ice magic intensifies! Increases ice damage by 48%.
+
+###398 count=1 field=tooltipDescription key=10900283|7-JobChange_02- 名=냉기 속성 증폭
+KO|냉기 마력의 흐름이 강렬해졌습니다!\n냉기 대미지 61% 증가
+EN|The flow of ice magic intensifies! Increases ice damage by 56%.
+
+###399 count=1 field=tooltipDescription key=10900283|8-JobChange_02- 名=냉기 속성 증폭
+KO|냉기 마력의 흐름이 강렬해졌습니다!\n냉기 대미지 69% 증가
+EN|The flow of ice magic intensifies! Increases ice damage by 64%.
+
+###400 count=1 field=tooltipDescription key=10900283|9-JobChange_02- 名=냉기 속성 증폭
+KO|냉기 마력의 흐름이 강렬해졌습니다!\n냉기 대미지 77% 증가
+EN|The flow of ice magic intensifies! Increases ice damage by 72%.
+
+###401 count=1 field=tooltipDescription key=10900284|1-JobChange_02- 名=전격 속성 증폭
+KO|전격 마력의 흐름이 강렬해졌습니다!\n전격 대미지 13% 증가
+EN|The flow of electric magic intensifies! Increases electric damage by 8%.
+
+###402 count=1 field=tooltipDescription key=10900284|10-JobChange_02- 名=전격 속성 증폭
+KO|전격 마력의 흐름이 강렬해졌습니다!\n전격 대미지 85% 증가
+EN|The flow of electric magic intensifies! Increases electric damage by 80%.
+
+###403 count=1 field=tooltipDescription key=10900284|11-JobChange_02- 名=전격 속성 증폭
+KO|전격 마력의 흐름이 강렬해졌습니다!\n전격 대미지 93% 증가
+EN|The flow of electric magic intensifies! Increases electric damage by 88%.
+
+###404 count=1 field=tooltipDescription key=10900284|12-JobChange_02- 名=전격 속성 증폭
+KO|전격 마력의 흐름이 강렬해졌습니다!\n전격 대미지 101% 증가
+EN|The flow of electric magic intensifies! Increases electric damage by 96%.
+
+###405 count=1 field=tooltipDescription key=10900284|2-JobChange_02- 名=전격 속성 증폭
+KO|전격 마력의 흐름이 강렬해졌습니다!\n전격 대미지 21% 증가
+EN|The flow of electric magic intensifies! Increases electric damage by 16%.
+
+###406 count=1 field=tooltipDescription key=10900284|3-JobChange_02- 名=전격 속성 증폭
+KO|전격 마력의 흐름이 강렬해졌습니다!\n전격 대미지 29% 증가
+EN|The flow of electric magic intensifies! Increases electric damage by 24%.
+
+###407 count=1 field=tooltipDescription key=10900284|4-JobChange_02- 名=전격 속성 증폭
+KO|전격 마력의 흐름이 강렬해졌습니다!\n전격 대미지 37% 증가
+EN|The flow of electric magic intensifies! Increases electric damage by 32%.
+
+###408 count=1 field=tooltipDescription key=10900284|5-JobChange_02- 名=전격 속성 증폭
+KO|전격 마력의 흐름이 강렬해졌습니다!\n전격 대미지 45% 증가
+EN|The flow of electric magic intensifies! Increases electric damage by 40%.
+
+###409 count=1 field=tooltipDescription key=10900284|6-JobChange_02- 名=전격 속성 증폭
+KO|전격 마력의 흐름이 강렬해졌습니다!\n전격 대미지 53% 증가
+EN|The flow of electric magic intensifies! Increases electric damage by 48%.
+
+###410 count=1 field=tooltipDescription key=10900284|7-JobChange_02- 名=전격 속성 증폭
+KO|전격 마력의 흐름이 강렬해졌습니다!\n전격 대미지 61% 증가
+EN|The flow of electric magic intensifies! Increases electric damage by 56%.
+
+###411 count=1 field=tooltipDescription key=10900284|8-JobChange_02- 名=전격 속성 증폭
+KO|전격 마력의 흐름이 강렬해졌습니다!\n전격 대미지 69% 증가
+EN|The flow of electric magic intensifies! Increases electric damage by 64%.
+
+###412 count=1 field=tooltipDescription key=10900284|9-JobChange_02- 名=전격 속성 증폭
+KO|전격 마력의 흐름이 강렬해졌습니다!\n전격 대미지 77% 증가
+EN|The flow of electric magic intensifies! Increases electric damage by 72%.
+
+###413 count=1 field=tooltipDescription key=110001001|1-CharacterAbility- 名=HP 및 방어력 증가
+KO|HP가 <FONT color='#FFD200'>31</FONT> 증가하고,\n방어력이 <FONT color='#FFD200'>11</FONT> 증가합니다.\n<FONT color='#909090'>단, 전장에서는 적용되지 않습니다.</FONT>
+EN|Increases HP by <FONT color='#FFD200'>31</FONT> and\nDefense by <FONT color='#FFD200'>11</FONT>.\n<FONT color='#909090'>This effect does not apply in PvP zones.</FONT>
+
+###414 count=1 field=tooltipDescription key=110001002|1-CharacterAbility- 名=물리 저항력 증가
+KO|물리 저항력이 <FONT color='#FFD200'>15</FONT> 증가합니다.\n<FONT color='#909090'>단, 전장에서는 적용되지 않습니다.</FONT>
+EN|Increases Physical Resistance by <FONT color='#FFD200'>15</FONT>.\n<FONT color='#909090'>This effect does not apply in PvP zones.</FONT>
+
+###415 count=1 field=tooltipDescription key=110001003|1-CharacterAbility- 名=마법 저항력 증가
+KO|마법 저항력이 <FONT color='#FFD200'>15</FONT> 증가합니다.\n<FONT color='#909090'>단, 전장에서는 적용되지 않습니다.</FONT>
+EN|Increases Magic Resistance by <FONT color='#FFD200'>15</FONT>.\n<FONT color='#909090'>This effect does not apply in PvP zones.</FONT>
+
+###416 count=1 field=tooltipDescription key=110001004|1-CharacterAbility- 名=엘리트 몬스터 대미지 증가
+KO|엘리트 몬스터에게 주는 대미지가 <FONT color='#FFD200'>3%</FONT> 증가합니다.
+EN|Increases damage dealt to elite monsters by <FONT color='#FFD200'>3%</FONT>.
+
+###417 count=1 field=tooltipDescription key=110001005|1-CharacterAbility- 名=보스 몬스터 대미지 증가
+KO|보스 몬스터에게 주는 대미지가 <FONT color='#FFD200'>3%</FONT> 증가합니다.
+EN|Increases damage dealt to boss monsters by <FONT color='#FFD200'>3%</FONT>.
+
+###418 count=1 field=tooltipDescription key=110001006|1-CharacterAbility- 名=무기 공격력 증가
+KO|무기 공격력이 <FONT color='#FFD200'>2%</FONT> 증가합니다.\n<FONT color='#909090'>단, 전장에서는 적용되지 않습니다.</FONT>
+EN|Increases Weapon Attack by <FONT color='#FFD200'>2%</FONT>.\n<FONT color='#909090'>This effect does not apply in PvP zones.</FONT>
+
+###419 count=1 field=tooltipDescription key=110001007|1-CharacterAbility- 名=명중 증가
+KO|명중이 <FONT color='#FFD200'>3</FONT> 증가합니다.\n<FONT color='#909090'>단, 전장에서는 적용되지 않습니다.</FONT>
+EN|Increases Accuracy by <FONT color='#FFD200'>3</FONT>.\n<FONT color='#909090'>This effect does not apply in PvP zones.</FONT>
+
+###420 count=1 field=tooltipDescription key=110001008|1-CharacterAbility- 名=방어력 관통 증가
+KO|방어력 관통이 <FONT color='#FFD200'>2%</FONT> 증가합니다.\n<FONT color='#909090'>단, 전장에서는 적용되지 않습니다.</FONT>
+EN|Increases Piercing by <FONT color='#FFD200'>2%</FONT>.\n<FONT color='#909090'>This effect does not apply in PvP zones.</FONT>
+
+###421 count=1 field=tooltipDescription key=110001009|1-CharacterAbility- 名=물리 및 마법 대미지 증가
+KO|물리 대미지가 <FONT color='#FFD200'>2%</FONT> 증가하고,\n마법 대미지가 <FONT color='#FFD200'>2%</FONT> 증가합니다.\n<FONT color='#909090'>단, 전장에서는 적용되지 않습니다.</FONT>
+EN|Increases Physical Damage by <FONT color='#FFD200'>2%</FONT> and\nMagic Damage by <FONT color='#FFD200'>2%</FONT>.\n<FONT color='#909090'>This effect does not apply in PvP zones.</FONT>
+
+###422 count=1 field=tooltipDescription key=110001010|1-CharacterAbility- 名=물리 및 마법 저항력 관통 증가
+KO|물리 저항력 관통이 <FONT color='#FFD200'>3%</FONT> 증가하고,\n마법 저항력 관통이 <FONT color='#FFD200'>3%</FONT> 증가합니다.\n<FONT color='#909090'>단,전장에서는 적용되지 않습니다.</FONT>
+EN|Increases Physical Resistance Piercing by <FONT color='#FFD200'>3%</FONT> and\nMagic Resistance Piercing by <FONT color='#FFD200'>3%</FONT>.\n<FONT color='#909090'>This effect does not apply in PvP zones.</FONT>
+
+###423 count=1 field=tooltipDescription key=110001011|1-CharacterAbility- 名=물리 및 마법 공격력 증가
+KO|물리 공격력이 <FONT color='#FFD200'>2%</FONT> 증가하고,\n마법 공격력이 <FONT color='#FFD200'>2%</FONT> 증가합니다.\n<FONT color='#909090'>단, 전장에서는 적용되지 않습니다.</FONT>
+EN|Increases Physical Attack by <FONT color='#FFD200'>2%</FONT> and\nMagic Attack by <FONT color='#FFD200'>2%</FONT>.\n<FONT color='#909090'>This effect does not apply in PvP zones.</FONT>
+
+###424 count=1 field=tooltipDescription key=110001012|1-CharacterAbility- 名=피격 시 공격속도 증가
+KO|피격 시 일정 확률로 15초 동안 공격속도가\n<FONT color='#FFD200'>3%</FONT> 증가합니다.\n<FONT color='#909090'>단, 전장에서는 적용되지 않습니다.</FONT>
+EN|When hit, has a chance to increase Attack Speed by\n<FONT color='#FFD200'>3%</FONT> for 15 sec.\n<FONT color='#909090'>This effect does not apply in PvP zones.</FONT>
+
+###425 count=1 field=tooltipDescription key=110001013|1-CharacterAbility- 名=엘리트 몬스터에게 피격 시 피해 감소
+KO|엘리트 몬스터에게 피격당할 경우 받는 대미지가 <FONT color='#FFD200'>6%</FONT> 감소합니다.
+EN|Reduces damage taken from elite monsters by <FONT color='#FFD200'>6%</FONT>.
+
+###426 count=1 field=tooltipDescription key=110001014|1-CharacterAbility- 名=필드 보스 몬스터 처치 시 보너스 획득
+KO|필드 보스 몬스터를 처치할 경우 일정 확률로 보상을 <FONT color='#FFD200'>한 번 더</FONT> 획득합니다.
+EN|Defeating a field boss has a chance to grant its rewards <FONT color='#FFD200'>one additional time</FONT>.
+
+###427 count=1 field=tooltipDescription key=110001015|1-CharacterAbility- 名=투기장 승리 시 용맹의 증표 추가 획득
+KO|투기장에서 승리했을 때 일정 확률로 용맹의 증표를 <FONT color='#FFD200'>2배</FONT>로 획득합니다.
+EN|Winning in the Arena has a chance to grant <FONT color='#FFD200'>double</FONT> Valor Tokens.
+
+###428 count=1 field=tooltipDescription key=110001016|1-CharacterAbility- 名=포션 사용 시 쿨타임 감소
+KO|포션 재사용 쿨타임이 <FONT color='#FFD200'>20%</FONT> 감소합니다.
+EN|Reduces potion cooldowns by <FONT color='#FFD200'>20%</FONT>.
+
+###429 count=1 field=tooltipDescription key=110001017|1-CharacterAbility- 名=엘릭서 사용 시 쿨타임 감소
+KO|엘릭서 재사용 쿨타임이 <FONT color='#FFD200'>20%</FONT> 감소합니다.
+EN|Reduces elixir cooldowns by <FONT color='#FFD200'>20%</FONT>.
+
+###430 count=1 field=tooltipDescription key=110001018|1-CharacterAbility- 名=탈것 이동속도 증가
+KO|탈것을 타고 이동할 때 이동속도가 <FONT color='#FFD200'>10%</FONT> 증가합니다.
+EN|Increases movement speed while mounted by <FONT color='#FFD200'>10%</FONT>.
+
+###431 count=1 field=tooltipDescription key=110001019|1-CharacterAbility- 名=황금 보물 상자에서 추가 보너스 획득
+KO|황금 보물 상자를 열었을 때 일정 확률로 오닉스 결정 <FONT color='#FFD200'>999개</FONT>를 추가로 얻습니다.
+EN|Opening a Golden Treasure Chest has a chance to grant an additional <FONT color='#FFD200'>999 Onyx Crystals</FONT>.
+
+###432 count=1 field=tooltipDescription key=110001020|1-CharacterAbility- 名=나무 보물 상자에서 추가 보너스 획득
+KO|나무 보물 상자를 열었을 때 일정 확률로 <FONT color='#FFD200'>100,000메소</FONT>를 추가로 얻습니다.
+EN|Opening a Wooden Treasure Chest has a chance to grant an additional <FONT color='#FFD200'>100,000 mesos</FONT>.
+
+###433 count=1 field=tooltipDescription key=110001021|1-CharacterAbility- 名=일일 퀘스트에서 추가 경험치 획득
+KO|일일 퀘스트 완료 시 일정 확률로 받는 경험치가 <FONT color='#FFD200'>5배</FONT>가 됩니다.
+EN|Completing a daily quest has a chance to multiply the EXP reward by <FONT color='#FFD200'>5</FONT>.
+
+###434 count=1 field=tooltipDescription key=110001022|1-CharacterAbility- 名=일일 퀘스트에서 추가 메소 획득
+KO|일일 퀘스트 완료 시 일정 확률로 받는 메소가 <FONT color='#FFD200'>5배</FONT>가 됩니다.
+EN|Completing a daily quest has a chance to multiply the meso reward by <FONT color='#FFD200'>5</FONT>.
+
+###435 count=1 field=tooltipDescription key=110001023|1-CharacterAbility- 名=일일 퀘스트에서 추가 루 획득
+KO|일일 퀘스트 완료 시 일정 확률로 받는 루를 <FONT color='#FFD200'>5배</FONT>로 받습니다.
+EN|Completing a daily quest has a chance to multiply the Lu reward by <FONT color='#FFD200'>5</FONT>.
+
+###436 count=1 field=tooltipDescription key=110001024|1-CharacterAbility- 名=$item:30001133$에서 보너스 보상 획득
+KO|$item:30001133$$pp:를,을$ 열 때 일정 확률로 <FONT color='#FFD200'>한 번 더</FONT> 상자를 열어 보상을 받습니다.\n<FONT color='#909090'>추가로 얻은 보상은 자동으로 소지품에 들어오며,\n소지품이 가득 찬 경우 우편으로 발송됩니다.</FONT>
+EN|Opening $item:30001133$ has a chance to open the chest <FONT color='#FFD200'>one additional time</FONT> and receive another reward.\n<FONT color='#909090'>The bonus reward is placed in your inventory automatically.\nIf your inventory is full, it will be sent by mail.</FONT>
+
+###437 count=1 field=tooltipDescription key=110001025|1-CharacterAbility- 名=악보 연주 시 추가 경험치 획득
+KO|악보 연주를 완료했을 때 일정 확률로 획득 경험치가 <FONT color='#FFD200'>3배</FONT>가 됩니다.
+EN|Completing a sheet music performance has a chance to multiply the EXP gained by <FONT color='#FFD200'>3</FONT>.
+
+###438 count=1 field=tooltipDescription key=110001026|1-CharacterAbility- 名=대도시에서 휴식 경험치 획득 가능
+KO|대도시에서 머무르고 있을 때에도 휴식 경험치를\n얻을 수 있습니다.\n<FONT color='#909090'>대도시 : 트라이아, 엘리니아, 페리온, 리스항구,\n헤네시스, 커닝시티, 탈리스커, 루델리 시티, 바베니</FONT>
+EN|Allows you to gain Rest EXP while staying in a major city.\n<FONT color='#909090'>Major Cities: Tria, Ellinia, Perion, Lith Harbor,\nHenesys, Kerning City, Taliskar, Ludari City, and Barveni</FONT>
+
+###439 count=1 field=tooltipDescription key=110001027|1-CharacterAbility- 名=월척 시 경험치 및 숙련도 획득량 증가
+KO|월척을 낚을 경우 경험치 및 숙련도 획득량이 <FONT color='#FFD200'>2배</FONT>가 됩니다.
+EN|Catching a prize fish <FONT color='#FFD200'>doubles</FONT> the EXP and Mastery gained.
+
+###440 count=1 field=tooltipDescription key=110001028|1-CharacterAbility- 名=인챈트 실패 시 프랙타 결정 추가 획득
+KO|10단계 이상 인챈트 된 아이템을 11단계 이상으로\n인챈트를 시도해서 실패했을 때 일정 확률로\n프랙타 결정을 <FONT color='#FFD200'>2배</FONT> 획득합니다.\n<FONT color='#909090'>보상은 자동으로 소지품에 들어오며,\n소지품이 가득 찬 경우 우편으로 발송됩니다.</FONT>
+EN|When an attempt to enchant an item from +10 or higher\nto +11 or higher fails, there is a chance to receive\n<FONT color='#FFD200'>double</FONT> Fracta Crystals.\n<FONT color='#909090'>The reward is placed in your inventory automatically.\nIf your inventory is full, it will be sent by mail.</FONT>
+
+###441 count=1 field=tooltipDescription key=110001029|1-CharacterAbility- 名=반지 제작 대성공 시 아이템 추가 획득
+KO|반지 제작 시 대성공을 할 경우 일정 확률로 제작\n결과물을 <FONT color='#FFD200'>하나 더</FONT> 추가로 얻습니다.\n<FONT color='#909090'>추가로 얻은 보상은 자동으로 소지품에 들어오며,\n소지품이 가득 찬 경우 우편으로 발송됩니다.</FONT>
+EN|Achieving a Great Success while crafting a ring has a chance to grant\n<FONT color='#FFD200'>one additional</FONT> crafted item.\n<FONT color='#909090'>The bonus reward is placed in your inventory automatically.\nIf your inventory is full, it will be sent by mail.</FONT>
+
+###442 count=1 field=tooltipDescription key=110001100|1-CharacterAbility- 名=공격속도 3% 증가
+KO|특성 효과로 공격속도가 3% 증가합니다.
+EN|(なし)
+
+###443 count=1 field=tooltipDescription key=11000312|1-JobChange_02- 名=혈도 개방EX 1단계
+KO|자신의 모든 혈을 능숙하게 다룹니다!\n공격속도 15%, 물리 공격력 8%, 물리/마법 저항력 150 증가
+EN|Masterfully control the flow of energy through your body. Increases attack speed by 15%, physical attack by 8%, and physical and magic resistance by 150.
+
+###444 count=1 field=tooltipDescription key=11000312|10-JobChange_02- 名=혈도 개방EX 1단계
+KO|자신의 모든 혈을 능숙하게 다룹니다!\n공격속도 15%, 물리 공격력 44%, 물리/마법 저항력 150 증가
+EN|Masterfully control the flow of energy through your body. Increases attack speed by 15%, physical attack by 44%, and physical and magic resistance by 150.
+
+###445 count=1 field=tooltipDescription key=11000312|11-JobChange_02- 名=혈도 개방EX 1단계
+KO|자신의 모든 혈을 능숙하게 다룹니다!\n공격속도 15%, 물리 공격력 48%, 물리/마법 저항력 150 증가
+EN|Masterfully control the flow of energy through your body. Increases attack speed by 15%, physical attack by 48%, and physical and magic resistance by 150.
+
+###446 count=1 field=tooltipDescription key=11000312|12-JobChange_02- 名=혈도 개방EX 1단계
+KO|자신의 모든 혈을 능숙하게 다룹니다!\n공격속도 15%, 물리 공격력 52%, 물리/마법 저항력 150 증가
+EN|Masterfully control the flow of energy through your body. Increases attack speed by 15%, physical attack by 52%, and physical and magic resistance by 150.
+
+###447 count=1 field=tooltipDescription key=11000312|2-JobChange_02- 名=혈도 개방EX 1단계
+KO|자신의 모든 혈을 능숙하게 다룹니다!\n공격속도 15%, 물리 공격력 12%, 물리/마법 저항력 150 증가
+EN|Masterfully control the flow of energy through your body. Increases attack speed by 15%, physical attack by 12%, and physical and magic resistance by 150.
+
+###448 count=1 field=tooltipDescription key=11000312|3-JobChange_02- 名=혈도 개방EX 1단계
+KO|자신의 모든 혈을 능숙하게 다룹니다!\n공격속도 15%, 물리 공격력 16%, 물리/마법 저항력 150 증가
+EN|Masterfully control the flow of energy through your body. Increases attack speed by 15%, physical attack by 16%, and physical and magic resistance by 150.
+
+###449 count=1 field=tooltipDescription key=11000312|4-JobChange_02- 名=혈도 개방EX 1단계
+KO|자신의 모든 혈을 능숙하게 다룹니다!\n공격속도 15%, 물리 공격력 20%, 물리/마법 저항력 150 증가
+EN|Masterfully control the flow of energy through your body. Increases attack speed by 15%, physical attack by 20%, and physical and magic resistance by 150.
+
+###450 count=1 field=tooltipDescription key=11000312|5-JobChange_02- 名=혈도 개방EX 1단계
+KO|자신의 모든 혈을 능숙하게 다룹니다!\n공격속도 15%, 물리 공격력 24%, 물리/마법 저항력 150 증가
+EN|Masterfully control the flow of energy through your body. Increases attack speed by 15%, physical attack by 24%, and physical and magic resistance by 150.
+
+###451 count=1 field=tooltipDescription key=11000312|6-JobChange_02- 名=혈도 개방EX 1단계
+KO|자신의 모든 혈을 능숙하게 다룹니다!\n공격속도 15%, 물리 공격력 28%, 물리/마법 저항력 150 증가
+EN|Masterfully control the flow of energy through your body. Increases attack speed by 15%, physical attack by 28%, and physical and magic resistance by 150.
+
+###452 count=1 field=tooltipDescription key=11000312|7-JobChange_02- 名=혈도 개방EX 1단계
+KO|자신의 모든 혈을 능숙하게 다룹니다!\n공격속도 15%, 물리 공격력 32%, 물리/마법 저항력 150 증가
+EN|Masterfully control the flow of energy through your body. Increases attack speed by 15%, physical attack by 32%, and physical and magic resistance by 150.
+
+###453 count=1 field=tooltipDescription key=11000312|8-JobChange_02- 名=혈도 개방EX 1단계
+KO|자신의 모든 혈을 능숙하게 다룹니다!\n공격속도 15%, 물리 공격력 36%, 물리/마법 저항력 150 증가
+EN|Masterfully control the flow of energy through your body. Increases attack speed by 15%, physical attack by 36%, and physical and magic resistance by 150.
+
+###454 count=1 field=tooltipDescription key=11000312|9-JobChange_02- 名=혈도 개방EX 1단계
+KO|자신의 모든 혈을 능숙하게 다룹니다!\n공격속도 15%, 물리 공격력 40%, 물리/마법 저항력 150 증가
+EN|Masterfully control the flow of energy through your body. Increases attack speed by 15%, physical attack by 40%, and physical and magic resistance by 150.
+
+###455 count=1 field=tooltipDescription key=11000315|1-JobChange_02- 名=뒤틀림 1단계
+KO|체내의 혈의 개방으로 잠시동안 뒤틀립니다.\n30초 동안 혈도 개방EX, 한계 돌파, 패턴 브레이크, 투혼 재사용 불가.
+EN|Your balance has been disrupted. Prevents the use of Meridian Flow EX, Overcome, Pattern Break, and Fighting Spirit for 30 sec.
+
+###456 count=1 field=tooltipDescription key=11000316|1-JobChange_02- 名=혈도 개방EX 2단계
+KO|모든 혈을 개방해 신체 능력이 폭발적으로 증가합니다!\n공격속도 20%, 물리 공격력 12%, 물리/마법 저항력 225 증가
+EN|An explosion of energy flows through you! Increases attack speed by 20%, physical attack by 12%, and physical and magic resistance by 225.
+
+###457 count=1 field=tooltipDescription key=11000316|10-JobChange_02- 名=혈도 개방EX 2단계
+KO|모든 혈을 개방해 신체 능력이 폭발적으로 증가합니다!\n공격속도 20%, 물리 공격력 66%, 물리/마법 저항력 225 증가
+EN|An explosion of energy flows through you! Increases attack speed by 20%, physical attack by 66%, and physical and magic resistance by 225.
+
+###458 count=1 field=tooltipDescription key=11000316|11-JobChange_02- 名=혈도 개방EX 2단계
+KO|모든 혈을 개방해 신체 능력이 폭발적으로 증가합니다!\n공격속도 20%, 물리 공격력 72%, 물리/마법 저항력 225 증가
+EN|An explosion of energy flows through you! Increases attack speed by 20%, physical attack by 72%, and physical and magic resistance by 225.
+
+###459 count=1 field=tooltipDescription key=11000316|12-JobChange_02- 名=혈도 개방EX 2단계
+KO|모든 혈을 개방해 신체 능력이 폭발적으로 증가합니다!\n공격속도 20%, 물리 공격력 78%, 물리/마법 저항력 225 증가
+EN|An explosion of energy flows through you! Increases attack speed by 20%, physical attack by 78%, and physical and magic resistance by 225.
+
+###460 count=1 field=tooltipDescription key=11000316|2-JobChange_02- 名=혈도 개방EX 2단계
+KO|모든 혈을 개방해 신체 능력이 폭발적으로 증가합니다!\n공격속도 20%, 물리 공격력 18%, 물리/마법 저항력 225 증가
+EN|An explosion of energy flows through you! Increases attack speed by 20%, physical attack by 18%, and physical and magic resistance by 225.
+
+###461 count=1 field=tooltipDescription key=11000316|3-JobChange_02- 名=혈도 개방EX 2단계
+KO|모든 혈을 개방해 신체 능력이 폭발적으로 증가합니다!\n공격속도 20%, 물리 공격력 24%, 물리/마법 저항력 225 증가
+EN|An explosion of energy flows through you! Increases attack speed by 20%, physical attack by 24%, and physical and magic resistance by 225.
+
+###462 count=1 field=tooltipDescription key=11000316|4-JobChange_02- 名=혈도 개방EX 2단계
+KO|모든 혈을 개방해 신체 능력이 폭발적으로 증가합니다!\n공격속도 20%, 물리 공격력 30%, 물리/마법 저항력 225 증가
+EN|An explosion of energy flows through you! Increases attack speed by 20%, physical attack by 30%, and physical and magic resistance by 225.
+
+###463 count=1 field=tooltipDescription key=11000316|5-JobChange_02- 名=혈도 개방EX 2단계
+KO|모든 혈을 개방해 신체 능력이 폭발적으로 증가합니다!\n공격속도 20%, 물리 공격력 36%, 물리/마법 저항력 225 증가
+EN|An explosion of energy flows through you! Increases attack speed by 20%, physical attack by 36%, and physical and magic resistance by 225.
+
+###464 count=1 field=tooltipDescription key=11000316|6-JobChange_02- 名=혈도 개방EX 2단계
+KO|모든 혈을 개방해 신체 능력이 폭발적으로 증가합니다!\n공격속도 20%, 물리 공격력 42%, 물리/마법 저항력 225 증가
+EN|An explosion of energy flows through you! Increases attack speed by 20%, physical attack by 42%, and physical and magic resistance by 225.
+
+###465 count=1 field=tooltipDescription key=11000316|7-JobChange_02- 名=혈도 개방EX 2단계
+KO|모든 혈을 개방해 신체 능력이 폭발적으로 증가합니다!\n공격속도 20%, 물리 공격력 48%, 물리/마법 저항력 225 증가
+EN|An explosion of energy flows through you! Increases attack speed by 20%, physical attack by 48%, and physical and magic resistance by 225.
+
+###466 count=1 field=tooltipDescription key=11000316|8-JobChange_02- 名=혈도 개방EX 2단계
+KO|모든 혈을 개방해 신체 능력이 폭발적으로 증가합니다!\n공격속도 20%, 물리 공격력 54%, 물리/마법 저항력 225 증가
+EN|An explosion of energy flows through you! Increases attack speed by 20%, physical attack by 54%, and physical and magic resistance by 225.
+
+###467 count=1 field=tooltipDescription key=11000316|9-JobChange_02- 名=혈도 개방EX 2단계
+KO|모든 혈을 개방해 신체 능력이 폭발적으로 증가합니다!\n공격속도 20%, 물리 공격력 60%, 물리/마법 저항력 225 증가
+EN|An explosion of energy flows through you! Increases attack speed by 20%, physical attack by 60%, and physical and magic resistance by 225.
+
+###468 count=1 field=tooltipDescription key=11000319|1-JobChange_02- 名=뒤틀림 2단계
+KO|체내의 혈의 개방으로 잠시동안 뒤틀립니다.\n40초 동안 혈도 개방EX, 한계 돌파, 패턴 브레이크, 투혼 재사용 불가.
+EN|Your balance has been disrupted. Prevents the use of Meridian Flow EX, Overcome, Pattern Break, and Fighting Spirit for 40 sec.
+
+###469 count=1 field=tooltipDescription key=11100266|1-JobChange_02- 名=스피릿 번
+KO|채내의 차크라를 이용한 스피릿 번이 활성화 됬습니다.\n최대 5개까지 생성.
+EN|Inner spirit power has been activated. Stacks up to 5 times.
+
+###470 count=1 field=tooltipDescription key=11100269|1-JobChange_02- 名=소진 상태
+KO|영혼 소진 상태로 인해 기를 다시 운용합니다.\n10초 간 스피릿 번 사용 불가.
+EN|Spiritually exhausted. Spirit Burn cannot be used for 10 sec.
+
+###471 count=1 field=tooltipDescription key=11100297|1-JobChange_02- 名=비전 스피릿 번
+KO|채내의 차크라와 비전 에너지를 융합한 새로운 스피릿 번이 활성화 됬습니다.\n최대 5개까지 자동 생성.
+EN|Inner spirit power mingles with Vision's essence. Automatically generates a stack of 5.
+
+###472 count=1 field=tooltipDescription key=11100311|1-JobChange_02- 名=소울 브레이크
+KO|영혼의 소용돌이에 휩싸여 치명적인 상처를 입었습니다.\n20초 간 피격 시 공격한 대상자의 스킬 타입에 따른 추가 대미지 220% 를 준다.
+EN|Enveloped by a deadly soul maelstrom. Deals 220% additional damage for 20 sec based on the type of target that is attacked.
+
+###473 count=1 field=tooltipDescription key=11100311|10-JobChange_02- 名=소울 브레이크
+KO|영혼의 소용돌이에 휩싸여 치명적인 상처를 입었습니다.\n20초 간 피격 시 공격한 대상자의 스킬 타입에 따른 추가 대미지 445% 를 준다.
+EN|Enveloped by a deadly soul maelstrom. Deals 445% additional damage for 20 sec based on the type of target that is attacked.
+
+###474 count=1 field=tooltipDescription key=11100311|11-JobChange_02- 名=소울 브레이크
+KO|영혼의 소용돌이에 휩싸여 치명적인 상처를 입었습니다.\n20초 간 피격 시 공격한 대상자의 스킬 타입에 따른 추가 대미지 470% 를 준다.
+EN|Enveloped by a deadly soul maelstrom. Deals 470% additional damage for 20 sec based on the type of target that is attacked.
+
+###475 count=1 field=tooltipDescription key=11100311|12-JobChange_02- 名=소울 브레이크
+KO|영혼의 소용돌이에 휩싸여 치명적인 상처를 입었습니다.\n20초 간 피격 시 공격한 대상자의 스킬 타입에 따른 추가 대미지 495% 를 준다.
+EN|Enveloped by a deadly soul maelstrom. Deals 495% additional damage for 20 sec based on the type of target that is attacked.
+
+###476 count=1 field=tooltipDescription key=11100311|2-JobChange_02- 名=소울 브레이크
+KO|영혼의 소용돌이에 휩싸여 치명적인 상처를 입었습니다.\n20초 간 피격 시 공격한 대상자의 스킬 타입에 따른 추가 대미지 245% 를 준다.
+EN|Enveloped by a deadly soul maelstrom. Deals 245% additional damage for 20 sec based on the type of target that is attacked.
+
+###477 count=1 field=tooltipDescription key=11100311|3-JobChange_02- 名=소울 브레이크
+KO|영혼의 소용돌이에 휩싸여 치명적인 상처를 입었습니다.\n20초 간 피격 시 공격한 대상자의 스킬 타입에 따른 추가 대미지 270% 를 준다.
+EN|Enveloped by a deadly soul maelstrom. Deals 270% additional damage for 20 sec based on the type of target that is attacked.
+
+###478 count=1 field=tooltipDescription key=11100311|4-JobChange_02- 名=소울 브레이크
+KO|영혼의 소용돌이에 휩싸여 치명적인 상처를 입었습니다.\n20초 간 피격 시 공격한 대상자의 스킬 타입에 따른 추가 대미지 295% 를 준다.
+EN|Enveloped by a deadly soul maelstrom. Deals 295% additional damage for 20 sec based on the type of target that is attacked.
+
+###479 count=1 field=tooltipDescription key=11100311|5-JobChange_02- 名=소울 브레이크
+KO|영혼의 소용돌이에 휩싸여 치명적인 상처를 입었습니다.\n20초 간 피격 시 공격한 대상자의 스킬 타입에 따른 추가 대미지 320% 를 준다.
+EN|Enveloped by a deadly soul maelstrom. Deals 320% additional damage for 20 sec based on the type of target that is attacked.
+
+###480 count=1 field=tooltipDescription key=11100311|6-JobChange_02- 名=소울 브레이크
+KO|영혼의 소용돌이에 휩싸여 치명적인 상처를 입었습니다.\n20초 간 피격 시 공격한 대상자의 스킬 타입에 따른 추가 대미지 345% 를 준다.
+EN|Enveloped by a deadly soul maelstrom. Deals 345% additional damage for 20 sec based on the type of target that is attacked.
+
+###481 count=1 field=tooltipDescription key=11100311|7-JobChange_02- 名=소울 브레이크
+KO|영혼의 소용돌이에 휩싸여 치명적인 상처를 입었습니다.\n20초 간 피격 시 공격한 대상자의 스킬 타입에 따른 추가 대미지 370% 를 준다.
+EN|Enveloped by a deadly soul maelstrom. Deals 370% additional damage for 20 sec based on the type of target that is attacked.
+
+###482 count=1 field=tooltipDescription key=11100311|8-JobChange_02- 名=소울 브레이크
+KO|영혼의 소용돌이에 휩싸여 치명적인 상처를 입었습니다.\n20초 간 피격 시 공격한 대상자의 스킬 타입에 따른 추가 대미지 395% 를 준다.
+EN|Enveloped by a deadly soul maelstrom. Deals 395% additional damage for 20 sec based on the type of target that is attacked.
+
+###483 count=1 field=tooltipDescription key=11100311|9-JobChange_02- 名=소울 브레이크
+KO|영혼의 소용돌이에 휩싸여 치명적인 상처를 입었습니다.\n20초 간 피격 시 공격한 대상자의 스킬 타입에 따른 추가 대미지 420% 를 준다.
+EN|Enveloped by a deadly soul maelstrom. Deals 420% additional damage for 20 sec based on the type of target that is attacked.
+
+###484 count=1 field=tooltipDescription key=40600024|1-Kritias_Turka02- 名=기절
+KO|강력한 지뢰 충격으로 잠시 기절합니다.
+EN|Stunned briefly by the impact of a powerful land mine.
+
+###485 count=1 field=tooltipDescription key=42030261|1-Kritias_Paika01- 名=스턴
+KO|전기 충격으로 잠시 정신을 잃었습니다.\n더 아프게 때릴 수 있을 것 같습니다.
+EN|Shocked! Takes more damage when hit.
+
+###486 count=1 field=tooltipDescription key=42030263|1-Kritias_Paika01- 名=감전
+KO|찌릿찌릿 전기에 감전되었습니다.
+EN|Electrified.
+
+###487 count=1 field=tooltipDescription key=49288001|1-Gigantica01- 名=땅속 숨기
+KO|기간티카가 땅속으로 들어가 이동 합니다.
+EN|Gigantica is burrowing underground.
+
+###488 count=2 field=tooltipDescription key=49288002|1-Gigantica01- 名=느려짐
+KO|기간티카가 땅속으로 들어가며, 회오리를 만들었습니다.\n이동속도가 감소 됩니다.
+EN|Gigantica is kicking up whirlwinds from underground. Reduces movement speed.
+
+###489 count=1 field=tooltipDescription key=49288003|1-Gigantica01- 名=꼬리 중독
+KO|꼬리 중독
+EN|Poison Sting
+
+###490 count=1 field=tooltipDescription key=49288005|1-Gigantica01- 名=감전
+KO|기간티카의 공격에 의해 감전 상태가 되어 방어력이 감소 되었습니다. \n10중첩 시 폭발하며, 주변아군들에게도 영향을 줍니다.\n주변몬스터들을 처치해 해독제를 획득하세요.
+EN|Defense reduced by Gigantica's electric attack. Explodes at 10 stacks, damaging nearby allies. Defeat the surrounding enemies to obtain the antidote.
+
+###491 count=1 field=tooltipDescription key=49288006|1-Gigantica01- 名=감전 폭발
+KO|곧 폭발해 큰 피해를 입게 됩니다.
+EN|Will soon explode, inflicting great damage.
+
+###492 count=1 field=tooltipDescription key=49288007|1-Gigantica01- 名=중독
+KO|기간티카의 공격에 의해 중독 상태가 되어 지속적인 피해를 입습니다. \n10중첩 시 중독 오오라가 발생해, 주변아군들에게도 영향을 줍니다.\n주변몬스터들을 처치해 해독제를 획득하세요.
+EN|Poisoned by Gigantica. At 10 stacks, generates a poison aura that damages nearby allies. Defeat the surrounding enemies to obtain the antidote.
+
+###493 count=1 field=tooltipDescription key=49288008|1-Gigantica01- 名=맹독 숙주
+KO|주변 아군 대상에게 피해가 들어오는 중독 오오라가 발생했습니다.
+EN|A poison aura damages nearby allies.
+
+###494 count=1 field=tooltipDescription key=49288009|1-Gigantica01- 名=극심한 고통
+KO|숙주에 의해 피해를 입고 있는 상태 입니다.
+EN|Taking damage from a poison aura.
+
+###495 count=1 field=tooltipDescription key=49288010|1-Gigantica01- 名=감전 해제
+KO|감전 해제
+EN|Cure Shock
+
+###496 count=1 field=tooltipDescription key=49288011|1-Gigantica01- 名=중독 해제
+KO|중독 해제
+EN|Cure Poison
+
+###497 count=1 field=tooltipDescription key=49288012|1-Gigantica01- 名=적응력
+KO|기간티카는 시간이 지날수록 방어력과 공격력이 증가 합니다.\n주변의 팬텀디스트로이어를 처치해, 탑승해서 해당 버프를 리셋 할 수 있습니다.
+EN|Gigantica's defense and attack increase as time passes. Defeat a nearby Phantom Destroyer, mount it, and use it to reset this buff.
+
+###498 count=2 field=tooltipDescription key=49288013|1-Gigantica01- 名=적응력
+KO|적응력
+EN|Adaptability
+
+###499 count=1 field=tooltipDescription key=49288015|1-Gigantica01- 名=적응력 해제
+KO|적응력 해제
+EN|Adaptability Disabled
+
+###500 count=2 field=tooltipDescription key=49288016|1-Gigantica01- 名=적응력 적용
+KO|적응력 적용
+EN|Apply Adaptability
+
+###501 count=1 field=tooltipDescription key=49288017|1-Gigantica01- 名=기간티카 일반몹 인식용
+KO|기간티카 일반몹 인식용
+EN|Gigantica common mob recognition use
+
+###502 count=1 field=tooltipDescription key=49288018|1-Gigantica01- 名=기간티카 일반몹 드릴 추가 피해
+KO|기간티카 일반몹 드릴 추가 피해
+EN|Gigantica common mob drill additional damage
+
+###503 count=1 field=tooltipDescription key=49288021|1-Gigantica01- 名=팬텀 디스트로이어 체력 감소
+KO|특정공격 사용시, 자신의 체력 감소
+EN|Upon using specific attack, reduce one's health
+
+###504 count=1 field=tooltipDescription key=49288027|1-Gigantica01- 名=기간티카 공격에 의한 디버프 모드 해제
+KO|기간티카 공격에 의한 디버프 모드 해제
+EN|Disable all debuffs from Gigantica's attack
+
+###505 count=1 field=tooltipDescription key=49289011|1-Colosseum01- 名=무적
+KO|피해를 입지 않는 상태입니다.
+EN|Takes no damage.
+
+###506 count=1 field=tooltipDescription key=49289012|1-Colosseum01- 名=전체 체력 감소
+KO|전체 체력이 40%만큼 감소 되었습니다.
+EN|Max health reduced by 40%.
+
+###507 count=1 field=tooltipDescription key=49289021|1-Colosseum01- 名=출혈
+KO|출혈 상태가 되었습니다.
+EN|Bleeding.
+
+###508 count=1 field=tooltipDescription key=49289051|1-Colosseum01- 名=강화 시도 중
+KO|강화에 집중하는 동안 받는 피해가 감소합니다.
+EN|Damage taken is reduced while preparing to power up.
+
+###509 count=1 field=tooltipDescription key=49289061|1-Colosseum01- 名=갑옷 녹이기
+KO|방어력이 감소합니다.
+EN|Defense has been reduced.
+
+###510 count=1 field=tooltipDescription key=49289063|1-Colosseum01- 名=고도의 집중력
+KO|고도의 집중을 통해 방어력이 대폭 상승합니다.
+EN|Defense is significantly increased with extreme concentration.
+
+###511 count=1 field=tooltipDescription key=49289064|1-Colosseum01- 名=고도의 집중력
+KO|고도의 집중을 통해 몇 초 동안 방어력이 대폭 상승합니다.
+EN|Bolsters your defense for several seconds through careful concentration.
+
+###512 count=1 field=tooltipDescription key=49289071|1-Colosseum02- 名=강해짐
+KO|전격 파도안에서 홀슈타트의 능력이 상승합니다.
+EN|Holstatt's abilities increase while inside the electric wave.
+
+###513 count=1 field=tooltipDescription key=49289072|1-Colosseum02- 名=느려짐
+KO|전격 파도에 닿았습니다. 이동속도가 대폭 감소합니다.
+EN|You touched the electric wave. Movement speed is greatly reduced.
+
+###514 count=1 field=tooltipDescription key=50000061|1-DungeonOpen70CH5- 名=이동속도 저하
+KO|이동속도 감소
+EN|Movement speed is reduced.
+
+###515 count=1 field=tooltipDescription key=50000081|2-DungeonOpen70AH3- 名=화상
+KO|지속적으로 화염 대미지
+EN|Continuously takes fire damage.
+
+###516 count=1 field=tooltipDescription key=50000089|1-Kritias_Turka03- 名=투르카의 위협
+KO|지속적으로 저주 대미지\n투르카 근처에 있으면 피해 받음
+EN|Continuously takes curse damage.⏎Takes damage while near Turka.
+
+###517 count=1 field=tooltipDescription key=50000157|1-DungeonOpen70CH5- 名=공격력 감소
+KO|공격력 99% 감소
+EN|Attack is reduced by 99%.
+
+###518 count=1 field=tooltipDescription key=50000159|1-DungeonOpen70CH5- 名=공격력 감소
+KO|공격력 20% 감소\n최대 5회까지 중첩
+EN|Attack is reduced by 20%.⏎Stacks up to 5 times.
+
+###519 count=1 field=tooltipDescription key=50000265|1-Kritias_Zakum01- 名=완전 방어
+KO|팔에 의해서 무적 상태 유지
+EN|Invincibility granted by arms.
+
+###520 count=1 field=tooltipDescription key=50000370|1-Kritias_Turka03- 名=물리 방어 상승
+KO|물리 방어력이 80% 상승
+EN|Physical defense increases by 80%.
+
+###521 count=1 field=tooltipDescription key=50000371|1-Kritias_Turka03- 名=마법 방어 상승
+KO|마법 방어력이 80% 상승
+EN|Magic defense increases by 80%.
+
+###522 count=1 field=tooltipDescription key=50000513|1-DungeonOpen70CH5- 名=SP 봉인
+KO|SP 사용 불가
+EN|Unable to use SP.
+
+###523 count=1 field=tooltipDescription key=50000917|1-DungeonOpen70CH5- 名=블랙빈의 저주 폭탄
+KO|지속적으로 저주 대미지\n주변 동료에게 저주 피해
+EN|Continuously takes curse damage.⏎Inflicts curse damage on nearby allies.
+
+###524 count=1 field=tooltipDescription key=50001555|1-DungeonOpen70CH5- 名=흡수된 상태
+KO|진공청소기에 흡수되어 행동불능 상태
+EN|Unable to act after being sucked into the vacuum cleaner.
+
+###525 count=1 field=tooltipDescription key=50001661|1-Wedding- 名=소인화
+KO|신체 사이즈 50% 축소
+EN|Body size is reduced by 50%.
+
+###526 count=1 field=tooltipDescription key=50001662|1-DungeonOpen70CH5- 名=명중 감소
+KO|명중 90% 감소
+EN|Accuracy is reduced by 90%.
+
+###527 count=1 field=tooltipDescription key=50003132|1-Fieldwar01- 名=폭발 직전
+KO|몇초 뒤 기절시키는 폭발을 일으킴
+EN|Stunning explosion is imminent.
+
+###528 count=1 field=tooltipDescription key=50003307|1-DungeonOpen70CH5- 名=공격 반사
+KO|공격 한 대상에게 피해를 부여함\n방어력 99% 상승\n미니 블랙빈에게 받은 효과
+EN|Deals damage to attackers.⏎Defense increases by 99%.⏎Effect granted by Mini Black Bean.
+
+###529 count=1 field=tooltipDescription key=50003307|2-DungeonOpen70CH5- 名=공격 반사
+KO|공격 한 대상에게 피해를 부여함\n방어력 99% 상승\n같이 등장한 적 무리를 제거하면 사라짐
+EN|Deals damage to attackers.⏎Defense increases by 99%.⏎Disappears when the accompanying enemies are defeated.
+
+###530 count=1 field=tooltipDescription key=50004414|1-Kritias_Inferno01- 名=한명만 주시
+KO|인페르녹이 자신을 계속 주시함\n크리스탈에 의한 효과
+EN|Infernog casts his gaze on you due to the crystal.
+
+###531 count=1 field=tooltipDescription key=50004418|1-Kritias_Turka03- 名=한명만 주시
+KO|오른쪽 투르카의 공격 대상이 됨\n지속적으로 메테오 공격을 받음
+EN|Targeted by the Turka on the right.⏎Continuously targeted by meteor attacks.
+
+###532 count=1 field=tooltipDescription key=50004420|1-Kritias_Turka03- 名=한명만 주시
+KO|하나의 대상만 지속적으로 공격함
+EN|Continuously attacks only one target.
+
+###533 count=1 field=tooltipDescription key=50004548|1-Kritias_Inferno01- 名=인페르녹 눈빛의 저주
+KO|인페르녹의 저주 눈빛에 노출되어\n지속적으로 저주 피해를 받음\n무한으로 중첩됨
+EN|Receiving curse damage from Infernog's evil eye. Stacks infinitely.
+
+###534 count=1 field=tooltipDescription key=50004557|1-Kritias_Inferno01- 名=기력 저하
+KO|한번 더 같은 공격에 맞으면 기절함
+EN|Stunned after getting hit once more by the same attack.
+
+###535 count=2 field=tooltipDescription key=50004570|1-Kritias_Turka03- 名=투르카의 분노
+KO|자신 주변의 대상에게\n지속적으로 저주 피해를 부여함
+EN|Continuously inflicts curse damage on nearby targets.
+
+###536 count=1 field=tooltipDescription key=50004573|1-Kritias_Turka03- 名=마력 구슬의 공포
+KO|마력의 구슬에 가까이 다가가면\n지속적으로 경직 피해를 받음
+EN|Continuously takes stagger damage while near the magic orb.
+
+###537 count=1 field=tooltipDescription key=50005103|1-DungeonOpen70CH5- 名=공격력 상승
+KO|공격력 10% 상승\n자동차에 끝까지 매달려서 얻은 효과
+EN|Attack increases by 10%.⏎Effect gained by holding onto the car until the end.
+
+###538 count=1 field=tooltipDescription key=50005319|1-DungeonOpen70CH5- 名=검은색 페인트의 피해
+KO|지속적으로 저주 대미지
+EN|Continuously takes curse damage.
+
+###539 count=1 field=tooltipDescription key=50005320|1-DungeonOpen70CH5- 名=빨간색 페인트
+KO|빨간색 영역에 있어야 안전함
+EN|Stay in the red area to remain safe.
+
+###540 count=1 field=tooltipDescription key=50005321|1-DungeonOpen70CH5- 名=노란색 페인트
+KO|노란색 영역에 있어야 안전함
+EN|Stay in the yellow area to remain safe.
+
+###541 count=1 field=tooltipDescription key=50005322|1-DungeonOpen70CH5- 名=파란색 페인트
+KO|파란색 영역에 있어야 안전함
+EN|Stay in the blue area to remain safe.
+
+###542 count=1 field=tooltipDescription key=50005323|1-DungeonOpen70CH5- 名=노란색 페인트의 피해 1단계
+KO|공격력 20% 감소\n명중률 30% 감소
+EN|Attack is reduced by 20%.⏎Accuracy is reduced by 30%.
+
+###543 count=1 field=tooltipDescription key=50005324|1-DungeonOpen70CH5- 名=노란색 페인트의 피해 2단계
+KO|공격력 40% 감소\n명중률 50% 감소
+EN|Attack is reduced by 40%.⏎Accuracy is reduced by 50%.
+
+###544 count=1 field=tooltipDescription key=50005325|1-DungeonOpen70CH5- 名=노란색 페인트의 피해 3단계
+KO|공격력 60% 감소\n명중률 70% 감소
+EN|Attack is reduced by 60%.⏎Accuracy is reduced by 70%.
+
+###545 count=1 field=tooltipDescription key=62100103|1-Kritias_Turka01- 名=오버파워1형태
+KO|시간이 지날수록 방어력이 증가 합니다.\n최대 20회 중첩되며, 아르케온 탈것에 의해 공격받으면 줄어듭니다.
+EN|Defense increases over time.⏎Stacks up to 20 times and loses stacks when attacked by an Archeon mount.
+
+###546 count=1 field=tooltipDescription key=62100106|1-Kritias_Turka01- 名=오버파워2형태
+KO|시간이 지날수록 방어력이 증가 합니다.\n최대 20회 중첩되며, 주변 포탑에 공격 받으면 줄어듭니다.
+EN|Defense increases over time.⏎Stacks up to 20 times and loses stacks when attacked by nearby turrets.
+
+###547 count=2 field=tooltipDescription key=62100107|1-Kritias_Turka01- 名=오버파워2형태_제거
+KO|오버파워2형태_제거
+EN|Removes Overpower Form 2.
+
+###548 count=1 field=tooltipDescription key=62100109|1-Kritias_Turka01- 名=오버파워3형태
+KO|시간이 지날수록 방어력이 증가 합니다.\n최대 20회 중첩시, "아르케온 밤" 스킬이 발동되, 모든 플레이어를 몰살시킵니다.\n주변 폭발물에 피해를 입으면 중첩 수치가 떨어집니다.
+EN|Defense increases over time.⏎At 20 stacks, Archeon Night activates and annihilates all players.⏎Taking damage from nearby explosives reduces the stack count.
+
+###549 count=1 field=tooltipDescription key=62100110|1-Kritias_Turka01- 名=아르케온 밤 준비 완료
+KO|"아르케온 밤" 이 준비 완료 되었습니다. \n곧 모든 플레이어를 몰살 시킬 것입니다.
+EN|Archeon Night is ready.⏎It will soon annihilate all players.
+
+###550 count=2 field=tooltipDescription key=62100111|1-Kritias_Turka01- 名=오버파워3형태_제거
+KO|오버파워3형태_제거
+EN|Removes Overpower Form 3.
+
+###551 count=2 field=tooltipDescription key=62100121|1-Kritias_Turka01- 名=폭주
+KO|화가난 상태 입니다.\n피해를 입힐 수 없는 상태가 되었습니다.
+EN|Enraged and immune to damage.
+
+###552 count=1 field=tooltipDescription key=62100131|1-Kritias_Turka01- 名=화상
+KO|화상을 입어 지속적인 피해를 입습니다.
+EN|Burned and continuously takes damage.
+
+###553 count=1 field=tooltipDescription key=62100157|1-Kritias_Turka01- 名=무자비
+KO|무자비 제거
+EN|Removes Merciless.
+
+###554 count=2 field=tooltipDescription key=62100161|1-Kritias_Turka01- 名=아르케온 케논 타겟용 버프
+KO|아르케온 케논 타겟용 버프
+EN|Marks a target for the Archeon Cannon.
+
+###555 count=1 field=tooltipDescription key=62100166|1-Kritias_Turka01- 名=피곤함
+KO|아르케온 케논의 공격에 피해를 입어, 많이 피곤해진 상태입니다.\n5개 중첩 시, 기절 상태가 됩니다.
+EN|Fatigued after taking damage from the Archeon Cannon.⏎Stunned at 5 stacks.
+
+###556 count=1 field=tooltipDescription key=62100171|1-Kritias_Turka01- 名=아르케온 케논 피격용
+KO|아르케온 케논 피격용
+EN|Marks a target hit by the Archeon Cannon.
+
+###557 count=1 field=tooltipDescription key=70002221|1-Fieldwar01- 名=군단의 결속 : 기운
+KO|군단이 결속합니다.\n서로에게 기운을 주고 받습니다.
+EN|The army unites, granting extra energy.
+
+###558 count=2 field=tooltipDescription key=70002231|1-Kritias_2018_12- 名=군단 파괴자
+KO|군단을 파괴하는 능력을 지녔습니다.
+EN|Grants the ability to destroy the army.
+
+###559 count=2 field=tooltipDescription key=70002241|1-Kritias_2018_12- 名=군단 학살자
+KO|군단을 학살하는 능력을 지녔습니다.
+EN|Grants the ability to slay the army.
+
+###560 count=2 field=tooltipDescription key=70002251|1-Kritias_2018_12- 名=군단 처리자
+KO|군단을 처리하는 능력을 지녔습니다.
+EN|Grants the ability to dispose of the army.
+
+###561 count=2 field=tooltipDescription key=70002261|1-Kritias_2018_12- 名=군단 처형자
+KO|군단을 처형하는 능력을 지녔습니다.
+EN|Grants the ability to execute the army.
+
+###562 count=1 field=tooltipDescription key=70002501|1-Develop- 名=拥有资源3
+KO|拥有资源为3个时施加的增益，开箱使用
+EN|(なし)
+
+###563 count=1 field=tooltipDescription key=70002502|1-Develop- 名=拥有资源6
+KO|拥有资源为5个时施加的增益，开箱使用
+EN|(なし)
+
+###564 count=1 field=tooltipDescription key=70002503|1-Develop- 名=拥有资源9
+KO|拥有资源为7个时施加的增益，开箱使用
+EN|(なし)
+
+###565 count=2 field=tooltipDescription key=70002504|1-Develop- 名=累积资源
+KO|拥有资源累积用
+EN|(なし)
+
+###566 count=2 field=tooltipDescription key=70002511|1-Develop- 名=总资源
+KO|计算总资源使用 最多20
+EN|(なし)
+
+###567 count=1 field=tooltipDescription key=70002541|1-Develop- 名=渗透组增益
+KO|渗透后发放增益
+EN|(なし)
+
+###568 count=1 field=tooltipDescription key=70002551|1-Develop- 名=删除渗透组增益
+KO|删除渗透对象的增益
+EN|(なし)
+
+###569 count=2 field=tooltipDescription key=71001211|1-Kritias_2018_12- 名=밝은 인사성
+KO|밝은 인사성은 주위 사람을 기분 좋게 만듭니다.
+EN|Being bright and courteous makes people around you feel good.
+
+###570 count=2 field=tooltipDescription key=71001221|1-Kritias_2018_12- 名=빤히보기
+KO|너무 빤히 보면 부끄럽습니다.
+EN|It's embarrassing if you stare like that.
+
+###571 count=1 field=tooltipDescription key=71001271|1-Kritias_2018_12- 名=제한시간!
+KO|제한시간 내에 목표지점에 도착하세요!
+EN|Reach the destination within the time limit!
+
+###572 count=1 field=tooltipDescription key=71001281|1-Kritias_2018_12- 名=시간초과!
+KO|제한시간이 초과 되었습니다.
+EN|Passed the time limit.
+
+###573 count=1 field=tooltipDescription key=71001311|1-Kritias_2018_12- 名=수줍음 상승
+KO|수줍음이 점점 상승합니다.
+EN|Shyness gradually increases.
+
+###574 count=1 field=tooltipDescription key=73000001|1-Fieldwar02- 名=거대화
+KO|몸집이 커졌습니다.
+EN|You are enlarged.
+
+###575 count=1 field=tooltipDescription key=73000002|1-Fieldwar02- 名=T55 탑승
+KO|T55에 탑승했습니다.
+EN|Mounted T55.
+
+###576 count=1 field=tooltipDescription key=73000003|1-Fieldwar02- 名=스톤 골렘 탑승
+KO|스톤 골렘에 탑승했습니다.
+EN|Mounted Stone Golem.
+
+###577 count=2 field=tooltipDescription key=73000011|1-Kritias_Turka03- 名=아르케온 델타 탑승
+KO|아르케온 델타에 탑승했습니다.
+EN|Riding Archeon Delta.
+
+###578 count=1 field=tooltipDescription key=73000100|1-Kritias_Turka02- 名=붉은색 코어 에너지
+KO|붉은색 코어의 힘을 얻어 공격력이 증가합니다.
+EN|The red core's power increases attack.
+
+###579 count=1 field=tooltipDescription key=73000101|1-Kritias_Turka02- 名=초록색 코어 에너지
+KO|초록색 코어의 힘을 얻어 체력이 증가합니다.
+EN|The green core's power increases HP.
+
+###580 count=1 field=tooltipDescription key=73000102|1-Kritias_Turka02- 名=푸른색 코어 에너지
+KO|푸른색 코어의 힘을 얻어 방어력이 증가합니다.
+EN|The blue core's power increases defense.
+
+###581 count=1 field=tooltipDescription key=73000103|1-Kritias_Turka02- 名=노란색 코어 에너지
+KO|노란색 코어의 힘을 얻어 치명타 확률이 증가합니다.
+EN|(なし)
+
+###582 count=1 field=tooltipDescription key=73000105|1-Kritias_Turka02- 名=붉은색 코어 에너지
+KO|붉은색 코어의 힘을 얻어 중첩 당 공격력이 2%씩 증가합니다. (최대 5 중첩)
+EN|(なし)
+
+###583 count=1 field=tooltipDescription key=73000107|1-Kritias_Turka02- 名=초록색 코어 에너지
+KO|초록색 코어의 힘을 얻어 중첩 당 체력이 6%씩 증가합니다. (최대 5 중첩)
+EN|(なし)
+
+###584 count=1 field=tooltipDescription key=73000109|1-Kritias_Turka02- 名=푸른색 코어 에너지
+KO|푸른색 코어의 힘을 얻어 중첩 당 방어력이 4%씩 증가합니다. (최대 5 중첩)
+EN|(なし)
+
+###585 count=1 field=tooltipDescription key=73000111|1-Kritias_Turka02- 名=노란색 코어 에너지
+KO|노란색 코어의 힘을 얻어 크리티컬 명중이 100 증가합니다.
+EN|(なし)
+
+###586 count=1 field=tooltipDescription key=90000888|1-WorldChampionMushroom- 名=머쉬킹표 독버섯
+KO|독버섯의 기운에 쓰러집니다.
+EN|(なし)
+
+###587 count=1 field=tooltipDescription key=90001145|1-Kritias_2018_12- 名=에네르드링크
+KO|HP 300 증가\n방어력 6% 증가
+EN|Increases health by 300. Increases defense by 6%.
+
+###588 count=1 field=tooltipDescription key=90051621|1-Level70Item- 名=미약한 푸른빛
+KO|블루 라펜타의 힘이 모이고 있습니다
+EN|The power of the blue lapenta is gathering.
+
+###589 count=1 field=tooltipDescription key=90051622|1-Level70Item- 名=영롱하군요!!!
+KO|블루 라펜타의 힘으로 강력한 대미지를 동반합니다
+EN|Taking damage from the brilliance of the Blue Lapenta.
+
+###590 count=1 field=tooltipDescription key=90051651|1-Level70Item- 名=에너지 보호막
+KO|시공의 힘이 몸을 감싸 전투력이 증가하고 피격 시 대미지를 흡수합니다.
+EN|The power of time and space envelopes you, increasing bonus attack and absorbing damage when hit.
+
+###591 count=1 field=tooltipDescription key=92002016|1-ShadowExpedition- 名=유혈 사태
+KO|공격력 및 방어력 감소
+EN|(なし)
+
+###592 count=1 field=tooltipDescription key=92002029|1-ShadowExpedition- 名=피의 울림
+KO|0.25초 마다 HP 회복
+EN|(なし)
+
+###593 count=1 field=tooltipDescription key=92003010|1-ShadowExpedition- 名=화염 충돌
+KO|3회 중첩 시 3m 내의 8명에게 화염 대미지\n적중 대상 기절
+EN|(なし)
+
+###594 count=1 field=tooltipDescription key=92003022|1-ShadowExpedition- 名=빙결
+KO|얼어붙어 행동 불가
+EN|(なし)
+
+###595 count=1 field=tooltipDescription key=92007004|1-ShadowExpedition- 名=좌충우돌
+KO|마인드 스틸러의 쿨타임이 사라짐
+EN|(なし)
+
+###596 count=1 field=tooltipDescription key=92007006|1-ShadowExpedition- 名=맹독 주머니
+KO|5회 중첩 시 맹독 주머니 폭발
+EN|(なし)
+
+###597 count=1 field=tooltipDescription key=92007017|1-ShadowExpedition- 名=무기력함
+KO|공격력 및 이동속도 감소
+EN|(なし)
+
+###598 count=1 field=tooltipDescription key=92008008|1-ShadowExpedition- 名=무자비함
+KO|3회 중첩 시 스타 버스트 100% 크리티컬 명중
+EN|(なし)
+
+###599 count=1 field=tooltipDescription key=92008019|1-ShadowExpedition- 名=분리주의자 충전
+KO|5회 중첩 시 강화 그라인드 스타 발동
+EN|(なし)
+
+###600 count=1 field=tooltipDescription key=92008021|1-ShadowExpedition- 名=분리주의자
+KO|그라인드 스타 SP 소비 없음\n그라인드 스타 대미지 증가
+EN|(なし)
+
+###601 count=1 field=tooltipDescription key=92010021|1-ShadowExpedition- 名=금강불괴
+KO|모든 피해 감소\n적의 공격에 밀려나지 않음
+EN|(なし)
+
+###602 count=1 field=tooltipDescription key=92900000|1-ShadowExpedition- 名=원정대의 힘
+KO|적의 공격에 경직되지 않음
+EN|(なし)
+
+###603 count=1 field=tooltipDescription key=92900001|1-ShadowExpedition- 名=여제의 구원
+KO|모든 피해에 면역
+EN|(なし)
+
+###604 count=1 field=tooltipDescription key=92900002|1-ShadowExpedition- 名=붉은 늑대의 힘
+KO|크리티컬 확률 증가\n크리티컬 대미지 증가
+EN|(なし)
+
+###605 count=1 field=tooltipDescription key=92900003|1-ShadowExpedition- 名=생명의 속도
+KO|공격속도 증가\n이동속도 증가
+EN|(なし)
+
+###606 count=1 field=tooltipDescription key=99900451|1-MassiveCrazyRunnersShanghai- 名=보호막
+KO|모든 방해 효과에 면역
+EN|Grants immunity to all interference effect
+
+###607 count=1 field=tooltipDescription key=99910161|1-Gigantica01- 名=팬텀 디스트로이어 탑승
+KO|폭주한 팬텀 디스트로이어에 탑승 했습니다.\n강력한 공격으로 일반몬스터들을 빠르게 처치 할 수 있고, 기간티카의 버프를 리셋 시킬 수 있습니다.
+EN|You mounted a Phantom Destroyer. Its powerful attacks quickly defeat common enemies and reset Gigantica's buff.
+
+###608 count=1 field=tooltipDescription key=99910372|1-Fieldwar01- 名=화상
+KO|화상을 입어 5초간 불탑니다.
+EN|On fire for 5 sec.
+

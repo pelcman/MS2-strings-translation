@@ -161,7 +161,7 @@
   },
   "40600024|1-Kritias_Turka02-": {
     "name": "気絶",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_40600024_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka02"
+    "tooltipDescription": "強力な地雷の衝撃でしばらく気絶します。"
   },
   "40600045|1-PirateOcean-": {
     "name": "防御上昇",
@@ -181,11 +181,11 @@
   },
   "42030261|1-Kritias_Paika01-": {
     "name": "スタン",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_42030261_1_TOOLTIPDESCRIPTION:[F]Kritias_Paika01"
+    "tooltipDescription": "電気ショックでしばらく気を失いました。\\nもっと痛く殴れそうです。"
   },
   "42030263|1-Kritias_Paika01-": {
     "name": "感電",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_42030263_1_TOOLTIPDESCRIPTION:[F]Kritias_Paika01"
+    "tooltipDescription": "ビリビリと電気に感電しました。"
   },
   "49016001|1--": {
     "name": "強化の雷",
@@ -407,88 +407,88 @@
     "tooltipDescription": "メイソンが覚醒します。\\n覚醒後からでダメージが200%増加します。"
   },
   "49288001|1-Gigantica01-": {
-    "name": "KORADDITIONALDESCRIPTION_49288001_1_NAME:[F]Gigantica01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288001_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "name": "地中隠れ",
+    "tooltipDescription": "ギガンティカが地中に入って移動します。"
   },
   "49288002|1-Gigantica01-": {
     "name": "スロー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288002_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "tooltipDescription": "ギガンティカが地中に入り、竜巻を作り出しました。\\n移動速度が減少します。"
   },
   "49288003|1-Gigantica01-": {
-    "name": "KORADDITIONALDESCRIPTION_49288003_1_NAME:[F]Gigantica01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288003_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "name": "尻尾の毒",
+    "tooltipDescription": "尻尾の毒"
   },
   "49288004|1-Gigantica01-": {
     "name": "スロー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288004_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "tooltipDescription": "ギガンティカが地中に入り、竜巻を作り出しました。\\n移動速度が減少します。"
   },
   "49288005|1-Gigantica01-": {
     "name": "感電",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288005_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "tooltipDescription": "ギガンティカの攻撃により感電状態になり、防御力が減少しました。 \\n10重複時に爆発し、周囲の味方にも影響を与えます。\\n周囲のモンスターを倒して解毒剤を獲得しましょう。"
   },
   "49288006|1-Gigantica01-": {
     "name": "感電爆発",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288006_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "tooltipDescription": "まもなく爆発し、大きなダメージを受けます。"
   },
   "49288007|1-Gigantica01-": {
     "name": "中毒",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288007_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "tooltipDescription": "ギガンティカの攻撃により中毒状態になり、持続的なダメージを受けます。 \\n10重複時に中毒オーラが発生し、周囲の味方にも影響を与えます。\\n周囲のモンスターを倒して解毒剤を獲得しましょう。"
   },
   "49288008|1-Gigantica01-": {
-    "name": "KORADDITIONALDESCRIPTION_49288008_1_NAME:[F]Gigantica01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288008_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "name": "猛毒の宿主",
+    "tooltipDescription": "周囲の味方対象にダメージが入る中毒オーラが発生しました。"
   },
   "49288009|1-Gigantica01-": {
-    "name": "KORADDITIONALDESCRIPTION_49288009_1_NAME:[F]Gigantica01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288009_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "name": "激しい苦痛",
+    "tooltipDescription": "宿主によってダメージを受けている状態です。"
   },
   "49288010|1-Gigantica01-": {
-    "name": "KORADDITIONALDESCRIPTION_49288010_1_NAME:[F]Gigantica01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288010_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "name": "感電解除",
+    "tooltipDescription": "感電解除"
   },
   "49288011|1-Gigantica01-": {
-    "name": "KORADDITIONALDESCRIPTION_49288011_1_NAME:[F]Gigantica01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288011_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "name": "中毒解除",
+    "tooltipDescription": "中毒解除"
   },
   "49288012|1-Gigantica01-": {
     "name": "適応力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288012_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "tooltipDescription": "ギガンティカは時間が経つほど防御力と攻撃力が増加します。\\n周囲のファントムデストロイヤーを倒して搭乗すると、このバフをリセットできます。"
   },
   "49288013|1-Gigantica01-": {
     "name": "適応力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288013_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "tooltipDescription": "適応力"
   },
   "49288014|1-Gigantica01-": {
     "name": "適応力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288014_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "tooltipDescription": "適応力"
   },
   "49288015|1-Gigantica01-": {
-    "name": "KORADDITIONALDESCRIPTION_49288015_1_NAME:[F]Gigantica01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288015_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "name": "適応力解除",
+    "tooltipDescription": "適応力解除"
   },
   "49288016|1-Gigantica01-": {
-    "name": "KORADDITIONALDESCRIPTION_49288016_1_NAME:[F]Gigantica01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288016_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "name": "適応力適用",
+    "tooltipDescription": "適応力適用"
   },
   "49288017|1-Gigantica01-": {
-    "name": "KORADDITIONALDESCRIPTION_49288017_1_NAME:[F]Gigantica01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288017_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "name": "ギガンティカ一般モンスター認識用",
+    "tooltipDescription": "ギガンティカ一般モンスター認識用"
   },
   "49288018|1-Gigantica01-": {
-    "name": "KORADDITIONALDESCRIPTION_49288018_1_NAME:[F]Gigantica01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288018_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "name": "ギガンティカ一般モンスタードリル追加ダメージ",
+    "tooltipDescription": "ギガンティカ一般モンスタードリル追加ダメージ"
   },
   "49288019|1-Gigantica01-": {
-    "name": "KORADDITIONALDESCRIPTION_49288019_1_NAME:[F]Gigantica01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288019_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "name": "一般モンスターに対するドリル攻撃認識",
+    "tooltipDescription": "適応力適用"
   },
   "49288020|1-Gigantica01-": {
     "name": "適応力適用_2",
     "tooltipDescription": "一般モンスターに対するドリル攻撃認識"
   },
   "49288021|1-Gigantica01-": {
-    "name": "KORADDITIONALDESCRIPTION_49288021_1_NAME:[F]Gigantica01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288021_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "name": "ファントムデストロイヤーHP減少",
+    "tooltipDescription": "特定の攻撃使用時、自分のHP減少"
   },
   "49288022|1-Gigantica01-": {
     "name": "適応力適用_2",
@@ -511,15 +511,15 @@
     "tooltipDescription": "一般モンスターに対するドリル攻撃認識"
   },
   "49288027|1-Gigantica01-": {
-    "name": "KORADDITIONALDESCRIPTION_49288027_1_NAME:[F]Gigantica01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49288027_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "name": "ギガンティカ攻撃によるデバフモード解除",
+    "tooltipDescription": "ギガンティカ攻撃によるデバフモード解除"
   },
   "49288028|1-Gigantica01-": {
     "name": "移動速度減少",
     "tooltipDescription": "移動速度が減少しました。"
   },
   "49289001|1-Colosseum01-": {
-    "name": "KORADDITIONALDESCRIPTION_49289001_1_NAME:[F]Colosseum01",
+    "name": "騎士の雄叫び",
     "tooltipDescription": "攻撃力が増加します。"
   },
   "49289002|1-Colosseum01-": {
@@ -527,16 +527,16 @@
     "tooltipDescription": "移動速度が減少しました。"
   },
   "49289011|1-Colosseum01-": {
-    "name": "KORADDITIONALDESCRIPTION_49289011_1_NAME:[F]Colosseum01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49289011_1_TOOLTIPDESCRIPTION:[F]Colosseum01"
+    "name": "無敵",
+    "tooltipDescription": "ダメージを受けない状態です。"
   },
   "49289012|1-Colosseum01-": {
-    "name": "KORADDITIONALDESCRIPTION_49289012_1_NAME:[F]Colosseum01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49289012_1_TOOLTIPDESCRIPTION:[F]Colosseum01"
+    "name": "全体HP減少",
+    "tooltipDescription": "全体HPが40%減少しました。"
   },
   "49289021|1-Colosseum01-": {
     "name": "出血",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49289021_1_TOOLTIPDESCRIPTION:[F]Colosseum01"
+    "tooltipDescription": "出血状態になりました。"
   },
   "49289033|1-Colosseum01-": {
     "name": "移動速度減少",
@@ -547,11 +547,11 @@
     "tooltipDescription": "攻撃力が増加します。"
   },
   "49289051|1-Colosseum01-": {
-    "name": "KORADDITIONALDESCRIPTION_49289051_1_NAME:[F]Colosseum01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49289051_1_TOOLTIPDESCRIPTION:[F]Colosseum01"
+    "name": "強化試行中",
+    "tooltipDescription": "強化に集中している間、受けるダメージが減少します。"
   },
   "49289052|1-Colosseum01-": {
-    "name": "KORADDITIONALDESCRIPTION_49289052_1_NAME:[F]Colosseum01",
+    "name": "強化成功",
     "tooltipDescription": "攻撃力が増加します。"
   },
   "49289053|1-Colosseum01-": {
@@ -560,27 +560,27 @@
   },
   "49289061|1-Colosseum01-": {
     "name": "鎧を溶かす",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49289061_1_TOOLTIPDESCRIPTION:[F]Colosseum01"
+    "tooltipDescription": "防御力が減少します。"
   },
   "49289062|1-Colosseum01-": {
     "name": "移動速度減少",
     "tooltipDescription": "移動速度が減少しました。"
   },
   "49289063|1-Colosseum01-": {
-    "name": "KORADDITIONALDESCRIPTION_49289063_1_NAME:[F]Colosseum01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49289063_1_TOOLTIPDESCRIPTION:[F]Colosseum01"
+    "name": "高度な集中力",
+    "tooltipDescription": "高度な集中により、防御力が大幅に上昇します。"
   },
   "49289064|1-Colosseum01-": {
-    "name": "KORADDITIONALDESCRIPTION_49289064_1_NAME:[F]Colosseum01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49289064_1_TOOLTIPDESCRIPTION:[F]Colosseum01"
+    "name": "高度な集中力",
+    "tooltipDescription": "高度な集中により、数秒間防御力が大幅に上昇します。"
   },
   "49289071|1-Colosseum02-": {
-    "name": "KORADDITIONALDESCRIPTION_49289071_1_NAME:[F]Colosseum02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49289071_1_TOOLTIPDESCRIPTION:[F]Colosseum02"
+    "name": "パワーアップ",
+    "tooltipDescription": "電撃の波の中でホルシュタットの能力が上昇します。"
   },
   "49289072|1-Colosseum02-": {
     "name": "スロー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_49289072_1_TOOLTIPDESCRIPTION:[F]Colosseum02"
+    "tooltipDescription": "電撃の波に触れました。移動速度が大幅に減少します。"
   },
   "49289094|1-Colosseum02-": {
     "name": "気絶",
@@ -795,8 +795,8 @@
     "tooltipDescription": "ホルスの呪いにかかりました！\\n物理攻撃力、魔法攻撃力が25%減少\\n移動速度が30%減少"
   },
   "50000061|1-DungeonOpen70CH5-": {
-    "name": "KORADDITIONALDESCRIPTION_50000061_1_NAME:[F]DungeonOpen70CH5",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50000061_1_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "name": "移動速度低下",
+    "tooltipDescription": "移動速度減少"
   },
   "50000080|1--": {
     "name": "火傷",
@@ -807,8 +807,8 @@
     "tooltipDescription": "持続的に火炎ダメージ"
   },
   "50000081|2-DungeonOpen70AH3-": {
-    "name": "KORADDITIONALDESCRIPTION_50000081_2_NAME:[F]DungeonOpen70AH3",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50000081_2_TOOLTIPDESCRIPTION:[F]DungeonOpen70AH3"
+    "name": "火傷",
+    "tooltipDescription": "持続的に火炎ダメージ"
   },
   "50000082|1--": {
     "name": "影炎火傷",
@@ -839,8 +839,8 @@
     "tooltipDescription": "持続的に火炎ダメージ\\n最大7回まで重複\\n重複するとダメージ量上昇"
   },
   "50000089|1-Kritias_Turka03-": {
-    "name": "KORADDITIONALDESCRIPTION_50000089_1_NAME:[F]Kritias_Turka03",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50000089_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka03"
+    "name": "トゥルカの脅威",
+    "tooltipDescription": "持続的に呪いダメージ\\nトゥルカの近くにいるとダメージを受ける"
   },
   "50000100|1--": {
     "name": "出血",
@@ -992,7 +992,7 @@
   },
   "50000157|1-DungeonOpen70CH5-": {
     "name": "攻撃力減少",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50000157_1_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "tooltipDescription": "攻撃力99%減少"
   },
   "50000158|1--": {
     "name": "移動速度減少",
@@ -1000,7 +1000,7 @@
   },
   "50000159|1-DungeonOpen70CH5-": {
     "name": "攻撃力減少",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50000159_1_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "tooltipDescription": "攻撃力20%減少\\n最大5回まで重複"
   },
   "50000170|1--": {
     "name": "水の監獄",
@@ -1224,7 +1224,7 @@
   },
   "50000265|1-Kritias_Zakum01-": {
     "name": "完全防御",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50000265_1_TOOLTIPDESCRIPTION:[F]Kritias_Zakum01"
+    "tooltipDescription": "腕によって無敵状態維持"
   },
   "50000290|1-Kritias_Balrog01-": {
     "name": "防御力上昇",
@@ -1552,11 +1552,11 @@
   },
   "50000370|1-Kritias_Turka03-": {
     "name": "物理防御上昇",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50000370_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka03"
+    "tooltipDescription": "物理防御力が80%上昇"
   },
   "50000371|1-Kritias_Turka03-": {
     "name": "魔法防御上昇",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50000371_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka03"
+    "tooltipDescription": "魔法防御力が80%上昇"
   },
   "50000402|1--": {
     "name": "移動速度減少",
@@ -1699,8 +1699,8 @@
     "tooltipDescription": "SP使用不可"
   },
   "50000513|1-DungeonOpen70CH5-": {
-    "name": "KORADDITIONALDESCRIPTION_50000513_1_NAME:[F]DungeonOpen70CH5",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50000513_1_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "name": "SP封印",
+    "tooltipDescription": "SP使用不可"
   },
   "50000550|1--": {
     "name": "祝福の花火",
@@ -1815,8 +1815,8 @@
     "tooltipDescription": "強引に踊らされ、行動不能"
   },
   "50000917|1-DungeonOpen70CH5-": {
-    "name": "KORADDITIONALDESCRIPTION_50000917_1_NAME:[F]DungeonOpen70CH5",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50000917_1_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "name": "ブラックビーンの呪い爆弾",
+    "tooltipDescription": "持続的に呪いダメージ\\n周囲の仲間に呪いダメージ"
   },
   "50000930|1--": {
     "name": "影の毒気",
@@ -2099,8 +2099,8 @@
     "tooltipDescription": "身体サイズが50%縮小\\n物理攻撃力、魔法攻撃力が80%減少\\n防御力が50%減少"
   },
   "50001555|1-DungeonOpen70CH5-": {
-    "name": "KORADDITIONALDESCRIPTION_50001555_1_NAME:[F]DungeonOpen70CH5",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50001555_1_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "name": "吸収された状態",
+    "tooltipDescription": "掃除機に吸い込まれて行動不能状態"
   },
   "50001650|1--": {
     "name": "命中減少",
@@ -2152,11 +2152,11 @@
   },
   "50001661|1-Wedding-": {
     "name": "小型化",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50001661_1_TOOLTIPDESCRIPTION:[F]Wedding"
+    "tooltipDescription": "体のサイズ50%縮小"
   },
   "50001662|1-DungeonOpen70CH5-": {
-    "name": "KORADDITIONALDESCRIPTION_50001662_1_NAME:[F]DungeonOpen70CH5",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50001662_1_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "name": "命中減少",
+    "tooltipDescription": "命中90%減少"
   },
   "50002000|1--": {
     "name": "HP減少",
@@ -2400,7 +2400,7 @@
   },
   "50003132|1-Fieldwar01-": {
     "name": "爆発寸前",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50003132_1_TOOLTIPDESCRIPTION:[F]Fieldwar01"
+    "tooltipDescription": "数秒後に気絶させる爆発を起こす"
   },
   "50003133|1-Kritias_Inferno01-": {
     "name": "呪い爆発寸前",
@@ -2427,12 +2427,12 @@
     "tooltipDescription": "攻撃した対象にダメージを与える\\n防御力が99%上昇"
   },
   "50003307|1-DungeonOpen70CH5-": {
-    "name": "KORADDITIONALDESCRIPTION_50003307_1_NAME:[F]DungeonOpen70CH5",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50003307_1_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "name": "攻撃反射",
+    "tooltipDescription": "攻撃した対象にダメージを与える\\n防御力99%上昇\\nミニブラックビーンから受けた効果"
   },
   "50003307|2-DungeonOpen70CH5-": {
-    "name": "KORADDITIONALDESCRIPTION_50003307_2_NAME:[F]DungeonOpen70CH5",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50003307_2_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "name": "攻撃反射",
+    "tooltipDescription": "攻撃した対象にダメージを与える\\n防御力99%上昇\\n一緒に登場した敵の群れを倒すと消える"
   },
   "50004401|2--": {
     "name": "後遺症",
@@ -2448,15 +2448,15 @@
   },
   "50004414|1-Kritias_Inferno01-": {
     "name": "1人に集中",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50004414_1_TOOLTIPDESCRIPTION:[F]Kritias_Inferno01"
+    "tooltipDescription": "インフェルノックが自分を注視し続ける\\nクリスタルによる効果"
   },
   "50004418|1-Kritias_Turka03-": {
     "name": "1人に集中",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50004418_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka03"
+    "tooltipDescription": "右側のトゥルカの攻撃対象になる\\n持続的にメテオ攻撃を受ける"
   },
   "50004420|1-Kritias_Turka03-": {
     "name": "1人に集中",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50004420_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka03"
+    "tooltipDescription": "一つの対象だけを攻撃し続ける"
   },
   "50004513|1--": {
     "name": "地獄の炎の覇気",
@@ -2487,12 +2487,12 @@
     "tooltipDescription": "マッシュキングの体から放たれる胞子に中毒し、致命的な毒ダメージを受ける"
   },
   "50004548|1-Kritias_Inferno01-": {
-    "name": "KORADDITIONALDESCRIPTION_50004548_1_NAME:[F]Kritias_Inferno01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50004548_1_TOOLTIPDESCRIPTION:[F]Kritias_Inferno01"
+    "name": "インフェルノックの眼光の呪い",
+    "tooltipDescription": "インフェルノックの呪いの眼光にさらされ、\\n持続的に呪いダメージを受ける\\n無限に重複する"
   },
   "50004557|1-Kritias_Inferno01-": {
-    "name": "KORADDITIONALDESCRIPTION_50004557_1_NAME:[F]Kritias_Inferno01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50004557_1_TOOLTIPDESCRIPTION:[F]Kritias_Inferno01"
+    "name": "気力低下",
+    "tooltipDescription": "もう一度同じ攻撃を受けると気絶する"
   },
   "50004558|1-Kritias_Inferno01-": {
     "name": "気絶",
@@ -2515,16 +2515,16 @@
     "tooltipDescription": "持続的にHP回復"
   },
   "50004570|1-Kritias_Turka03-": {
-    "name": "KORADDITIONALDESCRIPTION_50004570_1_NAME:[F]Kritias_Turka03",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50004570_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka03"
+    "name": "トゥルカの怒り",
+    "tooltipDescription": "自分の周囲の対象に\\n持続的に呪いダメージを与える"
   },
   "50004570|2-Kritias_Turka03-": {
-    "name": "KORADDITIONALDESCRIPTION_50004570_2_NAME:[F]Kritias_Turka03",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50004570_2_TOOLTIPDESCRIPTION:[F]Kritias_Turka03"
+    "name": "トゥルカの怒り",
+    "tooltipDescription": "自分の周囲の対象に\\n持続的に呪いダメージを与える"
   },
   "50004573|1-Kritias_Turka03-": {
-    "name": "KORADDITIONALDESCRIPTION_50004573_1_NAME:[F]Kritias_Turka03",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50004573_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka03"
+    "name": "魔力玉の恐怖",
+    "tooltipDescription": "魔力の玉に近づくと\\n持続的に硬直ダメージを受ける"
   },
   "50004800|1--": {
     "name": "HP回復剤の効果減少",
@@ -2607,15 +2607,15 @@
     "tooltipDescription": "移動速度が50%増加\\nユキマメッチが与えた能力"
   },
   "50005103|1-DungeonOpen70CH5-": {
-    "name": "KORADDITIONALDESCRIPTION_50005103_1_NAME:[F]DungeonOpen70CH5",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50005103_1_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "name": "攻撃力上昇",
+    "tooltipDescription": "攻撃力10%上昇\\n車に最後までしがみついて得た効果"
   },
   "50005300|1-Kritias_Zakum01-": {
-    "name": "KORADDITIONALDESCRIPTION_50005300_1_NAME:[F]Kritias_Zakum01",
+    "name": "トーテムのジャクム保護命令",
     "tooltipDescription": "ジャクムを攻撃すると攻撃力と命中率が減少\\n契約のトーテムを全て壊すと消える"
   },
   "50005301|1-Kritias_Zakum01-": {
-    "name": "KORADDITIONALDESCRIPTION_50005301_1_NAME:[F]Kritias_Zakum01",
+    "name": "ジャクムのトーテム保護命令",
     "tooltipDescription": "契約のトーテムを攻撃すると攻撃力と命中率が減少\\n契約のトーテムを全て壊すと消える"
   },
   "50005306|1--": {
@@ -2647,32 +2647,32 @@
     "tooltipDescription": "謎の強い力によって魂が束縛されました。\\n魂の束縛状態では全ての碑石から逃れることはできず、その場で復活も使用できません。"
   },
   "50005319|1-DungeonOpen70CH5-": {
-    "name": "KORADDITIONALDESCRIPTION_50005319_1_NAME:[F]DungeonOpen70CH5",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50005319_1_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "name": "黒色ペイントのダメージ",
+    "tooltipDescription": "持続的に呪いダメージ"
   },
   "50005320|1-DungeonOpen70CH5-": {
-    "name": "KORADDITIONALDESCRIPTION_50005320_1_NAME:[F]DungeonOpen70CH5",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50005320_1_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "name": "赤色ペイント",
+    "tooltipDescription": "赤色の領域にいれば安全"
   },
   "50005321|1-DungeonOpen70CH5-": {
-    "name": "KORADDITIONALDESCRIPTION_50005321_1_NAME:[F]DungeonOpen70CH5",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50005321_1_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "name": "黄色ペイント",
+    "tooltipDescription": "黄色の領域にいれば安全"
   },
   "50005322|1-DungeonOpen70CH5-": {
-    "name": "KORADDITIONALDESCRIPTION_50005322_1_NAME:[F]DungeonOpen70CH5",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50005322_1_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "name": "青色ペイント",
+    "tooltipDescription": "青色の領域にいれば安全"
   },
   "50005323|1-DungeonOpen70CH5-": {
-    "name": "KORADDITIONALDESCRIPTION_50005323_1_NAME:[F]DungeonOpen70CH5",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50005323_1_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "name": "黄色ペイントのダメージ1段階",
+    "tooltipDescription": "攻撃力20%減少\\n命中率30%減少"
   },
   "50005324|1-DungeonOpen70CH5-": {
-    "name": "KORADDITIONALDESCRIPTION_50005324_1_NAME:[F]DungeonOpen70CH5",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50005324_1_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "name": "黄色ペイントのダメージ2段階",
+    "tooltipDescription": "攻撃力40%減少\\n命中率50%減少"
   },
   "50005325|1-DungeonOpen70CH5-": {
-    "name": "KORADDITIONALDESCRIPTION_50005325_1_NAME:[F]DungeonOpen70CH5",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_50005325_1_TOOLTIPDESCRIPTION:[F]DungeonOpen70CH5"
+    "name": "黄色ペイントのダメージ3段階",
+    "tooltipDescription": "攻撃力60%減少\\n命中率70%減少"
   },
   "50005329|1-DungeonOpen70CH5-": {
     "name": "攻撃力減少",
@@ -3751,12 +3751,12 @@
     "tooltipDescription": "レンデュビアンが次の攻撃パターンを繰り広げようとしています。"
   },
   "62100102|1-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100102_1_NAME:[F]Kritias_Turka01",
+    "name": "オーバーパワー1形態",
     "tooltipDescription": "アルケオンは時間が経つほど防御力が増加します。"
   },
   "62100103|1-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100103_1_NAME:[F]Kritias_Turka01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_62100103_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka01"
+    "name": "オーバーパワー1形態",
+    "tooltipDescription": "時間が経つほど防御力が増加します。\\n最大20回重複し、アルケオンの乗り物に攻撃されると減少します。"
   },
   "62100104|1-Kritias_Turka01-": {
     "name": "オーバーパワー1形態_除去",
@@ -3771,59 +3771,59 @@
     "tooltipDescription": "オーバーパワー1形態_除去"
   },
   "62100105|1-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100105_1_NAME:[F]Kritias_Turka01",
+    "name": "オーバーパワー2形態",
     "tooltipDescription": "アルケオンは時間が経つほど防御力が増加します。"
   },
   "62100106|1-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100106_1_NAME:[F]Kritias_Turka01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_62100106_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka01"
+    "name": "オーバーパワー2形態",
+    "tooltipDescription": "時間が経つほど防御力が増加します。\\n最大20回重複し、周囲の砲塔に攻撃されると減少します。"
   },
   "62100107|1-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100107_1_NAME:[F]Kritias_Turka01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_62100107_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka01"
+    "name": "オーバーパワー2形態_除去",
+    "tooltipDescription": "オーバーパワー2形態_除去"
   },
   "62100107|2-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100107_2_NAME:[F]Kritias_Turka01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_62100107_2_TOOLTIPDESCRIPTION:[F]Kritias_Turka01"
+    "name": "オーバーパワー2形態_除去",
+    "tooltipDescription": "オーバーパワー2形態_除去"
   },
   "62100108|1-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100108_1_NAME:[F]Kritias_Turka01",
+    "name": "オーバーパワー3形態",
     "tooltipDescription": "アルケオンは時間が経つほど防御力が増加します。"
   },
   "62100109|1-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100109_1_NAME:[F]Kritias_Turka01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_62100109_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka01"
+    "name": "オーバーパワー3形態",
+    "tooltipDescription": "時間が経つほど防御力が増加します。\\n最大20回重複すると「アルケオンボム」スキルが発動し、すべてのプレイヤーを全滅させます。\\n周囲の爆発物でダメージを受けると重複数値が下がります。"
   },
   "62100110|1-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100110_1_NAME:[F]Kritias_Turka01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_62100110_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka01"
+    "name": "アルケオンボム準備完了",
+    "tooltipDescription": "「アルケオンボム」の準備が完了しました。 \\nまもなくすべてのプレイヤーを全滅させるでしょう。"
   },
   "62100111|1-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100111_1_NAME:[F]Kritias_Turka01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_62100111_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka01"
+    "name": "オーバーパワー3形態_除去",
+    "tooltipDescription": "オーバーパワー3形態_除去"
   },
   "62100111|2-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100111_2_NAME:[F]Kritias_Turka01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_62100111_2_TOOLTIPDESCRIPTION:[F]Kritias_Turka01"
+    "name": "オーバーパワー3形態_除去",
+    "tooltipDescription": "オーバーパワー3形態_除去"
   },
   "62100121|1-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100121_1_NAME:[F]Kritias_Turka01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_62100121_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka01"
+    "name": "暴走",
+    "tooltipDescription": "怒った状態です。\\nダメージを与えられない状態になりました。"
   },
   "62100121|2-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100121_2_NAME:[F]Kritias_Turka01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_62100121_2_TOOLTIPDESCRIPTION:[F]Kritias_Turka01"
+    "name": "暴走",
+    "tooltipDescription": "怒った状態です。\\nダメージを与えられない状態になりました。"
   },
   "62100131|1-Kritias_Turka01-": {
     "name": "火傷",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_62100131_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka01"
+    "tooltipDescription": "火傷を負い、持続的なダメージを受けます。"
   },
   "62100150|1-Kritias_Turka01-": {
     "name": "アルケオンの乗り物制御",
     "tooltipDescription": "アルケオンの乗り物制御"
   },
   "62100150|2-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100150_2_NAME:[F]Kritias_Turka01",
+    "name": "アルケオンの乗り物制御(燃料)",
     "tooltipDescription": "アルケオンの乗り物制御"
   },
   "62100151|1-Kritias_Turka01-": {
@@ -3848,23 +3848,23 @@
   },
   "62100157|1-Kritias_Turka01-": {
     "name": "無慈悲",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_62100157_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka01"
+    "tooltipDescription": "無慈悲除去"
   },
   "62100161|1-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100161_1_NAME:[F]Kritias_Turka01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_62100161_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka01"
+    "name": "アルケオンキャノンターゲット用バフ",
+    "tooltipDescription": "アルケオンキャノンターゲット用バフ"
   },
   "62100162|1-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100162_1_NAME:[F]Kritias_Turka01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_62100162_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka01"
+    "name": "アルケオンキャノンターゲット用バフ",
+    "tooltipDescription": "アルケオンキャノンターゲット用バフ"
   },
   "62100165|1-Kritias_Turka01-": {
     "name": "気絶",
     "tooltipDescription": "気絶状態です。"
   },
   "62100166|1-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100166_1_NAME:[F]Kritias_Turka01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_62100166_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka01"
+    "name": "疲労",
+    "tooltipDescription": "アルケオンキャノンの攻撃でダメージを受け、ひどく疲れた状態です。\\n5個重複時、気絶状態になります。"
   },
   "62100167|1-Kritias_Turka01-": {
     "name": "気絶",
@@ -3879,8 +3879,8 @@
     "tooltipDescription": "気絶状態です。"
   },
   "62100171|1-Kritias_Turka01-": {
-    "name": "KORADDITIONALDESCRIPTION_62100171_1_NAME:[F]Kritias_Turka01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_62100171_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka01"
+    "name": "アルケオンキャノン被撃用",
+    "tooltipDescription": "アルケオンキャノン被撃用"
   },
   "62100201|1-Kritias_Turka02-": {
     "name": "黒色エネルギー免疫",
@@ -4771,40 +4771,40 @@
     "tooltipDescription": "軍団が結束します。\\n無敵状態です。"
   },
   "70002221|1-Fieldwar01-": {
-    "name": "KORADDITIONALDESCRIPTION_70002221_1_NAME:[F]Fieldwar01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002221_1_TOOLTIPDESCRIPTION:[F]Fieldwar01"
+    "name": "軍団の結束：気運",
+    "tooltipDescription": "軍団が結束します。\\n互いに気を送り合います。"
   },
   "70002231|1-Kritias_2018_12-": {
-    "name": "KORADDITIONALDESCRIPTION_70002231_1_NAME:[F]Kritias_2018_12",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002231_1_TOOLTIPDESCRIPTION:[F]Kritias_2018_12"
+    "name": "軍団破壊者",
+    "tooltipDescription": "軍団を破壊する能力を持っています。"
   },
   "70002241|1-Kritias_2018_12-": {
-    "name": "KORADDITIONALDESCRIPTION_70002241_1_NAME:[F]Kritias_2018_12",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002241_1_TOOLTIPDESCRIPTION:[F]Kritias_2018_12"
+    "name": "軍団虐殺者",
+    "tooltipDescription": "軍団を虐殺する能力を持っています。"
   },
   "70002251|1-Kritias_2018_12-": {
-    "name": "KORADDITIONALDESCRIPTION_70002251_1_NAME:[F]Kritias_2018_12",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002251_1_TOOLTIPDESCRIPTION:[F]Kritias_2018_12"
+    "name": "軍団処理者",
+    "tooltipDescription": "軍団を処理する能力を持っています。"
   },
   "70002261|1-Kritias_2018_12-": {
-    "name": "KORADDITIONALDESCRIPTION_70002261_1_NAME:[F]Kritias_2018_12",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002261_1_TOOLTIPDESCRIPTION:[F]Kritias_2018_12"
+    "name": "軍団処刑者",
+    "tooltipDescription": "軍団を処刑する能力を持っています。"
   },
   "70002311|1-Kritias_2018_12-": {
-    "name": "KORADDITIONALDESCRIPTION_70002311_1_NAME:[F]Kritias_2018_12",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002311_1_TOOLTIPDESCRIPTION:[F]Kritias_2018_12"
+    "name": "軍団破壊者",
+    "tooltipDescription": "軍団を破壊する能力を持っています。"
   },
   "70002321|1-Kritias_2018_12-": {
-    "name": "KORADDITIONALDESCRIPTION_70002321_1_NAME:[F]Kritias_2018_12",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002321_1_TOOLTIPDESCRIPTION:[F]Kritias_2018_12"
+    "name": "軍団虐殺者",
+    "tooltipDescription": "軍団を虐殺する能力を持っています。"
   },
   "70002331|1-Kritias_2018_12-": {
-    "name": "KORADDITIONALDESCRIPTION_70002331_1_NAME:[F]Kritias_2018_12",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002331_1_TOOLTIPDESCRIPTION:[F]Kritias_2018_12"
+    "name": "軍団処理者",
+    "tooltipDescription": "軍団を処理する能力を持っています。"
   },
   "70002341|1-Kritias_2018_12-": {
-    "name": "KORADDITIONALDESCRIPTION_70002341_1_NAME:[F]Kritias_2018_12",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002341_1_TOOLTIPDESCRIPTION:[F]Kritias_2018_12"
+    "name": "軍団処刑者",
+    "tooltipDescription": "軍団を処刑する能力を持っています。"
   },
   "70002361|1-Fieldwar01-": {
     "name": "軍団の結束：無敵",
@@ -4819,24 +4819,24 @@
     "tooltipDescription": "軍団が結束します。\\n無敵状態です。"
   },
   "70002501|1-Develop-": {
-    "name": "KORADDITIONALDESCRIPTION_70002501_1_NAME:[F]Develop",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002501_1_TOOLTIPDESCRIPTION:[F]Develop"
+    "name": "保有リソース3",
+    "tooltipDescription": "保有リソースが3個のときに付与されるバフ、開封時使用"
   },
   "70002502|1-Develop-": {
-    "name": "KORADDITIONALDESCRIPTION_70002502_1_NAME:[F]Develop",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002502_1_TOOLTIPDESCRIPTION:[F]Develop"
+    "name": "保有リソース6",
+    "tooltipDescription": "保有リソースが5個のときに付与されるバフ、開封時使用"
   },
   "70002503|1-Develop-": {
-    "name": "KORADDITIONALDESCRIPTION_70002503_1_NAME:[F]Develop",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002503_1_TOOLTIPDESCRIPTION:[F]Develop"
+    "name": "保有リソース9",
+    "tooltipDescription": "保有リソースが7個のときに付与されるバフ、開封時使用"
   },
   "70002504|1-Develop-": {
-    "name": "KORADDITIONALDESCRIPTION_70002504_1_NAME:[F]Develop",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002504_1_TOOLTIPDESCRIPTION:[F]Develop"
+    "name": "累積リソース",
+    "tooltipDescription": "保有リソース累積用"
   },
   "70002511|1-Develop-": {
-    "name": "KORADDITIONALDESCRIPTION_70002511_1_NAME:[F]Develop",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002511_1_TOOLTIPDESCRIPTION:[F]Develop"
+    "name": "総リソース",
+    "tooltipDescription": "総リソース計算用 最大20"
   },
   "70002512|1-Develop-": {
     "name": "KORADDITIONALDESCRIPTION_70002512_1_NAME:[F]Develop",
@@ -4855,24 +4855,24 @@
     "tooltipDescription": "KORADDITIONALDESCRIPTION_70002523_1_TOOLTIPDESCRIPTION:[F]Develop"
   },
   "70002524|1-Develop-": {
-    "name": "KORADDITIONALDESCRIPTION_70002524_1_NAME:[F]Develop",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002524_1_TOOLTIPDESCRIPTION:[F]Develop"
+    "name": "累積リソース",
+    "tooltipDescription": "保有リソース累積用"
   },
   "70002531|1-Develop-": {
-    "name": "KORADDITIONALDESCRIPTION_70002531_1_NAME:[F]Develop",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002531_1_TOOLTIPDESCRIPTION:[F]Develop"
+    "name": "総リソース",
+    "tooltipDescription": "総リソース計算用 最大20"
   },
   "70002532|1-Develop-": {
     "name": "KORADDITIONALDESCRIPTION_70002532_1_NAME:[F]Develop",
     "tooltipDescription": "KORADDITIONALDESCRIPTION_70002532_1_TOOLTIPDESCRIPTION:[F]Develop"
   },
   "70002541|1-Develop-": {
-    "name": "KORADDITIONALDESCRIPTION_70002541_1_NAME:[F]Develop",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002541_1_TOOLTIPDESCRIPTION:[F]Develop"
+    "name": "潜入組バフ",
+    "tooltipDescription": "潜入後に付与するバフ"
   },
   "70002551|1-Develop-": {
-    "name": "KORADDITIONALDESCRIPTION_70002551_1_NAME:[F]Develop",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002551_1_TOOLTIPDESCRIPTION:[F]Develop"
+    "name": "潜入組バフ削除",
+    "tooltipDescription": "潜入対象のバフを削除"
   },
   "70002581|1-Develop-": {
     "name": "移動速度減少",
@@ -5068,44 +5068,44 @@
     "tooltipDescription": "偶然出会ったパズルに挑戦します。 \\n挑戦者だけが報酬を獲得する資格を持ちます。"
   },
   "71001211|1-Kritias_2018_12-": {
-    "name": "KORADDITIONALDESCRIPTION_71001211_1_NAME:[F]Kritias_2018_12",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_71001211_1_TOOLTIPDESCRIPTION:[F]Kritias_2018_12"
+    "name": "明るいあいさつ",
+    "tooltipDescription": "明るいあいさつは周りの人を良い気分にさせます。"
   },
   "71001221|1-Kritias_2018_12-": {
-    "name": "KORADDITIONALDESCRIPTION_71001221_1_NAME:[F]Kritias_2018_12",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_71001221_1_TOOLTIPDESCRIPTION:[F]Kritias_2018_12"
+    "name": "じっと見つめる",
+    "tooltipDescription": "あまりじっと見つめられると恥ずかしいです。"
   },
   "71001231|1-Kritias_2018_12-": {
-    "name": "KORADDITIONALDESCRIPTION_71001231_1_NAME:[F]Kritias_2018_12",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_71001231_1_TOOLTIPDESCRIPTION:[F]Kritias_2018_12"
+    "name": "明るいあいさつ",
+    "tooltipDescription": "明るいあいさつは周りの人を良い気分にさせます。"
   },
   "71001241|1-Kritias_2018_12-": {
-    "name": "KORADDITIONALDESCRIPTION_71001241_1_NAME:[F]Kritias_2018_12",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_71001241_1_TOOLTIPDESCRIPTION:[F]Kritias_2018_12"
+    "name": "じっと見つめる",
+    "tooltipDescription": "あまりじっと見つめられると恥ずかしいです。"
   },
   "71001271|1-Kritias_2018_12-": {
-    "name": "KORADDITIONALDESCRIPTION_71001271_1_NAME:[F]Kritias_2018_12",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_71001271_1_TOOLTIPDESCRIPTION:[F]Kritias_2018_12"
+    "name": "制限時間！",
+    "tooltipDescription": "制限時間内に目標地点に到着してください！"
   },
   "71001281|1-Kritias_2018_12-": {
-    "name": "KORADDITIONALDESCRIPTION_71001281_1_NAME:[F]Kritias_2018_12",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_71001281_1_TOOLTIPDESCRIPTION:[F]Kritias_2018_12"
+    "name": "時間超過！",
+    "tooltipDescription": "制限時間を超過しました。"
   },
   "71001311|1-Kritias_2018_12-": {
-    "name": "KORADDITIONALDESCRIPTION_71001311_1_NAME:[F]Kritias_2018_12",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_71001311_1_TOOLTIPDESCRIPTION:[F]Kritias_2018_12"
+    "name": "恥ずかしさ上昇",
+    "tooltipDescription": "恥ずかしさがだんだん上昇します。"
   },
   "73000001|1-Fieldwar02-": {
     "name": "巨大化",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_73000001_1_TOOLTIPDESCRIPTION:[F]Fieldwar02"
+    "tooltipDescription": "体が大きくなりました。"
   },
   "73000002|1-Fieldwar02-": {
     "name": "T55搭乗",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_73000002_1_TOOLTIPDESCRIPTION:[F]Fieldwar02"
+    "tooltipDescription": "T55に搭乗しました。"
   },
   "73000003|1-Fieldwar02-": {
-    "name": "KORADDITIONALDESCRIPTION_73000003_1_NAME:[F]Fieldwar02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_73000003_1_TOOLTIPDESCRIPTION:[F]Fieldwar02"
+    "name": "ストーンゴーレム搭乗",
+    "tooltipDescription": "ストーンゴーレムに搭乗しました。"
   },
   "73000004|1-Kritias_Turka01-": {
     "name": "アルケオン搭乗",
@@ -5140,44 +5140,44 @@
     "tooltipDescription": "アルケオンに搭乗しました。"
   },
   "73000011|1-Kritias_Turka03-": {
-    "name": "KORADDITIONALDESCRIPTION_73000011_1_NAME:[F]Kritias_Turka03",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_73000011_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka03"
+    "name": "アルケオンデルタ搭乗",
+    "tooltipDescription": "アルケオンデルタに搭乗しました。"
   },
   "73000012|1-Kritias_Turka03-": {
-    "name": "KORADDITIONALDESCRIPTION_73000012_1_NAME:[F]Kritias_Turka03",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_73000012_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka03"
+    "name": "アルケオンデルタ搭乗",
+    "tooltipDescription": "アルケオンデルタに搭乗しました。"
   },
   "73000100|1-Kritias_Turka02-": {
-    "name": "KORADDITIONALDESCRIPTION_73000100_1_NAME:[F]Kritias_Turka02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_73000100_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka02"
+    "name": "赤色コアエネルギー",
+    "tooltipDescription": "赤色コアの力を得て攻撃力が増加します。"
   },
   "73000101|1-Kritias_Turka02-": {
-    "name": "KORADDITIONALDESCRIPTION_73000101_1_NAME:[F]Kritias_Turka02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_73000101_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka02"
+    "name": "緑色コアエネルギー",
+    "tooltipDescription": "緑色コアの力を得てHPが増加します。"
   },
   "73000102|1-Kritias_Turka02-": {
-    "name": "KORADDITIONALDESCRIPTION_73000102_1_NAME:[F]Kritias_Turka02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_73000102_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka02"
+    "name": "青色コアエネルギー",
+    "tooltipDescription": "青色コアの力を得て防御力が増加します。"
   },
   "73000103|1-Kritias_Turka02-": {
-    "name": "KORADDITIONALDESCRIPTION_73000103_1_NAME:[F]Kritias_Turka02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_73000103_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka02"
+    "name": "黄色コアエネルギー",
+    "tooltipDescription": "黄色コアの力を得てクリティカル確率が増加します。"
   },
   "73000105|1-Kritias_Turka02-": {
-    "name": "KORADDITIONALDESCRIPTION_73000105_1_NAME:[F]Kritias_Turka02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_73000105_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka02"
+    "name": "赤色コアエネルギー",
+    "tooltipDescription": "赤色コアの力を得て、重複ごとに攻撃力が2%ずつ増加します。 (最大5重複)"
   },
   "73000107|1-Kritias_Turka02-": {
-    "name": "KORADDITIONALDESCRIPTION_73000107_1_NAME:[F]Kritias_Turka02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_73000107_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka02"
+    "name": "緑色コアエネルギー",
+    "tooltipDescription": "緑色コアの力を得て、重複ごとにHPが6%ずつ増加します。 (最大5重複)"
   },
   "73000109|1-Kritias_Turka02-": {
-    "name": "KORADDITIONALDESCRIPTION_73000109_1_NAME:[F]Kritias_Turka02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_73000109_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka02"
+    "name": "青色コアエネルギー",
+    "tooltipDescription": "青色コアの力を得て、重複ごとに防御力が4%ずつ増加します。 (最大5重複)"
   },
   "73000111|1-Kritias_Turka02-": {
-    "name": "KORADDITIONALDESCRIPTION_73000111_1_NAME:[F]Kritias_Turka02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_73000111_1_TOOLTIPDESCRIPTION:[F]Kritias_Turka02"
+    "name": "黄色コアエネルギー",
+    "tooltipDescription": "黄色コアの力を得てクリティカル命中が100増加します。"
   },
   "79000001|1--": {
     "name": "魂復活の呪い：気力増加",
@@ -8772,7 +8772,7 @@
   },
   "90000888|1-WorldChampionMushroom-": {
     "name": "マッシュキング印の毒キノコ",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_90000888_1_TOOLTIPDESCRIPTION:[F]WorldChampionMushroom"
+    "tooltipDescription": "毒キノコの気に倒れます。"
   },
   "90000890|1-WorldChampionMushroom-": {
     "name": "甘い1周年ケーキ",
@@ -8884,7 +8884,7 @@
   },
   "90001145|1-Kritias_2018_12-": {
     "name": "エネルドリンク",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_90001145_1_TOOLTIPDESCRIPTION:[F]Kritias_2018_12"
+    "tooltipDescription": "HP300増加\\n防御力6%増加"
   },
   "90001147|1-Event-": {
     "name": "孤独なジャージャー麵",
@@ -10837,18 +10837,18 @@
     "name": "戦場および闘技場でHPが2500、命中が10増加"
   },
   "90051620|1-Level70Item-": {
-    "name": "KORADDITIONALDESCRIPTION_90051620_1_NAME:[F]Level70Item"
+    "name": "きらめく青い光"
   },
   "90051620|1-KREquipmentBalance_01-": {
-    "name": "KORADDITIONALDESCRIPTION_90051620_1_NAME:[F]KREquipmentBalance_01"
+    "name": "きらめく青い光"
   },
   "90051621|1-Level70Item-": {
-    "name": "KORADDITIONALDESCRIPTION_90051621_1_NAME:[F]Level70Item",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_90051621_1_TOOLTIPDESCRIPTION:[F]Level70Item"
+    "name": "微弱な青い光",
+    "tooltipDescription": "ブルーラペンタの力が集まっています"
   },
   "90051622|1-Level70Item-": {
-    "name": "KORADDITIONALDESCRIPTION_90051622_1_NAME:[F]Level70Item",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_90051622_1_TOOLTIPDESCRIPTION:[F]Level70Item"
+    "name": "きらめいていますね！！！",
+    "tooltipDescription": "ブルーラペンタの力で強力なダメージを伴います"
   },
   "90051634|1-PvPRankingDuelMode-": {
     "name": "戦場および闘技場でHPが2000、防御力貫通が15%、STRが200、クリティカル回避が100増加"
@@ -10866,23 +10866,23 @@
     "name": "戦場および闘技場でHPが4500、攻撃速度が15%、命中が25、行動不能時間減少が50%増加"
   },
   "90051639|1-Level70Item-": {
-    "name": "KORADDITIONALDESCRIPTION_90051639_1_NAME:[F]Level70Item"
+    "name": "移動速度6%増加(戦場では未適用)"
   },
   "90051640|1-Level70Item-": {
-    "name": "KORADDITIONALDESCRIPTION_90051640_1_NAME:[F]Level70Item"
+    "name": "地上乗り物搭乗時、移動速度20%増加(戦場では未適用)"
   },
   "90051641|1-Level70Item-": {
-    "name": "KORADDITIONALDESCRIPTION_90051641_1_NAME:[F]Level70Item"
+    "name": "エネルブースト"
   },
   "90051642|1-Level70Item-": {
-    "name": "KORADDITIONALDESCRIPTION_90051642_1_NAME:[F]Level70Item"
+    "name": "古代の力強化"
   },
   "90051650|1-Level70Item-": {
-    "name": "KORADDITIONALDESCRIPTION_90051650_1_NAME:[F]Level70Item"
+    "name": "燃え上がるエネルギー"
   },
   "90051651|1-Level70Item-": {
-    "name": "KORADDITIONALDESCRIPTION_90051651_1_NAME:[F]Level70Item",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_90051651_1_TOOLTIPDESCRIPTION:[F]Level70Item"
+    "name": "エネルギーシールド",
+    "tooltipDescription": "時空の力が体を包み、戦闘力が増加し、被撃時にダメージを吸収します。"
   },
   "90051701|1-PvPRankingDuelMode-": {
     "name": "戦場および闘技場でHPが2000、防御力貫通が15%、STRが200、クリティカル回避が100増加"
@@ -10900,10 +10900,10 @@
     "name": "戦場および闘技場でHPが4500、攻撃速度が15%、命中が25、行動不能時間減少が50%増加"
   },
   "90051744-Level70Item-": {
-    "name": "KORADDITIONALDESCRIPTION_90051744_NAME:[F]Level70Item"
+    "name": "連続砲撃"
   },
   "90051746-Level70Item-": {
-    "name": "KORADDITIONALDESCRIPTION_90051746_NAME:[F]Level70Item",
+    "name": "連続砲撃",
     "tooltipDescription": "命中が8増加"
   },
   "90051812--": {
@@ -11047,7 +11047,7 @@
   },
   "99900451|1-MassiveCrazyRunnersShanghai-": {
     "name": "バリア",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_99900451_1_TOOLTIPDESCRIPTION:[F]MassiveCrazyRunnersShanghai"
+    "tooltipDescription": "すべての妨害効果に免疫"
   },
   "99900471|1--": {
     "name": "気絶",
@@ -11095,7 +11095,7 @@
   },
   "99910372|1-Fieldwar01-": {
     "name": "火傷",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_99910372_1_TOOLTIPDESCRIPTION:[F]Fieldwar01"
+    "tooltipDescription": "火傷を負って5秒間燃えます。"
   },
   "100000001|1--": {
     "name": "魂の休息",
@@ -12159,16 +12159,16 @@
     "tooltipDescription": "狂戦士の一撃の攻撃速度増加\\n狂戦士の一撃のダメージ増加\\nすべてのダメージ減少\\n最大5回まで重複可能"
   },
   "92002016|1-ShadowExpedition-": {
-    "name": "KORADDITIONALDESCRIPTION_92002016_1_NAME:[F]ShadowExpedition",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_92002016_1_TOOLTIPDESCRIPTION:[F]ShadowExpedition"
+    "name": "流血事態",
+    "tooltipDescription": "攻撃力および防御力減少"
   },
   "92002019|1-ShadowExpedition-": {
     "name": "スタン",
     "tooltipDescription": "気絶して行動不能"
   },
   "92002029|1-ShadowExpedition-": {
-    "name": "KORADDITIONALDESCRIPTION_92002029_1_NAME:[F]ShadowExpedition",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_92002029_1_TOOLTIPDESCRIPTION:[F]ShadowExpedition"
+    "name": "血の響き",
+    "tooltipDescription": "0.25秒ごとにHP回復"
   },
   "92002031|1-ShadowExpedition-": {
     "name": "血の誓い",
@@ -12412,7 +12412,7 @@
   },
   "92003010|1-ShadowExpedition-": {
     "name": "火炎衝突",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_92003010_1_TOOLTIPDESCRIPTION:[F]ShadowExpedition"
+    "tooltipDescription": "3回重複時、3m内の8人に火炎ダメージ\\n命中した対象は気絶"
   },
   "92003012|1-ShadowExpedition-": {
     "name": "炎の玉",
@@ -12495,12 +12495,12 @@
     "tooltipDescription": "移動速度増加\\nすべてのダメージ減少\\n0.2秒ごとに3m内の8人に火炎ダメージ\\n0.2秒ごとにSP回復"
   },
   "92003019|1-ShadowExpedition-": {
-    "name": "KORADDITIONALDESCRIPTION_92003019_1_NAME:[F]ShadowExpedition",
+    "name": "寒波",
     "tooltipDescription": "移動速度減少"
   },
   "92003022|1-ShadowExpedition-": {
     "name": "氷結",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_92003022_1_TOOLTIPDESCRIPTION:[F]ShadowExpedition"
+    "tooltipDescription": "凍りついて行動不可"
   },
   "92003026|1-ShadowExpedition-": {
     "name": "スタン",
@@ -14027,16 +14027,16 @@
     "tooltipDescription": "防御力増加\\n最大50回まで重複可能"
   },
   "92007004|1-ShadowExpedition-": {
-    "name": "KORADDITIONALDESCRIPTION_92007004_1_NAME:[F]ShadowExpedition",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_92007004_1_TOOLTIPDESCRIPTION:[F]ShadowExpedition"
+    "name": "猪突猛進",
+    "tooltipDescription": "マインドスティーラーのクールタイムがなくなる"
   },
   "92007006|1-ShadowExpedition-": {
-    "name": "KORADDITIONALDESCRIPTION_92007006_1_NAME:[F]ShadowExpedition",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_92007006_1_TOOLTIPDESCRIPTION:[F]ShadowExpedition"
+    "name": "猛毒袋",
+    "tooltipDescription": "5回重複時、猛毒袋が爆発"
   },
   "92007017|1-ShadowExpedition-": {
     "name": "無気力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_92007017_1_TOOLTIPDESCRIPTION:[F]ShadowExpedition"
+    "tooltipDescription": "攻撃力および移動速度減少"
   },
   "92007031|1-ShadowExpedition-": {
     "name": "急襲",
@@ -14119,7 +14119,7 @@
     "tooltipDescription": "回避増加"
   },
   "92007032|1-ShadowExpedition-": {
-    "name": "KORADDITIONALDESCRIPTION_92007032_1_NAME:[F]ShadowExpedition",
+    "name": "減速",
     "tooltipDescription": "移動速度減少"
   },
   "92007034|1-ShadowExpedition-": {
@@ -14208,15 +14208,15 @@
   },
   "92008008|1-ShadowExpedition-": {
     "name": "無慈悲",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_92008008_1_TOOLTIPDESCRIPTION:[F]ShadowExpedition"
+    "tooltipDescription": "3回重複時、スターバースト100%クリティカル命中"
   },
   "92008019|1-ShadowExpedition-": {
-    "name": "KORADDITIONALDESCRIPTION_92008019_1_NAME:[F]ShadowExpedition",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_92008019_1_TOOLTIPDESCRIPTION:[F]ShadowExpedition"
+    "name": "分離主義者充電",
+    "tooltipDescription": "5回重複時、強化グラインドスター発動"
   },
   "92008021|1-ShadowExpedition-": {
-    "name": "KORADDITIONALDESCRIPTION_92008021_1_NAME:[F]ShadowExpedition",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_92008021_1_TOOLTIPDESCRIPTION:[F]ShadowExpedition"
+    "name": "分離主義者",
+    "tooltipDescription": "グラインドスターのSP消費なし\\nグラインドスターのダメージ増加"
   },
   "92008026|1-ShadowExpedition-": {
     "name": "敏捷",
@@ -15344,7 +15344,7 @@
   },
   "92010021|1-ShadowExpedition-": {
     "name": "金剛不壊",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_92010021_1_TOOLTIPDESCRIPTION:[F]ShadowExpedition"
+    "tooltipDescription": "すべてのダメージ減少\\n敵の攻撃でノックバックされない"
   },
   "92010022|1-ShadowExpedition-": {
     "name": "スタン",
@@ -15915,31 +15915,31 @@
     "tooltipDescription": "気絶して行動不能"
   },
   "92900000|1-ShadowExpedition-": {
-    "name": "KORADDITIONALDESCRIPTION_92900000_1_NAME:[F]ShadowExpedition",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_92900000_1_TOOLTIPDESCRIPTION:[F]ShadowExpedition"
+    "name": "遠征隊の力",
+    "tooltipDescription": "敵の攻撃で硬直しない"
   },
   "92900001|1-ShadowExpedition-": {
-    "name": "KORADDITIONALDESCRIPTION_92900001_1_NAME:[F]ShadowExpedition",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_92900001_1_TOOLTIPDESCRIPTION:[F]ShadowExpedition"
+    "name": "女帝の救援",
+    "tooltipDescription": "すべてのダメージに免疫"
   },
   "92900002|1-ShadowExpedition-": {
-    "name": "KORADDITIONALDESCRIPTION_92900002_1_NAME:[F]ShadowExpedition",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_92900002_1_TOOLTIPDESCRIPTION:[F]ShadowExpedition"
+    "name": "赤い狼の力",
+    "tooltipDescription": "クリティカル確率増加\\nクリティカルダメージ増加"
   },
   "92900003|1-ShadowExpedition-": {
-    "name": "KORADDITIONALDESCRIPTION_92900003_1_NAME:[F]ShadowExpedition",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_92900003_1_TOOLTIPDESCRIPTION:[F]ShadowExpedition"
+    "name": "生命の速度",
+    "tooltipDescription": "攻撃速度増加\\n移動速度増加"
   },
   "92900996|1-ShadowExpedition-": {
-    "name": "KORADDITIONALDESCRIPTION_92900996_1_NAME:[F]ShadowExpedition",
+    "name": "すばやさ",
     "tooltipDescription": "移動速度が増加します。"
   },
   "92900997|1-ShadowExpedition-": {
-    "name": "KORADDITIONALDESCRIPTION_92900997_1_NAME:[F]ShadowExpedition",
+    "name": "優越",
     "tooltipDescription": "HPが増加します。"
   },
   "92900998|1-ShadowExpedition-": {
-    "name": "KORADDITIONALDESCRIPTION_92900998_1_NAME:[F]ShadowExpedition",
+    "name": "乱暴",
     "tooltipDescription": "攻撃力が増加します。"
   },
   "95000012|1--": {
@@ -16359,8 +16359,8 @@
     "tooltipDescription": "体に電気が走り、持続的にダメージを受けます。"
   },
   "99910161|1-Gigantica01-": {
-    "name": "KORADDITIONALDESCRIPTION_99910161_1_NAME:[F]Gigantica01",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_99910161_1_TOOLTIPDESCRIPTION:[F]Gigantica01"
+    "name": "ファントムデストロイヤー搭乗",
+    "tooltipDescription": "暴走したファントムデストロイヤーに搭乗しました。\\n強力な攻撃で一般モンスターを素早く倒すことができ、ギガンティカのバフをリセットできます。"
   },
   "99920003|1-SurvivalContentsTeam-": {
     "name": "ナマケキノコ",
@@ -16778,124 +16778,124 @@
     "tooltipDescription": "物理/魔法抵抗力貫通が4.8%増加"
   },
   "110001001|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001001_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001001_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "HPおよび防御力増加",
+    "tooltipDescription": "HPが<FONT color='#FFD200'>31</FONT>増加し、\\n防御力が<FONT color='#FFD200'>11</FONT>増加します。\\n<FONT color='#909090'>ただし、戦場では適用されません。</FONT>"
   },
   "110001002|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001002_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001002_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "物理抵抗力増加",
+    "tooltipDescription": "物理抵抗力が<FONT color='#FFD200'>15</FONT>増加します。\\n<FONT color='#909090'>ただし、戦場では適用されません。</FONT>"
   },
   "110001003|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001003_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001003_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "魔法抵抗力増加",
+    "tooltipDescription": "魔法抵抗力が<FONT color='#FFD200'>15</FONT>増加します。\\n<FONT color='#909090'>ただし、戦場では適用されません。</FONT>"
   },
   "110001004|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001004_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001004_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "エリートモンスターダメージ増加",
+    "tooltipDescription": "エリートモンスターに与えるダメージが<FONT color='#FFD200'>3%</FONT>増加します。"
   },
   "110001005|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001005_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001005_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "ボスモンスターダメージ増加",
+    "tooltipDescription": "ボスモンスターに与えるダメージが<FONT color='#FFD200'>3%</FONT>増加します。"
   },
   "110001006|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001006_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001006_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "武器攻撃力増加",
+    "tooltipDescription": "武器攻撃力が<FONT color='#FFD200'>2%</FONT>増加します。\\n<FONT color='#909090'>ただし、戦場では適用されません。</FONT>"
   },
   "110001007|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001007_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001007_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "命中増加",
+    "tooltipDescription": "命中が<FONT color='#FFD200'>3</FONT>増加します。\\n<FONT color='#909090'>ただし、戦場では適用されません。</FONT>"
   },
   "110001008|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001008_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001008_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "防御力貫通増加",
+    "tooltipDescription": "防御力貫通が<FONT color='#FFD200'>2%</FONT>増加します。\\n<FONT color='#909090'>ただし、戦場では適用されません。</FONT>"
   },
   "110001009|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001009_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001009_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "物理および魔法ダメージ増加",
+    "tooltipDescription": "物理ダメージが<FONT color='#FFD200'>2%</FONT>増加し、\\n魔法ダメージが<FONT color='#FFD200'>2%</FONT>増加します。\\n<FONT color='#909090'>ただし、戦場では適用されません。</FONT>"
   },
   "110001010|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001010_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001010_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "物理および魔法抵抗力貫通増加",
+    "tooltipDescription": "物理抵抗力貫通が<FONT color='#FFD200'>3%</FONT>増加し、\\n魔法抵抗力貫通が<FONT color='#FFD200'>3%</FONT>増加します。\\n<FONT color='#909090'>ただし、戦場では適用されません。</FONT>"
   },
   "110001011|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001011_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001011_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "物理および魔法攻撃力増加",
+    "tooltipDescription": "物理攻撃力が<FONT color='#FFD200'>2%</FONT>増加し、\\n魔法攻撃力が<FONT color='#FFD200'>2%</FONT>増加します。\\n<FONT color='#909090'>ただし、戦場では適用されません。</FONT>"
   },
   "110001012|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001012_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001012_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "被撃時攻撃速度増加",
+    "tooltipDescription": "被撃時、一定確率で15秒間、攻撃速度が\\n<FONT color='#FFD200'>3%</FONT>増加します。\\n<FONT color='#909090'>ただし、戦場では適用されません。</FONT>"
   },
   "110001013|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001013_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001013_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "エリートモンスター被撃時ダメージ減少",
+    "tooltipDescription": "エリートモンスターから被撃された場合、受けるダメージが<FONT color='#FFD200'>6%</FONT>減少します。"
   },
   "110001014|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001014_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001014_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "フィールドボスモンスター討伐時ボーナス獲得",
+    "tooltipDescription": "フィールドボスモンスターを倒した場合、一定確率で報酬を<FONT color='#FFD200'>もう一度</FONT>獲得します。"
   },
   "110001015|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001015_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001015_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "闘技場勝利時、勇猛の証追加獲得",
+    "tooltipDescription": "闘技場で勝利したとき、一定確率で勇猛の証を<FONT color='#FFD200'>2倍</FONT>で獲得します。"
   },
   "110001016|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001016_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001016_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "ポーション使用時クールタイム減少",
+    "tooltipDescription": "ポーションの再使用クールタイムが<FONT color='#FFD200'>20%</FONT>減少します。"
   },
   "110001017|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001017_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001017_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "エリクサー使用時クールタイム減少",
+    "tooltipDescription": "エリクサーの再使用クールタイムが<FONT color='#FFD200'>20%</FONT>減少します。"
   },
   "110001018|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001018_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001018_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "乗り物移動速度増加",
+    "tooltipDescription": "乗り物に乗って移動するとき、移動速度が<FONT color='#FFD200'>10%</FONT>増加します。"
   },
   "110001019|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001019_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001019_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "黄金の宝箱から追加ボーナス獲得",
+    "tooltipDescription": "黄金の宝箱を開けたとき、一定確率でオニキス結晶を<FONT color='#FFD200'>999個</FONT>追加で獲得します。"
   },
   "110001020|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001020_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001020_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "木の宝箱から追加ボーナス獲得",
+    "tooltipDescription": "木の宝箱を開けたとき、一定確率で<FONT color='#FFD200'>100,000メル</FONT>を追加で獲得します。"
   },
   "110001021|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001021_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001021_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "デイリークエストで追加経験値獲得",
+    "tooltipDescription": "デイリークエスト完了時、一定確率で受け取る経験値が<FONT color='#FFD200'>5倍</FONT>になります。"
   },
   "110001022|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001022_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001022_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "デイリークエストで追加メル獲得",
+    "tooltipDescription": "デイリークエスト完了時、一定確率で受け取るメルが<FONT color='#FFD200'>5倍</FONT>になります。"
   },
   "110001023|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001023_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001023_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "デイリークエストで追加ルー獲得",
+    "tooltipDescription": "デイリークエスト完了時、一定確率で受け取るルーを<FONT color='#FFD200'>5倍</FONT>で受け取ります。"
   },
   "110001024|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001024_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001024_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "$item:30001133$からボーナス報酬獲得",
+    "tooltipDescription": "$item:30001133$を開けるとき、一定確率で<FONT color='#FFD200'>もう一度</FONT>箱を開けて報酬を受け取ります。\\n<FONT color='#909090'>追加で得た報酬は自動でインベントリに入り、\\nインベントリがいっぱいの場合は郵便で発送されます。</FONT>"
   },
   "110001025|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001025_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001025_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "楽譜演奏時、追加経験値獲得",
+    "tooltipDescription": "楽譜の演奏を完了したとき、一定確率で獲得経験値が<FONT color='#FFD200'>3倍</FONT>になります。"
   },
   "110001026|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001026_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001026_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "大都市で休息経験値獲得可能",
+    "tooltipDescription": "大都市に滞在しているときにも休息経験値を\\n得ることができます。\\n<FONT color='#909090'>大都市：トライア、エリニア、ペリオン、リス港、\\nヘネシス、カーニングシティ、タリスカー、ルデリーシティ、バベニ</FONT>"
   },
   "110001027|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001027_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001027_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "大物釣り時、経験値および熟練度獲得量増加",
+    "tooltipDescription": "大物を釣った場合、経験値および熟練度の獲得量が<FONT color='#FFD200'>2倍</FONT>になります。"
   },
   "110001028|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001028_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001028_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "エンチャント失敗時、フラクターの結晶追加獲得",
+    "tooltipDescription": "10段階以上エンチャントされたアイテムを11段階以上に\\nエンチャントを試みて失敗したとき、一定確率で\\nフラクターの結晶を<FONT color='#FFD200'>2倍</FONT>獲得します。\\n<FONT color='#909090'>報酬は自動でインベントリに入り、\\nインベントリがいっぱいの場合は郵便で発送されます。</FONT>"
   },
   "110001029|1-CharacterAbility-": {
-    "name": "KORADDITIONALDESCRIPTION_110001029_1_NAME:[F]CharacterAbility",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001029_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "name": "指輪製作大成功時、アイテム追加獲得",
+    "tooltipDescription": "指輪製作時に大成功した場合、一定確率で製作\\n結果物を<FONT color='#FFD200'>もう一つ</FONT>追加で獲得します。\\n<FONT color='#909090'>追加で得た報酬は自動でインベントリに入り、\\nインベントリがいっぱいの場合は郵便で発送されます。</FONT>"
   },
   "110001100|1-CharacterAbility-": {
     "name": "攻撃速度が3%増加",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_110001100_1_TOOLTIPDESCRIPTION:[F]CharacterAbility"
+    "tooltipDescription": "特性効果で攻撃速度が3%増加します。"
   },
   "110002001|1-Club-": {
     "name": "移動速度増加",
@@ -22483,107 +22483,107 @@
   },
   "11000312|1-JobChange_02-": {
     "name": "穴道開放EX 1段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000312_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自身のすべての穴道を巧みに操ります！\\n攻撃速度15%、物理攻撃力8%、物理/魔法抵抗力150増加"
   },
   "11000312|2-JobChange_02-": {
     "name": "穴道開放EX 1段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000312_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自身のすべての穴道を巧みに操ります！\\n攻撃速度15%、物理攻撃力12%、物理/魔法抵抗力150増加"
   },
   "11000312|3-JobChange_02-": {
     "name": "穴道開放EX 1段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000312_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自身のすべての穴道を巧みに操ります！\\n攻撃速度15%、物理攻撃力16%、物理/魔法抵抗力150増加"
   },
   "11000312|4-JobChange_02-": {
     "name": "穴道開放EX 1段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000312_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自身のすべての穴道を巧みに操ります！\\n攻撃速度15%、物理攻撃力20%、物理/魔法抵抗力150増加"
   },
   "11000312|5-JobChange_02-": {
     "name": "穴道開放EX 1段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000312_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自身のすべての穴道を巧みに操ります！\\n攻撃速度15%、物理攻撃力24%、物理/魔法抵抗力150増加"
   },
   "11000312|6-JobChange_02-": {
     "name": "穴道開放EX 1段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000312_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自身のすべての穴道を巧みに操ります！\\n攻撃速度15%、物理攻撃力28%、物理/魔法抵抗力150増加"
   },
   "11000312|7-JobChange_02-": {
     "name": "穴道開放EX 1段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000312_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自身のすべての穴道を巧みに操ります！\\n攻撃速度15%、物理攻撃力32%、物理/魔法抵抗力150増加"
   },
   "11000312|8-JobChange_02-": {
     "name": "穴道開放EX 1段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000312_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自身のすべての穴道を巧みに操ります！\\n攻撃速度15%、物理攻撃力36%、物理/魔法抵抗力150増加"
   },
   "11000312|9-JobChange_02-": {
     "name": "穴道開放EX 1段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000312_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自身のすべての穴道を巧みに操ります！\\n攻撃速度15%、物理攻撃力40%、物理/魔法抵抗力150増加"
   },
   "11000312|10-JobChange_02-": {
     "name": "穴道開放EX 1段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000312_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自身のすべての穴道を巧みに操ります！\\n攻撃速度15%、物理攻撃力44%、物理/魔法抵抗力150増加"
   },
   "11000312|11-JobChange_02-": {
     "name": "穴道開放EX 1段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000312_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自身のすべての穴道を巧みに操ります！\\n攻撃速度15%、物理攻撃力48%、物理/魔法抵抗力150増加"
   },
   "11000312|12-JobChange_02-": {
     "name": "穴道開放EX 1段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000312_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自身のすべての穴道を巧みに操ります！\\n攻撃速度15%、物理攻撃力52%、物理/魔法抵抗力150増加"
   },
   "11000315|1-JobChange_02-": {
     "name": "歪み1段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000315_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "体内の穴道の開放により、しばらくの間ねじれます。\\n30秒間、穴道開放EX、限界突破、パターンブレイク、闘魂再使用不可。"
   },
   "11000316|1-JobChange_02-": {
     "name": "穴道開放EX 2段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000316_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "すべての穴道を開放し、身体能力が爆発的に増加します！\\n攻撃速度20%、物理攻撃力12%、物理/魔法抵抗力225増加"
   },
   "11000316|2-JobChange_02-": {
     "name": "穴道開放EX 2段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000316_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "すべての穴道を開放し、身体能力が爆発的に増加します！\\n攻撃速度20%、物理攻撃力18%、物理/魔法抵抗力225増加"
   },
   "11000316|3-JobChange_02-": {
     "name": "穴道開放EX 2段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000316_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "すべての穴道を開放し、身体能力が爆発的に増加します！\\n攻撃速度20%、物理攻撃力24%、物理/魔法抵抗力225増加"
   },
   "11000316|4-JobChange_02-": {
     "name": "穴道開放EX 2段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000316_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "すべての穴道を開放し、身体能力が爆発的に増加します！\\n攻撃速度20%、物理攻撃力30%、物理/魔法抵抗力225増加"
   },
   "11000316|5-JobChange_02-": {
     "name": "穴道開放EX 2段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000316_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "すべての穴道を開放し、身体能力が爆発的に増加します！\\n攻撃速度20%、物理攻撃力36%、物理/魔法抵抗力225増加"
   },
   "11000316|6-JobChange_02-": {
     "name": "穴道開放EX 2段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000316_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "すべての穴道を開放し、身体能力が爆発的に増加します！\\n攻撃速度20%、物理攻撃力42%、物理/魔法抵抗力225増加"
   },
   "11000316|7-JobChange_02-": {
     "name": "穴道開放EX 2段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000316_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "すべての穴道を開放し、身体能力が爆発的に増加します！\\n攻撃速度20%、物理攻撃力48%、物理/魔法抵抗力225増加"
   },
   "11000316|8-JobChange_02-": {
     "name": "穴道開放EX 2段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000316_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "すべての穴道を開放し、身体能力が爆発的に増加します！\\n攻撃速度20%、物理攻撃力54%、物理/魔法抵抗力225増加"
   },
   "11000316|9-JobChange_02-": {
     "name": "穴道開放EX 2段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000316_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "すべての穴道を開放し、身体能力が爆発的に増加します！\\n攻撃速度20%、物理攻撃力60%、物理/魔法抵抗力225増加"
   },
   "11000316|10-JobChange_02-": {
     "name": "穴道開放EX 2段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000316_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "すべての穴道を開放し、身体能力が爆発的に増加します！\\n攻撃速度20%、物理攻撃力66%、物理/魔法抵抗力225増加"
   },
   "11000316|11-JobChange_02-": {
     "name": "穴道開放EX 2段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000316_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "すべての穴道を開放し、身体能力が爆発的に増加します！\\n攻撃速度20%、物理攻撃力72%、物理/魔法抵抗力225増加"
   },
   "11000316|12-JobChange_02-": {
     "name": "穴道開放EX 2段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000316_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "すべての穴道を開放し、身体能力が爆発的に増加します！\\n攻撃速度20%、物理攻撃力78%、物理/魔法抵抗力225増加"
   },
   "11000319|1-JobChange_02-": {
     "name": "歪み2段階",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11000319_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "体内の穴道の開放により、しばらくの間ねじれます。\\n40秒間、穴道開放EX、限界突破、パターンブレイク、闘魂再使用不可。"
   },
   "11100051|1-SoulBinder-": {
     "name": "イリュージョン",
@@ -23566,64 +23566,64 @@
     "tooltipDescription": "陰の生命エネルギーが生命を蝕みます。\\nクリティカル回避が240、回避が36減少\\nトライフォースリンク習得時、効果増幅"
   },
   "11100266|1-JobChange_02-": {
-    "name": "KORADDITIONALDESCRIPTION_11100266_1_NAME:[F]JobChange_02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11100266_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "name": "スピリットバーン",
+    "tooltipDescription": "体内のチャクラを利用したスピリットバーンが活性化されました。\\n最大5個まで生成。"
   },
   "11100269|1-JobChange_02-": {
-    "name": "KORADDITIONALDESCRIPTION_11100269_1_NAME:[F]JobChange_02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11100269_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "name": "消耗状態",
+    "tooltipDescription": "魂の消耗状態により、気を再び練り直します。\\n10秒間、スピリットバーン使用不可。"
   },
   "11100297|1-JobChange_02-": {
-    "name": "KORADDITIONALDESCRIPTION_11100297_1_NAME:[F]JobChange_02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11100297_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "name": "ビジョンスピリットバーン",
+    "tooltipDescription": "体内のチャクラとビジョンエネルギーを融合した新しいスピリットバーンが活性化されました。\\n最大5個まで自動生成。"
   },
   "11100311|1-JobChange_02-": {
     "name": "ソウルブレイク",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11100311_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "魂の渦に巻き込まれ、致命的な傷を負いました。\\n20秒間、被撃時、攻撃した対象者のスキルタイプに応じた追加ダメージ220%を与える。"
   },
   "11100311|2-JobChange_02-": {
     "name": "ソウルブレイク",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11100311_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "魂の渦に巻き込まれ、致命的な傷を負いました。\\n20秒間、被撃時、攻撃した対象者のスキルタイプに応じた追加ダメージ245%を与える。"
   },
   "11100311|3-JobChange_02-": {
     "name": "ソウルブレイク",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11100311_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "魂の渦に巻き込まれ、致命的な傷を負いました。\\n20秒間、被撃時、攻撃した対象者のスキルタイプに応じた追加ダメージ270%を与える。"
   },
   "11100311|4-JobChange_02-": {
     "name": "ソウルブレイク",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11100311_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "魂の渦に巻き込まれ、致命的な傷を負いました。\\n20秒間、被撃時、攻撃した対象者のスキルタイプに応じた追加ダメージ295%を与える。"
   },
   "11100311|5-JobChange_02-": {
     "name": "ソウルブレイク",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11100311_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "魂の渦に巻き込まれ、致命的な傷を負いました。\\n20秒間、被撃時、攻撃した対象者のスキルタイプに応じた追加ダメージ320%を与える。"
   },
   "11100311|6-JobChange_02-": {
     "name": "ソウルブレイク",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11100311_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "魂の渦に巻き込まれ、致命的な傷を負いました。\\n20秒間、被撃時、攻撃した対象者のスキルタイプに応じた追加ダメージ345%を与える。"
   },
   "11100311|7-JobChange_02-": {
     "name": "ソウルブレイク",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11100311_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "魂の渦に巻き込まれ、致命的な傷を負いました。\\n20秒間、被撃時、攻撃した対象者のスキルタイプに応じた追加ダメージ370%を与える。"
   },
   "11100311|8-JobChange_02-": {
     "name": "ソウルブレイク",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11100311_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "魂の渦に巻き込まれ、致命的な傷を負いました。\\n20秒間、被撃時、攻撃した対象者のスキルタイプに応じた追加ダメージ395%を与える。"
   },
   "11100311|9-JobChange_02-": {
     "name": "ソウルブレイク",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11100311_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "魂の渦に巻き込まれ、致命的な傷を負いました。\\n20秒間、被撃時、攻撃した対象者のスキルタイプに応じた追加ダメージ420%を与える。"
   },
   "11100311|10-JobChange_02-": {
     "name": "ソウルブレイク",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11100311_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "魂の渦に巻き込まれ、致命的な傷を負いました。\\n20秒間、被撃時、攻撃した対象者のスキルタイプに応じた追加ダメージ445%を与える。"
   },
   "11100311|11-JobChange_02-": {
     "name": "ソウルブレイク",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11100311_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "魂の渦に巻き込まれ、致命的な傷を負いました。\\n20秒間、被撃時、攻撃した対象者のスキルタイプに応じた追加ダメージ470%を与える。"
   },
   "11100311|12-JobChange_02-": {
     "name": "ソウルブレイク",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_11100311_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "魂の渦に巻き込まれ、致命的な傷を負いました。\\n20秒間、被撃時、攻撃した対象者のスキルタイプに応じた追加ダメージ495%を与える。"
   },
   "10200032|1--": {
     "name": "闇のオーラ",
@@ -24546,24 +24546,24 @@
     "tooltipDescription": "重複あたり1秒ごとに118%のダメージ"
   },
   "10200265|1-JobChange_02-": {
-    "name": "KORADDITIONALDESCRIPTION_10200265_1_NAME:[F]JobChange_02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10200265_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "name": "孤軍奮闘 1段階",
+    "tooltipDescription": "防御力2%、物理攻撃力3.5%増加"
   },
   "10200265|2-JobChange_02-": {
-    "name": "KORADDITIONALDESCRIPTION_10200265_2_NAME:[F]JobChange_02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10200265_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "name": "孤軍奮闘 2段階",
+    "tooltipDescription": "防御力4%、物理攻撃力7%増加"
   },
   "10200265|3-JobChange_02-": {
-    "name": "KORADDITIONALDESCRIPTION_10200265_3_NAME:[F]JobChange_02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10200265_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "name": "孤軍奮闘 3段階",
+    "tooltipDescription": "防御力6%、物理攻撃力10.5%増加"
   },
   "10200265|4-JobChange_02-": {
-    "name": "KORADDITIONALDESCRIPTION_10200265_4_NAME:[F]JobChange_02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10200265_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "name": "孤軍奮闘 4段階",
+    "tooltipDescription": "防御力8%、物理攻撃力14%増加"
   },
   "10200265|5-JobChange_02-": {
-    "name": "KORADDITIONALDESCRIPTION_10200265_5_NAME:[F]JobChange_02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10200265_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "name": "孤軍奮闘 5段階",
+    "tooltipDescription": "防御力10%、物理攻撃力17.5%増加"
   },
   "10200271|1-JobChange_02-": {
     "name": "急所打撃",
@@ -25783,199 +25783,199 @@
   },
   "10300271|1-JobChange_02-": {
     "name": "ハリケーン北上中！",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300271_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒232%の範囲ダメージ\\n毎秒、重複ごとに93%ダメージ\\n霜獲得時、重複増加"
   },
   "10300271|2-JobChange_02-": {
     "name": "ハリケーン北上中！",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300271_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒258%の範囲ダメージ\\n毎秒、重複ごとに104%ダメージ\\n霜獲得時、重複増加"
   },
   "10300271|3-JobChange_02-": {
     "name": "ハリケーン北上中！",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300271_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒284%の範囲ダメージ\\n毎秒、重複ごとに115%ダメージ\\n霜獲得時、重複増加"
   },
   "10300271|4-JobChange_02-": {
     "name": "ハリケーン北上中！",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300271_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒310%の範囲ダメージ\\n毎秒、重複ごとに126%ダメージ\\n霜獲得時、重複増加"
   },
   "10300271|5-JobChange_02-": {
     "name": "ハリケーン北上中！",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300271_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒336%の範囲ダメージ\\n毎秒、重複ごとに137%ダメージ\\n霜獲得時、重複増加"
   },
   "10300271|6-JobChange_02-": {
     "name": "ハリケーン北上中！",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300271_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒362%の範囲ダメージ\\n毎秒、重複ごとに148%ダメージ\\n霜獲得時、重複増加"
   },
   "10300271|7-JobChange_02-": {
     "name": "ハリケーン北上中！",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300271_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒388%の範囲ダメージ\\n毎秒、重複ごとに159%ダメージ\\n霜獲得時、重複増加"
   },
   "10300271|8-JobChange_02-": {
     "name": "ハリケーン北上中！",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300271_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒414%の範囲ダメージ\\n毎秒、重複ごとに170%ダメージ\\n霜獲得時、重複増加"
   },
   "10300271|9-JobChange_02-": {
     "name": "ハリケーン北上中！",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300271_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒440%の範囲ダメージ\\n毎秒、重複ごとに181%ダメージ\\n霜獲得時、重複増加"
   },
   "10300271|10-JobChange_02-": {
     "name": "ハリケーン北上中！",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300271_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒466%の範囲ダメージ\\n毎秒、重複ごとに192%ダメージ\\n霜獲得時、重複増加"
   },
   "10300271|11-JobChange_02-": {
     "name": "ハリケーン北上中！",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300271_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒492%の範囲ダメージ\\n毎秒、重複ごとに203%ダメージ\\n霜獲得時、重複増加"
   },
   "10300271|12-JobChange_02-": {
     "name": "ハリケーン北上中！",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300271_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒518%の範囲ダメージ\\n毎秒、重複ごとに214%ダメージ\\n霜獲得時、重複増加"
   },
   "10300275|1-JobChange_02-": {
     "name": "竜巻",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300275_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "0.5秒ごとに355%の範囲ダメージ"
   },
   "10300275|2-JobChange_02-": {
     "name": "竜巻",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300275_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "0.5秒ごとに396%の範囲ダメージ"
   },
   "10300275|3-JobChange_02-": {
     "name": "竜巻",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300275_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "0.5秒ごとに437%の範囲ダメージ"
   },
   "10300275|4-JobChange_02-": {
     "name": "竜巻",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300275_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "0.5秒ごとに478%の範囲ダメージ"
   },
   "10300275|5-JobChange_02-": {
     "name": "竜巻",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300275_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "0.5秒ごとに519%の範囲ダメージ"
   },
   "10300275|6-JobChange_02-": {
     "name": "竜巻",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300275_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "0.5秒ごとに560%の範囲ダメージ"
   },
   "10300275|7-JobChange_02-": {
     "name": "竜巻",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300275_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "0.5秒ごとに601%の範囲ダメージ"
   },
   "10300275|8-JobChange_02-": {
     "name": "竜巻",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300275_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "0.5秒ごとに642%の範囲ダメージ"
   },
   "10300275|9-JobChange_02-": {
     "name": "竜巻",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300275_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "0.5秒ごとに683%の範囲ダメージ"
   },
   "10300275|10-JobChange_02-": {
     "name": "竜巻",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300275_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "0.5秒ごとに724%の範囲ダメージ"
   },
   "10300275|11-JobChange_02-": {
     "name": "竜巻",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300275_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "0.5秒ごとに765%の範囲ダメージ"
   },
   "10300275|12-JobChange_02-": {
     "name": "竜巻",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300275_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "0.5秒ごとに806%の範囲ダメージ"
   },
   "10300283|1-JobChange_02-": {
-    "name": "KORADDITIONALDESCRIPTION_10300283_1_NAME:[F]JobChange_02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300283_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "name": "消火",
+    "tooltipDescription": "完全燃焼使用不可"
   },
   "10300285|1-JobChange_02-": {
     "name": "完全燃焼",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300285_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎攻撃力22%増加\\nエネルギーエクスプロージョン強化"
   },
   "10300285|2-JobChange_02-": {
     "name": "完全燃焼",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300285_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎攻撃力30%増加\\nエネルギーエクスプロージョン強化"
   },
   "10300285|3-JobChange_02-": {
     "name": "完全燃焼",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300285_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎攻撃力38%増加\\nエネルギーエクスプロージョン強化"
   },
   "10300285|4-JobChange_02-": {
     "name": "完全燃焼",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300285_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎攻撃力46%増加\\nエネルギーエクスプロージョン強化"
   },
   "10300285|5-JobChange_02-": {
     "name": "完全燃焼",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300285_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎攻撃力54%増加\\nエネルギーエクスプロージョン強化"
   },
   "10300285|6-JobChange_02-": {
     "name": "完全燃焼",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300285_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎攻撃力62%増加\\nエネルギーエクスプロージョン強化"
   },
   "10300285|7-JobChange_02-": {
     "name": "完全燃焼",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300285_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎攻撃力70%増加\\nエネルギーエクスプロージョン強化"
   },
   "10300285|8-JobChange_02-": {
     "name": "完全燃焼",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300285_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎攻撃力78%増加\\nエネルギーエクスプロージョン強化"
   },
   "10300285|9-JobChange_02-": {
     "name": "完全燃焼",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300285_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎攻撃力86%増加\\nエネルギーエクスプロージョン強化"
   },
   "10300285|10-JobChange_02-": {
     "name": "完全燃焼",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300285_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎攻撃力94%増加\\nエネルギーエクスプロージョン強化"
   },
   "10300285|11-JobChange_02-": {
     "name": "完全燃焼",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300285_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎攻撃力102%増加\\nエネルギーエクスプロージョン強化"
   },
   "10300285|12-JobChange_02-": {
     "name": "完全燃焼",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300285_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎攻撃力110%増加\\nエネルギーエクスプロージョン強化"
   },
   "10300292|1-JobChange_02-": {
     "name": "荒れ狂う炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300292_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒128%ダメージ\\n10%の確率で爆発"
   },
   "10300292|2-JobChange_02-": {
     "name": "荒れ狂う炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300292_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒142%ダメージ\\n10%の確率で爆発"
   },
   "10300292|3-JobChange_02-": {
     "name": "荒れ狂う炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300292_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒156%ダメージ\\n10%の確率で爆発"
   },
   "10300292|4-JobChange_02-": {
     "name": "荒れ狂う炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300292_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒170%ダメージ\\n10%の確率で爆発"
   },
   "10300292|5-JobChange_02-": {
     "name": "荒れ狂う炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300292_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒184%ダメージ\\n10%の確率で爆発"
   },
   "10300292|6-JobChange_02-": {
     "name": "荒れ狂う炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300292_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒198%ダメージ\\n10%の確率で爆発"
   },
   "10300292|7-JobChange_02-": {
     "name": "荒れ狂う炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300292_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒212%ダメージ\\n10%の確率で爆発"
   },
   "10300292|8-JobChange_02-": {
     "name": "荒れ狂う炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300292_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒226%ダメージ\\n10%の確率で爆発"
   },
   "10300292|9-JobChange_02-": {
     "name": "荒れ狂う炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300292_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒240%ダメージ\\n10%の確率で爆発"
   },
   "10300292|10-JobChange_02-": {
     "name": "荒れ狂う炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300292_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒254%ダメージ\\n10%の確率で爆発"
   },
   "10300292|11-JobChange_02-": {
     "name": "荒れ狂う炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300292_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒268%ダメージ\\n10%の確率で爆発"
   },
   "10300292|12-JobChange_02-": {
     "name": "荒れ狂う炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10300292_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "毎秒282%ダメージ\\n10%の確率で爆発"
   },
   "10400001|1--": {
     "name": "天上の光",
@@ -26507,147 +26507,147 @@
   },
   "10400271|1-JobChange_02-": {
     "name": "神の十字架",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400271_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度1%、魔法攻撃力2%増加"
   },
   "10400271|2-JobChange_02-": {
     "name": "神の十字架",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400271_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度2%、魔法攻撃力4%増加"
   },
   "10400271|3-JobChange_02-": {
     "name": "神の十字架",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400271_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度3%、魔法攻撃力6%増加"
   },
   "10400271|4-JobChange_02-": {
     "name": "神の十字架",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400271_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度4%、魔法攻撃力8%増加"
   },
   "10400271|5-JobChange_02-": {
     "name": "神の十字架",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400271_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度5%、魔法攻撃力10%増加"
   },
   "10400271|6-JobChange_02-": {
     "name": "神の十字架",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400271_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度6%、魔法攻撃力12%増加"
   },
   "10400271|7-JobChange_02-": {
     "name": "神の十字架",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400271_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度7%、魔法攻撃力14%増加"
   },
   "10400271|8-JobChange_02-": {
     "name": "神の十字架",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400271_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度8%、魔法攻撃力16%増加"
   },
   "10400271|9-JobChange_02-": {
     "name": "神の十字架",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400271_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度9%、魔法攻撃力18%増加"
   },
   "10400271|10-JobChange_02-": {
     "name": "神の十字架",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400271_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度10%、魔法攻撃力20%増加"
   },
   "10400271|11-JobChange_02-": {
     "name": "神の十字架",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400271_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度11%、魔法攻撃力22%増加"
   },
   "10400271|12-JobChange_02-": {
     "name": "神の十字架",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400271_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度12%、魔法攻撃力24%増加"
   },
   "10400301|1-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400301_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度2%、攻撃速度1%、物理/魔法抵抗力40増加"
   },
   "10400301|2-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400301_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度4%、攻撃速度2%、物理/魔法抵抗力60増加"
   },
   "10400301|3-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400301_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度6%、攻撃速度3%、物理/魔法抵抗力80増加"
   },
   "10400301|4-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400301_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度8%、攻撃速度4%、物理/魔法抵抗力100増加"
   },
   "10400301|5-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400301_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度10%、攻撃速度5%、物理/魔法抵抗力120増加"
   },
   "10400301|6-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400301_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度12%、攻撃速度6%、物理/魔法抵抗力140増加"
   },
   "10400301|7-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400301_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度14%、攻撃速度7%、物理/魔法抵抗力160増加"
   },
   "10400301|8-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400301_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度16%、攻撃速度8%、物理/魔法抵抗力180増加"
   },
   "10400301|9-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400301_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度18%、攻撃速度9%、物理/魔法抵抗力200増加"
   },
   "10400301|10-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400301_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度20%、攻撃速度10%、物理/魔法抵抗力220増加"
   },
   "10400301|11-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400301_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度22%、攻撃速度11%、物理/魔法抵抗力240増加"
   },
   "10400301|12-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400301_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度24%、攻撃速度12%、物理/魔法抵抗力260増加"
   },
   "10400302|1-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400302_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度2%、攻撃速度1%、物理/魔法抵抗力40増加"
   },
   "10400302|2-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400302_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度4%、攻撃速度2%、物理/魔法抵抗力60増加"
   },
   "10400302|3-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400302_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度6%、攻撃速度3%、物理/魔法抵抗力80増加"
   },
   "10400302|4-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400302_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度8%、攻撃速度4%、物理/魔法抵抗力100増加"
   },
   "10400302|5-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400302_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度10%、攻撃速度5%、物理/魔法抵抗力120増加"
   },
   "10400302|6-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400302_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度12%、攻撃速度6%、物理/魔法抵抗力140増加"
   },
   "10400302|7-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400302_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度14%、攻撃速度7%、物理/魔法抵抗力160増加"
   },
   "10400302|8-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400302_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度16%、攻撃速度8%、物理/魔法抵抗力180増加"
   },
   "10400302|9-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400302_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度18%、攻撃速度9%、物理/魔法抵抗力200増加"
   },
   "10400302|10-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400302_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度20%、攻撃速度10%、物理/魔法抵抗力220増加"
   },
   "10400302|11-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400302_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度22%、攻撃速度11%、物理/魔法抵抗力240増加"
   },
   "10400302|12-JobChange_02-": {
     "name": "神聖な力",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10400302_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "移動速度24%、攻撃速度12%、物理/魔法抵抗力260増加"
   },
   "10500031|1--": {
     "name": "アイスアロー",
@@ -26899,51 +26899,51 @@
   },
   "10500093|1-JobChange_02-": {
     "name": "フェニックススピリット",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500093_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "神秘的なフェニックスの精気が全身を流れます。\\n毎秒SP3回復\\n攻撃命中時、フェニックス支援攻撃発動"
   },
   "10500093|2-JobChange_02-": {
     "name": "フェニックススピリット",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500093_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "神秘的なフェニックスの精気が全身を流れます。\\n毎秒SP4回復\\n攻撃命中時、フェニックス支援攻撃発動"
   },
   "10500093|3-JobChange_02-": {
     "name": "フェニックススピリット",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500093_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "神秘的なフェニックスの精気が全身を流れます。\\n毎秒SP5回復\\n攻撃命中時、フェニックス支援攻撃発動"
   },
   "10500093|4-JobChange_02-": {
     "name": "フェニックススピリット",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500093_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "神秘的なフェニックスの精気が全身を流れます。\\n毎秒SP6回復\\n攻撃命中時、フェニックス支援攻撃発動"
   },
   "10500093|5-JobChange_02-": {
     "name": "フェニックススピリット",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500093_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "神秘的なフェニックスの精気が全身を流れます。\\n毎秒SP7回復\\n攻撃命中時、フェニックス支援攻撃発動"
   },
   "10500093|6-JobChange_02-": {
     "name": "フェニックススピリット",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500093_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "神秘的なフェニックスの精気が全身を流れます。\\n毎秒SP8回復\\n攻撃命中時、フェニックス支援攻撃発動"
   },
   "10500093|7-JobChange_02-": {
     "name": "フェニックススピリット",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500093_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "神秘的なフェニックスの精気が全身を流れます。\\n毎秒SP9回復\\n攻撃命中時、フェニックス支援攻撃発動"
   },
   "10500093|8-JobChange_02-": {
     "name": "フェニックススピリット",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500093_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "神秘的なフェニックスの精気が全身を流れます。\\n毎秒SP10回復\\n攻撃命中時、フェニックス支援攻撃発動"
   },
   "10500093|9-JobChange_02-": {
     "name": "フェニックススピリット",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500093_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "神秘的なフェニックスの精気が全身を流れます。\\n毎秒SP11回復\\n攻撃命中時、フェニックス支援攻撃発動"
   },
   "10500093|10-JobChange_02-": {
     "name": "フェニックススピリット",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500093_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "神秘的なフェニックスの精気が全身を流れます。\\n毎秒SP12回復\\n攻撃命中時、フェニックス支援攻撃発動"
   },
   "10500093|11-JobChange_02-": {
     "name": "フェニックススピリット",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500093_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "神秘的なフェニックスの精気が全身を流れます。\\n毎秒SP13回復\\n攻撃命中時、フェニックス支援攻撃発動"
   },
   "10500093|12-JobChange_02-": {
     "name": "フェニックススピリット",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500093_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "神秘的なフェニックスの精気が全身を流れます。\\n毎秒SP14回復\\n攻撃命中時、フェニックス支援攻撃発動"
   },
   "10500111|1--": {
     "name": "スナイプ",
@@ -27199,343 +27199,343 @@
   },
   "10500261|1-JobChange_02-": {
     "name": "焦熱の炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500261_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスの超高熱の炎が敵を焼き尽くします。\\n10秒間、毎秒202%の持続ダメージ"
   },
   "10500261|2-JobChange_02-": {
     "name": "焦熱の炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500261_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスの超高熱の炎が敵を焼き尽くします。\\n10秒間、毎秒222%の持続ダメージ"
   },
   "10500261|3-JobChange_02-": {
     "name": "焦熱の炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500261_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスの超高熱の炎が敵を焼き尽くします。\\n10秒間、毎秒242%の持続ダメージ"
   },
   "10500261|4-JobChange_02-": {
     "name": "焦熱の炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500261_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスの超高熱の炎が敵を焼き尽くします。\\n10秒間、毎秒262%の持続ダメージ"
   },
   "10500261|5-JobChange_02-": {
     "name": "焦熱の炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500261_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスの超高熱の炎が敵を焼き尽くします。\\n10秒間、毎秒282%の持続ダメージ"
   },
   "10500261|6-JobChange_02-": {
     "name": "焦熱の炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500261_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスの超高熱の炎が敵を焼き尽くします。\\n10秒間、毎秒302%の持続ダメージ"
   },
   "10500261|7-JobChange_02-": {
     "name": "焦熱の炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500261_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスの超高熱の炎が敵を焼き尽くします。\\n10秒間、毎秒322%の持続ダメージ"
   },
   "10500261|8-JobChange_02-": {
     "name": "焦熱の炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500261_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスの超高熱の炎が敵を焼き尽くします。\\n10秒間、毎秒342%の持続ダメージ"
   },
   "10500261|9-JobChange_02-": {
     "name": "焦熱の炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500261_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスの超高熱の炎が敵を焼き尽くします。\\n10秒間、毎秒362%の持続ダメージ"
   },
   "10500261|10-JobChange_02-": {
     "name": "焦熱の炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500261_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスの超高熱の炎が敵を焼き尽くします。\\n10秒間、毎秒382%の持続ダメージ"
   },
   "10500261|11-JobChange_02-": {
     "name": "焦熱の炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500261_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスの超高熱の炎が敵を焼き尽くします。\\n10秒間、毎秒402%の持続ダメージ"
   },
   "10500261|12-JobChange_02-": {
     "name": "焦熱の炎",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500261_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスの超高熱の炎が敵を焼き尽くします。\\n10秒間、毎秒422%の持続ダメージ"
   },
   "10500272|1-JobChange_02-": {
     "name": "フェニックスフォーム",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500272_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスが戦闘を支援します。\\nクリティカル命中10増加\\n物理ダメージ7%増加\\nDEX3%増加"
   },
   "10500272|2-JobChange_02-": {
     "name": "フェニックスフォーム",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500272_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスが戦闘を支援します。\\nクリティカル命中20増加\\n物理ダメージ9%増加\\nDEX4.5%増加"
   },
   "10500272|3-JobChange_02-": {
     "name": "フェニックスフォーム",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500272_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスが戦闘を支援します。\\nクリティカル命中30増加\\n物理ダメージ11%増加\\nDEX6%増加"
   },
   "10500272|4-JobChange_02-": {
     "name": "フェニックスフォーム",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500272_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスが戦闘を支援します。\\nクリティカル命中40増加\\n物理ダメージ13%増加\\nDEX7.5%増加"
   },
   "10500272|5-JobChange_02-": {
     "name": "フェニックスフォーム",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500272_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスが戦闘を支援します。\\nクリティカル命中50増加\\n物理ダメージ15%増加\\nDEX9%増加"
   },
   "10500272|6-JobChange_02-": {
     "name": "フェニックスフォーム",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500272_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスが戦闘を支援します。\\nクリティカル命中60増加\\n物理ダメージ17%増加\\nDEX10.5%増加"
   },
   "10500272|7-JobChange_02-": {
     "name": "フェニックスフォーム",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500272_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスが戦闘を支援します。\\nクリティカル命中70増加\\n物理ダメージ19%増加\\nDEX12%増加"
   },
   "10500272|8-JobChange_02-": {
     "name": "フェニックスフォーム",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500272_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスが戦闘を支援します。\\nクリティカル命中80増加\\n物理ダメージ21%増加\\nDEX13.5%増加"
   },
   "10500272|9-JobChange_02-": {
     "name": "フェニックスフォーム",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500272_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスが戦闘を支援します。\\nクリティカル命中90増加\\n物理ダメージ23%増加\\nDEX15%増加"
   },
   "10500272|10-JobChange_02-": {
     "name": "フェニックスフォーム",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500272_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスが戦闘を支援します。\\nクリティカル命中100増加\\n物理ダメージ25%増加\\nDEX16.5%増加"
   },
   "10500272|11-JobChange_02-": {
     "name": "フェニックスフォーム",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500272_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスが戦闘を支援します。\\nクリティカル命中110増加\\n物理ダメージ27%増加\\nDEX18%増加"
   },
   "10500272|12-JobChange_02-": {
     "name": "フェニックスフォーム",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500272_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "フェニックスが戦闘を支援します。\\nクリティカル命中120増加\\n物理ダメージ29%増加\\nDEX19.5%増加"
   },
   "10500281|1-JobChange_02-": {
     "name": "弱点看破",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500281_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "鋭い攻撃によって弱点がさらされます。\\n10秒間、詠唱者から被撃時、456%の追加ダメージ"
   },
   "10500281|2-JobChange_02-": {
     "name": "弱点看破",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500281_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "鋭い攻撃によって弱点がさらされます。\\n10秒間、詠唱者から被撃時、497%の追加ダメージ"
   },
   "10500281|3-JobChange_02-": {
     "name": "弱点看破",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500281_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "鋭い攻撃によって弱点がさらされます。\\n10秒間、詠唱者から被撃時、538%の追加ダメージ"
   },
   "10500281|4-JobChange_02-": {
     "name": "弱点看破",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500281_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "鋭い攻撃によって弱点がさらされます。\\n10秒間、詠唱者から被撃時、579%の追加ダメージ"
   },
   "10500281|5-JobChange_02-": {
     "name": "弱点看破",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500281_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "鋭い攻撃によって弱点がさらされます。\\n10秒間、詠唱者から被撃時、620%の追加ダメージ"
   },
   "10500281|6-JobChange_02-": {
     "name": "弱点看破",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500281_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "鋭い攻撃によって弱点がさらされます。\\n10秒間、詠唱者から被撃時、661%の追加ダメージ"
   },
   "10500281|7-JobChange_02-": {
     "name": "弱点看破",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500281_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "鋭い攻撃によって弱点がさらされます。\\n10秒間、詠唱者から被撃時、702%の追加ダメージ"
   },
   "10500281|8-JobChange_02-": {
     "name": "弱点看破",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500281_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "鋭い攻撃によって弱点がさらされます。\\n10秒間、詠唱者から被撃時、743%の追加ダメージ"
   },
   "10500281|9-JobChange_02-": {
     "name": "弱点看破",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500281_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "鋭い攻撃によって弱点がさらされます。\\n10秒間、詠唱者から被撃時、784%の追加ダメージ"
   },
   "10500281|10-JobChange_02-": {
     "name": "弱点看破",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500281_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "鋭い攻撃によって弱点がさらされます。\\n10秒間、詠唱者から被撃時、825%の追加ダメージ"
   },
   "10500281|11-JobChange_02-": {
     "name": "弱点看破",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500281_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "鋭い攻撃によって弱点がさらされます。\\n10秒間、詠唱者から被撃時、866%の追加ダメージ"
   },
   "10500281|12-JobChange_02-": {
     "name": "弱点看破",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500281_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "鋭い攻撃によって弱点がさらされます。\\n10秒間、詠唱者から被撃時、907%の追加ダメージ"
   },
   "10500291|1-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500291_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力2%増加"
   },
   "10500291|2-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500291_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力4%増加"
   },
   "10500291|3-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500291_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力6%増加"
   },
   "10500291|4-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500291_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力8%増加"
   },
   "10500291|5-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500291_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力10%増加"
   },
   "10500291|6-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500291_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力12%増加"
   },
   "10500291|7-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500291_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力14%増加"
   },
   "10500291|8-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500291_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力16%増加"
   },
   "10500291|9-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500291_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力18%増加"
   },
   "10500291|10-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500291_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力20%増加"
   },
   "10500291|11-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500291_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力22%増加"
   },
   "10500291|12-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500291_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力24%増加"
   },
   "10500293|1-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500293_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力16%増加"
   },
   "10500293|2-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500293_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力22%増加"
   },
   "10500293|3-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500293_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力28%増加"
   },
   "10500293|4-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500293_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力34%増加"
   },
   "10500293|5-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500293_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力40%増加"
   },
   "10500293|6-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500293_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力46%増加"
   },
   "10500293|7-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500293_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力52%増加"
   },
   "10500293|8-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500293_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力58%増加"
   },
   "10500293|9-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500293_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力64%増加"
   },
   "10500293|10-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500293_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力70%増加"
   },
   "10500293|11-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500293_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力76%増加"
   },
   "10500293|12-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500293_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力82%増加"
   },
   "10500295|1-JobChange_02-": {
-    "name": "KORADDITIONALDESCRIPTION_10500295_1_NAME:[F]JobChange_02",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500295_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "name": "休憩時間",
+    "tooltipDescription": "イーグルスクワッドが休憩を取っています。\\n100秒間、イーグルスクワッド、キャプテンイーグル効果免疫"
   },
   "10500296|1-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500296_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力16%増加"
   },
   "10500296|2-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500296_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力22%増加"
   },
   "10500296|3-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500296_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力28%増加"
   },
   "10500296|4-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500296_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力34%増加"
   },
   "10500296|5-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500296_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力40%増加"
   },
   "10500296|6-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500296_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力46%増加"
   },
   "10500296|7-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500296_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力52%増加"
   },
   "10500296|8-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500296_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力58%増加"
   },
   "10500296|9-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500296_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力64%増加"
   },
   "10500296|10-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500296_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力70%増加"
   },
   "10500296|11-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500296_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力76%増加"
   },
   "10500296|12-JobChange_02-": {
     "name": "キャプテンイーグル",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500296_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "キャプテンイーグルの指揮を受けます！\\n40秒間、物理攻撃力82%増加"
   },
   "10500298|1-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500298_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力2%増加"
   },
   "10500298|2-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500298_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力4%増加"
   },
   "10500298|3-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500298_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力6%増加"
   },
   "10500298|4-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500298_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力8%増加"
   },
   "10500298|5-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500298_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力10%増加"
   },
   "10500298|6-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500298_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力12%増加"
   },
   "10500298|7-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500298_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力14%増加"
   },
   "10500298|8-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500298_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力16%増加"
   },
   "10500298|9-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500298_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力18%増加"
   },
   "10500298|10-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500298_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力20%増加"
   },
   "10500298|11-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500298_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力22%増加"
   },
   "10500298|12-JobChange_02-": {
     "name": "イーグルスクワッド",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10500298_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "イーグルスクワッドの増援を受けます！\\n40秒間、物理、魔法攻撃力24%増加"
   },
   "10600052|1--": {
     "name": "グレネード",
@@ -27787,51 +27787,51 @@
   },
   "10600271|1-JobChange_02-": {
     "name": "ポータブルアーマリー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600271_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自動で弾薬が補給されます\\n毎秒SP20回復\\nプラズマ系列スキルダメージ6%増加"
   },
   "10600271|2-JobChange_02-": {
     "name": "ポータブルアーマリー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600271_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自動で弾薬が補給されます\\n毎秒SP20回復\\nプラズマ系列スキルダメージ12%増加"
   },
   "10600271|3-JobChange_02-": {
     "name": "ポータブルアーマリー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600271_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自動で弾薬が補給されます\\n毎秒SP20回復\\nプラズマ系列スキルダメージ18%増加"
   },
   "10600271|4-JobChange_02-": {
     "name": "ポータブルアーマリー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600271_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自動で弾薬が補給されます\\n毎秒SP20回復\\nプラズマ系列スキルダメージ24%増加"
   },
   "10600271|5-JobChange_02-": {
     "name": "ポータブルアーマリー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600271_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自動で弾薬が補給されます\\n毎秒SP20回復\\nプラズマ系列スキルダメージ30%増加"
   },
   "10600271|6-JobChange_02-": {
     "name": "ポータブルアーマリー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600271_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自動で弾薬が補給されます\\n毎秒SP20回復\\nプラズマ系列スキルダメージ36%増加"
   },
   "10600271|7-JobChange_02-": {
     "name": "ポータブルアーマリー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600271_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自動で弾薬が補給されます\\n毎秒SP20回復\\nプラズマ系列スキルダメージ42%増加"
   },
   "10600271|8-JobChange_02-": {
     "name": "ポータブルアーマリー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600271_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自動で弾薬が補給されます\\n毎秒SP20回復\\nプラズマ系列スキルダメージ48%増加"
   },
   "10600271|9-JobChange_02-": {
     "name": "ポータブルアーマリー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600271_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自動で弾薬が補給されます\\n毎秒SP20回復\\nプラズマ系列スキルダメージ54%増加"
   },
   "10600271|10-JobChange_02-": {
     "name": "ポータブルアーマリー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600271_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自動で弾薬が補給されます\\n毎秒SP20回復\\nプラズマ系列スキルダメージ60%増加"
   },
   "10600271|11-JobChange_02-": {
     "name": "ポータブルアーマリー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600271_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自動で弾薬が補給されます\\n毎秒SP20回復\\nプラズマ系列スキルダメージ66%増加"
   },
   "10600271|12-JobChange_02-": {
     "name": "ポータブルアーマリー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600271_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "自動で弾薬が補給されます\\n毎秒SP20回復\\nプラズマ系列スキルダメージ72%増加"
   },
   "10600281|1-JobChange_02-": {
     "name": "スティッキーモンスター",
@@ -27883,99 +27883,99 @@
   },
   "10600288|1-JobChange_02-": {
     "name": "火炎放射",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600288_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "熱い火炎が放出されます！\\n放出のたびに233%の火炎ダメージ"
   },
   "10600288|2-JobChange_02-": {
     "name": "火炎放射",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600288_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "熱い火炎が放出されます！\\n放出のたびに260%の火炎ダメージ"
   },
   "10600288|3-JobChange_02-": {
     "name": "火炎放射",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600288_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "熱い火炎が放出されます！\\n放出のたびに287%の火炎ダメージ"
   },
   "10600288|4-JobChange_02-": {
     "name": "火炎放射",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600288_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "熱い火炎が放出されます！\\n放出のたびに314%の火炎ダメージ"
   },
   "10600288|5-JobChange_02-": {
     "name": "火炎放射",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600288_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "熱い火炎が放出されます！\\n放出のたびに341%の火炎ダメージ"
   },
   "10600288|6-JobChange_02-": {
     "name": "火炎放射",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600288_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "熱い火炎が放出されます！\\n放出のたびに368%の火炎ダメージ"
   },
   "10600288|7-JobChange_02-": {
     "name": "火炎放射",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600288_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "熱い火炎が放出されます！\\n放出のたびに395%の火炎ダメージ"
   },
   "10600288|8-JobChange_02-": {
     "name": "火炎放射",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600288_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "熱い火炎が放出されます！\\n放出のたびに422%の火炎ダメージ"
   },
   "10600288|9-JobChange_02-": {
     "name": "火炎放射",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600288_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "熱い火炎が放出されます！\\n放出のたびに449%の火炎ダメージ"
   },
   "10600288|10-JobChange_02-": {
     "name": "火炎放射",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600288_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "熱い火炎が放出されます！\\n放出のたびに476%の火炎ダメージ"
   },
   "10600288|11-JobChange_02-": {
     "name": "火炎放射",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600288_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "熱い火炎が放出されます！\\n放出のたびに503%の火炎ダメージ"
   },
   "10600288|12-JobChange_02-": {
     "name": "火炎放射",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600288_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "熱い火炎が放出されます！\\n放出のたびに530%の火炎ダメージ"
   },
   "10600291|1-JobChange_02-": {
     "name": "ガス中毒",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600291_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "強力な毒ガスにさらされました！\\n毎秒785%の毒ダメージ"
   },
   "10600291|2-JobChange_02-": {
     "name": "ガス中毒",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600291_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "強力な毒ガスにさらされました！\\n毎秒875%の毒ダメージ"
   },
   "10600291|3-JobChange_02-": {
     "name": "ガス中毒",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600291_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "強力な毒ガスにさらされました！\\n毎秒965%の毒ダメージ"
   },
   "10600291|4-JobChange_02-": {
     "name": "ガス中毒",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600291_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "強力な毒ガスにさらされました！\\n毎秒1055%の毒ダメージ"
   },
   "10600291|5-JobChange_02-": {
     "name": "ガス中毒",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600291_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "強力な毒ガスにさらされました！\\n毎秒1145%の毒ダメージ"
   },
   "10600291|6-JobChange_02-": {
     "name": "ガス中毒",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600291_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "強力な毒ガスにさらされました！\\n毎秒1235%の毒ダメージ"
   },
   "10600291|7-JobChange_02-": {
     "name": "ガス中毒",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600291_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "強力な毒ガスにさらされました！\\n毎秒1325%の毒ダメージ"
   },
   "10600291|8-JobChange_02-": {
     "name": "ガス中毒",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600291_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "強力な毒ガスにさらされました！\\n毎秒1415%の毒ダメージ"
   },
   "10600291|9-JobChange_02-": {
     "name": "ガス中毒",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600291_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "強力な毒ガスにさらされました！\\n毎秒1505%の毒ダメージ"
   },
   "10600291|10-JobChange_02-": {
     "name": "ガス中毒",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600291_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "強力な毒ガスにさらされました！\\n毎秒1595%の毒ダメージ"
   },
   "10600291|11-JobChange_02-": {
     "name": "ガス中毒",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600291_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "強力な毒ガスにさらされました！\\n毎秒1685%の毒ダメージ"
   },
   "10600291|12-JobChange_02-": {
     "name": "ガス中毒",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10600291_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "強力な毒ガスにさらされました！\\n毎秒1775%の毒ダメージ"
   },
   "10700001|1--": {
     "name": "邪悪な",
@@ -28571,147 +28571,147 @@
   },
   "10700282|1-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700282_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度7%、移動速度4%増加"
   },
   "10700282|2-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700282_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度14%、移動速度8%増加"
   },
   "10700282|3-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700282_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度21%、移動速度12%増加"
   },
   "10700282|4-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700282_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度28%、移動速度16%増加"
   },
   "10700282|5-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700282_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度35%、移動速度20%増加"
   },
   "10700282|6-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700282_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度42%、移動速度24%増加"
   },
   "10700282|7-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700282_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度49%、移動速度28%増加"
   },
   "10700282|8-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700282_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度56%、移動速度32%増加"
   },
   "10700282|9-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700282_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度63%、移動速度36%増加"
   },
   "10700282|10-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700282_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度70%、移動速度40%増加"
   },
   "10700282|11-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700282_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度77%、移動速度44%増加"
   },
   "10700282|12-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700282_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "攻撃速度84%、移動速度48%増加"
   },
   "10700283|1-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700283_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "物理/魔法攻撃力6%、物理/魔法抵抗力105増加"
   },
   "10700283|2-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700283_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "物理/魔法攻撃力12%、物理/魔法抵抗力135増加"
   },
   "10700283|3-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700283_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "物理/魔法攻撃力18%、物理/魔法抵抗力165増加"
   },
   "10700283|4-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700283_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "物理/魔法攻撃力24%、物理/魔法抵抗力195増加"
   },
   "10700283|5-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700283_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "物理/魔法攻撃力30%、物理/魔法抵抗力225増加"
   },
   "10700283|6-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700283_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "物理/魔法攻撃力36%、物理/魔法抵抗力255増加"
   },
   "10700283|7-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700283_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "物理/魔法攻撃力42%、物理/魔法抵抗力285増加"
   },
   "10700283|8-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700283_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "物理/魔法攻撃力48%、物理/魔法抵抗力315増加"
   },
   "10700283|9-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700283_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "物理/魔法攻撃力54%、物理/魔法抵抗力345増加"
   },
   "10700283|10-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700283_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "物理/魔法攻撃力60%、物理/魔法抵抗力375増加"
   },
   "10700283|11-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700283_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "物理/魔法攻撃力66%、物理/魔法抵抗力405増加"
   },
   "10700283|12-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700283_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "物理/魔法攻撃力72%、物理/魔法抵抗力435増加"
   },
   "10700284|1-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700284_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "リプライザル状態で武器攻撃力4%、回避4増加"
   },
   "10700284|2-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700284_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "リプライザル状態で武器攻撃力8%、回避8増加"
   },
   "10700284|3-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700284_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "リプライザル状態で武器攻撃力12%、回避12増加"
   },
   "10700284|4-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700284_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "リプライザル状態で武器攻撃力16%、回避16増加"
   },
   "10700284|5-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700284_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "リプライザル状態で武器攻撃力20%、回避20増加"
   },
   "10700284|6-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700284_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "リプライザル状態で武器攻撃力24%、回避24増加"
   },
   "10700284|7-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700284_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "リプライザル状態で武器攻撃力28%、回避28増加"
   },
   "10700284|8-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700284_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "リプライザル状態で武器攻撃力32%、回避32増加"
   },
   "10700284|9-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700284_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "リプライザル状態で武器攻撃力36%、回避36増加"
   },
   "10700284|10-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700284_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "リプライザル状態で武器攻撃力40%、回避40増加"
   },
   "10700284|11-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700284_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "リプライザル状態で武器攻撃力44%、回避44増加"
   },
   "10700284|12-JobChange_02-": {
     "name": "臨機応変",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10700284_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "リプライザル状態で武器攻撃力48%、回避48増加"
   },
   "10800041|1--": {
     "name": "フェイタルアタック",
@@ -29987,194 +29987,194 @@
   },
   "10900271|1-JobChange_02-": {
     "name": "ブレイドランナー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900271_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "体内のルーン魔力を活性化させます。\\n武器攻撃力17%増加\\n移動速度2%増加"
   },
   "10900271|2-JobChange_02-": {
     "name": "ブレイドランナー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900271_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "体内のルーン魔力を活性化させます。\\n武器攻撃力19%増加\\n移動速度4%増加"
   },
   "10900271|3-JobChange_02-": {
     "name": "ブレイドランナー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900271_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "体内のルーン魔力を活性化させます。\\n武器攻撃力21%増加\\n移動速度6%増加"
   },
   "10900271|4-JobChange_02-": {
     "name": "ブレイドランナー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900271_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "体内のルーン魔力を活性化させます。\\n武器攻撃力23%増加\\n移動速度8%増加"
   },
   "10900271|5-JobChange_02-": {
     "name": "ブレイドランナー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900271_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "体内のルーン魔力を活性化させます。\\n武器攻撃力25%増加\\n移動速度10%増加"
   },
   "10900271|6-JobChange_02-": {
     "name": "ブレイドランナー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900271_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "体内のルーン魔力を活性化させます。\\n武器攻撃力27%増加\\n移動速度12%増加"
   },
   "10900271|7-JobChange_02-": {
     "name": "ブレイドランナー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900271_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "体内のルーン魔力を活性化させます。\\n武器攻撃力29%増加\\n移動速度14%増加"
   },
   "10900271|8-JobChange_02-": {
     "name": "ブレイドランナー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900271_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "体内のルーン魔力を活性化させます。\\n武器攻撃力31%増加\\n移動速度16%増加"
   },
   "10900271|9-JobChange_02-": {
     "name": "ブレイドランナー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900271_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "体内のルーン魔力を活性化させます。\\n武器攻撃力33%増加\\n移動速度18%増加"
   },
   "10900271|10-JobChange_02-": {
     "name": "ブレイドランナー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900271_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "体内のルーン魔力を活性化させます。\\n武器攻撃力35%増加\\n移動速度20%増加"
   },
   "10900271|11-JobChange_02-": {
     "name": "ブレイドランナー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900271_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "体内のルーン魔力を活性化させます。\\n武器攻撃力37%増加\\n移動速度22%増加"
   },
   "10900271|12-JobChange_02-": {
     "name": "ブレイドランナー",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900271_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "体内のルーン魔力を活性化させます。\\n武器攻撃力39%増加\\n移動速度24%増加"
   },
   "10900282|1-JobChange_02-": {
     "name": "火炎属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900282_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎魔力の流れが強烈になりました！\\n火炎ダメージ13%増加"
   },
   "10900282|2-JobChange_02-": {
     "name": "火炎属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900282_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎魔力の流れが強烈になりました！\\n火炎ダメージ21%増加"
   },
   "10900282|3-JobChange_02-": {
     "name": "火炎属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900282_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎魔力の流れが強烈になりました！\\n火炎ダメージ29%増加"
   },
   "10900282|4-JobChange_02-": {
     "name": "火炎属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900282_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎魔力の流れが強烈になりました！\\n火炎ダメージ37%増加"
   },
   "10900282|5-JobChange_02-": {
     "name": "火炎属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900282_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎魔力の流れが強烈になりました！\\n火炎ダメージ45%増加"
   },
   "10900282|6-JobChange_02-": {
     "name": "火炎属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900282_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎魔力の流れが強烈になりました！\\n火炎ダメージ53%増加"
   },
   "10900282|7-JobChange_02-": {
     "name": "火炎属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900282_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎魔力の流れが強烈になりました！\\n火炎ダメージ61%増加"
   },
   "10900282|8-JobChange_02-": {
     "name": "火炎属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900282_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎魔力の流れが強烈になりました！\\n火炎ダメージ69%増加"
   },
   "10900282|9-JobChange_02-": {
     "name": "火炎属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900282_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎魔力の流れが強烈になりました！\\n火炎ダメージ77%増加"
   },
   "10900282|10-JobChange_02-": {
     "name": "火炎属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900282_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎魔力の流れが強烈になりました！\\n火炎ダメージ85%増加"
   },
   "10900282|11-JobChange_02-": {
     "name": "火炎属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900282_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎魔力の流れが強烈になりました！\\n火炎ダメージ93%増加"
   },
   "10900282|12-JobChange_02-": {
     "name": "火炎属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900282_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "火炎魔力の流れが強烈になりました！\\n火炎ダメージ101%増加"
   },
   "10900283|1-JobChange_02-": {
     "name": "冷気属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900283_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "冷気魔力の流れが強烈になりました！\\n冷気ダメージ13%増加"
   },
   "10900283|2-JobChange_02-": {
     "name": "冷気属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900283_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "冷気魔力の流れが強烈になりました！\\n冷気ダメージ21%増加"
   },
   "10900283|3-JobChange_02-": {
     "name": "冷気属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900283_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "冷気魔力の流れが強烈になりました！\\n冷気ダメージ29%増加"
   },
   "10900283|4-JobChange_02-": {
     "name": "冷気属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900283_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "冷気魔力の流れが強烈になりました！\\n冷気ダメージ37%増加"
   },
   "10900283|5-JobChange_02-": {
     "name": "冷気属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900283_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "冷気魔力の流れが強烈になりました！\\n冷気ダメージ45%増加"
   },
   "10900283|6-JobChange_02-": {
     "name": "冷気属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900283_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "冷気魔力の流れが強烈になりました！\\n冷気ダメージ53%増加"
   },
   "10900283|7-JobChange_02-": {
     "name": "冷気属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900283_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "冷気魔力の流れが強烈になりました！\\n冷気ダメージ61%増加"
   },
   "10900283|8-JobChange_02-": {
     "name": "冷気属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900283_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "冷気魔力の流れが強烈になりました！\\n冷気ダメージ69%増加"
   },
   "10900283|9-JobChange_02-": {
     "name": "冷気属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900283_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "冷気魔力の流れが強烈になりました！\\n冷気ダメージ77%増加"
   },
   "10900283|10-JobChange_02-": {
     "name": "冷気属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900283_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "冷気魔力の流れが強烈になりました！\\n冷気ダメージ85%増加"
   },
   "10900283|11-JobChange_02-": {
     "name": "冷気属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900283_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "冷気魔力の流れが強烈になりました！\\n冷気ダメージ93%増加"
   },
   "10900283|12-JobChange_02-": {
     "name": "冷気属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900283_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "冷気魔力の流れが強烈になりました！\\n冷気ダメージ101%増加"
   },
   "10900284|1-JobChange_02-": {
     "name": "電撃属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900284_1_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "電撃魔力の流れが強烈になりました！\\n電撃ダメージ13%増加"
   },
   "10900284|2-JobChange_02-": {
     "name": "電撃属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900284_2_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "電撃魔力の流れが強烈になりました！\\n電撃ダメージ21%増加"
   },
   "10900284|3-JobChange_02-": {
     "name": "電撃属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900284_3_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "電撃魔力の流れが強烈になりました！\\n電撃ダメージ29%増加"
   },
   "10900284|4-JobChange_02-": {
     "name": "電撃属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900284_4_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "電撃魔力の流れが強烈になりました！\\n電撃ダメージ37%増加"
   },
   "10900284|5-JobChange_02-": {
     "name": "電撃属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900284_5_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "電撃魔力の流れが強烈になりました！\\n電撃ダメージ45%増加"
   },
   "10900284|6-JobChange_02-": {
     "name": "電撃属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900284_6_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "電撃魔力の流れが強烈になりました！\\n電撃ダメージ53%増加"
   },
   "10900284|7-JobChange_02-": {
     "name": "電撃属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900284_7_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "電撃魔力の流れが強烈になりました！\\n電撃ダメージ61%増加"
   },
   "10900284|8-JobChange_02-": {
     "name": "電撃属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900284_8_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "電撃魔力の流れが強烈になりました！\\n電撃ダメージ69%増加"
   },
   "10900284|9-JobChange_02-": {
     "name": "電撃属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900284_9_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "電撃魔力の流れが強烈になりました！\\n電撃ダメージ77%増加"
   },
   "10900284|10-JobChange_02-": {
     "name": "電撃属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900284_10_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "電撃魔力の流れが強烈になりました！\\n電撃ダメージ85%増加"
   },
   "10900284|11-JobChange_02-": {
     "name": "電撃属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900284_11_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "電撃魔力の流れが強烈になりました！\\n電撃ダメージ93%増加"
   },
   "10900284|12-JobChange_02-": {
     "name": "電撃属性増幅",
-    "tooltipDescription": "KORADDITIONALDESCRIPTION_10900284_12_TOOLTIPDESCRIPTION:[F]JobChange_02"
+    "tooltipDescription": "電撃魔力の流れが強烈になりました！\\n電撃ダメージ101%増加"
   }
 }

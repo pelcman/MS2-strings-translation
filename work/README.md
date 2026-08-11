@@ -7,6 +7,18 @@ work/
 ├── scripts/            # 汎用ツール
 │   ├── lookup.py       # 対訳コーパス検索 (python work/scripts/lookup.py <語>)
 │   └── build_corpus.py # dict/corpus/itemname-pairs.tsv の再生成
+├── skillname/          # 2026-08-11 スキル名翻訳セッション
+│   ├── extract.txt        # プレースホルダー158件の抽出(KR/CN/EN対訳)
+│   ├── skillname_ja.json  # キー → JA(144件適用。KRはバフデータから復元)
+│   └── apply_skillname.py # 適用(※skillname.json は末尾改行なしの例外ファイル)
+├── stringadditionaldescription/ # 2026-08-11 バフ/デバフ翻訳セッション
+│   ├── freq3plus.txt      # 頻度3以上175種の抽出
+│   ├── freq3plus_ja.json  # ###n → JA(2,499文字列)
+│   ├── apply_freq3.py     # 適用スクリプト
+│   ├── tail.txt           # 残り608種の抽出
+│   ├── tail_structs.txt   # 数値正規化した構造一覧(192構造)
+│   ├── tail_rules.json    # 正規化パターン → JAテンプレート({}に数値代入)
+│   └── apply_tail.py      # テンプレート適用(686文字列) → 翻訳可能分は完訳
 ├── koritemdescription/ # 2026-08-11 アイテム説明文翻訳セッション
 │   ├── freq3plus.txt      # 頻度3以上の定型文76種の抽出(###n ↔ KO原文)
 │   ├── freq3plus_ja.json  # ###n → JA訳マップ
