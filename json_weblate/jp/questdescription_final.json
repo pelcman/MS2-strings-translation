@@ -4615,7 +4615,7 @@
     "locking": "1"
   },
   "71000005--": {
-    "name": "QUESTDESCRIPTION_71000005_NAME",
+    "name": "クエストを完了する",
     "desc": "",
     "manual": "",
     "complete": "",
@@ -6167,7 +6167,7 @@
     "locking": "1"
   },
   "10001020--": {
-    "name": "QUESTDESCRIPTION_10001020_NAME",
+    "name": "訓練兵の悩み",
     "desc": "QUESTDESCRIPTION_10001020_DESC",
     "manual": "",
     "complete": "$map:02000001$で$npc:11000004$に会う",
@@ -6183,7 +6183,7 @@
     "locking": "1"
   },
   "10001022--": {
-    "name": "QUESTDESCRIPTION_10001022_NAME",
+    "name": "鉄鉱石の出どころ",
     "desc": "QUESTDESCRIPTION_10001022_DESC",
     "manual": "$npc:11000365$から$item:30000105$を受け取る",
     "complete": "$map:02000084$で$npc:11000171$に会う",
@@ -6191,7 +6191,7 @@
     "locking": "1"
   },
   "10001023--": {
-    "name": "QUESTDESCRIPTION_10001023_NAME",
+    "name": "宅配トラックの行方",
     "desc": "QUESTDESCRIPTION_10001023_DESC",
     "manual": "",
     "complete": "$map:02000001$で$npc:11000012$に会う",
@@ -6463,7 +6463,7 @@
     "locking": "1"
   },
   "10001280--": {
-    "name": "QUESTDESCRIPTION_10001280_NAME",
+    "name": "孝行娘モニカ",
     "desc": "QUESTDESCRIPTION_10001280_DESC",
     "manual": "$npc:11000221$から$item:30000044$を受け取る",
     "complete": "QUESTDESCRIPTION_10001280_COMPLETE",
@@ -6487,7 +6487,7 @@
     "locking": "1"
   },
   "10001371--": {
-    "name": "QUESTDESCRIPTION_10001371_NAME",
+    "name": "踏み荒らされたキノコ畑",
     "desc": "QUESTDESCRIPTION_10001371_DESC",
     "manual": "$map:02000146$で$item:20000045$を採集する",
     "complete": "$map:02000026$の$npc:11000122$に戻る",
@@ -6527,7 +6527,7 @@
     "locking": "1"
   },
   "10001392--": {
-    "name": "QUESTDESCRIPTION_10001392_NAME",
+    "name": "トライア王宮へ！",
     "desc": "QUESTDESCRIPTION_10001392_DESC",
     "manual": "QUESTDESCRIPTION_10001392_MANUAL",
     "complete": "$map:02000025$で$npc:11000075$に会う",
@@ -6535,7 +6535,7 @@
     "locking": "1"
   },
   "10001393--": {
-    "name": "QUESTDESCRIPTION_10001393_NAME",
+    "name": "青い希望の光",
     "desc": "QUESTDESCRIPTION_10001393_DESC",
     "manual": "",
     "complete": "$map:02000025$で$npc:11000601$に会う",
@@ -6551,7 +6551,7 @@
     "locking": "1"
   },
   "10001400--": {
-    "name": "QUESTDESCRIPTION_10001400_NAME",
+    "name": "総理の頼み",
     "desc": "QUESTDESCRIPTION_10001400_DESC",
     "manual": "",
     "complete": "$map:02000001$にある$map:02000218$で$npc:11000530$に会う",
@@ -6663,7 +6663,7 @@
     "locking": "1"
   },
   "10001502--": {
-    "name": "QUESTDESCRIPTION_10001502_NAME",
+    "name": "黄金コイと共に",
     "desc": "QUESTDESCRIPTION_10001502_DESC",
     "manual": "$map:02000085$の$npc:11000426$から$item:30000256$を受け取る",
     "complete": "$map:02000139$で$npc:11000097$に会う",
@@ -6671,7 +6671,7 @@
     "locking": "1"
   },
   "10001580--": {
-    "name": "QUESTDESCRIPTION_10001580_NAME",
+    "name": "ピグミング部族を称えて",
     "desc": "QUESTDESCRIPTION_10001580_DESC",
     "manual": "QUESTDESCRIPTION_10001580_MANUAL",
     "complete": "$map:02000049$で$npc:11000039$に会う",
@@ -6679,7 +6679,7 @@
     "locking": "1"
   },
   "10001581--": {
-    "name": "QUESTDESCRIPTION_10001581_NAME",
+    "name": "ピグミング部族の仇",
     "desc": "QUESTDESCRIPTION_10001581_DESC",
     "manual": "$map:02000049$で$npc:21000332$または$npc:21000333$を退治する",
     "complete": "$map:02000049$で$npc:11000039$に会う",
@@ -6695,7 +6695,7 @@
     "locking": "1"
   },
   "10001640--": {
-    "name": "QUESTDESCRIPTION_10001640_NAME",
+    "name": "港の道楽者",
     "desc": "QUESTDESCRIPTION_10001640_DESC",
     "manual": "$map:02000139$のモンスターを退治する",
     "complete": "$map:02000139$で$npc:11000207$に会う",
@@ -6855,7 +6855,7 @@
     "locking": "1"
   },
   "10001891--": {
-    "name": "QUESTDESCRIPTION_10001891_NAME",
+    "name": "膨らむ疑惑",
     "desc": "QUESTDESCRIPTION_10001891_DESC",
     "manual": "",
     "complete": "$map:02000001$で$npc:11000373$に会う",
@@ -6919,7 +6919,7 @@
     "locking": "1"
   },
   "10002002--": {
-    "name": "QUESTDESCRIPTION_10002002_NAME",
+    "name": "真の結実",
     "desc": "QUESTDESCRIPTION_10002002_DESC",
     "manual": "$npc:11000245$から$item:30000167$を受け取る",
     "complete": "$map:02000147$の$map:02000209$で$npc:11000491$に会う",
@@ -6999,7 +6999,7 @@
     "locking": "1"
   },
   "10002042--": {
-    "name": "QUESTDESCRIPTION_10002042_NAME",
+    "name": "初めて見る品物",
     "desc": "QUESTDESCRIPTION_10002042_DESC",
     "manual": "$npc:11000547$から$item:30000172$を受け取る",
     "complete": "$map:02000076$で$npc:11000015$に会う",
@@ -7015,7 +7015,7 @@
     "locking": "1"
   },
   "10002050--": {
-    "name": "QUESTDESCRIPTION_10002050_NAME",
+    "name": "特別な注文",
     "desc": "QUESTDESCRIPTION_10002050_DESC",
     "manual": "QUESTDESCRIPTION_10002050_MANUAL",
     "complete": "$map:02000076$で$npc:11000015$に会う",
@@ -7031,7 +7031,7 @@
     "locking": "1"
   },
   "10002052--": {
-    "name": "QUESTDESCRIPTION_10002052_NAME",
+    "name": "最前線で",
     "desc": "QUESTDESCRIPTION_10002052_DESC",
     "manual": "$npc:11000119$から$item:30000173$を受け取る",
     "complete": "QUESTDESCRIPTION_10002052_COMPLETE",
@@ -7095,7 +7095,7 @@
     "locking": "1"
   },
   "10002071--": {
-    "name": "QUESTDESCRIPTION_10002071_NAME",
+    "name": "風の噂で聞いた",
     "desc": "QUESTDESCRIPTION_10002071_DESC",
     "manual": "",
     "complete": "$map:02000100$で$npc:11000232$に会う",
@@ -7127,7 +7127,7 @@
     "locking": "1"
   },
   "10002075--": {
-    "name": "QUESTDESCRIPTION_10002075_NAME",
+    "name": "ホムプルスのアジト",
     "desc": "QUESTDESCRIPTION_10002075_DESC",
     "manual": "",
     "complete": "$map:02000166$にある$map:02000208$で$npc:11000565$に会う",
@@ -7143,7 +7143,7 @@
     "locking": "1"
   },
   "10002080--": {
-    "name": "QUESTDESCRIPTION_10002080_NAME",
+    "name": "痕跡のない襲撃",
     "desc": "QUESTDESCRIPTION_10002080_DESC",
     "manual": "",
     "complete": "$map:02000166$で$npc:11000311$に会う",
@@ -7151,7 +7151,7 @@
     "locking": "1"
   },
   "10002081--": {
-    "name": "QUESTDESCRIPTION_10002081_NAME",
+    "name": "罠",
     "desc": "QUESTDESCRIPTION_10002081_DESC",
     "manual": "",
     "complete": "$map:02000166$の$map:02000208$で$npc:11000529$に会う",
@@ -7191,7 +7191,7 @@
     "locking": "1"
   },
   "10002101--": {
-    "name": "QUESTDESCRIPTION_10002101_NAME",
+    "name": "追跡隊の足跡",
     "desc": "QUESTDESCRIPTION_10002101_DESC",
     "manual": "",
     "complete": "$map:02000053$で近衛隊追跡団を探す",
@@ -7207,7 +7207,7 @@
     "locking": "1"
   },
   "10002103--": {
-    "name": "QUESTDESCRIPTION_10002103_NAME",
+    "name": "混沌の森に飲まれたベラ",
     "desc": "QUESTDESCRIPTION_10002103_DESC",
     "manual": "",
     "complete": "$map:02000001$で$npc:11000119$に会う",
@@ -7271,7 +7271,7 @@
     "locking": "1"
   },
   "10002120--": {
-    "name": "QUESTDESCRIPTION_10002120_NAME",
+    "name": "賢者の知恵",
     "desc": "QUESTDESCRIPTION_10002120_DESC",
     "manual": "$npc:11000075$から$item:30000183$を受け取る",
     "complete": "$map:02000023$の$map:02000035$で$npc:11000031$に会う",
@@ -7335,7 +7335,7 @@
     "locking": "1"
   },
   "10002160--": {
-    "name": "QUESTDESCRIPTION_10002160_NAME",
+    "name": "特命",
     "desc": "QUESTDESCRIPTION_10002160_DESC",
     "manual": "",
     "complete": "$map:02000023$の$map:02000035$で$npc:11000031$に会う",
@@ -7343,7 +7343,7 @@
     "locking": "1"
   },
   "10002170--": {
-    "name": "QUESTDESCRIPTION_10002170_NAME",
+    "name": "ペリオンの大族長",
     "desc": "QUESTDESCRIPTION_10002170_DESC",
     "manual": "",
     "complete": "$map:02000051$にある$map:02000078$で$npc:11000134$に会う",
@@ -7495,7 +7495,7 @@
     "locking": "1"
   },
   "10002205--": {
-    "name": "QUESTDESCRIPTION_10002205_NAME",
+    "name": "埋められない席",
     "desc": "QUESTDESCRIPTION_10002205_DESC",
     "manual": "",
     "complete": "$map:02000065$で$npc:11000074$に会う",
@@ -7671,7 +7671,7 @@
     "locking": "1"
   },
   "10002304--": {
-    "name": "QUESTDESCRIPTION_10002304_NAME",
+    "name": "現場を探して！",
     "desc": "QUESTDESCRIPTION_10002304_DESC",
     "manual": "",
     "complete": "闇の地$map:03000134$で$npc:11000806$に会う",
@@ -7703,7 +7703,7 @@
     "locking": "1"
   },
   "10002308--": {
-    "name": "QUESTDESCRIPTION_10002308_NAME",
+    "name": "回復できない信頼",
     "desc": "QUESTDESCRIPTION_10002308_DESC",
     "manual": "",
     "complete": "闇の地$map:03009001$で$npc:11000804$に会う",
@@ -7743,7 +7743,7 @@
     "locking": "1"
   },
   "10002314--": {
-    "name": "QUESTDESCRIPTION_10002314_NAME",
+    "name": "ウサギの誘惑",
     "desc": "QUESTDESCRIPTION_10002314_DESC",
     "manual": "QUESTDESCRIPTION_10002314_MANUAL",
     "complete": "闇の地$map:03000135$で$npc:11000614$に会う",
@@ -7887,7 +7887,7 @@
     "locking": "1"
   },
   "10002353--": {
-    "name": "QUESTDESCRIPTION_10002353_NAME",
+    "name": "許されていないこと",
     "desc": "QUESTDESCRIPTION_10002353_DESC",
     "manual": "",
     "complete": "$map:02000119$の$map:02000190$で$npc:11000058$に会う",
@@ -7927,7 +7927,7 @@
     "locking": "1"
   },
   "10002583--": {
-    "name": "QUESTDESCRIPTION_10002583_NAME",
+    "name": "侵入の痕跡",
     "desc": "QUESTDESCRIPTION_10002583_DESC",
     "manual": "$npc:11000843$から$item:30000380$を受け取る",
     "complete": "$map:2000324$で$npc:11001097$に会う",
@@ -7983,7 +7983,7 @@
     "locking": "1"
   },
   "10002594--": {
-    "name": "QUESTDESCRIPTION_10002594_NAME",
+    "name": "揺らぐ時間の結界",
     "desc": "QUESTDESCRIPTION_10002594_DESC",
     "manual": "QUESTDESCRIPTION_10002594_MANUAL",
     "complete": "$map:52000011$で$npc:11001099$に会う",
@@ -8087,7 +8087,7 @@
     "locking": "1"
   },
   "10002608--": {
-    "name": "QUESTDESCRIPTION_10002608_NAME",
+    "name": "刃のような風を突き抜けて",
     "desc": "QUESTDESCRIPTION_10002608_DESC",
     "manual": "",
     "complete": "$map:3000007$の$map:3009018$で$npc:11000064$に会う",
@@ -8455,7 +8455,7 @@
     "locking": "1"
   },
   "10002825--": {
-    "name": "QUESTDESCRIPTION_10002825_NAME",
+    "name": "カボの真実",
     "desc": "QUESTDESCRIPTION_10002825_DESC",
     "manual": "QUESTDESCRIPTION_10002825_MANUAL",
     "complete": "QUESTDESCRIPTION_10002825_COMPLETE",
@@ -8511,7 +8511,7 @@
     "locking": "1"
   },
   "10002836--": {
-    "name": "QUESTDESCRIPTION_10002836_NAME",
+    "name": "希望を抱いて",
     "desc": "QUESTDESCRIPTION_10002836_DESC",
     "manual": "QUESTDESCRIPTION_10002836_MANUAL",
     "complete": "QUESTDESCRIPTION_10002836_COMPLETE",
@@ -8599,7 +8599,7 @@
     "locking": "1"
   },
   "10002876--": {
-    "name": "QUESTDESCRIPTION_10002876_NAME",
+    "name": "心を一つに",
     "desc": "$map:02000001$の$npc:11000119$が私を探しているという。\n会いに行ってみよう。",
     "manual": "",
     "complete": "$map:02000001$で$npc:11000119$に会う",
@@ -8631,7 +8631,7 @@
     "locking": "1"
   },
   "10002880--": {
-    "name": "QUESTDESCRIPTION_10002880_NAME",
+    "name": "最前線の人々",
     "desc": "$map:02000146$で$npc:11000260$に会ってみよう。",
     "manual": "",
     "complete": "$map:02000146$の$npc:11000260$に会う",
@@ -8639,7 +8639,7 @@
     "locking": "1"
   },
   "10002881--": {
-    "name": "QUESTDESCRIPTION_10002881_NAME",
+    "name": "特別呼び出し",
     "desc": "$map:02000146$の$npc:11000076$が私を探しているという。\n会いに行ってみよう。",
     "manual": "",
     "complete": "$map:02000146$で$npc:11000076$に会う",
@@ -8663,7 +8663,7 @@
     "locking": "1"
   },
   "10002884--": {
-    "name": "QUESTDESCRIPTION_10002884_NAME",
+    "name": "解放軍の伝言",
     "desc": "QUESTDESCRIPTION_10002884_DESC",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002884_COMPLETE",
@@ -8695,7 +8695,7 @@
     "locking": "1"
   },
   "10002888--": {
-    "name": "QUESTDESCRIPTION_10002888_NAME",
+    "name": "ひとしきりの騒動",
     "desc": "$map:02000146$の$npc:11000076$が私を探しているという。\n会いに行ってみよう。",
     "manual": "",
     "complete": "$map:02000146$で$npc:11000076$に会う",
@@ -8751,7 +8751,7 @@
     "locking": "1"
   },
   "10002895--": {
-    "name": "QUESTDESCRIPTION_10002895_NAME",
+    "name": "ホムプルスの知らせ",
     "desc": "QUESTDESCRIPTION_10002895_DESC",
     "manual": "",
     "complete": "$map:02000166$の$map:02000208$で$npcName:11000529$に会う",
@@ -8815,7 +8815,7 @@
     "locking": "1"
   },
   "10002903--": {
-    "name": "QUESTDESCRIPTION_10002903_NAME",
+    "name": "テモロの小屋へ！",
     "desc": "QUESTDESCRIPTION_10002903_DESC",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002903_COMPLETE",
@@ -8831,7 +8831,7 @@
     "locking": "1"
   },
   "10002905--": {
-    "name": "QUESTDESCRIPTION_10002905_NAME",
+    "name": "友達の知らせ",
     "desc": "QUESTDESCRIPTION_10002905_DESC",
     "manual": "",
     "complete": "$map:02010002$の$map:02010059$で$npc:11001300$に会う",
@@ -8871,7 +8871,7 @@
     "locking": "1"
   },
   "10002910--": {
-    "name": "QUESTDESCRIPTION_10002910_NAME",
+    "name": "焦る足取り",
     "desc": "$npcName:11001229$師匠が私を探している。 \n$map:52000018$へ行ってみよう。",
     "manual": "",
     "complete": "$map:02000001$の$map:52000018$で$npcName:11001229$師匠に会う",
@@ -9007,7 +9007,7 @@
     "locking": "1"
   },
   "10002945--": {
-    "name": "QUESTDESCRIPTION_10002945_NAME",
+    "name": "出入り手続き",
     "desc": "QUESTDESCRIPTION_10002945_DESC",
     "manual": "",
     "complete": "$map:02000001$にいる$npcName:11000119$と会話する",
@@ -9039,7 +9039,7 @@
     "locking": "1"
   },
   "10002950--": {
-    "name": "QUESTDESCRIPTION_10002950_NAME",
+    "name": "チェリスカ湾で起きたこと",
     "desc": "QUESTDESCRIPTION_10002950_DESC",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002950_COMPLETE",
@@ -9055,7 +9055,7 @@
     "locking": "1"
   },
   "10002952--": {
-    "name": "QUESTDESCRIPTION_10002952_NAME",
+    "name": "刹那の瞬間に",
     "desc": "$npcName:11001229$はいつか恩を返す日が来るだろうと言い、丁重に感謝の挨拶を伝える。\n$npcName:11000043$のところへ戻り、$map:02000063$で経験した状況を報告しよう。",
     "manual": "",
     "complete": "$map:02000001$の$map:02000188$にいる$npcName:11000043$と会話する",
@@ -9183,7 +9183,7 @@
     "locking": "1"
   },
   "10002983--": {
-    "name": "QUESTDESCRIPTION_10002983_NAME",
+    "name": "特別な招待",
     "desc": "$npcName:11000040$は$npc:11000031$の要請で各守護勢力の代表が全員$map:02000025$の$map:52000026$に集まったと言い、そこへ行って何があったのか事情を聞いてみるようにと言う。\n$map:52000026$は$map:02000001$北西の$map:02000119$方向の入口周辺に行くと、城壁の上でその入口を見つけられる。 ",
     "manual": "$map:02000001$の北西、$map:02000119$方向の城壁から$map:52000026$に入場して状況を見守る",
     "complete": "$map:02000001$にいる$npcName:11000119$と会話する",
@@ -9255,7 +9255,7 @@
     "locking": "1"
   },
   "10003002--": {
-    "name": "QUESTDESCRIPTION_10003002_NAME",
+    "name": "心からの挨拶",
     "desc": "QUESTDESCRIPTION_10003002_DESC",
     "manual": "",
     "complete": "$map:02000001$の$map:02000188$にいる$npcName:11000050$に報告する",
@@ -9287,7 +9287,7 @@
     "locking": "1"
   },
   "10003011--": {
-    "name": "QUESTDESCRIPTION_10003011_NAME",
+    "name": "余計なお節介は毒",
     "desc": "QUESTDESCRIPTION_10003011_DESC",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10003011_COMPLETE",
@@ -9343,7 +9343,7 @@
     "locking": "1"
   },
   "10003040-DoubleImpactStory-": {
-    "name": "QUESTDESCRIPTION_10003040_NAME:[F]DoubleImpactStory",
+    "name": "冷たくも温かい彼女",
     "desc": "QUESTDESCRIPTION_10003040_DESC:[F]DoubleImpactStory",
     "manual": "",
     "complete": "$map:02000100$の$map:52000044$で$npcName:11001675$に会う",
@@ -9399,7 +9399,7 @@
     "locking": "1"
   },
   "10003051-DoubleImpactStory-": {
-    "name": "QUESTDESCRIPTION_10003051_NAME:[F]DoubleImpactStory",
+    "name": "心からの忠告",
     "desc": "QUESTDESCRIPTION_10003051_DESC:[F]DoubleImpactStory",
     "manual": "QUESTDESCRIPTION_10003051_MANUAL:[F]DoubleImpactStory",
     "complete": "QUESTDESCRIPTION_10003051_COMPLETE:[F]DoubleImpactStory",
@@ -9503,7 +9503,7 @@
     "locking": "1"
   },
   "10003064--": {
-    "name": "QUESTDESCRIPTION_10003064_NAME",
+    "name": "凶暴な警備兵",
     "desc": "QUESTDESCRIPTION_10003064_DESC",
     "manual": "$dungeonTitle:20012001$ダンジョンをクリアする",
     "complete": "$map:02000146$で$npcName:11000009$と会話する",
@@ -9535,7 +9535,7 @@
     "locking": "1"
   },
   "10003068--": {
-    "name": "QUESTDESCRIPTION_10003068_NAME",
+    "name": "真実の詰まった日誌",
     "desc": "QUESTDESCRIPTION_10003068_DESC",
     "manual": "QUESTDESCRIPTION_10003068_MANUAL",
     "complete": "$map:02000051$で$npc:11000136$と会話する",
@@ -9855,7 +9855,7 @@
     "locking": "0"
   },
   "20001010--": {
-    "name": "QUESTDESCRIPTION_20001010_NAME",
+    "name": "コブラたちが怒った",
     "desc": "QUESTDESCRIPTION_20001010_DESC",
     "manual": "QUESTDESCRIPTION_20001010_MANUAL",
     "complete": "",
@@ -9911,7 +9911,7 @@
     "locking": "0"
   },
   "20001170--": {
-    "name": "QUESTDESCRIPTION_20001170_NAME",
+    "name": "風船つかみ",
     "desc": "QUESTDESCRIPTION_20001170_DESC",
     "manual": "QUESTDESCRIPTION_20001170_MANUAL",
     "complete": "",
@@ -10071,7 +10071,7 @@
     "locking": "1"
   },
   "20001731--": {
-    "name": "QUESTDESCRIPTION_20001731_NAME",
+    "name": "鉄壁の警備 ",
     "desc": "QUESTDESCRIPTION_20001731_DESC",
     "manual": "QUESTDESCRIPTION_20001731_MANUAL",
     "complete": "$map:02000277$にいる$npc:11001043$と会話する",
@@ -10095,7 +10095,7 @@
     "locking": "1"
   },
   "20001940--": {
-    "name": "QUESTDESCRIPTION_20001940_NAME",
+    "name": "冷気を宿した怪物",
     "desc": "QUESTDESCRIPTION_20001940_DESC",
     "manual": "QUESTDESCRIPTION_20001940_MANUAL",
     "complete": "$map:02000085$にいる$npc:11001131$と会話する",
@@ -10127,7 +10127,7 @@
     "locking": "1"
   },
   "20001960--": {
-    "name": "QUESTDESCRIPTION_20001960_NAME",
+    "name": "希少な皮",
     "desc": "QUESTDESCRIPTION_20001960_DESC",
     "manual": "QUESTDESCRIPTION_20001960_MANUAL",
     "complete": "$map:02000054$にいる$npc:11001139$と会話する",
@@ -10143,7 +10143,7 @@
     "locking": "1"
   },
   "20002110--": {
-    "name": "QUESTDESCRIPTION_20002110_NAME",
+    "name": "限定品は必須",
     "desc": "QUESTDESCRIPTION_20002110_DESC",
     "manual": "",
     "complete": "QUESTDESCRIPTION_20002110_COMPLETE",
@@ -10223,7 +10223,7 @@
     "locking": "1"
   },
   "20002233--": {
-    "name": "QUESTDESCRIPTION_20002233_NAME",
+    "name": "一歩遅れた到着",
     "desc": "QUESTDESCRIPTION_20002233_DESC",
     "manual": "QUESTDESCRIPTION_20002233_MANUAL",
     "complete": "$map:52000024$にいる$npcName:11001229$と会話する",
@@ -10287,7 +10287,7 @@
     "locking": "1"
   },
   "20002241--": {
-    "name": "QUESTDESCRIPTION_20002241_NAME",
+    "name": "特別な招集",
     "desc": "QUESTDESCRIPTION_20002241_DESC",
     "manual": "$map:02000001$で$map:52000026$を探して入る",
     "complete": "QUESTDESCRIPTION_20002241_COMPLETE",
@@ -10311,7 +10311,7 @@
     "locking": "1"
   },
   "20002244--": {
-    "name": "QUESTDESCRIPTION_20002244_NAME",
+    "name": "希望を宿した約束",
     "desc": "QUESTDESCRIPTION_20002244_DESC",
     "manual": "",
     "complete": "$map:02000023$の$map:02000179$にいる$npcName:11001229$と会話する",
@@ -10327,7 +10327,7 @@
     "locking": "1"
   },
   "20002250--": {
-    "name": "QUESTDESCRIPTION_20002250_NAME",
+    "name": "真の力の源",
     "desc": "$npcName:11000031$は手に入れてきた$item:30000538$をうまく組み合わせれば、古代ルーンブレイダーの先祖たちが「究極の秘技」を編み出した背景とその歴史、力を取り戻す方法を読み取れるかもしれないと言う。 \n$npcName:11000031$が$item:30000538$を組み合わせるのを見守ろう。",
     "manual": "$npcName:11000031$の$item:30000538$組み合わせ作業を手伝う",
     "complete": "$map:52000028$にいる$npcName:11001229$と会話する",
@@ -10343,7 +10343,7 @@
     "locking": "1"
   },
   "20002260--": {
-    "name": "QUESTDESCRIPTION_20002260_NAME",
+    "name": "耐えられない裏切られた思い",
     "desc": "QUESTDESCRIPTION_20002260_DESC",
     "manual": "",
     "complete": "$npcName:11001230$と会話する",
@@ -10543,7 +10543,7 @@
     "locking": "1"
   },
   "20002285--": {
-    "name": "QUESTDESCRIPTION_20002285_NAME",
+    "name": "初の勝報",
     "desc": "QUESTDESCRIPTION_20002285_DESC",
     "manual": "",
     "complete": "$map:52000087$にいる$npcName:11001969$と会話する",
@@ -11663,7 +11663,7 @@
     "locking": "1"
   },
   "40001200--": {
-    "name": "QUESTDESCRIPTION_40001200_NAME",
+    "name": "火災の火種をなくそう",
     "desc": "QUESTDESCRIPTION_40001200_DESC",
     "manual": "$map:02000136$にいる$npc:21000282$を退治する",
     "complete": "$map:02000136$にいる$npc:11000222$と会話する",
@@ -11815,7 +11815,7 @@
     "locking": "1"
   },
   "40002611-Striker-": {
-    "name": "QUESTDESCRIPTION_40002611_NAME:[F]Striker",
+    "name": "黒星会の秘密メンバー",
     "desc": "QUESTDESCRIPTION_40002611_DESC:[F]Striker",
     "manual": "",
     "complete": "$map:52000034$にいる$npcName:11001682$と会話する",
@@ -12887,7 +12887,7 @@
     "locking": "1"
   },
   "50001300-CharacterAbility-": {
-    "name": "QUESTDESCRIPTION_50001300_NAME:[F]CharacterAbility",
+    "name": "特別な呼び出し",
     "desc": "QUESTDESCRIPTION_50001300_DESC:[F]CharacterAbility",
     "manual": "",
     "complete": "QUESTDESCRIPTION_50001300_COMPLETE:[F]CharacterAbility",
@@ -12943,7 +12943,7 @@
     "locking": "1"
   },
   "50001330-ItemSocketSystem-": {
-    "name": "QUESTDESCRIPTION_50001330_NAME:[F]ItemSocketSystem",
+    "name": "力を持った小さな光",
     "desc": "QUESTDESCRIPTION_50001330_DESC:[F]ItemSocketSystem",
     "manual": "",
     "complete": "$map:02000025$で$npc:11000601$と会話する",
@@ -12959,7 +12959,7 @@
     "locking": "1"
   },
   "50001381-ShadowExpedition-": {
-    "name": "QUESTDESCRIPTION_50001381_NAME:[F]ShadowExpedition",
+    "name": "濃い影の襲撃",
     "desc": "QUESTDESCRIPTION_50001381_DESC:[F]ShadowExpedition",
     "manual": "",
     "complete": "$map:02000001$で$npc:11000119$と会話する",
@@ -12983,7 +12983,7 @@
     "locking": "1"
   },
   "50001391-SoulBinder-": {
-    "name": "QUESTDESCRIPTION_50001391_NAME:[F]SoulBinder",
+    "name": "聞き込み開始",
     "desc": "QUESTDESCRIPTION_50001391_DESC:[F]SoulBinder",
     "manual": "",
     "complete": "$map:02000001$で$npc:11000160$と会話する",
@@ -12999,7 +12999,7 @@
     "locking": "1"
   },
   "50001400-SoulBinder-": {
-    "name": "QUESTDESCRIPTION_50001400_NAME:[F]SoulBinder",
+    "name": "ティンチャイの連絡",
     "desc": "$npc:11000012$が$npc:11001707$から届いた連絡を伝える。\n$npc:11001707$が話があるというので、$map:52000041$へ会いに行こう。",
     "manual": "",
     "complete": "$map:02000001$$map:52000041$で$npc:11001707$に会う",
@@ -13015,7 +13015,7 @@
     "locking": "1"
   },
   "50001402-SoulBinder-": {
-    "name": "QUESTDESCRIPTION_50001402_NAME:[F]SoulBinder",
+    "name": "タイグフリアン",
     "desc": "QUESTDESCRIPTION_50001402_DESC:[F]SoulBinder",
     "manual": "QUESTDESCRIPTION_50001402_MANUAL:[F]SoulBinder",
     "complete": "$map:52000041$で$npc:11001716$に会う",
@@ -13063,7 +13063,7 @@
     "locking": "1"
   },
   "50001430-SoulBinder-": {
-    "name": "QUESTDESCRIPTION_50001430_NAME:[F]SoulBinder",
+    "name": "ティンチャイの呼び出し",
     "desc": "$npc:11000012$が$npc:11001707$から届いた連絡を伝える。\n$npc:11001707$が話があるというので、$map:52000041$へ会いに行こう。",
     "manual": "",
     "complete": "$map:02000001$$map:52000041$で$npc:11001707$に会う",
@@ -13071,7 +13071,7 @@
     "locking": "1"
   },
   "50001431-SoulBinder-": {
-    "name": "QUESTDESCRIPTION_50001431_NAME:[F]SoulBinder",
+    "name": "特別な倉庫",
     "desc": "QUESTDESCRIPTION_50001431_DESC:[F]SoulBinder",
     "manual": "",
     "complete": "$map:02000216$で$npc:11001730$に会って会話する",
@@ -13095,7 +13095,7 @@
     "locking": "1"
   },
   "50001440-SoulBinder-": {
-    "name": "QUESTDESCRIPTION_50001440_NAME:[F]SoulBinder",
+    "name": "ティンチャイの召喚",
     "desc": "$npc:11000012$が$npc:11001707$から届いた連絡を伝える。\n$npc:11001707$が話があるというので、$map:52000041$へ会いに行こう。",
     "manual": "",
     "complete": "$map:02000001$$map:52000041$で$npc:11001707$に会う",
@@ -13151,7 +13151,7 @@
     "locking": "1"
   },
   "50001450-SoulBinder-": {
-    "name": "QUESTDESCRIPTION_50001450_NAME:[F]SoulBinder",
+    "name": "ティンチャイの発見",
     "desc": "$npc:11000012$が$npc:11001707$から届いた連絡を伝える。\n$npc:11001707$が話があるというので、$map:52000041$へ会いに行こう。",
     "manual": "",
     "complete": "$map:02000001$$map:52000041$で$npc:11001707$に会う",
@@ -13207,7 +13207,7 @@
     "locking": "1"
   },
   "50001462--": {
-    "name": "QUESTDESCRIPTION_50001462_NAME",
+    "name": "トライアへの行き方",
     "desc": "QUESTDESCRIPTION_50001462_DESC",
     "manual": "QUESTDESCRIPTION_50001462_MANUAL",
     "complete": "$npc:11000052$と会話する",
@@ -13223,7 +13223,7 @@
     "locking": "1"
   },
   "50001471--": {
-    "name": "QUESTDESCRIPTION_50001471_NAME",
+    "name": "村長の願い",
     "desc": "QUESTDESCRIPTION_50001471_DESC",
     "manual": "",
     "complete": "$npc:11000052$と会話する",
@@ -13279,7 +13279,7 @@
     "locking": "1"
   },
   "50001482--": {
-    "name": "QUESTDESCRIPTION_50001482_NAME",
+    "name": "テリーの提案",
     "desc": "QUESTDESCRIPTION_50001482_DESC",
     "manual": "",
     "complete": "QUESTDESCRIPTION_50001482_COMPLETE",
@@ -13287,7 +13287,7 @@
     "locking": "1"
   },
   "50001483--": {
-    "name": "QUESTDESCRIPTION_50001483_NAME",
+    "name": "トライアへの近道",
     "desc": "QUESTDESCRIPTION_50001483_DESC",
     "manual": "",
     "complete": "QUESTDESCRIPTION_50001483_COMPLETE",
@@ -13391,7 +13391,7 @@
     "locking": "1"
   },
   "50001505--": {
-    "name": "QUESTDESCRIPTION_50001505_NAME",
+    "name": "ホルスの巣",
     "desc": "QUESTDESCRIPTION_50001505_DESC",
     "manual": "QUESTDESCRIPTION_50001505_MANUAL",
     "complete": "$map:02000001$で$npc:11000119$に会う",
@@ -13407,7 +13407,7 @@
     "locking": "1"
   },
   "50001507--": {
-    "name": "QUESTDESCRIPTION_50001507_NAME",
+    "name": "火炎の源",
     "desc": "QUESTDESCRIPTION_50001507_DESC",
     "manual": "QUESTDESCRIPTION_50001507_MANUAL",
     "complete": "$map:02000001$で$npc:11000119$に会う",
@@ -13471,7 +13471,7 @@
     "locking": "1"
   },
   "50001515-PirateOcean-": {
-    "name": "QUESTDESCRIPTION_50001515_NAME:[F]PirateOcean",
+    "name": "嫉妬の化身",
     "desc": "QUESTDESCRIPTION_50001515_DESC:[F]PirateOcean",
     "manual": "QUESTDESCRIPTION_50001515_MANUAL:[F]PirateOcean",
     "complete": "$map:02000182$の$map:52000096$で$npc:11003082$に会う",
@@ -13503,7 +13503,7 @@
     "locking": "1"
   },
   "50001519-PirateOcean-": {
-    "name": "QUESTDESCRIPTION_50001519_NAME:[F]PirateOcean",
+    "name": "探検家と海",
     "desc": "QUESTDESCRIPTION_50001519_DESC:[F]PirateOcean",
     "manual": "",
     "complete": "$map:02000062$の$map:02000068$の中にある$map:52000095$で$npc:11003080$に会う",
@@ -15671,7 +15671,7 @@
     "locking": "0"
   },
   "50100990-Kritias_Epic01-": {
-    "name": "QUESTDESCRIPTION_50100990_NAME:[F]Kritias_Epic01",
+    "name": "クラディア追跡、その1",
     "desc": "QUESTDESCRIPTION_50100990_DESC:[F]Kritias_Epic01",
     "manual": "",
     "complete": "QUESTDESCRIPTION_50100990_COMPLETE:[F]Kritias_Epic01",
@@ -15679,7 +15679,7 @@
     "locking": "0"
   },
   "50101000-Kritias_Epic01-": {
-    "name": "QUESTDESCRIPTION_50101000_NAME:[F]Kritias_Epic01",
+    "name": "クラディア追跡、その2",
     "desc": "QUESTDESCRIPTION_50101000_DESC:[F]Kritias_Epic01",
     "manual": "QUESTDESCRIPTION_50101000_MANUAL:[F]Kritias_Epic01",
     "complete": "QUESTDESCRIPTION_50101000_COMPLETE:[F]Kritias_Epic01",
@@ -15695,7 +15695,7 @@
     "locking": "0"
   },
   "50101020-Kritias_Epic01-": {
-    "name": "QUESTDESCRIPTION_50101020_NAME:[F]Kritias_Epic01",
+    "name": "艦砲射撃要請",
     "desc": "QUESTDESCRIPTION_50101020_DESC:[F]Kritias_Epic01",
     "manual": "",
     "complete": "$npc:11004399$と会話する",
@@ -15703,7 +15703,7 @@
     "locking": "0"
   },
   "50101030-Kritias_Epic01-": {
-    "name": "QUESTDESCRIPTION_50101030_NAME:[F]Kritias_Epic01",
+    "name": "クラディア救出作戦",
     "desc": "QUESTDESCRIPTION_50101030_DESC:[F]Kritias_Epic01",
     "manual": "QUESTDESCRIPTION_50101030_MANUAL:[F]Kritias_Epic01",
     "complete": "QUESTDESCRIPTION_50101030_COMPLETE:[F]Kritias_Epic01",
@@ -15711,7 +15711,7 @@
     "locking": "0"
   },
   "50101040-Kritias_Epic01-": {
-    "name": "QUESTDESCRIPTION_50101040_NAME:[F]Kritias_Epic01",
+    "name": "クラディアの肩",
     "desc": "QUESTDESCRIPTION_50101040_DESC:[F]Kritias_Epic01",
     "manual": "",
     "complete": "$npcName:11004400$と会話する",
@@ -15743,7 +15743,7 @@
     "locking": "1"
   },
   "60001012--": {
-    "name": "QUESTDESCRIPTION_60001012_NAME",
+    "name": "飛び出します、ニョロリンの穴",
     "desc": "QUESTDESCRIPTION_60001012_DESC",
     "manual": "QUESTDESCRIPTION_60001012_MANUAL",
     "complete": "$npc:11001261$と会話する",
@@ -15847,7 +15847,7 @@
     "locking": "1"
   },
   "60001050--": {
-    "name": "QUESTDESCRIPTION_60001050_NAME",
+    "name": "1番目のバズの遺跡を探して",
     "desc": "QUESTDESCRIPTION_60001050_DESC",
     "manual": "$map:2000058$にある$map:2000363$に進入して遺跡を調査する",
     "complete": "",
@@ -15983,7 +15983,7 @@
     "locking": "1"
   },
   "60001114--": {
-    "name": "QUESTDESCRIPTION_60001114_NAME",
+    "name": "踊る魚",
     "desc": "QUESTDESCRIPTION_60001114_DESC",
     "manual": "$map:02000002$で釣りをする",
     "complete": "$map:02000002$で$npc:11000781$と会話する",
@@ -15991,7 +15991,7 @@
     "locking": "1"
   },
   "60001115--": {
-    "name": "QUESTDESCRIPTION_60001115_NAME",
+    "name": "休息の終わり",
     "desc": "QUESTDESCRIPTION_60001115_DESC",
     "manual": "",
     "complete": "$map:02000001$で$npc:11001320$と会話する",
@@ -16031,7 +16031,7 @@
     "locking": "1"
   },
   "60001130--": {
-    "name": "QUESTDESCRIPTION_60001130_NAME",
+    "name": "祭りを開く",
     "desc": "QUESTDESCRIPTION_60001130_DESC",
     "manual": "",
     "complete": "$map:02000064$で$npc:11000711$と会話する",
@@ -16767,7 +16767,7 @@
     "locking": "0"
   },
   "10003130-Kritias_Epic02-": {
-    "name": "QUESTDESCRIPTION_10003130_NAME:[F]Kritias_Epic02",
+    "name": "最適な探査隊員",
     "desc": "QUESTDESCRIPTION_10003130_DESC:[F]Kritias_Epic02",
     "manual": "$map:02020066$で$npcName:25022205$、$npcName:25022207$、$npcName:25022208$を退治する",
     "complete": "$map:02020066$で$npcName:11004571$と会話する",
@@ -16831,7 +16831,7 @@
     "locking": "0"
   },
   "10003210-Kritias_Epic02-": {
-    "name": "QUESTDESCRIPTION_10003210_NAME:[F]Kritias_Epic02",
+    "name": "ハッキングはお使いで覚えました",
     "desc": "QUESTDESCRIPTION_10003210_DESC:[F]Kritias_Epic02",
     "manual": "QUESTDESCRIPTION_10003210_MANUAL:[F]Kritias_Epic02",
     "complete": "完了を押して完了する",
@@ -16935,7 +16935,7 @@
     "locking": "0"
   },
   "10003330-Kritias_Epic03-": {
-    "name": "QUESTDESCRIPTION_10003330_NAME:[F]Kritias_Epic03",
+    "name": "最後の決戦",
     "desc": "QUESTDESCRIPTION_10003330_DESC:[F]Kritias_Epic03",
     "manual": "$npcName:11004430$を倒す",
     "complete": "$map:52100203$で$npcName:11004595$と会話する",
@@ -16951,7 +16951,7 @@
     "locking": "0"
   },
   "10003350-Kritias_Epic03-": {
-    "name": "QUESTDESCRIPTION_10003350_NAME:[F]Kritias_Epic03",
+    "name": "衝撃的な真実",
     "desc": "QUESTDESCRIPTION_10003350_DESC:[F]Kritias_Epic03",
     "manual": "$map:52100204$で$npcName:11004609$と会話する",
     "complete": "$map:52100204$で$npcName:11004609$と会話する",
@@ -17023,7 +17023,7 @@
     "locking": "0"
   },
   "10003403-EpicApocalypse01-": {
-    "name": "QUESTDESCRIPTION_10003403_NAME:[F]EpicApocalypse01",
+    "name": "トライアの怪しい噂",
     "desc": "QUESTDESCRIPTION_10003403_DESC:[F]EpicApocalypse01",
     "manual": "$map:02000001$で$npc:11000607$に会ってみる",
     "complete": "$map:02000001$で$npc:11000607$に会ってみる",
@@ -17031,7 +17031,7 @@
     "locking": "0"
   },
   "10003404-EpicApocalypse01-": {
-    "name": "QUESTDESCRIPTION_10003404_NAME:[F]EpicApocalypse01",
+    "name": "出現、闇の物質",
     "desc": "QUESTDESCRIPTION_10003404_DESC:[F]EpicApocalypse01",
     "manual": "$map:02000001$に突然現れた$npcName:11004727$を確認する",
     "complete": "$map:02000001$に突然現れた$npcName:11004727$を確認する",
@@ -17063,7 +17063,7 @@
     "locking": "0"
   },
   "10003408-EpicApocalypse01-": {
-    "name": "QUESTDESCRIPTION_10003408_NAME:[F]EpicApocalypse01",
+    "name": "総理の不安",
     "desc": "QUESTDESCRIPTION_10003408_DESC:[F]EpicApocalypse01",
     "manual": "$map:02000001$$map:02000065$で$npc:11004778$と会話する",
     "complete": "$map:02000001$$map:02000065$で$npc:11004778$と会話する",
@@ -17111,7 +17111,7 @@
     "locking": "0"
   },
   "10003414-EpicApocalypse01-": {
-    "name": "QUESTDESCRIPTION_10003414_NAME:[F]EpicApocalypse01",
+    "name": "混乱の時間",
     "desc": "QUESTDESCRIPTION_10003414_DESC:[F]EpicApocalypse01",
     "manual": "$map:02000001$の$map:52000189$最下層、$map:52000191$に閉じ込められた$npc:11004793$と落ち着いて会話を交わす",
     "complete": "$map:02000001$の$map:52000189$最下層、$map:52000191$に閉じ込められた$npc:11004793$と落ち着いて会話を交わす",
@@ -17199,7 +17199,7 @@
     "locking": "0"
   },
   "10003425-EpicApocalypse01-": {
-    "name": "QUESTDESCRIPTION_10003425_NAME:[F]EpicApocalypse01",
+    "name": "真実の攻防",
     "desc": "QUESTDESCRIPTION_10003425_DESC:[F]EpicApocalypse01",
     "manual": "$map:02000001$の$map:52000197$で$npc:11004786$と会話する",
     "complete": "$map:02000001$の$map:52000197$で$npc:11004786$と会話する",
@@ -17247,7 +17247,7 @@
     "locking": "0"
   },
   "10003431-EpicApocalypse01-": {
-    "name": "QUESTDESCRIPTION_10003431_NAME:[F]EpicApocalypse01",
+    "name": "幻影の襲撃",
     "desc": "QUESTDESCRIPTION_10003431_DESC:[F]EpicApocalypse01",
     "manual": "QUESTDESCRIPTION_10003431_MANUAL:[F]EpicApocalypse01",
     "complete": "$map:02000001$の$map:52000201$で$npc:11004784$と会話する",
@@ -17255,7 +17255,7 @@
     "locking": "0"
   },
   "10003432-EpicApocalypse01-": {
-    "name": "QUESTDESCRIPTION_10003432_NAME:[F]EpicApocalypse01",
+    "name": "揺らめく光のかけら",
     "desc": "QUESTDESCRIPTION_10003432_DESC:[F]EpicApocalypse01",
     "manual": "$map:02000001$の$map:52000201$で$npc:11004784$と会話する",
     "complete": "$map:02000001$の$map:52000201$で$npc:11004784$と会話する",
@@ -17271,7 +17271,7 @@
     "locking": "0"
   },
   "10003440-UnlimitedEnchant-": {
-    "name": "QUESTDESCRIPTION_10003440_NAME:[F]UnlimitedEnchant",
+    "name": "フロンティア財団へ",
     "desc": "QUESTDESCRIPTION_10003440_DESC:[F]UnlimitedEnchant",
     "manual": "$map:02000487$で$npc:11003883$に会ってみる",
     "complete": "$map:02000487$で$npc:11003883$に会ってみる",
@@ -17279,7 +17279,7 @@
     "locking": "0"
   },
   "10003441-UnlimitedEnchant-": {
-    "name": "QUESTDESCRIPTION_10003441_NAME:[F]UnlimitedEnchant",
+    "name": "プリズム研究所",
     "desc": "QUESTDESCRIPTION_10003441_DESC:[F]UnlimitedEnchant",
     "manual": "$map:02000487$の$map:52000196$で$npc:11004816$に会ってみる",
     "complete": "$map:02000487$の$map:52000196$で$npc:11004816$に会ってみる",
@@ -17295,7 +17295,7 @@
     "locking": "0"
   },
   "10003443-UnlimitedEnchant-": {
-    "name": "QUESTDESCRIPTION_10003443_NAME:[F]UnlimitedEnchant",
+    "name": "限界を突破せよ",
     "desc": "QUESTDESCRIPTION_10003443_DESC:[F]UnlimitedEnchant",
     "manual": "$map:02000487$の$map:52000196$で$npc:11004816$に会ってみる",
     "complete": "$map:02000487$の$map:52000196$で$npc:11004816$に会ってみる",
@@ -19351,7 +19351,7 @@
     "descFameUI": "QUESTDESCRIPTION_93000036_DESCFAMEUI:[F]FameContents"
   },
   "93000037-FameContents-": {
-    "name": "QUESTDESCRIPTION_93000037_NAME:[F]FameContents",
+    "name": "堕落した翼の果て",
     "desc": "QUESTDESCRIPTION_93000037_DESC:[F]FameContents",
     "manual": "$map:02000085$へ移動して$npcName:23000019$をやっつける",
     "complete": "$map:02000422$$pp2:に$移動して$npcName:11000401$$pp:と$会話する",
@@ -20813,7 +20813,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000006_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000007-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000007_NAME:[F]Kritias_2018_12",
+    "name": "タイレン王国の奇襲",
     "desc": "QUESTDESCRIPTION_94000007_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020030$の$npcName:25020101$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
@@ -20894,7 +20894,7 @@
     "descFameUI": "スカイフォートレスの定期隊員評価を実施します。\nテストテーマ：メイプル連合"
   },
   "94000016-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000016_NAME:[F]Kritias_2018_12",
+    "name": "探査のための陽動作戦",
     "desc": "QUESTDESCRIPTION_94000016_DESC:[F]Kritias_2018_12",
     "manual": "QUESTDESCRIPTION_94000016_MANUAL:[F]Kritias_2018_12",
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
@@ -20921,7 +20921,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000018_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000019-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000019_NAME:[F]Kritias_2018_12",
+    "name": "致命的なかわいさ",
     "desc": "QUESTDESCRIPTION_94000019_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020006$の$npcName:25020301$を退治した後、$item:30001221$を収集する",
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
@@ -20966,7 +20966,7 @@
     "descFameUI": "$map:02020006$で$item:61000157$を捕獲してこよう。"
   },
   "94000024-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000024_NAME:[F]Kritias_2018_12",
+    "name": "タイレン王国の驚くべき技術",
     "desc": "QUESTDESCRIPTION_94000024_DESC:[F]Kritias_2018_12",
     "manual": "QUESTDESCRIPTION_94000024_MANUAL:[F]Kritias_2018_12",
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
@@ -21119,7 +21119,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000040_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000041-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000041_NAME:[F]Kritias_2018_12",
+    "name": "追放者ケルベス撃退",
     "desc": "QUESTDESCRIPTION_94000041_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020010$の$npcName:25020602$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
@@ -21128,7 +21128,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000041_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000042-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000042_NAME:[F]Kritias_2018_12",
+    "name": "破壊のための布石",
     "desc": "QUESTDESCRIPTION_94000042_DESC:[F]Kritias_2018_12",
     "manual": "QUESTDESCRIPTION_94000042_MANUAL:[F]Kritias_2018_12",
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
@@ -21452,7 +21452,7 @@
     "descFameUI": "スカイフォートレスの定期隊員評価を実施します。\nテストテーマ：ルミナイツ"
   },
   "94000078-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000078_NAME:[F]Kritias_2018_12",
+    "name": "挟撃される$map:02020030$",
     "desc": "QUESTDESCRIPTION_94000078_DESC:[F]Kritias_2018_12",
     "manual": "QUESTDESCRIPTION_94000078_MANUAL:[F]Kritias_2018_12",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話する",
@@ -21479,7 +21479,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000080_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000081-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000081_NAME:[F]Kritias_2018_12",
+    "name": "クリティアスのエネルギー：起源を探して",
     "desc": "QUESTDESCRIPTION_94000081_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020031$でエネルを採取する\n|$map:02020030$でエネルを採取する\n|$map:02020029$でエネルを採取する",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話",
@@ -21605,7 +21605,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000094_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000095-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000095_NAME:[F]Kritias_2018_12",
+    "name": "華麗な剣術のタイレン兵士",
     "desc": "QUESTDESCRIPTION_94000095_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020004$の$npcName:25020404$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話",
@@ -21623,7 +21623,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000096_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000097-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000097_NAME:[F]Kritias_2018_12",
+    "name": "探査資料の回収",
     "desc": "QUESTDESCRIPTION_94000097_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020004$の$npcName:25020405$を退治した後、$item:30001238$を収集する",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話",
@@ -21740,7 +21740,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000109_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000110-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000110_NAME:[F]Kritias_2018_12",
+    "name": "クリティアスの古代戦士",
     "desc": "QUESTDESCRIPTION_94000110_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020034$の$npcName:25020807$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話",
@@ -21749,7 +21749,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000110_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000111-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000111_NAME:[F]Kritias_2018_12",
+    "name": "クリティアスのエネルギー：神秘的なエネルギー",
     "desc": "QUESTDESCRIPTION_94000111_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020034$でエネルを採取する\n|$map:02020010$でエネルを採取する\n|$map:02020013$でエネルを採取する",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話する",
@@ -21956,7 +21956,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000133_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000134-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000134_NAME:[F]Kritias_2018_12",
+    "name": "一つ片付ければ一つ問題が起きる",
     "desc": "QUESTDESCRIPTION_94000134_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020003$で$npcName:25021505$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話",
@@ -22001,7 +22001,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000138_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000139-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000139_NAME:[F]Kritias_2018_12",
+    "name": "タイレン王国の最初の関門",
     "desc": "QUESTDESCRIPTION_94000139_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020037$でモンスターを退治する",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話",
@@ -22010,7 +22010,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000139_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000140-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000140_NAME:[F]Kritias_2018_12",
+    "name": "クリティアスのエネルギー：詳細分析",
     "desc": "QUESTDESCRIPTION_94000140_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020009$でエネルを採取する\n|$map:02020008$でエネルを採取する\n|$map:02020018$でエネルを採取する",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話",
@@ -22073,7 +22073,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000146_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000147-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000147_NAME:[F]Kritias_2018_12",
+    "name": "ケルベスは自然破壊者！",
     "desc": "QUESTDESCRIPTION_94000147_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020009$で$npcName:25021603$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話",
@@ -22109,7 +22109,7 @@
     "descFameUI": "スカイフォートレスの定期隊員評価を実施します。\nテストテーマ：グリーンフッド自警団"
   },
   "94000151-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000151_NAME:[F]Kritias_2018_12",
+    "name": "探査を妨害する存在",
     "desc": "QUESTDESCRIPTION_94000151_DESC:[F]Kritias_2018_12",
     "manual": "$npcName:25020003$を退治する\n|$npcName:25020103$を退治する\n|$npcName:25020202$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
@@ -22154,7 +22154,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000155_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000156-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000156_NAME:[F]Kritias_2018_12",
+    "name": "トゥルカの手下になった機械兵士制圧",
     "desc": "QUESTDESCRIPTION_94000156_DESC:[F]Kritias_2018_12",
     "manual": "$npcName:25020203$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
@@ -22298,7 +22298,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000171_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000172-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000172_NAME:[F]Kritias_2018_12",
+    "name": "探査資料を取り戻そう！",
     "desc": "QUESTDESCRIPTION_94000172_DESC:[F]Kritias_2018_12",
     "manual": "$item:30001246$を収集する",
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
@@ -22379,7 +22379,7 @@
     "descFameUI": "スカイフォートレスの定期隊員評価を実施します。\nテストテーマ：グリーンフッド自警団"
   },
   "94000181-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000181_NAME:[F]Kritias_2018_12",
+    "name": "探査は続けなければならない",
     "desc": "QUESTDESCRIPTION_94000181_DESC:[F]Kritias_2018_12",
     "manual": "$npcName:25020701$を退治する\n|$npcName:25020805$を退治する\n|$npcName:25020905$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
@@ -22406,7 +22406,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000183_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000184-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000184_NAME:[F]Kritias_2018_12",
+    "name": "廃棄物埋立地のギガンティカ",
     "desc": "QUESTDESCRIPTION_94000184_DESC:[F]Kritias_2018_12",
     "manual": "$npcName:23001006$を制圧する",
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
@@ -22541,7 +22541,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000198_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000199-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000199_NAME:[F]Kritias_2018_12",
+    "name": "プルカウ平原の探査のために",
     "desc": "QUESTDESCRIPTION_94000199_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020003$の敵対勢力を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
@@ -22577,7 +22577,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000202_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000203-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000203_NAME:[F]Kritias_2018_12",
+    "name": "解毒剤に使われる体液",
     "desc": "QUESTDESCRIPTION_94000203_DESC:[F]Kritias_2018_12",
     "manual": "$item:30001252$を収集する",
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
@@ -22586,7 +22586,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000203_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000204-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000204_NAME:[F]Kritias_2018_12",
+    "name": "プルカウ平原のメロディー",
     "desc": "QUESTDESCRIPTION_94000204_DESC:[F]Kritias_2018_12",
     "manual": "QUESTDESCRIPTION_94000204_MANUAL:[F]Kritias_2018_12",
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
@@ -22613,7 +22613,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000206_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000207-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000207_NAME:[F]Kritias_2018_12",
+    "name": "探査日誌の回収",
     "desc": "QUESTDESCRIPTION_94000207_DESC:[F]Kritias_2018_12",
     "manual": "QUESTDESCRIPTION_94000207_MANUAL:[F]Kritias_2018_12",
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
@@ -22622,7 +22622,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000207_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000208-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000208_NAME:[F]Kritias_2018_12",
+    "name": "タイレン王国のマンシュタ要塞攻撃",
     "desc": "QUESTDESCRIPTION_94000208_DESC:[F]Kritias_2018_12",
     "manual": "$npcName:25021307$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
@@ -22631,7 +22631,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000208_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000209-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000209_NAME:[F]Kritias_2018_12",
+    "name": "探査船を保護せよ！",
     "desc": "QUESTDESCRIPTION_94000209_DESC:[F]Kritias_2018_12",
     "manual": "$npcName:25021103$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
@@ -22685,7 +22685,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000214_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000215-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000215_NAME:[F]Kritias_2018_12",
+    "name": "タイレン王国の軍事機密文書",
     "desc": "QUESTDESCRIPTION_94000215_DESC:[F]Kritias_2018_12",
     "manual": "$item:30001254$を収集する",
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
@@ -22757,7 +22757,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000222_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000223-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000223_NAME:[F]Kritias_2018_12",
+    "name": "ティアマンエネル探査隊の保護",
     "desc": "QUESTDESCRIPTION_94000223_DESC:[F]Kritias_2018_12",
     "manual": "$npcName:25021703$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
@@ -22847,7 +22847,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000232_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000233-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000233_NAME:[F]Kritias_2018_12",
+    "name": "タイレン奇襲作戦",
     "desc": "QUESTDESCRIPTION_94000233_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020017$で$npcName:25021205$を退治する\n|$map:02020033$で$npcName:25021305$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話する",
@@ -23135,7 +23135,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000258_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000259-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000259_NAME:[F]Kritias_2018_12",
+    "name": "変わった剣を扱う者たち",
     "desc": "QUESTDESCRIPTION_94000259_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020010$の$npcName:25020602$を退治する\n|$map:02020034$の$npcName:25020802$を退治する\n|$map:02020016$の$npcName:25021004$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
@@ -23171,7 +23171,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000262_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000263-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000263_NAME:[F]Kritias_2018_12",
+    "name": "タイレン兵士たちの妨害",
     "desc": "QUESTDESCRIPTION_94000263_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020018$の$npcName:25021703$を退治する\n|$map:02020037$の$npcName:25022105$を退治する\n|$map:02020035$の$npcName:25021905$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
@@ -23333,7 +23333,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000280_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000281-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000281_NAME:[F]Kritias_2018_12",
+    "name": "一刻も早く急がねばなりません",
     "desc": "QUESTDESCRIPTION_94000281_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020030$の$npcName:25020105$を退治する\n|$map:02020029$の$npcName:25020004$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話する",
@@ -23369,7 +23369,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000284_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000285-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000285_NAME:[F]Kritias_2018_12",
+    "name": "ケルベスの魂胆",
     "desc": "QUESTDESCRIPTION_94000285_DESC:[F]Kritias_2018_12",
     "manual": "QUESTDESCRIPTION_94000285_MANUAL:[F]Kritias_2018_12",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話する",
@@ -23378,7 +23378,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000285_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000286-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000286_NAME:[F]Kritias_2018_12",
+    "name": "青い光の秘密",
     "desc": "QUESTDESCRIPTION_94000286_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020051$の$npcName:25021101$を退治する\n|$map:02020017$の$npcName:25021204$を退治する\n|$map:02020003$の$npcName:25021501$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話する",
@@ -23459,7 +23459,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000294_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000295-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000295_NAME:[F]Kritias_2018_12",
+    "name": "艦船の定期点検",
     "desc": "QUESTDESCRIPTION_94000295_DESC:[F]Kritias_2018_12",
     "manual": "QUESTDESCRIPTION_94000295_MANUAL:[F]Kritias_2018_12",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話する",
@@ -23477,7 +23477,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000296_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000297-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000297_NAME:[F]Kritias_2018_12",
+    "name": "天然の薬材を探して",
     "desc": "QUESTDESCRIPTION_94000297_DESC:[F]Kritias_2018_12",
     "manual": "QUESTDESCRIPTION_94000297_MANUAL:[F]Kritias_2018_12",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話する",
@@ -23495,7 +23495,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000298_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000299-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000299_NAME:[F]Kritias_2018_12",
+    "name": "怒ったポイン",
     "desc": "QUESTDESCRIPTION_94000299_DESC:[F]Kritias_2018_12",
     "manual": "QUESTDESCRIPTION_94000299_MANUAL:[F]Kritias_2018_12",
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話する",
@@ -23549,7 +23549,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000304_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000305-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000305_NAME:[F]Kritias_2018_12",
+    "name": "着実な調査員",
     "desc": "QUESTDESCRIPTION_94000305_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020029$の$npcName:25020003$を退治する\n|$map:02020030$の$npcName:25020103$を退治する\n|$map:02020031$の$npcName:25020203$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
@@ -23585,7 +23585,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000308_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000309-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000309_NAME:[F]Kritias_2018_12",
+    "name": "体系的な調査",
     "desc": "QUESTDESCRIPTION_94000309_DESC:[F]Kritias_2018_12",
     "manual": "$map:02020010$の$npcName:25020605$を退治する\n|$map:02020034$の$npcName:25020807$を退治する\n|$map:02020016$の$npcName:25021001$を退治する",
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
@@ -23639,7 +23639,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000314_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000315-Kritias_2018_12-": {
-    "name": "QUESTDESCRIPTION_94000315_NAME:[F]Kritias_2018_12",
+    "name": "クリティアスの噂：宝箱の守護者",
     "desc": "QUESTDESCRIPTION_94000315_DESC:[F]Kritias_2018_12",
     "manual": "QUESTDESCRIPTION_94000315_MANUAL:[F]Kritias_2018_12",
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
@@ -23774,7 +23774,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000329_DESCFAMEUI:[F]Kritias_2018_12"
   },
   "94000330-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000330_NAME:[F]Fame_Geo01",
+    "name": "心からの助け",
     "desc": "QUESTDESCRIPTION_94000330_DESC:[F]Fame_Geo01",
     "manual": "$map:02020066$へ行って$npc:11004574$に会い、危機に瀕した難民を助ける",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -23972,7 +23972,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000351_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000352-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000352_NAME:[F]Fame_Geo01",
+    "name": "ケルベスの怪しい動き",
     "desc": "QUESTDESCRIPTION_94000352_DESC:[F]Fame_Geo01",
     "manual": "QUESTDESCRIPTION_94000352_MANUAL:[F]Fame_Geo01",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24017,7 +24017,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000356_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000357-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000357_NAME:[F]Fame_Geo01",
+    "name": "険悪になった$map:02020069$",
     "desc": "QUESTDESCRIPTION_94000357_DESC:[F]Fame_Geo01",
     "manual": "QUESTDESCRIPTION_94000357_MANUAL:[F]Fame_Geo01",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24026,7 +24026,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000357_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000358-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000358_NAME:[F]Fame_Geo01",
+    "name": "黒化を解明するための努力",
     "desc": "QUESTDESCRIPTION_94000358_DESC:[F]Fame_Geo01",
     "manual": "QUESTDESCRIPTION_94000358_MANUAL:[F]Fame_Geo01",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24080,7 +24080,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000363_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000364-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000364_NAME:[F]Fame_Geo01",
+    "name": "ケルベスの宝島",
     "desc": "QUESTDESCRIPTION_94000364_DESC:[F]Fame_Geo01",
     "manual": "$map:52100116$で$npcName:25023100$を制圧する \n|$map:52100116$で$npcName:25023101$を制圧する",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24116,7 +24116,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000367_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000368-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000368_NAME:[F]Fame_Geo01",
+    "name": "堕落の隠れ家",
     "desc": "QUESTDESCRIPTION_94000368_DESC:[F]Fame_Geo01",
     "manual": "$map:52100117$で$npcName:25023201$を制圧する \n|$map:52100117$で$npcName:25023202$を制圧する",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24125,7 +24125,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000368_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000369-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000369_NAME:[F]Fame_Geo01",
+    "name": "タイレンの防御体系",
     "desc": "QUESTDESCRIPTION_94000369_DESC:[F]Fame_Geo01",
     "manual": "QUESTDESCRIPTION_94000369_MANUAL:[F]Fame_Geo01",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24134,7 +24134,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000369_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000370-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000370_NAME:[F]Fame_Geo01",
+    "name": "活躍が招いた惨事",
     "desc": "QUESTDESCRIPTION_94000370_DESC:[F]Fame_Geo01",
     "manual": "$map:02020066$へ行って$npc:11004574$に会う",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24152,7 +24152,7 @@
     "descFameUI": "$map:02020066$へ行って$npcName:25022202$を退治した後、$item:30001359$を確保しなければならない。"
   },
   "94000372-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000372_NAME:[F]Fame_Geo01",
+    "name": "芽生える陰謀",
     "desc": "QUESTDESCRIPTION_94000372_DESC:[F]Fame_Geo01",
     "manual": "$map:02020066$へ行って$npc:11004574$に会う",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24197,7 +24197,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000376_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000377-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000377_NAME:[F]Fame_Geo01",
+    "name": "混乱に陥った$map:02020069$",
     "desc": "QUESTDESCRIPTION_94000377_DESC:[F]Fame_Geo01",
     "manual": "$map:02020069$へ行って$npc:11004620$に会う",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24206,7 +24206,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000377_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000378-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000378_NAME:[F]Fame_Geo01",
+    "name": "舞い散る黒い気運",
     "desc": "QUESTDESCRIPTION_94000378_DESC:[F]Fame_Geo01",
     "manual": "$map:02020070$の$npcName:25022602$を退治する",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24224,7 +24224,7 @@
     "descFameUI": "$map:02020071$へ行って$npcName:25022708$を退治した後、$item:30001362$を確保しなければならない。"
   },
   "94000380-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000380_NAME:[F]Fame_Geo01",
+    "name": "本気と冗談の間",
     "desc": "QUESTDESCRIPTION_94000380_DESC:[F]Fame_Geo01",
     "manual": "$map:02020071$で$npcName:25022706$を退治する",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24233,7 +24233,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000380_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000381-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000381_NAME:[F]Fame_Geo01",
+    "name": "血をたぎらせる相手",
     "desc": "QUESTDESCRIPTION_94000381_DESC:[F]Fame_Geo01",
     "manual": "$map:02020071$で$npcName:25022701$を退治する",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24278,7 +24278,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000385_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000386-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000386_NAME:[F]Fame_Geo01",
+    "name": "醜悪な耕作",
     "desc": "QUESTDESCRIPTION_94000386_DESC:[F]Fame_Geo01",
     "manual": "QUESTDESCRIPTION_94000386_MANUAL:[F]Fame_Geo01",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24305,7 +24305,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000388_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000389-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000389_NAME:[F]Fame_Geo01",
+    "name": "タイレンの致命的な火器",
     "desc": "QUESTDESCRIPTION_94000389_DESC:[F]Fame_Geo01",
     "manual": "QUESTDESCRIPTION_94000389_MANUAL:[F]Fame_Geo01",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24368,7 +24368,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000395_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000396-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000396_NAME:[F]Fame_Geo01",
+    "name": "解くべき宿題",
     "desc": "QUESTDESCRIPTION_94000396_DESC:[F]Fame_Geo01",
     "manual": "$map:02020069$へ行って$npc:11004620$に会う",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24386,7 +24386,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000397_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000398-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000398_NAME:[F]Fame_Geo01",
+    "name": "総攻勢のために",
     "desc": "QUESTDESCRIPTION_94000398_DESC:[F]Fame_Geo01",
     "manual": "$map:02020070$で$npcName:25022600$を退治する",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24395,7 +24395,7 @@
     "descFameUI": "$map:02020070$へ行って$npcName:25022600$を制圧しなければならない。"
   },
   "94000399-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000399_NAME:[F]Fame_Geo01",
+    "name": "拡大した黒化",
     "desc": "QUESTDESCRIPTION_94000399_DESC:[F]Fame_Geo01",
     "manual": "$map:02020070$で$npcName:25022604$を退治する",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24404,7 +24404,7 @@
     "descFameUI": "$map:02020070$へ行って$npcName:25022604$を制圧しなければならない。"
   },
   "94000400-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000400_NAME:[F]Fame_Geo01",
+    "name": "力の源を探して",
     "desc": "QUESTDESCRIPTION_94000400_DESC:[F]Fame_Geo01",
     "manual": "$map:02020071$の$npcName:25022702$を退治した後、$item:30001367$を確保する",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24413,7 +24413,7 @@
     "descFameUI": "$map:02020071$へ行って$npcName:25022702$を退治した後、$item:30001367$を確保しなければならない。"
   },
   "94000401-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000401_NAME:[F]Fame_Geo01",
+    "name": "矛と盾",
     "desc": "QUESTDESCRIPTION_94000401_DESC:[F]Fame_Geo01",
     "manual": "$map:02020071$の$npcName:25022704$を退治した後、$item:30001368$を確保する",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24431,7 +24431,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000402_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000403-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000403_NAME:[F]Fame_Geo01",
+    "name": "貪欲の報い",
     "desc": "QUESTDESCRIPTION_94000403_DESC:[F]Fame_Geo01",
     "manual": "QUESTDESCRIPTION_94000403_MANUAL:[F]Fame_Geo01",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24467,7 +24467,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000406_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000407-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000407_NAME:[F]Fame_Geo01",
+    "name": "タイレンの新兵器",
     "desc": "QUESTDESCRIPTION_94000407_DESC:[F]Fame_Geo01",
     "manual": "QUESTDESCRIPTION_94000407_MANUAL:[F]Fame_Geo01",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24503,7 +24503,7 @@
     "descFameUI": "$map:52100114$へ行って$npcName:25022901$を制圧しなければならない。"
   },
   "94000411-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000411_NAME:[F]Fame_Geo01",
+    "name": "漆黒の恐怖",
     "desc": "QUESTDESCRIPTION_94000411_DESC:[F]Fame_Geo01",
     "manual": "QUESTDESCRIPTION_94000411_MANUAL:[F]Fame_Geo01",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -24512,7 +24512,7 @@
     "descFameUI": "QUESTDESCRIPTION_94000411_DESCFAMEUI:[F]Fame_Geo01"
   },
   "94000412-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_94000412_NAME:[F]Fame_Geo01",
+    "name": "致命的な狂暴さ",
     "desc": "QUESTDESCRIPTION_94000412_DESC:[F]Fame_Geo01",
     "manual": "QUESTDESCRIPTION_94000412_MANUAL:[F]Fame_Geo01",
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
@@ -31507,7 +31507,7 @@
     "locking": "1"
   },
   "90000020--": {
-    "name": "QUESTDESCRIPTION_90000020_NAME",
+    "name": "世間知らずのお嬢さん",
     "desc": "QUESTDESCRIPTION_90000020_DESC",
     "manual": "",
     "complete": "$map:02000001$で$npc:11000331$に会う",
@@ -31707,7 +31707,7 @@
     "locking": "1"
   },
   "90000280--": {
-    "name": "QUESTDESCRIPTION_90000280_NAME",
+    "name": "竜巻剣術",
     "desc": "スキルウィンドウを開いて新しく習得したスキルの$skill:10100011$をクイックスロットに装着した後、$skill:10100011$を使ってみよう。",
     "manual": "QUESTDESCRIPTION_90000280_MANUAL",
     "complete": "",
@@ -31715,7 +31715,7 @@
     "locking": "1"
   },
   "90000281--": {
-    "name": "QUESTDESCRIPTION_90000281_NAME",
+    "name": "虚空を切り裂く刃",
     "desc": "スキルウィンドウを開いて新しく習得したスキルの$skill:10100001$をクイックスロットに装着した後、$skill:10100001$を使ってみよう。",
     "manual": "$skill:10100001$を使用する",
     "complete": "",
@@ -31755,7 +31755,7 @@
     "locking": "1"
   },
   "90000310--": {
-    "name": "QUESTDESCRIPTION_90000310_NAME",
+    "name": "爆発する光",
     "desc": "スキルウィンドウを開いて新しく習得したスキルの$skill:10400011$をクイックスロットに装着した後、$skill:10400011$を使ってみよう。",
     "manual": "$skill:10400011$を使用する",
     "complete": "",
@@ -31787,7 +31787,7 @@
     "locking": "1"
   },
   "90000330--": {
-    "name": "QUESTDESCRIPTION_90000330_NAME",
+    "name": "熱烈な火炎",
     "desc": "スキルウィンドウを開いて新しく習得したスキルの$skill:10600021$をクイックスロットに装着した後、$skill:10600021$を使ってみよう。",
     "manual": "$skill:10600021$を使用する",
     "complete": "",
@@ -31819,7 +31819,7 @@
     "locking": "1"
   },
   "90000350--": {
-    "name": "QUESTDESCRIPTION_90000350_NAME",
+    "name": "ばらまかれた手裏剣",
     "desc": "スキルウィンドウを開いて新しく習得したスキルの$skill:10800021$をクイックスロットに装着した後、$skill:10800021$を使ってみよう。",
     "manual": "$skill:10800021$を使用する",
     "complete": "",
@@ -31827,7 +31827,7 @@
     "locking": "1"
   },
   "90000351--": {
-    "name": "QUESTDESCRIPTION_90000351_NAME",
+    "name": "手裏剣の反転",
     "desc": "スキルウィンドウを開いて新しく習得したスキルの$skill:10800001$をクイックスロットに装着した後、$skill:10800001$を使ってみよう。",
     "manual": "$skill:10800001$を使用する",
     "complete": "",
@@ -32299,7 +32299,7 @@
     "locking": "1"
   },
   "90000550-ContentsGuide01-": {
-    "name": "QUESTDESCRIPTION_90000550_NAME:[F]ContentsGuide01",
+    "name": "幻想の演奏",
     "desc": "QUESTDESCRIPTION_90000550_DESC:[F]ContentsGuide01",
     "manual": "QUESTDESCRIPTION_90000550_MANUAL:[F]ContentsGuide01",
     "complete": "$map:52000061$で$npc:11001866$と会話する",
@@ -32379,7 +32379,7 @@
     "locking": "1"
   },
   "90000631-ContentsGuide01-": {
-    "name": "QUESTDESCRIPTION_90000631_NAME:[F]ContentsGuide01",
+    "name": "採鉱の妙手",
     "desc": "QUESTDESCRIPTION_90000631_DESC:[F]ContentsGuide01",
     "manual": "",
     "complete": "$map:63000046$で$npc:11001870$と会話する",
@@ -32483,7 +32483,7 @@
     "locking": "0"
   },
   "90000693-ContentsGuide01-": {
-    "name": "QUESTDESCRIPTION_90000693_NAME:[F]ContentsGuide01",
+    "name": "バタバタニワトリ",
     "desc": "QUESTDESCRIPTION_90000693_DESC:[F]ContentsGuide01",
     "manual": "自分の家に設置された$item:50400159$から$item:33000026$を収穫する",
     "complete": "自宅で$npc:11001877$と会話する",
@@ -32499,7 +32499,7 @@
     "locking": "1"
   },
   "90000710-ContentsGuide01-": {
-    "name": "QUESTDESCRIPTION_90000710_NAME:[F]ContentsGuide01",
+    "name": "畜産技術の世界",
     "desc": "QUESTDESCRIPTION_90000710_DESC:[F]ContentsGuide01",
     "manual": "QUESTDESCRIPTION_90000710_MANUAL:[F]ContentsGuide01",
     "complete": "自宅で$npc:11001877$と会話する",
@@ -32507,7 +32507,7 @@
     "locking": "1"
   },
   "90000711-ContentsGuide01-": {
-    "name": "QUESTDESCRIPTION_90000711_NAME:[F]ContentsGuide01",
+    "name": "畜産界の新技術",
     "desc": "QUESTDESCRIPTION_90000711_DESC:[F]ContentsGuide01",
     "manual": "QUESTDESCRIPTION_90000711_MANUAL:[F]ContentsGuide01",
     "complete": "自宅で$npc:11001877$と会話する",
@@ -32547,7 +32547,7 @@
     "locking": "1"
   },
   "90000751-ContentsGuide02-": {
-    "name": "QUESTDESCRIPTION_90000751_NAME:[F]ContentsGuide02",
+    "name": "花園の料理人",
     "desc": "QUESTDESCRIPTION_90000751_DESC:[F]ContentsGuide02",
     "manual": "QUESTDESCRIPTION_90000751_MANUAL:[F]ContentsGuide02",
     "complete": "$map:63000052$で$npc:11003141$と会話する",
@@ -32563,7 +32563,7 @@
     "locking": "1"
   },
   "90000753-ContentsGuide02-": {
-    "name": "QUESTDESCRIPTION_90000753_NAME:[F]ContentsGuide02",
+    "name": "もちもち干し柿",
     "desc": "QUESTDESCRIPTION_90000753_DESC:[F]ContentsGuide02",
     "manual": "QUESTDESCRIPTION_90000753_MANUAL:[F]ContentsGuide02",
     "complete": "$map:63000052$で$npc:11003140$と会話する",
@@ -32595,7 +32595,7 @@
     "locking": "0"
   },
   "90000763-ContentsGuide02-": {
-    "name": "QUESTDESCRIPTION_90000763_NAME:[F]ContentsGuide02",
+    "name": "豊かな時間",
     "desc": "ある日、何の前触れもなくわが家に訪れた不思議な金髪の少年$npcName:11003142$！\n彼は、友情の証として自分がプレゼントした$item:50400191$から$item:33000118$を収穫しろと言っている。 ",
     "manual": "自分の家に設置された$item:50400191$から$item:33000118$を収穫する",
     "complete": "自宅で$npc:11003142$と会話する",
@@ -32619,7 +32619,7 @@
     "locking": "1"
   },
   "90000781-ContentsGuide02-": {
-    "name": "QUESTDESCRIPTION_90000781_NAME:[F]ContentsGuide02",
+    "name": "カボチャ大宴会",
     "desc": "QUESTDESCRIPTION_90000781_DESC:[F]ContentsGuide02",
     "manual": "QUESTDESCRIPTION_90000781_MANUAL:[F]ContentsGuide02",
     "complete": "自宅で$npc:11003142$と会話する",
@@ -33883,7 +33883,7 @@
     "locking": "0"
   },
   "40001000--": {
-    "name": "QUESTDESCRIPTION_40001000_NAME",
+    "name": "倉庫の整理は後で",
     "desc": "QUESTDESCRIPTION_40001000_DESC",
     "manual": "",
     "complete": "$map:63000001$にいる$npc:11000104$に会う",
@@ -33899,7 +33899,7 @@
     "locking": "1"
   },
   "40001002--": {
-    "name": "QUESTDESCRIPTION_40001002_NAME",
+    "name": "風船の持ち主はティボ",
     "desc": "QUESTDESCRIPTION_40001002_DESC",
     "manual": "$map:2000115$にいる$npc:11000114$から$item:30000171$を受け取る",
     "complete": "$map:02000115$にいる$npc:11000389$に会う",
@@ -33939,7 +33939,7 @@
     "locking": "1"
   },
   "40001040--": {
-    "name": "QUESTDESCRIPTION_40001040_NAME",
+    "name": "ポールのメッセージ",
     "desc": "QUESTDESCRIPTION_40001040_DESC",
     "manual": "",
     "complete": "$map:02000118$にいる$npc:11000617$に会う",
@@ -34003,7 +34003,7 @@
     "locking": "1"
   },
   "10001050--": {
-    "name": "QUESTDESCRIPTION_10001050_NAME",
+    "name": "好奇心少年",
     "desc": "QUESTDESCRIPTION_10001050_DESC",
     "manual": "",
     "complete": "$map:02000115$で$npc:11000114$を探してみる",
@@ -35211,7 +35211,7 @@
     "locking": "1"
   },
   "10001231--": {
-    "name": "QUESTDESCRIPTION_10001231_NAME",
+    "name": "透明な真実のために",
     "desc": "QUESTDESCRIPTION_10001231_DESC",
     "manual": "",
     "complete": "$map:02000134$を訪ねる",
@@ -35331,7 +35331,7 @@
     "locking": "1"
   },
   "10001322--": {
-    "name": "QUESTDESCRIPTION_10001322_NAME",
+    "name": "荷物の監獄",
     "desc": "QUESTDESCRIPTION_10001322_DESC",
     "manual": "QUESTDESCRIPTION_10001322_MANUAL",
     "complete": "$map:02000002$で$npc:11000246$に会う",
@@ -36179,7 +36179,7 @@
     "locking": "1"
   },
   "10002231--": {
-    "name": "QUESTDESCRIPTION_10002231_NAME",
+    "name": "徹底した備え",
     "desc": "QUESTDESCRIPTION_10002231_DESC",
     "manual": "QUESTDESCRIPTION_10002231_MANUAL",
     "complete": "$map:03000057$で$npc:11000839$に会う",
@@ -36227,7 +36227,7 @@
     "locking": "1"
   },
   "10002261--": {
-    "name": "QUESTDESCRIPTION_10002261_NAME",
+    "name": "ペリオンへ！",
     "desc": "QUESTDESCRIPTION_10002261_DESC",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002261_COMPLETE",
@@ -36243,7 +36243,7 @@
     "locking": "1"
   },
   "10002263--": {
-    "name": "QUESTDESCRIPTION_10002263_NAME",
+    "name": "カカ族の破滅",
     "desc": "QUESTDESCRIPTION_10002263_DESC",
     "manual": "QUESTDESCRIPTION_10002263_MANUAL",
     "complete": "$map:02000049$で$npc:11000039$に会う",
@@ -36635,7 +36635,7 @@
     "locking": "1"
   },
   "10002520--": {
-    "name": "QUESTDESCRIPTION_10002520_NAME",
+    "name": "青き大地の力",
     "desc": "QUESTDESCRIPTION_10002520_DESC",
     "manual": "QUESTDESCRIPTION_10002520_MANUAL",
     "complete": "$map:02000076$で$npc:11000001$に会う",
@@ -36811,7 +36811,7 @@
     "locking": "1"
   },
   "10002660--": {
-    "name": "QUESTDESCRIPTION_10002660_NAME",
+    "name": "ヒーリングタイム",
     "desc": "QUESTDESCRIPTION_10002660_DESC",
     "manual": "QUESTDESCRIPTION_10002660_MANUAL",
     "complete": "$map:2000064$で$npc:11001180$に会う",
@@ -36947,7 +36947,7 @@
     "locking": "1"
   },
   "10002677--": {
-    "name": "QUESTDESCRIPTION_10002677_NAME",
+    "name": "もちもち？甘酸っぱい？",
     "desc": "メイプルワールドの全てが気になって不思議なものだらけだという$npc:11001180$！！\n$item:20000015$を食べてみて味を教えてほしいと言う。\n気にはなるけど、食べて何か起きるのが怖いのだろうか？\nあれくらい食べても大事にはならないだろうし、経験だと思って食べてみよう。\n\n$item:20000015$は$map:2000138$で手に入るという。",
     "manual": "$item:20000015$を食べてみる",
     "complete": "$map:2000064$で$npc:11001180$に会う",
@@ -36963,7 +36963,7 @@
     "locking": "1"
   },
   "10002679--": {
-    "name": "QUESTDESCRIPTION_10002679_NAME",
+    "name": "我慢できない甘さ",
     "desc": "メイプルワールドの全てが気になって不思議なものだらけだという$npc:11001180$！！\n$item:20000043$を食べてみて味を教えてほしいと言う。\n気にはなるけど、食べて何か起きるのが怖いのだろうか？\nあれくらい食べても大事にはならないだろうし、経験だと思って食べてみよう。\n\n$item:20000043$は$map:2000117$で手に入るという。",
     "manual": "$item:20000043$を食べてみる",
     "complete": "$map:2000064$で$npc:11001180$に会う",
@@ -37027,7 +37027,7 @@
     "locking": "1"
   },
   "10002687--": {
-    "name": "QUESTDESCRIPTION_10002687_NAME",
+    "name": "くちゃくちゃもぐもぐ",
     "desc": "メイプルワールドの全てが気になって不思議なものだらけだという$npc:11001180$！！\n$item:20000055$を食べてみて味を教えてほしいと言う。\n気にはなるけど、食べて何か起きるのが怖いのだろうか？\nあれくらい食べても大事にはならないだろうし、経験だと思って食べてみよう。\n\n$item:20000055$は$map:2000017$で手に入るという。",
     "manual": "$item:20000055$を食べてみる",
     "complete": "$map:2000064$で$npc:11001180$に会う",
@@ -37115,7 +37115,7 @@
     "locking": "1"
   },
   "10002698--": {
-    "name": "QUESTDESCRIPTION_10002698_NAME",
+    "name": "華麗な休暇",
     "desc": "QUESTDESCRIPTION_10002698_DESC",
     "manual": "$map:2000178$に座って300秒間ゆとりを楽しむ",
     "complete": "$map:2000064$で$npc:11001180$に会う",
@@ -37155,7 +37155,7 @@
     "locking": "1"
   },
   "10002703--": {
-    "name": "QUESTDESCRIPTION_10002703_NAME",
+    "name": "パン！パン！うごめく大地",
     "desc": "QUESTDESCRIPTION_10002703_DESC",
     "manual": "$map:02000118$で、揺れる大地を見つけて調べる",
     "complete": "$map:2000064$で$npc:11001180$に会う",
@@ -37171,7 +37171,7 @@
     "locking": "1"
   },
   "10002705--": {
-    "name": "QUESTDESCRIPTION_10002705_NAME",
+    "name": "幸せな家づくり",
     "desc": "メイプルワールドの全てが気になって不思議なものだらけだという$npc:11001180$！！\n「$item:39000016$」という本を読みたいので手に入れてきてほしいと頼まれた。\n$map:2000031$へ行って本を探してみよう！",
     "manual": "$item:39000016$を獲得する",
     "complete": "$map:2000064$で$npc:11001180$に会う",
@@ -38043,7 +38043,7 @@
     "locking": "1"
   },
   "20001372--": {
-    "name": "QUESTDESCRIPTION_20001372_NAME",
+    "name": "大きな夢、大きな罰",
     "desc": "QUESTDESCRIPTION_20001372_DESC",
     "manual": "",
     "complete": "QUESTDESCRIPTION_20001372_COMPLETE",
@@ -38147,7 +38147,7 @@
     "locking": "1"
   },
   "20001421--": {
-    "name": "QUESTDESCRIPTION_20001421_NAME",
+    "name": "創作は共有",
     "desc": "QUESTDESCRIPTION_20001421_DESC",
     "manual": "",
     "complete": "QUESTDESCRIPTION_20001421_COMPLETE",
@@ -38771,7 +38771,7 @@
     "locking": "1"
   },
   "20001820--": {
-    "name": "QUESTDESCRIPTION_20001820_NAME",
+    "name": "兄ちゃん、大好きな兄ちゃん",
     "desc": "QUESTDESCRIPTION_20001820_DESC",
     "manual": "QUESTDESCRIPTION_20001820_MANUAL",
     "complete": "$map:02000011$にいる$npc:11001076$と会話する",
@@ -38803,7 +38803,7 @@
     "locking": "1"
   },
   "20001860--": {
-    "name": "QUESTDESCRIPTION_20001860_NAME",
+    "name": "ペルルンの計略",
     "desc": "QUESTDESCRIPTION_20001860_DESC",
     "manual": "QUESTDESCRIPTION_20001860_MANUAL",
     "complete": "$map:02000274$にいる$npc:11000848$と会話する",
@@ -39075,7 +39075,7 @@
     "locking": "1"
   },
   "30000011--": {
-    "name": "QUESTDESCRIPTION_30000011_NAME",
+    "name": "航海の必須条件",
     "desc": "QUESTDESCRIPTION_30000011_DESC",
     "manual": "",
     "complete": "QUESTDESCRIPTION_30000011_COMPLETE",
@@ -39283,7 +39283,7 @@
     "locking": "1"
   },
   "30000103--": {
-    "name": "QUESTDESCRIPTION_30000103_NAME",
+    "name": "タイヤも武器になる！",
     "desc": "QUESTDESCRIPTION_30000103_DESC",
     "manual": "QUESTDESCRIPTION_30000103_MANUAL",
     "complete": "$map:02000064$にいる$npc:11001179$に会う",
@@ -39307,7 +39307,7 @@
     "locking": "1"
   },
   "30000106--": {
-    "name": "QUESTDESCRIPTION_30000106_NAME",
+    "name": "廃棄物ドラム缶も武器になる！",
     "desc": "QUESTDESCRIPTION_30000106_DESC",
     "manual": "QUESTDESCRIPTION_30000106_MANUAL",
     "complete": "$map:02000064$にいる$npc:11001179$に会う",
@@ -39315,7 +39315,7 @@
     "locking": "1"
   },
   "30000107--": {
-    "name": "QUESTDESCRIPTION_30000107_NAME",
+    "name": "トーテムは投げても武器になる！",
     "desc": "QUESTDESCRIPTION_30000107_DESC",
     "manual": "トーテムを投げ、モンスターを攻撃する",
     "complete": "$map:02000064$にいる$npc:11001179$に会う",
@@ -39339,7 +39339,7 @@
     "locking": "1"
   },
   "30000110--": {
-    "name": "QUESTDESCRIPTION_30000110_NAME",
+    "name": "爆弾のすさまじい威力！",
     "desc": "QUESTDESCRIPTION_30000110_DESC",
     "manual": "QUESTDESCRIPTION_30000110_MANUAL",
     "complete": "$map:02000064$にいる$npc:11001179$に会う",
@@ -39371,7 +39371,7 @@
     "locking": "1"
   },
   "30000114--": {
-    "name": "QUESTDESCRIPTION_30000114_NAME",
+    "name": "たいまつも武器になる！",
     "desc": "QUESTDESCRIPTION_30000114_DESC",
     "manual": "QUESTDESCRIPTION_30000114_MANUAL",
     "complete": "$map:02000064$にいる$npc:11001179$に会う",
@@ -39395,7 +39395,7 @@
     "locking": "1"
   },
   "30000117--": {
-    "name": "QUESTDESCRIPTION_30000117_NAME",
+    "name": "標識も武器になる！",
     "desc": "QUESTDESCRIPTION_30000117_DESC",
     "manual": "QUESTDESCRIPTION_30000117_MANUAL",
     "complete": "$map:02000064$にいる$npc:11001179$に会う",
@@ -39419,7 +39419,7 @@
     "locking": "1"
   },
   "30000120--": {
-    "name": "QUESTDESCRIPTION_30000120_NAME",
+    "name": "トーテムは振り回しても武器になる！",
     "desc": "QUESTDESCRIPTION_30000120_DESC",
     "manual": "QUESTDESCRIPTION_30000120_MANUAL",
     "complete": "$map:02000064$にいる$npc:11001179$に会う",
@@ -39427,7 +39427,7 @@
     "locking": "1"
   },
   "30000121--": {
-    "name": "QUESTDESCRIPTION_30000121_NAME",
+    "name": "パイプも武器になる！",
     "desc": "QUESTDESCRIPTION_30000121_DESC",
     "manual": "QUESTDESCRIPTION_30000121_MANUAL",
     "complete": "$map:02000064$にいる$npc:11001179$に会う",
@@ -39435,7 +39435,7 @@
     "locking": "1"
   },
   "30000122--": {
-    "name": "QUESTDESCRIPTION_30000122_NAME",
+    "name": "ペリオンの家も武器になる！",
     "desc": "QUESTDESCRIPTION_30000122_DESC",
     "manual": "QUESTDESCRIPTION_30000122_MANUAL",
     "complete": "$map:02000064$にいる$npc:11001179$に会う",
@@ -39443,7 +39443,7 @@
     "locking": "1"
   },
   "30000123--": {
-    "name": "QUESTDESCRIPTION_30000123_NAME",
+    "name": "カーニンバスも武器になる！",
     "desc": "QUESTDESCRIPTION_30000123_DESC",
     "manual": "QUESTDESCRIPTION_30000123_MANUAL",
     "complete": "$map:02000064$にいる$npc:11001179$に会う",
@@ -39451,7 +39451,7 @@
     "locking": "1"
   },
   "30000124--": {
-    "name": "QUESTDESCRIPTION_30000124_NAME",
+    "name": "カーニン電話ボックスも武器になる！",
     "desc": "QUESTDESCRIPTION_30000124_DESC",
     "manual": "QUESTDESCRIPTION_30000124_MANUAL",
     "complete": "$map:02000064$にいる$npc:11001179$に会う",
@@ -39459,7 +39459,7 @@
     "locking": "1"
   },
   "30000125--": {
-    "name": "QUESTDESCRIPTION_30000125_NAME",
+    "name": "カーニントラックも武器になる！",
     "desc": "QUESTDESCRIPTION_30000125_DESC",
     "manual": "QUESTDESCRIPTION_30000125_MANUAL",
     "complete": "$map:02000064$にいる$npc:11001179$に会う",
@@ -39483,7 +39483,7 @@
     "locking": "1"
   },
   "30000128--": {
-    "name": "QUESTDESCRIPTION_30000128_NAME",
+    "name": "トイレも武器になる！",
     "desc": "QUESTDESCRIPTION_30000128_DESC",
     "manual": "QUESTDESCRIPTION_30000128_MANUAL",
     "complete": "$map:02000064$にいる$npc:11001179$に会う",
@@ -39499,7 +39499,7 @@
     "locking": "1"
   },
   "30000130--": {
-    "name": "QUESTDESCRIPTION_30000130_NAME",
+    "name": "ゼンマイ爆弾の威力！",
     "desc": "QUESTDESCRIPTION_30000130_DESC",
     "manual": "QUESTDESCRIPTION_30000130_MANUAL",
     "complete": "$map:02000064$にいる$npc:11001179$に会う",
@@ -39907,7 +39907,7 @@
     "locking": "0"
   },
   "30001009--": {
-    "name": "QUESTDESCRIPTION_30001009_NAME",
+    "name": "天然の滋養強壮剤",
     "desc": "QUESTDESCRIPTION_30001009_DESC",
     "manual": "QUESTDESCRIPTION_30001009_MANUAL",
     "complete": "$map:02000172$にいる$npc:11000712$に会う",
@@ -40123,7 +40123,7 @@
     "locking": "1"
   },
   "40001241--": {
-    "name": "QUESTDESCRIPTION_40001241_NAME",
+    "name": "ゼンマイの鍵を取り戻す",
     "desc": "QUESTDESCRIPTION_40001241_DESC",
     "manual": "QUESTDESCRIPTION_40001241_MANUAL",
     "complete": "$map:02000180$にいる$npc:11000997$に$item:30000308$を届ける",
@@ -40139,7 +40139,7 @@
     "locking": "1"
   },
   "40001243--": {
-    "name": "QUESTDESCRIPTION_40001243_NAME",
+    "name": "ゼンマイの鍵を捨てる",
     "desc": "QUESTDESCRIPTION_40001243_DESC",
     "manual": "QUESTDESCRIPTION_40001243_MANUAL",
     "complete": "$map:02000180$にいる$npc:11000996$と会話する",
@@ -40347,7 +40347,7 @@
     "locking": "1"
   },
   "40001440--": {
-    "name": "QUESTDESCRIPTION_40001440_NAME",
+    "name": "混在する時間",
     "desc": "QUESTDESCRIPTION_40001440_DESC",
     "manual": "QUESTDESCRIPTION_40001440_MANUAL",
     "complete": "$map:02000255$にいる$npc:11000847$と会話する",
@@ -40387,7 +40387,7 @@
     "locking": "1"
   },
   "40001490--": {
-    "name": "QUESTDESCRIPTION_40001490_NAME",
+    "name": "顎拳団を追い出す",
     "desc": "QUESTDESCRIPTION_40001490_DESC",
     "manual": "$map:02000094$にいる$npc:21000308$と$npc:21000309$を退治する",
     "complete": "$map:02000094$にいる$npc:11001072$と会話する",
@@ -40595,7 +40595,7 @@
     "locking": "1"
   },
   "40001650--": {
-    "name": "QUESTDESCRIPTION_40001650_NAME",
+    "name": "体力鍛錬",
     "desc": "QUESTDESCRIPTION_40001650_DESC",
     "manual": "$skill:20000011$スキルを使って壁を登り100m移動する",
     "complete": "$map:02000064$にいる$npc:11001181$と会話する",
@@ -40739,7 +40739,7 @@
     "locking": "1"
   },
   "40001830--": {
-    "name": "QUESTDESCRIPTION_40001830_NAME",
+    "name": "善良に生きようという誓い",
     "desc": "QUESTDESCRIPTION_40001830_DESC",
     "manual": "$map:02000124$を訪問する",
     "complete": "$map:02000064$にいる$npc:11001181$と会話する",
@@ -40843,7 +40843,7 @@
     "locking": "1"
   },
   "40001960--": {
-    "name": "QUESTDESCRIPTION_40001960_NAME",
+    "name": "初めて感じる手ごたえ",
     "desc": "QUESTDESCRIPTION_40001960_DESC",
     "manual": "釣りで魚を釣る",
     "complete": "$map:02000002$にいる$npc:11000781$と会話する",
@@ -41051,7 +41051,7 @@
     "locking": "1"
   },
   "40002220--": {
-    "name": "QUESTDESCRIPTION_40002220_NAME",
+    "name": "乗り物に身を任せてみて",
     "desc": "QUESTDESCRIPTION_40002220_DESC",
     "manual": "乗り物に乗って500m移動する",
     "complete": "$map:02010002$にいる$npcName:11001369$と会話する",
@@ -41091,7 +41091,7 @@
     "locking": "1"
   },
   "40002270--": {
-    "name": "QUESTDESCRIPTION_40002270_NAME",
+    "name": "ぴょんぴょん跳ねながら走ってみて",
     "desc": "QUESTDESCRIPTION_40002270_DESC",
     "manual": "100回ジャンプする",
     "complete": "$map:02010002$にいる$npcName:11001369$と会話する",
@@ -42379,7 +42379,7 @@
     "locking": "0"
   },
   "40002799-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_40002799_NAME:[F]Fame_Geo01",
+    "name": "タイレン王国の介入",
     "desc": "QUESTDESCRIPTION_40002799_DESC:[F]Fame_Geo01",
     "manual": "$map:02020066$の$npcName:25022200$を退治する\n|$map:02020066$の$npcName:25022201$を退治する\n|$map:02020066$の$npcName:25022204$を退治する",
     "complete": "$map:02020066$で$npc:11004574$と会話する",
@@ -42419,7 +42419,7 @@
     "locking": "0"
   },
   "40002804-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_40002804_NAME:[F]Fame_Geo01",
+    "name": "ケルベスが作った怪物",
     "desc": "QUESTDESCRIPTION_40002804_DESC:[F]Fame_Geo01",
     "manual": "$map:02020066$で$npcName:25022208$を退治する\n|$map:02020067$で$npcName:25022307$を退治する",
     "complete": "$map:02020066$で$npc:11004574$と会話する",
@@ -42475,7 +42475,7 @@
     "locking": "0"
   },
   "40002811-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_40002811_NAME:[F]Fame_Geo01",
+    "name": "包囲された$map:02020069$",
     "desc": "QUESTDESCRIPTION_40002811_DESC:[F]Fame_Geo01",
     "manual": "$map:02020069$で$npcName:25022502$を退治する",
     "complete": "$map:02020069$で$npc:11004620$と会話する",
@@ -42531,7 +42531,7 @@
     "locking": "0"
   },
   "40002818-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_40002818_NAME:[F]Fame_Geo01",
+    "name": "致命的な狩りの方法",
     "desc": "QUESTDESCRIPTION_40002818_DESC:[F]Fame_Geo01",
     "manual": "$map:02020069$の$npcName:25022504$を退治する",
     "complete": "$map:02020069$で$npc:11004620$と会話する",
@@ -42539,7 +42539,7 @@
     "locking": "0"
   },
   "40002819-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_40002819_NAME:[F]Fame_Geo01",
+    "name": "稚拙な陰謀",
     "desc": "QUESTDESCRIPTION_40002819_DESC:[F]Fame_Geo01",
     "manual": "$map:02020069$の$npcName:25022505$を破壊する",
     "complete": "$map:02020069$で$npc:11004620$と会話する",
@@ -42547,7 +42547,7 @@
     "locking": "0"
   },
   "40002820-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_40002820_NAME:[F]Fame_Geo01",
+    "name": "ケルベスの心理戦",
     "desc": "QUESTDESCRIPTION_40002820_DESC:[F]Fame_Geo01",
     "manual": "$map:02020066$の$npcName:25022207$を撃退する",
     "complete": "$map:02020066$で$npc:11004574$と会話する",
@@ -42587,7 +42587,7 @@
     "locking": "0"
   },
   "40002825-Fame_Geo01-": {
-    "name": "QUESTDESCRIPTION_40002825_NAME:[F]Fame_Geo01",
+    "name": "執拗な狂気",
     "desc": "QUESTDESCRIPTION_40002825_DESC:[F]Fame_Geo01",
     "manual": "$map:02020068$の$npcName:25022400$を退治する",
     "complete": "$map:02020069$で$npc:11004620$と会話する",
@@ -42603,7 +42603,7 @@
     "locking": "0"
   },
   "92000000-FameContents-": {
-    "name": "QUESTDESCRIPTION_92000000_NAME:[F]FameContents",
+    "name": "フィールドクエスト ダミークエスト",
     "desc": "作業予定",
     "manual": "作業予定",
     "complete": "$npcName:11003535$の無線を受ける",
@@ -42755,7 +42755,7 @@
     "locking": "0"
   },
   "92000190-FameContents-": {
-    "name": "QUESTDESCRIPTION_92000190_NAME:[F]FameContents",
+    "name": "胞子に感染した木",
     "desc": "QUESTDESCRIPTION_92000190_DESC:[F]FameContents",
     "manual": "$npcName:21000340$を退治する|$npcName:21000081$を退治する|$npcName:21000082$を退治する",
     "complete": "$npcName:11003535$の無線を受ける",
