@@ -1,0 +1,765 @@
+###1 file=npcfunctionname key=11004504-Kritias_2018_12- field=name
+JP|NPCFUNCTIONNAME_11004504_NAME:[F]Kritias_2018_12
+KO|에네르 보급병
+EN|Aetherine Supplies
+
+###2 file=npcfunctionname key=11004517-Kritias_2018_12- field=name
+JP|NPCFUNCTIONNAME_11004517_NAME:[F]Kritias_2018_12
+KO|메이플 연합 보급관
+EN|Maple Alliance Quartermaster
+
+###3 file=npcfunctionname key=11004518-Kritias_2018_12- field=name
+JP|NPCFUNCTIONNAME_11004518_NAME:[F]Kritias_2018_12
+KO|루미나이츠 보급관
+EN|Lumiknights Quartermaster
+
+###4 file=npcfunctionname key=11004519-Kritias_2018_12- field=name
+JP|NPCFUNCTIONNAME_11004519_NAME:[F]Kritias_2018_12
+KO|그린후드 보급관
+EN|Green Hoods Quartermaster
+
+###5 file=npcfunctionname key=11004707-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004707_NAME:[F]Wedding
+KO|하우스 웨딩 플래너
+EN|House Wedding Planner
+
+###6 file=npcfunctionname key=11004708-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004708_NAME:[F]Wedding
+KO|파티 웨딩 플래너
+EN|Party Wedding Planner
+
+###7 file=npcfunctionname key=11004709-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004709_NAME:[F]Wedding
+KO|럭셔리 웨딩 플래너
+EN|Luxury Wedding Planner
+
+###8 file=npcfunctionname key=11004710-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004710_NAME:[F]Wedding
+KO|스카이 캐슬 성주
+EN|Sky Castle Castellan
+
+###9 file=npcfunctionname key=11004711-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004711_NAME:[F]Wedding
+KO|럭셔리 크루즈 MC
+EN|Luxury Cruise MC
+
+###10 file=npcfunctionname key=11004712-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004712_NAME:[F]Wedding
+KO|이혼 변호사
+EN|Divorce Attorney
+
+###11 file=npcfunctionname key=11004713-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004713_NAME:[F]Wedding
+KO|이혼 변호사
+EN|Divorce Attorney
+
+###12 file=npcfunctionname key=11004714-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004714_NAME:[F]Wedding
+KO|행운의 상인
+EN|Lucky Merchant
+
+###13 file=npcfunctionname key=11004733-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004733_NAME:[F]Wedding
+KO|럭셔리 크루즈 MC
+EN|Luxury Cruise MC
+
+###14 file=npcfunctionname key=11004738-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004738_NAME:[F]Wedding
+KO|파티 웨딩 플래너
+EN|Party Wedding Planner
+
+###15 file=npcfunctionname key=11004745-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004745_NAME:[F]Wedding
+KO|하우스 웨딩 플래너
+EN|House Wedding Planner
+
+###16 file=npcfunctionname key=11004746-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004746_NAME:[F]Wedding
+KO|파티 웨딩 플래너
+EN|Party Wedding Planner
+
+###17 file=npcfunctionname key=11004747-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004747_NAME:[F]Wedding
+KO|럭셔리 웨딩 플래너
+EN|Luxury Wedding Planner
+
+###18 file=npcfunctionname key=11004748-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004748_NAME:[F]Wedding
+KO|하우스 웨딩 플래너
+EN|House Wedding Planner
+
+###19 file=npcfunctionname key=11004749-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004749_NAME:[F]Wedding
+KO|파티 웨딩 플래너
+EN|Party Wedding Planner
+
+###20 file=npcfunctionname key=11004750-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004750_NAME:[F]Wedding
+KO|럭셔리 웨딩 플래너
+EN|Luxury Wedding Planner
+
+###21 file=npcfunctionname key=11004751-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004751_NAME:[F]Wedding
+KO|하우스 웨딩 플래너
+EN|House Wedding Planner
+
+###22 file=npcfunctionname key=11004752-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004752_NAME:[F]Wedding
+KO|파티 웨딩 플래너
+EN|Party Wedding Planner
+
+###23 file=npcfunctionname key=11004753-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004753_NAME:[F]Wedding
+KO|럭셔리 웨딩 플래너
+EN|Luxury Wedding Planner
+
+###24 file=npcfunctionname key=11004754-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004754_NAME:[F]Wedding
+KO|청혼 도우미
+EN|Proposal Helper
+
+###25 file=npcfunctionname key=11004755-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004755_NAME:[F]Wedding
+KO|청첩장 발송 도우미
+EN|Wedding Invitation Sender
+
+###26 file=npcfunctionname key=11004756-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004756_NAME:[F]Wedding
+KO|촬영지 관리인
+EN|Location Manager
+
+###27 file=npcfunctionname key=11004757-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004757_NAME:[F]Wedding
+KO|촬영지 관리인
+EN|Location Manager
+
+###28 file=npcfunctionname key=11004758-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004758_NAME:[F]Wedding
+KO|촬영지 관리인
+EN|Location Manager
+
+###29 file=npcfunctionname key=11004772-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004772_NAME:[F]Wedding
+KO|발랄한 웨딩 컨설턴트
+EN|Young Wedding Consultant
+
+###30 file=npcfunctionname key=11004773-Wedding- field=name
+JP|NPCFUNCTIONNAME_11004773_NAME:[F]Wedding
+KO|발랄한 웨딩 컨설턴트
+EN|Young Wedding Consultant
+
+###31 file=stringguide key=81073-Kritias_Epic01- field=name
+JP|STRINGGUIDE_81073_NAME:[F]Kritias_Epic01
+KO|[[icon:autoquestaccept]]월드 안전 보장회의 퀘스트 확인하기
+EN|[[icon:autoquestaccept]]Accept the quest "Convening the World Security Council"
+
+###32 file=stringguide key=110011-WorldChampionMushroom- field=name
+JP|STRINGGUIDE_110011_NAME:[F]WorldChampionMushroom
+KO|월드 레이드 창 열기
+EN|Open World Raid Window
+
+###33 file=stringguide key=110012-WorldChampionMushroom- field=name
+JP|STRINGGUIDE_110012_NAME:[F]WorldChampionMushroom
+KO|점점 강해지는 머쉬킹을 처치하고 다양한 보상을 획득하세요.\n<font color="#909090">이벤트 기간 동안 </font><font color="#00a2ed">금요일~일요일</font><font color="#909090">에 머쉬킹이 메이플 월드를 습격합니다. 머쉬킹은 </font><font color="#00a2ed">모든 채널</font><font color="#909090">에 있는 모험가가 협동해서 처치할 수 있습니다. 단, </font><font color="#00a2ed">포자 차단 크림</font><font color="#909090">을 사용한 </font><font color="#00a2ed">50레벨이상</font><font color="#909090"> 캐릭터만 공격할 수 있습니다. 포자 차단 크림은 출석 보상으로 획득할 수 있습니다.</font>
+EN|Defeat the increasingly powerful Mushking and earn various rewards.\nDuring the <font color="#909090"> event period, the Mushking will invade Maple World from </font><font color="#00a2ed"> Friday to Sunday </font><font color="#909090">. The Mushking can be defeated cooperatively by adventurers in </font><font color="#00a2ed"> all channels </font><font color="#909090">. However, only characters above level </font><font color="#00a2ed"> 50 </font><font color="#909090"> who use the Spore Block Cream </font><font color="#00a2ed"> can attack. The Spore Block Cream can be obtained as a login reward. </font>
+
+###34 file=stringguide key=20110001-Kritias_Paika01- field=name
+JP|STRINGGUIDE_20110001_NAME:[F]Kritias_Paika01
+KO|<font color="#00a2ed">에네르 동력원</font>을 전원부 위로 옮기세요.
+EN|Move the <font color="#00a2ed">Aetherine Power Source</font> to the top of the power supply.
+
+###35 file=stringguide key=28400131-Wedding- field=name
+JP|STRINGGUIDE_28400131_NAME:[F]Wedding
+KO|결혼할 두 사람이 모두 입장하길 기다리고 있습니다.
+EN|Both users who are going to get married are waiting to enter.
+
+###36 file=stringguide key=28400132-Wedding- field=name
+JP|STRINGGUIDE_28400132_NAME:[F]Wedding
+KO|결혼식장 대여 시간이 지났습니다. 식장을 폐쇄합니다.
+EN|The wedding hall rental time has passed. The hall is closed.
+
+###37 file=stringguide key=28400133-Wedding- field=name
+JP|STRINGGUIDE_28400133_NAME:[F]Wedding
+KO|신랑/신부는 주례에게 말을 걸어 결혼식을 시작할 수 있습니다.
+EN|The couple can begin the wedding ceremony by speaking to the officiant.
+
+###38 file=stringguide key=28400134-Wedding- field=name
+JP|STRINGGUIDE_28400134_NAME:[F]Wedding
+KO|지금 바로 결혼식을 시작합니다.
+EN|The wedding ceremony will now begin.
+
+###39 file=stringguide key=28400135-Wedding- field=name
+JP|STRINGGUIDE_28400135_NAME:[F]Wedding
+KO|모두 자유롭게 기념 촬영과 뒷풀이를 즐기시기 바랍니다.
+EN|Everyone is free to take photos and enjoy the after-party.
+
+###40 file=stringguide key=28400136-Wedding- field=name
+JP|STRINGGUIDE_28400136_NAME:[F]Wedding
+KO|결혼식을 끝내려면, 신랑/신부가 주례에게 말을 거세요.
+EN|To conclude the wedding ceremony, the couple can speak to the officiant.
+
+###41 file=stringguide key=28400137-Wedding- field=name
+JP|STRINGGUIDE_28400137_NAME:[F]Wedding
+KO|잠시 후, 결혼식장이 폐쇄됩니다. 모두 퇴장해 주세요.
+EN|The wedding hall will be closed shortly. Please proceed to exit.
+
+###42 file=stringguide key=28400138-Wedding- field=name
+JP|STRINGGUIDE_28400138_NAME:[F]Wedding
+KO|잠시 후, 기념 촬영장이 폐쇄됩니다. 모두 퇴장해 주세요.
+EN|The commemorative photo studio will be closed shortly. Please proceed to exit.
+
+###43 file=stringguide key=28400139-Wedding- field=name
+JP|STRINGGUIDE_28400139_NAME:[F]Wedding
+KO|잠시 후, 애프터 파티 공간이 폐쇄됩니다. 모두 퇴장해 주세요.
+EN|The after-party area will be closed shortly. Please proceed to exit.
+
+###44 file=stringguide key=28400140-Wedding- field=name
+JP|STRINGGUIDE_28400140_NAME:[F]Wedding
+KO|알 수 없는 오류로 결혼식을 다시 진행해야 합니다.
+EN|The wedding must be rescheduled due to an unknown error.
+
+###45 file=stringguide key=28400703-Wedding- field=name
+JP|STRINGGUIDE_28400703_NAME:[F]Wedding
+KO|[[icon:dance_light]] 신나게 춤추고 <font color="#00a2ed">웨딩 캔디박스</font>를 받아 열어보세요!
+EN|[[icon:dance_light]] Dance your heart out and earn <font color="#00a2ed">Wedding Candy Box</font>!
+
+###46 file=stringguide key=28500002-Wedding- field=name
+JP|STRINGGUIDE_28500002_NAME:[F]Wedding
+KO|다른 하객들이 올 때까지 조금만 기다려주세요.
+EN|Please wait a moment until other guests have arrived.
+
+###47 file=stringguide key=28500010-Wedding- field=name
+JP|STRINGGUIDE_28500010_NAME:[F]Wedding
+KO|파티장 음식을 훔치고 <font color="#00a2ed">웨딩 캔디박스</font>를 받아 열어보세요!
+EN|Steal party food and open the <font color="#00a2ed">Wedding Candy Box</font>!
+
+###48 file=stringguide key=29200001-Kritias_Balrog01- field=name
+JP|STRINGGUIDE_29200001_NAME:[F]Kritias_Balrog01
+KO|도움을 요청하는 경비병을 도와야  $npcName:23090006$을 처치할 수 있습니다.
+EN|Rally the guards to help you to defeat $npcName:23090006$.
+
+###49 file=stringguide key=29200002-Kritias_Inferno01- field=name
+JP|STRINGGUIDE_29200002_NAME:[F]Kritias_Inferno01
+KO|<font color="#00a2ed">크리스탈</font>을  $npcName:23000150$에게 던져서 주의를 끌 수 있습니다.
+EN|Throw the <font color="#00a2ed">crystal</font> at $npcName:23000150$ to draw his attention.
+
+###50 file=stringguide key=29200003-Kritias_Turka03- field=name
+JP|STRINGGUIDE_29200003_NAME:[F]Kritias_Turka03
+KO|<font color="#00a2ed">$npcName:21803600$</font>이 있는 곳에 가서 [[keyAction:totalAction]]키를 눌러 파괴해야 합니다.
+EN|Go to the place where <font color="#00a2ed">$npcName:21803600$</font> is and press the [[keyAction:totalAction]] key to destroy it.
+
+###51 file=stringguide key=29200004-Kritias_Turka03- field=name
+JP|STRINGGUIDE_29200004_NAME:[F]Kritias_Turka03
+KO|파괴된 바닥 아래로 떨어져, 다음 장소로 이동합니다.
+EN|Fall down the destroyed floor and move to the next location.
+
+###52 file=stringguide key=29200005-Kritias_Turka03- field=name
+JP|STRINGGUIDE_29200005_NAME:[F]Kritias_Turka03
+KO|<font color="#00a2ed">$npcName:21803600$</font>을 제거하지 않으면, $npcName:23000122$는 점점 강해집니다.
+EN|If you don't remove <font color="#00a2ed"> $npcName:21803600$ </font> $npcName:23000122$ will become stronger.
+
+###53 file=stringguide key=29200006-Kritias_Turka03- field=name
+JP|STRINGGUIDE_29200006_NAME:[F]Kritias_Turka03
+KO|<font color="#00a2ed">$npcName:21502291$</font>를 제거하지 않으면, $npcName:23000122$는 점점 강해집니다.
+EN|If you don't remove <font color="#00a2ed"> $npcName:21502291$ </font>, $npcName:23000122$ will become stronger.
+
+###54 file=stringguide key=29200007-DungeonOpen70CH5- field=name
+JP|STRINGGUIDE_29200007_NAME:[F]DungeonOpen70CH5
+KO|<font color="#00a2ed">자동차에 매달리세요!</font>
+EN|<font color="#00a2ed"> Hang on to the car! </font>
+
+###55 file=stringguide key=29200008-DungeonOpen70CH5- field=name
+JP|STRINGGUIDE_29200008_NAME:[F]DungeonOpen70CH5
+KO|동료가 흡수되었으니 <font color="#00a2ed">블랙빈 얼굴 쿠션을 사용하세요!</font>
+EN|Since your companion has been absorbed, use the <font color="#00a2ed"> Black Bean Face Cushion! </font>
+
+###56 file=stringguide key=40002793-JobChange_02- field=name
+JP|STRINGGUIDE_40002793_NAME:[F]JobChange_02
+KO|<font size="25"><font color="#ffd200">마스터 스킬</font></font>을 사용할 수 있습니다.⏎<font color="#ffd200">마스터 스킬</font><font color="#909090">은</font> <font color="#ffd200">스킬 메뉴</font><font color="#909090">에서 확인 할 수 있습니다. </font> ⏎마스터 스킬<font color="#909090">을 사용하여</font> 다양한 전투<font color="#909090">를 즐겨보세요.</font>⏎
+EN|You can find your <font size="25"><font color="#ffd200">master skills</font></font> in the Skills menu. Use these skills to give your combat style an extra kick!⏎
+
+###57 file=stringguide key=91001010-Fame_Geo01- field=name
+JP|STRINGGUIDE_91001010_NAME:[F]Fame_Geo01
+KO|<font size="25"><font color="#ffd200">게오르크 세력 임무</font></font>를 수행할 수 있습니다.⏎<font color="#ffd200">게오르크 세력 임무</font><font color="#909090">는</font> <font color="#ffd200">$npcName:11004614$</font><font color="#909090">에게 확인 할 수 있습니다. </font> ⏎게오르크 세력 임무<font color="#909090">를 수행하여</font> 다양한 경험<font color="#909090">을 즐겨보세요.</font>⏎
+EN|You can undertake the <font size="25"><font color="#ffd200">Humanitas faction mission</font></font>. ⏎The <font color="#ffd200">Humanitas faction mission</font><font color="#909090"> can be confirmed with </font> <font color="#ffd200">$npcName:11004614$</font><font color="#909090">. </font>  ⏎Enjoy various experiences by completing the <font color="#909090">Humanitas faction mission</font>.⏎
+
+###58 file=maidmanufacturemessage key=11000512-- field=npc
+JP|모모
+KO|모모
+EN|모모
+
+###59 file=maidmanufacturemessage key=11000767-- field=npc
+JP|테리
+KO|테리
+EN|테리
+
+###60 file=maidmanufacturemessage key=11000768-- field=npc
+JP|어흥이
+KO|어흥이
+EN|어흥이
+
+###61 file=maidmanufacturemessage key=11000769-- field=npc
+JP|마누
+KO|마누
+EN|마누
+
+###62 file=maidmanufacturemessage key=11000770-- field=npc
+JP|리나
+KO|리나
+EN|리나
+
+###63 file=maidmanufacturemessage key=11000771-- field=npc
+JP|모밍
+KO|모밍
+EN|모밍
+
+###64 file=maidmanufacturemessage key=11000772-- field=npc
+JP|네네 0호기
+KO|네네 0호기
+EN|네네 0호기
+
+###65 file=maidmanufacturemessage key=11000773-- field=npc
+JP|쉐도우 닥터
+KO|쉐도우 닥터
+EN|쉐도우 닥터
+
+###66 file=maidmanufacturemessage key=11000774-- field=npc
+JP|미노
+KO|미노
+EN|미노
+
+###67 file=maidmanufacturemessage key=11000777-- field=npc
+JP|코델리아
+KO|코델리아
+EN|코델리아
+
+###68 file=maidmanufacturemessage key=11000778-- field=npc
+JP|민트
+KO|민트
+EN|민트
+
+###69 file=maidmanufacturemessage key=11000779-- field=npc
+JP|제이시
+KO|제이시
+EN|제이시
+
+###70 file=maidmanufacturemessage key=11000780-- field=npc
+JP|혁이
+KO|혁이
+EN|혁이
+
+###71 file=maidmanufacturemessage key=11000785-- field=npc
+JP|머뭇
+KO|머뭇
+EN|머뭇
+
+###72 file=maidmanufacturemessage key=11000786-- field=npc
+JP|에카
+KO|에카
+EN|에카
+
+###73 file=maidmanufacturemessage key=11000787-- field=npc
+JP|케이
+KO|케이
+EN|케이
+
+###74 file=maidmanufacturemessage key=11000788-- field=npc
+JP|해리
+KO|해리
+EN|해리
+
+###75 file=maidmanufacturemessage key=11000789-- field=npc
+JP|아리타
+KO|아리타
+EN|아리타
+
+###76 file=maidmanufacturemessage key=11000790-- field=npc
+JP|웅크린 엉덩이
+KO|웅크린 엉덩이
+EN|웅크린 엉덩이
+
+###77 file=maidmanufacturemessage key=11000791-- field=npc
+JP|솔베이
+KO|솔베이
+EN|솔베이
+
+###78 file=maidmanufacturemessage key=11000792-- field=npc
+JP|호르헤
+KO|호르헤
+EN|호르헤
+
+###79 file=maidmanufacturemessage key=11000793-- field=npc
+JP|김여사
+KO|김여사
+EN|김여사
+
+###80 file=maidmanufacturemessage key=11000794-- field=npc
+JP|요요
+KO|요요
+EN|요요
+
+###81 file=maidmanufacturemessage key=11000544-- field=npc
+JP|팀
+KO|팀
+EN|팀
+
+###82 file=maidmanufacturemessage key=11000764-- field=npc
+JP|바닐라
+KO|바닐라
+EN|바닐라
+
+###83 file=maidmanufacturemessage key=11000758-- field=npc
+JP|레베카
+KO|레베카
+EN|레베카
+
+###84 file=maidmanufacturemessage key=11000759-- field=npc
+JP|미카엘
+KO|미카엘
+EN|미카엘
+
+###85 file=chapterdescription_epic key=247-Develop- field=name
+JP|CHAPTERDESCRIPTION_247_NAME:[F]Develop
+KO|新对应项目 100~
+EN|
+
+###86 file=chapterdescription_epic key=1142-Develop- field=name
+JP|CHAPTERDESCRIPTION_1142_NAME:[F]Develop
+KO|新对应项目 1000~
+EN|
+
+###87 file=chapterdescription_epic key=2013-Timaion01- field=name
+JP|CHAPTERDESCRIPTION_2013_NAME:[F]Timaion01
+KO|鲁莽的结盟
+EN|
+
+###88 file=chapterdescription_epic key=2014-Timaion01- field=name
+JP|CHAPTERDESCRIPTION_2014_NAME:[F]Timaion01
+KO|情报的代价
+EN|
+
+###89 file=chapterdescription_epic key=2015-Timaion01- field=name
+JP|CHAPTERDESCRIPTION_2015_NAME:[F]Timaion01
+KO|苍穹之塔
+EN|
+
+###90 file=chapterdescription_epic key=2104-Develop- field=name
+JP|CHAPTERDESCRIPTION_2104_NAME:[F]Develop
+KO|新对应项目 2000~
+EN|
+
+###91 file=chapterdescription_epic key=3109-JobChange_02- field=name
+JP|CHAPTERDESCRIPTION_3109_NAME:[F]JobChange_02
+KO|마스터 스킬
+EN|Master Skill
+
+###92 file=chapterdescription_epic key=3110-Develop- field=name
+JP|CHAPTERDESCRIPTION_3110_NAME:[F]Develop
+KO|新对应项目 3000~
+EN|
+
+###93 file=chapterdescription_epic key=4073-- field=isTutorial
+JP|중복
+KO|중복
+EN|중복
+
+###94 file=chapterdescription_epic key=4085-Timaion01- field=name
+JP|CHAPTERDESCRIPTION_4085_NAME:[F]Timaion01
+KO|未知的回响
+EN|
+
+###95 file=chapterdescription_epic key=4086-Timaion01- field=name
+JP|CHAPTERDESCRIPTION_4086_NAME:[F]Timaion01
+KO|混乱的战场
+EN|
+
+###96 file=chapterdescription_epic key=4087-Timaion01- field=name
+JP|CHAPTERDESCRIPTION_4087_NAME:[F]Timaion01
+KO|意志分歧
+EN|
+
+###97 file=chapterdescription_epic key=4088-LapentaFrontierQuest- field=isTutorial
+JP|중복
+KO|중복
+EN|중복
+
+###98 file=chapterdescription_epic key=4092-Kritias_Epic01- field=name
+JP|CHAPTERDESCRIPTION_4092_NAME:[F]Kritias_Epic01
+KO|미지의 대륙 크리티아스
+EN|The New World
+
+###99 file=chapterdescription_epic key=5017-Timaion01- field=name
+JP|CHAPTERDESCRIPTION_5017_NAME:[F]Timaion01
+KO|获取信任的方法
+EN|
+
+###100 file=chapterdescription_epic key=5030-Kritias_Epic02- field=name
+JP|CHAPTERDESCRIPTION_5030_NAME:[F]Kritias_Epic02
+KO|점령지를 넘어
+EN|Beyond the Border
+
+###101 file=chapterdescription_epic key=5031-EpicApocalypse01- field=name
+JP|CHAPTERDESCRIPTION_5031_NAME:[F]EpicApocalypse01
+KO|어둠의 진실
+EN|Dark Truth
+
+###102 file=chapterdescription_epic key=5032-EpicApocalypse01- field=name
+JP|CHAPTERDESCRIPTION_5032_NAME:[F]EpicApocalypse01
+KO|예견된 파멸, 그러나
+EN|Forseen Ruin, But
+
+###103 file=chapterdescription_epic key=5033-UnlimitedEnchant- field=name
+JP|CHAPTERDESCRIPTION_5033_NAME:[F]UnlimitedEnchant
+KO|한계를 뛰어넘어
+EN|Beyond the Limits
+
+###104 file=chapterdescription_epic key=5034-EpicApocalypse02- field=name
+JP|CHAPTERDESCRIPTION_5034_NAME:[F]EpicApocalypse02
+KO|균열 속 존재
+EN|Presence in the Rift
+
+###105 file=chapterdescription_epic key=9998-Develop- field=name
+JP|CHAPTERDESCRIPTION_9998_NAME:[F]Develop
+KO|对应项目分离
+EN|
+
+###106 file=loadingdescription key=211-CharacterAbility- field=text
+JP|LOADINGDESCRIPTION_211_TEXT:[F]CharacterAbility
+KO|50레벨이 되면 특성의 힘을 개방할 수 있습니다.
+EN|50레벨이 되면 특성의 힘을 개방할 수 있습니다.
+
+###107 file=loadingdescription key=212-CharacterAbility- field=text
+JP|LOADINGDESCRIPTION_212_TEXT:[F]CharacterAbility
+KO|50레벨 이후부터 레벨이 오를 때마다 특성 포인트를 얻을 수 있습니다.
+EN|After level 50, you can get attribute points every time you level up.
+
+###108 file=loadingdescription key=312-Develop- field=text
+JP|LOADINGDESCRIPTION_312_TEXT:[F]Develop
+KO|如果加入了公会，每小时 \n都能获得公会经验值。
+EN|
+
+###109 file=loadingdescription key=313-Develop- field=text
+JP|LOADINGDESCRIPTION_313_TEXT:[F]Develop
+KO|如果加入了公会，每次参加 MC凯的活动\n都能获得公会经验值。
+EN|
+
+###110 file=loadingdescription key=314-Develop- field=text
+JP|LOADINGDESCRIPTION_314_TEXT:[F]Develop
+KO|如果加入了公会，每次消灭首领怪物\n都能获得公会经验值。
+EN|
+
+###111 file=loadingdescription key=315-Develop- field=text
+JP|LOADINGDESCRIPTION_315_TEXT:[F]Develop
+KO|和其他公会成员一起消灭首领怪物就能额外获得 \n公会经验值。
+EN|
+
+###112 file=loadingdescription key=316-Develop- field=text
+JP|LOADINGDESCRIPTION_316_TEXT:[F]Develop
+KO|我获得的公会经验值将显示为公会活动指数。
+EN|
+
+###113 file=loadingdescription key=317-Develop- field=text
+JP|LOADINGDESCRIPTION_317_TEXT:[F]Develop
+KO|公会贡献度每周初始化。
+EN|
+
+###114 file=loadingdescription key=318-Develop- field=text
+JP|LOADINGDESCRIPTION_318_TEXT:[F]Develop
+KO|获得的公会经验值将按一定比率转换为公会基金。
+EN|
+
+###115 file=loadingdescription key=319-Develop- field=text
+JP|LOADINGDESCRIPTION_319_TEXT:[F]Develop
+KO|搜集公会基金就能购买公会技能。
+EN|
+
+###116 file=loadingdescription key=323-Develop- field=text
+JP|LOADINGDESCRIPTION_323_TEXT:[F]Develop
+KO|公会活动指数每周初始化一次。
+EN|
+
+###117 file=loadingdescription key=354-Develop- field=text
+JP|LOADINGDESCRIPTION_354_TEXT:[F]Develop
+KO|通过寻找随机副本队伍可以轻松遇到队员，\n也能挑战符合自己水平的副本。
+EN|
+
+###118 file=loadingdescription key=355-Develop- field=text
+JP|LOADINGDESCRIPTION_355_TEXT:[F]Develop
+KO|如果通关随机副本，\n就能获得随机奖励。
+EN|
+
+###119 file=chapterdescription_famecontents key=10014-Kritias_2018_12- field=name
+JP|CHAPTERDESCRIPTION_10014_NAME:[F]Kritias_2018_12
+KO|[크리티아스 원정대] 메이플 연합의 임무
+EN|Maple Alliance Kritias Missions
+
+###120 file=chapterdescription_famecontents key=10015-Kritias_2018_12- field=name
+JP|CHAPTERDESCRIPTION_10015_NAME:[F]Kritias_2018_12
+KO|[크리티아스 원정대] 루미나이츠의 임무
+EN|Lumiknight Kritias Missions
+
+###121 file=chapterdescription_famecontents key=10016-Kritias_2018_12- field=name
+JP|CHAPTERDESCRIPTION_10016_NAME:[F]Kritias_2018_12
+KO|[크리티아스 원정대] 그린후드의 임무
+EN|Green Hood Kritias Missions
+
+###122 file=chapterdescription_famecontents key=10017-Kritias_2018_12- field=name
+JP|CHAPTERDESCRIPTION_10017_NAME:[F]Kritias_2018_12
+KO|[크리티아스 원정대] 메이플 연합 특수 임무
+EN|Maple Alliance Special Kritias Missions
+
+###123 file=chapterdescription_famecontents key=10018-Kritias_2018_12- field=name
+JP|CHAPTERDESCRIPTION_10018_NAME:[F]Kritias_2018_12
+KO|[크리티아스 원정대] 루미나이츠 특수 임무
+EN|Lumiknight Special Kritias Missions
+
+###124 file=chapterdescription_famecontents key=10019-Kritias_2018_12- field=name
+JP|CHAPTERDESCRIPTION_10019_NAME:[F]Kritias_2018_12
+KO|[크리티아스 원정대] 그린후드 특수 임무
+EN|Green Hood Special Kritias Missions
+
+###125 file=chapterdescription_famecontents key=10020-Fame_Geo01- field=name
+JP|CHAPTERDESCRIPTION_10020_NAME:[F]Fame_Geo01
+KO|게오르크 세력
+EN|
+
+###126 file=chapterdescription_famecontents key=10021-Fame_Geo01- field=name
+JP|CHAPTERDESCRIPTION_10021_NAME:[F]Fame_Geo01
+KO|게오르크의 임무
+EN|
+
+###127 file=nametagsymboltitle key=15-Zakum01- field=name
+JP|NAMETAGSYMBOLTITLE_15_NAME:[F]Zakum01
+KO|자쿰 정복자
+EN|Zakum's Vanquisher
+
+###128 file=nametagsymboltitle key=27-LunaYear2018- field=name
+JP|NAMETAGSYMBOLTITLE_27_NAME:[F]LunaYear2018
+KO|황금 불꽃 나비
+EN|Golden Flame Butterfly
+
+###129 file=nametagsymboltitle key=43-Fishing02- field=name
+JP|NAMETAGSYMBOLTITLE_43_NAME:[F]Fishing02
+KO|프로 낚시꾼
+EN|Pro Angler
+
+###130 file=nametagsymboltitle key=44-Fishing02- field=name
+JP|NAMETAGSYMBOLTITLE_44_NAME:[F]Fishing02
+KO|챔피언 낚시꾼
+EN|Champion Angler
+
+###131 file=nametagsymboldesc key=15-Zakum01- field=name
+JP|NAMETAGSYMBOLDESC_15_NAME:[F]Zakum01
+KO|[자쿰 정복자] 트로피 획득 시 표시
+EN|Unlocked by earning the Zakum Conqueror trophy.
+
+###132 file=nametagsymboldesc key=27-LunaYear2018- field=name
+JP|NAMETAGSYMBOLDESC_27_NAME:[F]LunaYear2018
+KO|봄의 축복 상자 사용 시 획득
+EN|Obtained when using the Spring Blessing Box.
+
+###133 file=nametagsymboldesc key=43-Fishing02- field=name
+JP|NAMETAGSYMBOLDESC_43_NAME:[F]Fishing02
+KO|프로 낚시꾼 칭호 획득 시 표시
+EN|Unlocked by earning the Pro Angler title.
+
+###134 file=nametagsymboldesc key=44-Fishing02- field=name
+JP|NAMETAGSYMBOLDESC_44_NAME:[F]Fishing02
+KO|챔피언 낚시꾼 칭호 획득 시 표시
+EN|Unlocked by earning the Champion Angler title.
+
+###135 file=chapterdescription_world key=1071-- field=isTutorial
+JP|중복
+KO|중복
+EN|중복
+
+###136 file=chapterdescription_world key=1085-- field=isTutorial
+JP|중복
+KO|중복
+EN|중복
+
+###137 file=chapterdescription_world key=4093-Develop- field=name
+JP|CHAPTERDESCRIPTION_4093_NAME:[F]Develop
+KO|新对应项目 4000~
+EN|
+
+###138 file=chapterdescription_world key=9997-Develop- field=name
+JP|CHAPTERDESCRIPTION_9997_NAME:[F]Develop
+KO|对应项目分离
+EN|
+
+###139 file=chapterdescription_tutorial key=1-- field=isTutorial
+JP|중복
+KO|중복
+EN|중복
+
+###140 file=chapterdescription_tutorial key=5025-Develop- field=name
+JP|CHAPTERDESCRIPTION_5025_NAME:[F]Develop
+KO|新对应项目 5000~
+EN|
+
+###141 file=chapterdescription_tutorial key=5026-Colosseum01- field=name
+JP|CHAPTERDESCRIPTION_5026_NAME:[F]Colosseum01
+KO|퀸크빈 럼블
+EN|Queen Bean Rumble
+
+###142 file=chapterdescription_tutorial key=9996-Develop- field=name
+JP|CHAPTERDESCRIPTION_9996_NAME:[F]Develop
+KO|对应项目分离
+EN|
+
+###143 file=recommendcontentsname key=271-JobChange_02- field=name
+JP|RECOMMENDCONTENTSNAME_271_NAME:[F]JobChange_02
+KO|마스터스킬
+EN|Master Skill
+
+###144 file=recommendcontentsname key=273-Fieldwar01- field=name
+JP|RECOMMENDCONTENTSNAME_273_NAME:[F]Fieldwar01
+KO|군단전
+EN|Legion Battle
+
+###145 file=actionname key=11004820-EpicApocalypse01- field=name
+JP|ACTIONNAME_11004820_NAME:[F]EpicApocalypse01
+KO|다가가기
+EN|Approach
+
+###146 file=actionname key=11004829-EpicApocalypse02- field=name
+JP|ACTIONNAME_11004829_NAME:[F]EpicApocalypse02
+KO|살펴보기
+EN|Examine
+
+###147 file=petname key=61900001-Develop- field=name
+JP|PETNAME_61900001_NAME:[F]Develop
+KO|绿蛙
+EN|
+
+###148 file=kordynamicaction key=90200114-WorldChampionMushroom- field=reserved
+JP|KORDYNAMICACTION_90200114_RESERVED:[F]WorldChampionMushroom
+KO|판다축하|판다도1주년축하해
+EN|
+
+###149 file=chapterdescription_guide key=9084-Develop- field=name
+JP|CHAPTERDESCRIPTION_9084_NAME:[F]Develop
+KO|测试：完成远程
+EN|
+
+###150 file=stringcommon key=s_room_exit_name_17-- field=desc
+JP|mapType:17(군단전) 나갈때 메시지
+KO|mapType:17(군단전) 나갈때 메시지
+EN|mapType:17(군단전) 나갈때 메시지
+
+###151 file=stringcommon key=s_room_exit_msg_17-- field=desc
+JP|mapType:17(군단전) 나갈때 메시지 {0}:맵이름
+KO|mapType:17(군단전) 나갈때 메시지 {0}:맵이름
+EN|mapType:17(군단전) 나갈때 메시지 {0}:맵이름
+
+###152 file=stringcommon key=s_cashAttend_day_index-- field=desc
+JP|보상 일자
+KO|보상 일자
+EN|보상 일자
+
+###153 file=stringcommon key=s_closet_tooltip_tab-Closet- field=commnet
+JP|{0} : 탭이름
+KO|{0} : 탭이름
+EN|{0} : 탭이름
+

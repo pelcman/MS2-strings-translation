@@ -4041,7 +4041,7 @@
   "11004502--": {},
   "11004503--": {},
   "11004504-Kritias_2018_12-": {
-    "name": "NPCFUNCTIONNAME_11004504_NAME:[F]Kritias_2018_12"
+    "name": "エネル補給兵"
   },
   "11004505--": {},
   "11004506--": {},
@@ -4056,13 +4056,13 @@
   "11004515--": {},
   "11004516--": {},
   "11004517-Kritias_2018_12-": {
-    "name": "NPCFUNCTIONNAME_11004517_NAME:[F]Kritias_2018_12"
+    "name": "メイプル連合補給官"
   },
   "11004518-Kritias_2018_12-": {
-    "name": "NPCFUNCTIONNAME_11004518_NAME:[F]Kritias_2018_12"
+    "name": "ルミナイツ補給官"
   },
   "11004519-Kritias_2018_12-": {
-    "name": "NPCFUNCTIONNAME_11004519_NAME:[F]Kritias_2018_12"
+    "name": "グリーンフッド補給官"
   },
   "11004520-Kritias_2018_12-": {
     "name": "ルミウィンドパイロット"
@@ -4111,28 +4111,28 @@
     "name": "イベント商人"
   },
   "11004707-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004707_NAME:[F]Wedding"
+    "name": "ハウスウェディングプランナー"
   },
   "11004708-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004708_NAME:[F]Wedding"
+    "name": "パーティーウェディングプランナー"
   },
   "11004709-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004709_NAME:[F]Wedding"
+    "name": "ラグジュアリーウェディングプランナー"
   },
   "11004710-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004710_NAME:[F]Wedding"
+    "name": "スカイキャッスル城主"
   },
   "11004711-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004711_NAME:[F]Wedding"
+    "name": "ラグジュアリークルーズMC"
   },
   "11004712-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004712_NAME:[F]Wedding"
+    "name": "離婚弁護士"
   },
   "11004713-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004713_NAME:[F]Wedding"
+    "name": "離婚弁護士"
   },
   "11004714-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004714_NAME:[F]Wedding"
+    "name": "幸運の商人"
   },
   "11004717-Event-": {
     "name": "見習い魔女"
@@ -4161,63 +4161,63 @@
   "11004731-Event-JP": {},
   "11004732-Event-JP": {},
   "11004733-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004733_NAME:[F]Wedding"
+    "name": "ラグジュアリークルーズMC"
   },
   "11004734--": {},
   "11004735--": {},
   "11004736--": {},
   "11004737--": {},
   "11004738-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004738_NAME:[F]Wedding"
+    "name": "パーティーウェディングプランナー"
   },
   "11004742--": {},
   "11004745-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004745_NAME:[F]Wedding"
+    "name": "ハウスウェディングプランナー"
   },
   "11004746-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004746_NAME:[F]Wedding"
+    "name": "パーティーウェディングプランナー"
   },
   "11004747-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004747_NAME:[F]Wedding"
+    "name": "ラグジュアリーウェディングプランナー"
   },
   "11004748-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004748_NAME:[F]Wedding"
+    "name": "ハウスウェディングプランナー"
   },
   "11004749-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004749_NAME:[F]Wedding"
+    "name": "パーティーウェディングプランナー"
   },
   "11004750-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004750_NAME:[F]Wedding"
+    "name": "ラグジュアリーウェディングプランナー"
   },
   "11004751-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004751_NAME:[F]Wedding"
+    "name": "ハウスウェディングプランナー"
   },
   "11004752-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004752_NAME:[F]Wedding"
+    "name": "パーティーウェディングプランナー"
   },
   "11004753-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004753_NAME:[F]Wedding"
+    "name": "ラグジュアリーウェディングプランナー"
   },
   "11004754-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004754_NAME:[F]Wedding"
+    "name": "プロポーズヘルパー"
   },
   "11004755-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004755_NAME:[F]Wedding"
+    "name": "招待状発送ヘルパー"
   },
   "11004756-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004756_NAME:[F]Wedding"
+    "name": "撮影地管理人"
   },
   "11004757-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004757_NAME:[F]Wedding"
+    "name": "撮影地管理人"
   },
   "11004758-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004758_NAME:[F]Wedding"
+    "name": "撮影地管理人"
   },
   "11004772-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004772_NAME:[F]Wedding"
+    "name": "元気なウェディングコンサルタント"
   },
   "11004773-Wedding-": {
-    "name": "NPCFUNCTIONNAME_11004773_NAME:[F]Wedding"
+    "name": "元気なウェディングコンサルタント"
   },
   "11004775--JP": {
     "name": "アバターコインショップ"

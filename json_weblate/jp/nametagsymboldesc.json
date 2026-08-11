@@ -33,7 +33,7 @@
     "name": "プレミアムクラブ会員に表示"
   },
   "15-Zakum01-": {
-    "name": "NAMETAGSYMBOLDESC_15_NAME:[F]Zakum01"
+    "name": "[ジャクム征服者] トロフィー獲得時に表示"
   },
   "18--JP": {
     "name": "GM専用マーク"
@@ -54,7 +54,7 @@
     "name": "久しぶりにゲームに戻ってきた復帰キャラクターに表示"
   },
   "27-LunaYear2018-": {
-    "name": "NAMETAGSYMBOLDESC_27_NAME:[F]LunaYear2018"
+    "name": "春の祝福ボックス使用時に獲得"
   },
   "28-SurvivalContents01-": {
     "name": "マッシュキングチャンピオンシップの一試合で10人以上倒すと表示"
@@ -81,10 +81,10 @@
     "name": "ジョディマークボックスを使用した際に獲得"
   },
   "43-Fishing02-": {
-    "name": "NAMETAGSYMBOLDESC_43_NAME:[F]Fishing02"
+    "name": "プロ釣り人の称号獲得時に表示"
   },
   "44-Fishing02-": {
-    "name": "NAMETAGSYMBOLDESC_44_NAME:[F]Fishing02"
+    "name": "チャンピオン釣り人の称号獲得時に表示"
   },
   "45-Lapenshard01-": {
     "name": "ラペンシャード合成10段階に成功する"

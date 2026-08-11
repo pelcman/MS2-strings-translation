@@ -68,5 +68,7 @@ work/
   (JMS2公式訳と新規訳の区別はコーパス上ではつかない)。どれが新規訳かは
   `work/itemname/auto_map.json` / `manual_*.json` で判別できる。
 - 新しいデータ(UI・ストーリー等)の作業は `work/<データ名>/` を新設して行う。
-- stringcommon の `comment`/`commend`/`desc` 等の開発者向けメモフィールドは JMS2 でも韓国語のままの
-  ものが多数あり(85件中62件)、ハングル残存チェックの対象外とする(addressname の `*Kor` と同様)。
+- 以下は JMS2 でも韓国語のままの内部ラベル/開発者メモのため、ハングル残存チェックの対象外とする
+  (addressname の `*Kor` と同様): stringcommon の `comment`/`commend`/`desc`/`commnet`、
+  maidmanufacturemessage の `npc`(全27件が韓国語。メッセージ欄は既訳)、
+  chapterdescription_* の `isTutorial`(値「중복」=重複マーカー)。

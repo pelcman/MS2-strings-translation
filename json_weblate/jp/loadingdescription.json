@@ -897,12 +897,12 @@
   "211-CharacterAbility-": {
     "startTime": "0-0-0-0-0-0",
     "endTime": "0-0-0-0-0-0",
-    "text": "LOADINGDESCRIPTION_211_TEXT:[F]CharacterAbility"
+    "text": "50レベルになると特性の力を開放できます。"
   },
   "212-CharacterAbility-": {
     "startTime": "0-0-0-0-0-0",
     "endTime": "0-0-0-0-0-0",
-    "text": "LOADINGDESCRIPTION_212_TEXT:[F]CharacterAbility"
+    "text": "50レベル以降、レベルが上がるたびに特性ポイントを獲得できます。"
   },
   "215--": {
     "startTime": "0-0-0-0-0-0",
@@ -1332,42 +1332,42 @@
   "312-Develop-": {
     "startTime": "0-0-0-0-0-0",
     "endTime": "0-0-0-0-0-0",
-    "text": "LOADINGDESCRIPTION_312_TEXT:[F]Develop"
+    "text": "ギルドに加入していれば、1時間ごとに \\nギルド経験値を獲得できます。"
   },
   "313-Develop-": {
     "startTime": "0-0-0-0-0-0",
     "endTime": "0-0-0-0-0-0",
-    "text": "LOADINGDESCRIPTION_313_TEXT:[F]Develop"
+    "text": "ギルドに加入していれば、MCケイのイベントに参加するたびに\\nギルド経験値を獲得できます。"
   },
   "314-Develop-": {
     "startTime": "0-0-0-0-0-0",
     "endTime": "0-0-0-0-0-0",
-    "text": "LOADINGDESCRIPTION_314_TEXT:[F]Develop"
+    "text": "ギルドに加入していれば、ボスモンスターを倒すたびに\\nギルド経験値を獲得できます。"
   },
   "315-Develop-": {
     "startTime": "0-0-0-0-0-0",
     "endTime": "0-0-0-0-0-0",
-    "text": "LOADINGDESCRIPTION_315_TEXT:[F]Develop"
+    "text": "他のギルドメンバーと一緒にボスモンスターを倒すと、 \\nギルド経験値を追加で獲得できます。"
   },
   "316-Develop-": {
     "startTime": "0-0-0-0-0-0",
     "endTime": "0-0-0-0-0-0",
-    "text": "LOADINGDESCRIPTION_316_TEXT:[F]Develop"
+    "text": "自分が獲得したギルド経験値はギルド活動指数として表示されます。"
   },
   "317-Develop-": {
     "startTime": "0-0-0-0-0-0",
     "endTime": "0-0-0-0-0-0",
-    "text": "LOADINGDESCRIPTION_317_TEXT:[F]Develop"
+    "text": "ギルド貢献度は毎週初期化されます。"
   },
   "318-Develop-": {
     "startTime": "0-0-0-0-0-0",
     "endTime": "0-0-0-0-0-0",
-    "text": "LOADINGDESCRIPTION_318_TEXT:[F]Develop"
+    "text": "獲得したギルド経験値は一定の比率でギルド基金に変換されます。"
   },
   "319-Develop-": {
     "startTime": "0-0-0-0-0-0",
     "endTime": "0-0-0-0-0-0",
-    "text": "LOADINGDESCRIPTION_319_TEXT:[F]Develop"
+    "text": "ギルド基金を集めるとギルドスキルを購入できます。"
   },
   "320--": {
     "startTime": "0-0-0-0-0-0",
@@ -1387,7 +1387,7 @@
   "323-Develop-": {
     "startTime": "0-0-0-0-0-0",
     "endTime": "0-0-0-0-0-0",
-    "text": "LOADINGDESCRIPTION_323_TEXT:[F]Develop"
+    "text": "ギルド活動指数は毎週1回初期化されます。"
   },
   "324-ItemSocketSystem-": {
     "startTime": "0-0-0-0-0-0",
@@ -1527,12 +1527,12 @@
   "354-Develop-": {
     "startTime": "0-0-0-0-0-0",
     "endTime": "0-0-0-0-0-0",
-    "text": "LOADINGDESCRIPTION_354_TEXT:[F]Develop"
+    "text": "ランダムダンジョンのパーティー探しを使えば手軽にメンバーと出会え、\\n自分のレベルに合ったダンジョンに挑戦できます。"
   },
   "355-Develop-": {
     "startTime": "0-0-0-0-0-0",
     "endTime": "0-0-0-0-0-0",
-    "text": "LOADINGDESCRIPTION_355_TEXT:[F]Develop"
+    "text": "ランダムダンジョンをクリアすると、\\nランダム報酬を獲得できます。"
   },
   "356-Develop-": {
     "startTime": "0-0-0-0-0-0",
