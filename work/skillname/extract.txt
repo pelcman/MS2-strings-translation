@@ -1,0 +1,790 @@
+###1 key=30000001-Develop-
+KR|
+CN|骑士出场动作
+EN|Knight Entry Animation
+
+###2 key=30000002-Develop-
+KR|
+CN|狂战士出场动作
+EN|Berserker Entry Animation
+
+###3 key=30000004-Develop-
+KR|
+CN|牧师出场动作
+EN|Priest Entry Animation
+
+###4 key=30000005-Develop-
+KR|
+CN|弓箭手出场动作
+EN|Archer Entry Animation
+
+###5 key=30000006-Develop-
+KR|
+CN|重炮手出场动作
+EN|Heavy Gunner Entry Animation
+
+###6 key=30000007-Develop-
+KR|
+CN|侠盗出场动作
+EN|Thief Entry Animation
+
+###7 key=30000009-Develop-
+KR|
+CN|符文剑士出场动作
+EN|Runeblader Entry Animation
+
+###8 key=30000010-Develop-
+KR|
+CN|街霸出场动作
+EN|Striker Entry Animation
+
+###9 key=30000011-Develop-
+KR|
+CN|启灵师出场动作
+EN|Soul Binder Entry Animation
+
+###10 key=90001170-Wedding-
+KR|
+CN|요정 변신 주문서
+EN|Fairy Summoning Scroll
+
+###11 key=90001172-Wedding-
+KR|
+CN|흐르는 물 주문서
+EN|Flowing Water Scroll
+
+###12 key=90001173-Wedding-
+KR|
+CN|메소의 거인
+EN|Giant Meso
+
+###13 key=90001174-Wedding-
+KR|
+CN|스포트 라이트!
+EN|Spotlight!
+
+###14 key=90001176-Wedding-
+KR|
+CN|멋짐 가루
+EN|Cool Powder
+
+###15 key=90200109-WorldChampionMushroom-
+KR|
+CN|머쉬킹 가마꾼 댄스
+EN|Mushking Bearer Dance
+
+###16 key=90200114-WorldChampionMushroom-
+KR|
+CN|판다도 1주년 축하해!
+EN|Happy 1st Anniversary, Panda!
+
+###17 key=90200121-Fishing02-
+KR|
+CN|상어 낚시 성공!
+EN|Caught Shark
+
+###18 key=90200124-Kritias_2018_12-
+KR|
+CN|메이슨 따라쟁이
+EN|Mason Copycat
+
+###19 key=90200132-Colosseum01-
+KR|
+CN|알베르토빈의 트레이닝
+EN|Alberto Bean's Training
+
+###20 key=90220030-Develop-
+KR|
+CN|SKILLNAME_90220030_NAME:[F]Develop
+EN|SKILLNAME_90220030_NAME:[F]Develop
+
+###21 key=90220032-Wedding-
+KR|
+CN|우리 결혼했어요
+EN|We Got Married!
+
+###22 key=99910371-Fieldwar01-
+KR|
+CN|연발 사격
+EN|Gunfire Burst
+
+###23 key=99910372-Fieldwar01-
+KR|화상
+CN|화염 방사
+EN|Flamethrower
+
+###24 key=99910401-Gigantica01-
+KR|
+CN|드릴공격
+EN|Drill Attack
+
+###25 key=99910402-Gigantica01-
+KR|
+CN|드릴돌진
+EN|Drill Rush
+
+###26 key=99910403-Gigantica01-
+KR|
+CN|지진파
+EN|Seismic Wave
+
+###27 key=99910501-Kritias_Turka01-
+KR|
+CN|아르케온 훅
+EN|Archeon Hook
+
+###28 key=99910502-Kritias_Turka01-
+KR|
+CN|아르케온 펀치
+EN|Archeon Punch
+
+###29 key=99910503-Kritias_Turka01-
+KR|
+CN|아르케온 빔
+EN|Archeon Beam
+
+###30 key=99910504-Kritias_Turka01-
+KR|
+CN|초 아르케온 어택
+EN|Super Archeon Attack
+
+###31 key=99910510-Kritias_Turka01-
+KR|
+CN|아르케온 훅
+EN|Archeon Hook
+
+###32 key=99910511-Kritias_Turka01-
+KR|
+CN|아르케온 펀치
+EN|Archeon Punch
+
+###33 key=99910512-Kritias_Turka01-
+KR|
+CN|아르케온 빔
+EN|Archeon Beam
+
+###34 key=99910513-Kritias_Turka01-
+KR|
+CN|초 아르케온 어택
+EN|Super Archeon Attack
+
+###35 key=99910521-Kritias_Turka03-
+KR|
+CN|아르케온 훅
+EN|Archeon Hook
+
+###36 key=99910522-Kritias_Turka03-
+KR|
+CN|아르케온 펀치
+EN|Archeon Punch
+
+###37 key=99910523-Kritias_Turka03-
+KR|
+CN|아르케온 빔
+EN|Archeon Beam
+
+###38 key=99910524-Kritias_Turka03-
+KR|
+CN|초 아르케온 어택
+EN|Super Archeon Attack
+
+###39 key=99910525-Kritias_Turka03-
+KR|
+CN|아르케온 훅
+EN|Archeon Hook
+
+###40 key=99910526-Kritias_Turka03-
+KR|
+CN|아르케온 펀치
+EN|Archeon Punch
+
+###41 key=99910527-Kritias_Turka03-
+KR|
+CN|아르케온 빔
+EN|Archeon Beam
+
+###42 key=99910528-Kritias_Turka03-
+KR|
+CN|초 아르케온 어택
+EN|Super Archeon Attack
+
+###43 key=99911501-Kritias_Turka01-
+KR|
+CN|아르케온 훅
+EN|Archeon Hook
+
+###44 key=99911502-Kritias_Turka01-
+KR|
+CN|아르케온 펀치
+EN|Archeon Punch
+
+###45 key=99911503-Kritias_Turka01-
+KR|
+CN|아르케온 빔
+EN|Archeon Beam
+
+###46 key=99911504-Kritias_Turka01-
+KR|
+CN|초 아르케온 어택
+EN|Super Archeon Attack
+
+###47 key=70003001-Kritias_2018_12-
+KR|
+CN|슈퍼 핵 쎈 스킬
+EN|Super Strong Skill
+
+###48 key=70003011-Kritias_2018_12-
+KR|
+CN|슈퍼 핵 쎈 스킬
+EN|Super Strong Skill
+
+###49 key=70003021-Kritias_2018_12-
+KR|
+CN|슈퍼 핵 쎈 스킬
+EN|Super Strong Skill
+
+###50 key=70003031-Kritias_2018_12-
+KR|
+CN|슈퍼 핵 쎈 스킬
+EN|Super Strong Skill
+
+###51 key=70003041-Kritias_2018_12-
+KR|
+CN|보스용 슈퍼 핵 쎈 스킬
+EN|Super Strong Skill for Boss Use
+
+###52 key=70003051-Kritias_2018_12-
+KR|
+CN|보스용 슈퍼 핵 쎈 스킬
+EN|Super Strong Skill for Boss Use
+
+###53 key=70003061-Kritias_2018_12-
+KR|
+CN|보스용 슈퍼 핵 쎈 스킬
+EN|Super Strong Skill for Boss Use
+
+###54 key=70003071-Kritias_2018_12-
+KR|
+CN|보스용 슈퍼 핵 쎈 스킬
+EN|Super Strong Skill for Boss Use
+
+###55 key=70003101-Fieldwar02-
+KR|
+CN|충격파
+EN|Shockwave
+
+###56 key=70003121-Fieldwar02-
+KR|
+CN|기관총 발사
+EN|Machine Gun Fire
+
+###57 key=70003122-Fieldwar02-
+KR|
+CN|드릴 드라이버
+EN|Drill Driver
+
+###58 key=70003123-Fieldwar02-
+KR|
+CN|파워 캐논
+EN|Power Cannon
+
+###59 key=10100203-Develop-
+KR|
+CN|SKILLNAME_10100203_NAME:[F]Develop
+EN|SKILLNAME_10100203_NAME:[F]Develop
+
+###60 key=10100261-JobChange_02-
+KR|
+CN|神圣连击
+EN|Divine Cuts
+
+###61 key=10100271-JobChange_02-
+KR|
+CN|召唤圣剑
+EN|Summon Sword
+
+###62 key=10100272-Develop-
+KR|
+CN|SKILLNAME_10100272_NAME:[F]Develop
+EN|SKILLNAME_10100272_NAME:[F]Develop
+
+###63 key=10100281-JobChange_02-
+KR|
+CN|圣盾光环
+EN|Aegis Barrage
+
+###64 key=10100291-JobChange_02-
+KR|
+CN|突破攻势
+EN|Breaking Charge
+
+###65 key=10100292-Develop-
+KR|
+CN|SKILLNAME_10100292_NAME:[F]Develop
+EN|SKILLNAME_10100292_NAME:[F]Develop
+
+###66 key=10100293-Develop-
+KR|
+CN|SKILLNAME_10100293_NAME:[F]Develop
+EN|SKILLNAME_10100293_NAME:[F]Develop
+
+###67 key=10100294-JobChange_02-
+KR|
+CN|突破守势
+EN|Defense Breakthrough
+
+###68 key=11000218-Develop-
+KR|뒤틀림 1단계
+CN|SKILLNAME_11000218_NAME:[F]Develop
+EN|SKILLNAME_11000218_NAME:[F]Develop
+
+###69 key=11000265-JobChange_02-
+KR|
+CN|旋风切割
+EN|Tornado Cutter
+
+###70 key=11000266-JobChange_02-
+KR|
+CN|旋风切割EX
+EN|Tornado Cutter EX
+
+###71 key=11000302-Develop-
+KR|뒤틀림 2단계
+CN|SKILLNAME_11000302_NAME:[F]Develop
+EN|SKILLNAME_11000302_NAME:[F]Develop
+
+###72 key=11000303-Develop-
+KR|뒤틀림 3단계
+CN|SKILLNAME_11000303_NAME:[F]Develop
+EN|SKILLNAME_11000303_NAME:[F]Develop
+
+###73 key=11000311-JobChange_02-
+KR|
+CN|斗气爆发
+EN|Overflowing Fighting Spirit
+
+###74 key=11000312-JobChange_02-
+KR|혈도 개방EX 1단계
+CN|穴道开放EX第1阶段
+EN|Meridian Flow EX
+
+###75 key=11000313-JobChange_02-
+KR|
+CN|穴道开放EX第2阶段
+EN|Meridian Flow EX II
+
+###76 key=11000315-JobChange_02-
+KR|뒤틀림 1단계
+CN|穴道开放EX第1阶段减益
+EN|Meridian Flow EX Debuff
+
+###77 key=11000316-JobChange_02-
+KR|혈도 개방EX 2단계
+CN|寸拳EX
+EN|One-Inch Punch EX
+
+###78 key=11000319-JobChange_02-
+KR|뒤틀림 2단계
+CN|穴道开放EX第2阶段减益
+EN|Meridian Flow EX II Debuff
+
+###79 key=11000321-JobChange_02-
+KR|
+CN|无限冲击
+EN|Ultimate Rush
+
+###80 key=11000331-JobChange_02-
+KR|
+CN|疾风怒火
+EN|Raging Flame
+
+###81 key=11000341-JobChange_02-
+KR|
+CN|灭世踢击
+EN|Ultimate Destroyer Kick
+
+###82 key=11100204-JobChange_02-
+KR|
+CN|灵能释放
+EN|Power Liberation
+
+###83 key=11100261-JobChange_02-
+KR|
+CN|聚灵之弹
+EN|Spirit Burn
+
+###84 key=11100271-JobChange_02-
+KR|
+CN|聚灵之弹
+EN|Spirit Burn
+
+###85 key=11100281-JobChange_02-
+KR|
+CN|聚灵之弹
+EN|Spirit Burn
+
+###86 key=11100292-JobChange_02-
+KR|
+CN|幻象灵弹
+EN|Vision Spirit Burn
+
+###87 key=11100301-JobChange_02-
+KR|
+CN|灵能释放
+EN|Power Liberation
+
+###88 key=11100311-JobChange_02-
+KR|소울 브레이크
+CN|魂之水晶
+EN|Soul Crystal
+
+###89 key=11100315-JobChange_02-
+KR|
+CN|魂之水晶
+EN|Soul Crystal
+
+###90 key=11100321-JobChange_02-
+KR|
+CN|完美旋律
+EN|Perfect Melody
+
+###91 key=10200261-JobChange_02-
+KR|
+CN|孤军奋战
+EN|Death Rattle
+
+###92 key=10200271-JobChange_02-
+KR|급소 타격
+CN|裂地斩
+EN|Sever
+
+###93 key=10200281-JobChange_02-
+KR|
+CN|旋风乱舞
+EN|Cripple
+
+###94 key=10200291-JobChange_02-
+KR|암흑 광기
+CN|暗夜降临
+EN|Dusk Fall
+
+###95 key=10300261-JobChange_02-
+KR|
+CN|冰精灵降临
+EN|Ice Sprite
+
+###96 key=10300262-JobChange_02-
+KR|포올!
+CN|冰爆
+EN|Ice Bomb
+
+###97 key=10300266-JobChange_02-
+KR|
+CN|极限滑冰
+EN|Risky Rink
+
+###98 key=10300271-JobChange_02-
+KR|허리케인 북상 중!
+CN|飓风警报
+EN|Hurricane Warning
+
+###99 key=10300281-JobChange_02-
+KR|
+CN|完全燃烧
+EN|Perfect Combustion
+
+###100 key=10300291-JobChange_02-
+KR|
+CN|狂野之火
+EN|Wildfire
+
+###101 key=10400271-JobChange_02-
+KR|신의 십자가
+CN|神之十字架
+EN|Divine Cross
+
+###102 key=10400281-JobChange_02-
+KR|
+CN|神圣延续
+EN|Wrath Eternal
+
+###103 key=10400291-JobChange_02-
+KR|
+CN|神圣领域
+EN|Holy Place
+
+###104 key=10400301-JobChange_02-
+KR|신성한 힘
+CN|神圣之赋
+EN|Holy Power
+
+###105 key=10500093-JobChange_02-
+KR|피닉스 스피릿
+CN|凤凰之魂
+EN|Phoenix Spirit
+
+###106 key=10500153-JobChange_02-
+KR|
+CN|鹰驰长空
+EN|Captain Glide
+
+###107 key=10500261-JobChange_02-
+KR|초열 불꽃
+CN|凤翼之箭
+EN|Phoenix Strike Shot
+
+###108 key=10500271-JobChange_02-
+KR|
+CN|凤凰形态
+EN|Phoenix Form
+
+###109 key=10500272-Develop-
+KR|피닉스 폼
+CN|SKILLNAME_10500272_NAME:[F]Develop
+EN|SKILLNAME_10500272_NAME:[F]Develop
+
+###110 key=10500281-JobChange_02-
+KR|약점 간파
+CN|精准之箭
+EN|Aimed Arrow
+
+###111 key=10500291-JobChange_02-
+KR|이글 스쿼드
+CN|金鹰小队
+EN|Eagle Squad
+
+###112 key=10500293-JobChange_02-
+KR|캡틴 이글
+CN|金鹰小队自身效果
+EN|Eagle Squad Self
+
+###113 key=10500295-JobChange_02-
+KR|휴식 시간
+CN|金鹰小队减益
+EN|Eagle Squad Debuff
+
+###114 key=10500296-JobChange_02-
+KR|캡틴 이글
+CN|已学习金鹰小队的弓箭手队员效果
+EN|Effect for Archers within party who learned Eagle Squad
+
+###115 key=10500298-JobChange_02-
+KR|이글 스쿼드
+CN|凤凰形态金鹰小队效果
+EN|Phoenix Form Eagle Squad effect
+
+###116 key=10600212-Develop-
+KR|스카이 헌터
+CN|SKILLNAME_10600212_NAME:[F]Develop
+EN|SKILLNAME_10600212_NAME:[F]Develop
+
+###117 key=10600261-JobChange_02-
+KR|
+CN|梅斯拉线圈
+EN|Mesla Coil
+
+###118 key=10600262-Develop-
+KR|
+CN|SKILLNAME_10600262_NAME:[F]Develop
+EN|SKILLNAME_10600262_NAME:[F]Develop
+
+###119 key=10600271-JobChange_02-
+KR|포터블 아머리
+CN|便携武器库
+EN|Portable Armory
+
+###120 key=10600281-JobChange_02-
+KR|스티키 몬스터
+CN|黏黏怪
+EN|Sticky Monster
+
+###121 key=10600282-Develop-
+KR|
+CN|SKILLNAME_10600282_NAME:[F]Develop
+EN|SKILLNAME_10600282_NAME:[F]Develop
+
+###122 key=10600283-Develop-
+KR|
+CN|SKILLNAME_10600283_NAME:[F]Develop
+EN|SKILLNAME_10600283_NAME:[F]Develop
+
+###123 key=10600291-JobChange_02-
+KR|가스 중독
+CN|诡雷MK2
+EN|Booby Trap MK 2
+
+###124 key=10600292-Develop-
+KR|
+CN|SKILLNAME_10600292_NAME:[F]Develop
+EN|SKILLNAME_10600292_NAME:[F]Develop
+
+###125 key=10700002-JobChange_02-
+KR|
+CN|剧毒刺击
+EN|Poison Stab
+
+###126 key=10700271-JobChange_02-
+KR|
+CN|追踪投掷
+EN|Agile Throw
+
+###127 key=10700273-JobChange_02-
+KR|
+CN|暗影追魂
+EN|Agile Slash
+
+###128 key=10700281-JobChange_02-
+KR|
+CN|随机应变
+EN|Extemporaneous
+
+###129 key=10700282-JobChange_02-
+KR|임기 응변
+CN|随机应变2
+EN|Extemporaneous 2
+
+###130 key=10700283-JobChange_02-
+KR|임기 응변
+CN|随机应变3
+EN|Extemporaneous 3
+
+###131 key=10700291-JobChange_02-
+KR|
+CN|如风
+EN|Accelerator
+
+###132 key=10700301-JobChange_02-
+KR|
+CN|毒药学
+EN|Poison Plan
+
+###133 key=10800203-JobChange_02-
+KR|
+CN|强化黑暗泥沼
+EN|Enhanced Dark Mire
+
+###134 key=10800229-JobChange_02-
+KR|
+CN|强化暗杀者之阵
+EN|Enhanced Assassin's Circle
+
+###135 key=10800261-JobChange_02-
+KR|
+CN|秘技：连锁
+EN|Chain Arts
+
+###136 key=10800271-JobChange_02-
+KR|
+CN|秘技：碎雨
+EN|Secret Art: Destruction
+
+###137 key=10800272-JobChange_02-
+KR|
+CN|秘技：碎雨第2次伤害
+EN|Secret Art: Destruction 2nd Damage
+
+###138 key=10800273-JobChange_02-
+KR|
+CN|秘技：碎雨溅射
+EN|Secret Art: Destruction Splash
+
+###139 key=10800274-JobChange_02-
+KR|
+CN|秘技：碎雨溅射(次伤害用)
+EN|Secret Art: Destruction Splash (for tick damage)
+
+###140 key=10800281-JobChange_02-
+KR|낙인
+CN|秘术：刻印
+EN|Secret Art: Mark
+
+###141 key=10800282-JobChange_02-
+KR|
+CN|秘术：刻印第2击
+EN|Secret Art: Mark 2-hit
+
+###142 key=10800283-JobChange_02-
+KR|부식
+CN|秘术：刻印第3击
+EN|Secret Art: Mark 3-hit
+
+###143 key=10800284-JobChange_02-
+KR|어둠의 힘
+CN|秘术：刻印溅射
+EN|Secret Art: Mark Splash
+
+###144 key=10800291-JobChange_02-
+KR|
+CN|秘术：极暗
+EN|Secret Art: Collapse
+
+###145 key=10800292-JobChange_02-
+KR|
+CN|秘术：极暗溅射
+EN|Secret Art: Collapse Splash
+
+###146 key=10800293-JobChange_02-
+KR|
+CN|强化秘术：极暗
+EN|Enhanced Secret Art: Collapse
+
+###147 key=10900261-JobChange_02-
+KR|
+CN|疯狂闪耀
+EN|Lunatic Flash
+
+###148 key=10900262-Develop-
+KR|
+CN|SKILLNAME_10900262_NAME:[F]Develop
+EN|SKILLNAME_10900262_NAME:[F]Develop
+
+###149 key=10900263-Develop-
+KR|
+CN|SKILLNAME_10900263_NAME:[F]Develop
+EN|SKILLNAME_10900263_NAME:[F]Develop
+
+###150 key=10900264-Develop-
+KR|
+CN|SKILLNAME_10900264_NAME:[F]Develop
+EN|SKILLNAME_10900264_NAME:[F]Develop
+
+###151 key=10900265-Develop-
+KR|
+CN|SKILLNAME_10900265_NAME:[F]Develop
+EN|SKILLNAME_10900265_NAME:[F]Develop
+
+###152 key=10900266-Develop-
+KR|
+CN|SKILLNAME_10900266_NAME:[F]Develop
+EN|SKILLNAME_10900266_NAME:[F]Develop
+
+###153 key=10900271-JobChange_02-
+KR|블레이드 러너
+CN|刀刃行者
+EN|Swift Blade
+
+###154 key=10900281-JobChange_02-
+KR|
+CN|元素转盘
+EN|Element Roulette
+
+###155 key=10900291-JobChange_02-
+KR|
+CN|刀锋之门
+EN|Gate of Blades
+
+###156 key=10900292-JobChange_02-
+KR|
+CN|火焰刀锋之门
+EN|Gate of Flame
+
+###157 key=10900293-JobChange_02-
+KR|
+CN|寒冰刀锋之门
+EN|Gate of Frost
+
+###158 key=10900294-JobChange_02-
+KR|
+CN|闪电刀锋之门
+EN|Gate of Storms
+
