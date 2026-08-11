@@ -18191,7 +18191,7 @@
     "complete": "完了ボタンを押す",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000090_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "闇の軍団の視線を引けるように騒ぎを起こさなければならない。 \n手当たり次第に騒ぎを起こしてみよう。"
   },
   "91000100-Kritias_2018_12-": {
     "name": "メイプル連合の特殊任務、その1",
@@ -18218,7 +18218,7 @@
     "complete": "完了ボタンを押す",
     "count": "",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000120_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "闇の軍団が戦列を整えれば、我々にとって大きな脅威となる。軍団戦で勝利して我々の力を見せつけよう。"
   },
   "91000130-Kritias_2018_12-": {
     "name": "メイプル連合の特殊任務、その1",
@@ -18353,7 +18353,7 @@
     "complete": "完了ボタンを押す",
     "count": "",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000270_DESCFAMEUI:[F]Kritias_Inferno01"
+    "descFameUI": "終わらない$npcName:11004555$の話。彼の口を止める方法はあるだろうか？"
   },
   "91000280-Kritias_Inferno01-": {
     "name": "メイプル連合の特殊任務、その4",
@@ -18407,7 +18407,7 @@
     "complete": "完了ボタンを押す",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000330_DESCFAMEUI:[F]Kritias_Inferno01"
+    "descFameUI": "それぞれの利益のために手を組んでいるケルベスとタイレン王国。彼らの固い結びつきを断ち切ってしまおう。"
   },
   "91000340-Kritias_Inferno01-": {
     "name": "メイプル連合の特殊任務、その5",
@@ -18425,7 +18425,7 @@
     "complete": "完了ボタンを押す",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000350_DESCFAMEUI:[F]Kritias_Inferno01"
+    "descFameUI": "ゲオルクを苦しめるケルベスに大きな打撃を与えるため、彼らの物資を奪おう。"
   },
   "91000360-Kritias_Inferno01-": {
     "name": "メイプル連合の特殊任務、その5",
@@ -18470,7 +18470,7 @@
     "complete": "完了ボタンを押す",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000400_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "機械兵士たちから闇の力が感じられる。感覚は証拠にはならない。証拠収集のために機械兵士たちを破壊しよう。"
   },
   "91000410-Kritias_2018_12-": {
     "name": "ルミナイツの特殊任務、その1",
@@ -18479,7 +18479,7 @@
     "complete": "完了ボタンを押す",
     "count": "",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000410_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "機械兵士を調査したが、何も見つけられなかった。専門家の助けが必要だ。"
   },
   "91000420-Kritias_2018_12-": {
     "name": "ルミナイツの特殊任務、その1",
@@ -18506,7 +18506,7 @@
     "complete": "完了ボタンを押す",
     "count": "",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000440_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "闇の軍団の危険な気運が$map:02020001$から感じられる。調査してみよう。"
   },
   "91000450-Kritias_2018_12-": {
     "name": "ルミナイツの特殊任務、その2",
@@ -18533,7 +18533,7 @@
     "complete": "完了ボタンを押す",
     "count": "",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000470_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "闇の軍団の奴らの図体からすると、$npcName:25020308$くらいなら何か知っていそうだ。一度確かめてみよう。"
   },
   "91000480-Kritias_2018_12-": {
     "name": "ルミナイツの特殊任務、その2",
@@ -18623,7 +18623,7 @@
     "complete": "完了ボタンを押す",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000570_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "ネットワーク信号把握のために$npcName:25021202$を退治して、通信信号を発生させよう。"
   },
   "91000580-Kritias_2018_12-": {
     "name": "ルミナイツの特殊任務、その4",
@@ -18632,7 +18632,7 @@
     "complete": "完了ボタンを押す",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000580_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "他のモンスターを退治した時も信号が発生するのか確認するため、$npcName:25021205$を退治して通信信号の発生を確認しよう。"
   },
   "91000590-Kritias_2018_12-": {
     "name": "ルミナイツの特殊任務、その4",
@@ -18785,7 +18785,7 @@
     "complete": "完了ボタンを押す",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000750_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "ゲオルクを脅かす$npcName:25020506$と$npcName:25020507$を打ち倒そう。"
   },
   "91000760-Kritias_2018_12-": {
     "name": "グリーンフッドの特殊任務、その2",
@@ -18857,7 +18857,7 @@
     "complete": "完了ボタンを押す",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000830_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "グリーンフッドが設置したギガンティックドリルを利用して、$map:02020051$の土壌成分を分析してみよう。"
   },
   "91000840-Kritias_2018_12-": {
     "name": "グリーンフッドの特殊任務、その3",
@@ -18866,7 +18866,7 @@
     "complete": "完了ボタンを押す",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000840_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "ギガンティックドリルを作動させたら現れた巨大モンスター。安全のために巨大モンスターをやっつけよう。 "
   },
   "91000850-Kritias_2018_12-": {
     "name": "グリーンフッドの特殊任務、その3",
@@ -18920,7 +18920,7 @@
     "complete": "完了ボタンを押す",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000900_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "警報が鳴ったせいで慌てているうちに$map:52100107$に入り込んだ。\nここに何か重要な資料があるか探してみよう。"
   },
   "91000910-Kritias_2018_12-": {
     "name": "グリーンフッドの特殊任務、その4",
@@ -18938,7 +18938,7 @@
     "complete": "完了ボタンを押す",
     "count": "",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_91000920_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "古代の書籍を受け取った$npcName:11004315$は、意外な収穫だと探査への意志を燃やす。\n果たしてどんな内容が書かれているのだろうか？"
   },
   "91000930-Kritias_2018_12-": {
     "name": "グリーンフッドの特殊任務、その5",
@@ -20801,7 +20801,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000005_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "闇の軍団の機械兵士たちが$map:02020029$を破壊している。奴らを制圧して森を守り抜かなければならない。"
   },
   "94000006-Kritias_2018_12-": {
     "name": "それが知りたい：$item:61000153$",
@@ -20972,7 +20972,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000024_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "空中に浮かぶタイレンの機械兵士たちを発見！原理を突き止めるため、$item:30001222$を確保しなければならない。"
   },
   "94000025-Kritias_2018_12-": {
     "name": "$npcName:25020302$の脅威",
@@ -21143,7 +21143,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000043_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "闇の軍団のモンスターに絶えず闇の力を与える$item:30001227$を収集して研究しなければならない。"
   },
   "94000044-Kritias_2018_12-": {
     "name": "対立解消のために",
@@ -21215,7 +21215,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000051_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "突然の$npcName:25021401$の異常行動。 \n頭突きを止める方法は何だろうか。"
   },
   "94000052-Kritias_2018_12-": {
     "name": "危機の$map:02020014$",
@@ -21242,7 +21242,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000054_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "強力な力の秘密が分かれば、多方面に活用できる。 \nそのために必要なのは分析用の部品だ。"
   },
   "94000055-Kritias_2018_12-": {
     "name": "$map:02020033$を死守せよ",
@@ -21359,7 +21359,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000067_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "他人の物をむさぼる者たちに容赦はない。\n奪われた物を取り戻し、悪い行いには罰を下そう。"
   },
   "94000068-Kritias_2018_12-": {
     "name": "悪の群れを減らす方法",
@@ -21368,7 +21368,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000068_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "絶えないケルベスの悪行。\n皆のために彼らの勢力を減らさなければならない。"
   },
   "94000069-Kritias_2018_12-": {
     "name": "壁の向こうへ行く方法",
@@ -21386,7 +21386,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000070_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "絶え間なく現れるタイレン王国の機械兵士。\n彼らの生産施設を攻撃して、機械兵士の数を減らそう。"
   },
   "94000071-Kritias_2018_12-": {
     "name": "巨大グムツリーの痕跡",
@@ -21395,7 +21395,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000071_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "巨大グムツリーが生まれた理由は何だろうか？\n理由を突き止めてこそ、他の巨大モンスターが生まれるのを防げる。"
   },
   "94000072-Kritias_2018_12-": {
     "name": "$npcName:25021701$の秘密",
@@ -21503,7 +21503,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000083_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "かわいいけれど獰猛な性格の$npcName:25020005$。探査隊員たちの健康のために$npcName:25020005$をこらしめよう。"
   },
   "94000084-Kritias_2018_12-": {
     "name": "$map:02020030$を攻撃する闇の軍団",
@@ -21512,7 +21512,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000084_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "闇の軍団の兵力が$map:02020030$に派遣された探査隊員たちを攻撃しているという。$npcName:25020105$を退治して探査隊員たちを保護しよう。"
   },
   "94000085-Kritias_2018_12-": {
     "name": "地表測定資料の回収",
@@ -21521,7 +21521,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000085_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "機械兵士たちが探査隊員たちの地表測定資料を奪っていったという。$map:02020031$へ行って奴らを制圧した後、資料を取り戻してこよう。"
   },
   "94000086-Kritias_2018_12-": {
     "name": "闇の軍団のエネルギー源",
@@ -21998,7 +21998,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000138_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "闇の軍団の心臓部である$map:02020036$への攻撃が始まるという。先に行って闇の軍団の兵力をできる限り制圧しよう。"
   },
   "94000139-Kritias_2018_12-": {
     "name": "タイレン王国の最初の関門",
@@ -22070,7 +22070,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000146_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "終わりが見え始めたエネル研究のために$map:02020008$のエネルを採取しよう。"
   },
   "94000147-Kritias_2018_12-": {
     "name": "ケルベスは自然破壊者！",
@@ -22115,7 +22115,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
     "count": "1|1|1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000151_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "グリーンフッドは見知らぬ大陸でラペンシャードエネルギーを追跡している。しかし探査を妨害する存在が多く、苦労しているという。奴らを制圧して探査が続けられるようにしなければならない。"
   },
   "94000152-Kritias_2018_12-": {
     "name": "定期テスト：グリーンフッド自警団",
@@ -22133,7 +22133,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000153_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "グリーンフッドのエネル研究を妨害している$map:02020031$の機械兵士たちを退治しよう。"
   },
   "94000154-Kritias_2018_12-": {
     "name": "エネル研究を妨害する存在",
@@ -22187,7 +22187,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000159_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "ゲオルクが$map:02020030$の浮遊島への反撃を始めるという。$npcName:25020106$を制圧して作戦が成功するように助けよう。"
   },
   "94000160-Kritias_2018_12-": {
     "name": "$map:02020030$の噂：メロディーパターン",
@@ -22214,7 +22214,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000162_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "グリーンフッドのエネル研究を妨害している$map:02020031$の$npcName:25020205$たちを制圧しよう。"
   },
   "94000163-Kritias_2018_12-": {
     "name": "$map:02020029$の噂：空の庭園",
@@ -22610,7 +22610,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000206_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "ゲオルクの2番目の拠点である$map:02020033$が$npcName:25021303$たちの攻撃を受けている。奴らを制圧して要塞を守らなければならない。"
   },
   "94000207-Kritias_2018_12-": {
     "name": "探査日誌の回収",
@@ -22682,7 +22682,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000214_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "グリーンフッドのエネル採取を妨害している$map:02020008$の敵対モンスターを掃討しよう。"
   },
   "94000215-Kritias_2018_12-": {
     "name": "タイレン王国の軍事機密文書",
@@ -22772,7 +22772,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000224_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "闇の軍団の心臓部である闇の軍団占領地への攻撃が始まるという。作戦の成功のためには、まず$npcName:25022004$たちを制圧しなければならない。"
   },
   "94000225-Kritias_2018_12-": {
     "name": "危機の$map:02020030$",
@@ -22808,7 +22808,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000228_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "科学と自然が調和を成すクリティアス。\nこの場所の美しさを守らなければならない。"
   },
   "94000229-Kritias_2018_12-": {
     "name": "我々を妨害するもの",
@@ -22889,7 +22889,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000237_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "機械兵士とケルベス兵力の妨害で、$map:02020016$にある遺跡の探査を始められずにいるという。探査を妨害する奴らを退治しよう。"
   },
   "94000238-Kritias_2018_12-": {
     "name": "古代クリティアスの記録",
@@ -23051,7 +23051,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000249_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "<font color=\"#00a2ed\">軍団戦任務、その1</font>\n最近クリティアスの各地で$npcName:11001813$の痕跡が発見されたという。奴の痕跡を追跡して、どんな陰謀を企てているのか解き明かさなければならない。"
   },
   "94000250-Kritias_2018_12-": {
     "name": "[ユニーク] 広がる黒い気運、その1",
@@ -23060,7 +23060,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004316$と会話",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000250_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "<font color=\"#00a2ed\">軍団戦任務、その1</font>\n$npcName:11004163$の痕跡がクリティアスの各地で発見されたという。奴の痕跡を追跡して、どんな陰謀を企てているのか解き明かさなければならない。"
   },
   "94000251-Kritias_2018_12-": {
     "name": "[ユニーク] 闇の軍団の逆襲、その1",
@@ -23069,7 +23069,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004315$と会話",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000251_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "<font color=\"#00a2ed\">軍団戦任務、その1</font>\nキデルの各地に闇の軍団が出没している。奴らに勝利するには、まず戦闘を通じて戦闘データを収集しなければならない。"
   },
   "94000252-Kritias_2018_12-": {
     "name": "[ユニーク] 闇の軍団の侵攻、その2",
@@ -23123,7 +23123,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
     "count": "1|1|1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000257_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "ゲオルクを脅かす敵の勢いが一段と強まったという。\n彼らを助けて敵を退治し、安全を守らなければならない。"
   },
   "94000258-Kritias_2018_12-": {
     "name": "ゲオルクのために",
@@ -23141,7 +23141,7 @@
     "complete": "$map:02020041$へ行って$npcName:11004312$と会話する",
     "count": "1|1|1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000259_DESCFAMEUI:[F]Kritias_2018_12"
+    "descFameUI": "剣を多彩に操るクリティアスのモンスターの戦闘パターンを把握したいという$npcName:11004312$。直接戦いながら彼らの戦闘パターンを把握しなければならない。"
   },
   "94000260-Kritias_2018_12-": {
     "name": "彼らの戦闘方法を身につけろ",
@@ -24113,7 +24113,7 @@
     "complete": "$map:52100109$へ行って$npcName:11004614$と会話する",
     "count": "1",
     "locking": "0",
-    "descFameUI": "QUESTDESCRIPTION_94000367_DESCFAMEUI:[F]Fame_Geo01"
+    "descFameUI": "ゲオルク研究チームのために$map:02020018$へ行って、輝く青い遺物を確保しなければならない。"
   },
   "94000368-Fame_Geo01-": {
     "name": "堕落の隠れ家",
