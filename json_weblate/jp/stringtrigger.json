@@ -305,7 +305,7 @@
     "type": "대화를설정한다"
   },
   "02000037_BF__BOSSSPAWN__0--": {
-    "name": "STRINGTRIGGER_02000037_BF__BOSSSPAWN__0_NAME",
+    "name": "…ん？！あれは固まった不滅の血液ではないか？あの血液を早く持ってくるのだ。\\n私は先にアリの巣入口へ戻るから、そこでまた話すとしよう。",
     "npc": "NotUse"
   },
   "02000040_BF__IM_686__0--": {
@@ -539,51 +539,51 @@
     "type": "대화를설정한다"
   },
   "02000066_BF__BANNER01__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__BANNER01__0_NAME",
+    "name": "砲兵任務を選択すると\\n[砲弾]を獲得して\\n大砲を発射できます。",
     "npc": "File missing"
   },
   "02000066_BF__BANNER02__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__BANNER02__0_NAME",
+    "name": "砲兵任務を選択すると\\n[砲弾]を獲得して\\n大砲を発射できます。",
     "npc": "File missing"
   },
   "02000066_BF__BANNER03__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__BANNER03__0_NAME",
+    "name": "衛生兵任務を選択すると\\n[救急箱]を獲得して\\n倒れた警備兵を治療できます。",
     "npc": "File missing"
   },
   "02000066_BF__BANNER04__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__BANNER04__0_NAME",
+    "name": "工兵任務を選択すると\\n[万能修理キット]を獲得して\\nゲートを修理できます。",
     "npc": "File missing"
   },
   "02000066_BF__GATE01__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__GATE01__0_NAME",
+    "name": "ゲートが破壊されました。",
     "npc": "NotUse"
   },
   "02000066_BF__GATE02__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__GATE02__0_NAME",
+    "name": "ゲートが破壊されました。",
     "npc": "NotUse"
   },
   "02000066_BF__GATE03__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__GATE03__0_NAME",
+    "name": "ゲートが破壊されました。",
     "npc": "NotUse"
   },
   "02000066_BF__GATE04__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__GATE04__0_NAME",
+    "name": "ゲートが破壊されました。",
     "npc": "NotUse"
   },
   "02000066_BF__GATE05__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__GATE05__0_NAME",
+    "name": "ゲートが破壊されました。",
     "npc": "NotUse"
   },
   "02000066_BF__GATE06__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__GATE06__0_NAME",
+    "name": "ゲートが破壊されました。",
     "npc": "NotUse"
   },
   "02000066_BF__GATE07__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__GATE07__0_NAME",
+    "name": "ゲートが破壊されました。",
     "npc": "NotUse"
   },
   "02000066_BF__GATE08__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__GATE08__0_NAME",
+    "name": "ゲートが破壊されました。",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__0--": {
@@ -599,7 +599,7 @@
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__3--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__3_NAME",
+    "name": "ダンジョン目標：生命の森へ向かう次元の扉を守れ",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__4--": {
@@ -627,7 +627,7 @@
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__9--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__9_NAME",
+    "name": "残っているモンスターを退治して、\\n急いで周りを立て直さないと！",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__10--": {
@@ -645,7 +645,7 @@
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__13--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__13_NAME",
+    "name": "残っているモンスターを退治して、\\n急いで周りを立て直さないと！",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__14--": {
@@ -688,7 +688,7 @@
     "type": "대화를설정한다"
   },
   "02000066_BF__MAIN__22--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__22_NAME",
+    "name": "再びモンスターが押し寄せています。\\n次元の扉を通って生命の森へ移動するか、\\nここに残って結界を守ってください。",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__23--": {
@@ -704,7 +704,7 @@
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__26--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__26_NAME",
+    "name": "残っているモンスターを退治して、\\n急いで周りを立て直さないと！",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__27--": {
@@ -720,7 +720,7 @@
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__30--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__30_NAME",
+    "name": "残っているモンスターを退治して、\\n急いで周りを立て直さないと！",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__31--": {
@@ -757,7 +757,7 @@
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__39--": {
-    "name": "STRINGTRIGGER_02000066_BF__MAIN__39_NAME",
+    "name": "闇の力を完全に退けました。\\nまもなく生命の森へ移動します。",
     "npc": "NotUse"
   },
   "02000066_BF__MAIN__40--": {
@@ -796,7 +796,7 @@
     "type": "대화를설정한다"
   },
   "02000066_BF__NPC01__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__NPC01__0_NAME",
+    "name": "警備兵が倒れました。",
     "npc": "NotUse"
   },
   "02000066_BF__NPC01__1--": {
@@ -805,7 +805,7 @@
     "type": "대화를설정한다"
   },
   "02000066_BF__NPC02__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__NPC02__0_NAME",
+    "name": "警備兵が倒れました。",
     "npc": "NotUse"
   },
   "02000066_BF__NPC02__1--": {
@@ -814,7 +814,7 @@
     "type": "대화를설정한다"
   },
   "02000066_BF__NPC03__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__NPC03__0_NAME",
+    "name": "警備兵が倒れました。",
     "npc": "NotUse"
   },
   "02000066_BF__NPC03__1--": {
@@ -823,7 +823,7 @@
     "type": "대화를설정한다"
   },
   "02000066_BF__NPC04__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__NPC04__0_NAME",
+    "name": "警備兵が倒れました。",
     "npc": "NotUse"
   },
   "02000066_BF__NPC04__1--": {
@@ -832,7 +832,7 @@
     "type": "대화를설정한다"
   },
   "02000066_BF__NPC05__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__NPC05__0_NAME",
+    "name": "警備兵が倒れました。",
     "npc": "NotUse"
   },
   "02000066_BF__NPC05__1--": {
@@ -840,7 +840,7 @@
     "npc": "NotUse"
   },
   "02000066_BF__NPC06__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__NPC06__0_NAME",
+    "name": "警備兵が倒れました。",
     "npc": "NotUse"
   },
   "02000066_BF__NPC06__1--": {
@@ -849,7 +849,7 @@
     "type": "대화를설정한다"
   },
   "02000066_BF__NPC07__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__NPC07__0_NAME",
+    "name": "警備兵が倒れました。",
     "npc": "NotUse"
   },
   "02000066_BF__NPC07__1--": {
@@ -858,7 +858,7 @@
     "type": "대화를설정한다"
   },
   "02000066_BF__NPC08__0--": {
-    "name": "STRINGTRIGGER_02000066_BF__NPC08__0_NAME",
+    "name": "警備兵が倒れました。",
     "npc": "NotUse"
   },
   "02000066_BF__NPC08__1--": {
@@ -1413,19 +1413,19 @@
     "type": "대화를설정한다"
   },
   "02000217_BF__PORTAL_1__0--": {
-    "name": "STRINGTRIGGER_02000217_BF__PORTAL_1__0_NAME",
+    "name": "5秒後にポータルが消えます。急いで入場してください。",
     "npc": "NotUse"
   },
   "02000217_BF__PORTAL_1__1--": {
-    "name": "STRINGTRIGGER_02000217_BF__PORTAL_1__1_NAME",
+    "name": "ポータルが消えました。",
     "npc": "NotUse"
   },
   "02000217_BF__PORTAL_2__0--": {
-    "name": "STRINGTRIGGER_02000217_BF__PORTAL_2__0_NAME",
+    "name": "5秒後にポータルが消えます。急いで入場してください。",
     "npc": "NotUse"
   },
   "02000217_BF__PORTAL_2__1--": {
-    "name": "STRINGTRIGGER_02000217_BF__PORTAL_2__1_NAME",
+    "name": "ポータルが消えました。",
     "npc": "NotUse"
   },
   "02000229_BF__FIRE_01__0--": {
@@ -1618,11 +1618,11 @@
     "type": "이벤트UI를설정한다"
   },
   "02000241_BF__TIMER__2--": {
-    "name": "STRINGTRIGGER_02000241_BF__TIMER__2_NAME",
+    "name": "4人くらいはいてこそ相手にする気にもなるものを…笑わせる。",
     "npc": "NotUse"
   },
   "02000241_BF__TIMER__3--": {
-    "name": "STRINGTRIGGER_02000241_BF__TIMER__3_NAME",
+    "name": "ダンジョン目標：ゴールデンタワーを征服する",
     "npc": "NotUse"
   },
   "02000241_BF__TIMER__4--": {
@@ -1631,11 +1631,11 @@
     "type": "이벤트UI를설정한다"
   },
   "02000241_BF__TRIGGER_01__0--": {
-    "name": "STRINGTRIGGER_02000241_BF__TRIGGER_01__0_NAME",
+    "name": "足場の上に乗ってください。",
     "npc": "NotUse"
   },
   "02000241_BF__TRIGGER_04__0--": {
-    "name": "STRINGTRIGGER_02000241_BF__TRIGGER_04__0_NAME",
+    "name": "足場の上に乗ってください。",
     "npc": "NotUse"
   },
   "02000242_BF__TIMER__0--": {
@@ -1644,11 +1644,11 @@
     "type": "이벤트UI를설정한다"
   },
   "02000242_BF__TRIGGER_02__0--": {
-    "name": "STRINGTRIGGER_02000242_BF__TRIGGER_02__0_NAME",
+    "name": "タイヤの間に隠された足場を踏むと扉が開きます。\\nタイヤを動かして道を作ってください。",
     "npc": "NotUse"
   },
   "02000242_BF__TRIGGER_04__0--": {
-    "name": "STRINGTRIGGER_02000242_BF__TRIGGER_04__0_NAME",
+    "name": "タイヤの間に隠された足場を踏むと扉が開きます。\\nタイヤを動かして道を作ってください。",
     "npc": "NotUse"
   },
   "02000243_BF__TIMER__0--": {
@@ -1672,15 +1672,15 @@
     "type": "이벤트UI를설정한다"
   },
   "02000244_BF__TRIGGER_01__0--": {
-    "name": "STRINGTRIGGER_02000244_BF__TRIGGER_01__0_NAME",
+    "name": "レバーを引いてください。",
     "npc": "NotUse"
   },
   "02000244_BF__TRIGGER_02__0--": {
-    "name": "STRINGTRIGGER_02000244_BF__TRIGGER_02__0_NAME",
+    "name": "レバーを引いてください。",
     "npc": "NotUse"
   },
   "02000244_BF__TRIGGER_04__0--": {
-    "name": "STRINGTRIGGER_02000244_BF__TRIGGER_04__0_NAME",
+    "name": "レバーを引いてください。",
     "npc": "NotUse"
   },
   "02000245_BF__TIMER__0--": {
@@ -1689,11 +1689,11 @@
     "type": "이벤트UI를설정한다"
   },
   "02000245_BF__TRIGGER_01__0--": {
-    "name": "STRINGTRIGGER_02000245_BF__TRIGGER_01__0_NAME",
+    "name": "足場の上に立つと火が消えます。\\n火が消えた後にレバーを引いてください。",
     "npc": "NotUse"
   },
   "02000245_BF__TRIGGER_03__0--": {
-    "name": "STRINGTRIGGER_02000245_BF__TRIGGER_03__0_NAME",
+    "name": "足場の上に立つと火が消えます。\\n火が消えた後にレバーを引いてください。",
     "npc": "NotUse"
   },
   "02000246_BF__TIMER__0--": {
@@ -1773,7 +1773,7 @@
     "type": "대화를설정한다"
   },
   "02000252_BF__DOOR_03__0--": {
-    "name": "STRINGTRIGGER_02000252_BF__DOOR_03__0_NAME",
+    "name": "ありがとう！",
     "npc": "NotUse"
   },
   "02000252_BF__DOOR_04__0--": {
@@ -1813,7 +1813,7 @@
     "npc": "NotUse"
   },
   "02000252_BF__START__3--": {
-    "name": "STRINGTRIGGER_02000252_BF__START__3_NAME",
+    "name": "ダンジョン目標：王宮の地下の侵入者を掃討する",
     "npc": "NotUse"
   },
   "02000252_BF__START__4--": {
@@ -1842,7 +1842,7 @@
     "type": "대화를설정한다"
   },
   "02000253_BF__MOB__0--": {
-    "name": "STRINGTRIGGER_02000253_BF__MOB__0_NAME",
+    "name": "地下宴会場へ移動せよ。",
     "npc": "NotUse"
   },
   "02000253_BF__MOVE__0--": {
@@ -1968,35 +1968,35 @@
     "npc": "NotUse"
   },
   "02000281_BF__MAIN__3--": {
-    "name": "STRINGTRIGGER_02000281_BF__MAIN__3_NAME",
+    "name": "ダンジョン目標：武器庫盗難事件の隠された真実を探す",
     "npc": "NotUse"
   },
   "02000281_BF__MAIN__4--": {
-    "name": "STRINGTRIGGER_02000281_BF__MAIN__4_NAME",
+    "name": "毒液をはらんだ巨大なソロモンが現れた！",
     "npc": "NotUse"
   },
   "02000281_BF__MAIN__5--": {
-    "name": "STRINGTRIGGER_02000281_BF__MAIN__5_NAME",
+    "name": "はしごを上って行こう。",
     "npc": "NotUse"
   },
   "02000281_BF__MAIN__6--": {
-    "name": "STRINGTRIGGER_02000281_BF__MAIN__6_NAME",
+    "name": "毒液をはらんだ巨大なソロモンが現れた！",
     "npc": "NotUse"
   },
   "02000281_BF__MAIN__7--": {
-    "name": "STRINGTRIGGER_02000281_BF__MAIN__7_NAME",
+    "name": "はしごを上って行こう。",
     "npc": "NotUse"
   },
   "02000281_BF__MAIN__8--": {
-    "name": "STRINGTRIGGER_02000281_BF__MAIN__8_NAME",
+    "name": "毒液をはらんだ巨大なソロモンが現れた！",
     "npc": "NotUse"
   },
   "02000281_BF__MAIN__9--": {
-    "name": "STRINGTRIGGER_02000281_BF__MAIN__9_NAME",
+    "name": "はしごを上って行こう。",
     "npc": "NotUse"
   },
   "02000281_BF__TIMER__0--": {
-    "name": "STRINGTRIGGER_02000281_BF__TIMER__0_NAME",
+    "name": "毒液に流されてきた手がかりを探してみよう！",
     "npc": "File missing"
   },
   "02000281_BF__TIMER__1--": {
@@ -2004,55 +2004,55 @@
     "npc": "File missing"
   },
   "02000282_BF__MAIN__0--": {
-    "name": "STRINGTRIGGER_02000282_BF__MAIN__0_NAME",
+    "name": "翼の生えた豚ベスクスが現れた！",
     "npc": "NotUse"
   },
   "02000282_BF__MAIN__1--": {
-    "name": "STRINGTRIGGER_02000282_BF__MAIN__1_NAME",
+    "name": "はしごを上って行こう。",
     "npc": "NotUse"
   },
   "02000282_BF__MAIN__2--": {
-    "name": "STRINGTRIGGER_02000282_BF__MAIN__2_NAME",
+    "name": "翼の生えた豚ベスクスが現れた！",
     "npc": "NotUse"
   },
   "02000282_BF__MAIN__3--": {
-    "name": "STRINGTRIGGER_02000282_BF__MAIN__3_NAME",
+    "name": "はしごを上って行こう。",
     "npc": "NotUse"
   },
   "02000282_BF__MAIN__4--": {
-    "name": "STRINGTRIGGER_02000282_BF__MAIN__4_NAME",
+    "name": "翼の生えた豚ベスクスが現れた！",
     "npc": "NotUse"
   },
   "02000282_BF__MAIN__5--": {
-    "name": "STRINGTRIGGER_02000282_BF__MAIN__5_NAME",
+    "name": "はしごを上って行こう。",
     "npc": "NotUse"
   },
   "02000282_BF__MAIN__6--": {
-    "name": "STRINGTRIGGER_02000282_BF__MAIN__6_NAME",
+    "name": "翼の生えた豚ベスクスが現れた！",
     "npc": "NotUse"
   },
   "02000282_BF__MAIN__7--": {
-    "name": "STRINGTRIGGER_02000282_BF__MAIN__7_NAME",
+    "name": "はしごを上って行こう。",
     "npc": "NotUse"
   },
   "02000282_BF__MAIN__8--": {
-    "name": "STRINGTRIGGER_02000282_BF__MAIN__8_NAME",
+    "name": "翼の生えた豚ベスクスが現れた！",
     "npc": "NotUse"
   },
   "02000282_BF__MAIN__9--": {
-    "name": "STRINGTRIGGER_02000282_BF__MAIN__9_NAME",
+    "name": "はしごを上って行こう。",
     "npc": "NotUse"
   },
   "02000282_BF__MAIN__10--": {
-    "name": "STRINGTRIGGER_02000282_BF__MAIN__10_NAME",
+    "name": "翼の生えた豚ベスクスが現れた！",
     "npc": "NotUse"
   },
   "02000282_BF__MAIN__11--": {
-    "name": "STRINGTRIGGER_02000282_BF__MAIN__11_NAME",
+    "name": "はしごを上って行こう。",
     "npc": "NotUse"
   },
   "02000282_BF__TIMER__0--": {
-    "name": "STRINGTRIGGER_02000282_BF__TIMER__0_NAME",
+    "name": "毒液に流されてきた手がかりを探してみよう！",
     "npc": "File missing"
   },
   "02000282_BF__TIMER__1--": {
@@ -2060,15 +2060,15 @@
     "npc": "File missing"
   },
   "02000283_BF__MAIN__0--": {
-    "name": "STRINGTRIGGER_02000283_BF__MAIN__0_NAME",
+    "name": "コケ中毒のマグヌスが現れた！",
     "npc": "NotUse"
   },
   "02000283_BF__MAIN__1--": {
-    "name": "STRINGTRIGGER_02000283_BF__MAIN__1_NAME",
+    "name": "ポータルに乗って抜け出そう！",
     "npc": "NotUse"
   },
   "02000283_BF__TIMER__0--": {
-    "name": "STRINGTRIGGER_02000283_BF__TIMER__0_NAME",
+    "name": "毒液に流されてきた手がかりを探してみよう！",
     "npc": "File missing"
   },
   "02000283_BF__TIMER__1--": {
@@ -2076,7 +2076,7 @@
     "npc": "File missing"
   },
   "02000284_BF__MAIN__0--": {
-    "name": "STRINGTRIGGER_02000284_BF__MAIN__0_NAME",
+    "name": "毒液の門番フィア・ド・カルロが現れた！",
     "npc": "NotUse"
   },
   "02000284_BF__MAIN__1--": {
@@ -2084,11 +2084,11 @@
     "npc": "NotUse"
   },
   "02000284_BF__MAIN__2--": {
-    "name": "STRINGTRIGGER_02000284_BF__MAIN__2_NAME",
+    "name": "ポータルに乗って抜け出そう！",
     "npc": "NotUse"
   },
   "02000284_BF__TIMER__0--": {
-    "name": "STRINGTRIGGER_02000284_BF__TIMER__0_NAME",
+    "name": "カルロを退治して最後の手がかりを探してみよう！",
     "npc": "File missing"
   },
   "02000284_BF__TIMER__1--": {
@@ -2104,11 +2104,11 @@
     "npc": "NotUse"
   },
   "02000290_BF__MAIN__2--": {
-    "name": "STRINGTRIGGER_02000290_BF__MAIN__2_NAME",
+    "name": "ダンジョン目標：ヨミ姫を救出する",
     "npc": "NotUse"
   },
   "02000290_BF__MAIN__3--": {
-    "name": "STRINGTRIGGER_02000290_BF__MAIN__3_NAME",
+    "name": "足場を踏んで滝の上へ上がるか、\\n左へ回って行ってください。",
     "npc": "NotUse"
   },
   "02000290_BF__MAIN__4--": {
@@ -2121,7 +2121,7 @@
     "npc": "NotUse"
   },
   "02000290_BF__MAIN_2__1--": {
-    "name": "STRINGTRIGGER_02000290_BF__MAIN_2__1_NAME",
+    "name": "イバラの茂みに閉じ込められたヨミ姫を助けてください。",
     "npc": "NotUse"
   },
   "02000290_BF__MAIN_2__2--": {
@@ -2130,7 +2130,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02000290_BF__MAIN_2__3--": {
-    "name": "STRINGTRIGGER_02000290_BF__MAIN_2__3_NAME",
+    "name": "桜の森の外へ出るポータルが開きました。",
     "npc": "NotUse"
   },
   "02000290_BF__MAIN_2__4--": {
@@ -2224,23 +2224,23 @@
     "type": "대화를설정한다"
   },
   "02000290_BF__WIND__0--": {
-    "name": "STRINGTRIGGER_02000290_BF__WIND__0_NAME",
+    "name": "怠け者スタンピが \\n深く息を吸い込みます。",
     "npc": "NotUse"
   },
   "02000290_BF__WIND__1--": {
-    "name": "STRINGTRIGGER_02000290_BF__WIND__1_NAME",
+    "name": "怠け者スタンピが \\n深く息を吸い込みます。",
     "npc": "NotUse"
   },
   "02000290_BF__WIND__2--": {
-    "name": "STRINGTRIGGER_02000290_BF__WIND__2_NAME",
+    "name": "怠け者スタンピが \\n深く息を吸い込みます。",
     "npc": "NotUse"
   },
   "02000292_BF__MAIN__1--": {
-    "name": "STRINGTRIGGER_02000292_BF__MAIN__1_NAME",
+    "name": "まもなく鉱山に進入できる扉が開きます。",
     "npc": "NotUse"
   },
   "02000292_BF__MAIN__2--": {
-    "name": "STRINGTRIGGER_02000292_BF__MAIN__2_NAME",
+    "name": "ダンジョン目標：カトラムスを征服せよ！",
     "npc": "NotUse"
   },
   "02000292_BF__MAIN__3--": {
@@ -2248,7 +2248,7 @@
     "npc": "NotUse"
   },
   "02000292_BF__MAIN__4--": {
-    "name": "STRINGTRIGGER_02000292_BF__MAIN__4_NAME",
+    "name": "上の階へ上がる道が塞がれました。 \\n警備団長カボンを退治してください。",
     "npc": "NotUse"
   },
   "02000292_BF__MAIN__5--": {
@@ -2427,15 +2427,15 @@
     "npc": "NotUse"
   },
   "02000296_BF__MAIN2__0--": {
-    "name": "STRINGTRIGGER_02000296_BF__MAIN2__0_NAME",
+    "name": "驚くことはない！説明は後にして、まずはこいつから一緒に片付けるのはどうだ？",
     "npc": "File missing"
   },
   "02000296_BF__MAIN2__1--": {
-    "name": "STRINGTRIGGER_02000296_BF__MAIN2__1_NAME",
+    "name": "$npc:11001236$！ここから上の階へ行けるよ！",
     "npc": "File missing"
   },
   "02000296_BF__MAIN2__2--": {
-    "name": "STRINGTRIGGER_02000296_BF__MAIN2__2_NAME",
+    "name": "よし！行こう！",
     "npc": "File missing"
   },
   "02000296_BF__MAIN2__3--": {
@@ -2550,7 +2550,7 @@
     "npc": "NotUse"
   },
   "02000297_BF__MAIN2__11--": {
-    "name": "STRINGTRIGGER_02000297_BF__MAIN2__11_NAME",
+    "name": "ポータルに乗って移動してください！",
     "npc": "NotUse"
   },
   "02000298_BF__HACK_01__0--": {
@@ -2954,23 +2954,23 @@
     "type": "이벤트UI를설정한다"
   },
   "02000298_BF__MAIN__0--": {
-    "name": "STRINGTRIGGER_02000298_BF__MAIN__0_NAME",
+    "name": "まもなく研究基地の扉が開きます。",
     "npc": "NotUse"
   },
   "02000298_BF__MAIN__1--": {
-    "name": "STRINGTRIGGER_02000298_BF__MAIN__1_NAME",
+    "name": "まもなく研究基地の扉が開きます。",
     "npc": "NotUse"
   },
   "02000298_BF__MAIN__2--": {
-    "name": "STRINGTRIGGER_02000298_BF__MAIN__2_NAME",
+    "name": "ダンジョン目標：ルディブルタイムホールハッキング事件の調査",
     "npc": "NotUse"
   },
   "02000298_BF__NUMBER__0--": {
-    "name": "STRINGTRIGGER_02000298_BF__NUMBER__0_NAME",
+    "name": "4桁のパスコードを入力してください。",
     "npc": "NotUse"
   },
   "02000298_BF__NUMBER__1--": {
-    "name": "STRINGTRIGGER_02000298_BF__NUMBER__1_NAME",
+    "name": "パスコード一致",
     "npc": "NotUse"
   },
   "02000298_BF__NUMBER__2--": {
@@ -2978,19 +2978,19 @@
     "npc": "NotUse"
   },
   "02000298_BF__NUMBER__3--": {
-    "name": "STRINGTRIGGER_02000298_BF__NUMBER__3_NAME",
+    "name": "パスコード不一致",
     "npc": "NotUse"
   },
   "02000298_BF__NUMBER__4--": {
-    "name": "STRINGTRIGGER_02000298_BF__NUMBER__4_NAME",
+    "name": "警告：システム防御モード発動",
     "npc": "NotUse"
   },
   "02000299_BF__MAIN__0--": {
-    "name": "STRINGTRIGGER_02000299_BF__MAIN__0_NAME",
+    "name": "[未来]に時間を設定します。",
     "npc": "NotUse"
   },
   "02000299_BF__MAIN__1--": {
-    "name": "STRINGTRIGGER_02000299_BF__MAIN__1_NAME",
+    "name": "[過去]に時間を設定します。",
     "npc": "NotUse"
   },
   "02000299_BF__MAIN__2--": {
@@ -3034,11 +3034,11 @@
     "npc": "NotUse"
   },
   "02000299_BF__MAIN__11--": {
-    "name": "STRINGTRIGGER_02000299_BF__MAIN__11_NAME",
+    "name": "認証されていない時空間です。",
     "npc": "NotUse"
   },
   "02000299_BF__MAIN__12--": {
-    "name": "STRINGTRIGGER_02000299_BF__MAIN__12_NAME",
+    "name": "システム：防御モード切替",
     "npc": "NotUse"
   },
   "02000299_BF__MAIN__13--": {
@@ -3046,7 +3046,7 @@
     "npc": "NotUse"
   },
   "02000299_BF__MAIN__14--": {
-    "name": "STRINGTRIGGER_02000299_BF__MAIN__14_NAME",
+    "name": "警告：システムエラー発生",
     "npc": "NotUse"
   },
   "02000299_BF__MAIN__15--": {
@@ -3055,27 +3055,27 @@
     "type": "이벤트UI를설정한다"
   },
   "02000299_BF__MAIN__16--": {
-    "name": "STRINGTRIGGER_02000299_BF__MAIN__16_NAME",
+    "name": "警告：システムエラー発生",
     "npc": "NotUse"
   },
   "02000299_BF__MENUAL__0--": {
-    "name": "STRINGTRIGGER_02000299_BF__MENUAL__0_NAME",
+    "name": "システム：プロトタイプTMX980マニュアル開始",
     "npc": "NotUse"
   },
   "02000299_BF__MENUAL__1--": {
-    "name": "STRINGTRIGGER_02000299_BF__MENUAL__1_NAME",
+    "name": "TMX980は設定された時空間へ移動できる装置です。",
     "npc": "NotUse"
   },
   "02000299_BF__MENUAL__2--": {
-    "name": "STRINGTRIGGER_02000299_BF__MENUAL__2_NAME",
+    "name": "まず左側のコンピューターで時間を設定します。",
     "npc": "NotUse"
   },
   "02000299_BF__MENUAL__3--": {
-    "name": "STRINGTRIGGER_02000299_BF__MENUAL__3_NAME",
+    "name": "時間の設定が完了したら\\n右側のコンピューターで空間を設定します。",
     "npc": "NotUse"
   },
   "02000299_BF__MENUAL__4--": {
-    "name": "STRINGTRIGGER_02000299_BF__MENUAL__4_NAME",
+    "name": "認証されていない時間と空間が組み合わされた場合、\\n防御モードに切り替わるため注意してください。",
     "npc": "NotUse"
   },
   "02000299_BF__MENUAL__5--": {
@@ -3093,7 +3093,7 @@
     "type": "대화를설정한다"
   },
   "02000300_BF__MAIN__2--": {
-    "name": "STRINGTRIGGER_02000300_BF__MAIN__2_NAME",
+    "name": "帰還装置を使用してください。",
     "npc": "NotUse"
   },
   "02000300_BF__MAIN__3--": {
@@ -3162,7 +3162,7 @@
     "type": "대화를설정한다"
   },
   "02000301_BF__MAIN__3--": {
-    "name": "STRINGTRIGGER_02000301_BF__MAIN__3_NAME",
+    "name": "帰還装置を使用してください。",
     "npc": "NotUse"
   },
   "02000301_BF__MAIN__4--": {
@@ -3171,11 +3171,11 @@
     "type": "이벤트UI를설정한다"
   },
   "02000301_BF__TRAP_00__0--": {
-    "name": "STRINGTRIGGER_02000301_BF__TRAP_00__0_NAME",
+    "name": "システム：侵入者感知",
     "npc": "NotUse"
   },
   "02000301_BF__TRAP_01__0--": {
-    "name": "STRINGTRIGGER_02000301_BF__TRAP_01__0_NAME",
+    "name": "システム：侵入者感知",
     "npc": "NotUse"
   },
   "02000301_BF__TRAP_02__0--": {
@@ -3188,7 +3188,7 @@
     "type": "대화를설정한다"
   },
   "02000301_BF__TRAP_03__0--": {
-    "name": "STRINGTRIGGER_02000301_BF__TRAP_03__0_NAME",
+    "name": "システム：侵入者感知",
     "npc": "NotUse"
   },
   "02000301_BF__TRAP_04__0--": {
@@ -3201,11 +3201,11 @@
     "type": "대화를설정한다"
   },
   "02000301_BF__TRAP_05__0--": {
-    "name": "STRINGTRIGGER_02000301_BF__TRAP_05__0_NAME",
+    "name": "システム：侵入者感知",
     "npc": "NotUse"
   },
   "02000301_BF__TRAP_06__0--": {
-    "name": "STRINGTRIGGER_02000301_BF__TRAP_06__0_NAME",
+    "name": "システム：侵入者感知",
     "npc": "NotUse"
   },
   "02000301_BF__TRAP_07__0--": {
@@ -3218,11 +3218,11 @@
     "type": "대화를설정한다"
   },
   "02000301_BF__TRAP_08__0--": {
-    "name": "STRINGTRIGGER_02000301_BF__TRAP_08__0_NAME",
+    "name": "システム：侵入者感知",
     "npc": "NotUse"
   },
   "02000301_BF__TRAP_09__0--": {
-    "name": "STRINGTRIGGER_02000301_BF__TRAP_09__0_NAME",
+    "name": "システム：侵入者感知",
     "npc": "NotUse"
   },
   "02000302_BF__MAIN__0--": {
@@ -3271,7 +3271,7 @@
     "type": "대화를설정한다"
   },
   "02000302_BF__MAIN__9--": {
-    "name": "STRINGTRIGGER_02000302_BF__MAIN__9_NAME",
+    "name": "帰還装置を使用してください。",
     "npc": "NotUse"
   },
   "02000302_BF__MAIN__10--": {
@@ -3290,7 +3290,7 @@
     "type": "대화를설정한다"
   },
   "02000303_BF__MAIN__2--": {
-    "name": "STRINGTRIGGER_02000303_BF__MAIN__2_NAME",
+    "name": "帰還装置を使用してください。",
     "npc": "NotUse"
   },
   "02000303_BF__MAIN__3--": {
@@ -4800,7 +4800,7 @@
     "npc": "File missing"
   },
   "02000338_BF__MAIN2__1--": {
-    "name": "STRINGTRIGGER_02000338_BF__MAIN2__1_NAME",
+    "name": "ポータルに乗って移動してください！",
     "npc": "File missing"
   },
   "02000338_BF__MAIN3__0--": {
@@ -8039,7 +8039,7 @@
     "type": "이벤트UI를설정한다"
   },
   "52000002_QD__LEVER__0--": {
-    "name": "STRINGTRIGGER_52000002_QD__LEVER__0_NAME",
+    "name": "レバーを引いてください。",
     "npc": "NotUse"
   },
   "52000002_QD__MAIN__0--": {
