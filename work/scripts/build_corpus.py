@@ -10,7 +10,8 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="repla
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 # 例: ITEMNAME_10000041_NAME:[F]Fishing02 / ITEMNAME_20001133_NAME (接尾辞なし)
-PLACEHOLDER = re.compile(r"^[A-Z0-9$]+(_[A-Z0-9$]+)+(:\[F\].*)?$")
+# 「(景品) STRINGFISHNAME_...」のような接頭辞付き複合形も検出するため search で判定する
+PLACEHOLDER = re.compile(r"(^|\s)[A-Z0-9$]+(_[A-Z0-9$]+)+(:\[F\]\S*)?($|\s)")
 
 def load(lang):
     with open(os.path.join(ROOT, "json_weblate", lang, "itemname.json"), encoding="utf-8") as f:
@@ -21,13 +22,13 @@ def main():
     rows, seen = [], set()
     for key, j in ja.items():
         ja_name = j.get("name", "")
-        if not ja_name or PLACEHOLDER.match(ja_name):
+        if not ja_name or PLACEHOLDER.search(ja_name):
             continue
         en_name = en.get(key, {}).get("name", "")
         ko_name = ko.get(key, {}).get("name", "")
-        if PLACEHOLDER.match(en_name):
+        if PLACEHOLDER.search(en_name):
             en_name = ""
-        if PLACEHOLDER.match(ko_name):
+        if PLACEHOLDER.search(ko_name):
             ko_name = ""
         r = (en_name, ko_name, ja_name, j.get("class", ""), key)
         if r[:3] not in seen:

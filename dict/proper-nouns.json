@@ -96,7 +96,16 @@
     "Arkeon": {"ja": "アルケオン", "ko": "아르케온", "source": "corpus"},
     "Skald": {"ja": "クランツ", "ko": "크란츠", "source": "corpus", "note": "EN Skald=KR/JA クランツ"},
     "Narubashan": {"ja": "ナルバシャン", "ko": "나루바샨", "source": "corpus"},
-    "Madrakan": {"ja": "マドラカン", "ko": "마드라칸", "source": "corpus", "note": "マドラカン軍団の痕跡：〜"}
+    "Madrakan": {"ja": "マドラカン", "ko": "마드라칸", "source": "corpus", "note": "マドラカン軍団の痕跡：〜"},
+    "Sobfish": {"ja": "ナキギョ", "ko": "울어", "source": "session", "note": "釣り魚。울다(泣く)+어(魚)のダジャレ→既訳例(싱숭생숭어→ホラボラギョ等)に倣い〜ギョ形式"},
+    "Bow Fish": {"ja": "ユミギョ", "ko": "활어", "source": "session", "note": "釣り魚。활(弓)と활어(活魚)のダジャレ"},
+    "Shamefish": {"ja": "ハニカミギョ", "ko": "부끄러어", "source": "session", "note": "釣り魚。부끄럽다(恥ずかしがる)+어"},
+    "Gracefish": {"ja": "ミヤビギョ", "ko": "우아해어", "source": "session", "note": "釣り魚。우아하다(優雅)+어"},
+    "Thunder Eye": {"ja": "サージョンアイ", "ko": "서전 아이", "source": "session", "note": "釣り魚。KR 서전=surgeon。ENはThunderに独自リネームだがKR準拠。핫 아이=ホットアイ、포이즌 아이=ポイズンアイと同系列"},
+    "Blazeweed": {"ja": "メラメラウキクサ", "ko": "이그리밥", "source": "session", "note": "釣り魚。이글이글(メラメラ)+개구리밥(ウキクサ)のダジャレ"},
+    "Frillia": {"ja": "フリリア", "ko": "프릴리아", "source": "session", "note": "釣り魚(クリティアス)。Peacock Frillia=ピーコックフリリア"},
+    "Pinboom": {"ja": "ピンブーム", "ko": "핀붐", "source": "session", "note": "釣り魚。Bloody Pinboom=ブラッディピンブーム"},
+    "Puffling (Blooming/Floral)": {"ja": "ブルーミングフラワーモン/マン", "ko": "블루밍 플라워 몽/망", "source": "session", "note": "釣り魚。KR語尾 몽=モン(Blooming)、망=マン(Floral)。同系の프레쉬 리프 밍=フレッシュリーフミン"}
   },
 
   "lore_notes": {

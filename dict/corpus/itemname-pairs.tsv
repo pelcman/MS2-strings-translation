@@ -79,22 +79,38 @@ Treelacanth	앤트실러캔스	アントシラカンス	material	33040076--
 (Prize) Treelacanth	(경품) 앤트실러캔스	(景品) アントシラカンス	material	33040077--
 Mecha Shark	기계 상어	機械サメ	material	33040078--
 (Prize) Mecha Shark	(경품) 기계 상어	(景品) 機械サメ	material	33040079--
-(Prize) Blue Jelly Shrimp	(경품) 블루 젤리 새우	(景品) STRINGFISHNAME_10000041_NAME:[F]Fishing02	material	33040081--
-(Prize) Sobfish	(경품) 울어	(景品) STRINGFISHNAME_10000042_NAME:[F]Fishing02	material	33040083--
-(Prize) Duckweed	(경품) 개구리밥	(景品) STRINGFISHNAME_10000043_NAME:[F]Fishing02	material	33040085--
-(Prize) Golden Mandarin Fish	(경품) 황쏘가리	(景品) STRINGFISHNAME_10000044_NAME:[F]Fishing02	material	33040087--
-(Prize) Water Hyacinth	(경품) 부레옥잠	(景品) STRINGFISHNAME_10000045_NAME:[F]Fishing02	material	33040089--
-(Prize) Leafy Grouper	(경품) 프레쉬 리프 밍	(景品) STRINGFISHNAME_10000046_NAME:[F]Fishing02	material	33040091--
-(Prize) Floral Puffling	(경품) 블루밍 플라워 망	(景品) STRINGFISHNAME_10000047_NAME:[F]Fishing02	material	33040093--
-(Prize) Blooming Puffling	(경품) 블루밍 플라워 몽	(景品) STRINGFISHNAME_10000048_NAME:[F]Fishing02	material	33040095--
-(Prize) Blue Leaf Jellyfish	(경품) 블루 리프 젤리피쉬	(景品) STRINGFISHNAME_10000049_NAME:[F]Fishing02	material	33040097--
-(Prize) Pink Leaf Jellyfish	(경품) 핑크 리프 젤리피쉬	(景品) STRINGFISHNAME_10000050_NAME:[F]Fishing02	material	33040099--
-(Prize) Bow Fish	(경품) 활어	(景品) STRINGFISHNAME_10000051_NAME:[F]Fishing02	material	33040101--
-(Prize) Blue Seraph Fish	(경품) 블루 엔젤 피쉬	(景品) STRINGFISHNAME_10000052_NAME:[F]Fishing02	material	33040103--
-(Prize) Pink Spotted Jellyfish	(경품) 분홍 점박이 해파리	(景品) STRINGFISHNAME_10000053_NAME:[F]Fishing02	material	33040105--
-(Prize) Gingko Stingray	(경품) 은행잎 가오리	(景品) STRINGFISHNAME_10000054_NAME:[F]Fishing02	material	33040107--
-(Prize) Slime Fish	(경품) 슬라임 피쉬	(景品) STRINGFISHNAME_10000055_NAME:[F]Fishing02	material	33040109--
-(Prize) Jewel Fish	(경품) 보석 물고기	(景品) STRINGFISHNAME_10000056_NAME:[F]Fishing02	material	33040111--
+Blue Jelly Shrimp	블루 젤리 새우	ブルージェリーシュリンプ	material	33040080--
+(Prize) Blue Jelly Shrimp	(경품) 블루 젤리 새우	(景品) ブルージェリーシュリンプ	material	33040081--
+Sobfish	울어	ナキギョ	material	33040082--
+(Prize) Sobfish	(경품) 울어	(景品) ナキギョ	material	33040083--
+Duckweed	개구리밥	ウキクサ	material	33040084--
+(Prize) Duckweed	(경품) 개구리밥	(景品) ウキクサ	material	33040085--
+Golden Mandarin Fish	황쏘가리	黄金コウライケツギョ	material	33040086--
+(Prize) Golden Mandarin Fish	(경품) 황쏘가리	(景品) 黄金コウライケツギョ	material	33040087--
+Water Hyacinth	부레옥잠	ホテイアオイ	material	33040088--
+(Prize) Water Hyacinth	(경품) 부레옥잠	(景品) ホテイアオイ	material	33040089--
+Leafy Grouper	프레쉬 리프 밍	フレッシュリーフミン	material	33040090--
+(Prize) Leafy Grouper	(경품) 프레쉬 리프 밍	(景品) フレッシュリーフミン	material	33040091--
+Floral Puffling	블루밍 플라워 망	ブルーミングフラワーマン	material	33040092--
+(Prize) Floral Puffling	(경품) 블루밍 플라워 망	(景品) ブルーミングフラワーマン	material	33040093--
+Blooming Puffling	블루밍 플라워 몽	ブルーミングフラワーモン	material	33040094--
+(Prize) Blooming Puffling	(경품) 블루밍 플라워 몽	(景品) ブルーミングフラワーモン	material	33040095--
+Blue Leaf Jellyfish	블루 리프 젤리피쉬	ブルーリーフジェリーフィッシュ	material	33040096--
+(Prize) Blue Leaf Jellyfish	(경품) 블루 리프 젤리피쉬	(景品) ブルーリーフジェリーフィッシュ	material	33040097--
+Pink Leaf Jellyfish	핑크 리프 젤리피쉬	ピンクリーフジェリーフィッシュ	material	33040098--
+(Prize) Pink Leaf Jellyfish	(경품) 핑크 리프 젤리피쉬	(景品) ピンクリーフジェリーフィッシュ	material	33040099--
+Bow Fish	활어	ユミギョ	material	33040100--
+(Prize) Bow Fish	(경품) 활어	(景品) ユミギョ	material	33040101--
+Blue Seraph Fish	블루 엔젤 피쉬	ブルーエンジェルフィッシュ	material	33040102--
+(Prize) Blue Seraph Fish	(경품) 블루 엔젤 피쉬	(景品) ブルーエンジェルフィッシュ	material	33040103--
+Pink Spotted Jellyfish	분홍 점박이 해파리	ピンクブチクラゲ	material	33040104--
+(Prize) Pink Spotted Jellyfish	(경품) 분홍 점박이 해파리	(景品) ピンクブチクラゲ	material	33040105--
+Gingko Stingray	은행잎 가오리	イチョウエイ	material	33040106--
+(Prize) Gingko Stingray	(경품) 은행잎 가오리	(景品) イチョウエイ	material	33040107--
+Slime Fish	슬라임 피쉬	スライムフィッシュ	material	33040108--
+(Prize) Slime Fish	(경품) 슬라임 피쉬	(景品) スライムフィッシュ	material	33040109--
+Jewel Fish	보석 물고기	宝石魚	material	33040110--
+(Prize) Jewel Fish	(경품) 보석 물고기	(景品) 宝石魚	material	33040111--
 Rosy-Nosed Lugefish	보보스마스	ボボスマス	material	33040112--
 (Prize) Rosy-Nosed Lugefish	(경품) 보보스마스	(景品) ボボスマス	material	33040113--
 Blackback Butterflyfish	블랙 나비고기	ブラックチョウチョウウオ	material	33040114--
@@ -279,10 +295,14 @@ Seahorus	파라오 해마	ファラオタツノオトシゴ	material	33040292--
 (Prize) Seahorus	(경품) 파라오 해마	(景品) ファラオタツノオトシゴ	material	33040293--
 Voldrake	마그마 하태어	マグマアツギョ	material	33040294--
 (Prize) Voldrake	(경품) 마그마 하태어	(景品) マグマアツギョ	material	33040295--
-(Prize) Blazeweed	(경품) 이그리밥	(景品) STRINGFISHNAME_12000021_NAME:[F]Fishing02	material	33040297--
-(Prize) Lava Bream	(경품) 라바 돔	(景品) STRINGFISHNAME_12000023_NAME:[F]Fishing02	material	33040299--
-(Prize) Bloody Pinboom	(경품) 블러디 핀붐	(景品) STRINGFISHNAME_12000024_NAME:[F]Fishing02	material	33040301--
-(Prize) Hot Eye	(경품) 핫 아이	(景品) STRINGFISHNAME_12000025_NAME:[F]Fishing02	material	33040303--
+Blazeweed	이그리밥	メラメラウキクサ	material	33040296--
+(Prize) Blazeweed	(경품) 이그리밥	(景品) メラメラウキクサ	material	33040297--
+Lava Bream	라바 돔	ラヴァタイ	material	33040298--
+(Prize) Lava Bream	(경품) 라바 돔	(景品) ラヴァタイ	material	33040299--
+Bloody Pinboom	블러디 핀붐	ブラッディピンブーム	material	33040300--
+(Prize) Bloody Pinboom	(경품) 블러디 핀붐	(景品) ブラッディピンブーム	material	33040301--
+Hot Eye	핫 아이	ホットアイ	material	33040302--
+(Prize) Hot Eye	(경품) 핫 아이	(景品) ホットアイ	material	33040303--
 Toxic Lobster	퍼플 크랩	パープルクラブ	material	33040304--
 (Prize) Toxic Lobster	(경품) 퍼플 크랩	(景品) パープルクラブ	material	33040305--
 Devilotl	데빌 우파루파	デビルウーパールーパー	material	33040308--
@@ -291,14 +311,22 @@ Blueback Whale	푸른등고래	アオクジラ	material	33040310--
 (Prize) Blueback Whale	(경품) 푸른등고래	(景品) アオクジラ	material	33040311--
 Seaseraph	엔젤 해마	エンジェルタツノオトシゴ	material	33040314--
 (Prize) Seaseraph	(경품) 엔젤 해마	(景品) エンジェルタツノオトシゴ	material	33040315--
-(Prize) Thunder Eye	(경품) 서전 아이	(景品) STRINGFISHNAME_13000010_NAME:[F]Fishing02	material	33040317--
-(Prize) Devil Slime Fish	(경품) 데빌 슬라임 피쉬	(景品) STRINGFISHNAME_13000011_NAME:[F]Fishing02	material	33040319--
-(Prize) Ghost Fish	(경품) 고스트 피쉬	(景品) STRINGFISHNAME_13000012_NAME:[F]Fishing02	material	33040321--
-(Prize) Black Blob Fish	(경품) 블랙 블로브 피쉬	(景品) STRINGFISHNAME_13000013_NAME:[F]Fishing02	material	33040323--
-(Prize) Black Tiger Shrimp	(경품) 블랙 타이거 새우	(景品) STRINGFISHNAME_13000014_NAME:[F]Fishing02	material	33040325--
-(Prize) Corrupted Aetherine Clam	(경품) 침식된 에네르 쉘	(景品) STRINGFISHNAME_13000015_NAME:[F]Fishing02	material	33040327--
-(Prize) Corrupted Aetherine Conch	(경품) 침식된 에네르 콘치	(景品) STRINGFISHNAME_13000016_NAME:[F]Fishing02	material	33040329--
-(Prize) Corrupted Aetherine Stingray	(경품) 침식된 에네르 스팅레이	(景品) STRINGFISHNAME_13000017_NAME:[F]Fishing02	material	33040331--
+Thunder Eye	서전 아이	サージョンアイ	material	33040316--
+(Prize) Thunder Eye	(경품) 서전 아이	(景品) サージョンアイ	material	33040317--
+Devil Slime Fish	데빌 슬라임 피쉬	デビルスライムフィッシュ	material	33040318--
+(Prize) Devil Slime Fish	(경품) 데빌 슬라임 피쉬	(景品) デビルスライムフィッシュ	material	33040319--
+Ghost Fish	고스트 피쉬	ゴーストフィッシュ	material	33040320--
+(Prize) Ghost Fish	(경품) 고스트 피쉬	(景品) ゴーストフィッシュ	material	33040321--
+Black Blob Fish	블랙 블로브 피쉬	ブラックブロブフィッシュ	material	33040322--
+(Prize) Black Blob Fish	(경품) 블랙 블로브 피쉬	(景品) ブラックブロブフィッシュ	material	33040323--
+Black Tiger Shrimp	블랙 타이거 새우	ブラックタイガー	material	33040324--
+(Prize) Black Tiger Shrimp	(경품) 블랙 타이거 새우	(景品) ブラックタイガー	material	33040325--
+Corrupted Aetherine Clam	침식된 에네르 쉘	侵食されたエネルシェル	material	33040326--
+(Prize) Corrupted Aetherine Clam	(경품) 침식된 에네르 쉘	(景品) 侵食されたエネルシェル	material	33040327--
+Corrupted Aetherine Conch	침식된 에네르 콘치	侵食されたエネルコンチ	material	33040328--
+(Prize) Corrupted Aetherine Conch	(경품) 침식된 에네르 콘치	(景品) 侵食されたエネルコンチ	material	33040329--
+Corrupted Aetherine Stingray	침식된 에네르 스팅레이	侵食されたエネルスティングレイ	material	33040330--
+(Prize) Corrupted Aetherine Stingray	(경품) 침식된 에네르 스팅레이	(景品) 侵食されたエネルスティングレイ	material	33040331--
 Poison Big Eye	둥글독	マルドク	material	33040332--
 (Prize) Poison Big Eye	(경품) 둥글독	(景品) マルドク	material	33040333--
 Black Snakehead	가물가물치	ライライライギョ	material	33040334--
@@ -341,14 +369,22 @@ Purple Rockfish	울그락 볼락	ハルバルメバル	material	33040370--
 (Prize) Purple Rockfish	(경품) 울그락 볼락	(景品) ハルバルメバル	material	33040371--
 Shrubberpuff	플로리 퐁퐁	フロリーポンポン	material	33040372--
 (Prize) Shrubberpuff	(경품) 플로리 퐁퐁	(景品) フロリーポンポン	material	33040373--
-(Prize) Toxic Marlin	(경품) 독 청새치	(景品) STRINGFISHNAME_14000022_NAME:[F]Fishing02	material	33040375--
-(Prize) Toxic Abalone	(경품) 독 전복	(景品) STRINGFISHNAME_14000023_NAME:[F]Fishing02	material	33040377--
-(Prize) Toxic Catfish	(경품) 독 메기	(景品) STRINGFISHNAME_14000024_NAME:[F]Fishing02	material	33040379--
-(Prize) Poison Eye	(경품) 포이즌 아이	(景品) STRINGFISHNAME_14000025_NAME:[F]Fishing02	material	33040381--
-(Prize) Toxic Barnacle	(경품) 독 거북손	(景品) STRINGFISHNAME_14000026_NAME:[F]Fishing02	material	33040383--
-(Prize) Pinboom	(경품) 핀붐	(景品) STRINGFISHNAME_14000027_NAME:[F]Fishing02	material	33040385--
-(Prize) Saw Head	(경품) 쏘우 헤드	(景品) STRINGFISHNAME_14000028_NAME:[F]Fishing02	material	33040387--
-(Prize) Tail Head	(경품) 테일 헤드	(景品) STRINGFISHNAME_14000029_NAME:[F]Fishing02	material	33040389--
+Toxic Marlin	독 청새치	ドクマカジキ	material	33040374--
+(Prize) Toxic Marlin	(경품) 독 청새치	(景品) ドクマカジキ	material	33040375--
+Toxic Abalone	독 전복	ドクアワビ	material	33040376--
+(Prize) Toxic Abalone	(경품) 독 전복	(景品) ドクアワビ	material	33040377--
+Toxic Catfish	독 메기	ドクナマズ	material	33040378--
+(Prize) Toxic Catfish	(경품) 독 메기	(景品) ドクナマズ	material	33040379--
+Poison Eye	포이즌 아이	ポイズンアイ	material	33040380--
+(Prize) Poison Eye	(경품) 포이즌 아이	(景品) ポイズンアイ	material	33040381--
+Toxic Barnacle	독 거북손	ドクカメノテ	material	33040382--
+(Prize) Toxic Barnacle	(경품) 독 거북손	(景品) ドクカメノテ	material	33040383--
+Pinboom	핀붐	ピンブーム	material	33040384--
+(Prize) Pinboom	(경품) 핀붐	(景品) ピンブーム	material	33040385--
+Saw Head	쏘우 헤드	ソーヘッド	material	33040386--
+(Prize) Saw Head	(경품) 쏘우 헤드	(景品) ソーヘッド	material	33040387--
+Tail Head	테일 헤드	テールヘッド	material	33040388--
+(Prize) Tail Head	(경품) 테일 헤드	(景品) テールヘッド	material	33040389--
 Slick Hermit Crab	나프타 소라게	ナフサヤドカリ	material	33040390--
 (Prize) Slick Hermit Crab	(경품) 나프타 소라게	(景品) ナフサヤドカリ	material	33040391--
 Grubby Gudgeon	피크리치	ピクリーチ	material	33040392--
@@ -359,16 +395,26 @@ Oily Shrimp	오일 쉬림프	オイルシュリンプ	material	33040396--
 (Prize) Oily Shrimp	(경품) 오일 쉬림프	(景品) オイルシュリンプ	material	33040397--
 Oily Jellyfish	오일젤리피쉬	オイルジェリーフィッシュ	material	33040398--
 (Prize) Oily Jellyfish	(경품) 오일젤리피쉬	(景品) オイルジェリーフィッシュ	material	33040399--
-(Prize) Aetherine Clam	(경품) 에네르 쉘	(景品) STRINGFISHNAME_16000001_NAME:[F]Fishing02	material	33040401--
-(Prize) Aetherine Conch	(경품) 에네르 콘치	(景品) STRINGFISHNAME_16000002_NAME:[F]Fishing02	material	33040403--
-(Prize) Aetherine Stingray	(경품) 에네르 스팅레이	(景品) STRINGFISHNAME_16000003_NAME:[F]Fishing02	material	33040405--
-(Prize) Frillia	(경품) 프릴리아	(景品) STRINGFISHNAME_16000004_NAME:[F]Fishing02	material	33040407--
-(Prize) Peacock Frillia	(경품) 피콕 프릴리아	(景品) STRINGFISHNAME_16000005_NAME:[F]Fishing02	material	33040409--
-(Prize) Greeny	(경품) 그리니	(景品) STRINGFISHNAME_16000006_NAME:[F]Fishing02	material	33040411--
-(Prize) Shamefish	(경품) 부끄러어	(景品) STRINGFISHNAME_16000007_NAME:[F]Fishing02	material	33040413--
-(Prize) Gracefish	(경품) 우아해어	(景品) STRINGFISHNAME_16000008_NAME:[F]Fishing02	material	33040415--
-(Prize) Rainbow Seahorse	(경품) 무지개 해마	(景品) STRINGFISHNAME_16000009_NAME:[F]Fishing02	material	33040417--
-(Prize) Castle Fish	(경품) 캐슬 피쉬	(景品) STRINGFISHNAME_16000010_NAME:[F]Fishing02	material	33040419--
+Aetherine Clam	에네르 쉘	エネルシェル	material	33040400--
+(Prize) Aetherine Clam	(경품) 에네르 쉘	(景品) エネルシェル	material	33040401--
+Aetherine Conch	에네르 콘치	エネルコンチ	material	33040402--
+(Prize) Aetherine Conch	(경품) 에네르 콘치	(景品) エネルコンチ	material	33040403--
+Aetherine Stingray	에네르 스팅레이	エネルスティングレイ	material	33040404--
+(Prize) Aetherine Stingray	(경품) 에네르 스팅레이	(景品) エネルスティングレイ	material	33040405--
+Frillia	프릴리아	フリリア	material	33040406--
+(Prize) Frillia	(경품) 프릴리아	(景品) フリリア	material	33040407--
+Peacock Frillia	피콕 프릴리아	ピーコックフリリア	material	33040408--
+(Prize) Peacock Frillia	(경품) 피콕 프릴리아	(景品) ピーコックフリリア	material	33040409--
+Greeny	그리니	グリーニー	material	33040410--
+(Prize) Greeny	(경품) 그리니	(景品) グリーニー	material	33040411--
+Shamefish	부끄러어	ハニカミギョ	material	33040412--
+(Prize) Shamefish	(경품) 부끄러어	(景品) ハニカミギョ	material	33040413--
+Gracefish	우아해어	ミヤビギョ	material	33040414--
+(Prize) Gracefish	(경품) 우아해어	(景品) ミヤビギョ	material	33040415--
+Rainbow Seahorse	무지개 해마	虹タツノオトシゴ	material	33040416--
+(Prize) Rainbow Seahorse	(경품) 무지개 해마	(景品) 虹タツノオトシゴ	material	33040417--
+Castle Fish	캐슬 피쉬	キャッスルフィッシュ	material	33040418--
+(Prize) Castle Fish	(경품) 캐슬 피쉬	(景品) キャッスルフィッシュ	material	33040419--
 Golden Ricefish	황금 송사리	黄金メダカ	material	33040420--
 (Prize) Golden Ricefish	(경품) 황금 송사리	(景品) 黄金メダカ	material	33040421--
 Golden Seaweed	황금 미역	黄金ワカメ	material	33040422--
