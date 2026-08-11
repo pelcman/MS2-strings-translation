@@ -1,0 +1,1287 @@
+###1
+KO|⏎$map:02020032$ 이동해서 쉬고 있는 $npcName:25020705$ 조사하여 $item:30001299$ 확보해야 한다.
+EN|⏎Go to $map:02020032$, examine $npcName:25020705$, and harvest $item:30001299$.
+###2
+KO|⏎$map:02020035$ 이동하여 신비한 장치를 조작하고 빛나는 링을 확인해보자.
+EN|⏎Go to $map:02020035$, use the mysterious device, and check out the shiny ring.
+###3
+KO|⏎$map:02020041$의 $map:52100112$에 가서 $npcName:11004522$ 직접 대화를 나눠보고, 이상 징후가 없는지 확인해야 한다.
+EN|⏎Go to the $map:52100112$ in $map:02020041$ and get an update from $npcName:11004522$.
+###4
+KO|⏎스카이 포트리스 연구원들을 도와 $map:02020031$ 지역에서 발견되는 광석을 조사해야 한다.
+EN|⏎Help the Sky Fortress research team by examining the strange ore in $map:02020031$.
+###5
+KO| $map:02020017$ 고대 크리티아스의 기록이 보관된 곳이라 연구가치가 높다고 한다. $npcName:25021202$들이 기록을 파괴하는 것을 막아 중요한 옛 기록들을 지켜내야 한다.
+EN| Records of ancient Kritias are stored in the $map:02020017$. They are priceless sources of knowledge, so please protect them by stopping the $npcName
+###6
+KO| $map:02020029$의 $npcName:25020003$ 대원들이 확보한 에네르를 훔쳐 가고 있다고 한다. 녀석들을 제압해서 에네르 확보량이 줄어드는 것을 막자.
+EN| $npcNamePlural:25020003$ from the $map:02020029$ have been breaking into the Green Hoods' aetherine supplies! They must be stopped!
+###7
+KO| $map:02020033$에서 신비한 장치를 조작하여 보물상자를 찾고 안에 뭐가 있는지 알아내 보자.
+EN| Use the device in $map:02020033$, find the treasure chest, and open it.
+###8
+KO| $npcName:25020105$ 에네르 결정을 마법에 응용하고 있다고 한다. 녀석들의 에네르를 마법에 응용한 방법을 밝혀내야 한다.
+EN| $npcNamePlural:25020105$ have been applying aetherine crystals to magic. Get to the bottom of it!
+###9
+KO|$dungeonTitle:23037002$ 가서 $npcName:23000301$ 제압하고 다른 계략이 있는지 끝까지 확인해야 한다.
+EN|Go to $dungeonTitle:23037002$, defeat $npcName:23000301$, and stop any plots you uncover.
+###10
+KO|$dungeonTitle:23041003$ 혹은 [어려움]에서 $npcName:23000073$ 처치하자.
+EN|Defeat $npcName:23000073$ in either $dungeonTitle:23041003$ or $dungeonTitle:23040003$
+###11
+KO|$map:02020001$ $map:02020004$에서 그린후드의 에네르 연구를 방해하고 있는 몬스터들을 퇴치하자.
+EN|Defeat the monsters interfering with aetherine research in $map:02020001$ and $map:02020004$.
+###12
+KO|$map:02020001$ 가서 $npcName:25020501$ 대화를 시도해 보고, 대화가 통하지 않는다면 힘으로 제압해야 한다.
+EN|$npcName:11004312$ wants to try a diplomatic approach with the $npcNamePlural:25020501$ in $map:02020001$.
+###13
+KO|$map:02020001$ 가서 $npcName:25020503$ 제압하여 정찰대원들을 보호해야 한다.
+EN|$npcNamePlural:25020503$ are big, strong, and mean.
+###14
+KO|$map:02020001$에 왔으나, 검은군단의 흔적은 보이지 않는다. 주변탐사를 해보자.
+EN|Speak with the individuals in $map:02020001$ to see what they know about dark forces operating in the area.
+###15
+KO|$map:02020001$의 몬스터들이 정찰대원들을 공격하고 있다. 녀석들을 제압해서 대원들을 지켜내야 한다.
+EN|Defeat the monsters in $map:02020001$ interfering with exploration efforts.
+###16
+KO|$map:02020001$의 물에 조사용 식물 모형을 살펴보고, 보고할만한 데이터가 있는지 확인해야 한다.
+EN|Find out if the monitoring devices in $map:02020001$ have gathered any data.
+###17
+KO|$map:02020001$의 에너지 연구소가 $npcName:25020507$의 공격을 받고 있다고 한다. 녀석들을 제압해 연구가 계속될 수 있도록 하자.
+EN|Research at $map:02020001$ is being delayed by $npcName:25020507$ attacks! Put a stop to the mayhem!
+###18
+KO|$map:02020001$의 연구시설 건설을 방해하고 있는 토착 생물과 케르베스 병력을 퇴치해야 한다.
+EN|Defeat the hostiles interfering with the construction of the research facility in $map:02020001$.
+###19
+KO|$map:02020001$의 포악한 몬스터들이 스카이 포트리스 요원들을 공격하고 있다고 한다. 녀석들을 제압해서 대원들을 지켜내야 한다.
+EN|$map:02020001$ would be the perfect vacation spot for the crew if it weren't full of deadly foes. It's time you did something about that.
+###20
+KO|$map:02020003$ 가서 종자 씨앗 탈취해야 한다.
+EN|Go to $map:02020003$ and seize the seed stock.
+###21
+KO|$map:02020003$, $map:02020033$, $map:02020017$에서 그린후드의 에네르 연구를 방해하고 있는 존재들을 퇴치하자.
+EN|The Green Hoods' research facilities in Kritias are under attack.
+###22
+KO|$map:02020003$에 있는 $map:52100116$ 가서 $npcName:25023100$, $npcName:25023101$ 제압해야 한다.
+EN|Go to $map:52100116$ in $map:02020003$ and suppress $npcName:25023100$ and $npcName:25023101$.
+###23
+KO|$map:02020003$에서 그린후드의 탐사를 방해하고 있는 존재들을 제압하자.
+EN|Take out the monsters interfering with the expedition $map:02020003$.
+###24
+KO|$map:02020003$의 $npcName:25021503$ 스카이 포트리스의 부품을 훔치고 있다고 한다. 녀석들을 퇴치해서 승무원들의 고생을 덜어주자.
+EN|$npcNamePlural:25021503$ in $map:02020003$ are stealing Sky Fortress parts. Rough them up so they think twice before stealing again.
+###25
+KO|$map:02020003$의 유적을 촬영하고 $npcName:11004315$에게 사진을 전송하자.
+EN|Take a picture of the ancient structure in $map:02020003$ and send it to $npcName:11004315$.
+###26
+KO|$map:02020003$의 조사를 방해하는 $npcName:25021504$ 처치해서, 조사가 원활히 이루어질 수 있게 돕도록 하자.
+EN|The $map:02020003$ is home to ancient ruins. Unfortunately, $npcNamePlural:25021504$ are preventing Sky Fortress's researchers from excavating the pla
+###27
+KO|$map:02020003$의 탐사를 방해하는 $npcName:25021504$ $npcName:25021505$ 처치하자.
+EN|Defeat the $npcNamePlural:25021504$ and $npcNamePlural:25021505$ interfering with your investigation in $map:02020003$.
+###28
+KO|$map:02020004$ $map:02020006$의 몬스터들이 정찰대원들을 공격하고 있다. 보급로 확보를 위해서라도 녀석들을 제압해야 한다.
+EN|The monsters in $map:02020004$ and $map:02020006$ are attacking Sky Fortress's supply lines.
+###29
+KO|$map:02020004$ 가서 $npcName:25020401$ 직접 전투를 벌이며 검술을 체득해야 한다.
+EN|Go to $map:02020004$ analyze the fighting style of the $npcNamePlural:25020401$'s through combat.
+###30
+KO|$map:02020004$ 가서 $npcName:25020402$ 제압하고 탐사 영역을 넓혀야 한다.
+EN|$map:02020004$ is a key strategic location and it's occupied by Tairen. Go there and defeat $npcNamePlural:25020402$.
+###31
+KO|$map:02020004$ 공격하던 아군 병력이 $npcName:25020405$에게 큰 피해를 입었다고 한다. 피해가 더 커지기 전에 녀석들을 처치하자.
+EN|Sky Fortress's attack on $map:02020004$ has been halted by $npcNamePlural:25020405$.
+###32
+KO|$map:02020004$ 공격하던 아군 병력이 단검을 사용하는 타이렌 병사에게 큰 피해를 입었다고 한다. 피해가 더 커지기 전에 녀석들을 처치하자.
+EN|$map:02020004$ is particularly hard to investigate because of Tairen's blade-wielding soldiers.
+###33
+KO|$map:02020004$ 적진 한 가운데이다. 인제 그만 돌아가도록 하자.
+EN|Tairen reinforcements are approaching $map:02020004$. You have no choice but to retreat.
+###34
+KO|$map:02020004$에서 발견된 신비한 장치를 조작하여 장치의 비밀이 무엇인지 알아내자.
+EN|Operate the mysterious device discovered in $map:02020004$ to unearth its secrets.
+###35
+KO|$map:02020006$ 가서 $npcName:25020301$ 제압하고 $item:30001221$ 회수해야 한다.
+EN|Retrieve $itemPlural:30001221$ from $npcNamePlural:25020301$ in $map:02020006$
+###36
+KO|$map:02020006$ 탐사하던 대원들이 몬스터들의 공격을 받았다고 한다. 탐사를 재개할 수 있도록 녀석들을 제압하자.
+EN|Sky Fortress agents were attacked by monsters in $map:02020006$.
+###37
+KO|$map:02020006$ 탐사하던 정찰대원들이 $npcName:25020304$의 공격을 받았다고 한다. 탐사를 재개할 수 있도록 녀석들을 처치하자.
+EN|Scouts exploring $map:02020006$ were attacked by $npcNamePlural:25020304$.
+###38
+KO|$map:02020006$에 살고 있는 $npcName:25020302$ 제압하여 정찰대원들을 보호해야 한다.
+EN|$npcNamePlural:25020302$ have been poisoning scouts in $map:02020006$.
+###39
+KO|$map:02020006$에 있는 커다란 $npcName:11004342$의 마음을 움직이는 자는 큰 선물을 받을 수 있다고 한다. $map:02020006$ 이동해서, 소문의 실체를 파악해보자.
+EN|They say that whosoever who can move the heart of the giant $npcName:11004342$ in $map:02020006$ will uncover a great treasure.
+###40
+KO|$map:02020006$에 흥미를 가지는 $npcName:11004316$. $map:02020006$ 가서 $npcName:25020307$, $npcName:25020305$ 자세히 관찰하고 보고하도록 한다.
+EN|$npcName:11004316$ is interested in $map:02020006$. Go to $map:02020006$ and carefully observe $npcNamePlural:25020307$ and $npcNamePlural:25020305$.
+###41
+KO|$map:02020006$의 $npcName:25020306$, $map:02020004$의 $npcName:25020402$, $map:02020001$의 $npcName:25020503$에게 평온한 안식을 주어야 한다.
+EN|Lay the $npcNamePlural:25020306$ in $map:02020006$, $npcNamePlural:25020402$ in $map:02020004$, and $npcNamePlural:25020503$ in $map:02020001$ to rest
+###42
+KO|$map:02020008$ 가서 보급 상자 모랑족 불량배들에게 넘어가기 전에 탈취해야 한다.
+EN|Go to $map:02020008$ and seize the supply crates before they fall into the hands of the Morang thugs.
+###43
+KO|$map:02020008$에 존재하는 $map:52100117$ 가서 $npcName:25023201$, $npcName:25023202$ 제압해야 한다.
+EN|Go to $map:52100117$ in $map:02020008$ and suppress $npcName:25023201$ and $npcName:25023202$.
+###44
+KO|$map:02020008$의 $item:61000168$의 포획을 부탁하는 $npcName:11004312$. 빠르게 포획하여 연구를 도와야 한다.
+EN|Capture a $item:61000168$ in $map:02020008$ for Sky Fortress's research team.
+###45
+KO|$map:02020008$의 $npcName:25021801$, $map:02020009$의 $npcName:25021603$, $map:02020037$의 $npcName:25022101$ 처치하여 그들의 계획을 방해해야 한다.
+EN|Disrupt Tairen's plan by defeating $npcNamePlural:25021801$ in $map:02020008$, $npcNamePlural:25021603$ in $map:02020009$, and $npcNamePlural:25022101
+###46
+KO|$map:02020009$ $map:02020018$에서 그린후드의 에너지 연구를 방해하고 있는 $npcName:25021605$ $npcName:25021704$ 제압해야 한다.
+EN|Defeat $npcNamePlural:25021605$ in $map:02020009$ and $npcNamePlural:25021704$ in $map:02020018$ to keep them from attacking researchers.
+###47
+KO|$map:02020009$ 가서 고주파 에네르 발산기 꺼야한다.
+EN|Go to $map:02020009$ and turn off the high-frequency Ener emitter.
+###48
+KO|$map:02020009$ 이동해서 $npc:11004485$ 뭘 하고 있는지 확인해야 한다.
+EN|Go to $map:02020009$ and find out what $npc:11004485$ is doing.
+###49
+KO|$map:02020009$ 확보 작전 개시.⏎지역의 몬스터를 모두 토벌하라.
+EN|It's your job to get rid of any enemies you find in $map:02020009$ to help Humanitas gain control of the area.
+###50
+KO|$map:02020009$의 아름다운 자연을 보존하기 위해, $npcName:25021603$ 해치우자.
+EN|Defeat $npcName:25021603$ to preserve the natural state of $map:02020009$.
+###51
+KO|$map:02020010$ 가서 케르베스가 금괴 상자 수령하기 전에 가로채야 한다.
+EN|Go to $map:02020010$ and intercept the boxes of gold bars before Kerbes receives them.
+###52
+KO|$map:02020010$ 공격하던 아군 병력이 $npcName:25020605$에게 큰 피해를 입었다고 한다. 피해가 더 커지기 전에 녀석들을 제압하자.
+EN|Your allies were attacked by $npcNamePlural:25020605$ in the $map:02020010$.
+###53
+KO|$map:02020010$ 방어하고 있는 근위기사들이 너무 강해 피해가 막심하다고 한다. 더 피해가 커지기 전에 그들을 제압해야 한다.
+EN|As long as $npcNamePlural:25020606$ are on the battlefield in the $map:02020010$, Sky Fortress will keep losing scouts. It's crucial that you remove t
+###54
+KO|$map:02020010$에 대한 기습공격이 결정되었다. 작전의 성공을 위해 몬스터들을 처치하자.
+EN|Prepare for an assault on $map:02020010$!
+###55
+KO|$map:02020010$에서 $npcName:25020601$ 제압한 후 $item:30001224$ 확보하여 연구를 도와야 한다.
+EN|Go to the $map:02020010$, defeat $npcNamePlural:25020601$, and get $item:30001224$.
+###56
+KO|$map:02020010$의 $npcName:25020605$, $map:02020034$의 $npcName:25020807$, $map:02020016$의 $npcName:25021001$ 전투하고 데이터를 모아야 한다.
+EN|Gather data by fighting $npcNamePlural:25020605$ in $map:02020010$, $npcNamePlural:25020807$ in $map:02020034$, and $npcNamePlural:25021001$ in $map:0
+###57
+KO|$map:02020010$의 $npcName:25020606$, $map:02020034$의 $npcName:25020806$, $map:02020016$의 $npcName:25021006$ 제압해야 한다.
+EN|Defeat $npcNamePlural:25020606$ in $map:02020010$, $npcNamePlural:25020806$ in $map:02020034$, and $npcNamePlural:25021006$ in $map:02020016$.
+###58
+KO|$map:02020013$ 가서 $npcName:25020902$ 대화를 시도해 보고, 대화가 통하지 않을 시 이들을 제압해야 한다.
+EN|Go to $map:02020013$ and try talking to the $npcNamePlural:25020902$ there. If it doesn't pan out, you may need to employ more aggressive negotiation 
+###59
+KO|$map:02020013$ 가서 푸른 과일 따와야 한다.
+EN|Go to $map:02020013$ and pick blue fruit.
+###60
+KO|$map:02020013$ 게오르크가 아군에게 보급품을 전달하는 중요한 루트이다. $npcName:25020903$ 처치하여 보급에 차질이 없도록 해야 한다.
+EN|$map:02020013$ is vital to the supply line between Sky Fortress and Humanitas. Defeat $npcNamePlural:25020903$ to secure it.
+###61
+KO|$map:02020013$ 게오르크가 아군에게 보급품을 전달하는 중요한 루트이다. 이곳을 장악한 $map:02020013$ 제압하여 보급에 차질이 없도록 해야 한다.
+EN|$map:02020013$ is a key supply route between Humanitas and Sky Fortress. Clear the area of monsters.
+###62
+KO|$map:02020013$ 이동해서 스트레스를 받으며 괴로워하는 화가 난 포잉이 온순해지도록 보살펴야 한다.
+EN|Go to $map:02020013$ and take care of the angry poings there.
+###63
+KO|$map:02020013$와 연결된 $map:52100115$ 가서 $npcName:25023000$, $npcName:25023001$, $npcName:25023002$ 제압해야 한다.
+EN|Go to $map:52100115$, connected to $map:02020013$, and suppress $npcName:25023000$, $npcName:25023001$, and $npcName:25023002$.
+###64
+KO|$map:02020013$의 극성 몬스터들 때문에 고통받는 정찰대원들을 돕기 위해, $npcName:25020901$ 제압해야 한다.
+EN|Clear the area of $npcNamePlural:25020901$, so the scouts there can bring back some useful information.
+###65
+KO|$map:02020013$의 조사는 끝이 났으니 $map:02020051$ 조사를 위해 이동하자.
+EN|After investigating the flora of $map:02020013$, it's time to sample the soil at the $map:02020051$.
+###66
+KO|$map:02020014$ 가서 타이렌 왕국이 설치한 MK42 폭탄을 해체해야 한다.
+EN|Go to $map:02020014$ and disarm the MK42 bomb installed by the Tyren Kingdom.
+###67
+KO|$map:02020014$ 이동해서 연구원들이 무사한지 확인해야 한다.
+EN|Go to $map:02020014$ and make sure the researchers are safe.
+###68
+KO|$map:02020014$의 $item:30001300$ 확보해야 한다.
+EN|Get $itemPlural:30001300$ in $map:02020014$.
+###69
+KO|$map:02020016$ 가서 도청용 수신탑 고장 내야 한다.
+EN|Go to $map:02020016$ and disable the interception receiver tower.
+###70
+KO|$map:02020016$ 가서 무기 상자 탈취해야 한다.
+EN|Go to $map:02020016$ and seize the weapons crates.
+###71
+KO|$map:02020016$ 가서 신비한 장치가 있는지 확인해 보고 정말 꽃이 피는지 확인해보자.
+EN|See if there's really a machine in $map:02020016$ that makes flowers bloom.
+###72
+KO|$map:02020016$에는 육중한 갑옷에도 불구하고 매우 민첩한 타이렌 병사가 있다고 한다. 녀석들의 부품을 회수하여 연구를 도와야 한다.
+EN|The Tairen $npcNamePlural:25021001$ in $map:02020016$ are surprisingly agile despite their heavy armor. Destroy the mechs and collect their parts for 
+###73
+KO|$map:02020016$에서 그린후드의 에너지 연구를 방해하고 있는 $npcName:25021004$ 제압하자.
+EN|Sky Fortress researchers have discovered an energy signal in the ruins of $map:02020016$.
+###74
+KO|$map:02020016$의 케르베스가 추방자들을 잡아들여 노동력으로 삼는다고 한다. 녀석들을 제압해서 더 이상 추방자들이 희생되는 일이 없도록 해야 한다.
+EN|Kharon in $map:02020016$ are capturing exiles for labor. Defeat them.
+###75
+KO|$map:02020017$ $map:02020033$에 대한 기습작전이 임박했다고 한다. 아군의 일망타진 작전이 성공할 수 있도록 적의 병력을 줄이자
+EN|Sky Fortress is planning a raid on $map:02020017$ and $map:02020033$.
+###76
+KO|$map:02020017$ 가서 청사의 고대 유물 확보해야 한다.
+EN|Go to $map:02020017$ and secure an ancient relic of the Blue Hall.
+###77
+KO|$map:02020017$ 고대 크리티아스의 기록이 보관된 곳이라 연구가치가 크다고 한다. 이곳을 파괴하려는 존재들을 막아 중요한 옛 기록들을 지켜내야 한다.
+EN|$map:02020017$ is a valuable repository of writings on ancient Kritias. Enemy forces are destroying these writings and must be stopped.
+###78
+KO|$map:02020017$의 $npcName:25021204$ 처치하고, 무전이 되지 않는 불편한 상황을 해결하자.
+EN|$npcNamePlural:25021204$ in the $map:02020017$ are jamming Sky Fortress's radios.
+###79
+KO|$map:02020017$의 $npcName:25021205$ 때문에 조사에 어려움이 있다고 한다. 녀석을 처치하고, 문제를 해결하자.
+EN|The $npcNamePlural:25021205$ in $map:02020017$ are tremendously strong, but they turn that strength towards random attacks on your allies.
+###80
+KO|$map:02020018$ 가서 데이터 측정기의 테스트 데이터를 확보해야 한다.
+EN|Go to $map:02020018$ and secure the test data from the data measuring device.
+###81
+KO|$map:02020018$ 이동해서 신비한 장치를 조작하고 공중에 나타나는 발판을 확인해보자.
+EN|Go to $map:02020018$, operate a weird machine, and jump on floating platforms.
+###82
+KO|$map:02020018$에 있는 $npcName:25021702$라는 기계 병사가 해킹 오류로 폭주하고 있다고 한다. 녀석에 대한 조사를 위해 메모리칩을 수집하자.
+EN|A mechanical soldier called $npcName:25021702$ in $map:02020018$ went out of control due to a coding error. Bring back its memory chip to study.
+###83
+KO|$map:02020018$에서 $item:30001289$ 찾아 보자.
+EN|Search for the $itemPlural:30001289$ in $map:02020018$.
+###84
+KO|$map:02020018$에서 $npcName:25021703$ $npcName:25021704$ 처치하고 일기장을 회수하자.
+EN|Defeat $npcNamePlural:25021703$ and $npcName:25021704$ in $map:02020018$ to recover the missing journal pages.
+###85
+KO|$map:02020018$에서 에네르 결정을 연구하던 탐사 대원들이 $npcName:25021703$의 공격으로 큰 피해를 입었다고 한다. 녀석을 제압해서 탐사가 재개될 수 있도록 해야 한다.
+EN|The expedition members researching aetherine crystals in $map:02020018$ were taken off-guard by sudden attacks by $npcNamePlural:25021703$. Deal with 
+###86
+KO|$map:02020018$에서 하늘초를 조사하여 $item:30001301$ 모아와야 한다.
+EN|Gather $item:30001301$ from the plants in $map:02020018$.
+###87
+KO|$map:02020018$의 $npcName:25021702$, $map:02020037$의 $npcName:25022102$ 해치워서 크리티아스 심층부로 가는 입구를 찾는 탐사 대원들의 활동을 도와야 한다.
+EN|Make way to the furthest reaches of Kritias by defeating $npcNamePlural:25021702$ in $map:02020018$ and $npcNamePlural:25022102$ in $map:02020037$.
+###88
+KO|$map:02020029$, $map:02020030$,  $map:02020031$에서 그린후드의 에네르 연구를 방해하고 있는 존재들을 퇴치하자.
+EN|Defeat the creatures interfering with the Green Hood research at the $map:02020029$, $map:02020030$, and $map:02020031$.
+###89
+KO|$map:02020029$, $map:02020030$, $map:02020031$의 몬스터들과 전투하고 데이터를 수집해야 한다.
+EN|Gather data about mechanical foes in $map:02020029$, $map:02020030$, and $map:02020031$ through combat.
+###90
+KO|$map:02020029$에 가서 $npcName:25020003$ 처치하고 등에 달린 $item:30001219$ 수집해야 한다.
+EN|Go to $map:02020029$, defeat $npcNamePlural:25020003$, and collect the $itemPlural:30001219$ on that grow from their spines.
+###91
+KO|$map:02020029$에 착륙한 강하선을 노리는 몬스터들을 처치해야 한다.
+EN|Defend the dropship in $map:02020029$ by defeating nearby monsters.
+###92
+KO|$map:02020029$에서 $item:61000153$ 포획해야 한다.
+EN|Help the Alliance research Kritias's fauna by capturing $itemPlural:61000153$ in $map:02020029$.
+###93
+KO|$map:02020029$에서 기계 곤충을 채집하고 조사해야 한다.
+EN|Collect robotic insects in $map:02020029$.
+###94
+KO|$map:02020029$에서 발견된 검은군단 기계 병사들의 에너지원 조사를  위해,⏎$npcName:25020001$ 처치하고 그들의 에너지원을 확보하자.
+EN|Daemon Army machine soldiers have been discovered in $map:02020029$. What powers them?
+###95
+KO|$map:02020029$에서 정체불명의 구덩이를 발견하게 되었다고 한다. $map:02020029$의 $map:52100111$ 들어가, 그들의 에너지 공급원을 확인하도록 하자.
+EN|Enter $map:52100111$ in $map:02020029$ and search for a source of aetherine.
+###96
+KO|$map:02020029$의 $npcName:25020003$, $map:02020030$의 $npcName:25020103$, $map:02020031$의 $npcName:25020203$ 해치우고 몬스터에 대한 정보를 수집해야 한다.
+EN|Gather information on the $npcNamePlural:25020003$ in $map:02020029$, $npcNamePlural:25020103$ in $map:02020030$, and $npcNamePlural:25020203$ in $map
+###97
+KO|$map:02020029$의 $npcName:25020005$, $map:02020030$의 $npcName:25020104$, $map:02020031$의 $npcName:25020202$ 해치워서 불길한 기운을 줄여야 한다.
+EN|Battle the darkness by defeating $npcNamePlural:25020005$ in $map:02020029$, $npcNamePlural:25020104$ in $map:02020030$, and $npcNamePlural:25020202$ 
+###98
+KO|$map:02020030$ 가서 $item:61000160$ 포획해야 한다.
+EN|Capture $itemPlural:61000160$ in $map:02020030$
+###99
+KO|$map:02020030$ 기계 병사와 검은군단의 공격을 동시에 받고 있다고 한다. 속히 격퇴하여 $map:02020030$ 지켜내자.
+EN|$map:02020030$ is surrounded by both Tairen and Daemon Army forces.
+###100
+KO|$map:02020030$, $map:02020029$, $map:02020031$이 기계 병사들의 공격을 받고 있다고 한다. 스카이 포트리스와 게오르크의 승리를 위해 녀석들을 처치하자.
+EN|$map:02020030$, $map:02020029$, and $map:02020031$ are under attack by Tairen's mechanical soldiers.
+###101
+KO|$map:02020030$에서 검은 크리스탈을 조사하고 $item:30001297$ 수집해야 한다.
+EN|Collect $itemPlural:30001297$ in $map:02020030$.
+###102
+KO|$map:02020030$에서 관측된 강한 힘.⏎과연 이번에는 검은군단의 흔적을 찾을 수 있을까?
+EN|Troop movements have been detected near $map:02020030$. It could be the Daemon Army! Go and find out.
+###103
+KO|$map:02020030$의 $npcName:25020101$, $map:02020031$의 $npcName:25020201$ 직접 싸우면서 다른 몬스터와 차이점이 있는지 파악해보자.
+EN|Fight $npcNamePlural:25020101$ in $map:02020030$ and $npcNamePlural:25020201$ in $map:02020031$ to learn what makes them special.
+###104
+KO|$map:02020030$의 $npcName:25020102$ 에네르를 계속 소비해 채취할 수 있는 양이 점점 줄어들고 있다고 한다. $npcName:25020102$들을 제압해서 에네르를 확보하자.
+EN|Sky Fortress's access to aetherine is endangered by the $npcNamePlural:25020102$ near $map:02020030$. If this goes on, research into aetherine will co
+###105
+KO|$map:02020030$의 $npcName:25020105$, $map:02020029$의 $npcName:25020004$ 해치우고 어둠의 기운을 몰아내야 한다.
+EN|Avert disaster by defeating $npcNamePlural:25020105$ in $map:02020030$ and $npcNamePlural:25020004$ in $map:02020029$.
+###106
+KO|$map:02020030$의 송신탑 근처에 울타리를 수리하여 몬스터의 접근을 막아야 한다.
+EN|Repair the fence near the transmission tower in $map:02020030$ to prevent monsters from approaching it.
+###107
+KO|$map:02020030$의 정찰 대원들이 $npcName:25020102$의 전파 방해로 무전에 어려움을 겪고 있다고 한다.⏎$npcName:25020102$ 처치하자.
+EN|$npcNamePlural:25020102$ are jamming the radio signals of scouts in $map:02020030$.
+###108
+KO|$map:02020031$ 이동해서 포잉과 교감을 시도해 보자.
+EN|Go to $map:02020031$ and try communicating with a Poing.
+###109
+KO|$map:02020031$ 장악한 후, 기계 병사들을 단숨에 부하로 만들어 버린 $npcName:11004163$. 기계 병사들을 제압한 후 원인을 밝혀내 보자.
+EN|$npcName:11001813$ has somehow turned Tairen's machines to his side. Dismantle the machines in $map:02020031$ to learn how.
+###110
+KO|$map:02020031$ 지역에 파견 나간 스카이 포트리스 대원들의 상태를 확인해야 한다.
+EN|Check on the Sky Fortress agents in $map:02020031$.
+###111
+KO|$map:02020031$ 현재 검은군단이 장악하고 있다. 순식간에 검은군단의 수하가 된 $npcName:25020203$ 제압한 후 그 원인을 밝혀내야 한다.
+EN|$map:02020031$ is currently occupied by the Daemon Army. Defeat $npcNamePlural:25020203$ to get to the bottom of why they switched sides so quickly.
+###112
+KO|$map:02020031$에서 $npcName:25020201$ 제압한 후 $item:30001218$ 확보하자.
+EN|Defeat $npcNamePlural:25020201$ in $map:02020031$ and collect $item:30001218$.
+###113
+KO|$map:02020031$의 자원을 안전하게 채취할 수 있도록 $npcName:25020202$ 제압해야 한다.
+EN|Defeat $npcNamePlural:25020202$ to allow resource extraction to resume in $map:02020031$.
+###114
+KO|$map:02020032$ 가서 중거리 대포 부품을 회수해 와야한다.
+EN|Go to $map:02020032$ and recover medium-range cannon parts.
+###115
+KO|$map:02020032$, $map:02020034$, $map:02020013$에서 그린후드의 탐사를 방해하고 있는 몬스터들을 퇴치하자.
+EN|Defeat the monsters interfering with exploration at the $map:02020032$, $map:02020034$, and $map:02020013$.
+###116
+KO|$map:02020032$에서 정찰대원들이 $npcName:25020703$에게 물렸다고 한다. 특이한 상처 부위를 치료하기 위해서는 녀석의 송곳니를 수집해 분석해야 한다.
+EN|Scouts in $map:02020032$ have been bitten by $npcNamePlural:25020703$. In order to treat it, the fangs need to be analyzed.
+###117
+KO|$map:02020032$의 $npcName:25020603$, $map:02020010$의 $npcName:25020703$ 처치하여 케르베스의 세력을 견제하자.
+EN|Keep Kharon in check by defeating $npcNamePlural:25020603$ in $map:02020032$ and $npcNamePlural:25020703$ in $map:02020010$.
+###118
+KO|$map:02020032$의 $npcName:25020704$, $map:02020013$의 $npcName:25020905$ 사냥하면서 다른 점이 있는지 확인해야 한다.
+EN|Research $npcNamePlural:25020704$ in $map:02020032$ and $npcNamePlural:25020905$ in $map:02020013$.
+###119
+KO|$map:02020033$ 가서 장거리 대포 파괴하여야 한다.
+EN|Go to $map:02020033$ and destroy the long-range cannon.
+###120
+KO|$map:02020033$ 부근에서 사치품 상자의 물품을 가로채야 한다.
+EN|Intercept the items from the luxury goods boxes near $map:02020033$.
+###121
+KO|$map:02020033$ 지키고 있던 게오르크군에게서 지원을 요청하는 무전이 왔다. 신속히 이동하여 그들의 대포 상태를 확인, 정상 작동하도록 수리하도록 하자.
+EN|The Humanitas cannons in $map:02020033$ have failed. They need a dashing hero to come fix them.
+###122
+KO|$map:02020033$의 $item:61000165$ 확보를 부탁하는 $npcName:11004312$. 빠르게 확보하여 스카이 포트리스의 연구를 도와야 한다.
+EN|Capture a $item:61000165$ from $map:02020033$ for the Sky Fortress research team.
+###123
+KO|$map:02020034$ 가서 에네르 생성기 부품 STX-17 구해와야 한다.
+EN|Go to $map:02020034$ and bring back the Ener generator part STX-17.
+###124
+KO|$map:02020034$ 공격하던 아군 병력이 $npcName:25020803$에게 큰 피해를 입었다고 한다. 피해가 더 커지기 전에 $npcName:25020803$ 처치하자.
+EN|Scouts in $map:02020034$ have fallen to the arrows of $npcNamePlural:25020803$.
+###125
+KO|$map:02020034$는 타이렌 왕국이 건설한 에네르 생성설비이다. 이곳의 기계 병사들을 제압하면 에네르 공급에 타격을 줄 수 있을 것이다.
+EN|$map:02020034$ is a vital part of Tairen's infrastructure. Throw a wrench in their operations.
+###126
+KO|$map:02020034$에는 에네르 공유기 역할을 하는 기계 병사들이 있다고 한다. 녀석들을 파괴하고 부품을 빼내면 에네르 공급에 타격을 줄 수 있을 것이다.
+EN|The Tairen have been using $npcNamePlural:25020801$ in the $map:02020034$ to regulate their aetherine production. Destroy a few and collect $itemPlura
+###127
+KO|$map:02020034$에서 $item:30001250$ 장착한 ⏎$npcName:25020804$ 발견되었다고 한다. 녀석들을 제압한 후 $item:30001250$ 확보하자.
+EN|Robot soldiers equipped with $itemPlural:30001250$ were sighted in the $map:02020034$. Confiscate their crystals.
+###128
+KO|$map:02020034$에서 $npcName:25020807$ 전투를 벌이며 구조를 분석해 보자.
+EN|The weapons used by $npcNamePlural:25020807$ in $map:02020034$ appear to be composed of a unique material.
+###129
+KO|$map:02020034$에서 신비한 장치를 조작하여 소문의 진위를 확인해보자.
+EN|There's a rumor about a shiny ring and a strange machine in $map:02020034$.
+###130
+KO|$map:02020034$의 에네르를 조사하기 위해 투입된 대원들이 $npcName:25020806$에게 큰 피해를 입었다고 한다. 녀석들을 제압하여 조사가 재개될 수 있도록 해야 한다.
+EN|Sky Fortress crew were ambushed at the $map:02020034$ by $npcNamePlural:25020806$, taking heavy injuries.
+###131
+KO|$map:02020035$ 가서 변환 장치의 주요 부품 확보해야 한다.
+EN|Go to $map:02020035$ and secure the conversion device's key component.
+###132
+KO|$map:02020035$ 검은군단에게 점령된 상태이다. 현재 검은군단의 기계 병사들이 생산되고 있다고 한다. 이곳을 공격하기 위해선 경비 병력부터 무력화시켜야 한다.
+EN|$map:02020035$ has been occupied by the Daemon Army, and they're producing more mechanical warriors. Weaken the security forces to prepare for an assa
+###133
+KO|$map:02020035$에 있는 로봇들의 메모리 칩을 분석하여 AI를 조작하면 아군으로 만들 수 있을지도 모른다고 한다. $npcName:25021903$ 제압한 후 메모리 칩을 확보하자.
+EN|A thorough analysis of the memory chips from the robots in the $map:02020035$, may reveal vulnerabilities that could be used to turn them into allies.
+###134
+KO|$map:02020035$에서 검은군단의 기계 병사들이 생산되고 있다고 한다. 공장을 파괴하기 위해 먼저 경비 병력인 $npcName:25021902$부터 처치하자.
+EN|The Daemon Army's mechanical soldiers are produced in $map:02020035$. Defeat $npcNamePlural:25021902$ as the first step towards destroying the factory
+###135
+KO|$map:02020035$의 $npcName:25021901$, $map:02020036$의 $npcName:25022002$ 해치워 검은군단의 세력을 견제해야 한다.
+EN|Keep the Daemon Army in check by defeating $npcNamePlural:25021901$ in $map:02020035$ and $npcNamePlural:25022002$ in $map:02020036$.
+###136
+KO|$map:02020035$의 $npcName:25021903$와 $map:02020036$의 $npcName:25022001$를 제압하여 검은군단 세력을 약화시켜, 이 곳을 안전하게 만들자고 한다.
+EN|Weaken the Daemon Army by defeating $npcNamePlural:25021903$ in $map:02020035$ and $npcNamePlural:25022001$ in $map:02020036$.
+###137
+KO|$map:02020035$의 $npcName:25021904$, $map:02020036$의 $npcName:25022005$, $map:02020009$의 $npcName:25021602$ 처치하여 그들의 맥을 끊어야 한다.
+EN|Defeat $npcNamePlural:25021904$ in $map:02020035$, $npcNamePlural:25022005$ in $map:02020036$, and $npcNamePlural:25021602$ in $map:02020009$.
+###138
+KO|$map:02020035$의 $npcName:25021906$ 기계 병사 중에서도 가장 강하다고 한다. 녀석을 처치하고, 강함을 시험해보자.
+EN|$npcName:25021906$ in $map:02020035$ is the strongest mechanical soldiers we've encountered thus far. Let's see how you deal with it.
+###139
+KO|$map:02020036$ 가서 검은 기운 채취해야 한다.
+EN|Go to $map:02020036$ and collect black energy.
+###140
+KO|$map:02020036$ 이동해서 신비한 장치를 조작하고 보물상자를 향해 뛰어보자.
+EN|Go to $map:02020036$, use the device, and run for the treasure chest.
+###141
+KO|$map:02020036$에 몰래 침투해 어둠의 기운을 조사하던 대원들이 $npcName:25022005$에게 큰 피해를 입었다고 한다. 녀석을 제압해서 조사가 재개될 수 있도록 해야 한다.
+EN|The team sent to investigate the dark energy at $map:02020036$ have suffered great losses at the hands of the $npcNamePlural:25022005$. Take them out 
+###142
+KO|$map:02020036$에서 검은군단을 몰아내자!
+EN|Drive the Daemon Army from $map:02020036$!
+###143
+KO|$map:02020036$에서 파수견들을 조종하는 $npcName:25022003$ 처치하고, 공격당하는 대원이 없도록 하자.
+EN|Defeat $npcName:25022003$ to free the Guard Dogs in $map:02020036$ and keep them from attacking your allies.
+###144
+KO|$map:02020037$에 가서 장거리 포대 파괴해야 한다.
+EN|Go to $map:02020037$ and destroy the long-range artillery.
+###145
+KO|$map:02020037$에 침투해서 타이렌 왕국의 침입 탐지 센서 꺼버려야 한다.
+EN|Infiltrate $map:02020037$ and turn off the Tyren Kingdom's intrusion detection sensors.
+###146
+KO|$map:02020037$에 핀 붉은 식물을 조사하여 $item:30001302$ 모아와야 한다.
+EN|Examine the red plants in $map:02020037$ and gather $itemPlural:30001302$.
+###147
+KO|$map:02020037$의 $npcName:25022102$라는 타이렌 병사가 주기적으로 확인하는 수첩이 있다고 한다. 크리티아스의 단서를 확보하기 위해선, 그 수첩이 필요할 것 같다.
+EN|A Tairen soldier called $npcName:25022102$ in $map:02020037$ has a notebook full of military secrets. Defeat them and bring back the notebook.
+###148
+KO|$map:02020041$ 돌아가 $npcName:11004315$ 반겐하임의 일기장에 대해 이야기하자.
+EN|Talk to $npcName:11004315$ about $npcName:11004431$'s journal in $map:02020041$
+###149
+KO|$map:02020041$ 돌아가 $npcName:11004395$에게 접선 하도록 하자.
+EN|Return to $map:02020041$ and have the Sky Fortress crew contact $npcName:11004395$.
+###150
+KO|$map:02020041$ 인접한 $map:02020032$ 현재 검은군단 병사들과 대치 중인 지역이다. 우선 $npcName:25020701$ 제압해보자.
+EN|There's an intense standoff between Sky Fortress and the Daemon Army at the $map:02020032$ on the outskirts of $map:02020041$. $npcName:11004312$ want
+###151
+KO|$map:02020041$로 연결되는 주요 거점인 $map:02020004$ 타이렌 왕국 기계 병사들이 점령하고 있다. 위협을 조금이라도 제거하기 위해, $npcName:25020405$ 처치하자.
+EN|The nearest town to $map:02020041$, $map:02020004$, is occupied by Tairen. Head there and defeat $npcNamePlural:25020405$.
+###152
+KO|$map:02020041$에 정박 중인 스카이 포트리스 함선을 점검하고 언제든 날 수 있도록 만전을 기하자.
+EN|Perform repairs on the Sky Fortress while it's anchored in $map:02020041$.
+###153
+KO|$map:02020051$에 있는 $map:52100118$에 가서 $npcName:25023300$, $npcName:25023301$ 제압해야 한다.
+EN|Go to $map:52100118$ in $map:02020051$ and suppress $npcName:25023300$ and $npcName:25023301$.
+###154
+KO|$map:02020051$에서 $npcName:11004619$ 만나 $npc:11004618$의 소재를 파악한 후, $npc:11004618$ 접촉해야 한다.
+EN|Meet $npcName:11004619$ in $map:02020051$, determine $npc:11004618$'s location, and make contact with $npc:11004618$.
+###155
+KO|$map:02020051$의  $npcName:25021103$ 지대공 미사일을 발사해 아군 탐사선이 격추되는 일이 빈번히 발생하고 있다. 녀석들을 제압해 탐사선을 보호해야 한다.
+EN|$npcNamePlural:25021103$ have been trying to shoot down our probe in $map:02020051$. Better put a stop to that.
+###156
+KO|$map:02020051$의 $npcName:25021102$, $map:02020017$의 $npcName:25021203$, $map:02020014$의 $npcName:25021401$ 처치하고 부족한 전투 데이터를 보충해야 한다.
+EN|Gather data on $npcNamePlural:25021102$ in $map:02020051$, $npcNamePlural:25021203$ in $map:02020017$, and $npcNamePlural:25021401$ in $map:02020014$.
+###157
+KO|$map:02020051$의 $npcName:25021104$ 대원들을 무자비하게 공격하고 있다고 한다. 어서 그들을 처치하고 피해를 줄이자.
+EN|$npcNamePlural:25021104$ in $map:02020051$ are going after our people. Take them out before they take us out.
+###158
+KO|$map:02020051$의 $npcName:25021104$, $map:02020017$의 $npcName:25021201$ 처치하고 빠르게 정보를 모아보자.
+EN|Gather information by defeating $npcNamePlural:25021104$ in $map:02020051$ and $npcNamePlural:25021201$ in $map:02020017$.
+###159
+KO|$map:02020066$ 가서 $npc:11004574$ 만나 검은군단이 병력을 증강한 이유를 알아보아야 한다.
+EN|Go to $map:02020066$, meet $npc:11004574$, and find out why the Black Legion increased its forces.
+###160
+KO|$map:02020066$ 가서 $npc:11004574$ 만나 난민들을 구출할 방법을 찾아야 한다.
+EN|Go to $map:02020066$, meet $npc:11004574$, and look for a way to rescue the refugees.
+###161
+KO|$map:02020066$ 가서 $npc:11004574$ 만나 더위를 해결할 방법을 찾아야 한다.
+EN|Go to $map:02020066$, meet $npc:11004574$, and look for a way to deal with the heat.
+###162
+KO|$map:02020066$ 가서 $npc:11004574$ 만나 왜 드론의 수가 줄었는지 알아보자.
+EN|Go to $map:02020066$, meet $npc:11004574$, and find out why the number of drones has decreased.
+###163
+KO|$map:02020066$ 가서 $npc:11004574$ 만나 질서를 회복할 방법을 찾아봐야 한다.
+EN|Go to $map:02020066$, meet $npc:11004574$, and look for a way to restore order.
+###164
+KO|$map:02020066$ 가서 $npc:11004574$ 만나 케르베스로 인한 피해가 없는지 알아보아야 한다.
+EN|Go to $map:02020066$, meet $npc:11004574$, and find out whether Kerbes has caused any damage.
+###165
+KO|$map:02020066$ 가서 $npc:11004574$ 만난 후, 난민들을 해친 존재를 추적해야 한다.
+EN|Go to $map:02020066$, meet $npc:11004574$, and track down whatever harmed the refugees.
+###166
+KO|$map:02020066$ 가서 $npc:11004574$ 만난 후, 무슨 일이 있었는지 알아보아야 한다.
+EN|Go to $map:02020066$, meet $npc:11004574$, and find out what happened.
+###167
+KO|$map:02020066$에 가서 $npc:11004574$ 만나 난민들의 어려움을 해결해 주어야 한다.
+EN|Go to $map:02020066$, meet $npc:11004574$, and help solve the refugees' difficulties.
+###168
+KO|$map:02020067$ 가서 $npcName:25022303$ 제압한 후 $item:30001364$ 구해와야 한다.
+EN|Go to $map:02020067$, suppress $npcName:25022303$, and bring back $item:30001364$.
+###169
+KO|$map:02020067$에 있는 $map:52100114$ 가서 $npcName:25022900$ 처치해야 한다.
+EN|Go to $map:52100114$ in $map:02020067$ and defeat $npcName:25022900$.
+###170
+KO|$map:02020067$에서 $npcName:25022302$, $map:02020068$에서 $npcName:25022401$ 처치해야 한다.
+EN|Defeat $npcName:25022302$ in $map:02020067$ and $npcName:25022401$ in $map:02020068$.
+###171
+KO|$map:02020068$에 가서 $npcName:25022407$ 제압한 후, $item:30001356$ 구해와야 한다.
+EN|Go to $map:02020068$, subdue $npcName:25022407$, and bring back $item:30001356$.
+###172
+KO|$map:02020069$ 가서 $npc:11004620$ 만나 $npcName:25022505$들을 격퇴할 방법을 찾아야 한다.
+EN|Go to $map:02020069$, meet $npc:11004620$, and look for a way to repel $npcName:25022505$.
+###173
+KO|$map:02020069$ 가서 $npc:11004620$ 만나 경비를 강화할 방법을 논의해야 한다.
+EN|Go to $map:02020069$, meet $npc:11004620$, and discuss ways to strengthen security.
+###174
+KO|$map:02020069$ 가서 $npc:11004620$ 만나 대화를 나누고 도울 일을 찾아보아야 한다.
+EN|Go to $map:02020069$, meet $npc:11004620$, talk with them, and look for something to help with.
+###175
+KO|$map:02020069$ 가서 $npc:11004620$ 만나 모랑족을 도와야 한다.
+EN|Go to $map:02020069$, meet $npc:11004620$, and help the Morang.
+###176
+KO|$map:02020069$ 가서 $npc:11004620$ 만나 무슨 일이 생겼는지 알아보아야 한다.
+EN|Go to $map:02020069$, meet $npc:11004620$, and find out what happened.
+###177
+KO|$map:02020069$ 가서 $npc:11004620$ 만나 분위기가 흉흉해진 이유를 파악해야 한다.
+EN|Go to $map:02020069$, meet $npc:11004620$, and find out why the atmosphere has become ominous.
+###178
+KO|$map:02020069$ 가서 $npc:11004620$ 만나 사건을 조사해야 한다.
+EN|Go to $map:02020069$, meet $npc:11004620$, and investigate the incident.
+###179
+KO|$map:02020069$ 가서 $npc:11004620$ 만나 상황을 파악한 후, 해결책을 찾아야 한다.
+EN|Go to $map:02020069$, meet $npc:11004620$, assess the situation, and look for a solution.
+###180
+KO|$map:02020069$ 가서 $npc:11004620$ 만나 식량난이 발생한 원인을 조사해야 한다.
+EN|Go to $map:02020069$, meet $npc:11004620$, and investigate the cause of the food shortage.
+###181
+KO|$map:02020069$ 가서 $npc:11004620$ 만나 위기를 알려야 한다.
+EN|Go to $map:02020069$, meet $npc:11004620$, and warn them of the crisis.
+###182
+KO|$map:02020069$ 가서 $npc:11004620$ 만나 해결책을 찾아야 한다.
+EN|Go to $map:02020069$, meet $npc:11004620$, and look for a solution.
+###183
+KO|$map:02020069$ 가서 $npc:11004620$ 만난 후 오염을 막을 방법을 찾아봐야 한다.
+EN|Go to $map:02020069$, meet $npc:11004620$, and look for a way to stop the contamination.
+###184
+KO|$map:02020069$ 가서 $npcName:11004620$ 만나 위기에 처한 모랑족들을 도와주어야 한다.
+EN|Go to $map:02020069$, meet $npcName:11004620$, and help the Morang in danger.
+###185
+KO|$map:02020070$ 가서 $npcName:25022601$ 처치한 후 $item:30001358$ 구해와야 한다.
+EN|Go to $map:02020070$, defeat $npcName:25022601$, and bring back $item:30001358$.
+###186
+KO|$map:02020070$ 가서 $npcName:25022601$, $map:02020071$ 가서 $npcName:25022700$ 처치해야 한다.
+EN|Go to $map:02020070$ and defeat $npcName:25022601$, then go to $map:02020071$ and defeat $npcName:25022700$.
+###187
+KO|$map:02020070$ 가서 $npcName:25022607$ $npcName:25022608$ 제압해야 한다.
+EN|Go to $map:02020070$ and suppress $npcName:25022607$ and $npcName:25022608$.
+###188
+KO|$map:02020070$ 가서 검은 기운에 잠식된 $npcName:25022602$ 처치해야 한다.
+EN|Go to $map:02020070$ and defeat $npcName:25022602$, which has been consumed by black energy.
+###189
+KO|$map:02020070$에서 $npcName:25022606$ $npcName:25022609$, $map:02020071$에서 $npcName:25022703$ $npcName:25022709$ 제압해야 한다.
+EN|Suppress $npcName:25022606$ and $npcName:25022609$ in $map:02020070$, and $npcName:25022703$ and $npcName:25022709$ in $map:02020071$.
+###190
+KO|$map:02020070$에서 $npcName:25022800$, $map:02020071$에서 $npcName:25022810$ 파괴해야 한다.
+EN|Destroy $npcName:25022800$ in $map:02020070$ and $npcName:25022810$ in $map:02020071$.
+###191
+KO|$map:02020071$ 가서 $npcName:25022700$ 겨뤄보자.
+EN|Go to $map:02020071$ and face $npcName:25022700$.
+###192
+KO|$map:02020071$ 가서 $npcName:25022705$ 처치해야 한다.
+EN|Go to $map:02020071$ and defeat $npcName:25022705$.
+###193
+KO|$map:02020071$ 가서 $npcName:25022706$ 포획해야 한다.
+EN|Go to $map:02020071$ and capture $npcName:25022706$.
+###194
+KO|$map:02020071$ 가서 $npcName:25022707$ $npcName:25022708$ 처치한 후, $item:30001357$ 회수해야 한다.
+EN|Go to $map:02020071$, defeat $npcName:25022707$ and $npcName:25022708$, and recover $item:30001357$.
+###195
+KO|$map:52100107$에서 발견한 의문의 서적을 $map:02020041$에 있는 $npcName:11004315$에게 건네 주자.
+EN|Deliver the mysterious books you found in $map:52100107$ to $npcName:11004315$ in $map:02020041$.
+###196
+KO|$map:52100114$에서 $npcName:25022902$ $npcName:25022903$, $map:52100116$에서 $npcName:25023102$ 제압해야 한다.
+EN|Suppress $npcName:25022902$ and $npcName:25022903$ in $map:52100114$, and $npcName:25023102$ in $map:52100116$.
+###197
+KO|$map:52100115$에서 $npcName:25023003$ $npcName:25023004$, $map:52100118$에서 $npcName:25023303$ 처치하여야 한다.
+EN|Defeat $npcName:25023003$ and $npcName:25023004$ in $map:52100115$, and $npcName:25023303$ in $map:52100118$.
+###198
+KO|$npcName:11001813$의 해킹방법을 알아내기 위해 $map:02020031$ 가서 $npcName:25020203$ 처치하고 $item:30001220$ 수집해 와야 한다.
+EN|Collect $itemPlural:30001220$ from $npcNamePlural:25020203$ in $map:02020031$ to help determine how the machines were hacked by $npcName:11001813$.
+###199
+KO|$npcName:11004314$ 해준 조언을 따라, 해킹당한 기계병을 처치하러 $map:02020017$로 이동하자. 
+EN|Go to $map:02020017$ to destroy Turka's hacked sentries. 
+###200
+KO|$npcName:11004315$ $map:02020018$이 일기장에 묘사된 것과 일치하는 장소라며 놀란다.
+EN|$map:02020018$ seems a perfect match to its descriptions in $npcName:11004315$'s old books. See what else you can discover!
+###201
+KO|$npcName:11004315$의 가설을 입증하기 위해 $map:02020006$의 $npcName:25020302$, $map:02020001$의 $npcName:25020505$ 조사해야 한다.
+EN|Prove $npcName:11004315$'s hypothesis by investigating $npcNamePlural:25020302$ in $map:02020006$ and $npcNamePlural:25020505$ in $map:02020001$.
+###202
+KO|$npcName:11004316$ 남겨둔 룬을 통해 $npcName:11004316$의 기운을 얻도록 하자.
+EN|Activate $npcName:11004316$'s sigil.
+###203
+KO|$npcName:11004316$ 느낀 어둠의 힘은, 고도로 발전된 첨단 기술이었다.
+EN|It seems some sort of neural network has co-opted all of the mechanical soldiers in the area. This warrants further investigation.
+###204
+KO|$npcName:11004316$ 알려준 $npcName:23000073$의 위치인 $map:02020034$로 이동하자.
+EN|Travel to $map:02020034$ in search of $npcName:23000073$.
+###205
+KO|$npcName:11004316$ 이질적인 어둠의 힘이 느껴진다고 한다. 조사가 필요하다.
+EN|$npcName:11004316$ claims to have felt a strange aura of darkness in Kritias, and wants you to investigate.
+###206
+KO|$npcName:11004316$의 연구를 위해 $item:30000232$ 모아야 한다.
+EN|Collect $itemPlural:30000232$ for $npcName:11004316$'s research.
+###207
+KO|$npcName:11004316$의 연락을 기다리는 동안, 검은군단을 물리치자.
+EN|While you wait to hear from $npcName:11004316$, reduce the number of Daemon Forces in the area.
+###208
+KO|$npcName:11004316$의 의도를 정확히 파악했다. $map:02020017$의 에네르를 채취하자.
+EN|You're way ahead of $npcName:11004316$ for once. Savor this moment, and then collect aetherine from $map:02020017$.
+###209
+KO|$npcName:11004330$ $npcName:11004329$ 찾는다고 한다. 빨리 가보자.
+EN|$npcName:11004330$ and $npcName:11004329$ are here too. You should pay them a visit.
+###210
+KO|$npcName:11004342$ 무엇을 원하는지 살펴보고 $npcName:11004342$에게 자유를 주자.
+EN|See what $npcName:11004342$ wants and give it freedom.
+###211
+KO|$npcName:11004430$의 수하인 $npcName:23000301$ 어둠의 힘으로 주변을 침식시키고 있다고 한다. 피해가 더 커지기 전에 $map:02020200$ 가서 $npcName:23000301$ 처치하자.
+EN|$npcName:23000301$ has returned from the clutches of defeat to corrupt the natural world. Go to $map:02020200$ and defeat $npcName:23000301$.
+###212
+KO|$npcName:11004430$의 수하인 $npcName:25021308$들을 처치한 후, $npcName:11004430$ 다시 찾아보자.
+EN|Defeat $npcName:11004430$'s lackeys and resume your efforts to find him.
+###213
+KO|$npcName:11004436$에 의하면, 유령처럼 보이는 검은군단이 $map:02020006$에 있다고 한다. $map:02020006$ 가서 유령처럼 보이는 검은군단 놈들을 조사하자.
+EN|According to $npcName:11004436$ the "ghost" you are tracking was last seen in $map:02020006$. Go there and investigate.
+###214
+KO|$npcName:11004548$의 꽃가루에 중독된 $npcName:25021802$ 처치하고, 소란을 잠재우자.
+EN|Defeat $npcName:25021802$ to end the rampage started by $npcName:11004548$'s pollen.
+###215
+KO|$npcName:23000073$ 전투에서 방해될 수 있는 기계병들을 처치하자.
+EN|Clear a path to $npcName:23000073$ by culling the nearby mechanized soldiers.
+###216
+KO|$npcName:23000073$ 처치에 대한 자세한 이야기를 하기 위해 $map:02020041$로 이동하자.
+EN|Go to $map:02020041$ and discuss $npcName:23000073$'s defeat.
+###217
+KO|$npcName:23000073$에게 힘을 주는 의식이 걸린 토템을 파괴하자.
+EN|Destroy the totems used to summon $npcName:23000073$ to weaken him.
+###218
+KO|$npcName:23000130$ $map:02020016$에 있다. $map:02020016$ 출발하자.
+EN|$npcName:23000130$ has been tracked to $map:02020016$. Move out immediately.
+###219
+KO|$npcName:23000150$의 흔적을 찾기 위해서는 직접 움직여야 한다.
+EN|Take your handy new detector device and pick up $npcName:23000150$'s trail.
+###220
+KO|$npcName:23001006$ 가 폐기물 매립지에서 지진을 일으켜 부상당하는 대원들이 속출하고 있다고 한다. 피해가 더 커지기 전에 녀석을 제압하자.
+EN|$npcName:23001006$ is causing earthquakes at the waste landfill, and injured members are reportedly increasing. Let's subdue it before the damage gets
+###221
+KO|$npcName:23001006$의 새로운 공격패턴을 파악해야만 다음 공격을 예측할 수 있다. $npcName:23001006$와의 전투를 통해 전투데이터를 수집해야 한다.
+EN|We must identify $npcName:23001006$'s new attack patterns to predict its next attack. Combat data must be collected through battle with $npcName:23001
+###222
+KO|$npcName:23001006$의 오염물질을 확보해 해독제를 만들려는 연구가 진행 중이지만 $npcName:25021102$ 오염물질을 먹어치워 해독재 연구가 지속되지 못하고 있다. 연구가 진행될 수 있도록 $map:02020051$에서 녀석을 제압하자.
+EN|There's a plan to gather samples of $npcName:23001006$'s poison and create an antidote, but $npcNamePlural:25021102$ are gobbling it up. Find and stop
+###223
+KO|$npcName:23001006$의 외골격 분자 구조를 진동할 수 있는 음파을 알아낸다면 균열을 발생시킬 수 있을지 모른다.⏎그러기 위해 먼저 녀석과 전투를 통해 외골격에 대한 정보를 수집하자.
+EN|If we can find a sound wave that can vibrate $npcName:23001006$'s exoskeleton molecular structure, we may be able to cause fractures.⏎To do so, let's 
+###224
+KO|$npcName:23001006$의 전투 데이터를 수집해 녀석이 이곳에 온 목적과 활동 패턴을 알아내야 한다.
+EN|We need to collect $npcName:23001006$'s combat data to determine its purpose and activity patterns here.
+###225
+KO|$npcName:23090006$에 대한 의심은 확신으로 바뀌었다. 지금 당장 $npcName:23090006$ 추적해야 한다.
+EN|$npcName:23090006$ is in Kritias. The Alliance has pinpointed his location, and now it's up to you to track him down.
+###226
+KO|$npcName:25020002$ 제압하여 $map:02020029$ 지켜야 한다.
+EN|Protect $map:02020029$ by defeating $npcNamePlural:25020002$.
+###227
+KO|$npcName:25020102$ 에네르를 훔쳐, 에너지원으로 사용하고 있다. 녀석들을 제압한 후,  $item:30001244$ 회수하자.
+EN|$npcNamePlural:25020102$ have been stealing $itemPlural:30001244$ to use as batteries! Defeat them and get the crystals back!
+###228
+KO|$npcName:25020104$ $map:02020030$에 파견된 대원들을 공격하고 있다고 한다. 피해가 더 커지기 전에 녀석들을 처치하자.
+EN|$npcNamePlural:25020104$ have attacked Sky Fortress agents in $map:02020030$.
+###229
+KO|$npcName:25020104$ 주변을 검은 기운으로 오염시고 있다고 한다. $map:02020030$로 가서 녀석이 숨기고 있는 어둠의 힘을 수집해 오자.
+EN|$npcNamePlural:25020104$ corrupts the land wherever they go. Go to $map:02020030$ and uncover the source of their dark power.
+###230
+KO|$npcName:25020201$ 내뿜는 전파에 대원들의 무전이 방해받고 있다고 한다. $map:02020031$로 가서 녀석들을 제압하자.
+EN|$npcNamePlural:25020201$ in $map:02020031$ are jamming the radio signals of Sky Fortress's scouts.
+###231
+KO|$npcName:25020301$ 탐사대의 식량을 먹어치워 굶주리는 대원들이 생겨나고 있다고 한다. 녀석을 퇴치하여 대원들이 굶지 않도록 돕자.
+EN|$npcNamePlural:25020301$ are stealing food supplies! You have to do something about this before everyone starves!
+###232
+KO|$npcName:25020302$ 에네르를 먹어치워 채취할 수 있는 양이 점점 줄어든다고 한다. 녀석들을 제압해서 에네르를 수집해야 한다.
+EN|Clear out $npcNamePlural:25020302$ so that they stop eating up all the aetherine.
+###233
+KO|$npcName:25020302$의 개체 수를 보다 확실히 줄이기 위해 작전을 변경한 스카이 포트리스. $map:52100113$ 들어가 그들의 알을 없애자.
+EN|Enter the $map:52100113$ near the bridge in $map:02020006$ and get rid of their eggs.
+###234
+KO|$npcName:25020303$ 스카이 포트리스의 부품을 자꾸 훔쳐 가고 있다. 녀석들을 제압하지 않으면 스카이 포트리스는 더 이상 이륙할 수 없을지도 모른다.
+EN|Clear out the $npcNamePlural:25020303$ who are stealing Sky Fortress supplies.
+###235
+KO|$npcName:25020303$의 악취를 없애는 방법을 연구하기 위해 $item:30001223$ 모아와야 한다.
+EN|Collect $item:30001223$ in $map:02020006$ so that Sky Fortress can invent a cleaning solution to get rid of $npcName:25020303$ stench.
+###236
+KO|$npcName:25020305$의 독액에 중독된 대원들이 나날이 늘어가고 있다고 한다. $map:02020006$로 가서 녀석들을 처치하자.
+EN|More and more expedition members are being poisoned by $npcNamePlural:25020305$.
+###237
+KO|$npcName:25020308$에게서 발견된 명령서를 통해 $npcName:23000301$의 존재를 찾을 수 있었다.
+EN|You learned of the Daemon lieutenant $npcName:23000301$ from some orders you recovered. The search is on.
+###238
+KO|$npcName:25020401$  탐사 대원들의 $item:30001247$ 빼앗아 갔다고 한다. $map:02020004$ 가서 녀석들을 제압한 후 $item:30001247$ 되찾아 오자.
+EN|A scout was attacked while exploring $map:02020004$ and lost a valuable report. Defeat $npcNamePlural:25020401$ to find the $itemPlural:30001247$.
+###239
+KO|$npcName:25020403$ 에네르를 선점해 채취할 수 있는 양이 점점 줄어든다고 한다. 녀석들을 제압해서 에네르를 수집해야 한다.
+EN|Clear out $npcNamePlural:25020403$ to help with the aetherine stockpiles.
+###240
+KO|$npcName:25020501$ 탐사 대원들의 탐사 보고서를 빼앗아 갔다고 한다. $map:02020001$ 가서 녀석들을 제압한 후 보고서를 되찾아 오자.
+EN|$npcNamePlural:25020501$ attacked our scouts and stole their reports! Head to $map:02020001$ and get back those $itemPlural:30001246$!
+###241
+KO|$npcName:25020502$, $npcName:25020302$, $npcName:25020402$ 탐사 대원들을 공격하고 있다고 한다. 녀석들을 처치하고 탐사 대원들을 보호하자.
+EN|$npcNamePlural:25020502$, $npcNamePlural:25020302$, and $npcNamePlural:25020402$ are attacking Sky Fortress field researchers.
+###242
+KO|$npcName:25020704$ $map:02020032$ 공격해 기지가 위협받고 있다고 한다. 녀석을 제압해 기지를 지켜내자.
+EN|The $map:02020032$ is under heavy attack from $npcNamePlural:25020704$.
+###243
+KO|$npcName:25020904$의 $item:30001251$ 에네르 결정에서 에너지를 추출하는 촉매라는 사실이 밝혀졌다. 연구의 더 큰 진전을 위해 $item:30001251$ 수집해야 한다.
+EN|It's been discovered that $npcNamePlural:25020904$' $item:30001251$ are a catalyst used in aetherine energy extraction.
+###244
+KO|$npcName:25021203$이 $item:30001253$ 빼앗아 갔다고 한다. 녀석을 제압한 후 $item:30001253$ 회수해야 한다.
+EN|$npcNamePlural:25021203$ have stolen our $itemPlural:30001253$. Find them, catch them, and bring back those logs.
+###245
+KO|$npcName:25021403$의 체액 속에 $npcName:23001006$의 오염물질을 해독할 수 있는 효소가 있다고 한다. 녀석을 제압하고 $item:30001252$ 확보해야 한다.
+EN|$npcName:25021403$ bodily fluids contain an enzyme that can neutralize $npcName:23001006$'s poison. Do what you have to do to get $item:30001252$.
+###246
+KO|$npcName:25021604$ 연구팀을 기습해 $npcName:23001006$ 오염물질 해독제 샘플을 탈취했다고 한다. 녀석들을 제압하고 샘플을 되찾아 와야 한다.
+EN|The $npcName:25021604$ launched a surprise raid on the research team and seized the antidote sample made to counteract $npcName:23001006$ contaminant.
+###247
+KO|$npcName:25021701$의 비밀.⏎특이한 색을 가지고 있는 이유를 알아내자.
+EN|Find out why $npcName:25021701$ hides are such a dazzling shade of blue...
+###248
+KO|$npcName:25021803$ 날갯짓할 때 뿌리는 독가루에 대원들이 중독되었다고 한다. 녀석을 제압해서 탐사가 재개될 수 있도록 해야 한다.
+EN|The explorers have been taken ill, suffering the effects of the poison powder spread by the flapping of the $npcNamePlural:25021803$' wings. Take them
+###249
+KO|<font color="#00a2ed">$npcName:23001006$ 임무</font>⏎$npcName:23001006$ $map:02020051$에서 마구 날뛰어 부상당하는 대원들이 속출하고 있다고 한다. ⏎피해가 더 커지기 전에 녀석을 제압하자.
+EN|<font color="#00a2ed">$npcName:23001006$ Mission</font>⏎$npcName:23001006$ is on a rampage in $map:02020051$. It must be defeated before it does more 
+###250
+KO|<font color="#00a2ed">$npcName:23001006$ 임무</font>⏎$npcName:23001006$ $map:02020051$에서 마구 날뛰어 부상당하는 대원들이 속출하고 있다고 한다. 피해가 더 커지기 전에 녀석을 제압하자.
+EN|<font color="#00a2ed">$npcName:23001006$ Mission</font>⏎Medics can't keep up with those ijured fighting $npcName:23001006$ in $map:02020051$. Defeat t
+###251
+KO|<font color="#00a2ed">$npcName:23001006$ 임무</font>⏎$npcName:23001006$의 전투패턴을 알아내 녀석이 이곳에 온 목적과 활동패턴을 알아내야 한다.
+EN|<font color="#00a2ed">$npcName:23001006$ Mission</font>⏎Study $npcName:23001006$'s tactics and strategies.
+###252
+KO|<font color="#00a2ed">군단전 임무, 둘</font>⏎검은군단의 대규모 병력이 크리티아스를 장악하기 위해 움직이기 시작했다. 이를 막기 위해선 기습으로 무력화시켜야 한다.
+EN|<font color="#00a2ed">Second Legion Mission</font>⏎Daemon forces are on the move. Cut them off before they threaten Sky Fortress and its allies.
+###253
+KO|<font color="#00a2ed">군단전 임무, 하나</font>⏎$npcName:11004163$의 흔적이 크리티아스 곳곳에서 발견됐다고 한다. 녀석의 흔적을 추적해서 어떤 음모를 꾸미고 있는지 밝혀내야 한다.
+EN|<font color="#00a2ed">First Legion Mission</font>⏎$npcName:11001813$ taints everything he touches. Track down his corruption to its source.
+###254
+KO|<font color="#00a2ed">군단전 임무, 하나</font>⏎최근 크리티아스 곳곳에서 $npcName:11001813$의 흔적이 발견됐다고 한다. 녀석의 흔적을 추적해서 어떤 음모를 꾸미고 있는지 밝혀내야 한다.
+EN|<font color="#00a2ed">First Legion Mission</font>⏎$npcName:11001813$'s fingerprints are all over the disasters taking place in Kritias. Uncover his pl
+###255
+KO|<font color="#00a2ed">군단전 임무, 하나</font>⏎키델 곳곳에 검은군단이 출몰하고 있다. 녀석에게 승리하기 위해선 먼저 전투를 통해 전투데이터를 수집해야 한다.
+EN|<font color="#00a2ed">First Legion Mission</font>⏎Daemon forces have occupied much of Kidel. If the Alliance is to defeat them, they'll need more inte
+###256
+KO|각자의 이익을 위해 손을 잡고 있는 케르베스와 타이렌 왕국. 그들의 단단한 연결고리를 끊어버리자.
+EN|Both Kharon and Tairen are constantly conspiring to destroy Humanitas. It's time for a counter-offensive.
+###257
+KO|갑작스러운 $npcName:25021401$의 이상 행동. ⏎박치기를 멈출  방법은 무엇인가.
+EN|Go to $map:02020014$ and thin the $npcName:25021401$ population to get them to calm down.
+###258
+KO|강력한 힘의 비밀을 알아내면, 다방면으로 활용할 수 있다. ⏎그러기 위해서 필요한 것은 분석을 위한 부품이다.
+EN|Any new tech will be crucial to winning future battles. Destroy $npcNamePlural:25021201$ in the $map:02020017$ and collect $itemPlural:30001228$ for a
+###259
+KO|거대 꿈트리가 생겨난 이유는 무엇일까?⏎이유를 알아내야 다른 거대 몬스터가 생기는 일을 방지할 수 있다.
+EN|How does one Wriggler grow so large? Collect $itemPlural:30001231$, so the Sky Fortress researchers can figure it out.
+###260
+KO|검은군단 기계 병사들이 $map:02020029$ 파괴하고 있다. 녀석을 제압해 숲을 지켜내야 한다.
+EN|The Daemon Army's mechanical soldiers are stirring up trouble in $map:02020029$. It's time to thin the herd.
+###261
+KO|검은군단 놈들의 덩치를 보면 $npcName:25020308$ 정도는 되야, 뭔가를 알 것 같다. 한 번 확인해보자.
+EN|The search for your "ghost" is at an impasse. Interrogate a $npcName:25020308$ for answers.
+###262
+KO|검은군단 몬스터에게 끊임없이 어둠의 힘을 주는 $item:30001227$ 수집하고 연구해야 한다.
+EN|Defeat $npcNamePlural:25020702$ at the $map:02020032$ and collect their $itemPlural:30001227$, so the research team can begin studying them immediatel
+###263
+KO|검은군단 병력이 $map:02020030$에 파견된 탐사 대원들을 공격하고 있다고 한다. $npcName:25020105$ 처치하고 탐사 대원들을 보호하자.
+EN|The Daemon Army has unleashed a devastating offensive against Sky Fortress agents in $map:02020030$. Defeat $npcNamePlural:25020105$.
+###264
+KO|검은군단의 시선을 끌 수 있도록 소란을 피워야 한다. ⏎마구잡이로 소란을 피워보자.
+EN|Make a scene in the hopes of drawing the Daemon Army's attention.
+###265
+KO|검은군단의 심장부인 $map:02020036$에 대한 공격이 시작된다고 한다. 먼저 가서 검은군단 병력을 최대한 제압하자.
+EN|The attack on $map:02020036$, the heart of the Daemon Army, is set to begin. Go and weaken the Daemon Army forces first.
+###266
+KO|검은군단의 심장부인 검은군단 점령지에 대한 공격이 시작된다고 한다. 작전의 성공을 위해선 먼저 $npcName:25022004$들을 제압해야 한다.
+EN|An assault against the occupied territories of the Daemon Army is being planned, but the gathering of intelligence will prove vital. Cull the $npcName
+###267
+KO|검은군단의 위험한 기운이 $map:02020001$에서 느껴진다. 조사해보자.
+EN|A dark presence has been detected in $map:02020001$. Go and investigate.
+###268
+KO|검은군단이 전열을 정비하면 우리에게 큰 위협이 된다. 군단전에서 승리하여 우리의 힘을 보여주자.
+EN|The Daemon Army is amassing for an attack. Defeat them in a Legion Battle to deal a serious blow against their forces.
+###269
+KO|검을 다양하게 다루는 크리티아스 몬스터의 전투 패턴을 파악하고 싶다는 $npcName:11004312$. 직접 전투하면서 그들의 전투 패턴을 파악해야 한다.
+EN|$npcName:11004312$ wants to understand the fencing of Kritias. Experience this fencing for yourself.
+###270
+KO|게오르크 연구팀을 위해 $map:02020018$ 가서 빛나는 푸른 유물 확보해야한다.
+EN|For the Georg research team, go to $map:02020018$ and secure a glowing blue relic.
+###271
+KO|게오르크가 $map:02020030$의 부유섬에 대한 반격을 시작한다고 한다. $npcName:25020106$ 제압해서 작전이 성공할 수 있도록 돕자.
+EN|Defeat $npcNamePlural:25020106$ to help Humanitas retake $map:02020030$.
+###272
+KO|게오르크를 괴롭히는 케르베스에게 큰 타격을 입히기 위해 그들의 물자를 빼앗자.
+EN|The Kharon have been a nuisance to Humanitas for long enough. Strike back by stealing vital supplies.
+###273
+KO|게오르크를 위협하는 $npcName:25020506$ $npcName:25020507$ 무찌르자.
+EN|Defeat the $npcNamePlural:25020506$ and $npcNamePlural:25020507$ threatening Humanitas.
+###274
+KO|게오르크를 위협하는 적들의 기세가 한층 강력해졌다고 한다.⏎그들을 도와 적들을 처치하고 안전을 지켜야 한다.
+EN|Humanitas is being overwhelmed by waves of enemies. Help them fight back.
+###275
+KO|게오르크의 두 번째 거점인 $map:02020033$ $npcName:25021303$들의 공격을 받고 있다. 녀석들을 제압해서 요새를 지켜야 한다.
+EN|The second Humanitas base, $map:02020033$, is under attack by $npcNamePlural:25021303$. Push them back and defend the fortress.
+###276
+KO|경보가 울리는 바람에 허둥지둥하다 보니 $map:52100107$ 진입했다.⏎이곳에 뭔가 중요한 자료가 있는지 찾아보자.
+EN|An alarm triggered while you were investigating the $map:52100107$. Search for any clues you can about the purpose of the structure and get out of the
+###277
+KO|고대 서적을 전해 받은 $npcName:11004315$은 의외의 소득이라며 탐사 의지를 불태운다.⏎과연 어떤 내용이 담겨 있을까?
+EN|$npcName:11004315$ wants to determine whether the old books you brought her are fact or fiction. Help her validate their authenticity.
+###278
+KO|공중에 떠다니는 타이렌 기계 병사들 발견! 원리를 알아내기 위해 $item:30001222$ 확보해야 한다.
+EN|$npcName:11004312$ wants to research the flying machines of Kritias.
+###279
+KO|과학과 자연이 조화를 이루는 크리티아스.⏎이곳의 아름다움을 지켜야 한다.
+EN|Technology and nature are in balance in Kritias. The beauty of this place must be protected.
+###280
+KO|귀엽지만 사나운 성격을 갖고 있는 $npcName:25020005$. 탐사 대원들의 건강을 위해서 $npcName:25020005$ 혼내주자.
+EN|$npcNamePlural:25020005$ may be cute, but they're still vicious monsters. Hunt them in $map:02020029$.
+###281
+KO|그린후드가 설치해 놓은 기간틱 드릴을 이용하여 $map:02020051$의 토양 성분을 분석해보자.
+EN|Use the Gigantic Drill in $map:02020051$ to analyze the properties of the local soil for the Green Hoods.
+###282
+KO|그린후드는 낯선 대륙에서 라펜샤드 에너지를 추적하고 있다. 그러나 탐사를 방해하는 존재들이 많아 고생하고 있다고 한다. 녀석들을 제압해서 탐사가 계속될 수 있도록 해야 한다.
+EN|The Green Hoods are running into trouble with their lapenshard research. Suppress those bothering them so they can continue their work.
+###283
+KO|그린후드의 에네르 연구를 방해하고 있는 $map:02020031$의  $npcName:25020205$들을 제압하자.
+EN|Take care of the $npcNamePlural:25020205$ in $map:02020031$ interfering with aetherine research.
+###284
+KO|그린후드의 에네르 연구를 방해하고 있는 $map:02020031$의 기계 병사들을 퇴치하자.
+EN|Defeat the mechanical soldiers in $map:02020031$ interfering with the Green Hoods' aetherine research.
+###285
+KO|그린후드의 에네르 채취를 방해하고 있는 $map:02020008$의 적대 몬스터들을 소탕하자.
+EN|Clear out the hostile monsters in $map:02020008$ to protect the Green Hoods aetherine operations.
+###286
+KO|기간틱 드릴을 작동시켰더니 등장한 거대 몬스터. 안전을 위해 거대 몬스터를 해치우자. 
+EN|Operating the Gigantic Drill has caused a huge monster to appear. Defeat the creature and put an end to its rampage. 
+###287
+KO|기계 병사들과 케르베스 병력의 방해로 $map:02020016$에 있는 유적지 탐사를 시작하지 못하고 있다고 한다. 탐사를 방해하는 녀석들을 퇴치하자.
+EN|Excavation in $map:02020016$ hasn't started because of monster interference. Remove this interference.
+###288
+KO|기계 병사들에게서 어둠의 힘이 느껴진다. 느낌은 증거가 아니다. 증거 수집을 위해서 기계 병사들을 파괴하자.
+EN|A dark power has corrupted these mechanical soldiers. Perform a robo-topsy to learn how.
+###289
+KO|기계 병사들이 탐사 대원들의 지표측정 자료들을 빼앗아 갔다고 한다. $map:02020031$로 가서 녀석들을 제압한 후 자료를 되찾아 오자.
+EN|Enemies in $map:02020031$ have stolen vital research data. Go there and defeat $npcNamePlural:25020205$ to get it back.
+###290
+KO|기계 병사를 조사했는데, 아무 것도 찾을 수가 없었다. 전문가의 도움이 필요하다.
+EN|Dismantling the machines did nothing to reveal the means by which they were corrupted. It's time to call in an expert.
+###291
+KO|끊이지 않는 케르베스의 악행.⏎모두를 위해서 그들의 세력을 줄여야 한다.
+EN|The $npcNamePlural:25021601$ at the $map:02020009$ are relentless! Find them and take them out.
+###292
+KO|끊임없이 나타나는 타이렌 왕국의 기계 병사.⏎그들의 생산시설을 공격해, 기계 병사의 수를 줄이자.
+EN|Tairen's mechs seem to be in infinite supply, but not for long. Attack the $map:02020035$ to disrupt production.
+###293
+KO|끝나지 않는 $npcName:11004555$의 이야기. 그의 입을 멈출 방법이 있을까?
+EN|What began as an effort to track down Infernog has ended in $npcName:11004555$'s predictable rambling.
+###294
+KO|끝이 보이기 시작하는 에네르 연구를 위해 $map:02020008$의 에네르를 채취하자.
+EN|Collect aetherine from $map:02020008$ to help speed along the aetherine research.
+###295
+KO|남의 것을 탐하는 자들에게 관용은 없다.⏎빼앗긴 것을 되찾고 나쁜 행동에는 벌을 내리자.
+EN|No one steals tasty, $item:30001230$ and gets away with it! Teach those $npcNamePlural:25022001$ a lesson!
+###296
+KO|네트워크 신호 파악을 위해 $npcName:25021202$ 처치하고, 통신 신호를 발생시키자.
+EN|Destroy $npcNamePlural:25021202$ to while Nairin analyses their data transmissions.
+###297
+KO|다른 몬스터를 처치했을 때도 신호가 발생하는지를 확인하기 위해, $npcName:25021205$ 처치하고 통신 신호의 발생을 확인하자.
+EN|$npcName:11004315$ needs more data to track down the source of the signal. Defeat $npcNamePlural:25021205$ while she analyses the data.
+###298
+KO|다른 종족의 몬스터들끼리도 교류가 있는지 궁금해하는 $npcName:11004312$ 위해 다양한 몬스터를 처치하며 그들의 상관관계를 확인해 보자.
+EN|All manner of lifeforms inhabit Kritias—but are they a threat to the Alliance's work on the continent? In order to find out, you'll have to get your h
+###299
+KO|다양한 몬스터를 확보하여 완성도 높은 데이터를 얻고 싶은 스카이 포트리스. $map:02020033$ 이동해 $item:61000170$ 빠르게 확보하여 연구를 도와야 한다.
+EN|Sky Fortress is continuing its research on the monsters of Kritias. Go to $map:02020033$ and capture a $item:61000170$ to help with their research.
+###300
+KO|다친 동료를 염려하는 상냥한 마음.⏎동료의 걱정을 덜기 위해 건강한 모습을 보여줘야 한다.
+EN|Your preemptive attack against the troops of the Daemon Army has dealt a solid blow to their ranks. Report back to $npcName:11004312$.
+###301
+KO|대원들을 공격하는 $map:02020003$의 $npcName:25021505$, $map:02020051$의 $npcName:21010016$, $map:02020014$의 $npcName:25021405$을 처치하자.
+EN|Defeat $npcNamePlural:25021505$ in $map:02020003$, $npcNamePlural:25021105$ in $map:02020051$, and $npcNamePlural:25021405$ in $map:02020014$.
+###302
+KO|대원들을 마구 공격하는 $map:02020003$의 $npcName:25021505$. 그들을 처치하고 대원들의 피해를 줄이자.
+EN|$npcNamePlural:25021505$ in $map:02020003$ are brutalizing your allies. Take them out before they do any more damage.
+###303
+KO|대원들이 $map:02020051$의 조사를 순조롭게 진행할 수 있도록 $map:02020051$의 몬스터들을 처치하자.
+EN|Monsters are making a mess of the $map:02020051$'s unique and delicate ecology.
+###304
+KO|대원들이 아름다운 곳을 보며 마음의 평화를 얻을 수 있는 소중한 곳을 지켜야 한다.
+EN|Protect $map:02020014$ from the $npcNamePlural:25021406$
+###305
+KO|더 먼 곳으로 대원들을 정찰 보내기 위해 안전확보가 중요하다. $map:02020032$의 몬스터들을 처치하자.
+EN|The outpost must be secured. Defeat monsters in $map:02020032$.
+###306
+KO|동맹을 돕고자 하는 마음. ⏎그 마음에 부응하기 위해 검은군단의 병력을 해치워야 한다.
+EN|Aid your Humanitas allies by defeating $npcNamePlural:25021501$ in the $map:02020003$
+###307
+KO|동맹인 게오르크를 위협하는 $npcName:25021302$ 해치워야 한다.
+EN|The $npcNamePlural:25021302$ are threatening to overtake $map:02020033$. You must help drive them out!
+###308
+KO|동맹인 게오르크에게서 의뢰가 들어왔다. 그들의 의뢰를 수행하여 서로의 신뢰를 쌓아보자.
+EN|Humanitas has requested the aid of the Maple Alliance. Speak with their leader and see what she needs.
+###309
+KO|동시다발적인 적의 공격에 어려움을 겪고 있는 게오르크를 도와야 한다.
+EN|Help Humanitas defend from attacks in multiple directions.
+###310
+KO|드디어 끝난 마지막 임무. 그러나 새로운 탐험이 기다리고 있었다.
+EN|Your latest mission is over, but a new frontier awaits.
+###311
+KO|드디어 처치한 $npcName:23090006$. 이 기쁜 소식을 어서 알려야 한다.
+EN|$npcName:23090006$ has finally been defeated. Return to base and deliver the good news..
+###312
+KO|땅속에서 부터 올라오는 오염물질. ⏎오염물질로 인한 악취를 더는 참을 수 없다.
+EN|The contamination oozing up from the ground has reached critical mass. Destroy $npcNamePlural:25021101$ in $map:02020051$ before they make it worse.
+###313
+KO|루미나이츠는 $npcName:25020502$의 $item:30001237$ 조사해 보고자 한다. 녀석을 처치한 후 $item:30001237$ 수집하자.
+EN|The Lumiknights want to investigate the $itemPlural:30001237$ of the $npcNamePlural:25020502$.
+###314
+KO|루미나이츠는 $npcName:25020504$의 체내에 있는 $item:30001236$ 조사해 보고자 한다. 녀석을 제압한 후 $item:30001236$ 확보하자.
+EN|The Lumiknights wish to study the $item:30001236$ within $npcNamePlural:25020504$' bodies.
+###315
+KO|마지막 샘플을 위해 $map:02020018$으로 가서 에네르를 채취하자.
+EN|Go to $map:02020018$ and collect the final aetherine.
+###316
+KO|마침내 끝난 $npcName:23000150$ 인연. 이 이야기의 끝을 모두에게 알려야 한다.
+EN|Your battle against $npcName:23000150$ is finally over. It's time to spread the word.
+###317
+KO|막을 수 없는 마법사들의 지적 호기심. 그들의 호기심을 끄는 물건을 확보하자.
+EN|Orde and Lanemone need your help gathering an aetherine crystal for their studies.
+###318
+KO|만약 적이 문서를 잘 보관한다면? ⏎힘으로 빼앗는 것도 방법이다.
+EN|Intercepting Kharon messages is the best way to learn more about how the organization functions.
+###319
+KO|맹독 성분을 뿌리며 돌아다니고 있는 $npcName:25020005$때문에 대원들의 건강이 위협받고 있다고 한다. 녀석들을 퇴치하여 대원들을 지켜내자.
+EN|Research in the $map:02020029$ has been slowed by the $npcNamePlural:25020005$ making the scientists there sick. Clear them out, for the sake of scien
+###320
+KO|먼 곳에서 고생하는 동료들이 편하게 크리티아스를 탐사할 수 있게 게오르크의 의뢰를 수행하자.
+EN|Help Humanitas take a nearby Tairen base to liberate the much-needed supplies inside.
+###321
+KO|메이플 월드에서 보던 나무들과 비슷한 식물들이 있고, 열매도 보인다. 과연 메이플 월드와 얼마나 유사할까?
+EN|You've discovered plants in Kritias that seem similar to ones found in Maple World. This warrants further investigation.
+###322
+KO|메이플 월드와 크리티아스의 유사성을 확인하기 위해 $map:02020001$ 이동해 $item:61000159$ 포획해 오자.
+EN|Go to $map:02020001$ and capture a $item:61000159$.
+###323
+KO|모든 준비가 끝났다. $map:02020200$ 가서 $npcName:23000301$ 무찌르자.
+EN|Go to $map:02020200$ and defeat $npcName:23000301$.
+###324
+KO|모든 준비는 끝났다. $npcName:23000073$ 처치하기 위한 마음의 준비를 하자.
+EN|With his totems destroyed, $npcName:23000073$ is weakened. Now is the time to strike!
+###325
+KO|몬스터들이 게오르크의 거점인 $map:02020030$ 기습했다고 한다. 녀석들을 제압해서 $map:02020030$ 지켜내야 한다.
+EN|$map:02020030$ is surrounded by monsters. Come to Humanitas's aid.
+###326
+KO|무언가를 보고 전력질주 사람들이 발견되는 $map:02020032$. 도대체 어떤 것을 보고 달려가는 것인지 $map:02020032$ 이동해서 직접 확인해보자.
+EN|Adventurers have been spotted running at full speed around the $map:02020032$. What could they possibly be running for?
+###327
+KO|무장단체 케르베스가 추방자들을 잡아들여 노동력으로 삼는다고 한다. $map:02020010$의 $npcName:25020602$ 제압하자.
+EN|Kharon forces have been kidnapping exiles to use for labor! Head out to $map:02020010$, fight off the $npcNamePlural:25020602$, and help as many peopl
+###328
+KO|바닥을 구르는 $npcName:25021402$ 내버려 두면, $map:02020014$ 곳곳이 구멍투성이가 될 것이다.
+EN|If the $npcNamePlural:25021402$ are left unchecked in the $map:02020014$ much longer, there won't be anything left of the beautiful refuge.
+###329
+KO|바베니로 연결되는 주요 거점인 $map:02020004$ 타이렌 왕국 기계 병사들이 점령하고 있다. 연구 캠프를 설치하기 위해 위험요소 제거를 위해 이들을 소탕해야 한다.
+EN|$map:02020004$ is a key location that connects to $map:02020041$ is constantly under attack. Clear out enemies to give the researchers there a break.
+###330
+KO|반겐하임의 일기장이 모두 번역될 때까지 기다리자.
+EN|Wait for Nairin to finish translating $npcName:11004431$'s journal.
+###331
+KO|밤낮없이 노력하는 스카이 포트리스의 연구진들. 이번에는 가설 증명을 위해 $map:02020034$의 $item:61000161$ 포획해야 한다.
+EN|The researchers of Sky Fortress need yet another monster to prove their new hypothesis. This time they need a $item:61000161$ from $map:02020034$.
+###332
+KO|본격적인 크리티아스 탐사 시작. 우선은 식생을 살펴보자.
+EN|The Green Hoods have begun exploring Kritias. Assist them by collecting samples of local flora.
+###333
+KO|빛의 신이시여, 비극으로 끝난 이 그리폰의 운명을 거두어⏎남은 빛을 구하고, 그를 안식으로 인도하소서.
+EN|O God of Light, take the fate of this griffon, ended in tragedy,⏎save the remaining light, and guide it to rest.
+###334
+KO|빛의 신이시여, 이 바다의 신수를 당신 곁으로 보내어⏎이 땅과 바다의 평화를 되찾겠나이다…
+EN|O God of Light, take this divine turtle of the sea to your side,⏎so that peace may be restored to this land and ocean…
+###335
+KO|새로운 곳에서 만난 질긴 인연. 이번에는 그 인연을 끊을 수 있을까?
+EN|The time has come to confront an old foe. Will you finally be able to end this battle once and for all?
+###336
+KO|새로운 곳의 힘이라면 불멸자에게 안식을 줄 수 있을지도 모른다.
+EN|Harness the power of a new land to put an end to an immortal threat.
+###337
+KO|새로운 몬스터의 포획을 부탁하는 $npcName:11004312$. $map:02020037$의 $item:61000169$ 포획하여 연구를 도와야 한다.
+EN|Help the research team by capturing a $item:61000169$ in $map:02020037$.
+###338
+KO|새로운 지역 몬스터들의 패턴 파악. 그들에게서 특이점을 발견해야 한다.
+EN|Study the hunting patterns and capabilities of the monsters in the new regions.
+###339
+KO|새로운 탐사를 방해하는 몬스터들.⏎그들에게 우리의 힘을 보여주자.
+EN|Monsters are interfering with Sky Fortress's exploration of Kritias.
+###340
+KO|생물과 기계 몬스터 중에는 색깔이 다른 돌연변이들이 유난히 더 공격적이라고 한다. 이들을 제압하여 대원들이 다치는 일이 없도록 해야 한다.
+EN|Some of the more colorful creatures in Kritias are more aggressive than the rest, and they're proving to be a threat to the researchers' safety. They 
+###341
+KO|스카이 포트리스 대원을 괴롭히는 $npcName:25021602$.⏎그들을 응징해야 한다.
+EN|The $npcNamePlural:25021602$ are decimating Sky Fortress troops. Put them out of commission.
+###342
+KO|스카이 포트리스, 지상군 지원 장비 테스트 임무 발령.⏎항목 : 네이쳐스 콜 # 그린후드 치유 효모 발생 장치 
+EN|Sky Fortress ground support equipment test mission issued.⏎Item: Nature's Call # Green Hood Healing Enzyme Generator 
+###343
+KO|스카이 포트리스로 복귀하며, 대응책을 논의하도록 하자.
+EN|Return to $map:02020041$ and discuss your options
+###344
+KO|스카이 포트리스의 강하선 회수 작업에 투입된 대원들이 $npcName:25020004$의 공격을 받고 있다고 한다. $map:02020029$으로 가서 회수 작업을 돕자.
+EN|Sky Fortress agents are trying to retrieve a downed dropship, but monsters keep blocking their path. Defeat $npcNamePlural:25020004$ in $map:02020029$
+###345
+KO|스카이 포트리스의 정기 대원 평가를 시행합니다.⏎테스트 주제 : 메이플 연합
+EN|Sky Fortress's crew goes through regular testing to ensure they're fit for duty. Show everyone you've still got what it takes!
+###346
+KO|스카이 포트리스의 정비를 위해, $map:02020051$의 $npcName:25021105$ 처치하고 부품을 수집하자.
+EN|If we're going to get the Sky Fortress ship-shape again, get us parts from $npcNamePlural:25021105$ in $map:02020051$.
+###347
+KO|스카이 포트리스의 조사를 방해하는 자들은 모조리 처치해야 한다.
+EN|Defeat soldiers around $map:02020018$ to make studying the area safer for the Sky Fortress scouts.
+###348
+KO|심화 단계로 들어간 에네르 연구의 진척을 위해 $map:02020009$, $map:02020008$, $map:02020018$의 에네르를 확보하자.
+EN|The researchers still need aetherine from a specific region, so get it from $map:02020009$, $map:02020008$, and $map:02020018$.
+###349
+KO|아군 병력이 타이렌 왕국 본토로 들어가는 관문인 $map:02020037$까지 진출했다. 타이렌 왕국으로 진격하기 위해서는 먼저 $npcName:25022103$ 제압해야 한다.
+EN|The Alliance has reached $map:02020037$, the gateway to Tairen's territory. Deal with the $npcNamePlural:25022103$ who defend it to secure entry.
+###350
+KO|아군 병력이 타이렌 왕국 본토로 들어가는 관문인 $map:02020037$까지 진출했다. 타이렌 왕국으로 진격하기 위해서는 먼저 타이렌 병력과 검은군단 병사들을 제압해야 한다.
+EN|Allied forces have advanced to $map:02020037$, the gateway to the Tairen mainland. All Tairen forces and Daemon Army soldiers holding $map:02020037$ m
+###351
+KO|아주 즐겁게 지낸 것 같다. 에네르 결정을 가지고 $npcName:11004315$에게 가보도록 하자.
+EN|Return to $npcName:11004315$ with the Aetherine Crystal.
+###352
+KO|암흑의 형제들이 힘을 모아 세계를 위협한다면,⏎이쪽도 그만한 힘을 보여주는 수밖에 없을 것이다.
+EN|If the brothers of darkness unite their power to threaten the world,⏎we have no choice but to show equal force in return.
+###353
+KO|야밤에 실수로 확보했던 몬스터를 풀어주고 말았다고 한다. $map:02020009$의 $item:61000163$ 빠르게 다시 포획해 오도록 하자.
+EN|One of the researchers accidentally let one of their monster specimens escape. Capture a replacement $item:61000163$ in $map:02020009$.
+###354
+KO|어느덧 막바지에 이른 연구. 아직 데이터가 충분하지 않은 $map:02020018$의 $item:61000166$ 포획하여 연구를 도와야 한다.
+EN|There is still a little more work to be done in the research on Kritias's monsters. Capture a $item:61000166$ in $map:02020018$ for the research team.
+###355
+KO|어둠의 가면을 쓰고 세상을 등지려는 악한 마음이여,⏎그대를 위한 구원의 손길을 지금 보내겠노라. 
+EN|O evil heart that dons the mask of darkness and turns away from the world,⏎I shall now extend the hand of salvation to you. 
+###356
+KO|어둠의 군단에 소속된 검은 전사여,⏎곧 네 존재를 빛의 세계에서 배제할지니…
+EN|O dark warrior of the Army of Darkness,⏎soon your existence shall be banished from the world of light…
+###357
+KO|엄청난 전투력을 가진 $npcName:25021304$의 비밀 파헤치기 위해, 그들을 처치하고 모자의 비밀을 알아내자.
+EN|$npcNamePlural:25021304$ claim that the source of their power is... their hats!
+###358
+KO|여전히 어둠의 힘으로 주변의 식생을 침식 치키고 있는 $npcName:23000301$. 그의 처치가 시급해 보인다.
+EN|$npcName:23000301$ is still spreading their dark influence. They must be defeated.
+###359
+KO|연구원들의 말이 사실인지 $map:02020051$의 $npcName:25021101$, $map:02020017$의 $npcName:25021204$, $map:02020003$의 $npcName:25021501$ 확인해보자.
+EN|Conduct research on $npcNamePlural:25021101$ in $map:02020051$, $npcNamePlural:25021204$ in $map:02020017$, and $npcNamePlural:25021501$ in $map:02020
+###360
+KO|연구팀에서는 $npcName:23001006$의 AI 패턴을 분석하여 해킹한 후 취약점을 찾아내고 있다고 한다. 연구의 진전을 위해 $npcName:23001006$의 전투데이터를 수집해야 한다.
+EN|The research team is analyzing and hacking $npcName:23001006$'s AI patterns to find vulnerabilities. Combat data from $npcName:23001006$ must be colle
+###361
+KO|연습은 이제 끝! 실전만이 남았다. $npcName:23090006$ 해치우자,
+EN|Play time is over! It's time to truly crush $npcName:23090006$!
+###362
+KO|영역 다툼을 벌이는 몬스터들을 처치하여 안전하게 탐사활동을 할 수 있도록 도와야 한다.
+EN|Clear out a series of pests so that Alliance scouts can explore Kritias safely.
+###363
+KO|영혼을 위한 구원의 기회는 영원하다.⏎하지만 어둠을 품은 병기에 공평한 심판은 없다.
+EN|The opportunity for salvation of the soul is eternal.⏎But there is no fair judgment for weapons that harbor darkness.
+###364
+KO|왠지 기운이 없어 보이는 함장님.⏎함장님의 마음을 움직일 수 있는 것은 귀엽고 온순한 몬스터 뿐이다.
+EN|The captain looks a bit down. Maybe a cute research subject will cheer her up! One of those $itemPlural:61000169$ in $map:02020037$ maybe?
+###365
+KO|우연한 기회에 확보한 타이렌 왕국의 신호. 해당 신호를 역추적해, 타이렌 왕국의 통신 코드를 확보하자.
+EN|The huge drill in $map:02020009$ appears to be remotely operated by Tairen. Hack into its software and acquire their access code.
+###366
+KO|위태로운 동맹을 위기에서 구하기 위해 움직여야 한다.
+EN|Defend Humanitas from the Tairen attack on $map:02020033$
+###367
+KO|유적의 자세한 조사를 위해 $map:52100106$ 진입하자.
+EN|Enter $map:52100106$ to investigate the structure's interior
+###368
+KO|이곳에서 할 일은 모두 마친듯 하니 $map:02020041$ 귀환하자.
+EN|Return to $map:02020041$.
+###369
+KO|이번엔 크리티아스의 유적 탐사를 시작해보자.⏎이번 탐사에선 어떤 것을 발견할 수 있을까?
+EN|Some of Kritias's oldest structures bear a striking resemblance to ancient ruins found on Victoria Island. This warrants investigation.
+###370
+KO|자료가 부족할 때 필요한 것은? ⏎바로 두 발과 열정이다.
+EN|Veliche has a special mission with your name written on it.
+###371
+KO|자연이 파괴 되고 있는 $map:02020014$로 가서, $npcName:25021407$ 처치하고 자연을 지켜내자.
+EN|Many of the habitats in the $map:02020014$ have been destroyed by $npcNamePlural:25021407$.
+###372
+KO|장난기 많은 $npcName:25020504$ 탐사 장비를 자꾸 훔쳐 탐사가 지연되고 있다고 한다. 녀석을 제압해 탐사를 지속할 수 있도록 해야 한다.
+EN|The curious, mischievous $npcNamePlural:25020504$ are interfering with research. They need to be taught a lesson.
+###373
+KO|재채기로 고생하는 대원들의 건강을 위해 $map:02020014$의  처치하자.
+EN|Defeat $npcName:25021405$ in $map:02020014$ to end the spread of the disease.
+###374
+KO|저주받은 임무를 타고난 지옥의 파수꾼에게,⏎환생으로써 빛의 세계를 섬길 기회를 줘야 한다. 
+EN|The cursed guardian of hell, born to a doomed duty,⏎must be given the chance to serve the world of light through rebirth. 
+###375
+KO|적의 지휘관이 등장했다. 온 힘을 다하여 $npcName:25020405$ 물리치자.
+EN|An enemy commander has arrived. Crush them, and secure the area for Humanitas.
+###376
+KO|적진에 잠입한 것을 들켜버렸을 때, 목격자를 모두 없애면 무사히 빠져나올 수 있다.
+EN|You defeated a group of Tairen mechanized soldiers in your efforts to capture the enemy's supplies, but they are regrouping. Deal with the enemy reinf
+###377
+KO|전략적 요충지 $map:02020041$에 영향을 줄 수 있는 주변 지역을 제압해야 한다.
+EN|The $map:02020010$, $map:02020034$, and $map:02020032$ all hold positions of strategic significance to $map:02020041$.
+###378
+KO|정찰 대원들이 $map:02020035$과 $map:02020037$에서 기계 병사들에게 공격받고 있다고 한다. 피해가 더 커지기 전에 적들을 제압하자.
+EN|The monsters in $map:02020035$ and $map:02020037$ are suddenly attacking Sky Fortress agents.
+###379
+KO|정확한 데이터만이 올바른 길로 인도해 줄 수 있다. 감지기를 오작동시키는 몬스터들을 해치우자.
+EN|The aetherine signatures of nearby foes are interfering with your search for Infernog. Eliminate the source of the problem.
+###380
+KO|조사를 방해하는 $map:02020004$의 $npcName:25020405$, $map:02020001$의 $npcName:25020502$, $map:02020006$의 $npcName:25020303$ 해치워 $npcName:11004315$ 도와야 한다.
+EN|Defeat $npcNamePlural:25020405$ in $map:02020004$, $npcNamePlural:25020502$ in $map:02020001$, and $npcNamePlural:25020303$ in $map:02020006$ to prote
+###381
+KO|조사원들이 광석 샘플을 수월하게 채취할 수 있도록 $npcName:25020505$ 처치하자.
+EN|The $npcNamePlural:25020505$ of $map:02020001$ have what looks like aetherine growing from their backs.
+###382
+KO|죽지 않는 존재, $npcName:23000150$. 과연 정말 그가 크리티아스에 있는 것인지 확인해야 한다.
+EN|Has $npcName:23000150$ the immortal demon lord come to Kritias? You should probably find out.
+###383
+KO|증폭기를 설치하여 어둠의 힘을 제대로 찾아내자.
+EN|Set up the "Shadow Matter Detectors"
+###384
+KO|지금까지 있었던 일을 $npcName:11004316$에게 이야기해주기 위해, $map:02020041$로 이동하자.
+EN|Return to $map:02020041$ to tell $npcName:11004316$ everything that's happened.
+###385
+KO|지긋지긋한 검은군단과의 인연.⏎이젠 그 악연을 끊어야만 한다.
+EN|Daemon Army soldiers attacking $map:02020030$? Not on your watch!
+###386
+KO|지긋지긋한 소문과 맞서 싸워야만 동료를 지킬 수 있다.
+EN|You have to protect Sky Fortress troops from $npcName:23090006[gender:0]$'s ghost!
+###387
+KO|지속적인 교전을 멈추기 위해서는 적들의 수를 줄여야만 한다. ⏎전부를 줄일 수 없다면 작은 것에서부터 시작하자.
+EN|Drive as many $npcNamePlural:25021301$ as you can out of $map:02020033$ before Humanitas suffers further losses.
+###388
+KO|지시 혼선으로 위험지역에 파견된 신입 요원들을 위해, 주변의 강력한 몬스터들을 처치하여 그들을 보호해야 한다.
+EN|Protect some new recruits who have waded a little too far into the deep end.
+###389
+KO|지하 깊숙한 곳에 존재하는 통제실. 그곳에 있는 메인 제어기기를 장악하자.
+EN|Break into the underground control room and redirect the facility's primary controls to Humanitas.
+###390
+KO|직접 $map:02020017$ 뒤쪽에 가서 그곳이 안전한지 확인하고, 새끼 놀라쥬를 조사해야 한다.
+EN|Go to the north of the $map:02020017$ and examine baby wasplings.
+###391
+KO|진정한 스카이 포트리스 대원이라면 체력 관리는 필수! 열심히 일했으니 휴식을 취하면서 컨디션을 조절하자.
+EN|You defeated the mechanized Tairen soldiers and the commander stationed in $map:02020041$. Now it's time to report in.
+###392
+KO|첩보에 의하면 $npcName:25020604$ $item:30001249$ 가지고 있다고 한다. 녀석을 제압한 후 $item:30001249$ 입수하자.
+EN|$npcName:11004315$ has a lead on some Tairen technology.
+###393
+KO|총 기술을 알아두면 전투력이 낮은 탐사 대원들도 몸을 지킬 수 있을 거라는 $npcName:11004312$. 직접 전투하면서 그들의 전투 패턴을 파악해야 한다.
+EN|Study how the enemy uses their guns to better prepare the crew of Sky Fortress for field engagements.
+###394
+KO|총을 사용하는 $map:02020051$의 $npcName:25021103$, $map:02020014$의 $npcName:25021407$의 전투 데이터를 모아 $npcName:11004316$에게 전달해야 한다.
+EN|Swords are better than guns. Also, defeat $npcNamePlural:25021103$ in $map:02020051$ and $npcNamePlural:25021407$ in $map:02020014$.
+###395
+KO|최근 일반 몬스터보다 강력한 몬스터들이 나타나 조사 작업을 방해한다는 보고가 심심치 않게 오고 있다고 한다. 그들을 처치하여 조사 작업에 차질이 없도록 해야 한다.
+EN|Heavily armored enemies have been spotted. Defeat these enemies before they interfere with research and scouting operations.
+###396
+KO|최근에 병사들 사이에서 이상한 소문이 돌고 있다. 무슨 소문인지 들어보자.
+EN|A troublesome rumor is circulating among Sky Fortress's crew. This warrants an investigation.
+###397
+KO|케르베스 병력이 $map:02020016$의 유적들을 약탈하고 있다고 한다. $npcName:25021003$ 제압해 유적을 보호해야 한다.
+EN|The Kharon are plundering the ruins of $map:02020016$. Go to $map:02020016$ and defeat $npcNamePlural:25021003$ before any more antiquities are lost.
+###398
+KO|케르베스가 $map:02020010$까지 세력을 확장했다고 한다. ⏎$npcName:25020603$ 처치해 더 이상 세력이 커지는 것을 막아야 한다.
+EN|Kharon has taken control of $map:02020010$. Defeat $npcNamePlural:25020603$ before they become a threat to Sky Fortress.
+###399
+KO|케르베스가 약탈해간 게오르크 물자를 원래 주인에게 돌려주자.
+EN|Kharon's incursion into $map:02020001$ has interrupted a vital Humanitas mining operation. Assist Humanitas by recovering the unusual green ore that's
+###400
+KO|케르베스를 따르는 것으로 보이는 $npcName:25021606$.⏎과연 이것이 사실인지 확인하고, 그들의 숫자를 줄여야 한다.
+EN|Investigate whether the $npcNamePlural:25021606$ in the $map:02020009$ are taking orders from Kharon and destroy as many as you can.
+###401
+KO|케르베스와 타이렌 왕국. 그 둘의 관계를 끊어야만 사람들에게 평화를 줄 수 있다.
+EN|Tairen provides supplies to Kharon to aid them in their fight with Humanitas. It's time to fight back against this evil alliance.
+###402
+KO|크리티아스 깊은 곳으로 이동하기 위해서, 우리의 앞길을 막는 자들을 모두 처치해야 한다.
+EN|Obstacles remain which inhibit the further exploration of Kritias. It's up to you to deal with them.
+###403
+KO|크리티아스 내, 모든 문명의 에너지원인 에네르. 루미나이츠의 연구를 위해 $map:02020031$의 에네르를 채취하자.
+EN|Aetherine appears to have been used by every civilization in Kritias. Even the mages of Tairen use it in their spells. To research this miraculous sub
+###404
+KO|크리티아스 본토로 들어갈 수 있는 관문, $map:02020037$.⏎타이렌 왕국 병사들의 방해를 물리치며 진입방법을 찾아보자.
+EN|Defeat $npcNamePlural:25022101$ in $map:02020037$ and find another path into Kritias.
+###405
+KO|크리티아스 전역에 흑화된 몬스터가 출몰한다는 보고가 끊이지 않고 있다는데… 스카이 포트리스를 도와 흑화된 몬스터를 처치해야 한다.
+EN|The enemy forces seem to have no end. It's only a matter of time before Sky Fortress is overwhelmed.
+###406
+KO|크리티아스로 이주한 메이플 월드의 사람들. 반가운 얼굴들을 만나보자.
+EN|It seems a number of familiar faces are visiting Kritias. Go and say hello.
+###407
+KO|크리티아스를 파악하기 위한 온순한 몬스터 포획. ⏎다른 의도가 있어 보이는 것은 착각일까?
+EN|For once, you've been assigned a pleasant task in Kritias. Go get those $itemPlural:61000167$!
+###408
+KO|크리티아스에서 들려오는 $npcName:23090006$의 이야기. 그의 목적을 알아내자.
+EN|What is $npcName:23090006$ doing in Kritias? It's up to you to find out.
+###409
+KO|크리티아스에서 만나는 반가운 얼굴들. 이번에는 티격태격 단짝을 만날 차례이다.
+EN|After catching up with a number of old friends, Lanemone and Orde ask you about a special request. See what they have to say.
+###410
+KO|크리티아스의 다른 몬스터들과 달리, $item:30001303$ 힘을 얻는 모랑들. $item:30001303$ 확보하여 어떻게 힘을 사용하는지 확인해야 한다.
+EN|Leshies get power from the $itemPlural:30001303$ around their necks. Collect some for research.
+###411
+KO|크리티아스의 심층부에 들어가기 위해서 반드시 거쳐야 하는 지역이 있다. ⏎이 곳의 몬스터들을 처치하여 계획에 차질이 없도록 해야 한다.
+EN|Tairen is holding several key routes through Kritias. Defeat them to secure the routes.
+###412
+KO|타이렌 왕국 병력이 대원들의 탐사 자료들을 빼앗아 갔다고 한다. $map:02020004$로 가서 녀석들을 제압한 후 자료를 되찾아 오자.
+EN|A scouting team was ambushed by Tairen forces in $map:02020004$ and had their data stolen.
+###413
+KO|타이렌 왕국 병사들이 $map:02020030$ 기습했다고 한다. $map:02020030$ 가서 $npcName:25020101$ 제압하여 게오르크를 도와주어야 한다.
+EN|The Tairen Kingdom is in the midst of delivering a surprise attack on $map:02020030$. Go there and assist Humanitas by defeating $npcNamePlural:250201
+###414
+KO|타이렌 왕국 병사들이 $map:02020030$ 기습했다는데… 동맹 게오르크를 지원하기 위해 신속히 움직여야 한다.
+EN|The Tairen soldiers are attacking $map:02020030$. Move swiftly to aid Humanitas.
+###415
+KO|타이렌 왕국과 케르베스 사이에서 고전하는 게오르크. 그들을 도울 방법은 오직 하나 뿐이다.
+EN|Humanitas is struggling to wage a battle on multiple fronts. Assist them by reducing Kharon's numbers.
+###416
+KO|타이렌 왕국과 케르베스의 비인간적인 행위, 이것을 그대로 두고 볼 수 없다.
+EN|Destroy the supply crates Tairen has prepared for Kharon.
+###417
+KO|타이렌 왕국은 $npcName:25021804$ 통해 군사 기밀 문서를 전달하고 있다고 한다. 녀석을 제압한 후 $item:30001254$ 확보하자.
+EN|The Tairen Kingdom is delivering a secret military document via $npcName:25021804$. Take them down and recover the $item:30001254$.
+###418
+KO|타이렌 왕국의 $npcName:25021307$ 게오르크의 거점인 $map:02020033$ 공격하고 있다고 한다. 녀석들을 제압해서 그린 후드가 설치한 연구시설을 지켜내자.
+EN|The $npcNamePlural:25021307$ of Tairen are attacking the Humanitas base, $map:02020033$.
+###419
+KO|타이렌 왕국의 물자저장고가 있는 $map:02020004$. 그곳을 지키는 타이렌 병사들을 물리치자.
+EN|Capture the Tairen warehouse in $map:02020004$ by defeating the mechanized soldiers guarding the area.
+###420
+KO|타이렌 왕국의 터렛들이 $map:02020030$ 주변을 맴돌면서 무차별 공격을 가하고 있다. $map:02020030$ 가서 $npcName:25020102$를 제압하자.
+EN|The Tairen Kingdom's machines continue to harass $map:02020030$. Go to $map:02020030$ and reduce the $npcNamePlural:25020102$'s numbers.
+###421
+KO|타이렌 왕국이 에네르를 공급하기 위해 건설한 $map:02020034$. 이 시설을 확보하려면 먼저 이곳을 지키는 기계 병사들을 제압해야 한다.
+EN|Weaken Tairen's defenses around the $map:02020034$ by destroying $npcNamePlural:25020802$, so Humanitas can take control of the facility.
+###422
+KO|탐사 대원들의 생태조사가 $map:02020034$와 $map:02020013$에서 멈춰있다고 한다.⏎탐사가 재개될 수 있도록 $npcName:25020804$와 $npcName:25020904$ 처치하자.
+EN|Ecological research in $map:02020034$ and $map:02020013$ has come to a stop due to monster attacks.
+###423
+KO|탐사 대원들이 $map:02020003$에서 낯선 멜로디가 흘러나오는 곳을 발견했다고 한다. 그곳으로 가서 멜로디의 정체와 패턴을 파악해 보자.
+EN|The expedition members discovered the source of the unfamiliar melody in $map:02020003$. Go there and learn the melody.
+###424
+KO|탐사 요원의 보고에 의하면 흑화된 몬스터들이 계속 출몰하고 있다고 한다.⏎이미 흑화한 몬스터와, 흑화의 여지가 보이는 몬스터들은 신속히 제거해야 한다.
+EN|Evil is spreading through the land. Defeat the monsters that are most affected.
+###425
+KO|통신신호의 목표지점을 확인했다고 하는 $npcName:11004315$의 말을 따라, 목표의 도착점으로 이동하여 그 정체를 파악하자.
+EN|The dark signal is on the move, but $npcName:11004315$ has mapped out its trajectory. Intercept its source!
+###426
+KO|특이한 생명체에 대한 연구를 시작하게 된 스카이 포트리스. $map:02020051$의 $item:61000164$ 확보하여 연구를 도와야 한다.
+EN|Sky Fortress is researching unique monsters. Help the research by capturing $itemPlural:61000164$ in $map:02020051$.
+###427
+KO|평화로운 전사들의 땅에, 어둠을 유희 삼아 바야르들을⏎조종하는 자가 있다. 그자와 바야르의 연결을 끊어야 한다.
+EN|In the peaceful land of warriors, there is one who toys with darkness⏎to manipulate the Bayars. The connection must be severed.
+###428
+KO|항상 같이 다니는 $npcName:11004324$ $npcName:11004323$. 크리티아스에서도 함께이다.
+EN|It seems like $npcName:11004324$ and $npcName:11004323$ never go anywhere unless they're together—even to the wild unknown of Kritias!
+###429
+KO|화려하고 반짝이는 것에 현혹된 어둠의 마물, 둔둔이여.⏎기사단의 심판을 받들어, 세계로부터의 추방을 명한다.
+EN|O Dundun, creature of darkness seduced by flashy, shiny things.⏎By the judgment of the Knights, banishment from this world is decreed.

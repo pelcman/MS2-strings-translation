@@ -1,0 +1,501 @@
+###1
+KO|"$dungeonTitle:21023001$" 던전의 $map:02000390$에서 $npc:24003002$ 만나기
+EN|Talk to $npcName:24003002$ in $map:02000390$ at $dungeonTitle:21023001$
+###2
+KO|$dungeonTitle:25001001$에서 $npc:11001117$ 대화하기
+EN|Speak with $npc:11001117$ in $dungeonTitle:25001001$
+###3
+KO|$dungeonTitle:25004001$ 던전 끝에서 $npc:11001887$ 대화하기
+EN|Speak with $npc:11001887$ at the end of the $dungeonTitle:25004001$ dungeon
+###4
+KO|$map:02000001$ $map:02000188$에 있는 $npcName:11000042$에게 $npcName:11000031$의 지령 전달하기
+EN|Relay the command of $npcName:11000031$ to $npcName:11000042$ at $map:02000001$ $map:02000188$
+###5
+KO|$map:02000001$ $map:52000189$ 최하층에 있는 $npc:11004792$ 찾아가기
+EN|Find $npc:11004792$ on the lowest floor of $map:52000189$ in $map:02000001$
+###6
+KO|$map:02000001$ 동쪽에 있는 $map:52000041$에서 사형들 만나기
+EN|Meet the senior disciples in $map:52000041$ east of $map:02000001$
+###7
+KO|$map:02000001$ 북쪽, 왕궁 입구 위층에 있는 $map:52000033$에서 $npc:11000075$ 대화하기
+EN|Talk to $npcName:11000075$ in $map:52000033$, above the $map:02000025$ entrance&#160;
+###8
+KO|$map:02000001$에 있는 $npc:11000327$에게 $npc:11000929$의 원고 보여주기
+EN|Show $npc:11000929$'s manuscript to $npc:11000327$ in $map:02000001$
+###9
+KO|$map:02000001$에서 $npc:11000003$를 만나 정보 탐문하기
+EN|Meet $npc:11000003$ in $map:02000001$ and inquire for information
+###10
+KO|$map:02000001$에서 $npc:11000003$를 만나 타이그 퓨리안을 아는지 물어보기
+EN|Ask $npc:11000003$ in $map:02000001$ if they know Taig Furian
+###11
+KO|$map:02000001$에서 $npc:11000003$를 찾아 대화하기
+EN|Find and speak with $npc:11000003$ in $map:02000001$
+###12
+KO|$map:02000001$에서 $npc:11000119$에게 사건 보고하기
+EN|Report the incident to $npc:11000119$ in $map:02000001$
+###13
+KO|$map:02000001$에서 $npc:11000119$에게 습격 사건 보고하기
+EN|Report the attack incident to $npc:11000119$ in $map:02000001$
+###14
+KO|$map:02000001$에서 알현식 취소 이유 알아보기
+EN|Find out the reason the audience was canceled in $map:02000001$
+###15
+KO|$map:02000001$의 $map:52000087$ 돌아가 $npc:11001969$ 여제에게 여태까지 있었던 일 보고하기
+EN|Report to Empress $npcName:11001969$ at $map:52000087$ in $map:02000001$
+###16
+KO|$map:02000008$에서 카오스 타임 센터 파견 연구원 찾기
+EN|Find the Chaos Time Center's researcher at $map:02000008$
+###17
+KO|$map:02000017$ 동쪽 벚꽃 수풀 지대에서 울음소리 정체 파악하기
+EN|Investigate the cries coming from $map:02000017$'s eastern cherry blossom regions
+###18
+KO|$map:02000023$에서 $npc:11000031$ 만나 도움을 청하기
+EN|Meet $npc:11000031$ in $map:02000023$ and ask for their help
+###19
+KO|$map:02000023$의 잡화상점 상인 $npcName:11000029$ 만나기
+EN|Meet general store merchant $npcName:11000029$ in $map:02000023$
+###20
+KO|$map:02000025$ 돌아가 $npc:11000601$ 만나기
+EN|Return to $map:02000025$ and meet $npc:11000601$
+###21
+KO|$map:02000025$에서 여제 만나기
+EN|Meet the Empress in $map:02000025$
+###22
+KO|$map:02000042$에 있는 $npc:11000980$에게 $item:30000311$ $item:30000312$ 가져다주기
+EN|Bring $item:30000311$ and $item:30000312$ to $npc:11000980$ at $map:02000042$
+###23
+KO|$map:02000051$ 가서 상황 파악하기
+EN|Go to $map:02000051$ and discover what happened
+###24
+KO|$map:02000051$ 가서 야마르차의 뜻 알아보기
+EN|Go to $map:02000051$ and find out what Yamarcha means
+###25
+KO|$map:02000062$ 북서쪽에서 $map:63000041$ 입구를 지키고 있는 $npc:11000024$ 대화하기
+EN|Speak with $npc:11000024$ guarding the $map:63000041$ entrance northwest of $map:02000062$
+###26
+KO|$map:02000063$ 가서 $map:02000067$ 방향 물가에 있는 $map:52000025$ 내부 상황 파악하기
+EN|Go to $map:02000063$ and figure out the situation inside $map:52000025$, which is located by the water in the direction of $map:02000067$
+###27
+KO|$map:02000063$ 가서 $map:02000067$ 방향 물가에 있는 $map:52000025$ 안에 있는 해적들에게 피해를 입은 사람들 도와주기
+EN|Go to $map:02000063$ and help the people suffering from the pirates inside $map:52000025$ by the water in the $map:02000067$.
+###28
+KO|$map:02000063$ 외곽 동굴 쪽에 있는 해적 본거지 찾아가기
+EN|Find the pirate base near the cave on the outskirts of $map:02000063$
+###29
+KO|$map:02000064$ 로얄 로드 125번지 찾기
+EN|Find 125 Royal Road in $map:02000064$
+###30
+KO|$map:02000064$의 $npc:11000172$에게 $item:30000019$ 돌려주기
+EN|Return $item:30000019$ to $npc:11000172$ in $map:02000064$
+###31
+KO|$map:02000066$에 열린 길을 따라 $map:02000179$ 들어가서 $npcName:11000032$ 대화하기
+EN|Follow the open road at $map:02000066$, go inside $map:02000179$, and speak with $npcName:11000032$
+###32
+KO|$map:02000068$ 건물 안에 있는 $npc:11000019$ 만나기
+EN|Meet $npc:11000019$ inside the building at $map:02000068$
+###33
+KO|$map:02000076$의 $npc:11000178$에게 편지 전해주기
+EN|Deliver a letter to $npc:11000178$ in $map:02000076$
+###34
+KO|$map:02000083$ 북동 쪽 끝에 위치하고 있는 $map:02000141$ 입구를 찾아 들어가 $npc:11000173$ 만나기
+EN|Find and enter the entrance to $map:02000141$ at the northeast end of $map:02000083$, then meet $npc:11000173$
+###35
+KO|$map:02000083$의 $npc:11000101$에게 $npc:11000502$의 행방 묻기
+EN|Ask $npc:11000101$ of $map:02000083$ about $npc:11000502$'s whereabouts
+###36
+KO|$map:02000100$의 $map:02000153$ 가기
+EN|Go to $map:02000100$'s $map:02000153$
+###37
+KO|$map:02000101$에 위치한 $map:52000050$에서 $npcName:11001557$ 대화하기
+EN|Talk to $npcName:11001557$ in $map:52000050$, located in $map:02000101$
+###38
+KO|$map:02000101$에 위치한 $map:52000050$에서 $npcName:11001558$ 만나기
+EN|Meet $npcName:11001558$ at $map:52000050$ in $map:02000101$
+###39
+KO|$map:02000101$에 위치한 $map:52000050$에서 애니마르 에너지 살펴보기
+EN|Examine the Animar energy in $map:52000050$ in $map:02000101$
+###40
+KO|$map:02000101$에서 $npc:11001166$ 찾아 대화하기
+EN|Find and speak with $npc:11001166$ at $map:02000101$
+###41
+KO|$map:02000115$ 끊어진 땅에서 자경단원 만나기
+EN|Meet a vigilante at the broken land in $map:02000115$
+###42
+KO|$map:02000115$를 망원경으로 살펴보고 $npc:11000112$와 이야기하기 
+EN|Look through the telescope at $map:02000115$ and talk to $npc:11000112$ 
+###43
+KO|$map:02000117$ $map:02000238$에서 $npc:11000550$ 살펴보기
+EN|Look around $npc:11000550$ at $map:02000117$'s $map:02000238$
+###44
+KO|$map:02000117$에서 근위병들 찾기
+EN|Find the guards at $map:02000117$
+###45
+KO|$map:02000117$에서 왕실 짐꾼 찾기
+EN|Find the royal porter in $map:02000117$
+###46
+KO|$map:02000119$에 있는 $map:02000190$ 찾아가기
+EN|Go to $map:02000190$ at $map:02000119$
+###47
+KO|$map:02000136$의 $npc:11000222$에게 도시락 배달하기
+EN|Deliver a lunchbox to $npc:11000222$ in $map:02000136$
+###48
+KO|$map:02000137$에서 험플스 찾아보기
+EN|Search for Humples in $map:02000137$
+###49
+KO|$map:02000137$에서 험플스에 대해 더 알아보기
+EN|Learn more about Humples in $map:02000137$
+###50
+KO|$map:02000138$에서 $map:02000149$ 찾아가기
+EN|Head to $map:02000149$ from $map:02000138$
+###51
+KO|$map:02000138$에서 상황 파악하기
+EN|Assess the Situation at $map:02000138$
+###52
+KO|$map:02000138$에서 흑성회 본거지 수소문하기
+EN|Ask around for the Black Star hideout in $map:02000138$
+###53
+KO|$map:02000138$의 $map:02000193$에서 $npc:11000502$ 찾기
+EN|Find $npc:11000502$ at $map:02000193$ of $map:02000138$
+###54
+KO|$map:02000139$ 가서 바로타 상단 동태 살피기
+EN|Go to $map:02000139$ and observe the Balota merchant guild's movements
+###55
+KO|$map:02000139$에 있는 바로타 상단 본부 찾아가기
+EN|Find the Barota Trade Company Headquarters in $map:02000139$
+###56
+KO|$map:02000141$ 하수구에 숨어 있는 사람과 대화하기
+EN|Talk to the person hiding in the sewer of $map:02000141$
+###57
+KO|$map:02000141$에서 $item:30000016$ 빼앗아 간 범인의 행방 찾기
+EN|Find the culprit who stole the $item:30000016$ from $map:02000141$
+###58
+KO|$map:02000146$ 중심에 나타난 $npcName:11004795$ 대화하기
+EN|Talk to $npcName:11004795$, who appeared in the center of $map:02000146$
+###59
+KO|$map:02000146$에서 $map:02000237$ 찾아서 지원군에 합류하기
+EN|Find $map:02000237$ in $map:02000146$ and join the reinforcements
+###60
+KO|$map:02000146$에서 $npcName:11004811$ 다시 한 번 자세히 살펴보기
+EN|Take Another Close Look at $npcName:11004811$ in $map:02000146$
+###61
+KO|$map:02000147$ $map:02000205$ 찾아가기
+EN|Visit $map:02000205$ in $map:02000147$
+###62
+KO|$map:02000162$ 상단에 위치한 $npc:11000666$ 해킹하기
+EN|Hack $npc:11000666$, located in the upper region of $map:02000162$
+###63
+KO|$map:02000166$ 어딘가에 있는 $map:02000208$에서 $npcName:11000006$ 대화하기
+EN|Speak with $npcName:11000006$ at $map:02000208$ located somewhere in $map:02000166$
+###64
+KO|$map:02000182$의 $map:52000096$ 돌아와 $npc:11003082$ 만나기
+EN|Return to $map:52000096$ in $map:02000182$ and meet with $npcName:11003082$
+###65
+KO|$map:02000183$로 가서 $npc:23000006$의 흔적 찾기
+EN|Find $npc:23000006$'s tracks at $map:02000183$
+###66
+KO|$map:02000192$에서 인도자의 성지 입구 찾기
+EN|Find the entrance to the Guide's Sanctuary in $map:02000192$
+###67
+KO|$map:02000193$에 있는 $npc:11000502$에게 $item:30000016$ 돌려주기
+EN|Return $item:30000016$ to $npc:11000502$ of $map:02000193$
+###68
+KO|$map:02000196$에 안에 있는⏎$npc:11000960$ 대화하기
+EN|Speak with $npc:11000960$ in $map:02000196$
+###69
+KO|$map:02000203$의 $npcName:11000508$ 만나기
+EN|Meet $npcName:11000508$ in $map:02000203$
+###70
+KO|$map:02000215$에서 $map:02000019$ 찾아 들어가 $npc:11000282$ 만나기
+EN|Find and enter $map:02000019$ in $map:02000215$ to meet with $npc:11000282$
+###71
+KO|$map:02000220$에서 벨라의 영혼 찾기
+EN|Find Bella's soul in $map:02000220$
+###72
+KO|$map:02000257$에 있는 $npc:11001145$에게 $item:30000395$ 주기
+EN|Give $item:30000395$ to $npc:11001145$ at $map:02000257$
+###73
+KO|$map:02000257$에 있는 $npc:11001145$에게 알려주기
+EN|Tell $npc:11001145$ at $map:02000257$
+###74
+KO|$map:02000259$에서 $map:02000298$ 상황 파악하기
+EN|Analyze $map:02000298$'s situation at $map:02000259$
+###75
+KO|$map:02000261$에 있는 $map:52000080$ 가서 $npc:11000076$ 만나기
+EN|Talk to $npc:11000076$ at $map:52000080$ in $map:02000261$
+###76
+KO|$map:02000261$에 있는 $map:52000080$ 돌아가 $npc:11000076$에게 상황 보고하기
+EN|Return to $map:52000080$ in $map:02000261$ and report to $npc:11000076$
+###77
+KO|$map:02000286$의 $npc:11000270$ 만나보기
+EN|Meet $npc:11000270$ at $map:02000286$
+###78
+KO|$map:02000290$ 안 에서 $npcName:11000751$ 대화하기
+EN|Speak with $npcName:11000751$ inside $map:02000290$
+###79
+KO|$map:02000309$ 돌아가서 $npc:11001028$ 만나기
+EN|Return to $map:02000309$ and meet $npc:11001028$
+###80
+KO|$map:02000361$에 있는 $npcName:11001229$에게 다음 계획에 대해 들어보기
+EN|Ask $npcName:11001229$ in $map:02000361$ about the next plan
+###81
+KO|$map:02010002$ $map:02010059$에서 $npcName:11000075$ 여제 만나기
+EN|Meet Empress $npcName:11000075$ at $map:02010002$ $map:02010059$
+###82
+KO|$map:02010016$의 스페셜 부스에 있는 $npc:11001375$ 대화하기
+EN|Speak with $npc:11001375$ at the special booth in $map:02010016$
+###83
+KO|$map:02010028$에 있는 별당에서 $npcName:11001224$ 만나기
+EN|Meet $npcName:11001224$ at the annex in $map:02010028$
+###84
+KO|$map:02010029$ 간 용의 기사들 찾기
+EN|Find the dragon knights who have gone to $map:02010029$
+###85
+KO|$map:02010030$에 있는$npc:11001474$ 대화하기
+EN|Speak with $npc:11001474$ at $map:02010030$
+###86
+KO|$map:02010034$에 있는 $map:52010007$ 찾아가 $npc:11001478$ 만나기
+EN|Go find $map:52010007$ in $map:02010034$ and meet $npc:11001478$
+###87
+KO|$map:02010059$ $map:52010003$에서 여제 만나기
+EN|Meet the empress at $map:02010059$ $map:52010003$
+###88
+KO|$map:02010059$ $map:52010003$에서 여제와 대화하기
+EN|Speak with the empress at $map:02010059$ $map:52010003$
+###89
+KO|$map:02010063$에 있는 $map:02010005$ 둘러보기
+EN|Look around $map:02010005$ in $map:02010063$
+###90
+KO|$map:02010063$에서 $npc:11001443$ 만나 의논하기
+EN|Meet $npc:11001443$ in $map:02010063$ to discuss
+###91
+KO|$map:02010063$의 $npcFunction:11001271$ $npc:11001271$ 대화하기
+EN|Talk to $npcFunction:11001271$ $npc:11001271$ in $map:02010063$
+###92
+KO|$map:02020001$의⏎$npcName:11004337$ 살펴보기
+EN|Examine $npcName:11004337$ in $map:02020001$
+###93
+KO|$map:02020029$ 동쪽으로 이동하기
+EN|Explore the east end of the $map:02020029$
+###94
+KO|$map:02020031$로 가서 $npc:11004398$ 대화하기
+EN|Go to $map:02020031$ and speak with $npc:11004398$.
+###95
+KO|$map:03000135$에 있는 $npcName:11000909$ 살펴보기
+EN|Check on $npcName:11000909$ in $map:03000135$
+###96
+KO|$map:03000143$ 근처에서 $npc:11000841$ 찾기
+EN|Find $npc:11000841$ near $map:03000143$
+###97
+KO|$map:03000143$의 $map:3009017$ 찾아가기
+EN|Find $map:3009017$ of $map:03000143$
+###98
+KO|$map:2000001$의 $map:2000065$에서 $npcTitle:11000074$ 만나기
+EN|Meet $npcTitle:11000074$ at $map:2000065$ of $map:2000001$
+###99
+KO|$map:2000014$에 위치한 $map:52000019$ 진입하여 $npc:11001261$ 만나기
+EN|Enter $map:52000019$ located in $map:2000014$ and meet $npc:11001261$
+###100
+KO|$map:2000025$ 가서 $npcTitle:11000075$ 만나기
+EN|Go to $map:2000025$ and meet $npcTitle:11000075$
+###101
+KO|$map:2000031$ 가서 바즈의 지혜에 관한 정보 얻기
+EN|Go to $map:2000031$ and gather information about the Wisdom of Baz
+###102
+KO|$map:2000045$에서 $npc:11001195$ 찾아보기 
+EN|Find $npc:11001195$ at $map:2000045$ 
+###103
+KO|$map:2000062$에서 $npcName:11000994$에게 보마르 행방 물어보기
+EN|Ask $npcName:11000994$ at $map:2000062$ where Bomar is
+###104
+KO|$map:2000064$에 있는 $npcName:11001181$에게 보마르의 행방 묻기
+EN|Ask $npcName:11001181$ at $map:2000064$ where Bomar is
+###105
+KO|$map:2000064$의 $npcName:11001180$에게 보마르의 행방 묻기
+EN|Ask $map:2000064$'s $npcName:11001180$ where Bomar is
+###106
+KO|$map:2000139$에 위치한 $map:52000020$ 찾아가 정보 의뢰하기
+EN|Go to $map:52000020$ located in $map:2000139$ and request information
+###107
+KO|$map:2000146$에 있는 $map:2000228$에서 $npcName:11000064$ 만나기
+EN|Meet $npcName:11000064$ at $map:2000228$, which is in $map:2000146$
+###108
+KO|$map:2000183$에서 보마르의 행방 찾기
+EN|Find Bomar's location at $map:2000183$
+###109
+KO|$map:52000013$ 속에서 $npc:11001112$ 찾기
+EN|Find $npc:11001112$ inside $map:52000013$
+###110
+KO|$map:52000033$에서 $npc:11000075$ 대화해 새로운 힘, "특성" 개방하기
+EN|Talk to $npc:11000075$ in $map:52000033$ and unlock a new power, "Traits"
+###111
+KO|$map:52000033$에서 $npc:11000119$에게 말을 걸어 선물 받기
+EN|Talk to $npc:11000119$ in $map:52000033$ and receive a gift
+###112
+KO|$map:52000039$에 잠입해 끝까지 조사하기
+EN|Infiltrate $map:52000039$ and investigate thoroughly
+###113
+KO|$map:52000040$ $npc:11001732$ 출입 권한 다시 확인하기
+EN|Re-verify access authorization at $npc:11001732$ in $map:52000040$
+###114
+KO|$map:52000040$의 $npcName:11001759$ 살펴보기⏎
+EN|Examine $npcName:11001759$ in $map:52000040$⏎
+###115
+KO|$map:52010007$에서 빛의 후예로 각성한 $npcName:11000735$ 인사하기
+EN|Greet $npcName:11000735$, who was reborn as the Light's Descendant, at $map:52010007$
+###116
+KO|$map:52100104$로 가서  $npc:11004399$ 대화하기
+EN|Speak with $npc:11004399$ at $map:52100104$
+###117
+KO|$map:63000001$ 높은 곳에서 딱딱새의 흔적을 찾는 $npc:11001839$ 대화하기
+EN|Speak with $npc:11001839$ searching for Pecky Bird traces in a high place of $map:63000001$
+###118
+KO|$map:63000002$에서 뱃사공 $npc:11000016$ 만나기
+EN|Meet $npc:11000016$ the oarsman at $map:63000002$
+###119
+KO|$npc:11000021$에게 딱딱새에 대해 물어보기
+EN|Ask $npc:11000021$ about the Pecky Bird
+###120
+KO|$npc:11000052$에게 $item:30000598$ 가져다 주기
+EN|Bring $item:30000598$ to $npc:11000052$
+###121
+KO|$npc:11000075$에게 $npcName:11000031$의 지령 전달하기
+EN|Deliver $npcName:11000031$'s orders to $npc:11000075$
+###122
+KO|$npc:11000651$ 찾아가기
+EN|Go find $npc:11000651$
+###123
+KO|$npc:11001080$에게 $map:02010054$의 상황 보고하기
+EN|Report the situation at $map:02010054$ to $npc:11001080$
+###124
+KO|$npc:11001084$ $npcName:11001355$의 의견을 $npc:11001080$에게 전하기
+EN|Relay the opinions of $npc:11001084$ and $npcName:11001355$ to $npc:11001080$
+###125
+KO|$npc:11001246$ 스승님의 두 번째 가르침 경청하기
+EN|Listen to Master $npc:11001246$'s second teaching
+###126
+KO|$npc:11001246$ 스승님의 첫 번째 가르침 경청하기
+EN|Listen to Master $npc:11001246$'s first teaching
+###127
+KO|$npc:11001390$에게 $npcName:11001396$의 소식 묻기
+EN|Ask $npc:11001390$ about news of $npcName:11001396$
+###128
+KO|$npc:11001396$에게 $npc:11001392$의 말 전하기
+EN|Deliver $npc:11001392$'s message to $npc:11001396$
+###129
+KO|$npc:11001434$에게 $map:02010052$에 대해 물어보기
+EN|Ask $npc:11001434$ about $map:02010052$
+###130
+KO|$npc:11003082$가 숨어 살고 있는 $map:02000182$의 $map:52000096$ 찾아가기
+EN|Find $npcName:11003082$ in the $map:52000096$ at $map:02000182$
+###131
+KO|$npcName:11001080$에게 $map:02010054$의 상황 보고하기
+EN|Report the situation at $map:02010054$ to $npcName:11001080$
+###132
+KO|$npcName:11001391$에게 $item:30000521$ 전해주기
+EN|Deliver $item:30000521$ to $npcName:11001391$
+###133
+KO|$npcName:11001392$에게 아카모로의 비약 전해주기
+EN|Deliver the Elixir of Akamoro to $npcName:11001392$
+###134
+KO|$npcName:11001396$ 만나 욜의 도시락 전하기
+EN|Meet $npcName:11001396$ and deliver Yol's lunchbox
+###135
+KO|$npcName:11001396$에게 $npcName:11001392$의 소식 알리기
+EN|Tell $npcName:11001396$ about $npcName:11001392$'s situation
+###136
+KO|$npcName:11001396$에게 아카모로의 비약 전하기
+EN|Deliver the Elixir of Akamoro to $npcName:11001396$
+###137
+KO|$npcName:11004456$에 접근하기
+EN|Approach the $npcName:11004456$
+###138
+KO|$npcName:11004800$ 살펴보며 생각 정리해보기
+EN|Sort out your thoughts while examining $npcName:11004800$
+###139
+KO|M키를 눌러 $map:63000002$ 위치를 확인하고 찾아가기
+EN|Go to $map:63000002$ after checking the location by pressing the M key
+###140
+KO|TELI_B를 사용하여 집으로 돌아가기
+EN|
+###141
+KO|去$map:02020011$寻找$npc:11003653$
+EN|Find $npc:11003653$ in $map:02020011$
+###142
+KO|去$map:02020012$东北边寻找$npc:11003652$见过的情报贩子
+EN|Go to the northeast of $map:02020012$ to find the informant $npc:11003652$ met
+###143
+KO|去$map:02020012$的$map:52020002$和$npc:11003652$见面
+EN|Meet $npc:11003652$ in $map:52020002$ in $map:02020012$
+###144
+KO|去$map:02020014$调查关于情报贩子的线索
+EN|Investigate the clues about the informant at $map:02020014$
+###145
+KO|向$map:02020002$ $map:52020004$的$npc:11003540$报告
+EN|Report to $npc:11003540$ at $map:02020002$ $map:52020004$
+###146
+KO|向$map:02020002$的$npc:11003538$报告
+EN|Report to $npc:11003538$ at $map:02020002$
+###147
+KO|和$map:52020033$的$npc:11003650$见面⏎<font color="#909090">（与$map:52000155$的$npc:11003581$对话可以再次进入）</font>
+EN|Meet $npc:11003650$ in $map:52020033$⏎<font color="#909090">(Talk to $npc:11003581$ in $map:52000155$ to re-enter)</font>
+###148
+KO|在$map:02020012$$map:52020002$查看$npc:11003768$
+EN|Inspect $npc:11003768$ in $map:52020002$ in $map:02020012$
+###149
+KO|在$map:02020013$中建造的$map:52020005$里和救命恩人道谢。
+EN|Thank your rescuer at $map:52020005$, built in $map:02020013$.
+###150
+KO|在$map:02020018$搜寻$npc:11003760$的痕迹
+EN|Search for traces of $npc:11003760$ in $map:02020018$
+###151
+KO|查看$map:52020020$的$npcName:11003589$
+EN|Check on $npcName:11003589$ at $map:52020020$
+###152
+KO|返回$map:02020012$$map:52020002$和$npc:11003652$见面
+EN|Return to $map:02020012$$map:52020002$ and meet $npc:11003652$
+###153
+KO|고민하는 $npc:11000019$에게 다시 말 걸기
+EN|Talk to the worried $npc:11000019$ again
+###154
+KO|그리노 갈림길 옥수수밭에 있는 농부 팜머 만나기
+EN|Meet Palmer the farmer in the cornfield at the Greeno Crossroads
+###155
+KO|나즈카르 신전 끝까지 탐색하기
+EN|Explore All of Nazkar Temple
+###156
+KO|낯선 대륙의 지적생명체 $npcName:11004387$ 대화하기
+EN|Ask $npcName:11004387$ for information about this new land
+###157
+KO|메모에 적힌대로 $map:02000043$의 $map:52000037$ 찾아가기
+EN|Find $map:52000037$ in $map:02000043$ as noted
+###158
+KO|메이플 월드 $map:02000146$에서 $npc:11000076$ 만나기
+EN|Meet $npc:11000076$ in $map:02000146$ of Maple World
+###159
+KO|미지의 대륙에서 $npc:11004312$ 교신하기
+EN|Radio $npc:11004312$ from the uncharted continent
+###160
+KO|어둠의 땅 $map:03000014$ 가서 $npc:11000610$ 만나기
+EN|Go to $map:03000014$ in the Dark Lands and meet $npc:11000610$
+###161
+KO|어둠의 땅 $map:03000135$의 $map:03009022$에서 $npcName:11000613$ 만나기
+EN|Meet $npcName:11000613$ in $map:03009022$ of the Dark Land $map:03000135$
+###162
+KO|어둠의 땅 $map:3000103$ 가서 $npcName:11000064$ 찾기
+EN|Go to $map:3000103$ the in Land of Darkness and find $npcName:11000064$
+###163
+KO|인도자의 성지 가장 안 쪽에 위치한 $map:52000053$에서 $npcName:11001556$ 대화하기
+EN|Talk to $npcName:11001556$ in $map:52000053$, located in the deepest part of the Guide's Sanctuary
+###164
+KO|찾아낸 것을 $map:52000043$의 틴차이에게 보여주기
+EN|Show what you found to Tinchai in $map:52000043$
+###165
+KO|촬영 종료 후 $map:02000164$에서 $npc:11001191$ 만나기
+EN|Meet $npc:11001191$ in $map:02000164$ after filming ends
+###166
+KO|카르카르 아일랜드 $map:02010023$의 $map:52010011$ 찾아가기  
+EN|Go find $map:52010011$ of Karkar Island's $map:02010023$  
+###167
+KO|해적들의 본거지에 있는 $npcName:11001229$ 대화하기
+EN|Speak with $npcName:11001229$ in the pirates' hideout

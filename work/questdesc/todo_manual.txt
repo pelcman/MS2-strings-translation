@@ -1,0 +1,1833 @@
+###1
+KO|⏎$npcName:21000301$ 토벌
+EN|
+###2
+KO|"$dungeonTitle:21023001$" 던전의 $map:52000097$에 있는 $npc:24002931$ 대화하기
+EN|Speak with $npcName:24002931$ in $map:52000097$ at $dungeonTitle:21023001$
+###3
+KO|$dungeonTitle:20010001$ 던전에서 $npc:23000015$ 처치하고 $item:39000032$ 획득하기 
+EN|Defeat $npc:23000015$ in the $dungeonTitle:20010001$ dungeon and acquire $item:39000032$ 
+###4
+KO|$dungeonTitle:21005001$ 던전 입장하여 5층까지 클리어하기
+EN|Enter and clear up to floor 5 of the $dungeonTitle:21005001$ dungeon
+###5
+KO|$dungeonTitle:23037002$에서 $npcName:23000301$ 처치
+EN|Defeat $npcName:23000301$ in $dungeonTitle:23037002$
+###6
+KO|$dungeonTitle:23038002$에서 $npcName:23090006$ 처치하기
+EN|Defeat $npcName:23090006$ in $dungeonTitle:23038002$
+###7
+KO|$dungeonTitle:23041003$ 혹은 [어려움]에서 $npcName:23000073$ 처치하기
+EN|Defeat $npcName:23000073$ in either $dungeonTitle:23041003$ or $dungeonTitle:23040003$.
+###8
+KO|$item:20000102$ 따기|$item:20000102$ 구하기
+EN|Pick $item:20000102$ |Obtain $item:20000102$
+###9
+KO|$item:20000342$ 미끼 사용하기|$map:63000044$에서 $item:20000342$ 미끼로 별사탕 꽃게 낚기
+EN|Use $item:20000342$ bait|Catch a Star Candy Crab using $item:20000342$ bait at $map:63000044$
+###10
+KO|$item:20000343$ 사용하기|$map:63000046$에서 채광으로 $item:33000023$ 모으기
+EN|Use $item:20000343$|Gather $item:33000023$ by mining at $map:63000046$
+###11
+KO|$item:20000350$ 사용하기|내 집에 설치된 $item:50400160$에서 $item:33000027$ 수확하기
+EN|Use $item:20000350$|Harvest $item:33000027$ from the $item:50400160$ installed at your house
+###12
+KO|$item:20000444$ 먹기|$map:63000052$에서 $item:33000166$ 모으기
+EN|Eat $item:20000444$|Gather $item:33000166$ at $map:63000052$
+###13
+KO|$item:20000445$ 먹기|내 집에서 $item:33000120$ 수확하기
+EN|Eat $item:20000445$|Harvest $item:33000120$ at your house
+###14
+KO|$item:30000264$ 구해 철창문을 열고 갇혀 있는 노예들 구출 하기
+EN|Obtain $item:30000264$, open the iron cage door, and rescue the trapped slaves
+###15
+KO|$item:30000268$ 이용하여 알을 부화시키고 $item:30000265$ 찾기|$item:30000268$ 이용하여 알을 부화시키고 $item:30000266$ 찾기|$item:30000268$ 이용하여 알을 부화시키고 $item:30000267$ 찾기
+EN|Use the $item:30000268$ to hatch the egg and find the $item:30000265$|Use the $item:30000268$ to hatch the egg and find the $item:30000266$|Use the $i
+###16
+KO|$item:30001253$ 회수하기
+EN|Retrieve $itemPlural:30001253$
+###17
+KO|$item:30001289$ 찾기
+EN|Search for the $itemPlural:30001289$
+###18
+KO|$item:33000001$ $item:20000350$ 제작하기
+EN|Craft $item:20000350$ using $item:33000001$
+###19
+KO|$item:33000099$ 연금 재료로 $item:20000445$ 만들기
+EN|Craft $item:20000445$ using $item:33000099$ as an alchemy ingredient
+###20
+KO|$item:50400004$에서 고양이와 놀기
+EN|Play with a cat in a $item:50400004$
+###21
+KO|$item:50400036$에서 거품목욕하기|$item:50400091$에서 반신욕하기|$item:50400037$에서 마사지 받기
+EN|Take a bubble bath in a $item:50400036$ |Wash your feet in a $item:50400091$ |Receive a massage in a $item:50400037$
+###22
+KO|$item:50400038$ 작동하기|$item:50400039$ 작동하기|$item:50400090$ 작동하기
+EN|Use a $item:50400038$ |Use a $item:50400039$ |Use a $item:50400090$
+###23
+KO|$item:50400040$ 게임하기|$item:50400041$ 게임하기
+EN|Use $item:50400040$ |Use $item:50400041$
+###24
+KO|$item:50400051$ 시청하기
+EN|Watch something on the $item:50400051$
+###25
+KO|$item:50400053$에서 세수하기|$item:50400035$에서 샤워하기
+EN|Use $item:50400053$ to wash your face |Use $item:50400035$ to take a shower
+###26
+KO|$item:50400054$에서 볼 일 보기
+EN|Use $item:50400054$ to take care of business
+###27
+KO|$item:50400056$에서 요리하기|$item:50400057$에서 설거지하기
+EN|Cook with $item:50400056$ |Wash dishes using $item:50400057$
+###28
+KO|$item:50400092$에 앉아보기
+EN|Sit on a $item:50400092$
+###29
+KO|$map:02000001$ $map:52000041$에서 타이그 퓨리안과 사형들의 재회에 함께하기
+EN|Join the reunion of Taig Furian and the senior disciples in $map:02000001$ $map:52000041$
+###30
+KO|$map:02000001$ $map:52000189$ 최하층, $map:52000191$에 갇힌 $npc:11004793$ 혼내주기
+EN|Teach the $npc:11004793$ trapped in the lowest level of $map:02000001$ $map:52000189$, $map:52000191$, a lesson
+###31
+KO|$map:02000001$ $map:52000190$의 문을 부수고 탈옥 시도하기
+EN|Break the door of $map:02000001$ $map:52000190$ and attempt a breakout
+###32
+KO|$map:02000001$ $map:52000192$에서 무사히 탈출하기
+EN|Escape safely from $map:02000001$ $map:52000192$
+###33
+KO|$map:02000001$ $map:52000198$ 최하층에서 $npcName:11004788$ 구출 시도하기
+EN|Try to rescue $npcName:11004788$ at the lowest floor of $map:02000001$ $map:52000198$
+###34
+KO|$map:02000001$ 방문하기|$map:02000100$ 방문하기|$map:02000076$ 방문하기|$map:02000023$ 방문하기|$map:02000051$ 방문하기|$map:02000270$ 방문하기
+EN|Visit $map:02000001$ |Visit $map:02000100$ |Visit $map:02000076$ |Visit $map:02000023$ |Visit $map:02000051$ |Visit $map:02000270$
+###35
+KO|$map:02000001$의 $map:02000252$ 상황 파악하기
+EN|Analyze the situation in $map:02000001$'s $map:02000252$
+###36
+KO|$map:02000001$의 $map:02000252$ 침략자들 소탕하기
+EN|Defeat the $map:02000252$ invaders at $map:02000001$
+###37
+KO|$map:02000002$ 낚시터 뒤쪽 광맥에서 $item:33000001$ 채광 시도하기
+EN|Try mining $item:33000001$ from the ore veins behind the fishing spot in $map:02000002$
+###38
+KO|$map:02000002$의 독액에서 물고기 낚기
+EN|Catch fish in the poison pool at $map:02000002$
+###39
+KO|$map:02000006$ 호수 바닥에서 $item:30000187$ 찾기
+EN|Find $item:30000187$ at the bottom of $map:02000006$'s lake
+###40
+KO|$map:02000011$에서 붉은 암석을 찾아 $item:30000351$ 구해오기
+EN|Find the red rock in $map:02000011$ and acquire $item:30000351$
+###41
+KO|$map:02000017$의 나뭇가지 사이에서 $item:30000019$ 찾기
+EN|Find $item:30000019$ among the branches in $map:02000017$
+###42
+KO|$map:02000019$에서 책장 뒤에 숨겨진 $map:02000219$ 찾기|$map:02000219$에서 $item:30000191$ 찾기
+EN|Find $map:02000219$ hidden behind a bookcase in $map:02000019$ | Find $item:30000191$ in $map:02000219$
+###43
+KO|$map:02000019$의 책장을 뒤져 $item:39000008$ 찾기|$item:39000008$에 표시된 지역으로 가서 $item:30000184$ 찾기
+EN|Search $map:02000019$'s bookshelves to find $item:39000008$ | Go to the marked location on $item:39000008$ and find $item:30000184$
+###44
+KO|$map:02000020$ 책상 위에 있는 수상한 장부 챙겨 넣기
+EN|Pick up the suspicious ledger on the desk in $map:02000020$
+###45
+KO|$map:02000021$의 낡은 대포 작동시키기|$item:30000396$ 모으기
+EN|Activate the old cannons at $map:02000021$|Collect $item:30000396$
+###46
+KO|$map:02000023$ $map:02000035$에서 $npc:11000031$에게 $item:30000107$ 받기|$map:02000023$ 라펜타의 환영 주변에서 $map:02000227$ 입구 찾아 들어가기
+EN|Receive $item:30000107$ from $npc:11000031$ at $map:02000023$'s $map:02000035$ | Find and enter $map:02000227$'s entrance near Lapenta's apparition
+###47
+KO|$map:02000023$ $map:02000179$에서 이슈라의 선물 찾기
+EN|Find Ishura's gift in $map:02000023$ $map:02000179$
+###48
+KO|$map:02000024$의 나무통 안에 들어 있는 $item:20000052$ 모으기
+EN|Collect $item:20000052$ from inside the wooden barrels at $map:02000024$
+###49
+KO|$map:02000026$의 배합기로 $item:20000016$ 제조하기
+EN|Use the mixing machine in $map:02000026$ to craft $item:20000016$
+###50
+KO|$map:02000038$에 있는 몬스터를 처치하고 $item:30000325$ 모으기
+EN|Defeat monsters at $map:02000038$ and collect $item:30000325$
+###51
+KO|$map:02000039$에서 신성한 공간으로 통하는 입구 찾아 들어가기
+EN|Find and enter the entrance to the sacred space in $map:02000039$
+###52
+KO|$map:02000042$에 있는 몬스터들로부터 $item:30000311$ 구하기|$map:02000239$에서 $item:30000312$ 찾기
+EN|Get $item:30000311$ from monsters at $map:02000042$|Find $item:30000312$ at $map:02000239$
+###53
+KO|$map:02000042$에 있는 버섯무리에서 $item:30000309$ 채취하기
+EN|Gather $item:30000309$ from the mushroom clusters at $map:02000042$
+###54
+KO|$map:02000042$의 폭포 아래 연못에서 $item:30000310$ 찾기
+EN|Find $item:30000310$ in the pond beneath the waterfall at $map:02000042$
+###55
+KO|$map:02000044$에 있는 $npc:21000111$에게서 $item:30000374$ 구하기
+EN|Obtain $item:30000374$ from $npc:21000111$ at $map:02000044$
+###56
+KO|$map:02000046$에서 $npc:29000024$ 불러 처치하고 $item:30000080$ 가져오기
+EN|Defeat $npc:29000024$ at $map:02000046$ and obtain $item:30000080$
+###57
+KO|$map:02000049$ 곳곳에 배치된 토템에서 기우제 지내기
+EN|Hold a rain ritual in front of all the totems in $map:02000049$
+###58
+KO|$map:02000049$에서 무르파고스의 독수리 날려 보내기
+EN|Send a Murpagoth's eagle from $map:02000049$
+###59
+KO|$map:02000051$ $map:02000077$에서 $item:30000086$ 담기
+EN|Fill $item:30000086$ in $map:02000051$'s $map:02000077$
+###60
+KO|$map:02000053$의 $npc:21000109$를 처치하고 유니콘의 영혼 해방시키기
+EN|Defeat $npc:21000109$ in $map:02000053$ to liberate the unicorns' souls
+###61
+KO|$map:02000054$ 북동 초소 주변 기절한 자경단원 깨우기|$map:02000054$ 북동 초소 주변 $npc:21000191$ 처치하기
+EN|Wake up the fainted vigilantes near the northeast outpost in $map:02000054$|Defeat $npc:21000191$ near the northeast outpost in $map:02000054$
+###62
+KO|$map:02000054$에서 $npc:21000026$ 사냥하여 $item:30000387$ 구해오기|$map:02000054$에서 $npc:21000067$ 사냥하여 $item:30000388$ 구해오기
+EN|Hunt $npc:21000026$ in $map:02000054$ to obtain $item:30000387$|Hunt $npc:21000067$ in $map:02000054$ to obtain $item:30000388$
+###63
+KO|$map:02000059$에 있는 $map:02000082$의 $map:52000021$ 가서 $npcName:11001229$ 만나기
+EN|Go to $map:52000021$ in $map:02000082$ at $map:02000059$ and meet $npcName:11001229$
+###64
+KO|$map:02000062$ 앞바다에서 $item:30000150$ 찾기
+EN|Find $item:30000150$ in the waters off $map:02000062$
+###65
+KO|$map:02000063$ $map:02000067$에서 해적을 소탕하고 $item:30000318$ 찾기
+EN|Defeat the pirates at $map:02000063$ and $map:02000067$ and find $item:30000318$
+###66
+KO|$map:02000063$ 가서 동료들의 생사여부 확인하기
+EN|Go to $map:02000063$ and check on your companions' survival
+###67
+KO|$map:02000063$의 몬스터에게서 $item:30000327$ 되찾기
+EN|Retrieve $item:30000327$ from monsters at $map:02000063$
+###68
+KO|$map:02000064$에서 $item:33000002$ 채광 시도하기
+EN|Try mining $item:33000002$ in $map:02000064$
+###69
+KO|$map:02000064$에서 $map:02000020$로 들어가기
+EN|Enter $map:02000020$ from $map:02000064$
+###70
+KO|$map:02000065$ 안 꽃병에서 $item:30001479$ 꺼내기
+EN|Take the $item:30001479$ from the vase in $map:02000065$
+###71
+KO|$map:02000066$에서 $npc:24000207$ 처치하기|$map:02000066$ 침략자들 소탕하기
+EN|Defeat $npc:24000207$ at $map:02000066$|Defeat the $map:02000066$ invaders
+###72
+KO|$map:02000074$에서 약초 찾아보기
+EN|Search for herbs at $map:02000074$
+###73
+KO|$map:02000083$ 물탱크들을 점검하고 $item:30000117$ 수거하기
+EN|Inspect the water tanks in $map:02000083$ and collect $item:30000117$
+###74
+KO|$map:02000084$ 용광로에서 $item:30000121$ 만들기
+EN|Make $item:30000121$ at the blast furnace in $map:02000084$
+###75
+KO|$map:02000084$ 이동하여 어둠에 물든 몬스터, $npcName:23000013$ 해치우기
+EN|Travel to $map:02000084$ and defeat the darkness-tainted monster, $npcName:23000013$
+###76
+KO|$map:02000084$ 폐타이어를 고물상 쪽으로 옮기기
+EN|Move scrap tires to the junkyard in $map:02000084$
+###77
+KO|$map:02000084$에서 $item:30000120$ 수거하기
+EN|Collect $item:30000120$ in $map:02000084$
+###78
+KO|$map:02000085$에 있는 $npc:21099190$ 사냥하기
+EN|Hunt $npc:21099190$ in $map:02000085$
+###79
+KO|$map:02000085$의 $npc:21000063$ 처치하기
+EN|Defeat $npc:21000063$ in $map:02000085$
+###80
+KO|$map:02000085$의 몬스터들을 사냥하여 $item:30000386$ 찾기
+EN|Hunt monsters in $map:02000085$ to find $item:30000386$
+###81
+KO|$map:02000089$의 죽어가는 꽃 되살리기
+EN|Revive the flowers in $map:02000089$
+###82
+KO|$map:02000090$에서 망원경 보기|$map:02000172$에서 망원경 보기|$map:02000103$에서 망원경 보기|$map:02000024$에서 망원경 보기
+EN|Use the binoculars at $map:02000090$ |Use the binoculars at $map:02000172$ |Use the binoculars at $map:02000103$ |Use the binoculars at $map:02000024$
+###83
+KO|$map:02000092$ 상류 굳어버린 물 위 몬스터 처치하기
+EN|Defeat monsters on the frozen water upstream in $map:02000092$
+###84
+KO|$map:02000092$ 오염지역 주변 $npc:21000387$ 처치하기|$map:02000092$ 오염지역 주변 큰넝쿨이끼 제거하기
+EN|Defeat $npc:21000387$ near the contaminated area in $map:02000092$|Remove the Large Vine Moss near the contaminated area in $map:02000092$
+###85
+KO|$map:02000093$ 점령하고 있는 적룡 턱권단 사냥하기
+EN|Hunt the Red Dragon Jaw Smashers occupying $map:02000093$
+###86
+KO|$map:02000100$에서 $map:52000027$ 가서 $npc:11000051$ 도와 임무 수행하기
+EN|Go from $map:02000100$ to $map:52000027$ and help $npc:11000051$ complete the mission
+###87
+KO|$map:02000100$에서 망원경 보기|$map:02000164$에서 망원경 보기|$map:02000273$에서 망원경 보기
+EN|Use the binoculars at $map:02000100$ |Use the binoculars at $map:02000164$ |Use the binoculars at $map:02000273$
+###88
+KO|$map:02000100$의 $map:52000044$에 정차되어 있는 차량을 타고 $map:52000045$ 이동하기
+EN|Ride the vehicle parked in $map:52000044$ of $map:02000100$ and move to $map:52000045$
+###89
+KO|$map:02000100$의 $map:52000044$에서 $npcName:11001733$ 함께 흑성회 조직원들 따돌리고 탈출하기
+EN|$map:02000100$'s $map:52000044$... Make your escape with $npcName:11001733$, shaking off the Blackstar Gangsters
+###90
+KO|$map:02000101$에 위치한 $map:52000050$에 있는 새들에게 소식 전달 부탁하기
+EN|Ask the birds at $map:52000050$ located in $map:02000101$ to deliver the news
+###91
+KO|$map:02000101$에 위치한 $map:52000050$에서 $npcName:11001558$에게 그동안 있었던 일 전해듣기
+EN|Hear What Happened from $npcName:11001558$ at $map:52000050$ in $map:02000101$
+###92
+KO|$map:02000101$에 위치한 $map:52000050$에서 빛나는 돌을 찾아 살펴보기
+EN|Find and examine the glowing stone in $map:52000050$ in $map:02000101$
+###93
+KO|$map:02000103$의 $npc:21000239$들에게서 $item:30000177$ 되찾기
+EN|Recover $item:30000177$ from $npc:21000239$ at $map:02000103$
+###94
+KO|$map:02000112$ 가서 $map:52000029$ 입구 찾아서 들어가기
+EN|Go to $map:02000112$ and find the entrance to $map:52000029$
+###95
+KO|$map:02000112$에 있는 $map:52000029$에 찾아가 $npcName:11001229$의 선발대에 합류하기
+EN|Go find $map:52000029$, located in $map:02000112$, and join $npcName:11001229$'s first group
+###96
+KO|$map:02000114$의 몬스터들을 처치하고 $item:30000054$ 되찾기
+EN|Defeat the monsters in $map:02000114$ and recover $item:30000054$
+###97
+KO|$map:02000115$에 있는 사과 나무에서 $item:30000128$ 가져오기
+EN|Bring back $item:30000128$ from the apple tree in $map:02000115$
+###98
+KO|$map:02000116$의 가시덤불 속 짐꾼 구하기
+EN|Rescue the porters stuck inside the vines in $map:02000116$
+###99
+KO|$map:02000117$ $map:02000238$ $npc:11000550$ 잔해 속에서 $item:30000174$ 줍기
+EN|Pick up $item:30000174$ from the $npc:11000550$ wreck at $map:02000117$'s $map:02000238$
+###100
+KO|$map:02000117$ $map:02000238$ $npc:11000551$에게 $item:30000174$ 받기
+EN|Receive $item:30000174$ from $npc:11000551$ in $map:02000117$ $map:02000238$
+###101
+KO|$map:02000117$에서 $npc:21000062$를 사냥하고 $item:30000112$ 모으기
+EN|Hunt $npc:21000062$ at $map:02000117$ and collect $item:30000112$
+###102
+KO|$map:02000117$에서 꿀단지 되찾기
+EN|Recover the pot of honey in $map:02000117$
+###103
+KO|$map:02000117$의 $map:02000238$ 들어가기
+EN|Go into $map:02000117$'s $map:02000238$
+###104
+KO|$map:02000117$의 $map:02000238$에서 몬스터 처치하기
+EN|Take care of the monsters at $map:02000117$'s $map:02000238$
+###105
+KO|$map:02000118$ 몬스터에게서 $item:20000014$ 되찾기
+EN|Bring back the $item:20000014$ that the $map:02000118$ monsters have taken
+###106
+KO|$map:02000119$ $map:02000122$에서 넬프의 행방을 추적하는 단서 찾기
+EN|Find clues in $map:02000119$ $map:02000122$ to track down Nelf's whereabouts
+###107
+KO|$map:02000119$의 $map:02000190$에서 $npc:11000074$ 남겼을 만한 단서 찾아보기
+EN|Search for clues $npc:11000074$ may have left behind in $map:02000190$ of $map:02000119$
+###108
+KO|$map:02000121$에서 현금 찾아오기
+EN|Retrieve the cash in $map:02000121$
+###109
+KO|$map:02000131$에 있는 $npc:21000201$ 사냥해 $item:30000326$ 모으기
+EN|Hunt $npc:21000201$ at $map:02000131$ and collect $item:30000326$
+###110
+KO|$map:02000132$ 정원에 있는 몬스터 처치하기
+EN|Defeat monsters in the garden at $map:02000132$
+###111
+KO|$map:02000133$에 있는 몬스터를 처치해 $item:30000373$ 구하기
+EN|Defeat monsters at $map:02000133$ and obtain $item:30000373$
+###112
+KO|$map:02000134$의 $map:02000159$ 입구 근처에서 $item:20000057$ 구하기
+EN|Retrieve $item:20000057$ from near the $map:02000159$ of $map:02000134$ entrance
+###113
+KO|$map:02000136$ 점령하고 있는 몬스터들 처치하기
+EN|Defeat the monsters occupying $map:02000136$
+###114
+KO|$map:02000138$ 골목의 몬스터들을 처치하고 $item:20000015$ 찾기
+EN|Defeat monsters in the alleys of $map:02000138$ and find $item:20000015$
+###115
+KO|$map:02000138$에 있는 $npc:11000867$로부터 $item:30000246$ 건네 받기|$map:02000138$의 하수구 뚜껑 아래에 $item:30000246$ 뿌리기
+EN|Receive $item:30000246$ from $npc:11000867$ in $map:02000138$|Sprinkle $item:30000246$ under the sewer cover in $map:02000138$
+###116
+KO|$map:02000138$에 있는 $npc:21000161$ 처치하고 $item:30000247$ 구하기
+EN|Defeat $npc:21000161$ in $map:02000138$ and obtain $item:30000247$
+###117
+KO|$map:02000138$에서 $item:30000168$ 찾아서 모으기
+EN|Find and collect $item:30000168$ in $map:02000138$
+###118
+KO|$map:02000138$에서 $map:02000156$ 입구 주변 비밀 통로를 통해 $map:52000047$ 찾아 들어가기
+EN|Find and enter $map:52000047$ from $map:02000138$ through the secret passage near the entrance to $map:02000156$
+###119
+KO|$map:02000138$에서 $map:02000156$ 입구 찾기
+EN|Find the entrance to $map:02000156$ in $map:02000138$
+###120
+KO|$map:02000138$에서 쓰레기통을 뒤져 $item:30000248$ 구하기
+EN|Dig through trash cans in $map:02000138$ to find $item:30000248$
+###121
+KO|$map:02000139$에 널려있는 쓰레기 치우기
+EN|Clean up the trash scattered around $map:02000139$
+###122
+KO|$map:02000139$에 정박한 배 위 $item:30000048$를 선착장으로 옮기기
+EN|Move $item:30000048$ from the ship docked at $map:02000139$ to the pier
+###123
+KO|$map:02000139$의 바로타 상단 창고 주변에서 $item:20000046$ 찾기
+EN|Search for $item:20000046$ near the Barota Merchant Guild warehouse in $map:02000139$
+###124
+KO|$map:02000141$ 랄프의 비밀 금고를 열고 $item:30000018$ 찾기
+EN|Open Ralph's secret vault in $map:02000141$ and find $item:30000018$
+###125
+KO|$map:02000141$의 $npc:11000173$ 수하들 처치하기
+EN|Defeat $npc:11000173$'s subordinates in $map:02000141$
+###126
+KO|$map:02000142$의 소음 유발 몬스터들 처치하기
+EN|Defeat the noisy monsters of $map:02000142$
+###127
+KO|$map:02000144$ $npc:11000524$에게서 $item:30000036$ 받기
+EN|Receive $item:30000036$ from $npc:11000524$ in $map:02000144$
+###128
+KO|$map:02000146$ 그림자 문 주변 몬스터를 처치하고 $item:20000047$ 수집하기
+EN|Defeat monsters near the Shadow Gate in $map:02000146$ and collect $item:20000047$
+###129
+KO|$map:02000146$ 중심에 있는 $npc:11004803$ 가까이 들여다보기|$map:02000146$ 중심에 있는 $npc:11004803$에 귀 대보기|$map:02000146$ 중심에 있는 $npc:11004803$에 손 대보기
+EN|Look closely at $npc:11004803$ in the center of $map:02000146$|Listen closely to $npc:11004803$ in the center of $map:02000146$|Touch $npc:11004803$ i
+###130
+KO|$map:02000146$에서 다크윈드로 위장한 스파이를 찾아 $item:30000058$ 되찾기
+EN|Find the spy disguised as a Dark Wind agent in $map:02000146$ and recover $item:30000058$
+###131
+KO|$map:02000146$에서 찾아낸 그림자 군단의 소환지 탐색하기
+EN|Explore the Shadow Legion's summoning site found in $map:02000146$
+###132
+KO|$map:02000147$의 $map:02000209$ 진열대 살펴보기|$item:20000015$ 획득하기
+EN|Check the display shelves in $map:02000209$ of $map:02000147$|Obtain $item:20000015$
+###133
+KO|$map:02000148$에서 녹슨 파이프 보수 작업하기
+EN|Repair the rusted pipes in $map:02000148$
+###134
+KO|$map:02000149$ 안에 있는 손님들 쫓아내기
+EN|Drive out the customers inside $map:02000149$
+###135
+KO|$map:02000160$에서 이삿짐 싸기
+EN|Pack and move to $map:02000160$
+###136
+KO|$map:02000172$ 곳곳의 풀숲을 들쑤시면 나타나는 $npc:29000001$로부터 $item:30000206$ 얻기
+EN|Obtain $item:30000206$ from $npc:29000001$ that appear when rummaging through the grass at $map:02000172$
+###137
+KO|$map:02000172$에서 $npc:21090069$의 $item:30000205$ 구하기
+EN|Obtain $item:30000205$ from $npc:21090069$ at $map:02000172$
+###138
+KO|$map:02000176$에서 유물을 노리는 몬스터 처치하기
+EN|Defeat the monsters trying to steal relics in $map:02000176$
+###139
+KO|$map:02000180$의 $npc:21000280$에게서 $item:30000307$ 빼앗기
+EN|Take $item:30000307$ from $npc:21000280$ at $map:02000180$
+###140
+KO|$map:02000180$의 풀 틈에서 $item:30000308$ 줍기
+EN|Pick up $item:30000308$ from the grass at $map:02000180$
+###141
+KO|$map:02000182$에서 해적 소탕하기|$npc:21000232$들이 갖고 있는 $item:30000725$ 모으기
+EN|Defeat pirates in $map:02000182$ |Collect $itemPlural:30000725$ from $npcPlural:21000232$
+###142
+KO|$map:02000182$의 $map:52000096$에서 $npc:11003082$ 괴롭히는 해적들 혼내주기
+EN|Defeat pirates at $map:52000096$ in $map:02000182$
+###143
+KO|$map:02000183$에 널브러져 있는 널빤지 줍기
+EN|Pick up the planks scattered around $map:02000183$
+###144
+KO|$map:02000185$ 몬스터 처치하기
+EN|Defeat monsters in $map:02000185$
+###145
+KO|$map:02000185$에서 $item:30000298$ 구해오기|$map:02000185$에서 $item:30000299$ 구해오기|$map:02000185$에서 $item:30000300$ 구해오기
+EN|Find $item:30000298$ at $map:02000185$|Find $item:30000299$ at $map:02000185$|Find $item:30000300$ at $map:02000185$
+###146
+KO|$map:02000187$ 곳곳의 컴퓨터를 조사해 $item:30000357$ 찾기
+EN|Investigate $map:02000187$'s computers and find $item:30000357$
+###147
+KO|$map:02000187$의 로봇들에게서 $item:39000006$ 찾기
+EN|Find $item:39000006$ from the robots in $map:02000187$
+###148
+KO|$map:02000192$ 몬스터들에게 도난당한 $item:30000352$ 찾아오기
+EN|Reclaim the stolen $item:30000352$ from the monsters in $map:02000192$
+###149
+KO|$map:02000192$에 있는 불꺼진 봉화 크리스탈에 불 밝히기
+EN|Light up the extinguished beacon crystal in $map:02000192$
+###150
+KO|$map:02000196$ 안으로 들어가기
+EN|Go into the $map:02000196$
+###151
+KO|$map:02000200$에서 돌무덤을 살펴보고 $item:30000153$ 찾기
+EN|Search the stone grave markers in $map:02000200$ and locate the $item:30000153$
+###152
+KO|$map:02000203$의 $npc:11000508$ 뒤쪽 작업대에서 $item:30000173$ 찾기
+EN|Find $item:30000173$ at the workbench behind $npc:11000508$ in $map:02000203$
+###153
+KO|$map:02000209$에 있는 냉장고에서 $item:30000245$ 꺼내기
+EN|Take $item:30000245$ from the fridge in $map:02000209$
+###154
+KO|$map:02000227$에서 $npc:11000685$에게 $item:30000107$ 받기|영혼의 등불을 흡수하고 $map:02000220$ 들어가기
+EN|Receive $item:30000107$ from $npc:11000685$ at $map:02000227$ | Enter $map:02000220$ after absorbing the Spirit Lantern
+###155
+KO|$map:02000231$의 몬스터로부터 $item:30000372$ 되찾아 공연장 앞에 설치하기
+EN|Retrieve $item:30000372$ from monsters at $map:02000231$ and install them in front of the venue
+###156
+KO|$map:02000241$에서부터 아래층으로 내려가며 $item:30000016$ 찾기
+EN|Go downstairs from $map:02000241$ and look for $item:30000016$
+###157
+KO|$map:02000251$에서 사황의 보물 상자 열기 
+EN|Open the king's treasure chest in $map:02000251$ 
+###158
+KO|$map:02000260$ 위협하는 몬스터들 사냥하기
+EN|Hunt the monsters threatening $map:02000260$
+###159
+KO|$map:02000261$의 몬스터들에게서 $item:30000348$ 되찾아오기|$map:02000261$의 몬스터들에게서 $item:30000349$ 되찾아오기
+EN|Go to $map:02000261$ to reclaim $item:30000348$ from the monsters|Go to $map:02000261$ to reclaim $item:30000349$ from the monsters
+###160
+KO|$map:02000262$에 사는 몬스터들에게서 $item:30000378$ 구해오기 
+EN|Obtain $item:30000378$ from the monsters in $map:02000262$ 
+###161
+KO|$map:02000263$에서 $npc:21091024$ $npc:21091022$ 사냥하기
+EN|Hunt $npc:21091024$ and $npc:21091022$ in $map:02000263$
+###162
+KO|$map:02000265$에 있는 몬스터를 처치하고 $item:30000375$ 구하기
+EN|Defeat monsters at $map:02000265$ and obtain $item:30000375$
+###163
+KO|$map:02000268$ 몬스터를 처치하고 $item:30000157$ 찾기
+EN|Defeat the monsters in $map:02000268$ and find the $item:30000157$
+###164
+KO|$map:02000274$에서 몬스터를 사냥하여 $item:30000355$ 회수하기|$map:02000274$에서 몬스터를 사냥하여 $item:30000356$ 회수하기
+EN|Hunt monsters in $map:02000274$ to collect $item:30000355$|Hunt monsters in $map:02000274$ to collect $item:30000356$
+###165
+KO|$map:02000277$ 내부 곳곳에 침입자 감지 센서 설치하기
+EN|Install the intruder detection sensors in various spots around $map:02000277$
+###166
+KO|$map:02000277$ 어지럽히고 있는 살생 무기 로봇 파괴하기
+EN|Destroy the killer robot weapons devastating $map:02000277$
+###167
+KO|$map:02000279$에 있는 몬스터로부터 $item:30000376$ 되찾기
+EN|Retrieve $item:30000376$ from monsters at $map:02000279$
+###168
+KO|$map:02000290$ 가시덤불 속에서 보로보로 난쟁이 구출하기
+EN|Save the Boroboro from the thorny vines in $map:02000290$
+###169
+KO|$map:02000292$에서 노예로 잡혀 있는 주민들 구출하기
+EN|Rescue the captured citizens in $map:02000292$
+###170
+KO|$map:02000298$에서 $map:02000304$ 찾아가기|(엘리트) 카오스 타임키를 가진 괴한을 찾아서 처치하기
+EN|Find $map:02000304$ in $map:02000298$ | (Elite) Find and stop the unidentified assailant with the Chaos Time Key
+###171
+KO|$map:02000298$의 퍼니핑커스 해커군단 처치하기|$map:02000299$ 상황 파악하기
+EN|Stop the hacker group Funny Fingers in $map:02000298$ | Investigate $map:02000299$
+###172
+KO|$map:02000305$에서 $npc:11001008$ 발견하기
+EN|Discover $npc:11001008$ at $map:02000305$
+###173
+KO|$map:02000315$ 가서 $npc:23100025$ 처치하기|$item:30000190$ 획득하기
+EN|Go to $map:02000315$ and defeat $npc:23100025$|Acquire $item:30000190$
+###174
+KO|$map:02000316$에서 분노한 $npc:23100021$ 제압하기
+EN|Subdue the enraged $npc:23100021$ in $map:02000316$
+###175
+KO|$map:02000318$에서 초롱아귀의 보물상자 열기|빅토리아호 선장이 남긴 단서 찾기
+EN|Open the Footballfish treasure chest in $map:02000318$|Find clues left by the captain of the Victoria
+###176
+KO|$map:02000328$으로 가서 $npc:24001103$ 처치하기
+EN|Go to $map:02000328$ and defeat $npc:24001103$
+###177
+KO|$map:02000331$에 숨어 있던 몬스터 처치하기|$map:02000331$에서 위험에 빠진 어린이 친구들 모두 도와주기
+EN|Defeat monsters hiding in $map:02000331$|Help all the children in danger at $map:02000331$
+###178
+KO|$map:02000331$에서 위험에 빠진 어린이 친구들 모두 도와주기
+EN|Help all the children in danger at $map:02000331$
+###179
+KO|$map:02000334$에서 돼지떼를 이끄는 $npc:24001205$ 처치하기
+EN|Defeat $npc:24001205$, the leader of the pig herd, at $map:02000334$
+###180
+KO|$map:02000334$에서 돼지떼를 이끄는 우두머리 처치하기
+EN|Defeat the leader of the pig herd at $map:02000334$
+###181
+KO|$map:02000334$에서 돼지떼의 습격 끝까지 막아내기
+EN|Hold off the pig horde attack in $map:02000334$ until the end
+###182
+KO|$map:02000335$에 있는 $npc:24001508$ 처치하기|$map:02000336$에 있는 $npcName:24001506$ 처치하기|$map:02000337$에 있는 $npcName:24001507$ 처치하기
+EN|Defeat $npc:24001508$ at $map:02000335$|Defeat $npcName:24001506$ at $map:02000336$|Defeat $npcName:24001507$ at $map:02000337$
+###183
+KO|$map:02000357$에서 멈춰버린 톱니바퀴 수리하기
+EN|Repair the gear stopped at $map:02000357$
+###184
+KO|$map:02000380$에서 촬영에 참여하기
+EN|Participate in the filming in $map:02000380$
+###185
+KO|$map:02000554$의 신비한 물에 몸을 푹 담가 그곳의 기운 듬뿍 묻히기
+EN|Soak yourself in the mysterious water of $map:02000554$ and absorb plenty of its energy
+###186
+KO|$map:02010016$ 습격한 몬스터들 쫓아내기
+EN|Drive out the monsters that raided $map:02010016$
+###187
+KO|$map:02010016$에 전시된 자동차를 컨테이너 박스 안에 보관하기
+EN|Store the displayed cars in $map:02010016$ inside container boxes
+###188
+KO|$map:02010020$ 습격한 몬스터 소탕하기
+EN|Eliminate the monsters that raided $map:02010020$
+###189
+KO|$map:02010020$에 있는 몬스터를 사냥하여 $item:30000484$ 찾아오기
+EN|Hunt monsters in $map:02010020$ to find $item:30000484$
+###190
+KO|$map:02010023$에서 $item:30000470$ 모으기|$map:02010023$에서 $item:30000471$ 찾기
+EN|Gather $item:30000470$ at $map:02010023$|Find $item:30000471$ at $map:02010023$
+###191
+KO|$map:02010026$ 몬스터를 처치하고 $item:30000472$ 찾기|$map:02010026$ 몬스터를 처치하고 $item:30000473$ 찾기|$map:02010026$ 몬스터를 처치하고 $item:30000474$ 찾기
+EN|Defeat the $map:02010026$ monsters and find $item:30000472$|Defeat the $map:02010026$ monsters and find $item:30000473$|Defeat the $map:02010026$ mons
+###192
+KO|$map:02010026$ 안에 있는 $map:02010052$에서 $npc:24001807$의 흔적 찾기
+EN|Search for traces of $npc:24001807$ in $map:02010052$ inside $map:02010026$
+###193
+KO|$map:02010030$ 내부로 진입하여⏎검은 그림자의 실체 확인하기
+EN|Enter $map:02010030$ and identify the true nature of the dark shadow
+###194
+KO|$map:02010030$의 $map:52010006$에서 $npcName:11000735$ 돕기
+EN|Help $npcName:11000735$ at $map:52010006$ of $map:02010030$
+###195
+KO|$map:02010047$에서 $item:30000475$ 찾기|$map:02010047$에서 $item:30000476$ 찾기|$map:02010047$에서 $item:30000477$ 찾기
+EN|Find $item:30000475$ at $map:02010047$|Find $item:30000476$ at $map:02010047$|Find $item:30000477$ at $map:02010047$
+###196
+KO|$map:02010054$ 끝까지 조사하기
+EN|Investigate $map:02010054$ to the very end
+###197
+KO|$map:02010055$ 내부 상황 파악하기
+EN|Figure out the situation inside $map:02010055$
+###198
+KO|$map:02010055$ 들어가서 용의 기사들을 찾아 만나보기
+EN|Go into $map:02010055$ and meet the dragon knights
+###199
+KO|$map:02010059$ $npcName:11000075$ 여제 찾아가기
+EN|Go find Empress $npcName:11000075$ at $map:02010059$
+###200
+KO|$map:02010070$ 내부로 들어가 실종된 정찰병들의 생사 여부 확인하기
+EN|Enter $map:02010070$ and check on the missing scouts
+###201
+KO|$map:02010070$에서 $npc:24001904$ 처치하고 $item:30000495$ 가져오기
+EN|Defeat $npc:24001904$ at $map:02010070$ and bring back $item:30000495$
+###202
+KO|$map:02020001$에서 조사용 식물 모형 확인하기
+EN|Check the false plants in $map:02020001$
+###203
+KO|$map:02020001$의 $npcName:25020501$ 처치하기⏎|$map:02020006$의 $npcName:25020301$ 처치하기|$map:02020004$의 $npcName:25020401$ 처치하기
+EN|Defeat $npcName:25020501$ in $map:02020001$|Defeat $npcName:25020301$ in $map:02020006$|Defeat $npcName:25020401$ in $map:02020004$
+###204
+KO|$map:02020003$의 종자 씨앗 탈취하기
+EN|Steal the Seeds of $map:02020003$
+###205
+KO|$map:02020004$에서 $npcName:25020403$ 처치 후 $item:30001222$ 수집하기
+EN|Collect $itemPlural:30001222$ from $npcNamePlural:25020403$ in $map:02020004$
+###206
+KO|$map:02020004$의 기계 병사들 소탕하기
+EN|Clear mechanical soldiers in $map:02020004$
+###207
+KO|$map:02020006$에 있는 커다란 $npcName:11004342$의 마음을 움직여보기
+EN|Move the heart of the giant $npcName:11004342$ in $map:02020006$
+###208
+KO|$map:02020006$에서 발견된 $map:52100113$ 들어가, 쿠우쿠 알 없애기
+EN|Enter the $map:52100113$ in $map:02020006$ and destroy leecher eggs
+###209
+KO|$map:02020008$ 가서 보급 상자 탈취하기
+EN|Go to $map:02020008$ and seize the supply boxes
+###210
+KO|$map:02020008$의 적대 몬스터 소탕하기
+EN|Clear out the hostile monsters in $map:02020008$
+###211
+KO|$map:02020009$에 있는 $npcName:11004342$ 지키고 있는 물건 확인하기
+EN|Find out what the $npcName:11004342$ in $map:02020009$ is guarding
+###212
+KO|$map:02020009$에서 $npcName:25021604$ 제압 후 $item:30001257$ 확보하기
+EN|Obtain $itemPlural:30001257$ from $npcNamePlural:25021604$ in $map:02020009$
+###213
+KO|$map:02020009$에서 코드 확보하기
+EN|Hack into the drill in $map:02020009$ and decrypt the access code.
+###214
+KO|$map:02020009$의 고주파 에네르 발산기 끄기
+EN|Turn Off the High-Frequency Enerr Radiator in $map:02020009$
+###215
+KO|$map:02020010$ 방어하고 있는 $npcName:25020606$ 처치하기
+EN|Defeat $npcNamePlural:25020606$ in the $map:02020010$
+###216
+KO|$map:02020010$에서 $npcName:25020601$ 제압한 후 $item:30001224$ 수집하기
+EN|Collect $item:30001224$ from $npcNamePlural:25020601$ in $map:02020010$
+###217
+KO|$map:02020010$의 $npcName:25020606$ 처치하기|$map:02020034$의 $npcName:25020806$ 처치하기⏎|$map:02020016$의 $npcName:25021006$ 처치하기
+EN|Defeat $npcNamePlural:25020606$ in $map:02020010$|Defeat $npcNamePlural:25020806$ in $map:02020034$⏎|Defeat $npcNamePlural:25021006$ in $map:02020016$
+###218
+KO|$map:02020010$의 금괴 상자 가로채기
+EN|Intercept the gold bar boxes in $map:02020010$
+###219
+KO|$map:02020013$ 몬스터 소탕하기
+EN|Defeat monsters in $map:02020013$
+###220
+KO|$map:02020013$에서 $npcName:25020901$ $npcName:25020902$ 처치하고 $item:30001303$ 수집하기
+EN|Collect $itemPlural:30001303$ from $npcNamePlural:25020901$ and $npcNamePlural:25020902$ in $map:02020013$
+###221
+KO|$map:02020013$의 라플레시아에게 화가 난 포잉 달래기
+EN|Pacify the angry poings in $map:02020013$
+###222
+KO|$map:02020013$의 푸른 과일 따오기
+EN|Pick blue fruit at $map:02020013$
+###223
+KO|$map:02020014$ 가서 타이렌 왕국의 MK42 폭탄 해체하기
+EN|Go to $map:02020014$ and defuse the MK42 bombs of the Tyren Kingdom
+###224
+KO|$map:02020014$에 피어있는 $item:30001300$ 수집하기
+EN|Collect $itemPlural:30001300$ in $map:02020014$
+###225
+KO|$map:02020014$에서 조사 중인 $npc:11004527$ 대화하기
+EN|Speak with $npc:11004527$ in $map:02020014$
+###226
+KO|$map:02020016$의 도청용 수신탑 고장 내기
+EN|Break the Wiretap Relay Tower of $map:02020016$
+###227
+KO|$map:02020016$의 무기 상자 탈취하기
+EN|Seize the weapon chest at $map:02020016$
+###228
+KO|$map:02020016$의 방해세력 퇴치하기
+EN|Defeat enemies in $map:02020016$
+###229
+KO|$map:02020017$에 가서 청사의 고대 유물 확보하기
+EN|Go to $map:02020017$ and secure the ancient relic of the Blue Temple
+###230
+KO|$map:02020017$에 모여 살고 있는 새끼 놀라쥬 조사하기
+EN|Examine baby wasplings in $map:02020017$
+###231
+KO|$map:02020017$의 $npcName:25021205$ 처치하기 ⏎|$map:02020033$의 $npcName:25021305$ 처치하기 ⏎|$map:02020051$의 $npcName:25021104$ 처치하기
+EN|Defeat $npcName:25021205$ in the $map:02020017$ ⏎|Defeat $npcName:25021305$ in the $map:02020033$ ⏎|Defeat $npcName:25021104$ in the $map:02020051$
+###232
+KO|$map:02020018$ 가서 빛나는 푸른 유물 확보하기
+EN|Go to $map:02020018$ and secure the shining blue relic
+###233
+KO|$map:02020018$에 가서 데이터 측정기의 테스트 데이터 확보하기
+EN|Go to $map:02020018$ and obtain test data from the data measuring device
+###234
+KO|$map:02020018$에 서식 중인 하늘초를 조사하여 $item:30001301$ 수집하기
+EN|Gather $item:30001301$ from the plants in $map:02020018$
+###235
+KO|$map:02020018$에서 $npcName:25021702$ 처치 후 메모리칩 수집하기
+EN|Defeat $npcName:25021702$ in $map:02020018$ and collect the memory chip
+###236
+KO|$map:02020029$에서 $map:52100111$로 들어가 에네르 공급원 조사하기
+EN|Search $map:52100111$ in $map:02020029$ for a source of aetherine
+###237
+KO|$map:02020029$에서 기계 곤충 채집하기
+EN|Collect robotic insects in $map:02020029$
+###238
+KO|$map:02020029$의 $npcName:25020001$ 처치 후 에네르 결정 확보하기
+EN|Get the Aetherine Crystals from $npcNamePlural:25020001$ in $map:02020029$
+###239
+KO|$map:02020029$의 $npcName:25020005$ 처치하기 ⏎|$map:02020030$의 $npcName:25020105$ 처치하기⏎|$map:02020031$의 $npcName:25020205$ 처치하기
+EN|Defeat $npcNamePlural:25020005$ in $map:02020029$ ⏎|Defeat $npcNamePlural:25020105$ in $map:02020030$⏎|Defeat $npcNamePlural:25020205$ in $map:0202003
+###240
+KO|$map:02020030$ 가서 $npcName:25020103$ 처치하기
+EN|Defeat $npcNamePlural:25020103$ at $map:02020030$
+###241
+KO|$map:02020030$ 공격하는 세력 처치하기
+EN|Defeat enemies in $map:02020030$
+###242
+KO|$map:02020030$의 검은 크리스탈을 조사하고 $item:30001297$ 수집하기
+EN|Collect $itemPlural:30001297$ in $map:02020030$
+###243
+KO|$map:02020030$의 송신탑 주변에 안전 울타리 수리하기
+EN|Repair the fence near the tower in $map:02020030$
+###244
+KO|$map:02020031$ 곳곳에 위치한 미지의 광석 조사하기
+EN|Examine strange ore in $map:02020031$
+###245
+KO|$map:02020031$에 파견나간 $npc:11004530$ 대화하기
+EN|Speak with $npc:11004530$ in $map:02020031$
+###246
+KO|$map:02020031$의 $npcName:25020201$ 처치 후 $item:30001218$ 확보하기
+EN|Obtain $itemPlural:30001218$ by defeating $npcNamePlural:25020201$ in $map:02020031$.
+###247
+KO|$map:02020031$의 $npcName:25020205$ 처치 후 $item:30001234$ 회수하기
+EN|Get $itemPlural:30001234$ from $npcNamePlural:25020205$ in $map:02020031$
+###248
+KO|$map:02020031$의 기계 병사 퇴치하기
+EN|Defeat mechanical soldiers in $map:02020031$
+###249
+KO|$map:02020032$ 부근의 중거리 대포 부품 회수하기
+EN|Retrieve medium-range cannon parts near $map:02020032$
+###250
+KO|$map:02020032$에서 $npcName:25020702$를 제압한 후 $item:30001227$ 수집하기
+EN|Defeat $npcNamePlural:25020702$ at the $map:02020032$ and collect their $itemPlural:30001227$
+###251
+KO|$map:02020032$에서 사람들이 달리는 이유를 찾아 직접 해보기
+EN|Find out why people are running in $map:02020032$
+###252
+KO|$map:02020032$의 $npcName:25020703$ 처치 후 송곳니 수집하기
+EN|Collect fangs from $npcNamePlural:25020703$ in $map:02020032$
+###253
+KO|$map:02020032$의 $npcName:25020703$ 처치하기⏎|$map:02020010$의 $npcName:25020603$ 처치하기⏎
+EN|Defeat $npcNamePlural:25020703$ in $map:02020032$⏎|Defeat $npcNamePlural:25020603$ in $map:02020010$⏎
+###254
+KO|$map:02020032$의 $npcName:25020705$ 가지고 있는 $item:30001299$ 수집하기
+EN|Collect $itemPlural:30001299$ from $npcNamePlural:25020705$ in $map:02020032$
+###255
+KO|$map:02020033$ 공격하는 타이렌 왕국의 병사들 처치하기
+EN|Defeat the Tairen soldiers attacking $map:02020033$
+###256
+KO|$map:02020033$ 부근에서 사치품 상자의 물품 가로채기
+EN|Intercept the goods from luxury item boxes near $map:02020033$
+###257
+KO|$map:02020033$에서 고전 중인 게오르크의 대포 조작하기
+EN|Repair cannons in $map:02020033$
+###258
+KO|$map:02020033$의 장거리 대포 파괴하기
+EN|Destroy the Long-Range Cannon of $map:02020033$
+###259
+KO|$map:02020034$로 이동하기.
+EN|Travel to $map:02020034$.
+###260
+KO|$map:02020034$에 침투해 $npcName:25020802$ 처치하기
+EN|Infiltrate the $map:02020034$ and defeat $npcNamePlural:25020802$
+###261
+KO|$map:02020034$의 $npcName:25020801$, $npcName:25020803$, $npcName:25020805$ 처치하기
+EN|Defeat $npcName:25020801$, $npcName:25020803$, and $npcName:25020805$ in $map:02020034$
+###262
+KO|$map:02020034$의 기계 병사 처치하기
+EN|Defeat enemies in $map:02020034$
+###263
+KO|$map:02020034$의 에네르 생성기 부품 STX-17 구해오기
+EN|Get the STX-17 Ener generator parts from $map:02020034$
+###264
+KO|$map:02020035$에서 해킹 시도해보기
+EN|Try Hacking at $map:02020035$
+###265
+KO|$map:02020035$의 경비병력 소탕하기
+EN|Clear out the security force in $map:02020035$
+###266
+KO|$map:02020035$의 변환 장치 주요 부품 확보하기
+EN|Secure Key Components of the Converter in $map:02020035$
+###267
+KO|$map:02020036$의 검은 기운 채취하기
+EN|Collect the Dark Aura of $map:02020036$
+###268
+KO|$map:02020036$의 검은군단 병력 처치하기
+EN|Defeat the Daemon Army forces in $map:02020036$
+###269
+KO|$map:02020037$에 핀 붉은 식물을 조사하고 $item:30001302$ 수집하기
+EN|Examine the red plants in $map:02020037$ and collect $itemPlural:30001302$
+###270
+KO|$map:02020037$의 장거리 포대 파괴하기
+EN|Destroy the Long-Range Artillery in $map:02020037$
+###271
+KO|$map:02020037$의 침입 탐지 센서 끄기
+EN|Disable the Intrusion Detection Sensor at $map:02020037$
+###272
+KO|$map:02020041$에 정착해 있는 스카이 포트리스 함선 점검하기
+EN|Inspect Sky Fortress in $map:02020041$
+###273
+KO|$map:02020051$에서 $npc:11004619$ 대화하기⏎|$map:52100118$에서 $npc:11004618$ 대화하기
+EN|Talk to $npc:11004619$ in $map:02020051$⏎|Talk to $npc:11004618$ in $map:52100118$
+###274
+KO|$map:02020051$에서 $npcName:25021105$ 처치 후 부품 수집하기
+EN|Defeat $npcNamePlural:25021105$ in $map:02020051$ and collect parts
+###275
+KO|$map:02020051$의 $map:52100118$에서 $npcName:25023300$ 제압하기 ⏎|$map:02020051$의 $map:52100118$에서 $npcName:25023301$ 제압하기 
+EN|Subdue $npcName:25023300$ at $map:52100118$ of $map:02020051$ ⏎|Subdue $npcName:25023301$ at $map:52100118$ of $map:02020051$ 
+###276
+KO|$map:02020066$ 가서 $npc:11004574$ 만나 난민들의 피해가 없는지 알아보기
+EN|Go to $map:02020066$, meet $npc:11004574$, and check whether the refugees have suffered any harm
+###277
+KO|$map:02020066$ 가서 $npc:11004574$ 만나 드론의 수가 줄은 이유 알아보기
+EN|Go to $map:02020066$, meet $npc:11004574$, and find out why the number of drones has decreased
+###278
+KO|$map:02020066$ 가서 $npc:11004574$ 만난 후, 무슨 일이 있었는지 알아보기
+EN|Go to $map:02020066$, meet $npc:11004574$, and find out what happened
+###279
+KO|$map:02020066$ 가서 $npc:11004574$ 만난 후, 케르베스 병력 격퇴하기
+EN|Go to $map:02020066$, meet $npc:11004574$, then repel the Kerbes forces
+###280
+KO|$map:02020066$ 가서 $npcName:25022204$ 제압한 후 $item:30001354$ 확보하기
+EN|Go to $map:02020066$, subdue $npcName:25022204$, and secure $item:30001354$
+###281
+KO|$map:02020066$ 가서 $npcName:25022206$ 처치하고 $item:30001353$ 확보하기
+EN|Go to $map:02020066$, defeat $npcName:25022206$, and secure $item:30001353$
+###282
+KO|$map:02020066$에 가서 $npc:11004574$ 만나 난민들의 어려움 해결해 주기
+EN|Go to $map:02020066$, meet $npc:11004574$, and help solve the refugees' troubles
+###283
+KO|$map:02020066$에서 $npcName:25022200$, $npcName:25022201$, $npcName:25022204$ 처치하고 $item:30001350$ 수집하기 
+EN|Defeat $npcName:25022200$, $npcName:25022201$, and $npcName:25022204$ in $map:02020066$ and collect $item:30001350$ 
+###284
+KO|$map:02020066$에서 $npcName:25022202$ 처치하고 $item:30001348$ 확보하기
+EN|Defeat $npcName:25022202$ in $map:02020066$ and secure $item:30001348$
+###285
+KO|$map:02020067$ 가서 $npcName:25022300$ 격퇴하기
+EN|Go to $map:02020067$ and repel $npcName:25022300$
+###286
+KO|$map:02020067$ 가서 $npcName:25022306$ 제압하기
+EN|Go to $map:02020067$ and subdue $npcName:25022306$
+###287
+KO|$map:02020067$에서 $npcName:25022302$ 처치하기 ⏎|$map:02020068$에서 $npcName:25022401$ 처치하기
+EN|Defeat $npcName:25022302$ in $map:02020067$⏎|Defeat $npcName:25022401$ in $map:02020068$
+###288
+KO|$map:02020067$에서 망원경으로 수상한 것이 있는지 확인하기
+EN|Check $map:02020067$ with a telescope for anything suspicious
+###289
+KO|$map:02020067$의 $map:52100114$ 가서 $npcName:25022900$ 처치하기
+EN|Go to $map:52100114$ in $map:02020067$ and defeat $npcName:25022900$
+###290
+KO|$map:02020067$의 $npcName:25022303$ 제압한 후 $item:30001364$ 구해오기
+EN|Subdue $npcName:25022303$ in $map:02020067$, then retrieve $item:30001364$
+###291
+KO|$map:02020067$의 케르베스 병력 처치하기
+EN|Defeat Cerbe's forces at $map:02020067$
+###292
+KO|$map:02020068$의 $npcName:25022401$ 퇴치하기
+EN|Defeat $npcName:25022401$ in $map:02020068$
+###293
+KO|$map:02020068$의 $npcName:25022407$ 제압한 후, $item:30001356$ 구해오기
+EN|After subduing $npcName:25022407$ in $map:02020068$, bring back $item:30001356$
+###294
+KO|$map:02020069$ 가서 $npc:11004620$ 만나 모랑족 돕기
+EN|Go to $map:02020069$, meet $npc:11004620$, and help the Morang tribe
+###295
+KO|$map:02020069$ 가서 $npc:11004620$ 만나 해결책 찾기
+EN|Go to $map:02020069$, meet $npc:11004620$, and find a solution
+###296
+KO|$map:02020069$ 가서 $npcName:11004620$ 만나 모랑족의 위기를 막아내기
+EN|Go to $map:02020069$, meet $npcName:11004620$, and stop the Morang tribe's crisis
+###297
+KO|$map:02020069$ 가서 $npcName:11004620$ 만나 모랑족이 처한 위기를 막아내기
+EN|Go to $map:02020069$, meet $npcName:11004620$, and stop the crisis facing the Morang tribe
+###298
+KO|$map:02020069$ 가서 $npcName:11004620$ 만나 위기에 처한 모랑족 돕기
+EN|Go to $map:02020069$, meet $npcName:11004620$, and help the Morang tribe in danger
+###299
+KO|$map:02020069$의 $npc:11004620$ 만나 상황을 파악하기
+EN|Meet $npc:11004620$ in $map:02020069$ and assess the situation
+###300
+KO|$map:02020069$의 $npc:11004620$ 만나 위기를 알리기
+EN|Meet $npc:11004620$ in $map:02020069$ and report the crisis
+###301
+KO|$map:02020070$에서 $npcName:25022602$ 잡고 $item:30001349$ 확보하기
+EN|Defeat $npcName:25022602$ at $map:02020070$ and secure $item:30001349$
+###302
+KO|$map:02020070$에서 $npcName:25022606$ 제압하기 ⏎|$map:02020070$에서 $npcName:25022609$ 제압하기⏎|$map:02020071$에서 $npcName:25022703$ 제압하기⏎|$map:02020071$에서 $npcName:25022709$ 제압하기
+EN|Subdue $npcName:25022606$ in $map:02020070$ ⏎|Subdue $npcName:25022609$ in $map:02020070$⏎|Subdue $npcName:25022703$ in $map:02020071$⏎|Subdue $npcNam
+###303
+KO|$map:02020070$의 $npcName:25022607$ 제압하기 ⏎|$map:02020070$의 $npcName:25022608$ 제압하기
+EN|Subdue $npcName:25022607$ of $map:02020070$ ⏎|Subdue $npcName:25022608$ of $map:02020070$
+###304
+KO|$map:02020071$의 $npcName:25022707$, $npcName:25022708$ 처치한 후, $item:30001357$ 회수하기
+EN|Defeat $npcName:25022707$ and $npcName:25022708$ in $map:02020071$, then recover $item:30001357$
+###305
+KO|$map:02020071$의 $npcName:25022810$ 파괴하기⏎|$map:02020070$의 $npcName:25022800$ 파괴하기⏎
+EN|Destroy $npcName:25022810$ in $map:02020071$⏎|Destroy $npcName:25022800$ in $map:02020070$⏎
+###306
+KO|$map:03000014$에 있는 빠두란 독초에서 $item:20000102$ 따기
+EN|Pick $item:20000102$ from the Paduran poison plants at $map:03000014$
+###307
+KO|$map:03000057$ 카트라무스 주변에서 독이 묻은 덫 제거하기|$map:03000057$의 $npc:29000049$ 처치하기
+EN|Remove the poisoned traps near $map:03000057$ Katramus | Defeat $map:03000057$'s $npc:29000049$
+###308
+KO|$map:03000134$에서 루미나 해방군 추적 단서 찾기
+EN|Find clues to track the Lumina Liberation Army in $map:03000134$
+###309
+KO|$map:03000135$의 $npc:40000022$들을 처치하고 $item:30000211$ 획득하기
+EN|Defeat the $npc:40000022$s in $map:03000135$ and obtain $item:30000211$
+###310
+KO|$map:03000145$ 돌아가서 비욘드 링크 재조사하기
+EN|Return to $map:03000145$ and investigate the Beyond Link again
+###311
+KO|$map:03000145$의 $map:52000039$ 돌아가서 진실 확인하기
+EN|Return to $map:52000039$ in $map:03000145$ and confirm the truth
+###312
+KO|$map:03000146$에서 $map:03000136$ 연결되는 길목에 $item:30000214$ 설치하기|$map:03000146$에서 $map:03000145$ 연결되는 길목에 $item:30000214$ 설치하기
+EN|Place $item:30000214$ on the path connecting to $map:03000136$ in $map:03000146$|Place $item:30000214$ on the path connecting to $map:03000145$ in $ma
+###313
+KO|$map:03009021$의 몬스터 처치하기|$item:30000216$ 수거하기
+EN|Defeat monsters in $map:03009021$|Collect $item:30000216$
+###314
+KO|$map:03009023$에서 $item:30000251$ 구해서 갇힌 사람들 풀어주기|$map:03009023$에서 $npc:11000807$ 구출하기|$map:03009023$ 몬스터 소탕하기
+EN|Find $item:30000251$ in $map:03009023$ and free the imprisoned people|Rescue $npc:11000807$ in $map:03009023$|Eliminate monsters in $map:03009023$
+###315
+KO|$map:2000057$의 $npc:11001177$에게 $item:30000412$ 받기⏎
+EN|Receive $item:30000412$ from $npc:11001177$ of $map:2000057$⏎
+###316
+KO|$map:2000114$의 $npc:11000618$ 앞에 있는 수레 일으키기
+EN|Lift the cart in front of $npc:11000618$ at $map:2000114$
+###317
+KO|$map:2000115$에 있는 $npc:21000007$에게서 $item:30000196$ 되찾기
+EN|Retrieve $item:30000196$ from $npc:21000007$ at $map:2000115$
+###318
+KO|$map:2000118$에 있는 흔들리는 땅 살펴보기
+EN|Investigate the shaking ground at $map:2000118$
+###319
+KO|$map:2000124$에서 $npcTitle:11000514$ 만나보기|$map:2000124$의 죄수들과 만나 정보 얻기|$map:2000124$의 죄수들과 만나 정보 얻기|$map:2000124$의 죄수들과 만나 정보 얻기
+EN|Meet $npcTitle:11000514$ in $map:2000124$|Gather information from prisoners in $map:2000124$|Gather information from prisoners in $map:2000124$|Gather
+###320
+KO|$map:2000133$의 $map:2000306$에 머물고 있는 $npcName:11000407$에게 $item:30000434$ 받기
+EN|Receive $item:30000434$ from $npcName:11000407$, who lives in $map:2000133$'s $map:2000306$
+###321
+KO|$map:2000276$ 곳곳의 $item:30000382$ 수거하기|$map:2000276$ 내 몬스터 처치하기
+EN|Remove $item:30000382$ at $map:2000276$|Defeat the monster at $map:2000276$
+###322
+KO|$map:2000277$의 로봇 몬스터 처치하기|$map:2000277$의 전류 자가 발전 장치 작동하기
+EN|Defeat the robot monster at $map:2000277$|Operate $map:2000277$'s generator
+###323
+KO|$map:2000298$ 안에 있는 $map:2000304$ 가기
+EN|Go to $map:2000304$ in $map:2000298$
+###324
+KO|$map:2000309$에서 연결된 $map:52000011$ 내 몬스터를 처치하고 결계 안정화시키기
+EN|Defeat the monsters within $map:52000011$, which is connected through $map:2000309$, and stabilize the barrier
+###325
+KO|$map:2000325$에서 마지막 단계까지 통과하기
+EN|Clear all the stages in $map:2000325$
+###326
+KO|$map:2000349$에서 $npcName:11000064$ 찾아 끝까지 함께 조사하기
+EN|Find $npcName:11000064$ in $map:2000349$ and investigate
+###327
+KO|$map:2000350$에서 첫 번째 어둠을 걷어내고 통과하기
+EN|Remove the first darkness at $map:2000350$ and pass
+###328
+KO|$map:52000012$에서 $npc:11000057$ 위협하는 $npc:29000059$ 처치하기
+EN|Defeat $npc:29000059$, who is threatening $npc:11000057$ at $map:52000012$
+###329
+KO|$map:52000018$ 찾기
+EN|Find $map:52000018$
+###330
+KO|$map:52000020$의 입구 부근 조사하기
+EN|Investigate near the entrance of $map:52000020$
+###331
+KO|$map:52000027$에서 $npcName:11000051$ 도와 증거품 확보하기
+EN|Help $npcName:11000051$ at $map:52000027$ and secure the evidence
+###332
+KO|$map:52000037$ 안으로 들어가서 $item:30000385$ 채집하기
+EN|Go into $map:52000037$ and gather $item:30000385$
+###333
+KO|$map:52000037$에서 비밀문을 통해 사라진 정체불명의 사람을 쫓아 단서 찾아내기
+EN|Chase the mysterious stranger who disappeared through the secret door in $map:52000037$ and find clues
+###334
+KO|$map:52000040$ $npc:11001692$에서 정보 열람하기
+EN|Access information from $npc:11001692$ in $map:52000040$
+###335
+KO|$map:52000040$에 있는 비욘드 캡슐을 통해 진실을 쫓아가기
+EN|Follow the truth through the Beyond Capsule in $map:52000040$
+###336
+KO|$map:52000040$에서 $npc:11001724$ 대화해 그동안 쌓인 오해를 풀고 그곳을 빠져나가기
+EN|Speak with $npc:11001724$ in $map:52000040$ to clear the accumulated misunderstandings and escape
+###337
+KO|$map:52000043$ 곳곳을 수색해 신성한 존재 찾기
+EN|Search every corner of $map:52000043$ for the sacred being
+###338
+KO|$map:52000043$에서 사형들과 대화하기
+EN|Speak with the senior disciples in $map:52000043$
+###339
+KO|$map:52000043$에서 신성한 향로, 무나크라의 빛을 반응시키기|$map:52000043$에 나타난 적들을 모두 처치하기
+EN|Activate the sacred incense burner, Light of Munakra, in $map:52000043$|Defeat all enemies that appear in $map:52000043$
+###340
+KO|$map:52000060$에서 악보를 보고 기타 연주 연습하기
+EN|Practice playing guitar by reading sheet music at $map:52000060$
+###341
+KO|$map:52000061$에서 달빛 합주회 공연하기
+EN|Perform at the Moonlight Ensemble at $map:52000061$
+###342
+KO|$map:52000093$에서 몬스터를 처치하거나 룬문자를 조사하여 $item:30000726$ 수집하기
+EN|Defeat monsters in $map:52000093$ or collect $item:30000726$ from runes
+###343
+KO|$map:52000195$에서 $npcName:11000075$의 꿈 내용 확인하기
+EN|Check the dream of $npcName:11000075$ in $map:52000195$
+###344
+KO|$map:52000199$에서 $npcName:11004798$의 이야기 끝까지 듣기⏎<font color="#909090">맵 이탈시 $map:02000146$의 $npcName:11004795$ 통해 재진입 가능</font>
+EN|Listen to $npcName:11004798$'s story to the end in $map:52000199$⏎<font color="#909090">If you leave the map, you can re-enter through $npcName:110047
+###345
+KO|$map:52000202$ 안에 있는 미지의 존재들 확인하기
+EN|Check on the unknown beings inside $map:52000202$
+###346
+KO|$map:52010007$에서 드라켄하임으로 돌아가는 $npcName:11000735$ 배웅하기
+EN|At $map:52010007$, see $npcName:11000735$ off, who is returning to Drachenheim.
+###347
+KO|$map:52010007$에서 빛의 후예가 탄생하는 것을 기다리기
+EN|Wait for the birth of the Light's Descendant at $map:52010007$
+###348
+KO|$map:52010007$에서 용의 기사들이 돌아올 때까지 기다리기
+EN|Wait until the dragon knights return from $map:52010007$
+###349
+KO|$map:52010011$에서 $npcName:11001314$의 마음 얻기
+EN|Win the heart of $npcName:11001314$ at $map:52010011$
+###350
+KO|$map:52010017$에서 $npcName:11000735$ 빛의 조각 되찾는 일 돕기
+EN|Help $npcName:11000735$ find the pieces of light at $map:52010017$
+###351
+KO|$map:52100106$ 진입하기
+EN|Enter $map:52100106$
+###352
+KO|$map:52100108$에서 메인 제어기기 장악하기
+EN|Gain access to the primary controls in $map:52100108$
+###353
+KO|$map:52100115$에서 $npcName:25023003$ 처치하기 ⏎|$map:52100115$에서 $npcName:25023004$ 처치하기⏎|$map:52100118$에서 $npcName:25023303$ 처치하기
+EN|Defeat $npcName:25023003$ in $map:52100115$⏎|Defeat $npcName:25023004$ in $map:52100115$⏎|Defeat $npcName:25023303$ in $map:52100118$
+###354
+KO|$map:52100201$에서 설계도 확보하기
+EN|Secure Blueprints at $map:52100201$
+###355
+KO|$map:63000001$ 이동해 $map:63000003$ 찾아가기
+EN|Travel to $map:63000001$ and find $map:63000003$
+###356
+KO|$map:63000002$에 있는 $npc:11000016$ 대화해 리스항구 행 배 타기
+EN|Talk to $npc:11000016$ in $map:63000002$ to board a ship headed towards Lith Harbor
+###357
+KO|$map:63000038$에서 $npcName:11001780$의 최후 지켜보기
+EN|Watch $npcName:11001780$'s final moments in $map:63000038$
+###358
+KO|$map:63000038$에서 $npcName:24002801$ 대적하기
+EN|Confront $npcName:24002801$ in $map:63000038$
+###359
+KO|$map:63000039$에 갇혀 있는 뒷골목 사람들 구출하기
+EN|Rescue the back-alley people trapped in $map:63000039$
+###360
+KO|$map:63000040$에서 $npcName:11001794$에 있는 데이터 모두 열람하기
+EN|Read all the data at $npcName:11001794$ in $map:63000040$
+###361
+KO|$map:63000044$에서 $item:32000020$ 이용해 물고기 낚기
+EN|Catch fish using $item:32000020$ at $map:63000044$
+###362
+KO|$map:63000044$에서 물고기 낚기
+EN|Catch fish at $map:63000044$
+###363
+KO|$map:63000046$ 외양간에서 $item:33000041$ 모으기
+EN|Collect $item:33000041$ from the barn at $map:63000046$
+###364
+KO|$map:63000046$에서 채광으로 $item:33000023$ 모으기
+EN|Gather $item:33000023$ by mining at $map:63000046$
+###365
+KO|$map:63000046$에서 채광으로 $item:33000024$ 모으기|$map:63000046$에서 채광으로 $item:33000025$ 모으기
+EN|Gather $item:33000024$ by mining at $map:63000046$|Gather $item:33000025$ by mining at $map:63000046$
+###366
+KO|$map:63000052$에서 $item:33000169$ 따기
+EN|Pick $item:33000169$ at $map:63000052$
+###367
+KO|$map:63000052$에서 딴 $item:33000169$으로 $item:20000444$ 만들기
+EN|Craft $item:20000444$ using the $item:33000169$ picked at $map:63000052$
+###368
+KO|$map:63000052$에서 채집으로 $item:33000167$ 모으기|$map:63000052$에서 채집으로 $item:33000168$ 모으기
+EN|Gather $item:33000167$ by foraging at $map:63000052$|Gather $item:33000168$ by foraging at $map:63000052$
+###369
+KO|$npc:11000001$ 도와 [땅의 힘] 스토리 완료하기
+EN|Help $npc:11000001$ and complete the story [Earth's Strength]
+###370
+KO|$npc:11000001$에게 $item:30000317$ 받기|$map:02000316$에서 신성한 어린 그리폰 부화시키기
+EN|Receive $item:30000317$ from $npc:11000001$|Hatch fresh young griffins at $map:02000316$
+###371
+KO|$npc:11000007$ 도와 [악마의 하수인] 스토리 완료하기
+EN|Help $npc:11000007$ and complete the story [Demon's Servant ]
+###372
+KO|$npc:11000012$에게서 우편물 받기
+EN|Receive mail from $npc:11000012$
+###373
+KO|$npc:11000019$ 도와 [바다의 그림자] 스토리 완료하기
+EN|Help $npc:11000019$ and complete the story [Shadow of the Ocean]
+###374
+KO|$npc:11000024$ 알려준 대로 $map:02000062$ 북서쪽의 $map:63000041$ 들어가 $npc:11001838$ 함께 $map:02000001$ 이동하기
+EN|Enter $map:63000041$ northwest of $map:02000062$ as $npc:11000024$ directed, and travel to $map:02000001$ with $npc:11001838$
+###375
+KO|$npc:11000031$ 도와 [숲의 빛] 스토리 완료하기
+EN|Help $npc:11000031$ and complete the story [Light of the Forest]
+###376
+KO|$npc:11000031$에게 $item:30000315$ 받기|$map:02000315$에서 숲의 빛 밝히기
+EN|Receive $item:30000315$ from $npc:11000031$|Unveil the light of the forest at $map:02000315$
+###377
+KO|$npc:11000119$에게 $item:30000060$ 돌려받기
+EN|Get $item:30000060$ back from $npc:11000119$
+###378
+KO|$npc:11000148$ 주변 $item:30000130$들을 $map:63000001$ 마을 창고 앞으로 옮기기
+EN|Move the $item:30000130$ near $npc:11000148$ to the front of the village warehouse at $map:63000001$
+###379
+KO|$npc:11000157$ 근처에 놓인 장비 상자를 아래로 옮기기
+EN|Move the equipment box that lies near $npc:11000157$ down the stairs
+###380
+KO|$npc:11000159$ 뒤편의 솟아오른 땅에서 $item:20000063$ 찾아오기
+EN|Find $item:20000063$ on the elevated ground behind $npc:11000159$
+###381
+KO|$npc:11000179$에게 열쇠 받기
+EN|Receive a key from $npc:11000179$
+###382
+KO|$npc:11000186$ 옆에 있는 $item:30000028$ 꺾기|$map:02000085$ 중심부에 얼어버린 희생자들 중 $npc:11000188$ 찾아 녹이기 
+EN|Pluck $item:30000028$ next to $npc:11000186$|Find $npc:11000188$ among the frozen victims in the center of $map:02000085$ and thaw them 
+###383
+KO|$npc:11000266$ 도와 [도시의 위협자] 스토리 완료하기|$npc:11000009$ 도와 [바야르 산맥의 저주]스토리 완료하기
+EN|Help $npc:11000266$ and complete the story [City Threat]|Help $npc:11000009$ and complete the story [Curse of the Vayar Mountains]
+###384
+KO|$npc:11000345$으로 $item:30000154$ 만들기
+EN|Create the $item:30000154$ using the $npc:11000345$
+###385
+KO|$npc:11000355$의 친구들 구출하기
+EN|Rescue $npc:11000355$'s friends
+###386
+KO|$npc:11000385$ 아래에 있는 과일 바구니 청소하기
+EN|Clean the fruit basket underneath $npc:11000385$
+###387
+KO|$npc:11000401$ 주변 $item:30000124$를 마당으로 옮기기
+EN|Move the $item:30000124$ scattered around $npc:11000401$ to the yard
+###388
+KO|$npc:11000543$의 [위태로운 석유관] 도와주기|$npc:11000353$의 [코브라들이 뿔났다] 도와주기|$npc:11000533$의 [몹쓸 방화범] 도와주기
+EN|Help $npc:11000543$ with [Hazardous Oil Pipe]|Help $npc:11000353$ with [The Cobras Are Furious]|Help $npc:11000533$ with [The Wretched Arsonist]
+###389
+KO|$npc:11000548$에게 $item:30000173$ 받기|$map:02000115$ 끊어진 땅에서 망가진 석궁 수리하기
+EN|Obtain $item:30000173$ from $npc:11000548$|Repair the Broken Crossbow in the Severed Land of $map:02000115$
+###390
+KO|$npc:11000869$ 도와 [시간의 그림자] 스토리 완료하기
+EN|Help $npc:11000869$ and complete the story [Shadow of Time]
+###391
+KO|$npc:11000996$의 옆에 있는 나무 위로 올라가 $item:30000330$ 멀리 던지기
+EN|Climb the tree next to $npc:11000996$ and throw $item:30000330$ far away
+###392
+KO|$npc:11001064$에게 $item:30000364$ 받기|$map:02000183$ 곳곳에 촬영 장비 설치하기
+EN|Receive $item:30000364$ from $npc:11001064$|Install filming equipment around $map:02000183$
+###393
+KO|$npc:11001145$의 옆에 있는 $npc:11001146$ 읽어보기
+EN|Read $npc:11001146$ next to $npc:11001145$
+###394
+KO|$npc:11001277$의 작업이 무사히 끝날 때까지 곁에서 돕기
+EN|Stay by $npc:11001277$'s side and help until the work is safely completed
+###395
+KO|$npc:11001392$ 대화해 상태 확인해보기
+EN|Speak with $npc:11001392$ to check on her condition
+###396
+KO|$npc:11001730$ 있는 물탱크 옆 검은 지붕의 흰색 건물 1층의 $map:52000042$에 들어가 단서 찾기
+EN|Enter $map:52000042$ on the first floor of the white building with a black roof next to $npc:11001730$'s water tank and search for clues
+###397
+KO|$npc:21000001$ 물리치기
+EN|Defeat $npc:21000001$
+###398
+KO|$npc:21000031$에게서 $item:30000390$ 구하기|$npc:21000009$에게서 $item:30000392$ 구하기|초콜릿 샘에서 $item:30000391$ 구하기|붉은 나무에서 $item:30000393$ 채집하기
+EN|Get $item:30000390$ from $npc:21000031$|Get $item:30000392$ from $npc:21000009$|Get $item:30000391$ from the Chocolate Spring|Gather $item:30000393$ f
+###399
+KO|$npc:21000045$에게서 $item:30000092$ 찾기
+EN|Find $item:30000092$ from $npc:21000045$
+###400
+KO|$npc:21000087$을 처치하고 $item:30000001$ 모으기
+EN|Defeat $npc:21000087$ and collect $item:30000001$
+###401
+KO|$npc:21000169$에게서 $item:30000367$ 빼앗기|$npc:21000174$에게서 $item:30000368$ 빼앗기|$npc:21000172$에게서 $item:30000369$ 빼앗기
+EN|Take $item:30000367$ from $npc:21000169$|Take $item:30000368$ from $npc:21000174$|Take $item:30000369$ from $npc:21000172$
+###402
+KO|$npc:21000243$에게서 $item:30000370$ 구하기|$npc:21000240$에게서 $item:30000371$ 구하기
+EN|Obtain $item:30000370$ from $npc:21000243$|Obtain $item:30000371$ from $npc:21000240$
+###403
+KO|$npc:21000279$ 사냥하여 $item:30000359$ 구해오기|$npc:21000168$ 사냥하여 $item:30000360$ 구해오기|$npc:21000195$ 사냥하여 $item:30000361$ 구해오기
+EN|Hunt $npc:21000279$ to acquire $item:30000359$|Hunt $npc:21000168$ to acquire $item:30000360$|Hunt $npc:21000195$ to acquire $item:30000361$
+###404
+KO|$npc:21000353$ 사냥하여 가져오기
+EN|Hunt and bring $npc:21000353$
+###405
+KO|$npc:40000020$ 처치하고 $item:30000214$ 획득하기|$map:03000136$의 노란색 드럼통에서 부아탄 오일 찾기
+EN|Defeat $npc:40000020$ and obtain $item:30000214$|Find Buatan Oil in the yellow drums of $map:03000136$
+###406
+KO|$npcName:11000058$에게 편지 받기
+EN|Receive the letter from $npcName:11000058$
+###407
+KO|$npcName:11001146$에 쓰여 있는 대로 $npcName:11001147$ 사용해서 $item:30000395$ 만들기
+EN|Make $item:30000395$ using $npcName:11001147$ as written in $npcName:11001146$
+###408
+KO|$npcName:11001229$ 원정대를 도와 해적들 소탕하기
+EN|Help the expedition team and $npcName:11001229$ defeat the pirates
+###409
+KO|$npcName:11001396$에게서 석판 조각 받기|$npcName:11001397$ 만나 석판 조각의 해석 부탁하기
+EN|Receive the stone tablet fragment from $npcName:11001396$|Meet $npcName:11001397$ and ask for interpretation of the stone tablet fragment
+###410
+KO|$npcName:11001493$ 대화해 과거로 이동하기|과거의 $npcName:11001499$ 대화하기
+EN|Speak with $npcName:11001493$ and go to the past|Speak with $npcName:11001499$ of the past
+###411
+KO|$npcName:11001498$ 대화해 과거로 이동하기|그날의 상황 지켜보기
+EN|Speak with $npcName:11001498$ and go to the past|Observe the situation of that day
+###412
+KO|$npcName:11001557$ 함께 $map:52000050$ 이동하기
+EN|Move to $map:52000050$ with $npcName:11001557$
+###413
+KO|$npcName:11004316$로 이동하기
+EN|Talk to $npcName:11004316$
+###414
+KO|$npcName:11004319$ 대화하기|$npcName:11004320$ 대화하기|$npcName:11004321$ 대화하기|$npcName:11004322$ 대화하기
+EN|Speak with $npcName:11004319$|Speak with $npcName:11004320$|Speak with $npcName:11004321$|Speak with $npcName:11004322$
+###415
+KO|$npcName:21000027$ 퇴치⏎
+EN|
+###416
+KO|$npcName:21000334$타도
+EN|
+###417
+KO|$npcName:21000674$에게서 의문의 석판 조각 얻기
+EN|Obtain mysterious stone tablet fragments from $npcName:21000674$
+###418
+KO|$npcName:23000073$의 토템 파괴하기.
+EN|Destroy $npcName:23000073$'s totems.
+###419
+KO|$npcName:25020003$, $npcName:25020004$, $npcName:25020005$ 처치하기
+EN|Defeat $npcNamePlural:25020003$, $npcNamePlural:25020004$, and $npcNamePlural:25020005$
+###420
+KO|$npcName:25020701$, $npcName:25020702$, $npcName:25020703$ 처치
+EN|Defeat $npcNamePlural:25020701$, $npcNamePlural:25020702$, and $npcNamePlural:25020703$
+###421
+KO|$npcName:29000247$의 방어병력을 처치하기
+EN|Defeat $npcName:29000247$'s minion
+###422
+KO|$npcName:29000247$의 수하가 된 기계병사 처치하기
+EN|Defeat $npcName:29000247$'s mechanical soldiers
+###423
+KO|(보스) $map:02000023$ 숲 속 거대 괴수들을 처치하고 $item:30000314$ 되찾기
+EN|(Boss) Defeat the giant monster at $map:02000023$ forest and reclaim $item:30000314$
+###424
+KO|(보스) $map:02000214$의 $npc:23000047$ 처치하기
+EN|(Boss) Defeat $npc:23000047$ at $map:02000214$
+###425
+KO|(보스) $map:02000312$에 가두어 놓은 $npc:23100039$ 처치하기
+EN|(Boss) Defeat $npc:23100039$ captured in $map:02000312$
+###426
+KO|(보스) $map:02000313$에서 $npc:23100100$ 처치하기|$npc:21400001$ 처치하기|$npc:21400001$ 지닌 $item:30000282$ 획득하기
+EN|(Boss) Defeat $npc:23100100$ at $map:02000313$|Defeat $npc:21400001$|Retrieve $item:30000282$ that $npc:21400001$ carries
+###427
+KO|(보스) $map:02000356$에서 $npc:23100007$ 처치하기|$map:02000213$에서 그림자 영혼석 파괴하기
+EN|(Boss) Defeat $npc:23100007$ at $map:02000356$|Destroy the Spirit Stone at $map:02000213$
+###428
+KO|(보스) 사나운 악마의 개 $npc:23000045$ 처치하기
+EN|(Boss) Defeat the fierce devil dog $npc:23000045$
+###429
+KO|(엘리트) $map:02000076$ 지역 괴수들을 처치하고 $item:30000316$ 되찾기
+EN|(Elite) Defeat monsters in the $map:02000076$ region and reclaim $item:30000316$
+###430
+KO|(엘리트) $map:02000276$ 위협하는 $npc:22000023$ 처치하기
+EN|(Elite) Defeat $npc:22000023$ threatening $map:02000276$
+###431
+KO|(엘리트) $map:02000297$에서 노예 집행관 $npc:24000516$ 처단하기
+EN|(Elite) Defeat the taskmaster $npc:24000516$ at $map:02000297$
+###432
+KO|(엘리트) $map:02010052$에 있는 $npc:24001807$ 싸워 이기기
+EN|(Elite) Defeat $npcName:24001807$ in $map:02010052$
+###433
+KO|(엘리트) $npc:22000007$의 $item:30000186$ 구하기
+EN|(Elite) Obtain $npc:22000007$'s $item:30000186$
+###434
+KO|(엘리트) $npc:22090007$ 처치하고 $item:30000366$ 구하기
+EN|(Elite) Defeat $npc:22090007$ and obtain $item:30000366$
+###435
+KO|(엘리트) $npc:22090165$의 물건 가져오기
+EN|(Elite) Retrieve $npc:22090165$'s Items
+###436
+KO|(엘리트) 카트라무스에서 $npc:11000188$ 엄마의 은팔찌 찾기
+EN|(Elite) Find the silver bracelet of $npc:11000188$'s mother at Katramus
+###437
+KO|120초 동안 로프에 매달려 있기
+EN|Hang from a rope for 120 seconds
+###438
+KO|120초 동안 물 속에 있기
+EN|Stay in water for 120 seconds
+###439
+KO|120초 동안 잔디 위에 있기
+EN|Stand on grass for 120 seconds
+###440
+KO|300초 동안 사다리에 매달려 있기
+EN|Hang on a ladder for 300 seconds
+###441
+KO|300초 동안 악기 연주하기
+EN|Play an instrument for 300 seconds
+###442
+KO|EMP 폭탄으로 몬스터 공격하기
+EN|Attack enemies with EMP bombs
+###443
+KO|MC $npcName:11000168$ 안내하는 이벤트에 참여하기
+EN|Participate in one of $npc:11000168$'s events
+###444
+KO|[던전 혼자 입장]을 이용해 "$dungeonTitle:20022002$" 던전으로 가서 마드라칸 첨탑 완료하기
+EN|Use the Enter Dungeon button to travel to $dungeonTitle:20022002$ and clear Madrakan Spire
+###445
+KO|[던전 혼자 입장]을 이용해 "$dungeonTitle:21022001$" 던전으로 가서 $npc:24003001$ 진정시키기|[던전 혼자 입장]을 이용해 "$dungeonTitle:21022001$" 던전으로 가서 $npc:24003002$ 진정시키기
+EN|Use Enter Dungeon button to go to $dungeonTitle:21022001$ and calm $npcName:24003001$ |Calm $npcName:24003002$
+###446
+KO|[던전 혼자 입장]을 이용해 "$dungeonTitle:21023001$" 던전으로 가서 $npc:24002931$ 진정시키기
+EN|Use Enter Dungeon button to go to $dungeonTitle:21023001$ and calm $npcName:24002931$
+###447
+KO|[던전 혼자 입장]을 이용해 "$dungeonTitle:21024001$" 던전으로 가서 마드라칸 성벽 완료하기
+EN|Use the Enter Dungeon button to travel to $dungeonTitle:21024001$ and clear Madrakan Castle Bailey
+###448
+KO|[던전 혼자 입장]을 이용해 "$dungeonTitle:21025001$" 던전으로 가서 마드라칸 잠입 완료하기
+EN|Use the Enter Dungeon button to travel to $dungeonTitle:21025001$
+###449
+KO|与$npcName:11003613$的守护骑士$npcName:$决斗
+EN|Duel with $npcName:11003613$'s Guardian Knight $npcName:$
+###450
+KO|从$map:02020012$的$npc:11003669$处领取$item:30001017$
+EN|Receive $item:30001017$ from $npc:11003669$ at $map:02020012$
+###451
+KO|从$npc:11003620$手上夺回$item:30000980$
+EN|Retrieve $item:30000980$ from $npc:11003620$
+###452
+KO|修理$map:02020007$的$npcName:11003603$
+EN|Repair $npcName:11003603$ in $map:02020007$
+###453
+KO|关掉防入侵陷阱开关|消灭$map:52020004$中出现的怪物
+EN|Turn off the anti-intrusion trap switches|Defeat the monsters that appear in $map:52020004$
+###454
+KO|利用$map:02020005$的$npcName:11003711$获得入场权限
+EN|Obtain an entry permit by using $npcName:11003711$ in $map:02020005$
+###455
+KO|去$map:02020013$消灭怪物|找到被飞禽叼走的$item:30001018$|收集$item:30001019$
+EN|Go to $map:02020013$ and defeat monsters|Find the $item:30001018$ snatched away by birds|Collect $item:30001019$
+###456
+KO|去$map:02020014$东边大树顶端的云岛上收集$item:30001022$
+EN|Go to the cloud island atop the great tree east of $map:02020014$ to collect $item:30001022$
+###457
+KO|去$map:02020016$消灭$npc:21200013$⏎|去$map:02020016$消灭$npc:21200014$⏎|去$map:02020016$消灭$npc:21200015⏎|去$map:02020016$消灭$npc:21200016$
+EN|
+###458
+KO|去$map:02020016$调查机械堆，收集$item:30001012$
+EN|Go to $map:02020016$, investigate the machinery piles, and collect $item:30001012$
+###459
+KO|去$map:02020016$调查黑水晶，收集$item:30001013$
+EN|Go to $map:02020016$, investigate the Black Crystals, and collect $item:30001013$
+###460
+KO|去$map:52020031$搜索苍穹之心
+EN|Search $map:52020031$ for the Celestial Heart
+###461
+KO|向$map:02020012$的$npc:11003654$打听失踪的助手|向$map:02020012$的$npc:11003656$打听失踪的助手|向$map:02020012$的$npc:11003657$打听失踪的助手
+EN|Ask $npc:11003654$ of $map:02020012$ about the missing assistant|Ask $npc:11003656$ of $map:02020012$ about the missing assistant|Ask $npc:11003657$ o
+###462
+KO|和$npc:11003581$对话，搭乘天空堡垒 
+EN|Talk to $npc:11003581$ and board the Sky Fortress 
+###463
+KO|在$map:02020003$的$map:52020006$里消灭所有涌上来的敌人
+EN|Defeat all the enemies that surge forth inside $map:52020006$ in $map:02020003$
+###464
+KO|在$map:02020012$$map:52020002$查看克里蒂亚斯古地图
+EN|Examine the ancient Kritias map in $map:02020012$$map:52020002$
+###465
+KO|在$map:52020005$和恩人们道谢，并告别
+EN|Thank the benefactors in $map:52020005$ and say goodbye
+###466
+KO|在条件达成礼包弹窗中获得$item:20301287$并打开
+EN|Obtain and open $item:20301287$ from the Condition Completion Gift popup
+###467
+KO|寻找$map:52020010$里扭曲了时间的强力时钟
+EN|Find the powerful clock in $map:52020010$ that has distorted time
+###468
+KO|操作$map:52020010$大厅里的钟
+EN|Operate the clock in the lobby of $map:52020010$
+###469
+KO|收集$item:30000981$|收集$item:30000982$|收集$item:30000983$
+EN|Collect $item:30000981$|Collect $item:30000982$|Collect $item:30000983$
+###470
+KO|收集$map:02020004$的木偶体内的$item:30000984$
+EN|Collect the $item:30000984$ from the puppets in $map:02020004$
+###471
+KO|收集1,600个$item:20301285$|收集800,000金币
+EN|Collect 1,600 $item:20301285$|Collect 800,000 mesos
+###472
+KO|消灭$map:02020002$中徘徊的自主武器|收集回$item:30001016$
+EN|Defeat the autonomous weapons prowling in $map:02020002$|Collect $item:30001016$
+###473
+KO|消灭$map:02020003$中狂暴的怪物|调查魔法阵
+EN|Defeat the rampaging monsters in $map:02020003$|Investigate the Magic Circle
+###474
+KO|消灭$map:02020008$中游荡的木偶
+EN|Eliminate the puppets wandering in $map:02020008$
+###475
+KO|消灭$map:02020014$$map:52020023$中狂暴的怪物|翻找箱子收集$item:30001023$
+EN|Defeat the rampaging monsters in $map:02020014$$map:52020023$|Search the boxes to collect $item:30001023$
+###476
+KO|消灭$map:52020028$的守护者$npc:22000117$
+EN|Defeat the guardian $npc:22000117$ of $map:52020028$.
+###477
+KO|消灭在$map:02020011$兴风作浪的松鼠盗贼团|查看丢弃的食物包或消灭松鼠盗贼团，回收$item:30001015$
+EN|Eliminate the squirrel bandit crew causing trouble in $map:02020011$|Inspect the discarded food packs or eliminate the squirrel bandit crew to recover
+###478
+KO|消灭破坏$map:02020006$的自主武器
+EN|Eliminate the autonomous weapons destroying $map:02020006$
+###479
+KO|消灭蜂拥而上的$npc:11001813$的部下
+EN|Defeat $npc:11001813$'s minions as they swarm in
+###480
+KO|用$item:30001018$打开$map:02020014$西边大树周围的篱笆|调查树根，找出$item:30001021$
+EN|Use $item:30001018$ to open the fence around the big tree west of $map:02020014$|Investigate the tree roots to find $item:30001021$
+###481
+KO|离开$map:52020031$
+EN|Leave $map:52020031$
+###482
+KO|穿越浮岛，成功完成紧急逃生
+EN|Cross the floating islands and complete the emergency escape
+###483
+KO|获得$item:30000601$
+EN|Obtain $item:30000601$
+###484
+KO|解决$npc:11003769$出的所有难题|领取$npc:11003769$的礼物
+EN|Solve all the puzzles given by $npc:11003769$|Claim $npc:11003769$'s gift
+###485
+KO|调查$map:02020005$的自动贩卖机，收集$item:30000985$
+EN|Investigate the vending machine in $map:02020005$ and collect $item:30000985$
+###486
+KO|调查散落在$map:02020016$的书，收集$item:30001014$
+EN|Find the books scattered throughout $map:02020016$ and collect $item:30001014$.
+###487
+KO|进入$map:02020003$的$map:52020006$
+EN|Enter $map:52020006$ in $map:02020003$
+###488
+KO|进入$map:52020003$内部等待$npc:11003538$
+EN|Enter $map:52020003$ and wait for $npc:11003538$
+###489
+KO|进入$map:52020007$，对内部进行彻底调查
+EN|Enter $map:52020007$ and conduct a thorough investigation of the interior.
+###490
+KO|进入$map:52020022$内部，调查可疑墙壁
+EN|Enter $map:52020022$ and investigate the suspicious wall
+###491
+KO|逃离$map:52020004$的危机局面
+EN|Escape the crisis at $map:52020004$
+###492
+KO|逃离噩梦庆典
+EN|Escape from the Nightmare Celebration
+###493
+KO|通过$npc:11003622$的话寻找线索
+EN|Find clues through what $npc:11003622$ said
+###494
+KO|阅读$map:52020020$书桌上的纸条
+EN|Read the note on the desk in $map:52020020$
+###495
+KO|가스통을 던져 몬스터 공격하기
+EN|Throw gas tanks at enemies
+###496
+KO|강하선을 노리는 $map:02020029$의 몬스터 처치하기
+EN|Defend the dropship in $map:02020029$ by defeating nearby monsters
+###497
+KO|개미굴 지역에서 $item:20000054$ 모으기
+EN|Gather $item:20000054$ around the Ant Tunnel area
+###498
+KO|게오르크의 거점인 $map:02020030$로 이동하기
+EN|Travel to the Humanitas base in $map:02020030$
+###499
+KO|격벽 열어보기
+EN|Attempt to open the blast door
+###500
+KO|계란을 집어 던져 몬스터 공격하기
+EN|Throw eggs at enemies
+###501
+KO|고대 루미에라곤의 기록 해독 작업 기다리기
+EN|Wait for Lumieragon to decipher the record
+###502
+KO|고전압의 전류가 흐르는 전선 차단하기
+EN|Disconnect the high-voltage electrical wire
+###503
+KO|공중 발판 조사하기
+EN|Examine the platform in the sky
+###504
+KO|구멍 속 $npc:99000038$들 처치하기
+EN|Defeat the $npc:99000038$ inside the hole
+###505
+KO|군단전 승리하기
+EN|Win a Legion Battle
+###506
+KO|그림자 문 주변 26레벨 이상 하비 몬스터를 처치하고 $item:30000435$ 모으기
+EN|Defeat monsters of level 26 and above near the shadow door and collect $item:30000435$
+###507
+KO|그림자 문 주변 몬스터 처치하기
+EN|Defeat monsters near the Shadow Gate
+###508
+KO|그림자 세포를 생산하는 배양기의 작동 멈추기
+EN|Stop the incubators producing Shadow Cells
+###509
+KO|기간틱 드릴 작동하기
+EN|Operate the Gigantic Drill
+###510
+KO|기계 병사들을 처치하고 $item:30001266$ 수집하기
+EN|Defeat mechanical soldiers to obtain $item:30001266$
+###511
+KO|나무 보물 상자 열어 보기
+EN|Open wooden treasure chests
+###512
+KO|나무스포아 사냥하기
+EN|Spore Hunt
+###513
+KO|나즈카르 신전 지역의 몬스터들을 처치하고 나즈카르 지도 찾기
+EN|Defeat the monsters in the Nazkar Temple region and find the map of Nazkar
+###514
+KO|낚시로 독액에 사는 물고기 낚기
+EN|Catch a foulwater fish
+###515
+KO|낚시로 민물에 사는 물고기 낚기
+EN|Catch a freshwater fish
+###516
+KO|낚시로 바닷물에 사는 물고기 낚기
+EN|Catch an ocean fish
+###517
+KO|낚시로 용암에 사는 물고기 낚기
+EN|Catch a lava fish
+###518
+KO|내 집에 설치된 $item:50400159$에 먹이주기
+EN|Feed the $item:50400159$ installed at your house
+###519
+KO|내 집에 설치된 $item:50400191$에 거름 주기
+EN|Fertilize the $item:50400191$ installed at your house
+###520
+KO|내 집에서 키우는 닭의 $item:33000026$ 수확 시도하기
+EN|Try harvesting $item:33000026$ from the chicken raised at your house
+###521
+KO|농땡이 피우는 죄수들 혼내주기
+EN|Scold the lazy offenders
+###522
+KO|다이나마이트 카트를 밀어 몬스터 공격하기
+EN|Shove dynamite carts at enemies
+###523
+KO|닭장 문을 열어 암탉들을  모두 구출하기
+EN|Open the chicken coop doors and rescue all the hens
+###524
+KO|닭장 문을 열어 암탉들을 모두 구출하기
+EN|Open the chicken coop doors and rescue all the hens
+###525
+KO|닭장을 집어 던져 몬스터 공격하기
+EN|Throw chicken coops at enemies
+###526
+KO|던전에서 보상 획득하기
+EN|Collect dungeon rewards
+###527
+KO|두 명 이상 모여서 함께 합주해보기
+EN|Gather two or more people and try an ensemble performance
+###528
+KO|레일라와 $npcName:11000735$의 교감의식 돕기
+EN|Help to establish the connection between Leila and $npcName:11000735$
+###529
+KO|말라버린 옥수수밭에 물 주기
+EN|Water the dry cornfield
+###530
+KO|망원경 1번 들여다보기
+EN|Use binoculars 1 time
+###531
+KO|망원경으로 $map:02000001$ 전경 훑어보기
+EN|Scan the $map:02000001$ Landscape with a Telescope
+###532
+KO|멜로디 연주 후 황금상자 열기
+EN|Play the melody and open the golden chest
+###533
+KO|모든 커닝시티 방어 임무 완수 하기 ⏎<font color="#909090">퀘스트 진행 중 대사로 재 진입 가능</font>
+EN|Complete all Kerning City defense missions⏎<font color="#909090">Can re-enter via quest dialogue during the quest</font>
+###534
+KO|무지개 똥 휘두르며 몬스터 공격하기
+EN|Strike enemies using rainbow poop trees
+###535
+KO|바이러스에 감염된 변종 몬스터 사냥하기
+EN|Hunt mutant monsters infected with the virus
+###536
+KO|벚꽃 나무 주변 꽃 파보기
+EN|Dig around the flowers near the cherry blossom tree
+###537
+KO|벚꽃나무 위로 도망친 $npc:99000039$에게서 타임캡슐을 뺏기
+EN|Take the time capsule from $npc:99000039$ that escaped up the cherry blossom tree
+###538
+KO|북쪽 구릉 근처의 $npcName:25020001$ 처치하기
+EN|Defeat $npcNamePlural:25020001$ on the hill to the north.
+###539
+KO|불길한 기운 확인하기
+EN|Confirming the Ominous Energy
+###540
+KO|불드럼을 던져 몬스터 공격하기
+EN|Throw flaming barrels at enemies
+###541
+KO|불을 피우는데 필요한 $item:30000354$ 구해오기|낚시 떡밥으로 사용할 $item:30000358$ 잡아오기
+EN|Acquire $item:30000354$ to make a fire|Catch $item:30000358$ to be used as fishing bait
+###542
+KO|블랙노프호에 탑승하여 내부 상황 파악하기
+EN|Board the Blacknov and assess the situation inside
+###543
+KO|비상구호품 상자를 뒤져 $item:30000313$ 찾기
+EN|Go through the emergency aid box to find $item:30000313$
+###544
+KO|빙하집 내려찍어서 몬스터 공격하기
+EN|Smack enemies with igloos
+###545
+KO|빼앗긴 광석 되찾기
+EN|Recover the ore
+###546
+KO|사용하지 않는 장비 분해하기
+EN|Dismantle unused equipment
+###547
+KO|상한 무지개 똥 휘두르며 몬스터 공격하기
+EN|Strike enemies using rotted rainbow poop trees
+###548
+KO|샤워실 내려찍어서 몬스터 공격하기
+EN|Smack enemies with shower stalls
+###549
+KO|소지품에 있는 $item:39000050$ 더블클릭해 내용 확인하기
+EN|Double-click $item:39000050$ in your inventory to check its contents
+###550
+KO|수면 가스에 노출되어 잠들어버린 연구원들 깨우기
+EN|Wake up the researchers who fell asleep because of the sleeping gas
+###551
+KO|수색대를 회복시킬 $item:30001264$ 수집하기
+EN|Collect $itemPlural:30001264$ for the wounded soldiers
+###552
+KO|수풀 더미 속 $npc:29000041$ 사냥하여 $npc:11000930$에게 가져다 주기
+EN|Hunt the $npc:29000041$ in the bushes and bring it to $npc:11000930$
+###553
+KO|스페셜 부스에 전시된 한정판 최신 스포츠카를 재조립해서 가져가기
+EN|Reassemble the limited edition sports car on display at the Special Booth and bring it back
+###554
+KO|시간의 저주에 걸려 좀비로 변해버린 괴물 토끼 사냥하기
+EN|Defeat the monster bunnies who became zombies due to the curse of time
+###555
+KO|식생 샘플 확보하기
+EN|Collect a sample of the local flora
+###556
+KO|신호등 뽑아 휘두르며 몬스터 공격하기
+EN|Strike enemies using stoplights
+###557
+KO|쓰레기통을 밀어 몬스터 공격하기
+EN|Shove trash cans at enemies
+###558
+KO|아르케온 무력화하기
+EN|Neutralize Arkeon
+###559
+KO|악보 한 곡 완곡으로 연주하기
+EN|Play a complete song from sheet music
+###560
+KO|알현식이 열리는 $map:02000001$ 가기
+EN|Go to $map:02000001$, the location where the levee will be held
+###561
+KO|암벽 등반 스킬을 사용하여 $map:02000116$ 포털 위 나무에서 풍선 가져오기
+EN|Use rock climbing skills to retrieve the balloon from the tree above the $map:02000116$ portal
+###562
+KO|암벽 위 딱딱새의 둥지에서 알 찾아보기
+EN|Search the Pecky Bird's nest on the cliff for an egg
+###563
+KO|어둠의 땅 $map:03009001$에서 $npc:11000804$에게 $item:30000218$ 받기
+EN|Receive $item:30000218$ from $npc:11000804$ in the Dark Land $map:03009001$
+###564
+KO|어둠의 땅 $map:3000103$에 있는 $map:2000349$에서 새로운 마왕의 아들 처치하기
+EN|Defeat the Demon King's son at $map:2000349$ in the Land of Darkness's $map:3000103$
+###565
+KO|어둠의 땅 $map:3000103$에 있는 $map:2000349$에서 요정들 모두 구출하기
+EN|Save all the Fairies at $map:2000349$ in the Land of Darkness's $map:3000103$
+###566
+KO|어둠의 땅 방문하기
+EN|Visit the Land of Darkness
+###567
+KO|어둠의 땅에서 몬스터를 처치하고 $item:30000194$ 구하기
+EN|Defeat monsters in the Dark Land and obtain $item:30000194$
+###568
+KO|에너지 저장 캡슐에 보관되어 있는 $item:30000353$ 가져오기
+EN|Retrieve $item:30000353$ from the energy storage capsule
+###569
+KO|에네르 장치에서 에네르 결정 확보하기
+EN|Take the Aetherine Crystal from the Aetherine Device
+###570
+KO|오염된 $map:52000058$에서 괴이한 물고기 낚기
+EN|Catch bizarre fish in the polluted $map:52000058$
+###571
+KO|오크통을 던져 몬스터 공격하기
+EN|Throw Explosives Barrels at enemies
+###572
+KO|용암길을 따라가 길막힘을 찾은 후 수리하기
+EN|Follow the lava, locate the blockage, and fix it
+###573
+KO|용암이 끓어오르는 $map:52000059$에서 괴이한 물고기 낚기
+EN|Catch bizarre fish at $map:52000059$ where lava is boiling
+###574
+KO|위험에 처한 $npcName:11001679$ 구출하기
+EN|Rescue the endangered $npcName:11001679$
+###575
+KO|의미 불명의 도착점으로 이동하기
+EN|Go to Nairin's coordinates
+###576
+KO|인도자의 성지를 탐색하고 신기 찾아내기
+EN|Explore the Guide's Sanctuary and find the divine artifact
+###577
+KO|자료 찾아보기
+EN|Search for answers and get to safety
+###578
+KO|적의 공격으로부터 살아남기⏎<font color="#909090">맵 이탈시 $map:52000091$에 위치한 $npcName:11003091$와 대화하여 재 진입 가능</font>
+EN|Survive the enemy's attack⏎<font color="#909090">If you leave by mistake, talk to $npcName:11003091$ in $map:52000091$ to return.</font>
+###579
+KO|전봇대 뽑아 휘두르며 몬스터 공격하기
+EN|Strike enemies using telephone poles
+###580
+KO|정체불명의 진동 확인하기
+EN|Check the Strange Vibration
+###581
+KO|제단 위 항아리에서 불의 주문을 외우고 $item:30000201$ 만들기
+EN|Make $item:30000201$ by chanting the incantation to the jar on the altar
+###582
+KO|철창 파괴하기
+EN|Destroy crate
+###583
+KO|카르카르 아일랜드에 있는 몬스터 처치하기
+EN|Defeat the monsters of Karkar Island
+###584
+KO|카메라로 유적 촬영하기
+EN|Take a picture of the ancient structure using the camera
+###585
+KO|카오스 그림자 군단의 제단에서 그림자술사 데보라크를 처치하라
+EN|Defeat Deborak the Shadow Mage at the Chaos Shadow Altar
+###586
+KO|카오스 달빛선장의 요새에서 캡틴 모크를 처치하라
+EN|Defeat Captain Moc at the Chaos Moonlight Fortress
+###587
+KO|카오스 레이드 $dungeonTitle:23043003$ 혹은 [어려움]에서 $npcName:23000150$ 처치하기
+EN|Defeat $npcName:23000150$ in the chaos raid $dungeonTitle:23043003$ or $dungeonTitle:23042003$.
+###588
+KO|카오스 루벨리스크에서 바르칸트를 처치하라
+EN|Defeat Varkant at Chaos Rubelisk
+###589
+KO|카오스 불멸의 신전에서 발록을 처치하라
+EN|Defeat Balrog at the Chaos Temple of Immortality
+###590
+KO|커닝버스 내려찍어서 몬스터 공격하기
+EN|Smack enemies with Kerning buses
+###591
+KO|커닝트럭 내려찍어서 몬스터 공격하기
+EN|Smack enemies with Kerning trucks
+###592
+KO|커닝폰부스 내려찍어서 몬스터 공격하기
+EN|Smack enemies with Kerning phone booths
+###593
+KO|타이어를 굴려 몬스터 공격하기
+EN|Roll tires at enemies
+###594
+KO|태엽 폭탄으로 몬스터 공격하기
+EN|Attack enemies with wind-up bombs
+###595
+KO|택시 3회 이용하기
+EN|Ride 3 taxis
+###596
+KO|토네이도 슬래쉬 사용하기
+EN|Use Tornado Slash
+###597
+KO|토템 집어 휘두르며 몬스터 공격하기
+EN|Strike enemies using totems
+###598
+KO|파이프 집어 휘두르며 몬스터 공격하기
+EN|Strike enemies using pipes
+###599
+KO|페리온집 내려찍어서 몬스터 공격하기
+EN|Smack enemies with Perion houses
+###600
+KO|폐기물 드럼통을 던져 몬스터 공격하기
+EN|Throw toxic waste drums at enemies
+###601
+KO|포이즌 케이브 끝까지 탐색하기
+EN|Explore Poison Cave to the very end
+###602
+KO|포이즌 케이브에서 $npc:22000047$ 찾아서 처치하기
+EN|Find and defeat $npc:22000047$ in the Poison Cave
+###603
+KO|포잉 교감 시도하기
+EN|Try communicating with a Poing
+###604
+KO|폭탄을 집어 던져 몬스터 공격하기
+EN|Throw bombs at enemies
+###605
+KO|표지판 집어 휘두르며 몬스터 공격하기
+EN|Strike enemies using road signs
+###606
+KO|푸른빛이 새어나오는 모자 속 세상을 탐험해보기
+EN|Explore the world inside the hat glowing with blue light
+###607
+KO|해적들의 본거지에 있는 해적들 소탕하기
+EN|Wipe out the pirates in their hideout
+###608
+KO|화장실 내려찍어서 몬스터 공격하기
+EN|Smack enemies with portable toilets
+###609
+KO|화재의 원인으로 추정되는 곳, $map:02000079$ 끝까지 조사하기
+EN|Investigate $map:02000079$, the suspected source of the fires, thoroughly
+###610
+KO|횃불 집어 휘두르며 몬스터 공격하기
+EN|Strike enemies using torches
+###611
+KO|흑성회 본부 $map:52000047$에서 $npcName:11000251$ 필두로 하는 흑성회 타파하기
+EN|Defeat Blackstar, led by $npcName:11000251$, at Blackstar HQ $map:52000047$

@@ -19,10 +19,14 @@ NUM = re.compile(r"\d+")
 PP = re.compile(r"\$pp[^$]*\$")
 
 def load_optional(name):
-    p = os.path.join(ROOT, "work", "questdesc", name)
-    if os.path.exists(p):
-        return {k: v for k, v in json.load(open(p, encoding="utf-8")).items() if not k.startswith("_")}
-    return {}
+    import glob as _glob
+    out = {}
+    pat = os.path.join(ROOT, "work", "questdesc", name.replace(".json", "*.json"))
+    for p in sorted(_glob.glob(pat)):
+        for k, v in json.load(open(p, encoding="utf-8")).items():
+            if not k.startswith("_"):
+                out[k] = v
+    return out
 
 def main():
     fn = "questdescription_final"

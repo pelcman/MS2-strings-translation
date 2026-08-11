@@ -1,0 +1,5226 @@
+###1
+KO|$dungeonTitle:23037002$ 공략
+EN|Clear $dungeonTitle:23037002$
+###2
+KO|$item:30001227$ 연구
+EN|$item:30001227$ Research
+###3
+KO|$item:30001237$ 조사
+EN|$item:30001237$ Investigation
+###4
+KO|$map:02000001$에 있는 $npc:11000003$의 안내에 따라 낚시 입문 퀘스트 완료하기 
+EN|Follow $npcName:11000003$ in $map:02000001$ and complete the introductory fishing quest 
+###5
+KO|$map:02000064$ 무대에서 파티원과 함께 5분간 합주하기
+EN|Perform as an ensemble with a party for 5 minutes on the $map:02000064$ stage
+###6
+KO|$map:02000183$에서 $npc:11001276$ 만나 루미윈드 타고 카르카르 아일랜드로 가기
+EN|Meet $npcName:11001276$ in $map:02000183$ and ride the <i>Lumiwind</i> to Karkar Island
+###7
+KO|$map:02000263$에서 $npc:21000258$ 또는 $npc:21091026$처치하기
+EN|Defeat $npc:21000258$ or $npc:21091026$ at$map:02000263$
+###8
+KO|$map:02020001$의 수중 생물 조사
+EN|Waters of $map:02020001$
+###9
+KO|$map:02020004$에 대한 공세를 펼쳐라
+EN|Attack on $map:02020004$
+###10
+KO|$map:02020009$ 확보 작전
+EN|Disabling Grenade Launchers
+###11
+KO|$map:02020009$의 소문 : 보물상자의 수호자
+EN|$map:02020009$ Rumor: Guardian
+###12
+KO|$map:02020010$의 케르베스 저지
+EN|Kharon in $map:02020010$
+###13
+KO|$map:02020016$의 유적 보호
+EN|$map:02020016$ Ruins Preservation
+###14
+KO|$map:02020016$의 케르베스 제압
+EN|Kharon in $map:02020016$
+###15
+KO|$map:02020017$의 괴물
+EN|Monster of the $map:02020017$
+###16
+KO|$map:02020017$의 괴소문
+EN|Haunting in the $map:02020017$
+###17
+KO|$map:02020018$ 유적 보호
+EN|Scouting in $map:02020018$
+###18
+KO|$map:02020018$의 이슬
+EN|$map:02020018$'s Dew
+###19
+KO|$map:02020029$을 위협하는 검은군단
+EN|Daemon Defense: $map:02020029$
+###20
+KO|$map:02020030$ 공격하는 검은군단
+EN|Daemons of $map:02020030$
+###21
+KO|$map:02020030$에 파견된 대원들 보호
+EN|$map:02020030$ Defense
+###22
+KO|$map:02020031$의 소문 : 토착 생물과 교감
+EN|$map:02020031$ Rumor: Communicating with Local Fauna
+###23
+KO|$map:02020033$ 사수하라
+EN|Defend $map:02020033$
+###24
+KO|$map:02020033$의 대포
+EN|$map:02020033$'s Cannons
+###25
+KO|$map:02020051$의 악취
+EN|$map:02020051$'s Stench
+###26
+KO|$map:02020066$의 드론
+EN|$map:02020066$'s Drone
+###27
+KO|$map:02020066$의 위기
+EN|Crisis in $map:02020066$
+###28
+KO|$map:02020068$의 공포
+EN|The Terror of $map:02020068$
+###29
+KO|$map:02020069$의 골칫거리
+EN|A Nuisance of $map:02020069$
+###30
+KO|$map:02020069$의 식량난
+EN|Food Shortage in $map:02020069$
+###31
+KO|$map:52100113$ 찾아서
+EN|Seeking the $map:52100113$
+###32
+KO|$npc:11001246$ 만나 수행자의 의무 퀘스트 완료하기
+EN|Meet $npcName:11001246$ and complete the Vanquisher's Duty quest
+###33
+KO|$npcName:11004312$의 결단
+EN|$npcName:11004312$'s Decision
+###34
+KO|$npcName:11004614$의 고민
+EN|$npcName:11004614$'s Worries
+###35
+KO|$npcName:11004614$의 사심
+EN|$npcName:11004614$'s Hidden Agenda
+###36
+KO|$npcName:11004614$의 호기심
+EN|$npcName:11004614$'s Curiosity
+###37
+KO|$npcName:25020003$의 수정
+EN|Violent $npcNamePlural:25020003$
+###38
+KO|$npcName:25020302$의 위협
+EN|Night of the $npcName:25020302$
+###39
+KO|$npcName:25020405$ 제압
+EN|Suppressing $npcNamePlural:25020405$
+###40
+KO|$npcName:25021201$의 힘의 비밀
+EN|The $npcName:25021201$'s Strength
+###41
+KO|215호실의 손님
+EN|The Guest in Room 215
+###42
+KO|Dr. 로켈의 음모
+EN|Dr. Rokel's Conspiracy
+###43
+KO|EMP 폭탄의 위력!
+EN|Electric EMP Bombshells
+###44
+KO|I. $achieve:23100006$ 트로피 달성하기
+EN|I. Earn the $achieve:23100006$ trophy
+###45
+KO|II. $achieve:22100001$ 트로피 달성하기
+EN|II. Earn the $achieve:23100006$ trophy
+###46
+KO|[临时]一时大意
+EN|[Temp] A Moment of Carelessness
+###47
+KO|[临时]不期而遇
+EN|[Temporary] An Unexpected Encounter
+###48
+KO|[临时]与黑暗勾结
+EN|[Temp] Colluding with the Darkness
+###49
+KO|[临时]为了开创幸福的未来
+EN|[Temporary] To Build a Happy Future
+###50
+KO|[临时]信息的代价
+EN|[Temporary] The Price of Information
+###51
+KO|[临时]克里蒂亚斯的魔法研究所
+EN|[Temporary] Kritias Magic Research Institute
+###52
+KO|[临时]卫城的守护者
+EN|[Temporary] Guardian of the Castle
+###53
+KO|[临时]危险的水晶
+EN|[Temporary] Perilous Crystal
+###54
+KO|[临时]坚硬的碎片
+EN|[Temporary] Hard Fragments
+###55
+KO|[临时]外出
+EN|[Temporary] Heading Out
+###56
+KO|[临时]意外的协助者
+EN|[Temp] An Unexpected Helper
+###57
+KO|[临时]意外邂逅
+EN|[Temporary] Unexpected Encounter
+###58
+KO|[临时]搜索信息
+EN|[Temp] Search for Information
+###59
+KO|[临时]新的开始
+EN|[Temp] A New Beginning
+###60
+KO|[临时]无法换算的价值
+EN|[Temporary] Immeasurable Value
+###61
+KO|[临时]日后的计划
+EN|[Temporary] Future Plans
+###62
+KO|[临时]消失的苍穹之心
+EN|[Temp] The Missing Celestial Heart
+###63
+KO|[临时]清除妨碍者
+EN|[Temporary] Clear the Obstacles
+###64
+KO|[临时]真理之门
+EN|[Temporary] The Gate of Truth
+###65
+KO|[临时]约定的报酬
+EN|[Temporary] The Promise of Reward
+###66
+KO|[临时]能干的人才
+EN|[Temporary] Capable Talent
+###67
+KO|[临时]错误信息
+EN|[Temp] Error Message
+###68
+KO|[临时]黑星会的业务
+EN|[Temporary] The Black Star Society's Business
+###69
+KO|[모험] $dungeonTitle:21001001$에서 덤불에 갇힌 요정 1번 구하기
+EN|[Adventure] Save Sprite #1 from the bush in $dungeonTitle:21001001$
+###70
+KO|[모험] $dungeonTitle:21002001$ 끝까지 성공하기
+EN|[Adventure] Complete $dungeonTitle:21002001$
+###71
+KO|[모험] $dungeonTitle:21004001$에서 $npc:22000015$ 처치
+EN|[Adventure] Defeat $npcName:22000015$ in $dungeonTitle:21004001$
+###72
+KO|[모험] $dungeonTitle:21004001$에서 기둥 위의 $npc:24000304$ 처치
+EN|[Adventure] Defeat $npcName:24000304$ atop the pillar in $dungeonTitle:21004001$
+###73
+KO|[모험] $dungeonTitle:21013001$에서 붙잡힌 요정 구하기
+EN|[Adventure] Save the captured fairies from $dungeonTitle:21013001$
+###74
+KO|[모험] $dungeonTitle:21017001$에서 온실의 유리문 1번 열기
+EN|[Adventure] Open the first greenhouse door in $dungeonTitle:21017001$
+###75
+KO|[모험] $dungeonTitle:25002001$에서 모든 암탉들을 구출하기
+EN|[Adventure] Rescue all the hens from $dungeonTitle:25002001$
+###76
+KO|[모험] $dungeonTitle:25003001$에서 미사일 발사하기
+EN|[Adventure] Launch a missile in $dungeonTitle:25003001$
+###77
+KO|[모험] $dungeonTitle:25003001$에서 폭탄 던지기
+EN|[Adventure] Throw a bomb in $dungeonTitle:25003001$
+###78
+KO|[모험] $dungeonTitle:25004001$에서 모든 아이들 구출하기
+EN|[Adventure] Rescue all the children from $dungeonTitle:25004001$
+###79
+KO|[모험] $dungeonTitle:25004001$에서 사라진 어린이 친구 1명 찾아내기
+EN|[Adventure] Find one of the missing children in $dungeonTitle:25004001$
+###80
+KO|[모험] $dungeonTitle:25009001$에서 환영 속 금화 획득하기
+EN|[Adventure] Get gold coins from the illusions in $dungeonTitle:25009001$
+###81
+KO|[유니크] 검은 군단의 역습, 둘
+EN|[Special] Daemon Army Counterattack 2
+###82
+KO|[유니크] 검은 군단의 역습, 하나
+EN|[Special] Daemon Army Counterattack 1
+###83
+KO|[유니크] 검은 군단의 침공, 둘
+EN|[Special] Daemon Army Invasion 2
+###84
+KO|[유니크] 검은 군단의 침공, 하나
+EN|[Special] Daemon Army Invasion 1
+###85
+KO|[유니크] 기간티카를 제압하라!
+EN|[Special] Gigantica Contained
+###86
+KO|[유니크] 기간티카의 전투패턴 파악
+EN|[Special] Gigantica's Tactics
+###87
+KO|[유니크] 퍼져가는 검은 기운, 둘
+EN|[Special] Spreading Darkness 2
+###88
+KO|[유니크] 퍼져가는 검은 기운, 하나
+EN|[Special] Spreading Darkness 1
+###89
+KO|[유니크] 폭주하는 기간티카
+EN|[Special] Gigantica Rampage
+###90
+KO|一切如计划进行
+EN|Everything Goes According to Plan
+###91
+KO|不受欢迎的回归
+EN|An Unwelcome Return
+###92
+KO|不稳定的空间
+EN|Unstable Space
+###93
+KO|不速之客
+EN|Unexpected Guest
+###94
+KO|与陌生人相遇
+EN|Meeting a Stranger
+###95
+KO|交易的碎片
+EN|Shards of Trade
+###96
+KO|人偶起舞之树
+EN|The Tree Where Puppets Dance
+###97
+KO|低血压的男子
+EN|The Man with Low Blood Pressure
+###98
+KO|修理钟表
+EN|Repair the Clock
+###99
+KO|停止的人偶剧
+EN|The Halted Puppet Show
+###100
+KO|入场权限
+EN|Entry Permit
+###101
+KO|全体集合！
+EN|Everyone, fall in!
+###102
+KO|公主的痕迹
+EN|Traces of the Princess
+###103
+KO|出故障的原因
+EN|The Reason for the Malfunction
+###104
+KO|出故障的机器
+EN|The Broken Machine
+###105
+KO|前往时间丛林
+EN|Go to the Time Jungle
+###106
+KO|前往汽车厂
+EN|Head to the Automobile Factory
+###107
+KO|助手的下落
+EN|Whereabouts of the Assistant
+###108
+KO|危险的警报系统
+EN|Dangerous Alarm System
+###109
+KO|可疑的他们
+EN|The Suspicious Ones
+###110
+KO|可靠的友军
+EN|Reliable Ally
+###111
+KO|各自的理由
+EN|Each Their Own Reasons
+###112
+KO|啊！好烫，好烫！
+EN|Ow! Hot, hot!
+###113
+KO|回到当下的碎片
+EN|Fragment of the Present
+###114
+KO|失散的同伴
+EN|Separated Companion
+###115
+KO|失踪的助手
+EN|The Missing Assistant
+###116
+KO|实践重于理论
+EN|Practice Over Theory
+###117
+KO|寻找公主
+EN|Finding the Princess
+###118
+KO|寻找其他碎片
+EN|Find the Other Fragments
+###119
+KO|庆典的开始
+EN|The Beginning of the Celebration
+###120
+KO|微妙的告别
+EN|A Subtle Farewell
+###121
+KO|情报贩子的考验：力量
+EN|The Information Broker's Test: Strength
+###122
+KO|情报贩子的考验：敏捷
+EN|The Information Broker's Test: Agility
+###123
+KO|情报贩子的考验：智力
+EN|The Information Broker's Test: Intelligence
+###124
+KO|意外发现
+EN|Unexpected Discovery
+###125
+KO|意外的考验
+EN|An Unexpected Trial
+###126
+KO|意外遭遇
+EN|Unexpected Encounter
+###127
+KO|我是梯子。
+EN|I'm a ladder.
+###128
+KO|战场厉风
+EN|Battlefield Gale
+###129
+KO|扭曲的时间
+EN|Twisted Time
+###130
+KO|扭转时间
+EN|Reverse Time
+###131
+KO|搜集硬币
+EN|Collect Coins
+###132
+KO|搞清现实
+EN|Realize the Truth
+###133
+KO|散落的碎片
+EN|Scattered Fragments
+###134
+KO|新的线索
+EN|New Clue
+###135
+KO|无来由的自信
+EN|Unfounded Confidence
+###136
+KO|星光少年的惊喜礼物
+EN|The Starlight Boy's Surprise Gift
+###137
+KO|星光少年的梦幻礼物
+EN|The Starlight Boy's Dreamlike Gift
+###138
+KO|昨日之敌，今日之友
+EN|Yesterday's Enemy, Today's Ally
+###139
+KO|暂别
+EN|A Temporary Farewell
+###140
+KO|最后的碎片
+EN|The Last Shard
+###141
+KO|有预告的矛盾
+EN|A Conflict Foretold
+###142
+KO|木偶的报答
+EN|The Puppet's Reward
+###143
+KO|木偶的请求
+EN|The Puppet's Request
+###144
+KO|未结束的舞台
+EN|The Unfinished Stage
+###145
+KO|树中空间
+EN|Space Within the Tree
+###146
+KO|梦一般的现实
+EN|A Dreamlike Reality
+###147
+KO|模糊的线索
+EN|Vague Clues
+###148
+KO|滴哟昂！
+EN|Yippee!
+###149
+KO|畅游蓝天！
+EN|Soar the Blue Sky!
+###150
+KO|看不懂的地图
+EN|An Illegible Map
+###151
+KO|破空追踪
+EN|Sky-Splitting Pursuit
+###152
+KO|秘密揭晓
+EN|The Secret Revealed
+###153
+KO|自己的路
+EN|One's Own Path
+###154
+KO|舞台上的碎片
+EN|Fragments on the Stage
+###155
+KO|获取信赖的考验
+EN|A Test of Trust
+###156
+KO|菇岛求生由我来拿下！
+EN|I'll be the one to win Mushroom Island Survival!
+###157
+KO|蘑菇有益身体健康
+EN|Mushrooms are good for your health
+###158
+KO|血液循环！
+EN|Blood Circulation!
+###159
+KO|被困的近卫队员
+EN|Trapped Royal Guard
+###160
+KO|觐见公主
+EN|Audience with the Princess
+###161
+KO|闪烁的红光
+EN|Flickering Red Light
+###162
+KO|隐秘报告
+EN|Secret Report
+###163
+KO|难忘的梦
+EN|Unforgettable Dream
+###164
+KO|雾中会面
+EN|Meeting in the Fog
+###165
+KO|雾的另一头
+EN|The Other Side of the Fog
+###166
+KO|领取橡子！
+EN|Grab your acorns!
+###167
+KO|高贵意志
+EN|Noble Will
+###168
+KO|黏糊糊的
+EN|Sticky
+###169
+KO|가스통도 무기가 된다!
+EN|Gas Tank Takedown
+###170
+KO|가이던스의 옛 제자
+EN|Guidance's Former Disciple
+###171
+KO|가족의 마음으로
+EN|With the Heart of Family
+###172
+KO|간절한 마음
+EN|A Desperate Heart
+###173
+KO|갈등 해소를 위해
+EN|Conflict Resolution
+###174
+KO|감사의 인사
+EN|A Word of Thanks
+###175
+KO|감시와 경호사이
+EN|Between Surveillance and Protection
+###176
+KO|감시탑의 검은 그림자
+EN|Dark Shadow of the Watchtower
+###177
+KO|감옥에서 일어난 일
+EN|What Happened in the Prison
+###178
+KO|감옥의 탑
+EN|Tower of the Prison
+###179
+KO|감춰진 진실
+EN|Hidden Truth
+###180
+KO|강력한 공명현상
+EN|A Powerful Resonance
+###181
+KO|강력한 콧바람
+EN|
+###182
+KO|강렬한 첫 만남의 장소
+EN|First Contact
+###183
+KO|강아지 구출작전
+EN|Puppy Rescue Strategy
+###184
+KO|강하선을 지켜내자!
+EN|Dropship Defense
+###185
+KO|강하선을 지켜라!
+EN|Dropship Defense
+###186
+KO|개업 기념 이벤트
+EN|Grand Opening
+###187
+KO|거대 꿈트리의 흔적
+EN|A Whale of a Wriggler
+###188
+KO|거북아, 거북아
+EN|O Turtle! My Turtle!
+###189
+KO|거북의 순애보
+EN|A Turtley Pure Love
+###190
+KO|거점을 사수하라
+EN|Defend the Base
+###191
+KO|거짓과 진실 사이
+EN|Between Lies and Truth
+###192
+KO|거친 파도에 밀려온 전설
+EN|A Legend Washed In by the Rough Waves
+###193
+KO|거침없이 달리다
+EN|Adventures in Literacy: Wild Rides
+###194
+KO|걱정되는 앞날
+EN|Fearful Future
+###195
+KO|걱정스러운 마음
+EN|Worrisome Heart
+###196
+KO|걱정이 산더미
+EN|Endless Worries
+###197
+KO|건강 비법 달리기
+EN|The Secret to Health
+###198
+KO|건강하게, 날씬하게!
+EN|Shed those Pounds
+###199
+KO|건강한 습관
+EN|Healthy Habit #2
+###200
+KO|걸을 필요 없어
+EN|Rest Your Feet
+###201
+KO|검게 물들어가는 숲
+EN|The Forest Turning Black
+###202
+KO|검은 광기
+EN|Black Madness
+###203
+KO|검은 군단 파수견 제압
+EN|Every Dog Has its Day
+###204
+KO|검은 군단의 공격
+EN|Behind Enemy Lines
+###205
+KO|검은 군단의 에네르
+EN|The Daemon Army's Aetherine
+###206
+KO|검은 기운에 잠식된 생명체들
+EN|Creatures Consumed by Dark Energy
+###207
+KO|검은 기운의 괴생명체들
+EN|An Unusual Darkness
+###208
+KO|검은 기운의 근원
+EN|Cloaked in Darkness
+###209
+KO|검은 음모
+EN|Dark Scheme
+###210
+KO|검은 크리스탈의 비밀
+EN|Secret of the Dark Crystals
+###211
+KO|검은 힘을 가진 형제들
+EN|Brothers of Dark Power
+###212
+KO|검은군단의 계획 저지
+EN|Daemon Deleted
+###213
+KO|검은군단의 야수들
+EN|Beasts of the Black Legion
+###214
+KO|검은군단의 에너지원
+EN|Daemon's Energy
+###215
+KO|겁내지 말고 도전
+EN|The Worst
+###216
+KO|게오르크를 부탁해
+EN|Asking Humanitas for a Favor
+###217
+KO|게오르크를 위해
+EN|For Humanitas
+###218
+KO|게오르크와의 동맹, 그 후.
+EN|After the Alliance with Georg
+###219
+KO|게오르크의 거점으로
+EN|Onward to Richmonde
+###220
+KO|게오르크의 수장
+EN|A Bloody Gesture
+###221
+KO|게오르크의 안전을 위해
+EN|Humanitas-ian Aid
+###222
+KO|겨뤄보고 싶은 상대
+EN|An opponent I want to face
+###223
+KO|격돌! 아르케온
+EN|Clash! Arkeon
+###224
+KO|결단
+EN|Resolution
+###225
+KO|결론만 간단히
+EN|A Simple Conclusion
+###226
+KO|결전! 티마이온
+EN|Decisive Battle! Timaion
+###227
+KO|경사스러운 날에는
+EN|A Blessed Day
+###228
+KO|계란도 무기가 된다!
+EN|Drive-by Egging
+###229
+KO|계속되는 난제
+EN|A Continuing Dilemma
+###230
+KO|계속되는 연구
+EN|Ongoing Research
+###231
+KO|계획의 시작
+EN|The Plan Begins
+###232
+KO|고귀한 기원
+EN|Noble Beginnings
+###233
+KO|고뇌의 시간
+EN|Time of Anguish
+###234
+KO|고대 신전의 신비한 힘
+EN|Mysterious Power of the Ancient Temple
+###235
+KO|고대 크리티아스의 기록
+EN|Records of Ancient Kritias
+###236
+KO|고대의 서책
+EN|Ancient Tome
+###237
+KO|고대인의 유물
+EN|Ancient Relic
+###238
+KO|고독한 행복
+EN|Solitary Bliss
+###239
+KO|고립된 탐사 요원
+EN|Isolated Agent
+###240
+KO|고순도 에네르 결정 확보
+EN|Pure Aetherine
+###241
+KO|고심
+EN|You Can Never Be Too Careful
+###242
+KO|고철의 변신
+EN|Iron Transformation
+###243
+KO|고향으로!
+EN|Back to Home!
+###244
+KO|골든타워를 향해
+EN|Toward the Golden Tower
+###245
+KO|골렘을 갖고 싶다
+EN|Adventures in Literacy: Block by Block
+###246
+KO|골팽이 버섯의 비밀
+EN|Secret of the Mushroom
+###247
+KO|공격원을 찾아서, 두번째
+EN|The Enemy of Your Enemy
+###248
+KO|공격원을 찾아서, 세번째
+EN|A New Assignment
+###249
+KO|공격원을 찾아서, 첫번째
+EN|Mysterious Assailants
+###250
+KO|공격적인 $npcName:25020502$
+EN|Leafy Beatdown
+###251
+KO|공격적인 녀석들
+EN|Acts of Aggression
+###252
+KO|공부의 부작용
+EN|Side Effects of Studying
+###253
+KO|공존하는 과거
+EN|Coexist as One
+###254
+KO|공짜는 없다
+EN|Nothing Is Free
+###255
+KO|공포에 질린 대원들
+EN|Horror-struck Members
+###256
+KO|공황 상태의 난민들
+EN|Refugees in a State of Panic
+###257
+KO|과감한 선택
+EN|A Bold Move
+###258
+KO|과거의 유물
+EN|Relic of the Past
+###259
+KO|과학이 전부는 아니야
+EN|Science Isn't Everything
+###260
+KO|관심 밖의 이야기
+EN|Outside of Interest
+###261
+KO|광기의 케르베스
+EN|Cerbe Gone Mad
+###262
+KO|광기의 하이웨이
+EN|Highway of Madness
+###263
+KO|광산카트도 무기가 된다!
+EN|Cartloads of Chaos
+###264
+KO|괘씸한 녀석들
+EN|Scum of the Sea
+###265
+KO|괴력낭비는 안돼!
+EN|Waste of Superhuman Strength
+###266
+KO|괴물보다 더한 존재들
+EN|Beings Worse Than Monsters
+###267
+KO|괴물소녀의 비밀
+EN|The Monster Girl's Secret
+###268
+KO|괴상한 소문의 질병
+EN|A Disease of Strange Rumors
+###269
+KO|괴수 삼형제
+EN|The Brothers Grim
+###270
+KO|괴한의 진실
+EN|Unidentified Truth
+###271
+KO|괴한이 지나간 자리
+EN|Unidentified Thieving Assailant
+###272
+KO|교활한 납치
+EN|Cunning Kidnapping
+###273
+KO|구원
+EN|The Great Rescue
+###274
+KO|구원의 신녀
+EN|Oracle of Salvation
+###275
+KO|굳건한 방벽
+EN|These Blasted Doors
+###276
+KO|굳게 닫힌 마음
+EN|A Heart Closed Tight
+###277
+KO|굳어가는 물
+EN|Petrifying Water
+###278
+KO|굳은 용암 녹이기
+EN|Melting Lava
+###279
+KO|굶주리는 대원들
+EN|People Are Starving!
+###280
+KO|굶주린 난민들
+EN|Starving Refugees
+###281
+KO|궁금한 맛
+EN|Practicality vs. Taste
+###282
+KO|권력자의 얼굴
+EN|Face of the Powerful
+###283
+KO|귀찮거나, 재미있거나
+EN|Annoying...or Hilarious?
+###284
+KO|귀찮기만 한 발걸음
+EN|Walk Hard
+###285
+KO|귀한 일손
+EN|Combat Aid
+###286
+KO|규명을 위한 노력
+EN|Efforts for Elucidation
+###287
+KO|균열 속 존재
+EN|The Being Within the Rift
+###288
+KO|그 가면의 끝에 빛의 심판을
+EN|Light's Judgment Upon That Mask
+###289
+KO|그 길에서 만난 것은
+EN|What We Met on That Path
+###290
+KO|그 길을 따라 떠나다
+EN|Depart Down That Path
+###291
+KO|그 길을 막을 수 있다면
+EN|If We Could Block That Path
+###292
+KO|그 길의 끝
+EN|The End of That Road
+###293
+KO|그 녀석의 행방
+EN|Where Is He?
+###294
+KO|그것이 알고 싶다
+EN|I want to know that
+###295
+KO|그곳에 숨겨진 것
+EN|What's Hidden There
+###296
+KO|그곳에서는… 
+EN|In That Place... 
+###297
+KO|그날의 기억
+EN|Memories of That Day
+###298
+KO|그녀가 떠난 곳
+EN|The Place She Left
+###299
+KO|그녀가 전한 소식
+EN|The Royal Lowdown
+###300
+KO|그녀가 하고 싶은 말
+EN|What She Wants to Say
+###301
+KO|그녀를 위해서라면!
+EN|Everything for Her
+###302
+KO|그녀의 가설
+EN|Her Hypothesis
+###303
+KO|그녀의 설득법
+EN|Her Way of Persuasion
+###304
+KO|그녀의 약속
+EN|Her Promise
+###305
+KO|그녀의 일상
+EN|Her Daily Life
+###306
+KO|그녀의 해석, 둘
+EN|Her Interpretation, Two
+###307
+KO|그녀의 해석, 셋
+EN|Her Interpretation, Three
+###308
+KO|그녀의 해석, 하나
+EN|Her Interpretation, Part One
+###309
+KO|그들만의 법칙
+EN|Their Own Rules
+###310
+KO|그들에게 닥친 사연
+EN|What They Faced
+###311
+KO|그들을 찾아서
+EN|Searching for Them
+###312
+KO|그들의 속사정
+EN|Their Hidden Story
+###313
+KO|그들의 연주는 소음
+EN|Their Performance Is Just Noise
+###314
+KO|그들의 이야기
+EN|A Story of Them
+###315
+KO|그들의 전투 방법을 익혀라
+EN|Brutal Bullets
+###316
+KO|그들이 내민 손길
+EN|Their Extended Hands
+###317
+KO|그들이 살아가는 방법
+EN|Wriggling Wreckage
+###318
+KO|그리고, 남은 이들
+EN|Those Who Remain
+###319
+KO|그리웠던 바깥 공기
+EN|The Fresh Air I Missed
+###320
+KO|그리폰의 전설
+EN|Adventures in Literacy: A Griffin's Adventure
+###321
+KO|그린후드의 연구는 계속되어야 한다
+EN|The Research Must Go On
+###322
+KO|그림자 문을 찾아서
+EN|In Search of the Shadow Gate
+###323
+KO|그림자 문을 통해 어둠의 땅 가보기
+EN|Travel through the Shadow Gate to the Land of Darkness
+###324
+KO|그림자 속으로
+EN|Into the Shadows
+###325
+KO|그림자 원정대 입장하기
+EN|Join the Shadow Expedition
+###326
+KO|그림자를 먹다
+EN|Taste the Abyss
+###327
+KO|그림자의 습격
+EN|Shadow Assault
+###328
+KO|근심 걱정 날리고
+EN|No More Worries
+###329
+KO|근위기사의 위엄
+EN|A Dearth of Information
+###330
+KO|근위대원의 고민
+EN|The Guard's Worry
+###331
+KO|근위대의 사치품
+EN|The Royal Guard's Luxury Items
+###332
+KO|근위대의 호출
+EN|The Royal Guard's Call
+###333
+KO|근위대장의 근심
+EN|A Captain's Concern
+###334
+KO|근위대장의 부름
+EN|Summons from the Guard Captain
+###335
+KO|근위대장의 부탁
+EN|The Guard Captain's Request
+###336
+KO|근위대장의 침묵
+EN|The Guard Captain's Silence
+###337
+KO|근위대장의 호출
+EN|The Guard Captain's Summons
+###338
+KO|금괴를 찾아라!
+EN|Find the Gold Bars!
+###339
+KO|금지 품목 단속기
+EN|Contraband Crackdown
+###340
+KO|금지된 거래
+EN|Forbidden Trade
+###341
+KO|금지된 모험
+EN|Forbidden Adventure
+###342
+KO|기간티카로 인한 피해
+EN|Damage Caused by Gigantica
+###343
+KO|기간티카의 AI 패턴 분석
+EN|Analyzing Gigantica's AI Patterns
+###344
+KO|기간티카의 공격패턴 파악
+EN|Identifying Gigantica's Attack Patterns
+###345
+KO|기간티카의 외골격 분석
+EN|Analyzing Gigantica's Exoskeleton
+###346
+KO|기간티카의 전투데이터 수집
+EN|Collecting Gigantica's Combat Data
+###347
+KO|기간티카의 폭주
+EN|Gigantica's Rampage
+###348
+KO|기계 곤충 채집
+EN|Robot Bug Collections
+###349
+KO|기계 로봇 포섭 저지
+EN|No More Mechs!
+###350
+KO|기계 병사들의 $item:30001220$
+EN|Data Recovery
+###351
+KO|기계 병사들의 총공세
+EN|Scrapping with Soldiers
+###352
+KO|기계 병사들의 힘의 원천
+EN|Robotics Research
+###353
+KO|기계 병사들이 빼앗아간 자료들
+EN|Stolen Data
+###354
+KO|기계 병사의 메모리 칩 확보
+EN|Chips Ahoy
+###355
+KO|기계 병사의 활시위
+EN|Machine Archery
+###356
+KO|기계형 몬스터 도감의 자료
+EN|Mechanical Monsters: An Illustrated Guide
+###357
+KO|기다리는 재미
+EN|On the Line
+###358
+KO|기다리는 친구들
+EN|Keeping Friends Waiting
+###359
+KO|기묘한 맛
+EN|A Funny Taste
+###360
+KO|기분 전환
+EN|Adventures in Literacy: Luscious Locks
+###361
+KO|기사단의 부름
+EN|Knightly Call
+###362
+KO|기사단장의 걱정
+EN|The Captain's Concern
+###363
+KO|기사단장의 숨겨진 인격
+EN|Notorious Monsters: Fragmented Soul
+###364
+KO|기사단장의 요청
+EN|Captain's Calling
+###365
+KO|기사도
+EN|Chivalry
+###366
+KO|기습
+EN|Sudden Attack
+###367
+KO|기습당한 탐사 대원들
+EN|Enemy Ambush
+###368
+KO|기억을 잃은 여자
+EN|The Woman in the Rubble
+###369
+KO|기억의 파편을 찾아서
+EN|To Find a Memory Fragment
+###370
+KO|기적 좋은 날
+EN|A Day for Miracles
+###371
+KO|기적의 약
+EN|Miracle Medicine
+###372
+KO|기회를 잡은 불량배들
+EN|Thugs Who Seized the Opportunity
+###373
+KO|긴급 보고
+EN|Emergency Report
+###374
+KO|긴급 복구 조치
+EN|Emergency Repairs
+###375
+KO|긴급 호출
+EN|Emergency Summons
+###376
+KO|긴장과 떨림
+EN|Nerves and Tremors
+###377
+KO|길들여진 야수
+EN|Tamed Beast
+###378
+KO|길을 잃은 달토끼
+EN|The Bunny and the Moon
+###379
+KO|길을 찾아서
+EN|Searching for a Way
+###380
+KO|깊어가는 고민
+EN|Deepening Worries
+###381
+KO|까다로운 요구
+EN|A Fastidious Demand
+###382
+KO|까칠한 매력
+EN|Poisoned Wiles
+###383
+KO|꺼진 불안도 다시 보자
+EN|Never Let Your Guard Down
+###384
+KO|꺾을 수 없는 의지
+EN|Unbreakable Will
+###385
+KO|꼬리털의 변신
+EN|Transformation of Tail Hair
+###386
+KO|꼬질꼬질 냄새 차단
+EN|The Odiferous Adventurer
+###387
+KO|꽃가루 알레르기
+EN|Pollen Allergy
+###388
+KO|꿀꺽꿀꺽 해독주스
+EN|Dewy Detox
+###389
+KO|꿀벌의 반란
+EN|A Stinging Revolt
+###390
+KO|꿈꾸는 메이드
+EN|The Dreaming Maid
+###391
+KO|꿈인 듯 아닌 듯
+EN|Like a Dream
+###392
+KO|꿋꿋하게, 변함없이
+EN|Steadfast and Unchanging
+###393
+KO|끈질긴 노력의 성과
+EN|The Fruits of Relentless Effort
+###394
+KO|끊어진 길
+EN|The Broken Path
+###395
+KO|끔찍한 소음
+EN|Come on Feel the Noise
+###396
+KO|끝나지 않는 $npcName:23000301$의 침식
+EN|The Darkness of $npcName:23000301$
+###397
+KO|끝나지 않는 부탁
+EN|The Never-Ending Request
+###398
+KO|끝나지 않은 추적
+EN|Endless Pursuit
+###399
+KO|끝없는 연습
+EN|Endless Practice
+###400
+KO|나는야 마법 소녀
+EN|I Am a Magical Girl
+###401
+KO|나도 밴드다
+EN|I'm in the Band Too
+###402
+KO|나를 위한 희생
+EN|A Sacrifice for Me
+###403
+KO|나빌라를 찾아서
+EN|Finding Navilla
+###404
+KO|나쁜 놈, 그리고 나쁜 놈
+EN|Bad Guy, and Another Bad Guy
+###405
+KO|나설 수 없는 일
+EN|Not My Place to Intervene
+###406
+KO|나와라, 집게발
+EN|Pincerific Choice
+###407
+KO|나의 죄를 씻어주오
+EN|Wash Away My Sins
+###408
+KO|낚시 입문
+EN|Introduction to Fishing
+###409
+KO|낚시꾼의 길
+EN|The Angler's Path
+###410
+KO|낚시꾼의 호기심이란… 
+EN|A Fisherman's Curiosity... 
+###411
+KO|낚시의 기술
+EN|The Art of Fishing
+###412
+KO|난감한 실제상황
+EN|Sticky Situation
+###413
+KO|난파선에서 구조되려면
+EN|To Survive a Shipwreck
+###414
+KO|난폭한 데에는 이유가 있다.
+EN|Programming Error
+###415
+KO|날개 없는 천사
+EN|Earn Your Wings
+###416
+KO|날아서 이동해보기
+EN|Travel somewhere by air
+###417
+KO|날으는 새에게
+EN|A Soaring Conversation
+###418
+KO|남겨진 대포
+EN|The Abandoned Cannon
+###419
+KO|낭만이 없는 녀석들
+EN|Inelegant Weapons
+###420
+KO|낯선 땅, 반가운 소식
+EN|Unfamiliar Land, Happy News
+###421
+KO|낯선 땅, 의외의 소식
+EN|Unfamiliar Land, Unexpected News
+###422
+KO|낯선 세계에서의 동맹
+EN|A Link Between Worlds
+###423
+KO|낯선 세계의 지적 생명체
+EN|First Contact
+###424
+KO|낯설지만 익숙한
+EN|Unknown yet Familiar
+###425
+KO|내 꿈은 소드 마스터
+EN|The World's Greatest Swordswoman
+###426
+KO|내 꿈의 완성
+EN|Completing My Dream
+###427
+KO|내 마음의 멜로디
+EN|Melody in My Heart
+###428
+KO|내가 없는 곳에선
+EN|In My Absence
+###429
+KO|내부의 적
+EN|The Enemy Within
+###430
+KO|냄새 나는 지뢰 매설자
+EN|
+###431
+KO|냥이와 친해지는 방법
+EN|Befriending a Feline
+###432
+KO|너무나 소중한 체액
+EN|Very Precious Bodily Fluids
+###433
+KO|너희 또한 빛이 되리라
+EN|You Too Shall Become Light
+###434
+KO|넌 겁 없던 녀석이었어!
+EN|You Used to Be So Fearless!
+###435
+KO|넘을 수 없는 벽
+EN|Adventures in Literacy: Behind Bars
+###436
+KO|넘쳐나는 게오르크 군 병원
+EN|The Humanitas military hospital, overwhelmed
+###437
+KO|넝쿨째 굴러오다
+EN|A Vine Rolls In
+###438
+KO|네가 알고 있는 모든 것
+EN|Everything You Know
+###439
+KO|네르만 대장장이
+EN|Nermann the Blacksmith
+###440
+KO|네발로 벽 위를 걸어봐
+EN|Feet on the Wall
+###441
+KO|넬프의 집으로!
+EN|To Nelf's Home!
+###442
+KO|넬프의 행방
+EN|Nelph's Whereabouts
+###443
+KO|노인과 타임캡슐
+EN|The Old Man and the Time Capsule
+###444
+KO|놀라쥬 서식지 조사
+EN|What's in a Waspling
+###445
+KO|높은 곳을 향해
+EN|Greater Heights
+###446
+KO|누군가를 위한 벚꽃
+EN|Cherry Blossoms for Someone
+###447
+KO|누군가에겐 구속, 나에겐 패션
+EN|Fashion in Chains
+###448
+KO|누나가 돌아왔다
+EN|Big Sister is Back
+###449
+KO|눈 딱 감고 꿀꺽!
+EN|Say Aah!
+###450
+KO|눈의 가시
+EN|A Thorn in the Eye
+###451
+KO|눈치 못 챌 거야
+EN|Keep Low
+###452
+KO|늑대 가죽의 품격
+EN|The Quality of Wolf Hides
+###453
+KO|늑대 공포증
+EN|Wolf Phobia
+###454
+KO|늑대소녀의 전갈
+EN|Wolf Girl's Scorpion
+###455
+KO|늑대왕 무파사
+EN|Muphaza the Wolf King
+###456
+KO|능수능란한 $npcName:11004614$
+EN|Skillful $npcName:11004614$
+###457
+KO|늦겠다는 전갈
+EN|A Message About Being Late
+###458
+KO|다 날려주마!
+EN|Up in the Air!
+###459
+KO|다급한 부름
+EN|An Urgent Summons
+###460
+KO|다른 곳에 사는 물고기
+EN|Fish from Different Waters
+###461
+KO|다리 아래 풍경을 감상해봐
+EN|Beneath the Bridge
+###462
+KO|다시 돌아오다
+EN|Returning Once More
+###463
+KO|다시 들리는 알람 소리
+EN|The Alarm Sounds Again
+###464
+KO|다시 모인 제자들
+EN|The Disciples Reunited
+###465
+KO|다시 시작된 조사
+EN|The Investigation Resumes
+###466
+KO|다시 신대륙을 꿈꾸며
+EN|The New World
+###467
+KO|다시 안개 속으로
+EN|The Fog Sets In
+###468
+KO|다시 원점으로
+EN|Back to Square One
+###469
+KO|다시 찾아온 시련
+EN|Repeat Ordeal
+###470
+KO|다시 찾아온 어둠
+EN|Darkness Returned
+###471
+KO|다시 한번 함께!
+EN|Once More, Together Now!
+###472
+KO|다시 현실로
+EN|Back to Reality
+###473
+KO|다이나마이트 카트도 무기가 된다!
+EN|Deadly Dynamite Carts
+###474
+KO|다크윈드 본부로
+EN|To Darkwind Headquarters
+###475
+KO|다크윈드 지휘관의 의뢰
+EN|Request from the Darkwind Commander
+###476
+KO|단 하나의 단서
+EN|The Only Clue
+###477
+KO|단단하게 무장한 녀석들
+EN|Heavy Foes
+###478
+KO|단서를 찾아
+EN|Searching for Clues
+###479
+KO|단서를 찾아라
+EN|Find the Clue
+###480
+KO|단서의 조합
+EN|Combination of Clues
+###481
+KO|단순 노동이란 이런 것!
+EN|Now That's What I Call Labor
+###482
+KO|단짝 친구
+EN|Best Buds
+###483
+KO|단풍 아파트 입주 행사
+EN|Maple Apartment Move-In Event
+###484
+KO|달콤 쌉싸름한 잎
+EN|Salad, Deconstructed
+###485
+KO|닭장도 무기가 된다!
+EN|Chicken Coop Crash
+###486
+KO|닮고 싶은 마음에
+EN|Wanting to Fit In
+###487
+KO|담력 훈련
+EN|Abyssal Courage
+###488
+KO|당신이 아니면 안됩니다
+EN|It Has to Be You
+###489
+KO|당연한 분노
+EN|Natural Anger
+###490
+KO|당연히 해야 하는 일
+EN|An Act of Duty
+###491
+KO|대가를 치르는 방법
+EN|How to Pay the Price
+###492
+KO|대도시의 활기
+EN|These City Streets
+###493
+KO|대박 사건!
+EN|Believe It or Not
+###494
+KO|대원들의 기피지역 1위
+EN|I Hate This Place
+###495
+KO|대원들의 복수
+EN|Revenge of the Crew
+###496
+KO|대원들의 안전을 책임지는 자
+EN|Act of Stewardship
+###497
+KO|대원들의 힐링을 위해
+EN|Recovery Efforts
+###498
+KO|대원을 믿는 마음
+EN|Faith in Comrades
+###499
+KO|대장간의 일상
+EN|A Day at the Smithy
+###500
+KO|대장님 설득 대작전
+EN|Operation: Convince the Captain
+###501
+KO|대장의 마음
+EN|The Captain's Heart
+###502
+KO|대장장이의 정보
+EN|Blacksmith's Information
+###503
+KO|대제자의 분노
+EN|The Chief Disciple's Fury
+###504
+KO|대제자의 호출
+EN|The Chief Disciple's Summons
+###505
+KO|더 강해지기 위해서
+EN|To Become Stronger
+###506
+KO|더 깊은 곳으로
+EN|Into Deeper Places
+###507
+KO|더 이상의 시간 낭비는 안돼
+EN|No Time to Waste
+###508
+KO|더위를 식힐 방법
+EN|A Way to Beat the Heat
+###509
+KO|던전 : 광산의 노예들
+EN|Dungeon: The Mining Captives
+###510
+KO|던전 : 근거 없는 자신감의 말로
+EN|Dungeon: The End of Baseless Confidence
+###511
+KO|던전 : 깜찍 끔찍 상자
+EN|Dungeon: A Cute Yet Horrible Box
+###512
+KO|던전 : 깨져버린 평화
+EN|Dungeon: Broken Peace
+###513
+KO|던전 : 나를 쫓지마
+EN|(Dungeon) Giving Chase
+###514
+KO|던전 : 노예 집행관
+EN|Dungeon: The Taskmaster
+###515
+KO|던전 : 다시 사라진 암탉들
+EN|Dungeon: The Hens Have Vanished Again
+###516
+KO|던전 : 달 뒤로 숨은 주술사
+EN|(Dungeon) Shaman behind the Moon
+###517
+KO|던전 : 달그림자를 막아라
+EN|Dungeon: Stop the Moon Shadow
+###518
+KO|던전 : 달그림자의 재림
+EN|Dungeon: Return of the Moon Shadow
+###519
+KO|던전 : 대화의 시간은 끝났다
+EN|Dungeon: No More Talking
+###520
+KO|던전 : 돈 되는 타임머신
+EN|[Dungeon] Temporal Economics
+###521
+KO|던전 : 돌연변이 꼬마 악마
+EN|Dungeon: Mutant Little Devil
+###522
+KO|던전 : 돌연변이 블록 골렘
+EN|Dungeon: Mutant Block Golem
+###523
+KO|던전 : 돌연변이 선인장
+EN|Dungeon: Mutant Cactus
+###524
+KO|던전 : 동기를 위하여
+EN|Dungeon: For a Colleague
+###525
+KO|던전 : 루벨리스크의 비밀
+EN|Dungeon: Secrets of Lubelisk
+###526
+KO|던전 : 마녀의 심술
+EN|Dungeon: Tricky Witch
+###527
+KO|던전 : 마녀의 호기심
+EN|Dungeon: Curious Witch
+###528
+KO|던전 : 마지막 카드 한 장
+EN|(Dungeon) One Last Card
+###529
+KO|던전 : 무어의 목격담
+EN|Dungeon: What Moore Saw
+###530
+KO|던전 : 물이 마르지 않는 이유
+EN|Dungeon: Why the Water Never Dries
+###531
+KO|던전 : 벌레들의 단결
+EN|Dungeon: The Bugs' Unity
+###532
+KO|던전 : 벌레들의 소굴
+EN|Dungeon: The Bugs' Lair
+###533
+KO|던전 : 복잡한 세상, 편하게 삽시다
+EN|Dungeon: In This Complex World, Let's Live Easy
+###534
+KO|던전 : 부들부들 따뜻한 털
+EN|[Dungeon] Aah... Fuzzy Monsters!
+###535
+KO|던전 : 불편한 이웃
+EN|(Dungeon) Stinky Neighbors
+###536
+KO|던전 : 빛을 잃은 숲
+EN|Dungeon: Forest of Lost Light
+###537
+KO|던전 : 사라지는 여행자들
+EN|Dungeon: The Vanishing Travelers
+###538
+KO|던전 : 사황의 보물
+EN|Dungeon: All the King's Treasure
+###539
+KO|던전 : 생명, 정화 그리고 평화
+EN|Dungeon: Life, Purification, and Peace
+###540
+KO|던전 : 선로를 벗어난 열차
+EN|Dungeon: The Derailed Train
+###541
+KO|던전 : 설표 종족의 비밀
+EN|Dungeon: The Secret of the Snow Leopard Tribe
+###542
+KO|던전 : 성벽 너머의 적
+EN|Dungeon: Enemy Beyond the Palace
+###543
+KO|던전 : 시계탑의 톱니바퀴
+EN|Dungeon: Get to the Gear
+###544
+KO|던전 : 신성한 바위
+EN|Dungeon: The Sacred Rock
+###545
+KO|던전 : 심술맞은 고목
+EN|Dungeon: Wicked Old Tree
+###546
+KO|던전 : 아노스와 함께라면
+EN|Dungeon: With Anos
+###547
+KO|던전 : 악마의 탄생
+EN|Dungeon: Birth of the Demon
+###548
+KO|던전 : 안절부절못하는 이유
+EN|Dungeon: Why They Can't Sit Still
+###549
+KO|던전 : 알면서 모른 척
+EN|(Dungeon) Obfuscating Stupidity
+###550
+KO|던전 : 어둠 속에 깨어난 영혼
+EN|Dungeon: Souls Awoken from Darkness
+###551
+KO|던전 : 어둠을 깨우는 자
+EN|Dungeon: The One Who Awakens Darkness
+###552
+KO|던전 : 어린이에게 도움을 
+EN|Dungeon: Help the Children 
+###553
+KO|던전 : 얼어붙은 마음
+EN|Dungeon: A Frozen Heart
+###554
+KO|던전 : 엄마의 흔적
+EN|Dungeon: A Mother's Trace
+###555
+KO|던전 : 예비 신랑의 꿈
+EN|Dungeon: A Groom-to-Be's Dream
+###556
+KO|던전 : 왕궁 지하의 비밀
+EN|Dungeon: Secrets in the Basement
+###557
+KO|던전 : 왕궁을 수호하라!
+EN|Dungeon: Protect the Palace!
+###558
+KO|던전 : 욕망의 끝
+EN|(Dungeon) The End of Desire
+###559
+KO|던전 : 욕심의 끝
+EN|Dungeon: The End of Greed
+###560
+KO|던전 : 용맹함을 증명하라!
+EN|[Dungeon] Test Your Might
+###561
+KO|던전 : 우울한 막내 작가
+EN|Dungeon: The Depressed Junior Writer
+###562
+KO|던전 : 위기 탈출 도우미
+EN|Dungeon: Escape Helper
+###563
+KO|던전 : 위험에 처한 암탉들
+EN|Dungeon: The Hens in Danger
+###564
+KO|던전 : 은둔하는 거인
+EN|[Dungeon] Shaved Ice
+###565
+KO|던전 : 의미있는 첫 도전
+EN|Dungeon: A Meaningful First Challenge
+###566
+KO|던전 : 이상한 예감
+EN|Dungeon: More Than a Feeling
+###567
+KO|던전 : 잘못된 복수
+EN|Dungeon: Revenge Gone Wrong
+###568
+KO|던전 : 장물아비 소굴
+EN|Dungeon: Black Market Den
+###569
+KO|던전 : 죽음을 모르는 자
+EN|Dungeon: Unacquainted with Death
+###570
+KO|던전 : 죽음의 항로
+EN|Dungeon: Death's Path
+###571
+KO|던전 : 질투가 부른 재앙
+EN|Dungeon: Catastrophic Jealousy
+###572
+KO|던전 : 치명적인 키스
+EN|Dungeon: Deadly Kiss
+###573
+KO|던전 : 타임홀을 지켜라!
+EN|Dungeon: Protect the Time Hole!
+###574
+KO|던전 : 해커의 습격
+EN|Dungeon: Hacker’s Ambush
+###575
+KO|던전 : 희미해지는 달빛
+EN|[Dungeon] Dark Implications
+###576
+KO|덩치 큰 검은 군단 병사
+EN|Death by Daemon
+###577
+KO|데이터가 부족해요
+EN|Not Enough Data
+###578
+KO|도끼 도둑
+EN|Let Me Axe You a Question
+###579
+KO|도끼빗 도둑
+EN|The Comb Thief
+###580
+KO|도난당한 불씨
+EN|Stolen Ember
+###581
+KO|도둑맞은 해독제 샘플
+EN|From Sample to Complex
+###582
+KO|도시 풍경
+EN|Cityscapes
+###583
+KO|도와주실 분을 찾아요
+EN|Looking for a Helping Hand
+###584
+KO|도움!
+EN|Help!
+###585
+KO|도움의 보답
+EN|Repaying the Help
+###586
+KO|독가루 포대도 무기가 된다!
+EN|Poison Bag Beatdown
+###587
+KO|독가루에 중독된 대원들
+EN|A is for Antidote
+###588
+KO|독수리가 가져온 소식
+EN|Eagle Eye News
+###589
+KO|독술의 기초
+EN|Basics of Poison
+###590
+KO|독액낚시의 스릴
+EN|The Thrill of Foulwater Fishing
+###591
+KO|독액에 중독된 대원들
+EN|Poisoned Allies
+###592
+KO|독액의 위력
+EN|Power of Poison
+###593
+KO|돈 되는 돌조각
+EN|Valuable Rubble
+###594
+KO|돈이 되는 타이어
+EN|Tires for Cash
+###595
+KO|돈이냐, 명예냐
+EN|Money and Honor
+###596
+KO|돌아온 사람들
+EN|The Returned
+###597
+KO|돌입 준비!
+EN|Prepare to Break Through!
+###598
+KO|돕고 사는 세상사
+EN|Pay It Forward
+###599
+KO|동맹을 위한 지원
+EN|Tairen Aggression
+###600
+KO|동생이 돌아왔다
+EN|My Little Sibling Has Returned
+###601
+KO|동지를 찾아서
+EN|The Hunt for Comrades
+###602
+KO|동태를 살펴라
+EN|Watch Their Movements
+###603
+KO|돼지가 점령한 도시
+EN|
+###604
+KO|돼지를 막아야 되지
+EN|Gotta Stop the Pigs
+###605
+KO|되돌릴 수 없는 영혼
+EN|No Turning Back
+###606
+KO|되살아난 영웅의 힘
+EN|Wake the Dead
+###607
+KO|되찾고 싶은 지역
+EN|Want to Take Back a Certain Region
+###608
+KO|두 번째 바즈의 유적을 찾아서
+EN|Searching for the Second Baz Ruin
+###609
+KO|두 얼굴의 넬프
+EN|The Two-Faced Nelph
+###610
+KO|둔둔에게 내리는 단죄
+EN|Judgment Upon Dundun
+###611
+KO|둘만의 비밀
+EN|A Secret Between Two
+###612
+KO|둠칫 두둠칫!
+EN|Boom Boom Badoom!
+###613
+KO|둥실둥실 날아봐
+EN|Flight of Fancy
+###614
+KO|뒤숭숭한 $map:02020066$
+EN|Chaotic $map:02020066$
+###615
+KO|뒷골목 사람들을 찾아서
+EN|Searching for the Back Alley People
+###616
+KO|뒷골목을 떠도는 루머
+EN|Rumors Spreading Through the Back Alleys
+###617
+KO|드디어 메이플 월드로
+EN|Finally, to Maple World
+###618
+KO|드래곤의 교감
+EN|A Dragon's Connection
+###619
+KO|드래곤의 발자취
+EN|Dragon's Footprints
+###620
+KO|드러난 위협
+EN|The Revealed Threat
+###621
+KO|드러난 정체
+EN|Revealed Identity
+###622
+KO|드론의 수가 줄어든 이유
+EN|Why the Number of Drones Decreased
+###623
+KO|든든한 조력자
+EN|Reliable Time Management
+###624
+KO|듣고 싶었던 말
+EN|The Words I Wanted to Hear
+###625
+KO|들끓는 파리떼
+EN|Swarming Flies
+###626
+KO|등에 솟은 광석
+EN|Back Mining
+###627
+KO|따뜻한 격려
+EN|Warm Encouragement
+###628
+KO|따뜻한 배려
+EN|A Warm Gesture
+###629
+KO|딱딱새에 대한 소문
+EN|Rumors About the Pecky Bird
+###630
+KO|딸의 얼굴
+EN|A Daughter's Face
+###631
+KO|딸의 편지
+EN|A Daughter's Letter
+###632
+KO|땀방울의 가치
+EN|The Value of Sweat
+###633
+KO|땅굴 끝까지
+EN|Light at the End of the Tunnel
+###634
+KO|떠나는 사람들
+EN|Those Who Leave
+###635
+KO|떠돌이 원혼
+EN|Wandering Spirits
+###636
+KO|떨어진 사기
+EN|Low Morale
+###637
+KO|또 다른 비밀요원
+EN|Another Secret Agent
+###638
+KO|또 다른 위협
+EN|Another Threat
+###639
+KO|또 다른 인연
+EN|Second Fate
+###640
+KO|또 다른 희생
+EN|Another Sacrifice
+###641
+KO|또 하나의 엇갈림
+EN|Another Misunderstanding
+###642
+KO|또 하나의 인연
+EN|Yet Another Connection
+###643
+KO|또 하나의 진실
+EN|One More Truth
+###644
+KO|또다시 놓치다
+EN|The One That Got Away
+###645
+KO|뜨거운 주먹맛
+EN|A Hot Punch
+###646
+KO|뜻밖의 만남
+EN|Encounter of the Unexpected Kind
+###647
+KO|뜻밖의 부탁
+EN|An Unexpected Request
+###648
+KO|뜻밖의 상황
+EN|Unexpected Situation
+###649
+KO|뜻밖의 안내
+EN|Unexpected Guide
+###650
+KO|뜻밖의 인연
+EN|An Unexpected Connection
+###651
+KO|란멜의 기계 병사 제압
+EN|For Science in Ranmelle!
+###652
+KO|란멜의 기계 병사 파괴
+EN|Clearing Out Ranmelle
+###653
+KO|랄프의 도발
+EN|Ralph's Provocation
+###654
+KO|레드 라펜타 수호자
+EN|Red Lapenta Guardian
+###655
+KO|레드 라펜타의 진실
+EN|The Red Lapenta's Truth
+###656
+KO|레어 등급 펫 포획하기
+EN|Capture a rare pet
+###657
+KO|레이먼은 어디로 갔을까?
+EN|Where Did Raymond Go?
+###658
+KO|레이먼의 죽음
+EN|The Death of Raymon
+###659
+KO|레펜의 계략
+EN|Lepen's Scheme
+###660
+KO|로봇 공장의 경비병
+EN|Robot Factory Infiltration
+###661
+KO|로봇공장의 경비 병력 제압
+EN|Security Clearance
+###662
+KO|로스트 차일드
+EN|Lost Child
+###663
+KO|루미나 해방군
+EN|Lumina Liberation Army
+###664
+KO|루미에라곤의 기억
+EN|Lumieragon's Memory
+###665
+KO|룬의 길을 찾아서
+EN|Road to the Rune
+###666
+KO|룬의 흔적
+EN|Traces of Runes
+###667
+KO|리더의 추천장
+EN|Leader's Recommendation
+###668
+KO|리스항구로 떠나는 배
+EN|Leaving Lith Harbor
+###669
+KO|리치몬드 부유섬 공격
+EN|Retaking the Floating Island
+###670
+KO|마감전야
+EN|Eve of the Deadline
+###671
+KO|마녀가 아끼는 것
+EN|What a Witch Wants
+###672
+KO|마녀의 보물
+EN|Witchin' Treasure
+###673
+KO|마녀의 충직한 개
+EN|The Witch's Loyal Hound
+###674
+KO|마드라칸 잠입
+EN|Infiltrate Madrakan
+###675
+KO|마드라칸의 군주
+EN|Madrakan's Monarch
+###676
+KO|마를레네의 선물
+EN|Marlene's Gift
+###677
+KO|마음은 청춘이라오
+EN|Young at Heart
+###678
+KO|마음을 다잡고
+EN|Maintaining Composure
+###679
+KO|마음을 얻는 자리
+EN|The Place to Gain Trust
+###680
+KO|마음이 아픈 이유
+EN|Why Her Heart Aches
+###681
+KO|마지막 편지
+EN|The Last Letter
+###682
+KO|마지못해서 떠나는 걸음
+EN|Without a Choice
+###683
+KO|마트 습격 사건
+EN|The Mart Raid
+###684
+KO|막막한 상황
+EN|A Tough Situation
+###685
+KO|막혀버린 길
+EN|A Dead End
+###686
+KO|만병통치 만데가솔
+EN|Cure All Mandecassol
+###687
+KO|만슈타 요새 지켜내기
+EN|The Last Stand of Mannstad
+###688
+KO|말 좀 들어라!
+EN|Listen to Me...Or Else
+###689
+KO|말할 수 없는 결단
+EN|An Unspoken Resolve
+###690
+KO|망원경 속 풍경
+EN|Wayfarer's Blues
+###691
+KO|매달려 버티기
+EN|Hanging Around
+###692
+KO|매진 임박
+EN|All Sold Out
+###693
+KO|맥을 끊는 방법
+EN|Cutting the Line
+###694
+KO|맨 땅에 날벼락
+EN|An Unexpected Event
+###695
+KO|맹독주의
+EN|Beware of Poison!
+###696
+KO|머나먼 승리
+EN|A Distant Victory
+###697
+KO|먹는 것이 힘이다
+EN|Strong Eats
+###698
+KO|먹보의 꿈
+EN|A Glutton's Dream
+###699
+KO|멈출 수 없어!
+EN|I Can't Stop!
+###700
+KO|멈춰버린 공장
+EN|A Factory in Stasis
+###701
+KO|메린이 사라졌다
+EN|Merin Has Disappeared
+###702
+KO|메이드 체험기
+EN|You've Got it Maid
+###703
+KO|메이플 연합의 호출
+EN|Unite
+###704
+KO|명백한 무죄
+EN|Clearly Innocent
+###705
+KO|명상은 $map:02020001$에서
+EN|Relax in $map:02020001$
+###706
+KO|모두 쓸어버려
+EN|Sweep Them All Away
+###707
+KO|모든 것은 계획대로
+EN|Everything Goes According to Plan
+###708
+KO|모랑의 비밀
+EN|Secrets of the Leshies
+###709
+KO|모랑족의 몽둥이
+EN|The Morang Tribe's Cudgel
+###710
+KO|모랑족의 분열
+EN|The Divide of the Moran Tribe
+###711
+KO|모랑족의 수상한 움직임
+EN|The Suspicious Movements of the Moran Tribe
+###712
+KO|모여드는 빛
+EN|Light Gathering
+###713
+KO|모자 속 신기한 세상
+EN|World in a Hat
+###714
+KO|모험[일반] 보상 받기
+EN|Obtain a normal adventure reward
+###715
+KO|모험과 신비가 가득한 그 곳!
+EN|A Place Full of Adventure and Mystery!
+###716
+KO|모험을 위한 준비
+EN|Preparing For An Adventure
+###717
+KO|목격자 진술
+EN|Eyewitness Testimony
+###718
+KO|몰랑 포레스트의 토착 생물 제압
+EN|Hunters of Leshy Forest
+###719
+KO|몰래 온 소식
+EN|Secret Message
+###720
+KO|몰아치는 번개
+EN|Surging Lightning
+###721
+KO|몰아치는 폭풍
+EN|Incoming Storm
+###722
+KO|몸에 좋은 약은 입에 쓴 법
+EN|Good Medicine Tastes Bitter
+###723
+KO|몹쓸 방화범
+EN|The Wretched Arsonist
+###724
+KO|묘안 중의 묘안
+EN|The Best of All Plans
+###725
+KO|무거운 마음
+EN|Heavy Heart
+###726
+KO|무기고 도난의 진실
+EN|The Truth Behind the Armory Theft
+###727
+KO|무너진 권력
+EN|Fallen Power
+###728
+KO|무도인의 자격
+EN|The Martial Artist's Qualifications
+###729
+KO|무럭무럭 자라다
+EN|Growing Up Fast
+###730
+KO|무르파고스의 독수리
+EN|Murpagoth's Eagle
+###731
+KO|무모한 선택
+EN|Reckless Life
+###732
+KO|무모한 시도
+EN|A Reckless Attempt
+###733
+KO|무법깡패 험플스
+EN|Humples the Outlaw
+###734
+KO|무엇을 하고 있나요?
+EN|Checking In
+###735
+KO|무지개 너머 세상
+EN|World Beyond the Rainbow
+###736
+KO|무지개 똥도 무기가 된다!
+EN|Rainbow Poo Panic
+###737
+KO|문제투성이 $map:02020051$
+EN|Woes of the $map:02020051$
+###738
+KO|물에 둥둥 떠다녀 봐
+EN|Swimming the Day Away
+###739
+KO|물을 흐리는 존재들
+EN|Those Who Cloud the Water
+###740
+KO|물컹물컹 보양식
+EN|Squishy, Healthy, Prodigiously Gross
+###741
+KO|물탱크 점검기간
+EN|Water Tank Inspection Period
+###742
+KO|뭐야, 이 애송이들은
+EN|These Rookies
+###743
+KO|미궁
+EN|Labyrinth
+###744
+KO|미궁에 빠진 운명
+EN|Unsolved Destiny
+###745
+KO|미끼를 물다
+EN|Taking the Bait
+###746
+KO|미끼의 유혹
+EN|The Lure's Temptation
+###747
+KO|미심쩍은 사건들
+EN|Suspicious Incidents
+###748
+KO|미지의 광석
+EN|A Helping Hand
+###749
+KO|미지의 대륙으로
+EN|An Uncharted Continent
+###750
+KO|미지의 대모험, 그녀의 책임감
+EN|The Unknown Adventure, Her Responsibility
+###751
+KO|미지의 대모험, 위기의 난민들
+EN|Mysterious Great Adventure, Refugees in Crisis
+###752
+KO|미지의 대모험, 의문의 파수꾼
+EN|The Unknown Adventure, The Mysterious Guardian
+###753
+KO|미지의 적
+EN|Unknown Enemy
+###754
+KO|미카와 모로파파
+EN|Mika and Moropapa
+###755
+KO|미확인 에너지원
+EN|Unknown Energy Source
+###756
+KO|민물낚시의 재미
+EN|The Joys of Freshwater Fishing
+###757
+KO|민트, 너라면… 
+EN|Mint, If It's You... 
+###758
+KO|믿고 받는 알리바 백지수표
+EN|Aliba's Trusted Blank Check
+###759
+KO|믿어지지 않는 광경
+EN|An Unbelievable Scene
+###760
+KO|밀거래용 메모리칩
+EN|Memory Chips for the Black Market
+###761
+KO|바니걸은 내 친구
+EN|Furry-tailed Friends
+###762
+KO|바다 보러갈까
+EN|See the Sea
+###763
+KO|바다낚시의 재미
+EN|The Joys of Ocean Fishing
+###764
+KO|바라하를 잡아라
+EN|Catch the Varaha
+###765
+KO|바람술의 원천
+EN|The Power of the Wind
+###766
+KO|바람을 가르는 화살
+EN|Arrow Cutting Through the Wind
+###767
+KO|바로타 상단의 두 번째 거래 품목
+EN|The Barota Guild's Second Trade Item
+###768
+KO|바베니 전초기지를 지켜내자
+EN|Defend Safehold
+###769
+KO|바보상자의 비밀
+EN|The Idiot Box
+###770
+KO|바야르를 찾아서
+EN|In Search of Vayar
+###771
+KO|바이러스 박멸!
+EN|Germ Warfare
+###772
+KO|박사의 밀실
+EN|Doctor's Den
+###773
+KO|반가운 손님
+EN|A Welcome Guest
+###774
+KO|반가운 예감
+EN|A Good Feeling
+###775
+KO|반가운 재회
+EN|A Heartwarming Reunion
+###776
+KO|반갑고도 미묘한 그
+EN|That Welcome Yet Subtle One
+###777
+KO|반겐하임의 아이
+EN|The Child of Vanheim
+###778
+KO|반딧불 천재, 아폴로
+EN|Apollo the Genius
+###779
+KO|반복되는 잔혹사
+EN|Repeated Tragedies
+###780
+KO|반쪽짜리 레시피
+EN|The Half Recipe
+###781
+KO|발견하는 사람이 임자
+EN|Finders Keepers
+###782
+KO|발로 뛰는 현장
+EN|Working the Field
+###783
+KO|방해 근절
+EN|Breaking Through
+###784
+KO|방해받고 있는 그린후드의 연구
+EN|Research Interference
+###785
+KO|배달의 기수
+EN|Delivery Rider
+###786
+KO|배움의 길
+EN|The Path of Learning
+###787
+KO|번개같은 채광
+EN|Lightning-Fast Mining
+###788
+KO|벌거벗은 산타파파
+EN|Christmas Clothes
+###789
+KO|벌레형 몬스터 도감의 자료
+EN|Invasive Insectoids: An Illustrated Guide
+###790
+KO|벌처럼 쏴라!
+EN|Sting Like a Bee!
+###791
+KO|범행 동기를 밝혀라
+EN|Discovering the Truth
+###792
+KO|베일에 가려진 성전
+EN|The Veiled Sanctuary
+###793
+KO|벨라를 느끼다
+EN|Feeling Bella
+###794
+KO|벼랑굴 대전투
+EN|Battle of Cliff Cave
+###795
+KO|벼랑굴 속으로
+EN|Traversing the Cliff Cave
+###796
+KO|벽 너머로 가는 방법
+EN|Alternate Routes
+###797
+KO|변비, 비켜!
+EN|Battle for Bowels
+###798
+KO|변이된 포잉
+EN|Mutated Poing
+###799
+KO|변절자들의 반란
+EN|Rebellion of the Heretics
+###800
+KO|변절자를 쫓아서
+EN|Chasing the Defector
+###801
+KO|변절자의 흔적
+EN|Traces of the Defector
+###802
+KO|변화와 의문
+EN|An Inner Change
+###803
+KO|별빛의 의리
+EN|Loyalty of Starlight
+###804
+KO|별조각을 모으는 사람들
+EN|The Star Fragment Collectors
+###805
+KO|병박스도 무기가 된다!
+EN|Bottle Crate Catastrophe
+###806
+KO|보급 루트 확보
+EN|Secure the Supply Route
+###807
+KO|보급 루트는 중요해
+EN|Serious Supply Route
+###808
+KO|보급로 확보
+EN|Securing the Supply Line
+###809
+KO|보답받은 믿음
+EN|Faith Rewarded
+###810
+KO|보로보로 구출 일기
+EN|Boroboro Rescue Diary
+###811
+KO|보부상은 비를 싫어해
+EN|The Peddler Hates Rain
+###812
+KO|보안 시스템 가동
+EN|Security System Activated
+###813
+KO|보이지 않는 진실
+EN|The Invisible Truth
+###814
+KO|복원된 문헌
+EN|The Restored Document
+###815
+KO|본격적인 조사
+EN|A Thorough Investigation
+###816
+KO|본연의 임무
+EN|The True Mission
+###817
+KO|봉인된 불씨
+EN|Sealed Ember
+###818
+KO|부동산 알짜 정보
+EN|The Realest Estate
+###819
+KO|부러진 빈티나무
+EN|The Broken Binti Tree
+###820
+KO|부부와 파티 맺고 각각 $map:84000001$에서 50번 점프하기
+EN|Party with the couple and jump 50 times at $map:84000001$.
+###821
+KO|부부와 파티 맺고 각각 1분 동안 로프에 매달려 있기
+EN|Party with the couple and hang on a rope for 1 minute.
+###822
+KO|부부와 파티 맺고 각각 1분 동안 물 속에 있기
+EN|Party with the couple and stay in the water for 1 minute.
+###823
+KO|부부와 파티 맺고 각각 1분 동안 잔디 위에 있기
+EN|Form a party with the couple and stay on the grass for 1 minute each.
+###824
+KO|부부와 파티 맺고 각각 50번 점프하기
+EN|Party with the couple and jump 50 times.
+###825
+KO|부부와 파티 맺고 각각 기름에서 낚시로 물고기 잡기
+EN|Party with the couple and catch fish by fishing in oil.
+###826
+KO|부부와 파티 맺고 각각 날아서 200m 이동하기
+EN|Party with the couple and use an air mount and travel 200m.
+###827
+KO|부부와 파티 맺고 각각 독액에서 낚시로 물고기 잡기
+EN|Party with the couple and catch fish by fishing in poison.
+###828
+KO|부부와 파티 맺고 각각 물 속에서 100m 수영하기
+EN|Party with the couple and swim 100m in water.
+###829
+KO|부부와 파티 맺고 각각 민물에서 낚시로 물고기 잡기
+EN|Party with the couple and catch fish by fishing in freshwater.
+###830
+KO|부부와 파티 맺고 각각 바닷물에서 낚시로 물고기 잡기
+EN|Party with the couple and catch fish by fishing in saltwater.
+###831
+KO|부부와 파티 맺고 각각 사다리에 매달려서 1분 동안 버티기
+EN|Party with the couple and hang on a ladder for 1 minute.
+###832
+KO|부부와 파티 맺고 각각 에메랄드 물에서 낚시로 물고기 잡기
+EN|Party with the couple and catch fish by fishing in emerald water.
+###833
+KO|부부와 파티 맺고 각각 용암에서 낚시로 물고기 잡기
+EN|Party with the couple and catch fish by fishing in lava.
+###834
+KO|부부와 파티 맺고 각각 탈 것 타고 200m 달리기
+EN|Party with the couple and use a ground mount and travel 200m.
+###835
+KO|부부와 파티 맺고 함께 $map:02000003$ 또는 다른 곳에서 샤워실 내려찍어 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000003$ or elsewhere by slamming down shower rooms.
+###836
+KO|부부와 파티 맺고 함께 $map:02000007$ 또는 다른 곳에서 화장실 내려찍어 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000007$ or elsewhere by slamming down toilets.
+###837
+KO|부부와 파티 맺고 함께 $map:02000009$ 또는 다른 곳에서 토템 집어 휘둘러 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000009$ or elsewhere by picking up and swinging totems.
+###838
+KO|부부와 파티 맺고 함께 $map:02000010$ 또는 다른 곳에서 광산카트 밀어서 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000010$ or elsewhere by pushing minecarts.
+###839
+KO|부부와 파티 맺고 함께 $map:02000021$ 또는 다른 곳에서 닭장 집어 던져 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000021$ or elsewhere by picking up and throwing chicken coops.
+###840
+KO|부부와 파티 맺고 함께 $map:02000039$ 또는 다른 곳에서 토템을 던져 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000039$ or elsewhere by throwing totems.
+###841
+KO|부부와 파티 맺고 함께 $map:02000057$ 또는 다른 곳에서 독가루 포대를 던져 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000057$ or elsewhere by throwing posion sacks.
+###842
+KO|부부와 파티 맺고 함께 $map:02000057$ 또는 다른 곳에서 무지개 똥 휘둘러 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000057$ or elsewhere by swinging rainbow trees.
+###843
+KO|부부와 파티 맺고 함께 $map:02000058$ 또는 다른 곳에서 다이나마이트 카트로 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000058$ or elsewhere by pushing dynamite carts.
+###844
+KO|부부와 파티 맺고 함께 $map:02000063$ 또는 다른 곳에서 오크통 던져 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000063$ or elsewhere by throwing oak barrels.
+###845
+KO|부부와 파티 맺고 함께 $map:02000084$ 또는 다른 곳에서 가스통 던져 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000084$ or elsewhere by throwing gas tanks.
+###846
+KO|부부와 파티 맺고 함께 $map:02000084$ 또는 다른 곳에서 불드럼 던져 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000084$ or elsewhere by throwing burning storage drums.
+###847
+KO|부부와 파티 맺고 함께 $map:02000090$ 또는 다른 곳에서 상한 무지개 똥으로 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000090$ or elsewhere by swinging ruined rainbow trees.
+###848
+KO|부부와 파티 맺고 함께 $map:02000110$ 또는 다른 곳에서 표지판 집어 휘둘러 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000110$ or elsewhere by picking up and swinging signs.
+###849
+KO|부부와 파티 맺고 함께 $map:02000131$ 또는 다른 곳에서 계란 던져 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000131$ or elsewhere by throwing eggs.
+###850
+KO|부부와 파티 맺고 함께 $map:02000137$ 또는 다른 곳에서 커닝폰부스로 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000137$ or elsewhere by slamming down Kerning phone booths.
+###851
+KO|부부와 파티 맺고 함께 $map:02000138$ 또는 다른 곳에서 전봇대 휘둘러 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000138$ or elsewhere by swinging telephone poles.
+###852
+KO|부부와 파티 맺고 함께 $map:02000139$ 또는 다른 곳에서 신호등 휘둘러 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000139$ or elsewhere by swinging stop lights.
+###853
+KO|부부와 파티 맺고 함께 $map:02000139$ 또는 다른 곳에서 폐기물 드럼통 던져 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000139$ or elsewhere by throwing waste drums.
+###854
+KO|부부와 파티 맺고 함께 $map:02000141$ 또는 다른 곳에서 파이프 휘둘러 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000141$ or elsewhere by swinging pipes.
+###855
+KO|부부와 파티 맺고 함께 $map:02000147$ 또는 다른 곳에서 쓰레기통 밀어 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000147$ or elsewhere by throwing trash cans.
+###856
+KO|부부와 파티 맺고 함께 $map:02000174$ 또는 다른 곳에서 폭탄 집어 던져 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000174$ or elsewhere by throwing bombs.
+###857
+KO|부부와 파티 맺고 함께 $map:02000175$ 또는 다른 곳에서 횃불 집어 휘둘러 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000175$ or elsewhere by picking up and swinging torches.
+###858
+KO|부부와 파티 맺고 함께 $map:02000258$ 또는 다른 곳에서 타이어 굴려 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000258$ or elsewhere by rolling tire stacks.
+###859
+KO|부부와 파티 맺고 함께 $map:02000259$ 또는 다른 곳에서 태엽 폭탄 던져 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000259$ or elsewhere by throwing wind-up bombs.
+###860
+KO|부부와 파티 맺고 함께 $map:02000264$ 또는 다른 곳에서 빙하집 내려찍어 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000264$ or elsewhere by slamming down igloos.
+###861
+KO|부부와 파티 맺고 함께 $map:02000266$ 또는 다른 곳에서 커닝버스 내려찍어 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000266$ or elsewhere by slamming down Kerning buses.
+###862
+KO|부부와 파티 맺고 함께 $map:02000267$ 또는 다른 곳에서 페리온집 내려찍어 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000267$ or elsewhere by slamming Perion houses.
+###863
+KO|부부와 파티 맺고 함께 $map:02000269$ 또는 다른 곳에서 병박스를 집어 던져 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000269$ or elsewhere by picking up and throwing bottle boxes.
+###864
+KO|부부와 파티 맺고 함께 $map:02000275$ 또는 다른 곳에서 커닝트럭 내려찍어 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000275$ or elsewhere by slamming down Kerning trucks.
+###865
+KO|부부와 파티 맺고 함께 $map:02000277$ 또는 다른 곳에서 EMP 폭탄 던져 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02000277$ or elsewhere by throwing EMP bombs.
+###866
+KO|부부와 파티 맺고 함께 $map:02010014$ 또는 다른 곳에서 가로등 휘둘러 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02010014$ or elsewhere by swinging Ludari streetlights.
+###867
+KO|부부와 파티 맺고 함께 $map:02010023$ 또는 다른 곳에서 막사를 집어 던져 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02010023$ or elsewhere by throwing barracks.
+###868
+KO|부부와 파티 맺고 함께 $map:02010029$ 또는 다른 곳에서 뱀 풀어 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02010029$ or elsewhere by releasing snakes.
+###869
+KO|부부와 파티 맺고 함께 $map:02010033$ 또는 다른 곳에서 불 항아리 집어 던지기
+EN|Party with the couple and attack monsters together in $map:02010033$ or elsewhere by throwing fire jars.
+###870
+KO|부부와 파티 맺고 함께 $map:02010084$ 또는 다른 곳에서 가시넝쿨 집어 던져 몬스터 공격하기
+EN|Party with the couple and attack monsters together in $map:02010084$ or elsewhere by throwing thorny vines.
+###871
+KO|부부와 파티 맺고 함께 $npc:22000004$,$npc:22000002$,$npc:22000322$ 처치
+EN|Party with the couple and defeat $npc:22000004$, $npc:22000002$, and $npc:22000322$ together.
+###872
+KO|부부와 파티 맺고 함께 $npc:22000022$,$npc:22090165$,$npc:22000038$,$npc:22090107$,$npc:22000024$,$npc:22000023$ 처치
+EN|Party with the couple and defeat $npc:22000022$, $npc:22090165$, $npc:22000038$, $npc:22090107$, $npc:22000024$, and $npc:22000023$ together.
+###873
+KO|부부와 파티 맺고 함께 기계형 몬스터 처치하기
+EN|Party with the couple and defeat Machine monsters together.
+###874
+KO|부부와 파티 맺고 함께 나무 100번 때리기
+EN|Party with the couple and hit a tree together 100 times.
+###875
+KO|부부와 파티 맺고 함께 모험[어려움] 보스 처치
+EN|Party with the couple and defeat a hard dungeon boss.
+###876
+KO|부부와 파티 맺고 함께 모험[일반] 보스 처치
+EN|Party with the couple and defeat a normal dungeon boss.
+###877
+KO|부부와 파티 맺고 함께 벌레형 몬스터 처치하기
+EN|Party with the couple and defeat Insect monsters together.
+###878
+KO|부부와 파티 맺고 함께 사물형 몬스터 처치하기
+EN|Party with the couple and defeat Inanimate monsters together.
+###879
+KO|부부와 파티 맺고 함께 식물형 몬스터 처치하기
+EN|Party with the couple and defeat Plant monsters together.
+###880
+KO|부부와 파티 맺고 함께 신수형 몬스터 처치하기
+EN|Party with the couple and defeat Unknown monsters together.
+###881
+KO|부부와 파티 맺고 함께 악마형 몬스터 처치하기
+EN|Party with the couple and defeat Devil monsters together.
+###882
+KO|부부와 파티 맺고 함께 야수형 몬스터 처치하기
+EN|Party with the couple and defeat Beast monsters together.
+###883
+KO|부부와 파티 맺고 함께 언데드형 몬스터 처치하기
+EN|Party with the couple and defeat Undead monsters together.
+###884
+KO|부부와 파티 맺고 함께 요정형 몬스터 처치하기
+EN|Party with the couple and defeat Fairfolk monsters together.
+###885
+KO|부부와 파티 맺고 함께 인간형 몬스터 처치하기
+EN|Party with the couple and defeat Humanoid monsters together.
+###886
+KO|부부와 파티 맺고 함께 정령형 몬스터 처치하기
+EN|Party with the couple and defeat Spirit monsters together.
+###887
+KO|부상
+EN|Injury
+###888
+KO|부상당한 룬 블레이더
+EN|Injured Runeblader
+###889
+KO|부서진 믿음
+EN|Broken Trust
+###890
+KO|부품도둑
+EN|Stripped for Parts
+###891
+KO|부품을 훔쳐 가는 토착 생물들
+EN|Dealing with Thieves
+###892
+KO|북동 초소를 구하라!
+EN|Save the Northeast Outpost!
+###893
+KO|분노의 일격
+EN|Strike of Fury
+###894
+KO|불 태운다, 지방!
+EN|Feel the Burn
+###895
+KO|불굴의 의지
+EN|Indomitable Will
+###896
+KO|불굴의 정신력
+EN|Unbreakable Spirit
+###897
+KO|불길 속으로
+EN|Into the Flames
+###898
+KO|불길한 먹구름
+EN|Dark Clouds
+###899
+KO|불길한 예감
+EN|Flying Blind
+###900
+KO|불길한 예고
+EN|An Ominous Warning
+###901
+KO|불드럼도 무기가 된다!
+EN|Barrels of Fun
+###902
+KO|불미스러운 연구의 결과
+EN|Research Gone Wrong
+###903
+KO|불바다의 신비
+EN|Mystery of the Sea of Fire
+###904
+KO|불씨의 근원
+EN|Source of the Embers
+###905
+KO|불안한 신호
+EN|Harbinger of Doom
+###906
+KO|불의 눈
+EN|Eye of Fire
+###907
+KO|불청객
+EN|Unwelcomed Guest
+###908
+KO|불타는 커닝시티
+EN|Kerning City in Flames
+###909
+KO|불편한 진실
+EN|An Inconvenient Truth
+###910
+KO|불평어린 우정
+EN|A Grumpy Friendship
+###911
+KO|붉은 망토 목격담
+EN|Red Dead Witness
+###912
+KO|브로커 랄프를 찾아라!
+EN|Find Broker Ralph!
+###913
+KO|블랙 오피스
+EN|Black Office
+###914
+KO|블랙 하우스
+EN|Black House
+###915
+KO|비공개 프로젝트
+EN|Private Project
+###916
+KO|비관적인 시뮬레이션
+EN|Pessimistic Simulation
+###917
+KO|비극을 불러온 선택
+EN|A Tragic Decision
+###918
+KO|비드블라임 저택으로
+EN|The Vid-Bleim Mansion
+###919
+KO|비밀 임무
+EN|Secret Mission
+###920
+KO|비밀 지령서
+EN|Secret Orders
+###921
+KO|비밀 통로를 따라
+EN|Follow the Secret Passage
+###922
+KO|비밀을 간직한 부품
+EN|Machine Secrets
+###923
+KO|비법 전수
+EN|Passing Down the Secret Recipe
+###924
+KO|비야 비야
+EN|Rain, Rain, Come Again
+###925
+KO|비열한 도청
+EN|Dastardly Eavesdropping
+###926
+KO|비운의 가족
+EN|A Family in Misfortune
+###927
+KO|빅토리아호를 찾아서
+EN|Chasing Victoria
+###928
+KO|빈손으로 돌아갈 순 없어
+EN|Can't Go Back Empty-Handed
+###929
+KO|빙하집도 무기가 된다!
+EN|Igloo, Interrupted
+###930
+KO|빚의 굴레
+EN|Shackles of Debt
+###931
+KO|빛보다 빠르게
+EN|Faster Than Light
+###932
+KO|빛을 안고 돌아가다
+EN|Return with the Light
+###933
+KO|빛의 성역을 찾아서
+EN|To Find the Sanctuary of Light
+###934
+KO|빛의 힘을 찾아서
+EN|To Find the Power of the Light
+###935
+KO|빠르고 편한 교통수단
+EN|Quick and Convenient
+###936
+KO|빠빠가루 제조 현장
+EN|Papagaru Manufacturing Site
+###937
+KO|뼈 빠지는 돈벌이
+EN|Backbreaking Work
+###938
+KO|뿌셔뿌셔
+EN|Stress Test
+###939
+KO|삐뚤어진 욕망
+EN|Twisted Desires
+###940
+KO|사각사각 츄르릅
+EN|Slurp 'n' Crunch
+###941
+KO|사건 경위 보고
+EN|Incident Report
+###942
+KO|사건 보고
+EN|Incident Report
+###943
+KO|사건 탐색
+EN|Investigating the Case
+###944
+KO|사건의 전말
+EN|In the Details
+###945
+KO|사과 소동
+EN|Apple Commotion
+###946
+KO|사나운 그녀석
+EN|Running Rampant
+###947
+KO|사냥을 못하는 이유
+EN|The Reason for Not Hunting
+###948
+KO|사라져라! 검은군단
+EN|Daemons Be Gone!
+###949
+KO|사라진 넬프
+EN|The Missing Nelph
+###950
+KO|사라진 희망
+EN|A Lost Hope
+###951
+KO|사막의 무법자들
+EN|Desert Outlaws
+###952
+KO|사막의 풍경을 감상해봐
+EN|Desert Scenery
+###953
+KO|사물형 몬스터 도감의 자료
+EN|Inanimate Monsters: An Illustrated Guide
+###954
+KO|사방에 포잉이 가득해
+EN|Poings Everywhere
+###955
+KO|사사로운 욕망
+EN|Petty Desires
+###956
+KO|사업권 경쟁
+EN|Business Rights Competition
+###957
+KO|사절단 출발
+EN|The Delegation Departs
+###958
+KO|사족보행 하는 기계 병사
+EN|Four-Footed Fury
+###959
+KO|사찰 대상
+EN|Surveillance Target
+###960
+KO|사탕을 만들어 볼까? 
+EN|Shall We Make Candy? 
+###961
+KO|산산조각난 약속
+EN|A Promise Shattered
+###962
+KO|산티아고의 고민
+EN|Santiago's Dilemma
+###963
+KO|살눈 내린 터
+EN|The Snow-Dusted Grounds
+###964
+KO|살랑 살랑 꼬리털
+EN|Swishing Tail Hair
+###965
+KO|상념의 불꽃놀이
+EN|Fireworks of Reflection
+###966
+KO|상단을 노리는 배후
+EN|The Force Behind the Guild
+###967
+KO|상처 입은 켈베로스
+EN|Notorious Monsters: Cry of the Cerberus
+###968
+KO|상처엔 $item:20000102$
+EN|$item:20000102$ for Your Wounds
+###969
+KO|상한 무지개 똥도 무기가 된다!
+EN|Rotten Poo Peril
+###970
+KO|상황 파악
+EN|Comprehending the Situation
+###971
+KO|상황 파악이 필요해
+EN|A Thorough Investigation
+###972
+KO|새로운 가족
+EN|A New Family
+###973
+KO|새로운 거처
+EN|A New Dwelling
+###974
+KO|새로운 건 언제나 짜릿해
+EN|New things are always exciting
+###975
+KO|새로운 국면
+EN|A New Phase
+###976
+KO|새로운 목표
+EN|A New Goal
+###977
+KO|새로운 물질
+EN|New Material
+###978
+KO|새로운 미끼
+EN|New Bait
+###979
+KO|새로운 보금자리를 위해!
+EN|New Home
+###980
+KO|새로운 식구
+EN|A New Family Member
+###981
+KO|새로운 실마리
+EN|A New Lead
+###982
+KO|새로운 임무
+EN|A New Mission
+###983
+KO|새로운 자신과 함께
+EN|Your New Self
+###984
+KO|새로운 장소, 반가운 만남
+EN|A New Place, a Welcome Encounter
+###985
+KO|새로운 장소, 새로운 만남
+EN|New Place, New Encounter
+###986
+KO|새로운 전투 패턴
+EN|New Threats
+###987
+KO|새로운 지시
+EN|New Orders
+###988
+KO|새로운 지식
+EN|New Knowledge
+###989
+KO|새로운 출발
+EN|A New Departure
+###990
+KO|새로운 향기
+EN|A New Fragrance
+###991
+KO|새로운 힘을 얻다
+EN|New Power
+###992
+KO|색이 다른 돌연변이들
+EN|Colorful Creatures
+###993
+KO|생긴대로 살자
+EN|Live as You Are
+###994
+KO|생명을 품은 대지
+EN|Life-Bearing Earth
+###995
+KO|생명의 결계를 지켜라
+EN|Protect the Barrier of Life
+###996
+KO|생명의 근원
+EN|Take a Dip
+###997
+KO|생존을 위한 부탁
+EN|A Request for Survival
+###998
+KO|생존을 위한 선제공격
+EN|Dissecting the Problem
+###999
+KO|생존자들에게 묻다
+EN|Asking Survivors
+###1000
+KO|샤워실도 무기가 된다!
+EN|Shower Stall Smash
+###1001
+KO|서서히 드러나는 실체
+EN|The Truth Slowly Revealed
+###1002
+KO|서책의 비밀
+EN|Hidden in the Book
+###1003
+KO|선셋타워의 도망자
+EN|The Fugitive of Sunset Tower
+###1004
+KO|선수의 명예를 걸고
+EN|On a Player's Honor
+###1005
+KO|선제공격
+EN|Offensive Strike
+###1006
+KO|선택의 기로
+EN|Crossroads of Choice
+###1007
+KO|설득의 노동학
+EN|The Art of Persuasion
+###1008
+KO|성난 발톱
+EN|Furious Claws
+###1009
+KO|성난 호랑이
+EN|The Raging Tiger
+###1010
+KO|성지를 찾아서
+EN|Searching for the Sanctuary
+###1011
+KO|세 번째 바즈의 유적을 찾아서
+EN|Searching for the Third Baz Ruin
+###1012
+KO|세살 버릇…
+EN|A Habit of Three…
+###1013
+KO|소녀들의 약속
+EN|The Girls' Promise
+###1014
+KO|소녀의 부탁
+EN|The Girl's Request
+###1015
+KO|소문을 따라서
+EN|Following the Rumors
+###1016
+KO|소문이 모여드는 곳
+EN|Where Rumors Gather
+###1017
+KO|소박한 여유
+EN|A Lazy Day Inn
+###1018
+KO|소식 전하기
+EN|Relaying the Message
+###1019
+KO|소신있는 언론인
+EN|A Journalist with Conviction
+###1020
+KO|소중한 물건은 금고에
+EN|Keep Precious Things in the Vault
+###1021
+KO|소중한 옛 기록들
+EN|Preservation Efforts
+###1022
+KO|소중한 항해일지
+EN|The Precious Ship's Log
+###1023
+KO|소켓 확장 시도하기
+EN|Attempt a socket expansion
+###1024
+KO|소켓에 젬스톤 장착하기
+EN|Insert a gemstone into a socket
+###1025
+KO|소환술의 원천
+EN|Source of Summoning
+###1026
+KO|속사포 캐논
+EN|Rapid Fire Cannon
+###1027
+KO|손 끝의 선율
+EN|Melody at Your Fingertips
+###1028
+KO|손녀를 그리며
+EN|Longing for a Granddaughter
+###1029
+KO|손을 잡다
+EN|Joining Hands
+###1030
+KO|송신탑 복구, 두번째
+EN|Can't Stop the Signal
+###1031
+KO|송신탑 복구, 첫번째
+EN|Transmission Troubles
+###1032
+KO|쇠똥도 약에 쓰려면 없는 법
+EN|Never Around When You Need It
+###1033
+KO|수다쟁이 아주머니
+EN|The Chatty Lady
+###1034
+KO|수레 일으키기
+EN|Lifting the Cart
+###1035
+KO|수면 부족은 이제 그만
+EN|No More Sleep Deprivation
+###1036
+KO|수배 시작
+EN|The Hunt Begins
+###1037
+KO|수배활동, 두 번째
+EN|Bounty Hunt, Part Two
+###1038
+KO|수배활동, 마지막
+EN|Bounty Hunt, The Finale
+###1039
+KO|수배활동, 세 번째
+EN|Bounty Hunt, Part Three
+###1040
+KO|수배활동, 첫 번째
+EN|Bounty Hunt, Part One
+###1041
+KO|수상한 $npcName:11004614$
+EN|Suspicious $npcName:11004614$
+###1042
+KO|수상한 느낌
+EN|A Suspicious Feeling
+###1043
+KO|수상한 선물 상자
+EN|Suspicious Gift Boxes
+###1044
+KO|수상한 연구기관
+EN|A Suspicious Research Institute
+###1045
+KO|수상한 창고
+EN|Suspicious Warehouse
+###1046
+KO|수상한 철광석
+EN|Suspicious Iron Ore
+###1047
+KO|수색 허가증
+EN|Search Permit
+###1048
+KO|수색의 첫 단추
+EN|The First Step of the Search
+###1049
+KO|수첩의 비밀
+EN|The Notebook's Secret
+###1050
+KO|수첩의 주인은 누구?
+EN|Who Owns the Notebook?
+###1051
+KO|수행길을 쫓아서
+EN|Following the Path of Training
+###1052
+KO|수행자의 의무
+EN|Duty of the Practitioner
+###1053
+KO|숲 속 울음소리
+EN|Cries of the Forest
+###1054
+KO|숲 속으로
+EN|Into the Woods
+###1055
+KO|숲 속의 도서관
+EN|Library of the Forest
+###1056
+KO|숲과 바다
+EN|Forest and Sea
+###1057
+KO|숲을 지키는 힘
+EN|Forest Protection
+###1058
+KO|숲의 정기를 찾아라!
+EN|Find the Forest Spirit!
+###1059
+KO|숲이 검게 물든 이유
+EN|The Reason the Forest Turned Black
+###1060
+KO|쉐도우 구출 대작전!
+EN|Shadow Rescue Operation!
+###1061
+KO|쉐도우 보고
+EN|Shadow Report
+###1062
+KO|쉐도우 월드 연구
+EN|Shadow World Research
+###1063
+KO|쉽지 않은 시작
+EN|Search and Destroy
+###1064
+KO|쉽지 않은 퇴단
+EN|Not Easy to Quit
+###1065
+KO|쉽지 않은 화합
+EN|Uneasy Unity
+###1066
+KO|슈퍼 캐논의 위력?
+EN|The Power of a Super Cannon?
+###1067
+KO|스승님의 소식
+EN|News from the Master
+###1068
+KO|스승의 발자취
+EN|The Master's Footsteps
+###1069
+KO|스승의 부름
+EN|Teacher's Call
+###1070
+KO|스승이 전한 소식
+EN|News from the Master
+###1071
+KO|스카이 포트리스는 파업 중?
+EN|She Can't Take Much More
+###1072
+KO|스타일 체인지!
+EN|Style Change!
+###1073
+KO|스타츠 레스토랑으로!
+EN|To Starts' Restaurant!
+###1074
+KO|스파이를 찾아라
+EN|Find the Spy
+###1075
+KO|슬픈 진실
+EN|A Sad Truth
+###1076
+KO|승리를 위하여
+EN|For Victory
+###1077
+KO|시간을 돌려라!
+EN|Turn Back Time!
+###1078
+KO|시간을 되돌릴 수 있다면
+EN|Back in Time
+###1079
+KO|시간을 지켜라!
+EN|Guardian of Time
+###1080
+KO|시간의 결계 속으로
+EN|Into the Time Barrier
+###1081
+KO|시간의 끝을 잡고
+EN|Grasping at the Straws of Time
+###1082
+KO|시간의 떨림
+EN|Tremor of Time
+###1083
+KO|시계탑의 비밀
+EN|The Secret of the Clocktower
+###1084
+KO|시공으로 다시 한번
+EN|Once More Through Time and Space
+###1085
+KO|시공의 균열
+EN|Space-Time Rift
+###1086
+KO|시끄러운 개척 상인
+EN|The Noisy Pioneer Merchant
+###1087
+KO|시끄러운 알람 소리
+EN|The Noisy Alarm
+###1088
+KO|시끄러운 이웃
+EN|Noisy Neighbors
+###1089
+KO|시련 뒤에는 성장이
+EN|Growth through Adversity
+###1090
+KO|시원하게, 간편하게!
+EN|Cool as a Cucumber
+###1091
+KO|시작되지 못한 유적탐사
+EN|Scratching the Ruin Surface
+###1092
+KO|시장의 고민
+EN|Quite a Quandary
+###1093
+KO|시크릿 클럽
+EN|Secret Club
+###1094
+KO|시크릿 파일
+EN|Secret File
+###1095
+KO|식물형 몬스터 도감의 자료
+EN|Perilous Plants: An Illustrated Guide
+###1096
+KO|신나는 순간이동
+EN|Exciting Teleportation
+###1097
+KO|신나는 홈파티
+EN|Raise the Roof
+###1098
+KO|신비의 고대 유적
+EN|Mysterious Ancient Ruins
+###1099
+KO|신비한 약초에 대한 소문
+EN|Rumors of a Mysterious Herb
+###1100
+KO|신비한 힘을 모아라
+EN|Gather Mysterious Power
+###1101
+KO|신비한 힘을 지키기 위한 고민
+EN|Concern About Protecting the Mysterious Power
+###1102
+KO|신비한 힘의 안식처
+EN|A Sanctuary of Mysterious Power
+###1103
+KO|신선함이 한 가득
+EN|Maximum Freshness
+###1104
+KO|신성한 깃털
+EN|The Sacred Feather
+###1105
+KO|신성한 바위 정령
+EN|The Sacred Rock Spirit
+###1106
+KO|신성한 빛
+EN|Sacred Light
+###1107
+KO|신성함이 깃든 의뢰
+EN|A Request Imbued with Holiness
+###1108
+KO|신수형 몬스터 도감의 자료
+EN|Divine Beasts: An Illustrated Guide
+###1109
+KO|신약도 맛있을까?
+EN|The Technical Definition of Food
+###1110
+KO|신의를 지키다
+EN|Faith Maintained
+###1111
+KO|신전의 비밀
+EN|The Secret of the Temple
+###1112
+KO|신중한 제자들
+EN|Cautious Disciples
+###1113
+KO|신호등도 무기가 된다!
+EN|Stoplight Shellacking
+###1114
+KO|실낱같은 희망
+EN|Losing Hope
+###1115
+KO|실낱같은 희망을 꿈꾸며…
+EN|Dreaming of a Sliver of Hope…
+###1116
+KO|실리를 추구하며
+EN|Pursuing Profit
+###1117
+KO|실마리는 기적을 낳고
+EN|A Clue Begets a Miracle
+###1118
+KO|실제 상황
+EN|Real Situation
+###1119
+KO|실제 임무
+EN|The Real Mission
+###1120
+KO|실체 없는 보물
+EN|Trivial Treasure
+###1121
+KO|실패해야 산다!
+EN|Fail to Survive!
+###1122
+KO|심봤다!
+EN|Jackpot!
+###1123
+KO|심상찮은 분위기
+EN|A Mysterious Atmosphere
+###1124
+KO|싸움만이 답이 아니기에
+EN|Peace Talks
+###1125
+KO|쓰레기도 돈이다
+EN|Garbage Is Money Too
+###1126
+KO|쓰레기통도 무기가 된다!
+EN|Trash Can Smackdown
+###1127
+KO|쓸모없는 것은 없어
+EN|Nothing Is Useless
+###1128
+KO|아군과 적군은 한 끗 차이
+EN|Enemy or Ally
+###1129
+KO|아늑한 집 꾸미기
+EN|Adventures in Literacy: The Perion Aesthetic
+###1130
+KO|아름다운 알
+EN|A Beautiful Egg
+###1131
+KO|아름다운 집 꾸미기
+EN|Adventures in Literacy: Home Decor Trends
+###1132
+KO|아리까리 수상한 그들
+EN|Strange Ones
+###1133
+KO|아무 던전에서나 보상 획득하기
+EN|Collect a reward from any dungeon
+###1134
+KO|아무도 모르게
+EN|Without Anyone Knowing
+###1135
+KO|아빠는 관리소장
+EN|Dad Is the Maintenance Chief
+###1136
+KO|아빠를 찾아주세요
+EN|Finding Father
+###1137
+KO|아시모프의 부름
+EN|Asimov's Call
+###1138
+KO|아시모프의 지혜
+EN|Asimov's Wisdom
+###1139
+KO|아이, 싱싱해!
+EN|Think Cool
+###1140
+KO|아이의 이야기
+EN|Children's Stories
+###1141
+KO|아직은 할 수 없는 이야기
+EN|A Tale Untellable
+###1142
+KO|아카보나리의 저주
+EN|Curse of Akabonari
+###1143
+KO|아픔, 그리고 빈곤
+EN|Pain and Poverty
+###1144
+KO|악마의 뿌리
+EN|Demonic Roots
+###1145
+KO|악마형 몬스터 도감의 자료
+EN|Devilish Dangers: An Illustrated Guide
+###1146
+KO|악몽
+EN|The Nightmare
+###1147
+KO|악연을 끝낼 순간
+EN|The Moment to End a Bad Relationship
+###1148
+KO|악의 근원
+EN|Origins of Evil
+###1149
+KO|악의 무리를 줄이는 방법
+EN|Kharon Cutbacks
+###1150
+KO|악의 발악
+EN|Desperate Struggles
+###1151
+KO|악의 집단과 불량배
+EN|Evil Gang and Ruffians
+###1152
+KO|악취의 원인
+EN|Source of the Stench
+###1153
+KO|안 좋은 예감은 틀리지 않는 법
+EN|Bad Feelings Are Never Wrong
+###1154
+KO|안녕, 루델리 시티!
+EN|Hello, Ludari City!
+###1155
+KO|안녕, 미나르!
+EN|Hello, Minar!
+###1156
+KO|안녕, 엘리니아!
+EN|Eyy, Ellinia!
+###1157
+KO|안녕, 커닝시티!
+EN|Keep it Real, Kerning City!
+###1158
+KO|안녕, 탈리스커!
+EN|Take Care, Taliskar!
+###1159
+KO|안녕, 트라이아!
+EN|Greetings from Tria
+###1160
+KO|안녕, 페리온!
+EN|Howdy, Perion!
+###1161
+KO|안녕, 헤네시스!
+EN|Hello, Henesys!
+###1162
+KO|안전 확보가 우선
+EN|Holding the Line
+###1163
+KO|안전을 위협하는 자들
+EN|Imminent Threat
+###1164
+KO|안전통행
+EN|Safe Passage
+###1165
+KO|안전한 공연을 위해
+EN|For a Safe Performance
+###1166
+KO|안타까운 이별
+EN|A Heartbreaking Farewell
+###1167
+KO|알 수 없는 그늘
+EN|Mysterious People
+###1168
+KO|알 수 없는 불길함
+EN|An Ominous Feeling
+###1169
+KO|알 수 없는 속내
+EN|Unreadable Intentions
+###1170
+KO|알 수 없는 시험
+EN|A Mysterious Test
+###1171
+KO|알 수 없는 행보
+EN|Unknown Movements
+###1172
+KO|알고 싶은 그 몬스터
+EN|Knowledge from Violence
+###1173
+KO|알쏭달쏭한 그의 마음
+EN|His Perplexing Heart
+###1174
+KO|알약도 맛있을까?
+EN|Delicious, Nutritious Medicine
+###1175
+KO|알을 찾아서
+EN|Searching for the Egg
+###1176
+KO|알현의 자격
+EN|Qualification for Audience
+###1177
+KO|암상인의 소식
+EN|The Black-market Dealer's News
+###1178
+KO|암허스트의 자랑
+EN|Amherst's Pride
+###1179
+KO|암호를 찾아라
+EN|Find the Password
+###1180
+KO|앞길을 가로막는 자
+EN|The One Blocking the Way
+###1181
+KO|앞만 보고 달려봐
+EN|Full Tilt
+###1182
+KO|야수형 몬스터 도감의 자료
+EN|Barbarous Beasts: An Illustrated Guide
+###1183
+KO|야카야마 열매의 부작용
+EN|Side Effects of the Yakayama Fruit
+###1184
+KO|양심선언
+EN|Confession of Conscience
+###1185
+KO|양팔 벌려 착지해봐
+EN|With Outstretched Arms
+###1186
+KO|어둠 속 거래
+EN|A Deal in the Dark
+###1187
+KO|어둠 속 대피소
+EN|Shelter in Darkness
+###1188
+KO|어둠만이 가득한 곳
+EN|Shrouded in Darkness
+###1189
+KO|어둠에 물든 거북을 용서하소서
+EN|Forgive the Darkness-Tainted Turtle
+###1190
+KO|어둠에 물든 몬스터
+EN|Tainted Beasts
+###1191
+KO|어둠을 가르고
+EN|Through the Darkness
+###1192
+KO|어둠을 삼킨 바다
+EN|An Ocean that Swallowed the Darkness
+###1193
+KO|어둠의 경고
+EN|Darkness's Warning
+###1194
+KO|어둠의 군단을 빛으로 숙청하리라
+EN|Purging the Army of Darkness with Light
+###1195
+KO|어둠의 땅에서 몬스터 5마리 사냥해보기
+EN|Hunt 5 monsters in the Land of Darkness
+###1196
+KO|어둠의 실체
+EN|The True Nature of Darkness
+###1197
+KO|어둠의 존재들
+EN|Beings of Darkness
+###1198
+KO|어둠이 피기 전에
+EN|Before Darkness Blooms
+###1199
+KO|어둠이여, 그 돌에서 나오너라
+EN|Darkness, Come Out from That Stone
+###1200
+KO|어둡고 푸른 빛
+EN|A Dark Blue Light
+###1201
+KO|어떤 간절함
+EN|A Certain Desperation
+###1202
+KO|어떤 날도, 어떤 말도
+EN|A Word A Day
+###1203
+KO|어른이 되고 싶은 이유
+EN|Everlasting Childhood
+###1204
+KO|어린 벨라를 따라서
+EN|Following Young Bella
+###1205
+KO|어설픈 건달
+EN|Awkward Hooligan
+###1206
+KO|어쩌다 하나쯤은
+EN|Going for the Gold
+###1207
+KO|언데드형 몬스터 도감의 자료
+EN|Understanding the Undead: An Illustrated Guide
+###1208
+KO|얼어붙은 길
+EN|The Frozen Path
+###1209
+KO|얼음은 곤란해
+EN|Ice Cold
+###1210
+KO|엄마를 그리며
+EN|Longing for Mother
+###1211
+KO|엄청난 지진의 여파
+EN|Aftermath of a Massive Earthquake
+###1212
+KO|엇갈리는 마음
+EN|Conflicting Hearts
+###1213
+KO|엇갈리는 진실
+EN|The Conflicting Truth
+###1214
+KO|엉금엉금 기어봐
+EN|On All Fours
+###1215
+KO|엉켜버린 시간
+EN|Tangled Time
+###1216
+KO|에너지 역학 조사
+EN|Dynamic Energy Research
+###1217
+KO|에너지 연구소를 지켜내자!
+EN|Protect the Lab!
+###1218
+KO|에네르 공급 차단
+EN|Aetherine Supply Lines
+###1219
+KO|에네르 수급을 위한 묘안
+EN|A clever scheme for the Ener supply
+###1220
+KO|에네르 수급처를 찾아라
+EN|Aetherine Source
+###1221
+KO|에네르 연구를 방해하는 존재들
+EN|Aetherine Research Interference
+###1222
+KO|에네르 연구의 걸림돌
+EN|Aetherine Impeded
+###1223
+KO|에네르 융합로 설계도 확보
+EN|The Reactor Blueprint
+###1224
+KO|에네르 확보 전쟁
+EN|The Fight for Aetherine
+###1225
+KO|에네르는 언제나 부족해
+EN|Aetherine Endangered
+###1226
+KO|에네르를 머금은 식물
+EN|Aetherine Botany
+###1227
+KO|에네르를 먹어치우는 생물들
+EN|Aetherine Munchers
+###1228
+KO|에네르를 소비하는 존재들
+EN|Aetherine Thieves
+###1229
+KO|에네르를 얻는 기발한 방법
+EN|A Clever Way to Get Ener
+###1230
+KO|에네르를 훔쳐가는 토착 생물들
+EN|Aetherine I Pretty?
+###1231
+KO|에르멘의 행방
+EN|Location of Ermen
+###1232
+KO|엑스텀프의 과거
+EN|Axe-amine the Stumps
+###1233
+KO|여관에서 온 소식
+EN|News from the Inn
+###1234
+KO|여기, 사람 있어요!
+EN|Hello, Someone's Here!
+###1235
+KO|여긴 내가 막겠어!
+EN|Planted Feet
+###1236
+KO|여보 어디 가?
+EN|Honey, Where Are You Going?
+###1237
+KO|여보세요? 여보세요!
+EN|Static
+###1238
+KO|여정의 시작
+EN|The Start of a Journey
+###1239
+KO|여제의 결심
+EN|The Empress's Determination
+###1240
+KO|여제의 꿈
+EN|The Empress's Dream
+###1241
+KO|여제의 부름
+EN|Mission from the Empress
+###1242
+KO|여제의 분노
+EN|The Empress's Wrath
+###1243
+KO|여제의 알현식
+EN|The Empress' Levee
+###1244
+KO|여제의 지혜
+EN|The Empress's Wisdom
+###1245
+KO|여제의 호출
+EN|Imperial Planning
+###1246
+KO|여지를 주지 않는 그녀
+EN|No Other Option
+###1247
+KO|연결의 고리
+EN|Link of Connection
+###1248
+KO|연구소장이 찾는 사람
+EN|Chief Researcher Search
+###1249
+KO|연구시설 건설을 방해하는 존재들
+EN|New Research Facility
+###1250
+KO|연구용 $item:30000232$
+EN|$itemPlural:30000232$ for Research
+###1251
+KO|연금술사의 묘약
+EN|The Alchemist's Elixir
+###1252
+KO|연금술사의 주문
+EN|The Alchemist's Order
+###1253
+KO|연락 없는 그녀
+EN|No Contact
+###1254
+KO|연민의 $npcName:11004614$
+EN|Compassion for $npcName:11004614$
+###1255
+KO|연회를 위한 식재료
+EN|Ingredients for the Banquet
+###1256
+KO|연회장으로 모이다
+EN|Gathering at the Hall
+###1257
+KO|열지 않아도 보여요
+EN|Stay Frosty
+###1258
+KO|열차 없는 철로
+EN|Tracks Without a Train
+###1259
+KO|염원을 이루다
+EN|Striving for Desire
+###1260
+KO|영롱한 녹색 보석
+EN|The Color Green
+###1261
+KO|영롱한 불빛
+EN|This Little Light of Mine
+###1262
+KO|영업 성과
+EN|Business Results
+###1263
+KO|영업의 신
+EN|God of Business
+###1264
+KO|영웅을 추모하는 방법
+EN|How to Honor a Hero
+###1265
+KO|영웅의 그늘
+EN|The Hero's Shadow
+###1266
+KO|영웅의 글라디우스
+EN|The Blade of a Hero
+###1267
+KO|영웅의 무게
+EN|The Weight of a Hero
+###1268
+KO|영웅의 쉼터
+EN|The Hero's Resting Place
+###1269
+KO|영웅의 자격
+EN|The Qualifications of a Hero
+###1270
+KO|영웅이여, 다시 한 번
+EN|Hero, once more
+###1271
+KO|영혼없는 병기에게 구원은 없다
+EN|No Salvation for Soulless Weapons
+###1272
+KO|영혼을 담는 구슬
+EN|Orb of Souls
+###1273
+KO|영혼을 품은 돌
+EN|The $item:30000153$
+###1274
+KO|영혼의 차원
+EN|Soul Dimension
+###1275
+KO|예기치 못한 만남
+EN|Unexpected Encounter
+###1276
+KO|예뻐지고 싶어요
+EN|Adventures in Literacy: Pretty as a Peach
+###1277
+KO|예상되는 배후
+EN|Typical Masterminds
+###1278
+KO|예상치 못한 만남
+EN|Unforeseen Encounter
+###1279
+KO|예상했던 문제
+EN|First Order of Business
+###1280
+KO|예언의 때
+EN|The Time of Prophecy
+###1281
+KO|예측하지 못했던 상황
+EN|We've Got a Situation
+###1282
+KO|오락가락한 기억의 저 편
+EN|Memory Trace
+###1283
+KO|오락의 달인
+EN|Master of the Arcade
+###1284
+KO|오염 확산 차단
+EN|
+###1285
+KO|오염되어버린 정원
+EN|The Contaminated Garden
+###1286
+KO|오염된 몬스터에게 안식을
+EN|Laid to Rest
+###1287
+KO|오염물질을 먹어치우는 생물
+EN|Why Would You Eat That?!
+###1288
+KO|오크통도 무기가 된다!
+EN|Booming Barrels
+###1289
+KO|오필리아에게 아이템 옵션 변경 시도하기
+EN|Attempt to change an item's attributes through Ophelia
+###1290
+KO|옥수수 도둑
+EN|Corn Thieves
+###1291
+KO|온몸에 전율이!
+EN|Shocking Development
+###1292
+KO|온정의 손길
+EN|A Helping Hand
+###1293
+KO|완벽을 추구하는 그녀
+EN|Perfection
+###1294
+KO|왕궁 연회장으로!
+EN|To the Banquet Hall!
+###1295
+KO|왕실의 부름
+EN|Palace Call
+###1296
+KO|왕족의 위엄
+EN|The Dignity of Royalty
+###1297
+KO|외로운 생존
+EN|I'm a Survivor
+###1298
+KO|외면할 수 없는 마음
+EN|Heart Cannot Be Ignored
+###1299
+KO|외뿔 괴물의 실체를 밝혀라
+EN|Reveal the truth of the one-horned monster
+###1300
+KO|요람이 따로 없어
+EN|Rockabye
+###1301
+KO|요정의 월동준비
+EN|Winter Is Coming
+###1302
+KO|요정형 몬스터 도감의 자료
+EN|Fiendish Fairies: An Illustrated Guide
+###1303
+KO|용기있는 행동
+EN|A Courageous Act
+###1304
+KO|용맹한 친구
+EN|Courageous & Friendly
+###1305
+KO|용암낚시의 스릴
+EN|The Thrill of Lava Fishing
+###1306
+KO|우드라를 찾아서
+EN|Search and Seek
+###1307
+KO|우렁찬 외침
+EN|A Thunderous Roar
+###1308
+KO|우리 딸 좀 말려주세요
+EN|Please Stop My Daughter
+###1309
+KO|우리가 바로 의리의 버서커다!
+EN|The Berserker and the Loyalty
+###1310
+KO|우리를 방해하는 것들
+EN|Monstrous Interference
+###1311
+KO|우승을 향해
+EN|An Eventful Day
+###1312
+KO|우연이 아닌 필연
+EN|By Neccessity, Not Chance
+###1313
+KO|운명의 계시
+EN|Revelation of Fate
+###1314
+KO|운명의 대결
+EN|A Fateful Showdown
+###1315
+KO|원숭이는 캡슐을 좋아해
+EN|Monkeys Love Capsules
+###1316
+KO|원숭이의 난
+EN|Monkey Trouble
+###1317
+KO|원활한 보급을 위해
+EN|Services Rendered
+###1318
+KO|월드 안전 보장회의
+EN|Convening the World Security Council
+###1319
+KO|웨이 홍의 속셈
+EN|Wei Hong's Ulterior Motives
+###1320
+KO|위기는 곧 기회!
+EN|Risky Business
+###1321
+KO|위기는 희망으로
+EN|From Crisis to Hope
+###1322
+KO|위기에 처한 룬의 후예들
+EN|Descendants in Danger
+###1323
+KO|위기의 리치몬드
+EN|New Acquaintances
+###1324
+KO|위기의 상인들
+EN|Porters in Danger
+###1325
+KO|위기의 생태 연구 단지
+EN|Nature in Technology
+###1326
+KO|위기의 순간, 빛나는 동료애
+EN|Shining Camaraderie in a Moment of Crisis
+###1327
+KO|위대한 손님들
+EN|The Customer Is Right
+###1328
+KO|위장 조사
+EN|Undercover Investigation
+###1329
+KO|위태로운 석유관
+EN|The Precarious Pipeline
+###1330
+KO|위험에 빠진 근위병
+EN|A Guard in Danger
+###1331
+KO|위험한 거래
+EN|A Dangerous Deal
+###1332
+KO|위험한 고철 덩어리
+EN|Notorious Monsters: The Trash-heap Terror
+###1333
+KO|위험한 노동
+EN|Dangerous Labor
+###1334
+KO|위험한 불청객
+EN|Dangerous Uninvited Guests
+###1335
+KO|위험한 사람들
+EN|Dangerous People
+###1336
+KO|위험한 숨바꼭질
+EN|Dangerous Hide and Seek
+###1337
+KO|위협받는 난민들
+EN|Threatened Refugees
+###1338
+KO|위협받는 바니빌
+EN|Bonneville Under Fire
+###1339
+KO|위협받는 에네르 연구
+EN|Aetherine Setbacks
+###1340
+KO|유령 해적의 식민지
+EN|Ghostly Pirate Colony
+###1341
+KO|유물 복원의 전문가
+EN|The Relic Restoration Expert
+###1342
+KO|유적에서 발견한 실마리
+EN|A Clue from the Ruins
+###1343
+KO|유적지 보존의 시작
+EN|The Start of Ruins Preservation
+###1344
+KO|유품 수습
+EN|Proof of Death
+###1345
+KO|융합로 경비병력 제압
+EN|Destabilizing Infrastructure
+###1346
+KO|은밀하게, 위대하게
+EN|Secretly, Greatly
+###1347
+KO|은밀한 연통
+EN|A Secret Communication
+###1348
+KO|은밀한 접선
+EN|A Secret Rendezvous
+###1349
+KO|은밀한 초청
+EN|A Secret Invitation
+###1350
+KO|은인이 전한 소식
+EN|The Benefactor's News
+###1351
+KO|음료 구입은 마트에서
+EN|Buy Drinks at the Mart
+###1352
+KO|음료 배달
+EN|Beverage Delivery
+###1353
+KO|음모의 실체
+EN|The Truth of the Conspiracy
+###1354
+KO|음식에 필요한 재료
+EN|Ingredients for Food
+###1355
+KO|음악에 취한 시간
+EN|Lost in the Music
+###1356
+KO|음악을 낚다
+EN|Fishing with Music
+###1357
+KO|응급상황
+EN|Emergency
+###1358
+KO|응답하라 연구원
+EN|Silent Research
+###1359
+KO|응축된 $item:30001236$
+EN|Concentrated $item:30001236$
+###1360
+KO|의례적인 호출
+EN|A Routine Summons
+###1361
+KO|의문의 기습
+EN|A Mysterious Ambush
+###1362
+KO|의문의 메모
+EN|A Mysterious Note
+###1363
+KO|의문의 배송
+EN|Suspicious Delivery
+###1364
+KO|의문의 코드
+EN|Questions in the Code
+###1365
+KO|의문의 포자
+EN|Mysterious Spores
+###1366
+KO|의미 모를 단서
+EN|A Meaningless Clue
+###1367
+KO|의미를 찾아서
+EN|The Pursuit of Meaning
+###1368
+KO|의사의 진단
+EN|The Doctor's Diagnosis
+###1369
+KO|의식을 위한 준비
+EN|Preparing for a Ritual
+###1370
+KO|의심의 씨앗
+EN|Seeds of Suspicion
+###1371
+KO|의외의 만남
+EN|An Unexpected Encounter
+###1372
+KO|의외의 포획
+EN|Unexpected Capture
+###1373
+KO|이 작전은 성공돼야 한다.
+EN|Failure is Not an Option
+###1374
+KO|이것도 인연인데…
+EN|The Fates That Bind Us
+###1375
+KO|이놈들, 차라리 나를 때려라
+EN|Just Hit Me Instead!
+###1376
+KO|이성을 유혹하는 법
+EN|To Catch a Mate
+###1377
+KO|이세계의 불씨
+EN|Embers of Another World
+###1378
+KO|이제는 집으로
+EN|Back to Home
+###1379
+KO|이제부터 시작이다
+EN|This Is Just the Beginning
+###1380
+KO|익숙함에 이끌려
+EN|Instinct for Power
+###1381
+KO|인간형 몬스터 도감의 자료
+EN|Horrible Humanoids: An Illustrated Guide
+###1382
+KO|인내의 한계
+EN|The Limits of Patience
+###1383
+KO|인도자의 등불
+EN|The Guide's Lantern
+###1384
+KO|인연의 시작
+EN|Origins of Fate
+###1385
+KO|인정 많은 소녀
+EN|The Kindhearted Girl
+###1386
+KO|인턴 사원 서먼
+EN|Intern Employee Summon
+###1387
+KO|일생의 과업
+EN|Lifetime Duty
+###1388
+KO|일일 퀘스트 완료하기
+EN|Complete a daily quest
+###1389
+KO|잃어버린 동심
+EN|Innocence Lost
+###1390
+KO|잃어버린 시간
+EN|Lost Time
+###1391
+KO|잃어버린 열쇠
+EN|The Lost Key
+###1392
+KO|잃어버린 지갑을 찾아서
+EN|Finding the Lost Wallet
+###1393
+KO|임무 수행 준비
+EN|Preparing for the Mission
+###1394
+KO|임무는 계속된다
+EN|The Mission Continues
+###1395
+KO|입막음
+EN|Hush Money
+###1396
+KO|잊을 수 없는 은인
+EN|Foretold
+###1397
+KO|잊혀진 사건
+EN|The Forgotten Incident
+###1398
+KO|자경단 지원 임무
+EN|Vigilante Support Mission
+###1399
+KO|자나 깨나 신입 생각
+EN|Rookies in Danger
+###1400
+KO|자동차는 사랑입니다
+EN|Cars Are Love
+###1401
+KO|자베스의 호출
+EN|Jabez's Summons
+###1402
+KO|자연으로 돌아가다
+EN|Returning to Nature
+###1403
+KO|자연이 만든 풍경
+EN|Nature's View
+###1404
+KO|자유의 날개
+EN|Wings of Freedom
+###1405
+KO|자축 모임
+EN|Celebratory Gathering
+###1406
+KO|작전의 시작
+EN|The Operation Begins
+###1407
+KO|잔디를 망치는 꿈트리
+EN|Wriggler Woes
+###1408
+KO|잘못 꽂힌 책
+EN|Misplaced Book
+###1409
+KO|잠식되는 $map:02020068$
+EN|The Eroding $map:02020068$
+###1410
+KO|잠입 조사
+EN|Infiltration Investigation
+###1411
+KO|잡혀가는 난민들
+EN|Refugees Being Captured
+###1412
+KO|장난기 많은 토착 생물
+EN|Mischievous Little Creatures
+###1413
+KO|장물 거래의 흔적
+EN|Traces of Stolen Goods
+###1414
+KO|장비 아이템 분해해보기
+EN|Try dismantling a piece of equipment
+###1415
+KO|재능기부
+EN|Talent Donation
+###1416
+KO|재료를 구하는 법
+EN|How to Obtain Materials
+###1417
+KO|재료를 넉넉히?!
+EN|Plenty of Ingredients?!
+###1418
+KO|재미있는 집 꾸미기
+EN|Adventures in Literacy: Urban Home Trends
+###1419
+KO|저마다의 할 일
+EN|Individual Duty
+###1420
+KO|저주가 된 사랑
+EN|Cursed Love
+###1421
+KO|적대적인 생명체들
+EN|Survival of the Fittest
+###1422
+KO|적의 적은... 아군
+EN|The Kindness of Strangers
+###1423
+KO|전격 해킹 작전
+EN|To Hack, or Not to Hack
+###1424
+KO|전략의 변화
+EN|A Change of Strategy
+###1425
+KO|전략적 요충지 $map:02020041$
+EN|$map:02020041$ Defense
+###1426
+KO|전봇대도 무기가 된다!
+EN|Telephone Pole Terror
+###1427
+KO|전설 속 성전
+EN|The Legendary Holy Temple
+###1428
+KO|전설을 확인하다
+EN|Confirming the Legend
+###1429
+KO|전설의 만병통치약
+EN|The Legendary Cure-All
+###1430
+KO|전설의 책
+EN|The Book of Legends
+###1431
+KO|전설적인 공포
+EN|Legendary Terror
+###1432
+KO|전술적 요지
+EN|Important Strategic Location
+###1433
+KO|전시된 그림들
+EN|The Displayed Paintings
+###1434
+KO|전우를 위하여
+EN|For a Comrade
+###1435
+KO|전투력 측정 100%!
+EN|The Measure of a Hat
+###1436
+KO|전투식량 회수
+EN|Combat Ration Retrieval
+###1437
+KO|전파 방해를 저지하자
+EN|Stop the Jamming
+###1438
+KO|전파 방해의 주범
+EN|Jamming the Jammers
+###1439
+KO|전해야 할 것
+EN|Item Delivery
+###1440
+KO|절대적으로 필요한 존재
+EN|An Absolutely Necessary Being
+###1441
+KO|점령된 $map:02020035$
+EN|Occupied $map:02020035$
+###1442
+KO|정령형 몬스터 도감의 자료
+EN|Spiteful Spirits: An Illustrated Guide
+###1443
+KO|정보 상인의 직감
+EN|The Information Merchant's Instinct
+###1444
+KO|정보 의뢰
+EN|Information Request
+###1445
+KO|정보부의 예측
+EN|The Intelligence Bureau's Prediction
+###1446
+KO|정보의 대가
+EN|The Price of Information
+###1447
+KO|정보의 중요성
+EN|The Importance of Information
+###1448
+KO|정산이 필요해
+EN|Time to Settle Up
+###1449
+KO|정성어린 손길
+EN|A Caring Touch
+###1450
+KO|정신없는 안내원
+EN|The Flustered Guide
+###1451
+KO|정체 불명의 구슬
+EN|Mysterious Orb
+###1452
+KO|정체 불명의 에너지
+EN|Epiphany
+###1453
+KO|정체불명의 연구원
+EN|Unidentified Researcher
+###1454
+KO|제이시의 호출
+EN|Jacy's Summons
+###1455
+KO|제일 안전한 은행
+EN|The Safest Bank
+###1456
+KO|제자리 찾기
+EN|Back Where They Belong
+###1457
+KO|젬스톤 업그레이드 시도하기
+EN|Attempt a gemstone upgrade
+###1458
+KO|조교의 임무
+EN|The Trainer's Mission
+###1459
+KO|조금은 독특한 몬스터
+EN|Peculiar Foes
+###1460
+KO|조디의 선물
+EN|Jody's Gift
+###1461
+KO|조련사들은 돌아가세요.
+EN|Nothing Tame About 'Em
+###1462
+KO|조사 보고
+EN|Investigation Report
+###1463
+KO|조사를 방해하는 녀석들
+EN|Unwelcome Disruption
+###1464
+KO|조사하게 해주세요
+EN|Action Archaeology
+###1465
+KO|조용하게, 빠르게
+EN|Quietly, Quickly
+###1466
+KO|조직력의 비밀
+EN|Secret of Organizational Power
+###1467
+KO|족쇄를 벗어나
+EN|Breaking Free from the Shackles
+###1468
+KO|주인 없는 무기
+EN|Ownerless Weapons
+###1469
+KO|주피아 로드의 근위기사 격퇴
+EN|Courting Danger
+###1470
+KO|준비 완료
+EN|Preparations Complete
+###1471
+KO|중간 보고
+EN|Interim Report
+###1472
+KO|중년 가장의 로망
+EN|Midlife Crisis
+###1473
+KO|중단된 생태조사
+EN|Endangered Research
+###1474
+KO|중독을 멈춰줘
+EN|Allergic to Poison
+###1475
+KO|중요한 건 사람 목숨
+EN|What Matters Is Human Lives
+###1476
+KO|중요한 단서
+EN|An Important Clue
+###1477
+KO|즐거운 집 꾸미기
+EN|Adventures in Literacy: Home, Sweet Home
+###1478
+KO|증명
+EN|Proof
+###1479
+KO|증오와 복수
+EN|Hatred and Vengeance
+###1480
+KO|지금 우리가 해야 할 일
+EN|Next Steps
+###1481
+KO|지식의 보고
+EN|Treasury of Knowledge
+###1482
+KO|지옥의 사냥개에게 안식을
+EN|Rest for the Hellhound
+###1483
+KO|지옥의 환영식
+EN|Welcome to Hell
+###1484
+KO|지울 수 없는 냄새
+EN|Indelible Smell
+###1485
+KO|지워진 영웅
+EN|The Erased Hero
+###1486
+KO|지원 요청
+EN|Request for Support
+###1487
+KO|지원 중단의 배경
+EN|Holding Back Reinforcements
+###1488
+KO|지체할 수 없는 걸음
+EN|No Time to Waste
+###1489
+KO|지키고 싶은 약속
+EN|Keeping Vows
+###1490
+KO|지키려는 자
+EN|The One Who Seeks to Protect
+###1491
+KO|지킬 건 지키고 삽시다!
+EN|Let's Keep Things Clean!
+###1492
+KO|지표측정 자료 회수
+EN|Stolen Data
+###1493
+KO|지피지기를 위해
+EN|Know Thy Enemy
+###1494
+KO|진실 공방
+EN|Clash Over the Truth
+###1495
+KO|진실이 담긴 일지
+EN|Honest Logs
+###1496
+KO|진심 어린 도움
+EN|Help from the Heart
+###1497
+KO|진심 어린 인사
+EN|Sincere Greetings
+###1498
+KO|진심 어린 충고
+EN|Sincere Advice
+###1499
+KO|진심과 장난 사이
+EN|Between Sincerity and Play
+###1500
+KO|진정한 힘의 원천
+EN|The True Source of Power
+###1501
+KO|질겅질겅 찹찹
+EN|Too Chewy
+###1502
+KO|질투의 화신
+EN|Green-eyed Monsters
+###1503
+KO|짐꾸러미 감옥
+EN|Prison Package
+###1504
+KO|집요한 광기
+EN|Persistent Madness
+###1505
+KO|짓밟힌 버섯밭
+EN|The Trampled Mushroom Field
+###1506
+KO|짙은 그림자의 습격
+EN|Assault of the Deep Shadow
+###1507
+KO|쫀득쫀득 감말랭이
+EN|Chewy Dried Persimmons
+###1508
+KO|쫄깃쫄깃? 새콤달콤?
+EN|Chewy, Sweet, and Sour
+###1509
+KO|차갑고도 따뜻한 그녀
+EN|Cold Yet Warm
+###1510
+KO|착실한 조사원
+EN|Willing Investigator
+###1511
+KO|착하게 살자는 다짐
+EN|The Best Policy
+###1512
+KO|찰나의 순간에
+EN|In That Moment
+###1513
+KO|참된 결실
+EN|True Fruition
+###1514
+KO|참을 수 없는 달달함
+EN|Abuzz About Sweets
+###1515
+KO|참을 수 없는 배신감
+EN|An Unbearable Sense of Betrayal
+###1516
+KO|창고 정리는 나중에
+EN|Warehouse Cleanup Can Wait
+###1517
+KO|창과 방패
+EN|Spear and Shield
+###1518
+KO|창작은 공유
+EN|Sharing Is Caring
+###1519
+KO|채광의 묘수
+EN|Mining Mastery
+###1520
+KO|채울 수 없는 자리
+EN|A Hole That Cannot Be Filled
+###1521
+KO|처음 느껴보는 손맛
+EN|First Time Feeling the Bite
+###1522
+KO|처음 보는 물건
+EN|An Unfamiliar Object
+###1523
+KO|천연 약재를 찾아서
+EN|Local Remedies
+###1524
+KO|천연 자양강장제
+EN|Natural Health Tonic
+###1525
+KO|철 없는 아가씨
+EN|The Spoiled Young Lady
+###1526
+KO|철광석의 출처
+EN|The Origin of the Iron Ore
+###1527
+KO|철저한 대비
+EN|Preparation Before Perspiration
+###1528
+KO|철통 경비 
+EN|Heavy Security 
+###1529
+KO|첫 번째 바즈의 유적을 찾아서
+EN|Searching for the First Baz Ruin
+###1530
+KO|첫 승전보
+EN|First Victory
+###1531
+KO|체계적인 조사
+EN|Systematic Investigation
+###1532
+KO|체력 단련
+EN|Strong Grip
+###1533
+KO|첼리스카 만에서 생긴 일
+EN|What Happened in Cheliska Bay
+###1534
+KO|초조한 걸음
+EN|Anxious Steps
+###1535
+KO|촌장의 바람
+EN|The Village Chief's Wish
+###1536
+KO|총공세를 위해
+EN|For the Full-Scale Offensive
+###1537
+KO|총리의 부탁
+EN|The Minister's Request
+###1538
+KO|총리의 불안
+EN|The Chancellor's Unease
+###1539
+KO|최적의 탐사대원
+EN|The Best Expedition Member
+###1540
+KO|최전방에서
+EN|From the Front Lines
+###1541
+KO|최전방의 사람들
+EN|People on the Front Lines
+###1542
+KO|최후의 결전
+EN|The Final Battle
+###1543
+KO|추방자 케르베스 격퇴
+EN|Kharon Retribution
+###1544
+KO|추악한 경작
+EN|Loathsome Cultivation
+###1545
+KO|추적대의 발자국
+EN|Chasing Footprints
+###1546
+KO|축산 기술의 세계
+EN|The World of Ranching
+###1547
+KO|축산계의 신기술
+EN|New Ranching Technology
+###1548
+KO|축제를 열다
+EN|Opening the Festival
+###1549
+KO|출입 절차
+EN|Checking In
+###1550
+KO|출현, 어둠의 물질
+EN|Dark Matter Emerges
+###1551
+KO|춤추는 물고기
+EN|Dancing Fish
+###1552
+KO|충격적인 진실
+EN|A Shocking Truth
+###1553
+KO|치명적인 광폭함
+EN|Fatal Frenzy
+###1554
+KO|치명적인 귀여움
+EN|Problematically Cute
+###1555
+KO|치명적인 사냥법
+EN|Deadly Hunting Technique
+###1556
+KO|치졸한 음모
+EN|A Petty Plot
+###1557
+KO|친구들의 소식
+EN|News of Friends
+###1558
+KO|칠흑의 공포
+EN|Jet-Black Terror
+###1559
+KO|침입의 흔적
+EN|Traces of Invasion
+###1560
+KO|카보의 진실
+EN|The Truth about Kabo
+###1561
+KO|카카족의 파멸
+EN|Kaka Tribe's Ruin
+###1562
+KO|칼바람을 뚫고
+EN|Past a Fierce Wind
+###1563
+KO|커닝버스도 무기가 된다!
+EN|Kerning Bus Bash
+###1564
+KO|커닝트럭도 무기가 된다!
+EN|Kerning Truck Tumult
+###1565
+KO|커닝폰부스도 무기가 된다!
+EN|Phone Booth Barrage
+###1566
+KO|커져가는 의혹
+EN|Growing Suspicions
+###1567
+KO|케르베스가 만든 괴물들
+EN|Monsters Created by Kerbes
+###1568
+KO|케르베스는 자연 파괴자!
+EN|The Scourge of Kharon
+###1569
+KO|케르베스의 꿍꿍이
+EN|Kharon's Plot
+###1570
+KO|케르베스의 보물섬
+EN|Cerbe's Treasure Island
+###1571
+KO|케르베스의 수상한 움직임
+EN|Cerbe's Suspicious Movements
+###1572
+KO|케르베스의 심리전
+EN|Cerbe's Psychological Warfare
+###1573
+KO|코브라들이 뿔났다
+EN|The Cobras Are Furious
+###1574
+KO|퀘스트 완료하기
+EN|Complete a quest
+###1575
+KO|크리티아스의 고대 전사
+EN|Ancient Warriors of Kritias
+###1576
+KO|크리티아스의 소문 : 보물상자의 수호자
+EN|Rumors of Treasure
+###1577
+KO|크리티아스의 에너지 : 기원을 찾아서
+EN|Energy of Kritias: The Origin
+###1578
+KO|크리티아스의 에너지 : 신비로운 에너지
+EN|Energy of Kritias: More Mysteries
+###1579
+KO|크리티아스의 에너지 : 심화 분석
+EN|Energy of Kritias: In Depth
+###1580
+KO|큰 꿈, 큰 벌
+EN|Big Dreams, Bigger Punishments
+###1581
+KO|클라디아 구출작전
+EN|The Daring Rescue
+###1582
+KO|클라디아 추적, 두번째
+EN|Forging a Path
+###1583
+KO|클라디아 추적, 첫번째
+EN|A Desperate Search
+###1584
+KO|클라디아의 어깨
+EN|The Power Within
+###1585
+KO|타락의 은닉처
+EN|Hideout of Corruption
+###1586
+KO|타락한 날개의 끝
+EN|The End of Corrupted Wings
+###1587
+KO|타이그 퓨리안
+EN|Taig Furian
+###1588
+KO|타이렌 기습 작전
+EN|Tairen Raid
+###1589
+KO|타이렌 병사들의 방해
+EN|Tairen Interference
+###1590
+KO|타이렌 왕국의 개입
+EN|The Tairen Kingdom's Intervention
+###1591
+KO|타이렌 왕국의 군사 기밀 문서
+EN|Tairen's Military Secrets
+###1592
+KO|타이렌 왕국의 기습
+EN|Allies in Peril
+###1593
+KO|타이렌 왕국의 놀라운 기술
+EN|Tairen Technology
+###1594
+KO|타이렌 왕국의 만슈타 요새 공격
+EN|Assault on Mannstad Fortress
+###1595
+KO|타이렌 왕국의 첫 번째 관문
+EN|Breaking Into Tairen
+###1596
+KO|타이렌의 방어체계
+EN|Tairen's Defense System
+###1597
+KO|타이렌의 신병기
+EN|Tairen's New Weapon
+###1598
+KO|타이렌의 치명적 화기
+EN|Tairen's Deadly Firepower
+###1599
+KO|타이어도 무기가 된다!
+EN|Terrible Tires
+###1600
+KO|탈것에 몸을 실어봐
+EN|Mount Up
+###1601
+KO|탐문 시작
+EN|Beginning the Inquiry
+###1602
+KO|탐사 일지 회수
+EN|Log Recovery
+###1603
+KO|탐사 자료 회수
+EN|Retrieving the Data
+###1604
+KO|탐사 자료를 되찾자!
+EN|Retrieving Important Data
+###1605
+KO|탐사는 계속되어야 한다
+EN|Exploration Forever!
+###1606
+KO|탐사를 방해하는 존재들
+EN|Interfering with the Interference
+###1607
+KO|탐사를 위한 양동작전
+EN|Room to Explore
+###1608
+KO|탐사선을 보호하라!
+EN|Probe-tection
+###1609
+KO|탐욕의 보상
+EN|The Reward of Greed
+###1610
+KO|탐험가와 바다
+EN|The Explorer and the Sea
+###1611
+KO|태엽 열쇠 되찾기
+EN|Retrieving the Winding Key
+###1612
+KO|태엽 열쇠 버리기
+EN|Throwing Away the Winding Key
+###1613
+KO|태엽 폭탄의 위력!
+EN|Clanking Clockwork Bombs
+###1614
+KO|택배 트럭의 행방
+EN|The Delivery Truck's Whereabouts
+###1615
+KO|턱권단 몰아내기
+EN|Driving Out the Jawbreaker Gang
+###1616
+KO|테리의 제안
+EN|Terry's Suggestion
+###1617
+KO|테모로 움막으로!
+EN|To the Temorro Mud Hut!
+###1618
+KO|토끼의 유혹
+EN|The Rabbit's Temptation
+###1619
+KO|토템을 던져도 무기가 된다!
+EN|Totem Toss
+###1620
+KO|토템을 휘둘러도 무기가 된다!
+EN|Totemic Trouncing
+###1621
+KO|통통 뛰며 달려봐
+EN|The Human Pogo
+###1622
+KO|투르카의 수하가 된 기계 병사 제압
+EN|Whiplash
+###1623
+KO|투명한 진실을 위해
+EN|Transparency Is a Virtue
+###1624
+KO|튀어나와요, 꿈틀이의 구덩이
+EN|Pop Goes the Wriggler Pit
+###1625
+KO|트라이아 왕궁으로!
+EN|To the Royal Palace of Tria!
+###1626
+KO|트라이아로 가는 방법
+EN|How to Get to Tria
+###1627
+KO|트라이아로 가는 지름길
+EN|A Shortcut to Tria
+###1628
+KO|트라이아의 괴소문
+EN|Tria's Bizarre Rumors
+###1629
+KO|특명
+EN|Specialized Order
+###1630
+KO|특별 호출
+EN|Special Summons
+###1631
+KO|특별한 부름
+EN|A Special Calling
+###1632
+KO|특별한 소집
+EN|A Special Assembly
+###1633
+KO|특별한 주문
+EN|A Special Order
+###1634
+KO|특별한 창고
+EN|A Special Warehouse
+###1635
+KO|특별한 초대
+EN|Special Invitation
+###1636
+KO|특이한 검을 다루는 자들
+EN|Strange Swords
+###1637
+KO|티아만 에네르 탐사대 보호
+EN|The Aetherine Factor
+###1638
+KO|틴차이의 발견
+EN|Tinchai's Discovery
+###1639
+KO|틴차이의 부름
+EN|Tinchai's Call
+###1640
+KO|틴차이의 연락
+EN|Tinchai's Message
+###1641
+KO|틴차이의 호출
+EN|Tinchai's Summons
+###1642
+KO|파괴를 위한 포석
+EN|Laying Groundwork
+###1643
+KO|파다다닭
+EN|Flapping Chickens
+###1644
+KO|파이프도 무기가 된다!
+EN|Snap, Crackle, Pipe
+###1645
+KO|팡!팡! 꿈틀대는 땅
+EN|Dancing in the Dirt
+###1646
+KO|페리온으로!
+EN|Onward to Perion
+###1647
+KO|페리온의 대족장
+EN|The Chief of Perion
+###1648
+KO|페리온집도 무기가 된다!
+EN|Perion House Hammering
+###1649
+KO|펠른의 계략
+EN|Plotting Schemes
+###1650
+KO|폐기물 드럼통도 무기가 된다!
+EN|Toxic Waste Tossup
+###1651
+KO|폐기물 매립지의 기간티카
+EN|Gigantica of the Waste Landfill
+###1652
+KO|포위된 $map:02020069$
+EN|Besieged $map:02020069$
+###1653
+KO|포자에 감염된 나무
+EN|
+###1654
+KO|폭발하는 빛
+EN|Exploding Light
+###1655
+KO|폭탄의 엄청난 위력!
+EN|Explosive Bomb Blowout
+###1656
+KO|폴의 메시지
+EN|Paul's Message
+###1657
+KO|표지판도 무기가 된다!
+EN|Runaway Road Signs
+###1658
+KO|표창의 반전
+EN|Reversal of the Throwing Star
+###1659
+KO|푸르카우 평원의 멜로디
+EN|Perkau Melody
+###1660
+KO|푸르카우 평원의 탐사를 위해
+EN|Perkau Plains Expedition
+###1661
+KO|푸른 대지의 힘
+EN|Strength of a Green Earth
+###1662
+KO|푸른 빛의 비밀
+EN|Secret of the Blue Light
+###1663
+KO|푸른 희망의 빛
+EN|Light of Blue Hope
+###1664
+KO|풀어야 할 숙제
+EN|A Task to Solve
+###1665
+KO|풍문으로 들었소
+EN|Heard It Through the Grapevine
+###1666
+KO|풍선 잡기
+EN|Balloon Grabber
+###1667
+KO|풍선 주인은 티보
+EN|The Balloon Belongs to Tibo
+###1668
+KO|풍요로운 시간
+EN|A Time of Abundance
+###1669
+KO|프론티어 재단으로
+EN|To the Frontier Foundation
+###1670
+KO|프리즘 연구소
+EN|Prism Research Institute
+###1671
+KO|피그밍그 부족을 기리며
+EN|Praise the Pigming
+###1672
+KO|피그밍그 부족의 원수
+EN|Enemy of the Pigming
+###1673
+KO|피를 끓게 하는 상대
+EN|A Rival That Makes Your Blood Boil
+###1674
+KO|피어나는 음모
+EN|A Budding Conspiracy
+###1675
+KO|필드퀘스트 더미퀘스트
+EN|
+###1676
+KO|필요 이상의 오지랖은 독
+EN|Interest Is Poison
+###1677
+KO|하나를 해치우면 하나가 말썽
+EN|Parade of Pests
+###1678
+KO|한 마음으로
+EN|Of One Mind
+###1679
+KO|한 바탕 소동
+EN|Disturbances
+###1680
+KO|한 발 늦은 도착
+EN|Arrived One Step Too Late
+###1681
+KO|한계를 돌파하라
+EN|Break Your Limits
+###1682
+KO|한기를 품은 괴물
+EN|The Cold-Bearing Monster
+###1683
+KO|한시라도 서둘러야 합니다
+EN|Make Haste
+###1684
+KO|한정품은 필수
+EN|Limited Edition Is a Must
+###1685
+KO|함선의 정기 점검
+EN|Ship's Maintenance
+###1686
+KO|함정
+EN|The Trap
+###1687
+KO|함포 사격요청
+EN|Extreme Measures
+###1688
+KO|항구의 난봉꾼
+EN|Harbor Scoundrel
+###1689
+KO|항해의 필수 조건
+EN|The Bare Necessities
+###1690
+KO|해독제로 쓰이는 체액
+EN|Precious Bodily Fluids
+###1691
+KO|해방군의 전갈
+EN|Message from the Liberation Army
+###1692
+KO|해킹을 심부름으로 배웠습니다
+EN|Learned Hacking Through an Errand
+###1693
+KO|행복한 집 꾸미기
+EN|Adventures in Literacy: All About That Bed
+###1694
+KO|허공을 가르는 칼날
+EN|Blade Cutting Through the Air
+###1695
+KO|허락되지 않은 일
+EN|Unauthorized
+###1696
+KO|험악해진 $map:02020069$
+EN|How dangerous $map:02020069$ has become
+###1697
+KO|험플스 소식
+EN|News of Humples
+###1698
+KO|험플스 아지트
+EN|Humples' Hideout
+###1699
+KO|현란한 검술의 타이렌 병사
+EN|Blades of Tairen
+###1700
+KO|현자의 지혜
+EN|Wisdom of a Sage
+###1701
+KO|현장을 찾아서!
+EN|Finding the Scene!
+###1702
+KO|협공받는 $map:02020030$
+EN|$map:02020030$ in the Middle
+###1703
+KO|형아, 사랑하는 우리 형아
+EN|Beloved Brother
+###1704
+KO|호기심 소년
+EN|A Boy's Curiosity
+###1705
+KO|호루스의 둥지
+EN|Horus's Nest
+###1706
+KO|호박 대잔치
+EN|Pumpkin Feast
+###1707
+KO|혼돈의 숲이 삼킨 벨라
+EN|Inside the Forest of Chaos
+###1708
+KO|혼란에 빠진 $map:02020069$
+EN|$map:02020069$ in Chaos
+###1709
+KO|혼란의 시간
+EN|Time of Chaos
+###1710
+KO|혼재된 시간
+EN|Mixed-Up Time
+###1711
+KO|화가 난 포잉
+EN|Poings of Rage
+###1712
+KO|화끈한 화염
+EN|Blazing Flames
+###1713
+KO|화려한 휴가
+EN|A Wonderful Vacation
+###1714
+KO|화염의 근원
+EN|Source of the Flames
+###1715
+KO|화원의 요리사
+EN|The Garden Chef
+###1716
+KO|화장실도 무기가 된다!
+EN|Portable Toilet Travesty
+###1717
+KO|화재의 불씨를 없애자
+EN|Extinguish the Source of Fire
+###1718
+KO|확장된 흑화
+EN|Expanded Corruption
+###1719
+KO|환상의 연주
+EN|A Fantastic Performance
+###1720
+KO|환영의 습격
+EN|Attack of the Illusions
+###1721
+KO|활약이 부른 참사
+EN|The Disaster Caused by the Showdown
+###1722
+KO|황금잉어와 함께
+EN|With the Golden Carp
+###1723
+KO|횃불도 무기가 된다!
+EN|Torch It
+###1724
+KO|회복할 수 없는 신뢰
+EN|Trust Beyond Repair
+###1725
+KO|회오리 검술
+EN|Whirlwind Swordsmanship
+###1726
+KO|효녀 모니카
+EN|Dutiful Daughter Monica
+###1727
+KO|훈련병의 고민
+EN|A Recruit's Troubles
+###1728
+KO|휴식의 끝자리
+EN|End of Rest
+###1729
+KO|흉포한 경비병
+EN|The Ferocious Guard
+###1730
+KO|흑성회의 비밀 멤버
+EN|Black Star's Secret Member
+###1731
+KO|흑화를 밝혀내기 위한 노력
+EN|Efforts to uncover the corruption
+###1732
+KO|흔들리는 빛의 조각
+EN|Fragment of Flickering Light
+###1733
+KO|흔들리는 시간의 결계
+EN|The Trembling Time Barrier
+###1734
+KO|흔적없는 습격
+EN|Traceless Assault
+###1735
+KO|흩날리는 검은 기운
+EN|Scattering Dark Energy
+###1736
+KO|흩뿌려진 표창
+EN|Scattered Throwing Stars
+###1737
+KO|희귀한 가죽
+EN|Rare Leather
+###1738
+KO|희망을 품고
+EN|With Hope
+###1739
+KO|희망을 품은 약속
+EN|A Promise Full of Hope
+###1740
+KO|힐링 타임
+EN|Well-deserved Me Time
+###1741
+KO|힘을 가진 작은 빛
+EN|A Potent Light
+###1742
+KO|힘의 원천을 찾아서
+EN|Searching for the Source of Power
