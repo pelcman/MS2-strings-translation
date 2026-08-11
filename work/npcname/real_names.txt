@@ -1,0 +1,1184 @@
+100톤 추	100-Ton Weight	2	21501396-DungeonOpen70CH5-
+MC 나기	MC Nagi	3	11004288-Colosseum01-
+Test	Test	3	99990305-Develop-
+[이벤트] 카트라무스 상층부 보상	[Event] Katramuss Upper Reward	1	24003335-Develop-
+[이벤트] 카트라무스 하층부 보상	[Event] Katramuss Lower Reward	1	24003334-Develop-
+가고일	Gargoyle	2	90000773-Develop-
+가드	Guard	1	90000111-Develop-
+가마_바닥 튜브	Cauldron_Floor Tube	1	23999807-Develop-
+가마_순간이동	Cauldron_Teleport	1	23999810-Develop-
+가마_점프 쾅	Cauldron_Jump Slam	1	23999806-Develop-
+가마_점프이동	Cauldron_Jump Move	1	23999809-Develop-
+가마_충격파 웨이브	Cauldron_Shockwave Wave	1	23999808-Develop-
+가면도적	Masked Bandit	15	90000204-Develop-
+가재	Crayfish	4	90000168-Develop-
+각성한 클라디아	Claudia	1	11004553-Kritias_Epic01-
+갈색 느림부엉이	Lazy Hootowl	1	21000926-Timaion01-
+갈색 부엉부엉이	Brown Hootowl	1	21000921-Timaion01-
+감시 로봇 빅터 V1	Victorious Sentinel Robot V1	2	11004693-BlackOnyx-
+감시 로봇 빅터 V2	Victorious Sentinel Robot V2	1	21450031-BlackOnyx-
+감염된 버럭 모랑	Infected Buraki Morang	1	25023201-Kritias02-
+감염된 뾰롱 모랑	Infected Byolong Morang	1	25023200-Kritias02-
+감옥 경비병	Prison Guard	1	11004826-EpicApocalypse01-
+강시	Jiangshi	15	90000530-Develop-
+강아지	Puppy	2	90000138-Develop-
+강화 타이렌 경비 대장	Enhanced Tairen Guard Captain	1	25021406-Kritias_2018_12-
+강화 타이렌 돌격병	Enhanced Tieren Assault Trooper	1	25022201-Kritias02-
+강화 타이렌 전투병	Enhanced Tairen Combatant	1	25020405-Kritias_2018_12-
+강화된 병정거미	Enhanced Soldier Spider	2	21450012-DarkTear-
+강화된 케르베스 약탈자	Enhanced Kharon Plunderer	1	25021002-Kritias_2018_12-
+강화된 케르베스 파괴자	Enhanced Kharon Destroyer	1	25021003-Kritias_2018_12-
+강화형 킬러휴롯	Enhanced Huborg Killer	1	25021307-Kritias_2018_12-
+강화형 헤비휴롯	Enhanced Huborg Brawler	1	25021306-Kritias_2018_12-
+같은편	Ally	4	90001139-Develop-
+개 일꾼	Dog Worker	3	90000691-Develop-
+개량된 섹트	Upgraded Sect	1	25022305-Kritias02-
+개량된 테블라	Modified Tabla	1	25022505-Kritias02-
+거대한 섹트	Giant Sect	1	25022309-Kritias02-
+거미	Spider	2	90000185-Develop-
+거센 검은군단 파수견	Violent Daemon Dog	1	25022004-Kritias_2018_12-
+검은 군단 가고일	Black Legion Gargoyle	2	90001273-Develop-
+검은 눈물 아르키아	Dark Tear Arkia	3	23300010-DarkTear-
+검은 더키	Black Ducky	1	90001319-Develop-
+검은 병정거미	Black Soldier Spider	2	21450011-DarkTear-
+검은 영혼	Black Soul	3	90000753-Develop-
+검은 토템 페이스	Dark Totem Face	3	90000724-Develop-
+검은군단 MK-I-B	Daemon MK I-B	1	25020002-Kritias_2018_12-
+검은군단 MK-I-S	Daemon MK I-S	2	25020001-Kritias_2018_12-
+검은군단 MK-I-W	Daemon MK I-W	1	25022110-Kritias_Epic01-
+검은군단 감시로봇	Black Legion Surveillance Robot	1	25022810-Kritias02-
+검은군단 골리온	Daemon Gorilion	1	25021202-Kritias_2018_12-
+검은군단 광전사	Daemon Berserker	1	23000307-Kritias_Paika01-
+검은군단 라바나이트	Daemon Lavanite	2	25100111-Fieldwar01-
+검은군단 마도사	Daemon Sorcerer	5	25020105-Kritias_2018_12-
+검은군단 마도사 마스터	Black Legion Warlock Master	1	25022607-Kritias02-
+검은군단 마법사	Daemon Mage	5	23000308-Kritias_Paika01-
+검은군단 무시돌진	Daemon Army Ignore Rush	1	25100304-Fieldwar02-
+검은군단 미사일 포대	Daemon Missile Turret	2	25100211-Fieldwar02-
+검은군단 미사일포트	Black Legion Missile Fort	1	21001041-Develop-
+검은군단 방해몹1	Black Legion Disruptor 1	1	25100319-Develop-
+검은군단 방해몹2	Black Legion Disruptor 2	1	25100320-Develop-
+검은군단 방해몹3	Black Legion Disruptor 3	1	25100321-Develop-
+검은군단 병사	Daemon Soldier	3	11004421-Kritias_Epic01-
+검은군단 사령	Daemon Duty Officer	2	25100002-Fieldwar01-
+검은군단 상급 마도사	Superior Daemon Sorcerer	1	25022002-Kritias_2018_12-
+검은군단 상급 알렉트라	Black Legion Elite Alectra	1	25022704-Kritias02-
+검은군단 상급 암살자	Superior Daemon Assassin	1	25022003-Kritias_2018_12-
+검은군단 상급 파괴자	Superior Daemon Destroyer	1	25020707-Kritias_2018_12-
+검은군단 소형 크리스탈	Small Daemon Crystal	1	21001037-Fieldwar01-
+검은군단 소환체	Daemon Summoner	3	25100015-Fieldwar01-
+검은군단 수석 마도사	Dark Legion Chief Mage	1	25022304-Kritias02-
+검은군단 수석 암살자	Dark Legion Chief Assassin	1	25022400-Kritias02-
+검은군단 악귀	Daemon Wraith	2	25100001-Fieldwar01-
+검은군단 악령	Daemon Ghast	2	25100003-Fieldwar01-
+검은군단 암살자	Daemon Assassin	1	25020104-Kritias_2018_12-
+검은군단 암살자 마스터	Black Legion Assassin Master	1	25022608-Kritias02-
+검은군단 약탈자	Daemon Plunderer	6	25100008-Fieldwar01-
+검은군단 에네르 조각	Daemon Aetherine Fragment	2	25100016-Fieldwar01-
+검은군단 자원 획득	Black Legion Resource Collector	2	25100314-Develop-
+검은군단 제라크	Black Legion Zerak	1	25022410-Kritias02-
+검은군단 중급 데비르	Black Legion Mid-Rank Devir	1	25022701-Kritias02-
+검은군단 중급 마도사	Middling Daemon Sorcerer	1	25020702-Kritias_2018_12-
+검은군단 중급 알렉	Black Legion Mid-Rank Alek	1	25022702-Kritias02-
+검은군단 중급 알렉트라	Black Legion Mid-Rank Alektra	1	25022600-Kritias02-
+검은군단 중급 암살자	Middling Daemon Assassin	1	25020701-Kritias_2018_12-
+검은군단 크리스탈	Daemon Crystal	1	21001036-Fieldwar01-
+검은군단 크림슨 트라이던트	Daemon Spearpig	1	25100110-Fieldwar01-
+검은군단 탐식이	Daemon Glutton	9	23000305-Kritias_Paika01-
+검은군단 터렛 MK-I	Daemon Turret MK I	1	25021501-Kritias_2018_12-
+검은군단 특공대	Daemon Operative	1	25020107-Kritias_2018_12-
+검은군단 파괴자	Daemon Destroyer	10	25020308-Kritias_2018_12-
+검은군단 파괴자 마스터	Black Legion Destroyer Master	1	25022605-Kritias02-
+검은군단 파수견	Daemon Dog	7	23000306-Kritias_Paika01-
+검은군단 하급 알렉	Black Legion Lower-Rank Alek	1	25022603-Kritias02-
+검은군단 하급 암살자	Lower Daemon Assassin	1	25020306-Kritias_2018_12-
+검은영혼 덩치	Dark Soul Brute	3	90000715-Develop-
+검은영혼 머리	Dark Soul Head	3	90000721-Develop-
+검은영혼 스몰	Dark Soul Small	3	90000718-Develop-
+겁먹은 튼튼모랑	Scared Leshy Brute	1	25020501-Kritias_2018_12-
+게걸스러운 버럭이 모랑	Voracious Buraki Morang	1	25022503-Kritias02-
+게오르크 병사	Humanitas Soldier	2	11004423-Kritias_Epic01-
+게오르크 장교	Humanitas Officer	2	11004422-Kritias_Epic01-
+게오르크 저항군 병사	Humanitas Soldier	2	11004352-Kritias_2018_12-
+게오르크 저항군 장교	Humanitas Officer	1	11004351-Kritias_2018_12-
+게으른 아룸	Lazy Arum	1	25021203-Kritias_2018_12-
+게으른 쿠우쿠	Lazy Leecher	1	25021101-Kritias_2018_12-
+겜보	Gambo	1	49100001-ShadowExpedition-
+결박된 클라디아	Claudia	1	11004545-Kritias_2018_12-
+경보 시스템	Alert System	1	11004440-Kritias_Epic01-
+경비용 타이렌 MK-I-D	Security Tairen MK I-D	1	25021408-Kritias_2018_12-
+경비중인 케르베스 돔	Guarding Kharon Dome	1	25023102-Kritias02-
+고대 샌드모스	Ancient Sandmoss	1	49300004-ShadowExpedition-
+고물 터렛 MK-I	Junk Turret MK I	1	25020403-Kritias_2018_12-
+고상한 검투 근위대	Noble Fencer	1	25021504-Kritias_2018_12-
+고성능 섹트	High-Performance Sekt	1	25022506-Kritias02-
+고성능 테블라	High-Performance Tebla	1	25022705-Kritias02-
+고성능 폭스트롯	High-Performance Foxtrot	1	25022403-Kritias02-
+고장난 가드 MK-II	Broken Guard MK II	1	25020201-Kritias_2018_12-
+고장난 골리온	Broken Gorilion	1	25020805-Kritias_2018_12-
+고장난 섹트	Defective Sect	1	25022206-Kritias02-
+고장난 타이렌 MK-I-S	Broken Tairen MK I-S	1	25020401-Kritias_2018_12-
+곤충	Insect	6	90000468-Develop-
+골렘	Golem	9	90000198-Develop-
+골리온 지휘관	Gorilion Commander	1	25022106-Kritias_Epic01-
+골리온 퍼플	Golion Purple	1	90000115-Develop-
+곰	Bear	8	90000306-Develop-
+곰 인형	Bear Doll	2	90000260-Develop-
+과거의 망령 (벨라)	Specter of the Past (Bella)	1	90001194-Develop-
+과거의 망령 (소녀)	Ghost of the Past (Girl)	1	90001190-Develop-
+과거의 망령 (아가씨)	Ghost of the Past (Young Lady)	1	90001192-Develop-
+과거의 망령 (아버지)	Ghost of the Past (Father)	1	90001187-Develop-
+과거의 망령 (아픈 남자애)	Specter of the Past (Sick Boy)	1	90001197-Develop-
+과거의 망령 (아픈 여자애)	Specter of the Past (Sick Girl)	1	90001196-Develop-
+과거의 망령 (의사)	Specter of the Past (Doctor)	1	90001198-Develop-
+과거의 망령 (집사 남)	Ghost of the Past (Male Butler)	1	90001191-Develop-
+과거의 망령 (집사 주전자)	Ghost of the Past (Butler Teapot)	1	90001189-Develop-
+과거의 망령 (청소부 여)	Ghost of the Past (Female Janitor)	1	90001188-Develop-
+과거의 망령 (청소부 패트롤)	Ghost of the Past (Janitor Patrol)	1	90001193-Develop-
+과거의 망령 (칼)	Specter of the Past (Karl)	1	90001195-Develop-
+관리인	Concierge	1	11004765-Wedding-
+광기의 검은군단 파수견	Frenzied Black Legion Guard Dog	1	25022709-Kritias02-
+광폭한 쿠우쿠	Frenzied Kuuku	1	25022507-Kritias02-
+교관	Drill Sergeant	1	11004501-Kritias_2018_12-
+교활한 테블라	Cunning Tabla	1	25022501-Kritias02-
+구속당한 영혼	Trapped Soul	2	11004643-DarkTear-
+군단전	Legion Battle	3	90000802-Develop-
+군단전 쫄 마법사2	Legion Battle Minion Mage 2	1	25100118-Fieldwar01-
+군단전 쫄 마법사3	Legion Battle Minion Mage 3	2	25100019-Fieldwar01-
+굶주린 검은군단 파수견	Starving Black Legion Watchdog	1	25022609-Kritias02-
+굶주린 메카티라노	Starving Mecha Tyrano	1	25020706-Kritias_2018_12-
+굶주린 탐식이	Starving Glutton	1	25020307-Kritias_2018_12-
+귀령	Specter	1	49101002-ShadowExpedition-
+귀령 동자	Ghostly Sprite	1	49001001-ShadowExpedition-
+귀령 주술사	Specter Shaman	1	49101003-ShadowExpedition-
+귀호	Guiho	1	49400005-ShadowExpedition-
+그라실리스	Gracilis	1	11004485-Kritias_2018_12-
+그람자 사신	Shadow Reaper	6	21502242-Kritias_Turka03-
+그레고르	Gregory	1	11004571-Kritias_Epic02-
+그린 놀라쥬	Green Waspling	1	25021403-Kritias_2018_12-
+그린 타이렌 돌격병	Green Tairen Shock Trooper	1	25021004-Kritias_2018_12-
+그린 타이렌 전투병	Green Tairen Combatant	1	25021005-Kritias_2018_12-
+그림자 가족 매직	Shadow Family Magic	3	90000604-Develop-
+그림자 가족 스팅	Shadow Family Sting	3	90000603-Develop-
+그림자 견	Shadow Hound	3	90000477-Develop-
+그림자 비룡	Shadow Wyvern	1	49102002-ShadowExpedition-
+그림자 악마	Shadow Demon	3	90000474-Develop-
+그림자 어니링	Shadow Eonyring	1	49103002-ShadowExpedition-
+그림자 영혼	Shadow Soul	7	11004716-DarkTear-
+근위대 경호대장	Security Officer	1	25022107-Kritias_Epic01-
+근위대 조사대장	Intelligence Officer	1	25022108-Kritias_Epic01-
+기간티카 레이저 공격_2	Gigantica Laser Attack_2	1	23001011-Gigantica01-
+기계	Machine	27	90000576-Develop-
+기계 거미	Mechanical Spider	3	90001277-Develop-
+기계 전갈	Mechanical Scorpion	2	90001271-Develop-
+기계잠자리	Mechanical Dragonfly	1	90001275-Develop-
+긴 손톱 마리오네트	Long Nail Marionette	2	21200056-Timaion01-
+까마귀	Crow	3	90000636-Develop-
+까칠한 격수 근위대	Grouchy Musketeer	1	25020604-Kritias_2018_12-
+까칠한 뾰롱 모랑	Prickly Byolong Morang	1	25022508-Kritias02-
+깍쟁이 마리오네트	Mischievous Marionette	2	21200042-Timaion01-
+꽃	Flower	5	90000148-Develop-
+꿈 속 장면 확인	View Dream Scene	1	11004791-EpicApocalypse01-
+꿈트리	Dream Tree	1	90000046-Develop-
+꿈트리 노랑	Dream Tree Yellow	1	90000048-Develop-
+꿈트리 핑크	Dream Tree Pink	1	90000047-Develop-
+끈적이 포잉	Sticky Poing	1	25020301-Kritias_2018_12-
+나무블록	Wood Block	3	90000835-Develop-
+나무인형	Wooden Puppet	2	90000190-Develop-
+나이트 해머	Night Hammer	1	22600003-DarkTear-
+나일리	Naili	1	11000903-Develop-
+난폭한 골리온	Savage Gorilion	1	25021201-Kritias_2018_12-
+난폭한 투구 까마귀	Ravager Crow	1	21000852-Timaion01-
+날렵한 케르베스 약탈자	Agile Kharon Plunderer	1	25020602-Kritias_2018_12-
+날렵한 케르베스 파괴자	Agile Kharon Destroyer	1	25020603-Kritias_2018_12-
+날카로운 놀라쥬	Sharp Waspling	1	25021204-Kritias_2018_12-
+낡은 MK-III-D	Worn MK-III-D	1	25023302-Kritias02-
+낡은 MK-III-W	Worn MK-III-W	1	25023303-Kritias02-
+낡은 터렛 MK-I	Obsolete Turret MK I	1	25020801-Kritias_2018_12-
+남자 마리오네트 주먹	Male Marionette Fist	1	90001297-Develop-
+남자 마리오네트 크로	Male Marionette Claw	1	90001299-Develop-
+남자 마리오네트 펜싱검	Male Marionette Fencing Sword	1	90001302-Develop-
+남자 집사 수류탄	Male Butler Grenade	1	90001296-Develop-
+냄새나는 라플레시아	Stinky Rafflesia	1	25022407-Kritias02-
+네더 버드	Nether Bird	1	21450014-DarkTear-
+네오 휴로이드 노랑	Neo Huroid Yellow	1	90001307-Develop-
+네오 휴로이드 빨강	Neo Huroid Red	1	90001305-Develop-
+네오 휴로이드 사각 그레이	Neo Huroid Box Gray	1	90001308-Develop-
+네오 휴로이드 사각 옐로우	Neo Huroid Box Yellow	1	90001310-Develop-
+네오 휴로이드 사각 오렌지	Neo Huroid Box Orange	1	90001309-Develop-
+네오 휴로이드 파랑	Neo Huroid Blue	1	90001306-Develop-
+네키	Neki	9	90000429-Develop-
+노란 파리병사	Yellow Fly Soldier	1	21000911-Develop-
+노만	Norman	1	11004504-Kritias_2018_12-
+노움	Gnome	1	21200013-Timaion01-
+노웰	Gnoel	1	21200014-Timaion01-
+노후된 지뢰	Aged Land Mine	2	22000203-Develop-
+노후된 타이렌 감시자	Aged Tyren Watcher	2	22000200-Develop-
+노후된 터렛 MK-I	Obsolete Turret MK I	1	25020202-Kritias_2018_12-
+녹슨타이렌감시자	Rusted Tyren Watcher	1	90001321-Develop-
+놀라쥬	Nollaju	1	90000035-Develop-
+놀라쥬 그린	Nollaju Green	1	90000036-Develop-
+놀라쥬 블루	Nollaju Blue	1	90000037-Develop-
+누군가가 써놓은 쪽지	Written Note	1	11004655-Kritias_Epic02-
+누엘	Nuel	1	11004541-Kritias_2018_12-
+눈사람	Snowman	3	90000769-Develop-
+눈치 빠른 탐식이	Perceptive Glutton	1	25022401-Kritias02-
+늑대 일꾼	Wolf Worker	3	90000694-Develop-
+니아	Nia	1	11003804-Timaion01-
+다람쥐 도적	Squirrel Thief	2	90000391-Develop-
+다람쥐 애기도적	Baby Squirrel Thief	2	90000393-Develop-
+다람쥐 여도적	Female Squirrel Thief	2	90000392-Develop-
+다이아 레인저	Diamond Ranger	1	49500011-ShadowExpedition-
+다이아 카드	Diamond Card	1	21000830-Timaion01-
+다크 MK-I-B	Dark MK I-B	1	25021903-Kritias_2018_12-
+다크 MK-I-H	Dark MK I-H	1	25021904-Kritias_2018_12-
+다크 MK-I-W	Dark MK I-W	1	25021901-Kritias_2018_12-
+다크 록	Dark Rook	1	21200053-Timaion01-
+다크 비숍	Dark Bishop	1	21200054-Timaion01-
+다크 켄타리온	Dark Centauroid	1	25021902-Kritias_2018_12-
+다크 폰	Dark Pawn	1	21200055-Timaion01-
+다크 플레임	Dark Flame	1	23300007-DarkTear-
+다크아이	Dark Eye	1	90001320-Develop-
+다크워리어	Dark Warrior	3	90000679-Develop-
+다크윙	Dark Wing	2	90000674-Develop-
+다크피그	Dark Pig	3	90000676-Develop-
+다키호테	Darkihote	1	49203001-ShadowExpedition-
+닥터 피피 연출	Dr. Pipi Performance	1	11001549-EventBossRush-
+단단한 나이트레토	Sturdy Knightretto	1	25021006-Kritias_2018_12-
+단단한 켄타리온	Sturdy Centauroid	1	25020605-Kritias_2018_12-
+대니	Danny	1	11003654-Timaion01-
+대장장이의 영혼	Blacksmith Soul	1	11003619-Timaion01-
+더러운 버럭이 모랑	Dirty Leshy Giant	1	25020503-Kritias_2018_12-
+덩치 큰 케르베스 돔	Hulking Cerberus Dom	1	25022208-Kritias02-
+덩치 큰 포잉	Big Poing	1	25021805-Kritias_2018_12-
+덩치3	Big Body 3	1	25200006-Kritias_Paika01-
+데니소니	Denison	1	11004496-Kritias_2018_12-
+데브로스	Devros	1	49300009-ShadowExpedition-
+데블린연출	Devlin (Cutscene)	1	90000936-Develop-
+데빌 박쥐 자이언트 브라운	Devil Bat Giant Brown	1	90001315-Develop-
+데빌 박쥐 자이언트 블랙	Devil Bat Giant Black	1	90001316-Develop-
+데빌 박쥐 자이언트 블루	Devil Bat Giant Blue	1	90001314-Develop-
+데빌 박쥐 주니어 브라운	Devil Bat Junior Brown	1	90001312-Develop-
+데빌 박쥐 주니어 블랙	Devil Bat Junior Black	1	90001313-Develop-
+데빌 박쥐 주니어 블루	Devil Bat Junior Blue	1	90001311-Develop-
+데이데이	Dede	2	11004711-Wedding-
+데이몬	Daimon	1	21099104-Develop-
+덴비	Denby	1	11004694-BlackOnyx-
+도구리 근위병	Dogguri Guard	1	49003003-ShadowExpedition-
+도둑 다람쥐	Squirrel Thief	1	21000325-Timaion01-
+도리도리 마리오네트	Dori Dori Marionette	2	21200041-Timaion01-
+도마구리	Domaguri	9	90000826-Develop-
+독방 입구	Solitary Cell Entrance	1	11004800-EpicApocalypse01-
+독수리	Eagle	2	90000182-Develop-
+돼지악마	Pig Demon	1	90000870-Develop-
+드래곤	Dragon	3	90000932-Develop-
+드론 레이저	Drone Laser	3	90000706-Develop-
+드론 미사일	Drone Missile	3	90000709-Develop-
+드론 자석	Drone Magnet	3	90000712-Develop-
+디버시	Diversi	1	11004487-Kritias_2018_12-
+디버프 몬스터1	Debuff Monster 1	1	25100322-Develop-
+디버프 몬스터2	Debuff Monster 2	1	25100323-Develop-
+디버프 몬스터3	Debuff Monster 3	1	25100324-Develop-
+디보르티	Divorti	1	11004739-Wedding-
+디스트로이	Destroi	1	49300001-ShadowExpedition-
+디스트보 B	Distbo B	1	49500004-ShadowExpedition-
+딥 브레스	Deep Breath	1	22600005-DarkTear-
+따당 토이 머스킷	Bangbang Toy Musketeer	1	21000412-Develop-
+떠도는 가드 MK-II	Roving Guard MK II	1	25020106-Kritias_2018_12-
+떠도는 터렛 MK-I	Wandering Turret MK I	1	25020102-Kritias_2018_12-
+똑똑한 버럭모랑	Smart Leshy Giant	1	25021804-Kritias_2018_12-
+라쉬	Rashi	1	11200003-NpcRashi-
+라이튼	Lyton	1	11004498-Kritias_2018_12-
+라일랑	Lailrang	1	11004651-Kritias_Epic02-
+라즈타	Razta	1	49400006-ShadowExpedition-
+라팔	Rafale	2	11004388-Kritias_Epic01-
+라펜타 에너지	Lapenta Energy	1	11004339-JobChange_02-
+라플레시아	Rafflesia	1	90001286-Develop-
+라플레시아 빨강	Rafflesia Red	1	90001288-Develop-
+라플레시아 파랑	Rafflesia Blue	1	90001287-Develop-
+러비	Ruby	1	11004754-Wedding-
+레나	Lena	1	11001222-Develop-
+레드 검투 근위대	Red Fencer	1	25022101-Kritias_2018_12-
+레드 격수 근위대	Red Musketeer	1	25022116-Kritias_2018_12-
+레드 마법 근위대	Red Arcanist	1	25022102-Kritias_2018_12-
+레드 제라크	Red Zerak	1	25022601-Kritias02-
+레드 타이렌 근위기사	Red Tairen Court Guard	1	25022103-Kritias_2018_12-
+레드 틱틱 토끼	Red Clock Rabbit	1	21000592-Timaion01-
+레이저이드	Lazereid	1	49100003-ShadowExpedition-
+레이카	Reika	1	11004530-Kritias_2018_12-
+레인보우 유니콘 피냐타	Rainbow Unicorn Pinata	1	11004743-Wedding-
+레티널	Retinar	1	11004397-Kritias_Epic01-
+레펜스	Leppens	1	11004489-Kritias_2018_12-
+로봇	Robot	38	90000003-Develop-
+로봇 S	Robot S	3	90000703-Develop-
+로봇 U	Robot U	3	90000700-Develop-
+로봇 W	Robot W	3	90000697-Develop-
+로봇고철	Scrap Robot	9	90000216-Develop-
+로탈라	Rotala	1	11004468-Kritias_2018_12-
+루드위지아	Ludwigia	1	11004476-Kritias_2018_12-
+루몽요정	Lumong Fairy	2	90000187-Develop-
+루카락스_날아서 선회 착지	Lukraks_Aerial Circling Landing	1	23991072-Develop-
+루카락스_날아서 투사체 쾅공격	Lukraks_Aerial Projectile Slam Attack	1	23991071-Develop-
+루카락스_마드리아에게 버프 받기	Lukraks_Receive Buff from Madria	1	23991069-Develop-
+루카락스_몸 흔들기	Lukraks_Body Shake	1	23991070-Develop-
+루카락스_몸통 돌진	Lukraks_Body Charge	1	23991066-Develop-
+루카락스_브레스 왼쪽 오른쪽 발사	Lukraks_Breath Left-Right Launch	1	23991065-Develop-
+루카락스_입에서 연기발사후 폭발	Lukraks_Smoke Launch from Mouth then Explosion	1	23991064-Develop-
+루카락스_전방 날개짓 바람	Lukraks_Forward Wing Gust	1	23991067-Develop-
+루카락스_점프 쾅	Lukraks_Jump Slam	1	23991068-Develop-
+룬골렘	Rune Golem	1	49300005-ShadowExpedition-
+리라이프	Lileaf	1	11001210-Balrogitem1st-
+리아나	Riana	1	11000796-Develop-
+리자드	Lizard	3	90000324-Develop-
+리쳐드	Richard	1	11004527-Kritias_2018_12-
+리치몬드 방위대	Richmonde Defender	1	11004464-Kritias_2018_12-
+리치몬드 수호병	Richmonde Guard	2	11004465-Kritias_2018_12-
+리치몬드 포병	Richmonde Gunner	1	11004549-Kritias_2018_12-
+리카	Rica	1	11000918-Develop-
+리케	Rike	1	11000919-Develop-
+릭	Rick	1	11000906-Develop-
+마네트	Manette	1	11003709-Timaion01-
+마누엘	Manuel	1	11004741-Wedding-
+마드라칸 : 겔리메르	Madrakan: Gelimer	1	90001160-Develop-
+마드라칸 : 넨도로이드	Madrakan: Nendoroid	1	90001161-Develop-
+마드라칸 : 드론	Madrakan: Drone	1	90001159-Develop-
+마드라칸 : 매트	Madrakan: Matt	1	90001155-Develop-
+마드라칸 : 보스	Madrakan: Boss	3	90001143-Develop-
+마드라칸 : 석궁병	Madrakan: Crossbowman	1	90001153-Develop-
+마드라칸 : 연구원	Madrakan: Researcher	1	90001156-Develop-
+마드라칸 : 연구원2	Madrakan: Researcher 2	1	90001157-Develop-
+마드라칸 : 연구원3	Madrakan: Researcher 3	1	90001158-Develop-
+마드라칸 : 오스칼	Madrakan: Oskar	2	90001150-Develop-
+마드라칸 : 일반	Madrakan: Normal	6	90001163-Develop-
+마드라칸 : 일반(점수X)	Madrakan: Normal (No Score)	3	90001147-Develop-
+마드라칸 : 자경단원	Madrakan: Vigilante	1	90001151-Develop-
+마드라칸 : 중형	Madrakan: Medium	3	90001169-Develop-
+마드라칸 : 창병	Madrakan: Lancer	1	90001154-Develop-
+마드라칸 : 프레이	Madrakan: Frey	2	90001152-Develop-
+마드리아+루카_그림자 불꽃	Madria+Luka_Shadow Flame	1	23993063-Develop-
+마드리아+루카_몸통돌진	Madria+Luka_Body Charge	1	23993065-Develop-
+마드리아+루카_바닥폭발	Madria+Luka_Ground Explosion	1	23993064-Develop-
+마드리아_기 모으기 후 사방	Madria_Energy Charge All Directions	1	23992067-Develop-
+마드리아_기 모으기 후 위쪽	Madria_Energy Charge Upward	1	23992066-Develop-
+마드리아_기 모으기 후 전방	Madria_Energy Charge Forward	1	23992065-Develop-
+마드리아_루카락스 광포화 명령	Madria_Luka Rax Barrage Command	1	23992062-Develop-
+마드리아_매우 빠른 이동	Madria_Very Fast Movement	1	23992072-Develop-
+마드리아_순간이동	Madria_Teleport	1	23992064-Develop-
+마드리아_어둠의 불큐브	Madria_Dark Fire Cube	1	23992063-Develop-
+마드리아_전투판 대미지 필드	Madria_Combat Platform Damage Field	1	23992068-Develop-
+마드리아_투사체 바닥 어둠의 불	Madria_Projectile Ground Dark Fire	1	23992069-Develop-
+마력의 구슬	Magic Orb	4	21803600-Kritias_Turka03-
+마를레네	Marlene	9	11004395-Kritias_Epic01-
+마리안	Marian	1	11001000-Develop-
+마법모자	Magic Hat	2	21501391-DungeonOpen70CH5-
+마빌	Mabel	1	11004703-BlackOnyx-
+마스크	Mask	1	90000875-Develop-
+마요	Mayo	1	11004520-Kritias_2018_12-
+마유	Mayu	1	11004521-Kritias_2018_12-
+마크란드라	Macrandra	1	11004481-Kritias_2018_12-
+만슈타 경계병	Mannstad Sentry	5	11004505-Kritias_2018_12-
+만슈타 병사	Mannstad Soldier	1	11004516-Kritias_2018_12-
+만슈타 보급병	Mannstad Quartermaster	1	11004514-Kritias_2018_12-
+만슈타 순찰병	Mannstad Patrolman	2	11004510-Kritias_2018_12-
+만슈타 운전병	Mannstad Driver	1	11004515-Kritias_2018_12-
+만슈타 조종사	Mannstad Pilot	1	11004512-Kritias_2018_12-
+만슈타 포병	Mannstad Gunner	1	11004513-Kritias_2018_12-
+맘모스	Mammoth	3	21000822-Timaion01-
+망가진 가드 MK-III	Ruined Guard MK III	1	25020601-Kritias_2018_12-
+망가진 나이트레토	Ruined Knightretto	1	25021205-Kritias_2018_12-
+망가진 메카캐논	Ruined Mini-Cannon	1	25021103-Kritias_2018_12-
+망가진 타이렌 MK-I-B	Busted Tairen MK I-B	1	25020402-Kritias_2018_12-
+망가진 폭스트롯	Broken Foxtrot	1	25022203-Kritias02-
+매끈한 동굴 쿠우쿠	Cave Leecher	1	25022115-Kritias_2018_12-
+매끈한 쿠우쿠	Smooth Leecher	1	25020302-Kritias_2018_12-
+매서운 킬러휴롯	Fierce Huborg Killer	1	25021905-Kritias_2018_12-
+맹독 검은군단 파수견	Venomous Black Legion Watchdog	1	25022703-Kritias02-
+맹독 케르베스 무법자	Toxic Kharon Outlaw	1	25021603-Kritias_2018_12-
+맹독 케르베스 약탈자	Toxic Kharon Plunderer	1	25021601-Kritias_2018_12-
+맹독 케르베스 파괴자	Toxic Kharon Destroyer	1	25021602-Kritias_2018_12-
+맹독 케르베스 행동대장	Toxic Kharon Berserker	1	25021604-Kritias_2018_12-
+맹독 쿠우쿠	Poison Leecher	1	25020004-Kritias_2018_12-
+맹독 포잉	Poison Poing	1	25020005-Kritias_2018_12-
+머맨Fat	Fat Merman	3	90000645-Develop-
+머미묘 베이비	Mummy Miao Baby	1	49500005-ShadowExpedition-
+머쉬좀비	Mushzombie	1	49101001-ShadowExpedition-
+머쉬좀비맘	Mushzombie Mom	1	49201003-ShadowExpedition-
+머쉬킹 점프 쾅	Mushking Jump Slam	1	23999929-Develop-
+머쉬킹 지팡이 브레스	Mushking Staff Breath	1	23999928-Develop-
+머쉬킹_가마 바닥튜브	Mushking_Cauldron Floor Tube	1	23999923-Develop-
+머쉬킹_가마 점프이동	Mushking_Cauldron Jump Move	1	23999925-Develop-
+머쉬킹_가마 점프쾅	Mushking_Cauldron Jump Slam	1	23999922-Develop-
+머쉬킹_가마 충격파	Mushking_Cauldron Shockwave	1	23999924-Develop-
+머쉬킹_가마 탑승	Mushking_Cauldron Ride	1	23999927-Develop-
+머쉬킹_거대 투사체	MushKing_GiantProjectile	1	23999910-Develop-
+머쉬킹_길게 바닥폭발	MushKing_LongFloorExplosion	1	23999912-Develop-
+머쉬킹_독버섯	MushKing_PoisonMushroom	1	23999909-Develop-
+머쉬킹_레이저 정면	Mushking_Laser Frontal	1	23999917-Develop-
+머쉬킹_레이저바닥	Mushking_Laser Floor	1	23999916-Develop-
+머쉬킹_바닥 스위치	Mushking_Floor Switch	1	23999915-Develop-
+머쉬킹_방향키 반대	MushKing_ReverseControls	1	23999911-Develop-
+머쉬킹_순간이동	Mushking_Teleport	1	23999926-Develop-
+머쉬킹_전방 마법	MushKing_ForwardMagic	1	23999908-Develop-
+머쉬킹_좌우 바닥쾅	Mushking_Floor Slam (Left-Right)	1	23999914-Develop-
+머쉬킹_좌우 브레스	MushKing_LeftRightBreath	1	23999913-Develop-
+머쉬킹_회전레이저A	Mushking_Rotating Laser A	1	23999918-Develop-
+머쉬킹_회전레이저B	Mushking_Rotating Laser B	1	23999919-Develop-
+머쉬킹_회전레이저C	Mushking_Rotating Laser C	1	23999920-Develop-
+머쉬킹_회전레이저D	Mushking_Rotating Laser D	1	23999921-Develop-
+머스킷 마스터	Heavy Gunner	1	49500012-ShadowExpedition-
+머신건 메이드	Machine Gun Maid	1	21001011-Timaion01-
+멀든	Mulden	1	21200015-Timaion01-
+멋쟁이 마리오네트	Stylish Marionette	1	29500206-Timaion01-
+메가티카	Megatika	1	22000115-Timaion01-
+메로미	Melomy	1	11004759-Wedding-
+메릴	Meryl	1	11004479-Kritias_2018_12-
+메비딕	Mevdik	16	90001095-Develop-
+메비딕 주니어	Mevdik Jr.	2	90001099-Develop-
+메이리	Meili	1	11004817-EpicApocalypse01-
+메이플 기계 거미 브라운	Maple Mechanical Spider Brown	1	90001323-Develop-
+메이플 기계 거미 블루	Maple Mechanical Spider Blue	1	90001324-Develop-
+메이플 기계 거미 오렌지	Maple Mechanical Spider Orange	1	90001322-Develop-
+메카닌자	Mecha Ninja	3	21010116-Develop-
+메카닌자 퍼플	Mecha Ninja Purple	1	90000109-Develop-
+메카랩터	Mecha Raptor	2	21010016-Develop-
+메카랩터 MK-II	Mecha Raptor MK II	1	25021606-Kritias_2018_12-
+메카솔져	Mecha Soldier	3	21010013-Develop-
+메카솔져 그린	Mecha Soldier Green	1	90000013-Develop-
+메카수스	Mechasoos	2	21010011-Develop-
+메카슈터	Mecha Shooter	1	21010014-Develop-
+메카탱커	Mecha Tanker	3	21010114-Develop-
+메카탱커 퍼플	Mecha Tanker Purple	1	90000107-Develop-
+메카티라노	Mecha Tyranno	3	21010015-Develop-
+메카티라노 MK-II	Mecha Tyrano MK II	1	25021605-Kritias_2018_12-
+메카티라노 블루	Mecha Tyranno Blue	1	90000009-Develop-
+메카헤비	Mecha Heavy	2	21010012-Develop-
+모기	Mosquito	3	90000739-Develop-
+모네랑	Monerang	1	11004653-Kritias_Epic02-
+모랑 주민 샤랑	Leshy Resident Sharang	1	11004628-Fame_Geo01-
+모랑 주민 샤랑 베리에이션	Leshy Resident Sharang Variation	1	11004629-Fame_Geo01-
+모랑족장 칸투랑	Leshy Chief Kanturang	1	11004620-Fame_Geo01-
+모리셔스	Mauritius	1	11004499-Kritias_2018_12-
+모무랑	Momurang	1	11004648-Kritias_Epic02-
+모히피그	Mohipig	1	49002002-ShadowExpedition-
+몬테 분열	Monte Fission	1	90000931-Develop-
+무뚝뚝한 솔저레토	Glum Soldieretto	1	25021001-Kritias_2018_12-
+무자비한 케르베스 암살자	Ruthless Cerberus Assassin	1	25022306-Kritias02-
+미끈한 포잉	Slick Poing	1	25020304-Kritias_2018_12-
+미니 겜보	Mini Gambo	1	49000002-ShadowExpedition-
+미라	Mummy	12	90000235-Develop-
+미셸	Michelle	1	11003807-Timaion01-
+미스터리 스카프	Mystery Scarf	1	23300008-DarkTear-
+미제라	Migera	1	11004740-Wedding-
+미쳐버린 킬러휴롯	Maniacal Huborg Killer	1	25020807-Kritias_2018_12-
+미카엘 인형술사	Mikhael the Puppeteer	1	90001303-Develop-
+민첩한 테블라	Nimble Tabla	1	25022408-Kritias02-
+밀리 부인	Mrs. Milly	1	11004761-Wedding-
+밈	Mim	1	11003882-WorldChampionMushroom-
+밍밍	Ming Ming	1	11003405-MassiveCrazyRunnersShanghai-
+바늘땀 마리오네트	Needle Stitched Marionette	1	21200057-Timaion01-
+바론	Baron	7	11003368-Develop-
+바론의 감옥 입구	Baron's Prison Entrance	1	11004792-EpicApocalypse01-
+바베니 근위병	Safehold Guardsman	4	11004460-Kritias_2018_12-
+바베니 순찰병	Safehold Patrolman	1	11004503-Kritias_2018_12-
+바야르 NPC 기본	Bayar NPC Default	1	90000781-Develop-
+바코바	Bacopa	1	11004493-Kritias_2018_12-
+박쥐	Bat	4	90000274-Develop-
+반겐하임	Vanheim	1	11004431-Kritias_Epic01-
+반겐하임에 대한 기록. p2491	Record on Vanheim. p. 2491	1	11004633-Kritias_Epic03-
+발렌세	Valens	1	11004490-Kritias_2018_12-
+배지 마리오네트	Badge Marionette	1	29500204-Timaion01-
+버럭모랑 주민 그랑	Leshy Giant Resident Grang	1	11004626-Fame_Geo01-
+버럭모랑 주민 그랑 베리에이션	Leshy Giant Resident Grang Variation	1	11004627-Fame_Geo01-
+버려진 감시로봇	Abandoned Surveillance Robot	1	25022800-Kritias02-
+버섯	Mushroom	13	90000116-Develop-
+버틀러 견습생	Butler Apprentice	1	21001012-Timaion01-
+벅	Buck	1	11004702-BlackOnyx-
+벌	Bee	1	90000202-Develop-
+베라리	Belaly	1	11004760-Wedding-
+베르차	Bercha	1	11004654-Kritias_Epic02-
+베르챠	Bircher	1	11001211-Balrogitem1st-
+베스크마	Beschma	1	49300003-ShadowExpedition-
+벤시	Vanshi	3	11004387-Kritias_Epic01-
+변이된 둘째 포잉	Mutant Poing (2nd)	1	25022803-Kritias02-
+변이된 버럭모랑	Mutated Berukmorang	1	90001284-Develop-
+변이된 셋째 포잉	Mutant Poing (3rd)	1	25022804-Kritias02-
+변이된 첫째 포잉	Mutant Poing (1st)	1	25022802-Kritias02-
+변이된 포잉	Mutated Poing	1	90001285-Develop-
+변이된 포잉 삼형제	Mutant Poing Triplets	1	25022805-Kritias02-
+별꽃	Starflower	1	60000312-Colosseum02-
+병든 포잉	Sick Poing	1	25021405-Kritias_2018_12-
+병정 머스킷	Musket Soldier	1	49204002-ShadowExpedition-
+보글보글	Boggleboggle	1	11004758-Wedding-
+보보이	Boboi	1	21099103-Develop-
+보스 무적 해제용	Boss Invincibility Cancel	2	25100013-Fieldwar01-
+부상당한 게오르크 병사	Injured Humanitas Soldier	1	11004427-Kritias_Epic01-
+부상당한 게오르크 장교	Injured Humanitas Officer	1	11004547-Kritias_Epic01-
+부식된 MK-I-S	Corroded MK I-S	1	25020802-Kritias_2018_12-
+분노의 꿈트리	Raging Wriggler	1	25021402-Kritias_2018_12-
+분노한 식인 아룸	Enraged Man-Eating Arum	1	25022402-Kritias02-
+분노한 포잉	Raging Poing	1	25020903-Kritias_2018_12-
+불량한 튼튼 모랑	Rowdy Sturdy Morang	1	25022500-Kritias02-
+불타는 둘째 포잉	Blazing Poing (2nd)	1	25022813-Kritias02-
+불타는 셋째 포잉	Blazing Poing (3rd)	1	25022814-Kritias02-
+불타는 첫째 포잉	Blazing Poing (1st)	1	25022812-Kritias02-
+불타는 포잉	Flaming Poing	1	22000201-Develop-
+불타는 포잉 삼형제	Blazing Poing Triplets	1	25022815-Kritias02-
+불타는 포잉 합체 상태	Burning Poing (Combined Form)	1	90001304-Develop-
+불타는 포잉A	Burning Poing A	1	90001281-Develop-
+불타는 포잉B	Burning Poing B	1	90001289-Develop-
+불타는 포잉C	Burning Poing C	1	90001290-Develop-
+붕붕이	Bungbungi	2	90000874-Develop-
+브라운 틱틱 토끼	Brown Clock Rabbit	1	21000593-Timaion01-
+브록	Brock	1	11004543-Kritias_2018_12-
+블랙 데커	Black Card-shark	1	21000509-Timaion01-
+블랙 미니빈	Black Minibinn	6	21501381-DungeonOpen70CH5-
+블랙 제라크	Black Zerak	1	25022700-Kritias02-
+블랙 크로노스	Black Chronos	2	21001000-Timaion01-
+블랙로브	Black Robe	10	90000000-Develop-
+블랙로브 마법사	Black Robe Mage	3	21010002-Develop-
+블랙로브 마법사 그린	Black Robe Mage Green	1	90000054-Develop-
+블랙로브 마법사 블루	Black Robe Mage Blue	1	90000101-Develop-
+블랙로브 버서커	Black Robe Berserker	4	21010067-Develop-
+블랙로브 버서커 그린	Black Robe Berserker Green	1	90000060-Develop-
+블랙로브 사제	Black Robe Priest	3	21010058-Develop-
+블랙로브 석궁	Black Robe Crossbow	1	21802001-Kritias_2018_12-
+블랙로브 암살자	Black Robe Assassin	3	21010001-Develop-
+블랙로브 암살자 그린	Black Robe Assassin Green	1	90000053-Develop-
+블랙로브 암살자 블루	Black Robe Assassin (Blue)	1	90000100-Develop-
+블랙로브 저글링	Black Robe Zergling	4	21010057-Develop-
+블랙로브 저글링 그린	Black Robe Juggler Green	1	90000052-Develop-
+블랙로브 저글링 블루	Black Robe Juggler (Blue)	1	90000099-Develop-
+블랙로브 주술사	Black Robe Shaman	3	21010059-Develop-
+블랙로브 파수견	Black Robe Guard Dog	4	21010003-Develop-
+블랙로브 파수견 그린	Black Robe Guard Dog Green	1	90000057-Develop-
+블랙로브 파수견 블루	Black Robe Watchdog Blue	1	90000104-Develop-
+블랙빈	Black Bean	6	11004831-EpicApocalypse02-
+블랙빈_롤링어택	BlackBean_RollingAttack	1	23998115-Develop-
+블랙빈_모자	BlackBean_Hat	1	23998108-Develop-
+블랙빈_바닥RGB	BlackBean_FloorRGB	1	23998113-Develop-
+블랙빈_방귀	BlackBean_Gas	1	23998109-Develop-
+블랙빈_브러쉬	BlackBean_Brush	1	23998110-Develop-
+블랙빈_스프레이	BlackBean_Spray	1	23998107-Develop-
+블랙빈_웨이브 쾅	BlackBean_WaveBoom	1	23998111-Develop-
+블랙빈_진공청소기	BlackBean_Vacuum	1	23998112-Develop-
+블랙빈_차_4방 충격파01	BlackBean_Car_4WayShockwave01	1	23998101-Develop-
+블랙빈_차_4방 충격파02	BlackBean_Car_4WayShockwave02	1	23998102-Develop-
+블랙빈_차_거대레이저	Black Bean_Car_Giant Laser	1	23998089-Develop-
+블랙빈_차_고속이동	Black Bean_Car_High-Speed Movement	1	23998090-Develop-
+블랙빈_차_고장	BlackBean_Car_Breakdown	1	23998093-Develop-
+블랙빈_차_공중이동	Black Bean_Car_Aerial Movement	1	23998091-Develop-
+블랙빈_차_바닥다수얼굴	BlackBean_Car_FloorMultipleFaces	1	23998106-Develop-
+블랙빈_차_브러쉬발사	BlackBean_Car_BrushLaunch	1	23998105-Develop-
+블랙빈_차_사방투사체	BlackBean_Car_OmniProjectile	1	23998096-Develop-
+블랙빈_차_얼굴발사	BlackBean_Car_FaceLaunch	1	23998095-Develop-
+블랙빈_차_원영역	BlackBean_Car_CircleArea	1	23998099-Develop-
+블랙빈_차_저주투사체	BlackBean_Car_CurseProjectile	1	23998097-Develop-
+블랙빈_차_주차	Black Bean_Car_Parking	1	23998092-Develop-
+블랙빈_차_충격파웨이브	BlackBean_Car_ShockwaveWave	1	23998100-Develop-
+블랙빈_차_코어 빛기둥	BlackBean_Car_CoreLightPillar	1	23998104-Develop-
+블랙빈_차_쿵	BlackBean_Car_Thud	1	23998103-Develop-
+블랙빈_차_튜브영역	BlackBean_Car_TubeArea	1	23998098-Develop-
+블랙빈_차_파괴	BlackBean_Car_Destruction	1	23998094-Develop-
+블랙빈_페인트 물풍선	BlackBean_PaintWaterBalloon	1	23998114-Develop-
+블랙빈의 자동차	Black Bean's Car	4	23000097-DungeonOpen70CH5-
+블랙스타 스캐빈저 일꾼	Black Star Scavenger Worker	2	11003763-Timaion01-
+블랙스타 코쿤	Blackstar Kokun	1	22600007-BlackOnyx-
+블러드 데커	Blood Card-shark	1	21000510-Timaion01-
+블러디 나이프	Bloody Knife	1	22600004-DarkTear-
+블레메이드	Blademaid	1	49100002-ShadowExpedition-
+블록러드	Blockrud	1	49004003-ShadowExpedition-
+블록러드 자이언트	Blockrud Giant	1	49204001-ShadowExpedition-
+블루 가드 MK-I	Blue Guard MK I	1	25021702-Kritias_2018_12-
+블루 검투 근위대	Blue Fencer	1	25021703-Kritias_2018_12-
+블루 격수 근위대	Blue Musketeer	1	25021704-Kritias_2018_12-
+블루 놀라쥬	Blue Waspling	1	25021803-Kritias_2018_12-
+블루 마법 근위대	Blue Arcanist	1	25021705-Kritias_2018_12-
+블루 타이렌 경비병	Blue Tairen Guard	1	25021407-Kritias_2018_12-
+비롤	Birol	1	11004393-Kritias_Epic01-
+비룡 워리어	Wyvern Warrior	1	49202002-ShadowExpedition-
+비룡술사	Flying Dragon Sorcerer	1	49500006-ShadowExpedition-
+비르디	Birdi	1	11004700-BlackOnyx-
+비만 머미묘	Obese Mummycat	1	49201002-ShadowExpedition-
+비비파라	Vivipara	1	11004486-Kritias_2018_12-
+비틀비	Beetleby	1	49001002-ShadowExpedition-
+비틀비 근위병	Beetleby Guard	1	49203003-ShadowExpedition-
+비틀비 솔저	Beetleby Soldier	1	49201001-ShadowExpedition-
+빛나라, 퀴즈의 별	Shine, Star of Quiz	1	11003769-Timaion01-
+뿔파리	Horned Fly	3	90000736-Develop-
+쁘띠 루카락스	Petit Lucarax	1	60000307-Colosseum02-
+삐딱한 슝슝 모랑	Mischievous Swoosh Morang	1	25022406-Kritias02-
+삐에로상자	Clown Box	2	90000258-Develop-
+사나운 검은군단 파수견	Wild Daemon Dog	1	25020703-Kritias_2018_12-
+사나운 꿈트리	Fierce Dreamtree	1	25022405-Kritias02-
+사나운 메카랩터	Wild Mecha Raptor	1	25021105-Kritias_2018_12-
+사나운 헤비휴롯	Wild Huborg Brawler	1	25021906-Kritias_2018_12-
+사람	Person	3	90000972-Develop-
+사막 도마뱀 병사	Desert Lizard Soldier	3	90000633-Develop-
+사막 드래곤 덩치	Desert Dragon Brute	1	90000522-Develop-
+사막드래곤	Desert Dragon	4	90000462-Develop-
+사막드래곤 덩치	Desert Dragon Brute	1	90000882-Develop-
+사막드래곤 마법사	Desert Dragon Mage	3	90000465-Develop-
+사막하피	Desert Harpy	4	90000523-Develop-
+사무친 원한의 대저택(보스전용)	Mansion of Lingering Grudges (Boss Only)	1	90001184-Develop-
+사무친 원한의 대저택(연출용)	Mansion of Deep Resentment (Cinematic)	2	90001201-Develop-
+상급 알렉	Superior Allek	10	21502222-Kritias_Turka03-
+새끼 거미	Baby Spider	3	90000656-Develop-
+새끼 지오스피릿	Baby Geo Spirit	4	90000524-Develop-
+새끼거북이	Baby Turtle	4	90000243-Develop-
+새끼오리	Duckling	4	90000132-Develop-
+새미	Sammy	1	11003805-Timaion01-
+생명 거미	Vitality Spider	1	21450034-DarkTear-
+생일기념더키	Birthday Duckie	1	11003588-HappyBirthday-
+생일기념파티	Birthday Celebration Party	1	11003587-HappyBirthday-
+샤바라이더	Shaba Rider	3	90000671-Develop-
+샤바매지션	Shaba Magician	3	90000668-Develop-
+샤바워리어	Shaba Warrior	3	90000665-Develop-
+샴블라	Shambla	1	49203002-ShadowExpedition-
+서바이벌 컨텐츠	Survival Content	10	90000784-Develop-
+선인장	Cactus	14	90000178-Develop-
+성격 나쁜 탐식이	Ill-Tempered Gluttony	1	25022706-Kritias02-
+세레나데	Serenade	1	27000053-Wedding-
+세리	Seri	1	11004688-BlackOnyx-
+세리하	Seriha	7	11003548-Timaion01-
+세이렌(창)	Siren (Spear)	1	90001254-Develop-
+세이렌(하프)	Siren (Harp)	1	90001255-Develop-
+셀레나	Selena	1	11004452-Kritias_2018_12-
+셀린 연출용	Celine (Cutscene)	1	90001266-Develop-
+소드댄서	Sword Dancer	4	90000560-Develop-
+소심한 솔저레토	Timid Soldieretto	1	11004525-Kritias_2018_12-
+순찰병	Patrolman	1	11004502-Kritias_2018_12-
+순찰중인 메카 캐논	Patrolling Mecha Cannon	1	25023301-Kritias02-
+순찰중인 메카 티라노	Patrolling Mecha Tyranno	1	25023300-Kritias02-
+쉐도우 가고일	Shadow Gargoyle	2	21450017-DarkTear-
+쉐도우 가드	Shadow Guard	1	22600002-DarkTear-
+쉐도우 리자드	Shadow Lizard	1	21450019-DarkTear-
+쉐도우 마지카	Shadow Magica	1	49500008-ShadowExpedition-
+쉐도우 베이터	Shadow Baiter	1	49200003-ShadowExpedition-
+쉐도우 불	Shadow Bull	2	21450016-DarkTear-
+쉐도우 스팅	Shadow Sting	1	49003002-ShadowExpedition-
+스노우베이비	Snow Baby	1	21000975-Develop-
+스로인	Throin	1	11004480-Kritias_2018_12-
+스칼렛	Scarlet	1	11003377-SpecialRandomShop-
+스키팽귄	Ski Penguin	5	90000613-Develop-
+스트류	Strew	1	49102003-ShadowExpedition-
+스트류 베이비	Straw Baby	1	49002003-ShadowExpedition-
+스팀버 카	Stember Car	1	49500003-ShadowExpedition-
+스팀버 플라이	Stember Fly	1	49500002-ShadowExpedition-
+스팀봇 표지판	Steambot Sign	3	90000648-Develop-
+스팀봇포크레인	Steambot Crane	3	90000651-Develop-
+스페니	Spenny	1	11004517-Kritias_2018_12-
+스페이드 나이트	Spade Knight	1	49103003-ShadowExpedition-
+스페이드 카드	Spade Card	1	21000831-Timaion01-
+스피어 병정	Spear Soldier	1	49104003-ShadowExpedition-
+슬링	Sling	3	90000200-Develop-
+시공의 균열 중앙	Center of the Space-Time Rift	1	11004829-EpicApocalypse02-
+시만	Siman	8	11004386-Kritias_Epic01-
+시저	Caesar	1	11003653-Timaion01-
+식칼닭	Cleaver Chicken	13	90000249-Develop-
+신경과민 근위장교	Jittery Guard Officer	1	25021510-Kritias_2018_12-
+신바람 하피	Spirited Harpy	1	49300007-ShadowExpedition-
+신비한 메카티라노	Mysterious Mecha Tyrano	1	25021701-Kritias_2018_12-
+신성한 영혼	Sacred Soul	2	11004813-EpicApocalypse01-
+실론	Sealon	1	11004475-Kritias_2018_12-
+심벌빗	Cymbalbit	1	49104001-ShadowExpedition-
+심술쟁이 뾰롱 모랑	Grumpy Byolong Morang	1	25022409-Kritias02-
+심연의 라플레시아	Abyssal Rafflesia	1	25022602-Kritias02-
+심해 수호자	Deep Sea Guardian	1	49204003-ShadowExpedition-
+아네랑	Anerang	1	11004652-Kritias_Epic02-
+아랑모랑	Lenny Leshy	1	11004442-Kritias_2018_12-
+아룸	Arum	1	90000041-Develop-
+아룸 블루	Arum Blue	1	90000042-Develop-
+아르망	Armand	7	11003658-Timaion01-
+아르케온	Arkeon	4	21010105-Develop-
+아르케온 감마	Arkeon Gamma	1	11004635-Develop-
+아르케온 격납고 포탑	Arkeon Hangar Turret	4	23503001-Kritias_Turka01-
+아르케온 베타	Arkeon Beta	1	11004634-Develop-
+아르케온 카이	Arkeon Kai	2	23503003-Kritias_Turka01-
+아르케온 탑승 Dummy	Arkeon Mount Dummy	2	23503021-Kritias_Turka01-
+아르케온 페이즈4 직선 폭발 Dummy	Arkeon Phase 4 Linear Explosion Dummy	8	23503005-Kritias_Turka01-
+아르케온 한방기 사용용 Dummy	Arkeon One-Shot Dummy	4	23503004-Kritias_Turka01-
+아르키아의 알	Arkia's Egg	2	21450021-DarkTear-
+아머그	Armorg	1	49300002-ShadowExpedition-
+아바도니	Abadoni	1	49400008-ShadowExpedition-
+아빠 유령	Dad Ghost	1	11003606-Timaion01-
+아이비	Ivy	5	11004708-Wedding-
+아케이드 겜보	Arcade Gambo	1	49200001-ShadowExpedition-
+악마	Demon	1	90000782-Develop-
+악마소	Demon Cow	5	90000279-Develop-
+안내로봇	Guide Robot	1	11004585-Kritias_Epic02-
+안내원 솔저레토	Soldieretto Guide	1	11004544-Kritias_2018_12-
+안브리아	Ambulia	1	11004484-Kritias_2018_12-
+알랑	Alrang	1	11004647-Kritias_Epic02-
+알베르토빈	Alberto Bean	1	11004287-Colosseum01-
+알케이나 터렛	Alkeina Turret	1	21200017-Timaion01-
+애기 유령	Baby ghost	1	11003608-Timaion01-
+얀코	Yanko	1	11004657-Kritias_Epic02-
+얌전한 솔저레토	Quiet Soldieretto	1	11004526-Kritias_2018_12-
+어둠의 땅 입구	Entrance to the Land of Darkness	1	11004794-EpicApocalypse01-
+어둠의 망령	Dark Wraith	4	21450036-DarkTear-
+어둠의 물질	Dark Matter	11	11004727-EpicApocalypse01-
+어둠의 샘	Dark Fountain	1	11004687-DarkTear-
+얼음 기사	Ice Knight	6	90000863-Develop-
+얼음 맵	Ice Map	1	90000857-Develop-
+얼음기사	Ice Knight	13	90000756-Develop-
+엄마 유령	Mom Ghost	1	11003607-Timaion01-
+에고웨폰 광전사	Ego Weapon Berserker	1	29500002-Timaion01-
+에고웨폰 궁수	Ego Weapon Archer	5	21010030-Develop-
+에고웨폰 마법사	Ego Weapon Mage	5	21010032-Develop-
+에고웨폰 암살자	Ego Weapon Assassin	4	21010029-Develop-
+에고웨폰 전사	Ego Weapon Warrior	5	21010028-Develop-
+에고웨폰 정복자	Ego Weapon Conqueror	1	21010031-Develop-
+에고웨폰 정예병	Ego Weapon Elite	1	25021509-Kritias_2018_12-
+에네르 분광장치	Aetherine Spectrometer	2	25100210-Fieldwar02-
+에네르 입자포	Aetherine Particle Cannon	5	21803500-Kritias_Balrog01-
+에드워드	Edward the Great	1	11003656-Timaion01-
+에디	Eddie	1	11001700-ShadowExpedition-
+에비앙	Evian	1	11004457-Kritias_2018_12-
+에이버리	Avery	5	11003543-Timaion01-
+에이션트 리자드	Ancient Lizard	3	22600006-DarkTear-
+엑셀로디	Axelrodi	1	11004497-Kritias_2018_12-
+엘라	Ella	1	11004573-Kritias_Epic02-
+엘레나	Helena	5	11003615-Timaion01-
+여왕 거미	Queen Spider	3	90000662-Develop-
+여자 마리오네트 바늘	Female Marionette Needle	1	90001300-Develop-
+여자 마리오네트 우산	Female Marionette Umbrella	1	90001301-Develop-
+여자 마리오네트 해머	Female Marionette Hammer	1	90001298-Develop-
+여자 메이드 머신건	Female Maid Machine Gun	1	90001294-Develop-
+여자 메이드 컴뱃나이프	Female Maid Combat Knife	1	90001295-Develop-
+여자 홈리스1	Female Homeless 1	1	11001162-Develop-
+연출용	Cinematic Prop	12	90001086-Develop-
+연출용 오메가	Omega (Cinematic)	1	90001146-Develop-
+연출용2	Cinematic Prop 2	4	90001093-Develop-
+영리한 케르베스 파괴자	Cunning Cerberus Destroyer	1	25022303-Kritias02-
+영혼 없는 아룸	Soulless Arum	1	25020303-Kritias_2018_12-
+예띠	Yeti	4	90001012-Develop-
+예민한 꿈트리	Keen Wriggler	1	25020904-Kritias_2018_12-
+예비신랑	Soon-to-be Groom	1	11004763-Wedding-
+예비아내	Soon-to-be Bride	1	11004762-Wedding-
+오란다	Oranda	1	11004488-Kritias_2018_12-
+오래된 MK I-B	Old MK I-B	1	25020803-Kritias_2018_12-
+오로라 놀라쥬	Aurora Waspling	1	25020505-Kritias_2018_12-
+오로라 포잉	Aurora Poing	1	25020504-Kritias_2018_12-
+오리	Duck	2	90000136-Develop-
+오물 - 날씬이	Ooze - Slim	3	90000623-Develop-
+오물 - 뚱뚱이	Ooze - Fatty	3	90000624-Develop-
+오물 - 아기	Ooze - Baby	4	90000622-Develop-
+오염된 포잉	Corrupted Poing	1	25022308-Kritias02-
+오키 더키 보드	Okey Dokey Board	1	11001551-EventDuckyCardGame-
+온화한 솔저레토	Gentle Soldieretto	1	11004524-Kritias_2018_12-
+왈라키	Wariki	1	11004482-Kritias_2018_12-
+왕궁 지하 박쥐	Palace Underground Bat	2	21001045-EpicApocalypse01-
+외눈 거미	One-Eyed Spider	1	21450015-DarkTear-
+외눈골렘	One-Eyed Golem	2	90000197-Develop-
+요랑	Yorang	1	11004576-Kritias_Epic02-
+요조숙녀 마리오네트	Lady Marionette	1	29500205-Timaion01-
+욕심쟁이 포잉	Greedy Poing	1	25020905-Kritias_2018_12-
+우아한 마법 근위대	Elegant Arcanist	1	25021505-Kritias_2018_12-
+우울한 포잉	Mopey Poing	1	25021404-Kritias_2018_12-
+원숭이	Monkey	2	90000167-Develop-
+월아	Wola	1	11000799-Develop-
+웬티드	Wentid	1	11004474-Kritias_2018_12-
+위즈 하모니	Harmony Wiz	4	11004709-Wedding-
+윌러스	Wilus	1	11004451-Kritias_2018_12-
+윙	Wing	1	11003744-Timaion01-
+윙스	Winx	1	11004770-Wedding-
+융합로 내실	Reactor Interior	1	11004456-Kritias_Epic01-
+이름 모를 게오르크 병사	Unknown Humanitas Soldier	1	11004439-Kritias_Epic01-
+이슈라_검 1회 휘두르기	Ishura_Sword Swing x1	1	23990113-Develop-
+이슈라_검 2회 휘두르기	Ishura_Sword Swing x2	1	23990114-Develop-
+이슈라_극광역공격보통	Ishura_Ultimate AOE Attack Normal	1	23990126-Develop-
+이슈라_극광역공격성공	Ishura_Ultimate AOE Attack Success	1	23990127-Develop-
+이슈라_극광역공격실패	Ishura_Ultimate AOE Attack Fail	1	23990128-Develop-
+이슈라_기폭발	Ishura_Energy Explosion	1	23990122-Develop-
+이슈라_낮밤전환	Ishura_Day-Night Shift	1	23990125-Develop-
+이슈라_마법 채찍	Ishura_Magic Whip	1	23990117-Develop-
+이슈라_마법기둥	Ishura_Magic Pillar	1	23990123-Develop-
+이슈라_분신	Ishura_Clone	1	23990129-Develop-
+이슈라_사방 유도탄	Ishura_Omnidirectional Homing Missiles	1	23990115-Develop-
+이슈라_순간이동	Ishura_Teleport	1	23990124-Develop-
+이슈라_연속 돌진 베기	Ishura_Consecutive Rush Slash	1	23990116-Develop-
+이슈라_투사체 넓은판	Ishura_Projectile Wide Spread	1	23990119-Develop-
+이슈라_투사체 덩어리	Ishura_Projectile Cluster	1	23990118-Develop-
+이슈라_투사체 연속 패턴	Ishura_Projectile Rapid Pattern	1	23990121-Develop-
+이슈라_투사체 유도탄	Ishura_Projectile Homing Missile	1	23990120-Develop-
+이집냥이	Egyptian Kitty	5	90000570-Develop-
+인디카	Indica	1	11004469-Kritias_2018_12-
+일랑	Ilrang	1	11004646-Kritias_Epic02-
+일반 거미	Common Spider	3	90000659-Develop-
+자이언트 꿈트리	Giant Wriggler	1	25021801-Kritias_2018_12-
+자이언트 스트류	Giant Strew	1	49202003-ShadowExpedition-
+자쿰의 네 번째 팔	Zakum's Fourth Arm	5	23404071-Zakum01-
+자쿰의 다섯 번째 팔	Zakum's Fifth Arm	5	23405071-Zakum01-
+자쿰의 두 번째 팔	Zakum's Second Arm	5	23402071-Zakum01-
+자쿰의 세 번째 팔	Zakum's Third Arm	3	23403071-Zakum01-
+자쿰의 여섯 번째 팔	Zakum's Sixth Arm	3	23406071-Zakum01-
+자쿰의 첫 번째 팔	Zakum's First Arm	5	23401071-Zakum01-
+자크블	Zakbl	1	23300009-DarkTear-
+작은 동굴 입구	Cave Opening	1	11004337-JobChange_02-
+작은 올빼미	Small Owl	4	90000742-Develop-
+작은나무인형	Small Wooden Puppet	2	90000189-Develop-
+작은미라	Small Mummy	2	90000236-Develop-
+잔인한 케르베스 파괴자	Brutal Cerberus Destroyer	1	25022205-Kritias02-
+잘 훈련된 탐식이	Well-Trained Tamsiki	1	25022606-Kritias02-
+잠식당한 MK-I-W	Eroded MK I-W	1	25020204-Kritias_2018_12-
+잠식된 아룸	Befouled Arum	1	25020305-Kritias_2018_12-
+잠식된 포잉	Encroached Foing	1	25022404-Kritias02-
+잠자는 라플레시아	Sleeping Rafflesia	1	11004548-Kritias_2018_12-
+재빠른 메카랩터	Nimble Mecha Raptor	1	25021104-Kritias_2018_12-
+재빠른 슝슝모랑	Nimble Leshy Rascal	1	25020902-Kritias_2018_12-
+잼레빗	Jam Rabbit	1	49003001-ShadowExpedition-
+전이된 라플레시아	Mutated Rafflesia	1	25022504-Kritias02-
+전초기지 방어병	Barricade Defender	4	11004537-Kritias_2018_12-
+전초기지 순찰병	Barricade Patrolman	2	11004535-Kritias_2018_12-
+전투 멧돼지	Battle Boar	1	90001276-Develop-
+정령	Spirit	43	90001016-Develop-
+정신나간 헤비휴롯	Insane Huborg Brawler	1	25020806-Kritias_2018_12-
+정예 킬러휴롯	Elite Huborg Killer	1	25022112-Kritias_2018_12-
+정예 헤비휴롯	Elite Huborg Brawler	1	25022111-Kritias_2018_12-
+정의로운 영혼	Righteous Soul	2	11004815-EpicApocalypse01-
+정체불명의 도굴꾼	Mysterious Grave Robber	1	11004706-DarkTear-
+정체불명의 빛	Unknown Light	1	11004338-JobChange_02-
+정체불명의 알	Unidentified Egg	1	11004645-Kritias_Epic02-
+정체불명의 여자	Unidentified Woman	3	11004418-Kritias_Epic01-
+제너럴 스파이더	General Spider	2	21450013-DarkTear-
+제단	Altar	3	23000302-Kritias_Paika01-
+제시카	Jessica	2	11004432-Kritias_Epic01-
+제시카의 구관조	Jessica's Bird	1	11004630-Kritias_Epic03-
+제이	Jei	1	11004639-BlackOnyx-
+젬스톤 파코	Gemstone Pako	1	21000154-Develop-
+조사 중인 근위장교	Snooping Guard Officer	1	25021706-Kritias_2018_12-
+조종당하는 검은군단 MK-I-B	Controlled Black Legion MK-I-B	2	23503011-Kritias_Turka01-
+조종당하는 검은군단 MK-I-S	Controlled Black Legion MK-I-S	2	23503010-Kritias_Turka01-
+존스	Jones	1	11004701-BlackOnyx-
+졸린 꿈트리	Sleepy Wriggler	1	25021401-Kritias_2018_12-
+좀비	Zombie	6	90000266-Develop-
+주니어독	Junior Dog	3	90000419-Develop-
+주다쿠	Judaku	1	11001212-Balrogitem1st-
+주울	Joule 	1	11004495-Kritias_2018_12-
+줄리아	Julia	1	11004698-BlackOnyx-
+중간 보스1	Mini Boss 1	1	25100010-Fieldwar01-
+중간 보스2	Mini Boss 2	1	25100011-Fieldwar01-
+중간 보스3	Mini Boss 3	2	25100012-Fieldwar01-
+중급 알렉	Mid Alex	2	21502271-Kritias_Turka03-
+중독된 꿈트리	Poisoned Wriggler	1	25021802-Kritias_2018_12-
+중독된 케르베스 파괴자	Poison Kharon Destroyer	1	25021503-Kritias_2018_12-
+중독된 케르베스 행동대장	Poison Kharon Berserker	1	25021502-Kritias_2018_12-
+중독된 쿠우쿠	Poisoned Leecher	1	25021102-Kritias_2018_12-
+쥐 인형	Rat Doll	2	90000262-Develop-
+즐거운 포잉	Happy Poing	1	25020704-Kritias_2018_12-
+지오스피릿	Geo Spirit	3	90000685-Develop-
+지오스피릿바퀴	Geo Spirit Wheel	3	90000688-Develop-
+지옥 황소 데칸	Hell Bull Decan	1	23300006-DarkTear-
+진저	Ginger	1	11004697-BlackOnyx-
+진지한 근위기사	Earnest Court Guard	1	25020606-Kritias_2018_12-
+집무실 보초병	Office Guard	2	11004550-Kritias_2018_12-
+짓궂은 솔저레토	Corny Soldieretto	1	11004523-Kritias_2018_12-
+찌들은 크로노스	Tainted Chronos	2	21001001-Timaion01-
+차가운 인상의 여자	Cold-Hearted Woman	1	11003572-Timaion01-
+착해진 솔저레토	Friendly Soldieretto	1	11004522-Kritias_2018_12-
+책상 위 메모	Note on Desk	1	11004631-Kritias_Epic03-
+첨탑 : 블랙아이	Spire: Black Eye	1	90001234-Develop-
+첨탑 : 알론	Spire: Alon	1	90001235-Develop-
+첨탑 : 오스칼	Spire: Oskal	1	90001232-Develop-
+첨탑 : 프레이	Spire: Frey	1	90001233-Develop-
+청렴한 영혼	Pure Soul	2	11004814-EpicApocalypse01-
+촉수버섯	Tentacle Mushroom	2	90000126-Develop-
+치밀한 케르베스 사냥꾼	Calculated Kharon Hunter	1	25022903-Kritias02-
+치밀한 케르베스 파괴자	Meticulous Cerberus Destroyer	1	25022902-Kritias02-
+친절봉사 로크	Lock	1	11004443-Kritias_2018_12-
+친절봉사 무크	Mook	1	11004445-Kritias_2018_12-
+칠흑무쇠 골리온	Pitch-Black Iron Golion	1	25022708-Kritias02-
+칠흑무쇠 켄타리온	Pitch-Black Iron Kentarion	1	25022707-Kritias02-
+침식된 가드 MK-II	Corroded Guard MK II	1	25020804-Kritias_2018_12-
+침식된 기계메이드	Rusty Robo-Maid	1	23001008-Gigantica01-
+침식된 기계병정	Rusty Battle Android	1	23001010-Gigantica01-
+침식된 정찰기계	Rusty Scout Drone	1	23001009-Gigantica01-
+침식된 팬텀 디스트로이어	Rusty Phantom Destroyer	1	23001007-Gigantica01-
+카난	Kanan	1	11004696-BlackOnyx-
+카데보	Cadebo	4	90000952-Develop-
+카드마	Kadma	1	49500013-ShadowExpedition-
+카드마술사	Card Magician	3	90000276-Develop-
+카라	Kara	1	11004714-Wedding-
+카라디	Kharadi	1	11004491-Kritias_2018_12-
+카랑	Karang	1	11004649-Kritias_Epic02-
+카모크	Kamok	16	90000965-Develop-
+카붐바	Cabomba	1	11004483-Kritias_2018_12-
+카세라스	Kaseras	1	49300012-ShadowExpedition-
+카즈	Kaz	1	11004453-Kritias_2018_12-
+카츠	Katsu	1	11004656-Kritias_Epic02-
+카쿠스 보안관	Cactus Sheriff	1	49500007-ShadowExpedition-
+카쿠스 복서	Cactus Boxer	1	49202001-ShadowExpedition-
+캄캄아이	Dark Eye	1	21450018-DarkTear-
+캡틴 프리츠	Captain Fritz	1	49300008-ShadowExpedition-
+캣핑크스	Cat Sphinx	5	90000545-Develop-
+컨트러 건	Contra Gun	1	49500001-ShadowExpedition-
+컨트러 포크	Contra Fork	1	49000003-ShadowExpedition-
+컨트리 비크	Country Beak	1	49200002-ShadowExpedition-
+컴뱃 메이드 BS	Combat Maid BS	1	21450006-BlackOnyx-
+컴뱃 메이드 NF	 Combat Maid NF	1	21450005-BlackOnyx-
+컴벳 메이드	Combat Maid	1	21001010-Timaion01-
+케르베스 검	Cerberus Swordsman	1	90000085-Develop-
+케르베스 검 그린	Cerberus Swordsman (Green)	1	90000089-Develop-
+케르베스 검 퍼플	Cerberus Swordsman (Purple)	1	90000093-Develop-
+케르베스 경비대장	Kharon Guard Captain	1	25023100-Kritias02-
+케르베스 경비병	Kharon Guard	1	25023101-Kritias02-
+케르베스 근위대	Cerberus Royal Guard	9	25022816-Kritias02-
+케르베스 도살자	Cerberus Butcher	1	25022301-Kritias02-
+케르베스 돌격대장 쿠몬	Cerberus Assault Commander Kumon	1	25022811-Kritias02-
+케르베스 무법자	Kharon Outlaw	1	25020506-Kritias_2018_12-
+케르베스 수류탄	Cerberus Grenadier	1	90000087-Develop-
+케르베스 수류탄 그린	Cerberus Grenadier (Green)	1	90000091-Develop-
+케르베스 수류탄 퍼플	Cerberus Grenadier (Purple)	1	90000095-Develop-
+케르베스 암살자	Cerberus Assassin	1	25022207-Kritias02-
+케르베스 이인자 칼리아	Cerberus Second-in-Command Kalia	1	25022900-Kritias02-
+케르베스 인간 사냥꾼	Cerberus Manhunter	1	25022300-Kritias02-
+케르베스 장교	Cerberus Officer	1	90000088-Develop-
+케르베스 장교 그린	Cerberus Officer (Green)	1	90000092-Develop-
+케르베스 장교 퍼플	Cerberus Officer (Purple)	1	90000096-Develop-
+케르베스 전사	Kerbes Warrior	13	21010093-Develop-
+케르베스 전술대장 투샨	Cerberus Tactical Commander Tushan	1	25022801-Kritias02-
+케르베스 총	Cerberus Gunner	1	90000086-Develop-
+케르베스 총 그린	Cerberus Gunner (Green)	1	90000090-Develop-
+케르베스 총 퍼플	Cerberus Gunner (Purple)	1	90000094-Develop-
+케이안	Keian	1	11004542-Kritias_2018_12-
+켄타리온 정찰병	Centauroid Scout	1	25020205-Kritias_2018_12-
+켄타리온 퍼플	Kentarion Purple	1	90000114-Develop-
+코리네	Coryne	1	11004472-Kritias_2018_12-
+코아	Koa	1	11003803-Timaion01-
+콜로라타	Colorata	1	11004470-Kritias_2018_12-
+쾅쾅 토이 커맨더	Boomboom Toy Commander	1	21000413-Develop-
+쿠바	Kuba	1	11003808-Timaion01-
+쿠보	Kubo	1	23000053-Develop-
+쿠스만	Kusman	1	11004618-Fame_Geo01-
+쿠우쿠	Kuuku	1	90000038-Develop-
+쿠우쿠 블루	Kuuku Blue	1	90000039-Develop-
+쿠우쿠 퍼플	Kuuku Purple	1	90000040-Develop-
+쿠쿠랑	Kukurang	1	11004650-Kritias_Epic02-
+퀸크빈	Queen Bean	1	11004285-Colosseum01-
+퀸크빈럼블_마드리아_소환_루카락스	QuinBeanRumble_Madria_Summon_Lucarax	1	60000308-Colosseum02-
+크리스탈 부양기계	Crystal Levitation Machine	3	21001027-Develop-
+크리스탈 전투기계	Crystal Battle Machine	2	21001028-Develop-
+크리티아스 고대 지도	Ancient Map of Kritias	1	11003768-Timaion01-
+크리티아스 기계 병사	Kritias Machine Soldier	5	21010038-Develop-
+크리티아스 꿈틀이	Kritias Wriggler	3	21010046-Develop-
+크리티아스 딱정벌레	Kritias Beetle	3	21010043-Develop-
+크리티아스 라플레시아	Kritias Rafflesia	3	21010051-Develop-
+크리티아스 슬라임	Kritias Slime	2	21010022-Develop-
+크리티아스 식생	Kritias Flora	3	90000043-Develop-
+크리티아스 아룸	Kritias Arum	2	21010049-Develop-
+크리티아스 애벌레	Kritias Caterpillar	3	21010054-Develop-
+크리티아스 오염된 원주민	Corrupted Kritias Native	1	21010027-Develop-
+크리티아스 원주민	Kritias Native	14	21010024-Develop-
+크립토	Crypto	1	11004471-Kritias_2018_12-
+큰 올빼미	Large Owl	4	90000746-Develop-
+큰돼지	Big Pig	6	90000130-Develop-
+큰뿔버섯	Large Horned Mushroom	2	90000124-Develop-
+클라디아	Claudia	6	11004385-Kritias_Epic01-
+클라디아 어머니에 대한 기록. p38	Record on Claudia's Mother. p. 38	1	11004632-Kritias_Epic03-
+클락빗	Clackbit	1	49104002-ShadowExpedition-
+클로	Crowe	1	11004398-Kritias_Epic01-
+클로리스	Chloris	1	11004710-Wedding-
+클로버 위자드	Clover Wizard	1	49500009-ShadowExpedition-
+클로버 카드	Club Card	1	21000828-Timaion01-
+키라	Kira	2	11004399-Kritias_Epic01-
+타락의 아르케온	Corrupted Archeon	1	29500102-Timaion01-
+타락의 에고웨폰 광전사	Corrupted Ego Weapon Berserker	1	29500007-Timaion01-
+타락의 에고웨폰 궁수	Corrupted Ego Weapon Archer	1	29500010-Timaion01-
+타락의 에고웨폰 마법사	Corrupted Ego Weapon Mage	1	29500009-Timaion01-
+타락의 에고웨폰 암살자	Corrupted Ego Weapon Assassin	1	29500008-Timaion01-
+타락의 에고웨폰 전사	Corrupted Ego Weapon Warrior	1	29500006-Timaion01-
+타락한 꿈틀이	Fallen Worm	1	29000343-Timaion01-
+타락한 버럭이 모랑	Corrupted Buraki Morang	1	25023202-Kritias02-
+타락한 쉘라	Corrupted Sheila	4	11003773-Timaion01-
+타락한 애니	Corrupted Annie	5	11003771-Timaion01-
+타락한 쟝	Corrupted Jean	5	11003770-Timaion01-
+타락한 코니	Fallen Connie	1	29000341-Timaion01-
+타락한 크롤	Corrupted Croll	5	11003772-Timaion01-
+타락한 테니	Fallen Teni	1	29000340-Timaion01-
+타락한 틱택톡	Fallen Tic Tac Toc	1	29000342-Timaion01-
+타이렌 3급 MK-7	Tairen Grade 3 MK-7	1	25023004-Kritias02-
+타이렌 3급 골리온	Tairen Grade 3 Gorilion	1	25023002-Kritias02-
+타이렌 3급 켄타리온	Tairen Grade 3 Centauroid	1	25023000-Kritias02-
+타이렌 3급 킬러 휴롯	Tairen Grade 3 Huborg Killer	1	25023003-Kritias02-
+타이렌 3급 헤비휴롯	Tairen Grade 3 Huborg Brawler	1	25023001-Kritias02-
+타이렌 근위대	Tyren Royal Guard	21	21010081-Develop-
+타이렌 근위대 장교	Tairen Guard Officer	1	90000076-Develop-
+타이렌 근위대 장교 레드	Tairen Guard Officer (Red)	1	90000084-Develop-
+타이렌 근위대 장교 퍼플	Tairen Guard Officer (Purple)	1	90000080-Develop-
+타이렌 돌격병	Tairen Shock Trooper	1	25020101-Kritias_2018_12-
+타이렌 돌격병사	Tairen Shock Trooper	1	25020404-Kritias_2018_12-
+타이렌 마도 요원	Tieren Magic Agent	1	25022204-Kritias02-
+타이렌 마도병사	Tairen Manatrooper	1	25020406-Kritias_2018_12-
+타이렌 병사	Tyren Soldier	13	21010069-Develop-
+타이렌 병사 너클 퍼플	Tairen Soldier Knuckle Purple	1	90000069-Develop-
+타이렌 병사 넉클 그린	Tairen Soldier Knuckle Green	1	90000065-Develop-
+타이렌 병사 라이플	Tairen Soldier Rifle	1	90000062-Develop-
+타이렌 병사 라이플 그린	Tairen Soldier Rifle Green	1	90000066-Develop-
+타이렌 병사 라이플 퍼플	Tairen Soldier Rifle Purple	1	90000070-Develop-
+타이렌 병사 완드 그린	Tairen Soldier Wand Green	1	90000067-Develop-
+타이렌 병사 완드 퍼플	Tairen Soldier Wand Purple	1	90000071-Develop-
+타이렌 병사 장교	Tairen Soldier Officer	1	90000064-Develop-
+타이렌 병사 장교 그린	Tairen Soldier Officer Green	1	90000068-Develop-
+타이렌 병사 장교 퍼플	Tairen Soldier Officer (Purple)	1	90000072-Develop-
+타이렌 전투병	Tairen Combatant	1	25020103-Kritias_2018_12-
+타이렌 특전병	Tieren Elite Trooper	1	25022200-Kritias02-
+타이렌군사1	Tairen Soldier 1	1	11004621-Kritias_Epic03-
+타이렌군사2	Tairen Soldier 2	1	11004622-Kritias_Epic03-
+타이렌군사3	Tairen Soldier 3	1	11004623-Kritias_Epic03-
+타이렌병사 완드	Tairen Soldier Wand	1	90000063-Develop-
+타이키	Taiki	1	11003657-Timaion01-
+탐욕의 탐식이	Greedy Glutton	1	25022001-Kritias_2018_12-
+테네루스	Tenellus	1	11004473-Kritias_2018_12-
+테사	Tessa	1	11004574-Kritias_Epic02-
+테이머	Tamer	6	90000564-Develop-
+토끼 인형	Rabbit Doll	2	90000264-Develop-
+토끼붕대	Rabbit Bandage	9	90000838-Develop-
+토템 보석	Totem Gem	3	90000727-Develop-
+토템 서클	Totem Circle	3	90000730-Develop-
+투르카 군단 광전사	Turka Legion Berserker	2	21010205-Kritias_Turka02-
+투르카 군단 마법사	Turka Legion Mage	2	21010204-Kritias_Turka02-
+투르카 군단 살수	Turka Legion Assassin	2	21010203-Kritias_Turka02-
+투르카 군단 상급 알렉	Turka Legion Alek (Senior)	2	21010208-Kritias_Turka02-
+투르카 군단 저글링	Turka Legion Juggler	2	21010201-Kritias_Turka02-
+투르카 군단 전투견	Turka Legion Battle Hound	2	21010202-Kritias_Turka02-
+투르카 군단 중급 알렉	Turka Legion Alek (Intermediate)	2	21010207-Kritias_Turka02-
+투르카 군단 하급 알렉	Turka Legion Alek (Junior)	2	21010206-Kritias_Turka02-
+투르카 군단 회랑 사령관	Turka Legion Corridor Commander	10	21010210-Kritias_Turka02-
+투르카 군단 회랑 지휘관	Turka Legion Corridor Officer	10	21010209-Kritias_Turka02-
+투르카 던전 쫄몹 A타입	Turka Dungeon Minion Type A	1	90001291-Develop-
+투르카 던전 쫄몹 B타입	Turka Dungeon Minion Type B	1	90001292-Develop-
+투르카 던전 쫄몹 C타입	Turka Dungeon Minion Type C	1	90001293-Develop-
+투르카_공격 반사	Turka_Attack Reflect	1	23999142-Develop-
+투르카_기폭발	Tourka_Energy Burst	1	23999127-Develop-
+투르카_낫 내려찍기	Tourka_Scythe Smash	1	23999121-Develop-
+투르카_낫 휘두르기	Tourka_Scythe Swing	1	23999120-Develop-
+투르카_마력구슬 1단계	Tourka_Mana Orb Phase 1	1	23999132-Develop-
+투르카_마력구슬 2단계	Tourka_Mana Orb Phase 2	1	23999133-Develop-
+투르카_마력구슬 3단계	Tourka_Mana Orb Phase 3	1	23999134-Develop-
+투르카_마력구슬 기본	Tourka_Mana Orb Basic	1	23999131-Develop-
+투르카_메테오	Tourka_Meteor	1	23999130-Develop-
+투르카_바닥 레이저	Tourka_Ground Laser	1	23999124-Develop-
+투르카_분신졸몹	Tourka_Clone Minion	1	23999135-Develop-
+투르카_상태이상, 메테오	Tourka_Status Effect, Meteor	1	23999123-Develop-
+투르카_소녀 버프투척	Turka_Girl Buff Toss	1	23999140-Develop-
+투르카_소녀 회오리	Turka_Girl Whirlwind	1	23999141-Develop-
+투르카_소닉붐, 원필드	Tourka_Sonic Boom, Single Field	1	23999122-Develop-
+투르카_순간이동	Tourka_Teleport	1	23999129-Develop-
+투르카_얼굴 발사 바닥	Tourka_Face Projectile Ground	1	23999126-Develop-
+투르카_잡기 공격	Tourka_Grab Attack	1	23999128-Develop-
+투르카_회전 레이저	Tourka_Rotating Laser	1	23999125-Develop-
+투르카의심복	Turka's Henchman	1	21010066-Develop-
+툰툰	Tuntun	1	24002650-EventMassiveDungeon-
+트레판	Treppan	1	11004518-Kritias_2018_12-
+트로웰	Trowal	1	21200016-Timaion01-
+티마이온 번개 Dummy	Timaion Thunder Dummy	1	23504106-Kritias_Turka02-
+티마이온의 회랑 수호자	Timaion's Corridor Guardian	2	23504011-Kritias_Turka02-
+틱택톡	Tick-Tick-Tock	1	11003610-Timaion01-
+틱토그	Chronos	3	11003603-Timaion01-
+파괴된 라펜타 추출기	Destroyed Lapenta Extractor	1	11004546-Kritias_2018_12-
+파란 뿔파리	Blue Horned Fly	1	21000913-Develop-
+파란 파리병사	Blue Fly Soldier	1	21000910-Develop-
+파렌니스	Farennis	1	11004459-Kritias_2018_12-
+파리병사	Fly Soldier	3	90000733-Develop-
+파얀	Payan	1	11004619-Fame_Geo01-
+파티던전엘리트	Party Dungeon Elite	4	90000208-Develop-
+판타날	Pantanal	1	11004492-Kritias_2018_12-
+퍼플 타이렌 강화병	Purple Tairen Super Soldier	1	25021302-Kritias_2018_12-
+퍼플 타이렌 근위기사	Purple Tairen Court Guard	1	25021305-Kritias_2018_12-
+퍼플 타이렌 근위대	Purple Tairen Guardsman	1	25021304-Kritias_2018_12-
+퍼플 타이렌 근위마도병	Purple Tairen Arcanist	1	25021309-Kritias_2018_12-
+퍼플 타이렌 돌격병	Purple Tairen Shock Trooper	1	25021301-Kritias_2018_12-
+퍼플 타이렌 전투병	Purple Tairen Combatant	1	25021303-Kritias_2018_12-
+페르젠	Ferzen	1	11004757-Wedding-
+포가튼 록	Forgotten Rook	1	21200038-Timaion01-
+포가튼 비숍	Forgotten Bishop	1	21200039-Timaion01-
+포가튼 폰	Forgotten Pawn	1	21200040-Timaion01-
+포겟	Forgotten	1	11003602-Timaion01-
+포드	Ford	1	11003796-Timaion01-
+포레인 맹독 놀라쥬	Venomous Forain Waspling	1	25022113-Kritias_2018_12-
+포레인 맹독 쿠우쿠	Poison Forain Leecher	1	25022114-Kritias_2018_12-
+포아	Poa	1	11000939-Develop-
+포악한 검은군단 파수견	Vicious Dark Legion Guard Dog	1	25022302-Kritias02-
+포악한 메카티라노	Savage Mecha Tyrano	1	25021106-Kritias_2018_12-
+포악한 케르베스 돔	Ferocious Cerberus Dom	1	25022901-Kritias02-
+포잉	Poing	9	11004342-Kritias_2018_12-
+포탑	Turret	1	90001162-Develop-
+폭주한 폭스트롯	Rampaging Foxtrot	1	25022604-Kritias02-
+푸드덕	Pudduk	1	49004002-ShadowExpedition-
+푸실라	Pusilla	1	11004494-Kritias_2018_12-
+푹신한 침대	Soft Bed	1	11003589-Timaion01-
+프랭	Frank	1	11004699-BlackOnyx-
+프로미	Promi	1	11004755-Wedding-
+프로즌 랍피온	Frozen Lappion	1	49300010-ShadowExpedition-
+플라워 카쿠스	Flower Cactus	1	49002001-ShadowExpedition-
+플라즈마 포탑	Plasma Turret	2	25200109-Kritias_Turka01-
+플러리	Flurry	1	11004771-Wedding-
+피곤한 아룸	Tired Arum	1	25020705-Kritias_2018_12-
+피리스 연출용	Pyris (Cutscene)	1	90001267-Develop-
+피에트로	Pietro	1	11003378-SpecialRandomShop-
+피코	Piko	1	11004450-Kritias_2018_12-
+핀다넬	Findanel	1	11004519-Kritias_2018_12-
+핌	Fim	2	90000201-Develop-
+핑크빈 경비병	Pink Bean Guard	1	11004286-Colosseum01-
+핑크빈_ HP 1 폭발	Pink Bean_HP 1 Explosion	1	23991091-Develop-
+핑크빈_공격반사 버프	Pink Bean_Attack Reflect Buff	1	23991098-Develop-
+핑크빈_기타치기	Pink Bean_Guitar Strike	1	23991095-Develop-
+핑크빈_롤링어택	Pink Bean_Rolling Attack	1	23991088-Develop-
+핑크빈_빛기둥 마법	Pink Bean_Pillar of Light Magic	1	23991092-Develop-
+핑크빈_석상에게 덩치커짐	Pink Bean_Grow Big at Statue	1	23991099-Develop-
+핑크빈_스카이콩콩	Pink Bean_Pogo Jump	1	23991089-Develop-
+핑크빈_스피커폰	Pink Bean_Speakerphone	1	23991093-Develop-
+핑크빈_요요 던지기	Pink Bean_Yo-yo Throw	1	23991090-Develop-
+핑크빈_점프이동	Pink Bean_Jump Move	1	23991100-Develop-
+핑크빈_춤추며 음악폭발	Pink Bean_Dancing Music Blast	1	23991097-Develop-
+핑크빈_컨트롤러	Pink Bean_Controller	1	23991096-Develop-
+핑크빈_호루라기	Pink Bean_Whistle	1	23991094-Develop-
+하급 알렉	Lesser Allek	2	21502221-Kritias_Turka03-
+하냥 캣핑크스	Blue Catpinks	1	21000672-Develop-
+하렌	Haren	8	11003181-Timaion01-
+하마소	Hippo Cow	4	90000295-Develop-
+하이에나	Hyena	6	90000176-Develop-
+하인들	Servant	1	11004713-Wedding-
+하트 카드	Heart Card	1	21000829-Timaion01-
+하트 프리스트	Heart Priest	1	49500010-ShadowExpedition-
+한 맺힌 솔로 악령	Single Evil Spirit	1	27000052-Wedding-
+해골	Skeleton	24	90000229-Develop-
+해적	Pirate	4	90001102-Develop-
+해적부선장	Pirate First Mate	1	90001256-Develop-
+해킹당한 MK-I-S	Hacked MK I-S	1	25020203-Kritias_2018_12-
+해킹당한 켄타리온	Hacked Centauroid	1	25020206-Kritias_2018_12-
+허크봇	Herkbot	1	49000001-ShadowExpedition-
+헬렌	Helen	1	11004572-Kritias_Epic02-
+헬스몬	Helthmon	2	90000880-Develop-
+혼란스러운 놀라쥬	Confused Nollazh	1	25022502-Kritias02-
+홀로그램 소녀	Hologram Girl	5	21502291-Kritias_Turka03-
+홍냥 캣핑크스	Red Catpinks	1	21000670-Develop-
+화난 슝슝모랑	Angry Leshy Rascal	1	25020502-Kritias_2018_12-
+화려한 차림의 남자	Glamorous Man	1	11003667-Timaion01-
+환영의 마크52	Phantom Mark 52	1	11004824-EpicApocalypse01-
+환영의 바야르	Phantom Bayar	1	11004823-EpicApocalypse01-
+환영의 부부스	Phantom Bubuss	1	11004821-EpicApocalypse01-
+환영의 호루스	Phantom Horus	1	11004822-EpicApocalypse01-
+환자 머미묘	Patient Mummycat	1	49001003-ShadowExpedition-
+황금 토끼	Golden Rabbit	1	21000750-Timaion01-
+회중 시계	Pocket watch	1	11003609-Timaion01-
+훈련 중인 케르베스 돔	Cerberus Dom in Training	1	25022307-Kritias02-
+훈련병	Recruit	1	11004500-Kritias_2018_12-
+흐뭇	Happy	4	11004707-Wedding-
+흑성회 감시 로봇 제로 D1	Blackstar Sentinel Robot Ace D1	1	22600001-BlackOnyx-
+흑성회 서포터 메이드	Black Star Supporter Maid	3	21200020-Timaion01-
+흑성회 특수 조직원	Black Star Society Special Operative	2	90001317-Develop-
+흑화 에고 웨폰 궁수	Dark Ego Weapon Ranger	4	25200102-Kritias_Turka01-
+흑화 에고 웨폰 마법사	Corrupted Ego Weapon Mage	4	25200103-Kritias_Turka01-
+흑화 에고 웨폰 전사	Dark Ego Weapon Warrior	4	25200101-Kritias_Turka01-
+흑화 에고 웨폰 정예병	Corrupted Ego Weapon Elite Soldier	4	25200104-Kritias_Turka01-
+흑화 에고웨폰 궁수	Corrupted Ego Weapon Archer	1	21010035-Develop-
+흑화 에고웨폰 마법사	Corrupted Ego Weapon Mage	1	21010037-Develop-
+흑화 에고웨폰 암살자	Corrupted Ego Weapon Assassin	1	21010034-Develop-
+흑화 에고웨폰 전사	Corrupted Ego Weapon Warrior	1	21010033-Develop-
+흑화 에고웨폰 정복자	Corrupted Ego Weapon Conqueror	1	21010036-Develop-
+흑화한 에고웨폰 궁수	Dark Ego Weapon Archer	1	21200032-Timaion01-
+흑화한 에고웨폰 마법사	Dark Ego Weapon Wizard	1	21200034-Timaion01-
+흑화한 에고웨폰 암살자	Dark Ego Weapon Assassin	1	21200033-Timaion01-
+흑화한 에고웨폰 전사	Dark Ego Weapon Warrior	1	21200031-Timaion01-
+힘센 튼튼모랑	Powerful Leshy Brute	1	25020901-Kritias_2018_12-

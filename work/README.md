@@ -7,6 +7,13 @@ work/
 ├── scripts/            # 汎用ツール
 │   ├── lookup.py       # 対訳コーパス検索 (python work/scripts/lookup.py <語>)
 │   └── build_corpus.py # dict/corpus/itemname-pairs.tsv の再生成
+├── npcname/            # 2026-08-11 NPC・モンスター名翻訳セッション
+│   ├── real_names.txt     # 実コンテンツ名1,184種の抽出(KO/EN対訳)
+│   ├── dev_names.txt      # 開発用324種(バランステスト等)
+│   ├── npc_map.json       # KO名 → JA(既訳TM準拠: ポイン/クゥーク/ゲッコー等)
+│   ├── tm_hits.json       # TM完全一致分
+│   ├── plural_map.json    # plural側のみに存在する85種
+│   └── apply_npcname.py   # 適用(npcnameplural は単数訳+:s で自動生成)
 ├── skillname/          # 2026-08-11 スキル名翻訳セッション
 │   ├── extract.txt        # プレースホルダー158件の抽出(KR/CN/EN対訳)
 │   ├── skillname_ja.json  # キー → JA(144件適用。KRはバフデータから復元)
