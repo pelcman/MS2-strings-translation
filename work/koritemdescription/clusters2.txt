@@ -1,0 +1,360 @@
+@@RUNE-1 count=2 key=31001134-EpicEnchantScroll5099A- field=guideDescription item=+11 エピックエンチャントルーン(帽子)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 모자 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +11 인챈트 아이템이 된다.
+EN|Double-click the Rune Stone to Enchant equipment.\nCan only be used with Enchantable Normal, Rare, Exceptional, Epic, Legendary, and Epic grade hat equipment. Using it has a 100% chance of changing the item into a +11 Enchanted item.
+
+@@RUNE-2 count=2 key=31001082-EpicEnchantScroll5099A- field=guideDescription item=+9 エピックエンチャントルーン(帽子)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 모자 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +9 인챈트 아이템이 된다.
+EN|Double-click to use a Rune Stone to enchant equipment.\nCan be used only on enchantable Normal, Rare, Exceptional, Epic, and Legendary grade hat equipment. When used, the item has a 100% chance to become a +9 enchanted item.
+
+@@RUNE-3 count=2 key=31001135-EpicEnchantScroll5099A- field=guideDescription item=+11 エピックエンチャントルーン(上)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 상의 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +11 인챈트 아이템이 된다.
+EN|Double-click the Rune Stone to Enchant equipment.\nCan only be used with Enchantable Normal, Rare, Exceptional, Epic, Legendary, and Epic grade top equipment. Using it has a 100% chance of changing the item into a +11 Enchanted item.
+
+@@RUNE-4 count=2 key=31001083-EpicEnchantScroll5099A- field=guideDescription item=+9 エピックエンチャントルーン(上)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 상의 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +9 인챈트 아이템이 된다.
+EN|Double-click to use a Rune Stone to enchant equipment.\nCan be used only on enchantable Normal, Rare, Exceptional, Epic, and Legendary grade top equipment. When used, the item has a 100% chance to become a +9 enchanted item.
+
+@@RUNE-5 count=2 key=31001138-EpicEnchantScroll5099A- field=guideDescription item=+11 エピックエンチャントルーン(靴)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 신발 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +11 인챈트 아이템이 된다.
+EN|Double-click the Rune Stone to Enchant equipment.\nCan only be used with Enchantable Normal, Rare, Exceptional, Epic, Legendary, and Epic grade shoe equipment. Using it has a 100% chance of changing the item into a +11 Enchanted item.
+
+@@RUNE-6 count=2 key=31001086-EpicEnchantScroll5099A- field=guideDescription item=+9 エピックエンチャントルーン(靴)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 신발 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +9 인챈트 아이템이 된다.
+EN|Double-click to use a Rune Stone to enchant equipment.\nCan be used only on enchantable Normal, Rare, Exceptional, Epic, and Legendary grade boots equipment. When used, the item has a 100% chance to become a +9 enchanted item.
+
+@@RUNE-7 count=2 key=31001132-EpicEnchantScroll5099A- field=guideDescription item=+11 エピックエンチャントルーン(双手)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 쌍수 무기 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +11 인챈트 아이템이 된다.
+EN|Double-click to use a Rune Stone to enchant equipment.\nCan only be used on Normal, Rare, Exceptional, Epic, Legendary, and Epic-grade dual-handed weapon equipment, and when used, the item has a 100% chance of becoming a +11 enchanted item.
+
+@@RUNE-8 count=2 key=31001080-EpicEnchantScroll5099A- field=guideDescription item=+9 エピックエンチャントルーン(双手)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 쌍수 무기 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +9 인챈트 아이템이 된다.
+EN|Double-click to use a Rune Stone to enchant equipment.\nCan be used only on enchantable Normal, Rare, Exceptional, Epic, and Legendary grade dual weapon equipment. When used, the item has a 100% chance to become a +9 enchanted item.
+
+@@RUNE-9 count=2 key=31001133-EpicEnchantScroll5099A- field=guideDescription item=+11 エピックエンチャントルーン(両手)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 양손 무기 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +11 인챈트 아이템이 된다.
+EN|Double-click to use a Rune Stone to enchant equipment.\nCan only be used on Normal, Rare, Exceptional, Epic, Legendary, and Epic-grade two-handed weapon equipment, and when used, the item has a 100% chance of becoming a +11 enchanted item.
+
+@@RUNE-10 count=2 key=31001081-EpicEnchantScroll5099A- field=guideDescription item=+9 エピックエンチャントルーン(両手)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 양손 무기 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +9 인챈트 아이템이 된다.
+EN|Double-click to use a Rune Stone to enchant equipment.\nCan be used only on enchantable Normal, Rare, Exceptional, Epic, and Legendary grade two-handed weapon equipment. When used, the item has a 100% chance to become a +9 enchanted item.
+
+@@RUNE-11 count=2 key=31001137-EpicEnchantScroll5099A- field=guideDescription item=+11 エピックエンチャントルーン(グローブ)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 장갑 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +11 인챈트 아이템이 된다.
+EN|Double-click the Rune Stone to Enchant equipment.\nCan only be used with Enchantable Normal, Rare, Exceptional, Epic, Legendary, and Epic grade glove equipment. Using it has a 100% chance of changing the item into a +11 Enchanted item.
+
+@@RUNE-12 count=2 key=31001085-EpicEnchantScroll5099A- field=guideDescription item=+9 エピックエンチャントルーン(グローブ)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 장갑 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +9 인챈트 아이템이 된다.
+EN|Double-click to use a Rune Stone to enchant equipment.\nCan be used only on enchantable Normal, Rare, Exceptional, Epic, and Legendary grade gloves equipment. When used, the item has a 100% chance to become a +9 enchanted item.
+
+@@RUNE-13 count=2 key=31001136-EpicEnchantScroll5099A- field=guideDescription item=+11 エピックエンチャントルーン(下)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 하의 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +11 인챈트 아이템이 된다.
+EN|Double-click the Rune Stone to Enchant equipment.\nCan only be used with Enchantable Normal, Rare, Exceptional, Epic, Legendary, and Epic grade lower-garment equipment. Using it has a 100% chance of changing the item into a +11 Enchanted item.
+
+@@RUNE-14 count=2 key=31001084-EpicEnchantScroll5099A- field=guideDescription item=+9 エピックエンチャントルーン(下)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 하의 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +9 인챈트 아이템이 된다.
+EN|Double-click to use a Rune Stone to enchant equipment.\nCan be used only on enchantable Normal, Rare, Exceptional, Epic, and Legendary grade bottom equipment. When used, the item has a 100% chance to become a +9 enchanted item.
+
+@@RUNE-15 count=2 key=31001131-EpicEnchantScroll5099A- field=guideDescription item=+11 エピックエンチャントルーン(片手)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 한손 무기 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +11 인챈트 아이템이 된다.
+EN|Double-click to use a Rune Stone to enchant equipment.\nCan only be used on Normal, Rare, Exceptional, Epic, Legendary, and Epic-grade one-handed weapon equipment, and when used, the item has a 100% chance of becoming a +11 enchanted item.
+
+@@RUNE-16 count=2 key=31001079-EpicEnchantScroll5099A- field=guideDescription item=+9 エピックエンチャントルーン(片手)
+KO|더블클릭으로 룬스톤을 사용해 장비를 인챈트 할 수 있다.\n인챈트 가능한 노멀, 레어, 엘리트, 엑설런트, 레전더리, 에픽 등급 한손 무기 장비에만 사용할 수 있으며, 사용 시 100% 확률로 해당 아이템이 +9 인챈트 아이템이 된다.
+EN|Double-click to use a Rune Stone to enchant equipment.\nCan be used only on enchantable Normal, Rare, Exceptional, Epic, Legendary, and Epic grade one-handed weapon equipment. When used, the item has a 100% chance to become a +9 enchanted item.
+
+@@OPT-1 count=1 key=31002024-Level70Item- field=guideDescription item=レジェンダリーイヤリングオプション数値変更券(LV70)
+KO|더블클릭으로 옵션 변경권을 사용할 수 있다.\n\n<font color="#FFFFFF">70레벨 레전더리 등급의 귀고리에만 사용할 수 있으며, 사용 시 추가 옵션 수치만 변경된다.</font>\n\n<font color="#FF5F5F">옵션 변경권을 통하여 옵션 변경을 할 경우에는 추가 옵션 변경 횟수가 증가되지 않습니다.\n추가 옵션이 없거나 추가 옵션 변경 횟수가 표시되지 않는 아이템은 사용할 수 없습니다.\n옵션 변경권을 통하여 옵션을 변경할 경우에는 동일한 수치가 나올 수 있습니다.</font>
+EN|Double-click to change an item's bonus attributes.\n<font color="#FFFFFF">Only usable on legendary quality level 70 earrings. Values of the target item's bonus attributes will change upon use.</font>\n\n<font color="#FF5F5F">Does not affect attribute change count. Not usable on items without bonus attributes, or which do not display an attribute change counter. It is possible to roll the same attribute values as before the change.</font>
+
+@@OPT-2 count=1 key=31002022-Level70Item- field=guideDescription item=レジェンダリーマントオプション数値変更券(LV70)
+KO|더블클릭으로 옵션 변경권을 사용할 수 있다.\n\n<font color="#FFFFFF">70레벨 레전더리 등급의 망토에만 사용할 수 있으며, 사용 시 추가 옵션 수치만 변경된다.</font>\n\n<font color="#FF5F5F">옵션 변경권을 통하여 옵션 변경을 할 경우에는 추가 옵션 변경 횟수가 증가되지 않습니다.\n추가 옵션이 없거나 추가 옵션 변경 횟수가 표시되지 않는 아이템은 사용할 수 없습니다.\n옵션 변경권을 통하여 옵션을 변경할 경우에는 동일한 수치가 나올 수 있습니다.</font>
+EN|Double-click to change an item's bonus attributes.\n<font color="#FFFFFF">Only usable on legendary quality level 70 capes. Values of the target item's bonus attributes will change upon use.</font>\n\n<font color="#FF5F5F">Does not affect attribute change count. Not usable on items without bonus attributes, or which do not display an attribute change counter. It is possible to roll the same attribute values as before the change.</font>
+
+@@OPT-3 count=1 key=31001536-Level70Item- field=guideDescription item=レジェンダリーオプション数値変更券(LV70/防具)
+KO|더블클릭으로 옵션 변경권을 사용할 수 있다.\n\n<font color="#FFFFFF">70레벨 레전더리 등급의 모자, 상의, 하의, 한벌, 장갑, 신발에만 사용할 수 있으며, 사용 시 추가 옵션 수치만 변경된다.</font>\n\n<font color="#FF5F5F">옵션 변경권을 통하여 옵션 변경을 할 경우에는 추가 옵션 변경 횟수가 증가되지 않습니다.\n추가 옵션이 없거나 추가 옵션 변경 횟수가 표시되지 않는 아이템은 사용할 수 없습니다.\n옵션 변경권을 통하여 옵션을 변경할 경우에는 동일한 수치가 나올 수 있습니다.</font>
+EN|Double-click to change an item's bonus attributes.\n<font color="#FFFFFF">This voucher can only be used on level 70 legendary hats, tops, bottoms, suits, gloves, and shoes. The value of the item's bonus attribute will change upon use.</font>\n\n<font color="#FF5F5F">Does not affect attribute change count. Not usable on items without bonus attributes, or which do not display an attribute change counter. It is possible to roll the same attribute types and values as before the change.</font>
+
+@@OPT-4 count=1 key=31002025-Level70Item- field=guideDescription item=レジェンダリーネックレスオプション数値変更券(LV70)
+KO|더블클릭으로 옵션 변경권을 사용할 수 있다.\n\n<font color="#FFFFFF">70레벨 레전더리 등급의 목걸이에만 사용할 수 있으며, 사용 시 추가 옵션 수치만 변경된다.</font>\n\n<font color="#FF5F5F">옵션 변경권을 통하여 옵션 변경을 할 경우에는 추가 옵션 변경 횟수가 증가되지 않습니다.\n추가 옵션이 없거나 추가 옵션 변경 횟수가 표시되지 않는 아이템은 사용할 수 없습니다.\n옵션 변경권을 통하여 옵션을 변경할 경우에는 동일한 수치가 나올 수 있습니다.</font>
+EN|Double-click to change an item's bonus attributes.\n<font color="#FFFFFF">Only usable on legendary quality level 70 necklaces. Values of the target item's bonus attributes will change upon use.</font>\n\n<font color="#FF5F5F">Does not affect attribute change count. Not usable on items without bonus attributes, or which do not display an attribute change counter. It is possible to roll the same attribute values as before the change.</font>
+
+@@OPT-5 count=1 key=31002026-Level70Item- field=guideDescription item=レジェンダリー指輪オプション数値変更券(LV70)
+KO|더블클릭으로 옵션 변경권을 사용할 수 있다.\n\n<font color="#FFFFFF">70레벨 레전더리 등급의 반지에만 사용할 수 있으며, 사용 시 추가 옵션 수치만 변경된다.</font>\n\n<font color="#FF5F5F">옵션 변경권을 통하여 옵션 변경을 할 경우에는 추가 옵션 변경 횟수가 증가되지 않습니다.\n추가 옵션이 없거나 추가 옵션 변경 횟수가 표시되지 않는 아이템은 사용할 수 없습니다.\n옵션 변경권을 통하여 옵션을 변경할 경우에는 동일한 수치가 나올 수 있습니다.</font>
+EN|Double-click to change an item's bonus attributes.\n<font color="#FFFFFF">Only usable on legendary quality level 70 rings. Values of the target item's bonus attributes will change upon use.</font>\n\n<font color="#FF5F5F">Does not affect attribute change count. Not usable on items without bonus attributes, or which do not display an attribute change counter. It is possible to roll the same attribute values as before the change.</font>
+
+@@OPT-6 count=1 key=31002023-Level70Item- field=guideDescription item=レジェンダリーベルトオプション数値変更券(LV70)
+KO|더블클릭으로 옵션 변경권을 사용할 수 있다.\n\n<font color="#FFFFFF">70레벨 레전더리 등급의 벨트에만 사용할 수 있으며, 사용 시 추가 옵션 수치만 변경된다.</font>\n\n<font color="#FF5F5F">옵션 변경권을 통하여 옵션 변경을 할 경우에는 추가 옵션 변경 횟수가 증가되지 않습니다.\n추가 옵션이 없거나 추가 옵션 변경 횟수가 표시되지 않는 아이템은 사용할 수 없습니다.\n옵션 변경권을 통하여 옵션을 변경할 경우에는 동일한 수치가 나올 수 있습니다.</font>
+EN|Double-click to change an item's bonus attributes.\n<font color="#FFFFFF">Only usable on legendary quality level 70 belts. Values of the target item's bonus attributes will change upon use.</font>\n\n<font color="#FF5F5F">Does not affect attribute change count. Not usable on items without bonus attributes, or which do not display an attribute change counter. It is possible to roll the same attribute values as before the change.</font>
+
+@@OPT-7 count=1 key=31001540-Level70Item- field=guideDescription item=エピックオプション数値変更券(LV70/防具)
+KO|더블클릭으로 옵션 변경권을 사용할 수 있다.\n\n<font color="#FFFFFF">70레벨 에픽 등급의 모자, 상의, 하의, 한벌, 장갑, 신발에만 사용할 수 있으며, 사용 시 추가 옵션 수치만 변경된다.</font>\n\n<font color="#FF5F5F">옵션 변경권을 통하여 옵션 변경을 할 경우에는 추가 옵션 변경 횟수가 증가되지 않습니다.\n추가 옵션이 없거나 추가 옵션 변경 횟수가 표시되지 않는 아이템은 사용할 수 없습니다.\n옵션 변경권을 통하여 옵션을 변경할 경우에는 동일한 수치가 나올 수 있습니다.</font>
+EN|Double-click to change an item's bonus attributes.\n<font color="#FFFFFF">This voucher can only be used on level 70 ascendant hats, tops, bottoms, suits, gloves, and shoes. The value of the item's bonus attribute will change upon use.</font>\n\n<font color="#FF5F5F">Does not affect attribute change count. Not usable on items without bonus attributes, or which do not display an attribute change counter. It is possible to roll the same attribute types and values as before the change.</font>
+
+@@OPT-8 count=1 key=31002019-Level70Item- field=guideDescription item=エクセレントイヤリングオプション数値変更券(LV70)
+KO|더블클릭으로 옵션 변경권을 사용할 수 있다.\n\n<font color="#FFFFFF">70레벨 엑설런트 등급의 귀고리에만 사용할 수 있으며, 사용 시 추가 옵션 수치만 변경된다.</font>\n\n<font color="#FF5F5F">옵션 변경권을 통하여 옵션 변경을 할 경우에는 추가 옵션 변경 횟수가 증가되지 않습니다.\n추가 옵션이 없거나 추가 옵션 변경 횟수가 표시되지 않는 아이템은 사용할 수 없습니다.\n옵션 변경권을 통하여 옵션을 변경할 경우에는 동일한 수치가 나올 수 있습니다.</font>
+EN|Double-click to change an item's bonus attributes.\n<font color="#FFFFFF">Only usable on epic quality level 70 earrings. Values of the target item's bonus attributes will change upon use.</font>\n\n<font color="#FF5F5F">Does not affect attribute change count. Not usable on items without bonus attributes, or which do not display an attribute change counter. It is possible to roll the same attribute types and values as before the change.</font>
+
+@@OPT-9 count=1 key=31002017-Level70Item- field=guideDescription item=エクセレントマントオプション数値変更券(LV70)
+KO|더블클릭으로 옵션 변경권을 사용할 수 있다.\n\n<font color="#FFFFFF">70레벨 엑설런트 등급의 망토에만 사용할 수 있으며, 사용 시 추가 옵션 수치만 변경된다.</font>\n\n<font color="#FF5F5F">옵션 변경권을 통하여 옵션 변경을 할 경우에는 추가 옵션 변경 횟수가 증가되지 않습니다.\n추가 옵션이 없거나 추가 옵션 변경 횟수가 표시되지 않는 아이템은 사용할 수 없습니다.\n옵션 변경권을 통하여 옵션을 변경할 경우에는 동일한 수치가 나올 수 있습니다.</font>
+EN|Double-click to change an item's bonus attributes.\n<font color="#FFFFFF">Only usable on epic quality level 70 capes. Values of the target item's bonus attributes will change upon use.</font>\n\n<font color="#FF5F5F">Does not affect attribute change count. Not usable on items without bonus attributes, or which do not display an attribute change counter. It is possible to roll the same attribute types and values as before the change.</font>
+
+@@OPT-10 count=1 key=31002020-Level70Item- field=guideDescription item=エクセレントネックレスオプション数値変更券(LV70)
+KO|더블클릭으로 옵션 변경권을 사용할 수 있다.\n\n<font color="#FFFFFF">70레벨 엑설런트 등급의 목걸이에만 사용할 수 있으며, 사용 시 추가 옵션 수치만 변경된다.</font>\n\n<font color="#FF5F5F">옵션 변경권을 통하여 옵션 변경을 할 경우에는 추가 옵션 변경 횟수가 증가되지 않습니다.\n추가 옵션이 없거나 추가 옵션 변경 횟수가 표시되지 않는 아이템은 사용할 수 없습니다.\n옵션 변경권을 통하여 옵션을 변경할 경우에는 동일한 수치가 나올 수 있습니다.</font>
+EN|Double-click to change an item's bonus attributes.\n<font color="#FFFFFF">Only usable on epic quality level 70 necklaces. Values of the target item's bonus attributes will change upon use.</font>\n\n<font color="#FF5F5F">Does not affect attribute change count. Not usable on items without bonus attributes, or which do not display an attribute change counter. It is possible to roll the same attribute types and values as before the change.</font>
+
+@@OPT-11 count=1 key=31002021-Level70Item- field=guideDescription item=エクセレント指輪オプション数値変更券(LV70)
+KO|더블클릭으로 옵션 변경권을 사용할 수 있다.\n\n<font color="#FFFFFF">70레벨 엑설런트 등급의 반지에만 사용할 수 있으며, 사용 시 추가 옵션 수치만 변경된다.</font>\n\n<font color="#FF5F5F">옵션 변경권을 통하여 옵션 변경을 할 경우에는 추가 옵션 변경 횟수가 증가되지 않습니다.\n추가 옵션이 없거나 추가 옵션 변경 횟수가 표시되지 않는 아이템은 사용할 수 없습니다.\n옵션 변경권을 통하여 옵션을 변경할 경우에는 동일한 수치가 나올 수 있습니다.</font>
+EN|Double-click to change an item's bonus attributes.\n<font color="#FFFFFF">Only usable on epic quality level 70 rings. Values of the target item's bonus attributes will change upon use.</font>\n\n<font color="#FF5F5F">Does not affect attribute change count. Not usable on items without bonus attributes, or which do not display an attribute change counter. It is possible to roll the same attribute types and values as before the change.</font>
+
+@@OPT-12 count=1 key=31002018-Level70Item- field=guideDescription item=エクセレントベルトオプション数値変更券(LV70)
+KO|더블클릭으로 옵션 변경권을 사용할 수 있다.\n\n<font color="#FFFFFF">70레벨 엑설런트 등급의 벨트에만 사용할 수 있으며, 사용 시 추가 옵션 수치만 변경된다.</font>\n\n<font color="#FF5F5F">옵션 변경권을 통하여 옵션 변경을 할 경우에는 추가 옵션 변경 횟수가 증가되지 않습니다.\n추가 옵션이 없거나 추가 옵션 변경 횟수가 표시되지 않는 아이템은 사용할 수 없습니다.\n옵션 변경권을 통하여 옵션을 변경할 경우에는 동일한 수치가 나올 수 있습니다.</font>
+EN|Double-click to change an item's bonus attributes.\n<font color="#FFFFFF">Only usable on epic quality level 70 belts. Values of the target item's bonus attributes will change upon use.</font>\n\n<font color="#FF5F5F">Does not affect attribute change count. Not usable on items without bonus attributes, or which do not display an attribute change counter. It is possible to roll the same attribute types and values as before the change.</font>
+
+@@SCROLL-1 count=2 key=31001544-Level70Item- field=guideDescription item=レジェンダリー1ソケット変換呪文書(LV70)
+KO|더블클릭으로 주문서를 사용할 수 있다.\n\n<font color="#FFFFFF">사용 시 액세서리의 빈 소켓이 1개가 된다. 소켓이 모두 잠겨 있는 70레벨 레전더리 귀고리, 목걸이, 반지에만 사용할 수 있다. \n단, 소켓 확장된 아이템은 거래 불가 상태가 되며 소켓이 추가로 확장되는 것이 아니라, 확장된 소켓 개수가 1개로 변하는 것이니 유의해서 사용해야 한다.</font>
+EN|Double-click to use the scroll.\n\n<font color="#FFFFFF">Sets the number of unlocked sockets to 1. Can only be used on level 70 legendary earrings, necklaces, and rings that have 0 sockets unlocked.  However, the item becomes untradable once the socket is unlocked. This scroll does not add unlocked sockets, but only changes the number of unlocked sockets to 1.</font>
+
+@@SCROLL-2 count=2 key=31001546-Level70Item- field=guideDescription item=エピック1ソケット変換呪文書(LV70)
+KO|더블클릭으로 주문서를 사용할 수 있다.\n\n<font color="#FFFFFF">사용 시 액세서리의 빈 소켓이 1개가 된다. 소켓이 모두 잠겨 있는 70레벨 에픽 귀고리, 목걸이, 반지에만 사용할 수 있다. \n단, 소켓 확장된 아이템은 거래 불가 상태가 되며 소켓이 추가로 확장되는 것이 아니라, 확장된 소켓 개수가 1개로 변하는 것이니 유의해서 사용해야 한다.</font>
+EN|Double-click to use the scroll.\n\n<font color="#FFFFFF">Sets the number of unlocked sockets to 1. Can only be used on level 70 ascendant earrings, necklaces, and rings that have 0 sockets unlocked.  However, the item becomes untradable once the socket is unlocked. This scroll does not add unlocked sockets, but only changes the number of unlocked sockets to 1.</font>
+
+@@SCROLL-3 count=2 key=31001545-Level70Item- field=guideDescription item=レジェンダリー2ソケット変換呪文書(LV70)
+KO|더블클릭으로 주문서를 사용할 수 있다.\n\n<font color="#FFFFFF">사용 시 액세서리의 빈 소켓이 2개가 된다. 소켓이 모두 잠겨 있거나, 소켓을 1개 확장한 70레벨 레전더리 귀고리, 목걸이, 반지에만 사용할 수 있다. \n단, 소켓 확장된 아이템은 거래 불가 상태가 되며 소켓이 추가로 확장되는 것이 아니라, 확장된 소켓 개수가 2개로 변하는 것이니 유의해서 사용해야 한다.</font>
+EN|Double-click to use the scroll.\n\n<font color="#FFFFFF">Sets the number of unlocked sockets to 2. Can only be used on level 70 legendary earrings, necklaces, and rings that have 1 or fewer sockets unlocked.  However, the item becomes untradable once the socket is unlocked. This scroll does not add unlocked sockets, but only changes the number of unlocked sockets to 2.</font>
+
+@@SCROLL-4 count=2 key=31001547-Level70Item- field=guideDescription item=エピック2ソケット変換呪文書(LV70)
+KO|더블클릭으로 주문서를 사용할 수 있다.\n\n<font color="#FFFFFF">사용 시 액세서리의 빈 소켓이 2개가 된다. 소켓이 모두 잠겨 있거나, 소켓을 1개 확장한 70레벨 에픽 귀고리, 목걸이, 반지에만 사용할 수 있다. \n단, 소켓 확장된 아이템은 거래 불가 상태가 되며 소켓이 추가로 확장되는 것이 아니라, 확장된 소켓 개수가 2개로 변하는 것이니 유의해서 사용해야 한다.</font>
+EN|Double-click to use the scroll.\n\n<font color="#FFFFFF">Sets the number of unlocked sockets to 2. Can only be used on level 70 ascendant earrings, necklaces, and rings that have 1 or fewer sockets unlocked.  However, the item becomes untradable once the socket is unlocked. This scroll does not add unlocked sockets, but only changes the number of unlocked sockets to 2.</font>
+
+@@SCROLL-5 count=1 key=31001977-Level70Item- field=guideDescription item=エクセレント2ソケット変換呪文書(LV70)
+KO|더블클릭으로 주문서를 사용할 수 있다.\n\n<font color="#FFFFFF">사용 시 액세서리의 빈 소켓이 2개가 된다. 소켓이 모두 잠겨 있거나, 소켓을 1개 확장한 70레벨 엑설런트 귀고리, 목걸이, 반지에만 사용할 수 있다. \n단, 소켓 확장된 아이템은 거래 불가 상태가 되며 소켓이 추가로 확장되는 것이 아니라, 확장된 소켓 개수가 2개로 변하는 것이니 유의해서 사용해야 한다.</font>
+EN|Double-click to use the scroll.\n\n<font color="#FFFFFF">Sets the number of unlocked sockets to 2. Can only be used on level 70 epic earrings, necklaces, and rings that have 1 or fewer sockets unlocked.  However, the item becomes untradable once the socket is unlocked. This scroll does not add unlocked sockets, but only changes the number of unlocked sockets to 2.</font>
+
+@@QBR-1 count=1 key=50740074-Colosseum01- field=tooltipDescription item=黄金ピンクビーン記念品
+KO|퀸크빈 럼블에 도전하는 것은 그 자체로 영광스러운 일이다. 우승을 하지 못하더라도, 아니 우승을 하더라도 계속 도전하는 모습은 모험가로서 아름답고 숭고한 모습이다. 그러한 모험가를 기리기 위한 이 기념품은, 어찌 보면 우승 기념품보다 더욱 귀한 기념품일 수도 있을 것이다.
+EN|To even enter the Queen Bean Rumble is an honor. To strive, win or lose, in this most noble of arenas is the very soul of adventure. This souvenir commemorates that soul.
+
+@@QBR-2 count=1 key=50740073-Colosseum01- field=tooltipDescription item=クイーンビーンランブル優勝記念品
+KO|퀸크빈 럼블에서 우승한 것을 칭송하기 위한 기념품이다. 전설의 은으로 만들어진 이 기념품은 메소로 환산하면 어마어마한 가치가 있다. 그러나 아무도 이 우승 기념품을 판매하는 모험가는 없다. 이 우승 기념품을 가진다는 것은 가문의 영광이자, 모험가로서 최고의 자부심이기에 그 누구도 판매할 생각을 하지 않기 때문이다.
+EN|A souvenir to praise your victory in Queen Bean Rumble. This souvenir is made from the highest quality silver and is worth a small fortune in mesos. However, the sentimental value is so great that no one dares sell it.
+
+@@QBR-3 count=1 key=50740072-Colosseum01- field=tooltipDescription item=クイーンビーンランブル入賞記念品
+KO|퀸크빈 럼블에서 입상한다는 것은 매우 자랑스러운 일이다. 수많은 참가자들 사이에서 뛰어난 실력을 가졌다는 것을 스스로 증명한 것이기 때문이다.
+EN|Winning in the Queen Bean Rumble is a point of pride. It means you've distinguished yourself among the best of the best.
+
+@@QBR-4 count=1 key=20001307-Colosseum01- field=tooltipDescription item=称号：クイーンビーンの
+KO|퀸크빈 럼블에서 특별한 공훈을 세운 용사들에게 지급되는 퀸크빈의 칭호이다.
+EN|A special title for heroes who feel at home in the Queen Bean Rumble.
+
+@@QBR-5 count=1 key=20302454-ColosseumDungeon- field=tooltipDescription item=クイーンビーンランブル10ラウンド報酬ボックス
+KO|퀸크빌 럼블 10라운드를 클리어하면 획득할 수 있는 상자이다. 단, 주 1회만 획득할 수 있으며 라운드 클리어 시가 아닌 던전 결과 단계에서 획득할 수 있다.
+EN|A box obtained by clearing Queen Bean Rumble round 10. You can only get one per week. All round rewards are awarded at the end of the dungeon run.
+
+@@QBR-6 count=1 key=20302789-Colosseum02- field=tooltipDescription item=クイーンビーンランブル11ラウンド報酬ボックス
+KO|퀸크빌 럼블 11라운드를 클리어하면 획득할 수 있는 상자이다. 단, 주 1회만 획득할 수 있으며 라운드 클리어 시가 아닌 던전 결과 단계에서 획득할 수 있다.
+EN|A box that can be obtained by clearing Round 11 of Queen K-Bumble Rumble. However, it can only be obtained once a week, and it is obtained at the dungeon result stage rather than when the round is cleared.
+
+@@QBR-7 count=1 key=20302790-Colosseum02- field=tooltipDescription item=クイーンビーンランブル12ラウンド報酬ボックス
+KO|퀸크빌 럼블 12라운드를 클리어하면 획득할 수 있는 상자이다. 단, 주 1회만 획득할 수 있으며 라운드 클리어 시가 아닌 던전 결과 단계에서 획득할 수 있다.
+EN|A box that can be obtained by clearing Round 12 of Queen K-Bumble Rumble. However, it can only be obtained once a week, and it is obtained at the dungeon result stage rather than when the round is cleared.
+
+@@QBR-8 count=1 key=20302791-Colosseum02- field=tooltipDescription item=クイーンビーンランブル13ラウンド報酬ボックス
+KO|퀸크빌 럼블 13라운드를 클리어하면 획득할 수 있는 상자이다. 단, 주 1회만 획득할 수 있으며 라운드 클리어 시가 아닌 던전 결과 단계에서 획득할 수 있다.
+EN|A box that can be obtained by clearing Round 13 of Queen K-Bumble Rumble. However, it can only be obtained once a week, and it is obtained at the dungeon result stage rather than when the round is cleared.
+
+@@QBR-9 count=1 key=20302445-ColosseumDungeon- field=tooltipDescription item=クイーンビーンランブル1ラウンド報酬ボックス
+KO|퀸크빌 럼블 1라운드를 클리어하면 획득할 수 있는 상자이다. 단, 주 1회만 획득할 수 있으며 라운드 클리어 시가 아닌 던전 결과 단계에서 획득할 수 있다.
+EN|A box obtained by clearing Queen Bean Rumble round 1. You can only get one per week. All round rewards are awarded at the end of the dungeon run.
+
+@@QBR-10 count=1 key=20302446-ColosseumDungeon- field=tooltipDescription item=クイーンビーンランブル2ラウンド報酬ボックス
+KO|퀸크빌 럼블 2라운드를 클리어하면 획득할 수 있는 상자이다. 단, 주 1회만 획득할 수 있으며 라운드 클리어 시가 아닌 던전 결과 단계에서 획득할 수 있다.
+EN|A box obtained by clearing Queen Bean Rumble round 2. You can only get one per week. All round rewards are awarded at the end of the dungeon run.
+
+@@QBR-11 count=1 key=20302447-ColosseumDungeon- field=tooltipDescription item=クイーンビーンランブル3ラウンド報酬ボックス
+KO|퀸크빌 럼블 3라운드를 클리어하면 획득할 수 있는 상자이다. 단, 주 1회만 획득할 수 있으며 라운드 클리어 시가 아닌 던전 결과 단계에서 획득할 수 있다.
+EN|A box obtained by clearing Queen Bean Rumble round 3. You can only get one per week. All round rewards are awarded at the end of the dungeon run.
+
+@@QBR-12 count=1 key=20302448-ColosseumDungeon- field=tooltipDescription item=クイーンビーンランブル4ラウンド報酬ボックス
+KO|퀸크빌 럼블 4라운드를 클리어하면 획득할 수 있는 상자이다. 단, 주 1회만 획득할 수 있으며 라운드 클리어 시가 아닌 던전 결과 단계에서 획득할 수 있다.
+EN|A box obtained by clearing Queen Bean Rumble round 4. You can only get one per week. All round rewards are awarded at the end of the dungeon run.
+
+@@QBR-13 count=1 key=20302449-ColosseumDungeon- field=tooltipDescription item=クイーンビーンランブル5ラウンド報酬ボックス
+KO|퀸크빌 럼블 5라운드를 클리어하면 획득할 수 있는 상자이다. 단, 주 1회만 획득할 수 있으며 라운드 클리어 시가 아닌 던전 결과 단계에서 획득할 수 있다.
+EN|A box obtained by clearing Queen Bean Rumble round 5. You can only get one per week. All round rewards are awarded at the end of the dungeon run.
+
+@@QBR-14 count=1 key=20302450-ColosseumDungeon- field=tooltipDescription item=クイーンビーンランブル6ラウンド報酬ボックス
+KO|퀸크빌 럼블 6라운드를 클리어하면 획득할 수 있는 상자이다. 단, 주 1회만 획득할 수 있으며 라운드 클리어 시가 아닌 던전 결과 단계에서 획득할 수 있다.
+EN|A box obtained by clearing Queen Bean Rumble round 6. You can only get one per week. All round rewards are awarded at the end of the dungeon run.
+
+@@QBR-15 count=1 key=20302451-ColosseumDungeon- field=tooltipDescription item=クイーンビーンランブル7ラウンド報酬ボックス
+KO|퀸크빌 럼블 7라운드를 클리어하면 획득할 수 있는 상자이다. 단, 주 1회만 획득할 수 있으며 라운드 클리어 시가 아닌 던전 결과 단계에서 획득할 수 있다.
+EN|A box obtained by clearing Queen Bean Rumble round 7. You can only get one per week. All round rewards are awarded at the end of the dungeon run.
+
+@@QBR-16 count=1 key=20302452-ColosseumDungeon- field=tooltipDescription item=クイーンビーンランブル8ラウンド報酬ボックス
+KO|퀸크빌 럼블 8라운드를 클리어하면 획득할 수 있는 상자이다. 단, 주 1회만 획득할 수 있으며 라운드 클리어 시가 아닌 던전 결과 단계에서 획득할 수 있다.
+EN|A box obtained by clearing Queen Bean Rumble round 8. You can only get one per week. All round rewards are awarded at the end of the dungeon run.
+
+@@QBR-17 count=1 key=20302453-ColosseumDungeon- field=tooltipDescription item=クイーンビーンランブル9ラウンド報酬ボックス
+KO|퀸크빌 럼블 9라운드를 클리어하면 획득할 수 있는 상자이다. 단, 주 1회만 획득할 수 있으며 라운드 클리어 시가 아닌 던전 결과 단계에서 획득할 수 있다.
+EN|A box obtained by clearing Queen Bean Rumble round 9. You can only get one per week. All round rewards are awarded at the end of the dungeon run.
+
+@@PROC-1 count=2 key=13140150-DungeonOpenCN1704- field=tooltipDescription item=単分子カッター - ビヨンドナイフ
+KO|<font color='#ff8ae5' size='14'>[反向设计的粒子武器]\n为强化黑暗军团而制造出来的粒子如今已被冒险岛联盟攻克。装备该武器期间，在（混沌）影子军团祭坛中战斗力提高440。必须双持该武器才能生效。\n
+EN|(なし)
+
+@@PROC-2 count=1 key=15460191-Level70Item- field=tooltipDescription item=アンティークインフェルヌークブレイド
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 게이트 오브 블레이드로 타격 시 12초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>12</font> sec upon hitting with Gate of Blades. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-3 count=1 key=13260307-Level70Item- field=tooltipDescription item=アンティークインフェルヌークロングソード
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 공격 태세 돌파로 타격 시 12초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 안티크 인페누크 쉴드를 함께 사용해야 활성화 되며 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>12</font> sec upon hitting with Breaking Charge. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. Active while an Antique Infernuke Shield is equipped. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-4 count=1 key=15060311-Level70Item- field=tooltipDescription item=アンティークインフェルヌークラージソード
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 더스크 폴로 타격 시 48초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>48</font> sec upon hitting with Dusk Fall. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-5 count=1 key=15360306-Level70Item- field=tooltipDescription item=アンティークインフェルヌークキャノン
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 메슬라 코일로 타격 시 72초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>72</font> sec upon hitting with Mesla Coil. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-6 count=1 key=13460305-Level70Item- field=tooltipDescription item=アンティークインフェルヌークスパイク
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 비술 : 붕괴로 타격 시 18초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 양손에 동일한 장비를 착용해야 활성화 되며 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>18</font> sec upon hitting with Secret Art: Collapse. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. Active while the same gear is equipped in both hands. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-7 count=1 key=15260310-Level70Item- field=tooltipDescription item=アンティークインフェルヌークスタッフ
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 사나운 불길 상태의 적을 타격 시 36초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>36</font> sec upon hitting enemy inflicted by Raging Flame. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-8 count=1 key=13360306-Level70Item- field=tooltipDescription item=アンティークインフェルヌークアックス
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 신성한 힘 습득 상태에서 타격 시 12초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 안티크 인페누크 히스토릭을 함께 사용해야 활성화 되며 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>12</font> sec on hit if you learned Holy Power. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. Active while an Antique Infernuke History is equipped. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-9 count=1 key=15560228-Level70Item- field=tooltipDescription item=アンティークインフェルヌークナックル
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 얼티밋 디스트로이 킥으로 타격 시 12초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>12</font> sec upon hitting with Ultimate Destroyer Kick. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-10 count=1 key=15660232-Level70Item- field=tooltipDescription item=アンティークインフェルヌークスピリット
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 완벽한 선율을 습득한 상태에서 타격 시 10초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>10</font> sec on hit if you learned Perfect Melody. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-11 count=1 key=15160303-Level70Item- field=tooltipDescription item=アンティークインフェルヌークボウ
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 이글 스쿼드 상태에서 타격 시 144초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>144</font> sec on hit during Eagle Squad. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-12 count=1 key=13160312-Level70Item- field=tooltipDescription item=アンティークインフェルヌークナイフ
+KO|<font color='#ff8ae5' size='14'>[고대의 힘]\n물리/마법 대미지가 8% 증가하고 임기응변 상태에서 타격 시 36초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 양손에 동일한 장비를 착용해야 활성화 되며 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Ancient Power</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>36</font> sec on hit during Extemporaneous. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. Active while the same gear is equipped in both hands. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-13 count=1 key=15360305-Level70Item- field=tooltipDescription item=タイレンオフィサーキャノン
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 가스 중독 상태의 적을 타격 시 24초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>24</font> sec upon hitting enemy inflicted by Poison Gas. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-14 count=1 key=15460190-Level70Item- field=tooltipDescription item=タイレンオフィサーブレイド
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 루나틱 플래쉬로 타격 시 12초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>12</font> sec upon hitting with Lunatic Flash. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-15 count=1 key=13460304-Level70Item- field=tooltipDescription item=タイレンオフィサースパイク
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 비기 : 파괴로 타격 시 12초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 양손에 동일한 장비를 착용해야 활성화 되며 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>12</font> sec upon hitting with Secret Art: Destruction. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. Active while the same gear is equipped in both hands. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-16 count=1 key=13260306-Level70Item- field=tooltipDescription item=タイレンオフィサーロングソード
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 서먼 소드로 타격 시 12초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 타이렌 커맨더 컴뱃 쉴드를 함께 사용해야 활성화 되며 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>12</font> sec upon hitting with Summon Sword. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. Active while a Tairen Officer Shield is equipped. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-17 count=1 key=15560227-Level70Item- field=tooltipDescription item=タイレンオフィサーナックル
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 얼티밋 러쉬로 타격 시 12초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>12</font> sec upon hitting with Ultimate Rush. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-18 count=1 key=15060310-Level70Item- field=tooltipDescription item=タイレンオフィサーラージソード
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 절단으로 타격 시 36초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>36</font> sec upon hitting with Sever. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-19 count=1 key=13160311-Level70Item- field=tooltipDescription item=タイレンオフィサーナイフ
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 포이즌 플랜을 습득한 상태에서 타격 시 12초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 양손에 동일한 장비를 착용해야 활성화 되며 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>12</font> sec on hit if you learned Poison Plan. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. Active while the same gear is equipped in both hands. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-20 count=1 key=15160302-Level70Item- field=tooltipDescription item=タイレンオフィサーボウ
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 피닉스 스트라이크 샷으로 타격 시 12초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>12</font> sec upon hitting with Phoenix Strike. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-21 count=1 key=15260309-Level70Item- field=tooltipDescription item=タイレンオフィサースタッフ
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 허리케인 경보로 타격 시 48초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>48</font> sec upon hitting with Hurricane Warning. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-22 count=1 key=13360305-Level70Item- field=tooltipDescription item=タイレンオフィサーセプター
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 홀리 익스텐션을 습득한 상태에서 타격 시 10초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 타이렌 커맨더 컴뱃 메뉴얼을 함께 사용해야 활성화 되며 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>10</font> sec on hit if you learned Wrath Eternal. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. Active while a Tairen Officer Manual is equipped. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-23 count=1 key=15660231-Level70Item- field=tooltipDescription item=タイレンオフィサースピリット
+KO|<font color='#ff8ae5' size='14'>[에네르 트리거]\n물리/마법 대미지가 8% 증가하고 힘의 해방으로 타격 시 72초 동안 전투력이 1000 증가한다. 전투력 증가 효과는 10초 내 재발동하지 않는다. 이 효과는 전장 및 투기장에서 발동하지 않는다.</font>
+EN|<font color='#ff8ae5' size='14'>Aetherine Trigger</font>\nIncreases physical and magic damage by <font color='#ff8ae5'>8%</font>, and increases bonus attack by <font color='#ff8ae5'>1,000</font> for <font color='#ff8ae5'>72</font> sec upon hitting with Power Liberation. Bonus attack increase has a <font color='#ff8ae5'>10</font> sec cooldown. The effect can't be triggered in battlegrounds or arenas.</font>
+
+@@PROC-24 count=2 key=11900122-Level70Item- field=tooltipDescription item=ペイカのラペンシャードイヤリング
+KO|<font color='#ff8ae5' size='14'>[영롱한 푸른빛]\n블루라펜타의 힘이 점점 쌓여 10초마다 한번씩 전투력이 17000 만큼 증가한 대미지를 입힙니다.
+EN|<font color='#ff8ae5' size='14'>Intense Blue Glow</font>\nThe power of the blue lapenta gradually stacks, inflicting an attack with <font color='#ff8ae5'>17,000</font> bonus attack once every <font color='#ff8ae5'>10</font> sec.
+
+@@PROC-25 count=2 key=11960127-Level70Item- field=tooltipDescription item=ペイカのラペンシャードイヤリング
+KO|<font color='#ff8ae5' size='14'>[영롱한 푸른빛]\n블루라펜타의 힘이 점점 쌓여 10초마다 한번씩 전투력이 20400 만큼 증가한 대미지를 입힙니다.
+EN|<font color='#ff8ae5' size='14'>Intense Blue Glow</font>\nThe power of the blue lapenta gradually stacks, inflicting an attack with <font color='#ff8ae5'>20400</font> bonus attack once every <font color='#ff8ae5'>10</font> sec.
+
+@@PROC-26 count=2 key=11900122-KREquipmentBalance_01- field=tooltipDescription item=?
+KO|<font color='#ff8ae5' size='14'>[영롱한 푸른빛]\n블루라펜타의 힘이 점점 쌓여 10초마다 한번씩 전투력이 55000 만큼 증가한 대미지를 입힙니다.
+EN|(なし)
+
+@@PROC-27 count=2 key=11800130-Level70Item- field=tooltipDescription item=時空のインフェルノックの翼
+KO|<font color='#ff8ae5' size='14'>[타오르는 에너지]\n일정 주기마다 HP가 40% 이하가 되면 시공의 에너지를 불태워 15초간 3000의 대미지를 흡수하고 슈퍼아머 상태가 되는 보호막을 생성한다. 보호막은 전투력을 6400 증가시킨다.  전장에서는 효과가 적용되지 않는다.
+EN|<font color='#ff8ae5' size='14'>Burning Bubble</font>\nWhen health falls below <font color='#ff8ae5'>40%</font>, creates a barrier that absorbs <font color='#ff8ae5'>3,000</font> damage for <font color='#ff8ae5'>15</font> sec and grants knockback immunity. The barrier increases bonus attack by <font color='#ff8ae5'>6,400</font>. Subject to cooldown. Not active in battlegrounds.
+
+@@PROC-28 count=2 key=13100314-Level70Item- field=tooltipDescription item=タイレンロイヤルナイフ
+KO|<font color='#ff8ae5' size='14'>[포격 지원]\n타격 시 5초 마다 게오르크 군이 주변 적에게 685% 대미지의 포격을 입힌다. 양손에 타이렌 로열 나이프를 장착해야 활성화 된다. 전장 및 투기장에서는 효과가 적용되지 않는다.
+EN|<font color='#ff8ae5' size='14'>Bombardment Support</font>\nHumanitas forces bombards nearby enemies on hit, dealing <font color='#ff8ae5'>685%</font> damage every <font color='#ff8ae5'>5</font> sec. Must have Tairen Royal Knife equipped in both hands. The effect can't be triggered in battlegrounds or arenas.
+
+@@PROC-29 count=2 key=13400307-Level70Item- field=tooltipDescription item=タイレンロイヤルスパイク
+KO|<font color='#ff8ae5' size='14'>[포격 지원]\n타격 시 5초 마다 게오르크 군이 주변 적에게 685% 대미지의 포격을 입힌다. 양손에 타이렌 로열 스파이크를 장착해야 활성화 된다. 전장 및 투기장에서는 효과가 적용되지 않는다.
+EN|<font color='#ff8ae5' size='14'>Bombardment Support</font>\nHumanitas forces bombards nearby enemies on hit, dealing <font color='#ff8ae5'>685%</font> damage every <font color='#ff8ae5'>5</font> sec. Must have Tairen Royal Star equipped in both hands. The effect can't be triggered in battlegrounds or arenas.
+
+@@PROC-30 count=1 key=13300308-Level70Item- field=tooltipDescription item=タイレンロイヤルセプター
+KO|<font color='#ff8ae5' size='14'>[포격 지원]\n타격 시 5초 마다 게오르크 군이 주변 적에게 685% 대미지의 포격을 입힌다. 이 효과는 타이렌 로열 법전과 함께 사용해야 활성화 된다. 전장 및 투기장에서는 효과가 적용되지 않는다.
+EN|<font color='#ff8ae5' size='14'>Bombardment Support</font>\nHumanitas forces bombards nearby enemies on hit, dealing <font color='#ff8ae5'>685%</font> damage every <font color='#ff8ae5'>5</font> sec. Active while a Tairen Royal Codex is equipped. The effect can't be triggered in battlegrounds or arenas.
+
+@@PROC-31 count=1 key=13360307-Level70Item- field=tooltipDescription item=タイレンロイヤルセプター
+KO|<font color='#ff8ae5' size='14'>[포격 지원]\n타격 시 5초 마다 게오르크 군이 주변 적에게 685% 대미지의 포격을 입힌다. 이 효과는 타이렌 로열 법전과 함께 새용해야 활성화 된다. 전장 및 투기장에서는 효과가 적용되지 않는다.
+EN|<font color='#ff8ae5' size='14'>Bombardment Support</font>\nHumanitas forces bombards nearby enemies on hit, dealing <font color='#ff8ae5'>685%</font> damage every <font color='#ff8ae5'>5</font> sec. Active while a Tairen Royal Codex is equipped. The effect can't be triggered in battlegrounds or arenas.
+
+@@PROC-32 count=1 key=14100279-Level70Item- field=tooltipDescription item=タイレンロイヤルシールド
+KO|<font color='#ff8ae5' size='14'>[포격 지원]\n타격 시 5초 마다 게오르크 군이 주변 적에게 685% 대미지의 포격을 입힌다. 이 효과는 타이렌 로열 소드와 함께 사용해야 활성화 된다. 전장 및 투기장에서는 효과가 적용되지 않는다.
+EN|<font color='#ff8ae5' size='14'>Bombardment Support</font>\nHumanitas forces bombards nearby enemies on hit, dealing <font color='#ff8ae5'>685%</font> damage every <font color='#ff8ae5'>5</font> sec. Active while a Tairen Royal Sword is equipped. The effect can't be triggered in battlegrounds or arenas.
+
+@@PROC-33 count=1 key=14160278-Level70Item- field=tooltipDescription item=タイレンロイヤルシールド
+KO|<font color='#ff8ae5' size='14'>[포격 지원]\n타격 시 5초 마다 게오르크 군이 주변 적에게 685% 대미지의 포격을 입힌다. 이 효과는 타이렌 로열 소드와 함께 새용해야 활성화 된다. 전장 및 투기장에서는 효과가 적용되지 않는다.
+EN|<font color='#ff8ae5' size='14'>Bombardment Support</font>\nHumanitas forces bombards nearby enemies on hit, dealing <font color='#ff8ae5'>685%</font> damage every <font color='#ff8ae5'>5</font> sec. Active while a Tairen Royal Sword is equipped. The effect can't be triggered in battlegrounds or arenas.
+
+@@PROC-34 count=1 key=13200309-Level70Item- field=tooltipDescription item=タイレンロイヤルロングソード
+KO|<font color='#ff8ae5' size='14'>[포격 지원]\n타격 시 5초 마다 게오르크 군이 주변 적에게 685% 대미지의 포격을 입힌다. 이 효과는 타이렌 로열 쉴드와 함께 사용해야 활성화 된다. 전장 및 투기장에서는 효과가 적용되지 않는다.
+EN|<font color='#ff8ae5' size='14'>Bombardment Support</font>\nHumanitas forces bombards nearby enemies on hit, dealing <font color='#ff8ae5'>685%</font> damage every <font color='#ff8ae5'>5</font> sec. Active while a Tairen Royal Shield is equipped. The effect can't be triggered in battlegrounds or arenas.
+
+@@PROC-35 count=1 key=13260308-Level70Item- field=tooltipDescription item=タイレンロイヤルロングソード
+KO|<font color='#ff8ae5' size='14'>[포격 지원]\n타격 시 5초 마다 게오르크 군이 주변 적에게 685% 대미지의 포격을 입힌다. 이 효과는 타이렌 로열 쉴드와 함께 새용해야 활성화 된다. 전장 및 투기장에서는 효과가 적용되지 않는다.
+EN|<font color='#ff8ae5' size='14'>Bombardment Support</font>\nHumanitas forces bombards nearby enemies on hit, dealing <font color='#ff8ae5'>685%</font> damage every <font color='#ff8ae5'>5</font> sec. Active while a Tairen Royal Shield is equipped. The effect can't be triggered in battlegrounds or arenas.
+
+@@PROC-36 count=1 key=14000270-Level70Item- field=tooltipDescription item=タイレンロイヤル法典
+KO|<font color='#ff8ae5' size='14'>[포격 지원]\n타격 시 5초 마다 게오르크 군이 주변 적에게 685% 대미지의 포격을 입힌다. 이 효과는 타이렌 로열 홀과 함께 사용해야 활성화 된다. 전장 및 투기장에서는 효과가 적용되지 않는다.
+EN|<font color='#ff8ae5' size='14'>Bombardment Support</font>\nHumanitas forces bombards nearby enemies on hit, dealing <font color='#ff8ae5'>685%</font> damage every <font color='#ff8ae5'>5</font> sec. Active while a Tairen Royal Scepter is equipped. The effect can't be triggered in battlegrounds or arenas.
+
+@@PROC-37 count=1 key=14060269-Level70Item- field=tooltipDescription item=タイレンロイヤル法典
+KO|<font color='#ff8ae5' size='14'>[포격 지원]\n타격 시 5초 마다 게오르크 군이 주변 적에게 685% 대미지의 포격을 입힌다. 이 효과는 타이렌 로열 홀과 함께 새용해야 활성화 된다. 전장 및 투기장에서는 효과가 적용되지 않는다.
+EN|<font color='#ff8ae5' size='14'>Bombardment Support</font>\nHumanitas forces bombards nearby enemies on hit, dealing <font color='#ff8ae5'>685%</font> damage every <font color='#ff8ae5'>5</font> sec. Active while a Tairen Royal Scepter is equipped. The effect can't be triggered in battlegrounds or arenas.
+
+@@PETKO-1 count=2 key=61100120-Pet_Zakum- field=tooltipDescription item=守護のジャクム
+KO|<font color='#9FC93C'>편의 기능\n · 자동 비석 부활\n · 자동 포션 회복\n · 자동 아이템 줍기\n\n펫 스킬\n· 소유자의 체력이 30% 이하가 되었을 때 1200의 대미지를 흡수할 수 있는 실드를 6초 동안 생성한다. 이 효과는 수호의 자쿰을 1분 이상 소환한 상태를 유지해야 발동하며 발동 후 1분 이내 다시 발동하지 않는다.\n<font size='3'> </font>\n</font>펫의 소환 정보를 저장하고 있는 아이템이다. 평소에는 아이템 형태로 다른 차원의 공간에 들어가 있다가 캐릭터가 소환하면 밖으로 나온다. 
+EN|(なし)
+
+@@PETKO-2 count=2 key=61100110-Pet_Zakum- field=tooltipDescription item=呪いのジャクム
+KO|<font color='#9FC93C'>편의 기능\n · 자동 비석 부활\n · 자동 포션 회복\n · 자동 아이템 줍기\n\n펫 스킬\n· 펫이 타격 시 대상의 방어력을 4초 동안 0.3% 감소시킨다. 이 효과는 최대 10 중첩 된다.\n<font size='3'> </font>\n</font>펫의 소환 정보를 저장하고 있는 아이템이다. 평소에는 아이템 형태로 다른 차원의 공간에 들어가 있다가 캐릭터가 소환하면 밖으로 나온다. 
+EN|(なし)
+
+@@PETKO-3 count=2 key=61100130-Pet_Zakum- field=tooltipDescription item=怒りのジャクム
+KO|<font color='#9FC93C'>편의 기능\n · 자동 비석 부활\n · 자동 포션 회복\n · 자동 아이템 줍기\n\n펫 스킬\n· 펫이 타격 시 일정 확률로 대상에게 자쿰의 손바닥을 소환하여 내려친다. 손바닥에 피격된 대상은 대미지를 입고 1초 동안 스턴 상태가 된다.\n<font size='3'> </font>\n</font>펫의 소환 정보를 저장하고 있는 아이템이다. 평소에는 아이템 형태로 다른 차원의 공간에 들어가 있다가 캐릭터가 소환하면 밖으로 나온다. 
+EN|(なし)
+

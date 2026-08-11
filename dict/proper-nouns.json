@@ -27,7 +27,11 @@
     "Devilyn / Devilin": {"ja": "デブリン", "ko": "데블린", "source": "corpus"},
     "Turka": {"ja": "トゥルカ", "ko": "투르카", "source": "corpus", "note": "Lv70レイド"},
     "Timaion": {"ja": "ティマイオン", "ko": "티마이온", "source": "session", "note": "Renegade Timaion=裏切り者ティマイオン(변절자 티마이온)"},
-    "Humanitas": {"ja": "ヒューマニタス", "ko": "게오르크 (Georg)", "source": "session", "note": "EN独自リネーム。KRはゲオルク。JAは英語準拠でヒューマニタスに決定(Humanitas Field=ヒューマニタスフィールド)"},
+    "Humanitas": {"ja": "ヒューマニタス", "ko": "게오르크 (Georg)", "source": "session", "note": "EN独自リネーム。KRはゲオルク。装備シリーズ名は英語準拠でヒューマニタス(Humanitas Field=ヒューマニタスフィールド)。ただしロア文・NPC名の人物/軍としての게오르크はゲオルク(既訳: ゲオルク補給官、ゲオルク軍)"},
+    "Zakum": {"ja": "ジャクム", "ko": "자쿰", "source": "corpus", "note": "ザクムではない(JMS1準拠)。守護のジャクム/呪いのジャクム/怒りのジャクム(ペット)、契約の祭壇(Zakum01マップ)"},
+    "Curse Eye": {"ja": "カズアイ", "ko": "커즈아이", "source": "corpus", "note": "カーズアイではない(npcname既訳)。猛毒カズアイも"},
+    "Gigantica": {"ja": "ギガンティカ", "ko": "기간티카", "source": "corpus"},
+    "Lumieragon": {"ja": "ルミエラゴン", "ko": "루미에라곤", "source": "corpus", "note": "EN表記はlumarigonで揺れ。アリゴン装備シリーズの由来となった竜"},
     "Leshy": {"ja": "モラン", "ko": "모랑", "source": "corpus", "note": "튼튼모랑=丈夫なモラン、버럭모랑=ぷんすかモラン"},
     "Crabby": {"ja": "クラビ", "ko": "크래비", "source": "corpus"},
     "Horus": {"ja": "ホルス", "ko": "호루스", "source": "corpus"},
@@ -46,6 +50,8 @@
 
   "npcs_characters": {
     "Black Mage": {"ja": "黒の魔法師", "ko": "검은 마법사", "source": "corpus/web", "note": "MS1共通の宿敵"},
+    "Jessica (AI)": {"ja": "ジェシカ", "ko": "제시카", "source": "corpus", "note": "タイレン王国の人工知能体(인공지능체)。クリティアス装備ロアに登場"},
+    "Georg": {"ja": "ゲオルク", "ko": "게오르크", "source": "corpus", "note": "EN名はHumanitas(組織側)。ゲオルク軍・ゲオルク補給官(既訳)"},
     "Marlene": {"ja": "マルレーネ", "ko": "마를레네", "source": "session"},
     "Mason": {"ja": "メイソン", "ko": "메이슨", "source": "corpus"},
     "Anellas": {"ja": "アネラス", "ko": "아넬라스", "source": "corpus"},
