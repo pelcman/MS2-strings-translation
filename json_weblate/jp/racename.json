@@ -1,0 +1,38 @@
+{
+  "unknown--": {
+    "name": "未確認"
+  },
+  "plant--": {
+    "name": "植物型"
+  },
+  "animal--": {
+    "name": "野獣型"
+  },
+  "bug--": {
+    "name": "虫型"
+  },
+  "mystic--": {
+    "name": "神獣型"
+  },
+  "spirit--": {
+    "name": "精霊型"
+  },
+  "fairy--": {
+    "name": "妖精型"
+  },
+  "combine--": {
+    "name": "人型"
+  },
+  "undead--": {
+    "name": "アンデッド型"
+  },
+  "devil--": {
+    "name": "悪魔型"
+  },
+  "machine--": {
+    "name": "機械型"
+  },
+  "creature--": {
+    "name": "物体型"
+  }
+}

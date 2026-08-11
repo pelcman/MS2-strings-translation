@@ -1,0 +1,116 @@
+{
+  "21300011-Season1-": {
+    "grade": "6",
+    "specialDesc": "New Items Available at $npcName:11000626$'s Shop",
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/rideshop_unlock.png",
+    "specialNotifyString": "New Items Available at $npcName:11000626$'s Shop"
+  },
+  "21300012-Season1-": {
+    "grade": "5",
+    "specialDesc": "New Items Available at $npcName:11000626$'s Shop",
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/rideshop_unlock.png",
+    "specialNotifyString": "New Items Available at $npcName:11000626$'s Shop"
+  },
+  "22200194-Season1-": {
+    "grade": "2",
+    "specialDesc": "Sheep-Themed Furnishings Unlocked for Purchase",
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/buildshop_unlock.png",
+    "specialNotifyString": "Sheep-Themed Furnishings Unlocked for Purchase"
+  },
+  "22210030-KarkarIsland-NA": {
+    "grade": "1",
+    "specialDesc": "Mall-Themed Furnishings Unlocked for Purchase",
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/buildshop_unlock.png",
+    "specialNotifyString": "Mall-Themed Furnishings Unlocked for Purchase"
+  },
+  "22210031-KarkarIsland-NA": {
+    "grade": "1",
+    "specialDesc": "Golden Bladefish Bowl Unlocked for Purchase",
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/buildshop_unlock.png",
+    "specialNotifyString": "Golden Bladefish Bowl Unlocked for Purchase"
+  },
+  "22210032-KarkarIsland-NA": {
+    "grade": "1",
+    "specialDesc": "Unlocks the right to buy a Lavender Vacation Table furnishing",
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/buildshop_unlock.png",
+    "specialNotifyString": "Unlocks the right to buy a Lavender Vacation Table furnishing"
+  },
+  "22210033-KarkarIsland-NA": {
+    "grade": "1",
+    "specialDesc": "Astronomical Model Unlocked for Purchase",
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/buildshop_unlock.png",
+    "specialNotifyString": "Astronomical Model Unlocked for Purchase"
+  },
+  "22210034-KarkarIsland-NA": {
+    "grade": "1",
+    "specialDesc": "Nazkar-Themed Furnishings Unlocked for Purchase",
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/buildshop_unlock.png",
+    "specialNotifyString": "Nazkar-Themed Furnishings Unlocked for Purchase"
+  },
+  "22210035-KarkarIsland-NA": {
+    "grade": "1",
+    "specialDesc": "Karkar Desert-Themed Furnishings Unlocked for Purchase",
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/buildshop_unlock.png",
+    "specialNotifyString": "Karkar Desert-Themed Furnishings Unlocked for Purchase"
+  },
+  "22300031-Season3-": {
+    "grade": "1",
+    "specialDesc": "New Items Available at $npcName:11000626$'s Shop",
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/weaponshop_unlock.png",
+    "specialNotifyString": "New Items Available at $npcName:11000626$'s Shop"
+  },
+  "22300032-Season3-": {
+    "grade": "1",
+    "specialDesc": "New Items Available at $npcName:11000626$'s Shop",
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/weaponshop_unlock.png",
+    "specialNotifyString": "New Items Available at $npcName:11000626$'s Shop"
+  },
+  "22300038-Season3-": {
+    "grade": "1",
+    "specialDesc": "Unlocks the quest \"$quest:60001000$\"",
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/quest_accept.png",
+    "specialNotifyString": "Accept the quest \"$quest:60001000$\""
+  },
+  "23100154-Season1-": {
+    "grade": "3",
+    "specialDesc": "Fisherman Outfit Unlocked for Purchase",
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/weaponshop_unlock.png",
+    "specialNotifyString": "Fisherman Outfit Unlocked for Purchase"
+  },
+  "22210030-KarkarIsland-JP": {
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/buildshop_unlock.png",
+    "specialNotifyString": "Permission to purchase shopping mall theme construction items acquired",
+    "grade": "1",
+    "specialDesc": "Permission to purchase shopping mall theme construction items"
+  },
+  "22210031-KarkarIsland-JP": {
+    "grade": "1",
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/buildshop_unlock.png",
+    "specialNotifyString": "Permission to purchase Karkar Golden Bladefish Aquarium construction items acquired",
+    "specialDesc": "Permission to purchase Karkar Golden Bladefish Aquarium construction items"
+  },
+  "22210032-KarkarIsland-JP": {
+    "grade": "1",
+    "specialDesc": "Permission to purchase Lavender Resort theme land construction items",
+    "specialNotifyString": "Permission to purchase Lavender Resort theme land construction items acquired",
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/buildshop_unlock.png"
+  },
+  "22210033-KarkarIsland-JP": {
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/buildshop_unlock.png",
+    "grade": "1",
+    "specialDesc": "Permission to purchase Astronomical Observation theme construction items",
+    "specialNotifyString": "Permission to purchase Astronomical Observation theme construction items acquired"
+  },
+  "22210034-KarkarIsland-JP": {
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/buildshop_unlock.png",
+    "specialNotifyString": "Permission to purchase Nazkar theme construction items acquired",
+    "grade": "1",
+    "specialDesc": "Permission to purchase Nazkar theme construction items"
+  },
+  "22210035-KarkarIsland-JP": {
+    "specialNotifyIcon": "./Data/Resource/Image/ETC/buildshop_unlock.png",
+    "specialNotifyString": "Permission to purchase Karkar Desert theme construction items acquired",
+    "grade": "1",
+    "specialDesc": "Permission to purchase Karkar Desert theme construction items"
+  }
+}

@@ -1,0 +1,6 @@
+# json_weblate/ のデータは LF 必須(Weblate 同期・フォーマット保全のため CRLF 化を禁止)
+* text=auto
+*.json text eol=lf
+*.tsv text eol=lf
+*.md text eol=lf
+*.py text eol=lf

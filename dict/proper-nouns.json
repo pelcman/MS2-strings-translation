@@ -1,0 +1,112 @@
+{
+  "_comment": "固有名詞辞書。source: corpus=既存JMS2訳から確認 / session=今回の翻訳で新規決定(英語準拠カタカナ) / web=外部資料。corpus が最優先。新規に確定した固有名詞は必ずここに追記する。",
+
+  "places": {
+    "Tria": {"ja": "トライア", "ko": "트라이아", "type": "都市", "source": "corpus"},
+    "Henesys": {"ja": "ヘネシス", "ko": "헤네시스", "type": "都市", "source": "corpus"},
+    "Perion": {"ja": "ペリオン", "ko": "페리온", "type": "都市", "source": "corpus", "note": "形容詞形はペリオニック(Perion Feather→ペリオニックフェザー)"},
+    "Ellinia": {"ja": "エリニア", "ko": "엘리니아", "type": "都市", "source": "corpus"},
+    "Kerning": {"ja": "カニング", "ko": "커닝", "type": "都市", "source": "corpus", "note": "커닝나라=カニングランド"},
+    "Ludari": {"ja": "ルデリー", "ko": "루델리", "type": "都市", "source": "corpus", "note": "EN表記は Ludari/Ludeli の揺れあり。JAはルデリーで統一"},
+    "Kritias": {"ja": "クリティアス", "ko": "크리티아스", "type": "浮遊王国(Lv70コンテンツ)", "source": "corpus", "note": "アクセサリーシリーズ名としてはクリティアシスの既存訳あり(クリティアシスイヤリング等)"},
+    "Ereve": {"ja": "エレヴ", "ko": "에레브", "type": "女王/聖地", "source": "corpus", "note": "女王エレヴ(Empress)"},
+    "Sky Fortress": {"ja": "スカイフォートレス", "ko": "스카이 포트리스", "type": "拠点(飛行艦)", "source": "corpus"},
+    "Blueshade Cave": {"ja": "青い影洞窟", "ko": "푸른 그림자 동굴", "type": "ダンジョン", "source": "corpus"},
+    "Horus's Nest": {"ja": "ホルスの巣", "ko": "호루스의 둥지", "type": "ダンジョン", "source": "session"},
+    "Ancient Aetherine Mine": {"ja": "古代エネル鉱山", "ko": "고대 에네르 광산", "type": "ダンジョン", "source": "session"},
+    "Hall of Conspiracy": {"ja": "陰謀の殿堂", "ko": "음모의 전당", "type": "ダンジョン", "source": "session"},
+    "Hidden Hangar": {"ja": "隠された格納庫", "ko": "숨겨진 격납고", "type": "ダンジョン", "source": "session"},
+    "Ruckus Black Bean Playground": {"ja": "ドタバタブラックビーン遊び場", "ko": "우당탕 블랙빈 놀이터", "type": "ダンジョン", "source": "session"},
+    "Prison Tower": {"ja": "監獄の塔", "ko": "감옥의 탑", "type": "場所", "source": "session"}
+  },
+
+  "bosses_monsters": {
+    "Balrog": {"ja": "バルログ", "ko": "발록", "source": "corpus"},
+    "Infernog": {"ja": "インフェルノック", "ko": "인페르녹", "source": "corpus", "note": "Showdown with Infernog=インフェルノック最後の決戦(인페르녹 최후의 결전)"},
+    "Baphomet": {"ja": "バフォメット", "ko": "바포메트", "source": "corpus"},
+    "Devilyn / Devilin": {"ja": "デブリン", "ko": "데블린", "source": "corpus"},
+    "Turka": {"ja": "トゥルカ", "ko": "투르카", "source": "corpus", "note": "Lv70レイド"},
+    "Timaion": {"ja": "ティマイオン", "ko": "티마이온", "source": "session", "note": "Renegade Timaion=裏切り者ティマイオン(변절자 티마이온)"},
+    "Humanitas": {"ja": "ヒューマニタス", "ko": "게오르크 (Georg)", "source": "session", "note": "EN独自リネーム。KRはゲオルク。JAは英語準拠でヒューマニタスに決定(Humanitas Field=ヒューマニタスフィールド)"},
+    "Leshy": {"ja": "モラン", "ko": "모랑", "source": "corpus", "note": "튼튼모랑=丈夫なモラン、버럭모랑=ぷんすかモラン"},
+    "Crabby": {"ja": "クラビ", "ko": "크래비", "source": "corpus"},
+    "Horus": {"ja": "ホルス", "ko": "호루스", "source": "corpus"},
+    "Mechasus": {"ja": "メカサス", "ko": "메카수스", "source": "session"},
+    "Red Zerak": {"ja": "レッドゼラク", "ko": "레드 제라크", "source": "session"},
+    "Tebla": {"ja": "テブラ", "ko": "테블라", "source": "session"},
+    "Ggumbtree": {"ja": "グムツリー", "ko": "꿈트리", "source": "session"},
+    "Foxtrot": {"ja": "フォックストロット", "ko": "폭스트롯", "source": "session"},
+    "Golion MK-II": {"ja": "漆黒鉄ゴリオンMK-II", "ko": "칠흑무쇠 골리온 MK-II", "source": "session"},
+    "Gigantica": {"ja": "ギガンティカ", "ko": "기간티카", "source": "session"},
+    "Yorang": {"ja": "ヨラン", "ko": "요랑", "source": "session"},
+    "Tamsik": {"ja": "タムシク", "ko": "탐식이", "source": "session", "note": "光の守護者タムシク"},
+    "Amadon": {"ja": "アマドン", "ko": "아마돈", "source": "corpus"},
+    "Lo and Moomoo": {"ja": "ロロとムムス", "ko": "로로와 무무스", "source": "corpus"}
+  },
+
+  "npcs_characters": {
+    "Black Mage": {"ja": "黒の魔法師", "ko": "검은 마법사", "source": "corpus/web", "note": "MS1共通の宿敵"},
+    "Marlene": {"ja": "マルレーネ", "ko": "마를레네", "source": "session"},
+    "Mason": {"ja": "メイソン", "ko": "메이슨", "source": "corpus"},
+    "Anellas": {"ja": "アネラス", "ko": "아넬라스", "source": "corpus"},
+    "Ladin": {"ja": "ラージン", "ko": "라딘", "source": "corpus"},
+    "Jayce": {"ja": "ジェイシー", "ko": "제이시", "source": "corpus", "note": "インテリ秘書ジェイシー"},
+    "Killian": {"ja": "キリアン", "ko": "킬리안", "source": "session"},
+    "Cerian": {"ja": "セリアン", "ko": "킬리안 (EN独自リネーム)", "source": "session"},
+    "Claudia": {"ja": "クラウディア", "ko": "클라디아", "source": "session"},
+    "Claudine": {"ja": "クローディーン", "ko": "지그문트 (Sigmund, EN独自リネーム)", "source": "session", "note": "レジスタンス関連"},
+    "Jessica": {"ja": "ジェシカ", "ko": "제시카", "source": "session"},
+    "Karl": {"ja": "カール", "ko": "칼", "source": "session"},
+    "Asimov": {"ja": "アシモフ", "ko": "아시모프", "source": "session"},
+    "Cloris": {"ja": "クロリス", "ko": "클로리스", "source": "session"},
+    "Dayday": {"ja": "デイデイ", "ko": "데이데이", "source": "session"},
+    "Luana": {"ja": "ルアナ", "ko": "루아나", "source": "session"},
+    "Manovich": {"ja": "マノビッチ", "ko": "마노비치", "source": "session"},
+    "Named": {"ja": "ナメド", "ko": "나메드", "source": "session"},
+    "Paika": {"ja": "パイカ", "ko": "페이카", "source": "session"},
+    "GM Lola": {"ja": "GMローラ", "ko": "GM 로라 / GM罗拉", "source": "session"},
+    "Arumin": {"ja": "アルミン", "ko": "아루민", "source": "session"},
+    "Kumbawangka": {"ja": "クンバワンカ", "ko": "쿰바왕카", "source": "session"},
+    "Sir Bean": {"ja": "サービーン", "ko": "근엄한 경비병 (EN独自)", "source": "session"}
+  },
+
+  "mascots_pets": {
+    "Pink Bean": {"ja": "ピンクビーン", "ko": "핑크빈", "source": "corpus"},
+    "Black Bean": {"ja": "ブラックビーン", "ko": "블랙빈", "source": "corpus"},
+    "Queen Bean": {"ja": "クイーンビーン", "ko": "퀸크빈", "source": "session", "note": "Queen Bean Rumble=クイーンビーンランブル(퀸크빈 럼블)"},
+    "Alberto Bean": {"ja": "アルベルトビーン", "ko": "알베르토빈", "source": "session"},
+    "Ducky": {"ja": "ダッキー", "ko": "더키", "source": "corpus"}
+  },
+
+  "series_materials": {
+    "_comment": "装備シリーズ名・素材。sessionのものは英語準拠カタカナで新規決定",
+    "Tairen Combat": {"ja": "タイレンコンバット", "ko": "타이렌 컴뱃", "source": "session"},
+    "Tairen Officer": {"ja": "タイレンオフィサー", "ko": "타이렌 커맨더 컴뱃", "source": "session", "note": "KRは「コマンダーコンバット」だがEN準拠でオフィサー"},
+    "Tairen Royal": {"ja": "タイレンロイヤル", "ko": "타이렌 로열", "source": "corpus"},
+    "Tairen Rensha": {"ja": "タイレンレンシャ", "ko": "타이렌 렌샤", "source": "session"},
+    "Antique Arigon": {"ja": "アンティークアリゴン", "ko": "안티크 에라곤 (Eragon)", "source": "session", "note": "EN準拠。KR直訳ならエラゴン"},
+    "Antique Infernuke": {"ja": "アンティークインフェルヌーク", "ko": "안티크 인페누크", "source": "session"},
+    "Fire Prism": {"ja": "ファイアプリズム", "ko": "파이어 프리즘 / 幽翼绯影(CN)", "source": "session"},
+    "Humanitas Field": {"ja": "ヒューマニタスフィールド", "ko": "게오르크 카이", "source": "session"},
+    "Elite Adventurer set": {"ja": "エリートアドベンチャー〜", "ko": "엘리트 어드벤쳐", "source": "corpus", "note": "バトル/マジック/スカウト/マーシャル/スニーキング系列。EN Exceptional Adventuring も同一"},
+    "Aetherine / Ener": {"ja": "エネル", "ko": "에네르", "source": "session", "note": "ENはAetherine/Enerで揺れ。KR準拠でエネル。ただし既存訳に「過負荷状態のクリスタルの破片」(過負荷系)あり"},
+    "Lapenta": {"ja": "ラペンタ", "ko": "라펜타", "source": "corpus"},
+    "Prism Stone": {"ja": "プリズムストーン", "ko": "프리즘 스톤", "source": "session"},
+    "Kharon": {"ja": "ケルベス", "ko": "케르베스", "source": "corpus", "note": "EN Kharon=KR/JA ケルベス"},
+    "Arkeon": {"ja": "アルケオン", "ko": "아르케온", "source": "corpus"},
+    "Skald": {"ja": "クランツ", "ko": "크란츠", "source": "corpus", "note": "EN Skald=KR/JA クランツ"},
+    "Narubashan": {"ja": "ナルバシャン", "ko": "나루바샨", "source": "corpus"},
+    "Madrakan": {"ja": "マドラカン", "ko": "마드라칸", "source": "corpus", "note": "マドラカン軍団の痕跡：〜"}
+  },
+
+  "lore_notes": {
+    "_comment": "世界観メモ(web調査より。翻訳の参考用)",
+    "setting": "MS2はMS1(メイプルストーリー)のパラレルワールド。舞台はメイプルワールド。JMS2は2019年6月〜2020年5月NEXON運営",
+    "kritias_arc": "上空に出現した浮遊王国クリティアスをめぐるLv70エピソード。スカイフォートレス(飛行艦)で連合が出撃、ラペンシャード(ラペンタの欠片)が鍵アイテム",
+    "sources": [
+      "https://ja.namu.wiki/w/메이플스토리2",
+      "https://www.h1g.jp/maplestory2/",
+      "https://renote.net/articles/14038"
+    ]
+  }
+}

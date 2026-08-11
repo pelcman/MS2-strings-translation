@@ -1,0 +1,32 @@
+{
+  "6000-GuildQuest01-": {
+    "name": "今日も楽しい一日！",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "6001-GuildQuest01-": {
+    "name": "今日も元気な一日！",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "6002-GuildQuest01-": {
+    "name": "今週も元気に！",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "6003-GuildQuest01-": {
+    "name": "今週も楽しく！",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "6004-ChronicleDungeon60_01-": {
+    "name": "今週も元気よく！",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "6005-ChronicleDungeon60_01-": {
+    "name": "今週も楽しく！",
+    "isTutorial": "",
+    "regionID": ""
+  }
+}

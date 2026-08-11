@@ -1,0 +1,41 @@
+{
+  "1--": {
+    "name": "Beginner"
+  },
+  "10--": {
+    "name": "Knight"
+  },
+  "20--": {
+    "name": "Berserker"
+  },
+  "30--": {
+    "name": "Wizard"
+  },
+  "40--": {
+    "name": "Priest"
+  },
+  "50--": {
+    "name": "Archer"
+  },
+  "60--": {
+    "name": "Heavy Gunner"
+  },
+  "70--": {
+    "name": "Thief"
+  },
+  "80--": {
+    "name": "Assassin"
+  },
+  "90-RuneBlader-": {
+    "name": "Runeblade"
+  },
+  "100-Striker-": {
+    "name": "Striker"
+  },
+  "110-SoulBinder-": {
+    "name": "Soul Binder"
+  },
+  "999--": {
+    "name": "GM"
+  }
+}

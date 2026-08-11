@@ -1,0 +1,397 @@
+{
+  "9000--": {
+    "name": "ニート卒業",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9001--": {
+    "name": "キレイになるには努力が必要",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9002--": {
+    "name": "彼女が信じる部分",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9003--": {
+    "name": "共用金庫の使い方",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9004--": {
+    "name": "断裂した大地",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9005--": {
+    "name": "謁見式の準備",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9006--": {
+    "name": "ゴルドス建設の特別プロモーション",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9007--": {
+    "name": "強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9008--": {
+    "name": "強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9009--": {
+    "name": "強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9010--": {
+    "name": "強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9011--": {
+    "name": "強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9012--": {
+    "name": "強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9013--": {
+    "name": "強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9014--": {
+    "name": "強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9018--": {
+    "name": "甘い香りのハチミツ！",
+    "isTutorial": "1",
+    "regionID": ""
+  },
+  "9019--": {
+    "name": "助けて!!!",
+    "isTutorial": "1",
+    "regionID": ""
+  },
+  "9020--": {
+    "name": "さらに強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9021--": {
+    "name": "さらに強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9022--": {
+    "name": "さらに強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9023--": {
+    "name": "さらに強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9024--": {
+    "name": "さらに強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9025--": {
+    "name": "さらに強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9026--": {
+    "name": "さらに強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9027--": {
+    "name": "さらに強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9030--": {
+    "name": "最初の任務",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9031--": {
+    "name": "最初の任務",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9032--": {
+    "name": "最初の任務",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9033--": {
+    "name": "最初の任務",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9034--": {
+    "name": "最初の任務",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9035--": {
+    "name": "最初の任務",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9036--": {
+    "name": "最初の任務",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9037--": {
+    "name": "最初の任務",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9038--": {
+    "name": "グルーヴを感じろ！",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9039--": {
+    "name": "闇の地へ",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9040--": {
+    "name": "ドリームネイズ特別イベント",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9041--": {
+    "name": "オニキスコレクター",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9042--": {
+    "name": "カリブの裏切り者",
+    "isTutorial": "1",
+    "regionID": ""
+  },
+  "9043--": {
+    "name": "新しい地へ",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9044-Striker-": {
+    "name": "灰色のオオカミ",
+    "isTutorial": "1",
+    "regionID": ""
+  },
+  "9045-Striker-": {
+    "name": "檻から逃げたオオカミ",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9046-SoulBinder-": {
+    "name": "波色の山",
+    "isTutorial": "1",
+    "regionID": ""
+  },
+  "9047-SoulBinder-": {
+    "name": "ガイダンスの旅程",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9048-Striker-": {
+    "name": "強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9049-Striker-": {
+    "name": "さらに強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9050-SoulBinder-": {
+    "name": "強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9051-SoulBinder-": {
+    "name": "さらに強くなる方法",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9052-ContentsGuide01-": {
+    "name": "釣りガイド",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9053-ContentsGuide01-": {
+    "name": "釣りガイド：深化",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9054-ContentsGuide01-": {
+    "name": "釣りガイド：応用",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9055-ContentsGuide01-": {
+    "name": "演奏ガイド",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9056-ContentsGuide01-": {
+    "name": "演奏ガイド：深化",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9057-ContentsGuide01-": {
+    "name": "演奏ガイド：応用",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9058-ContentsGuide01-": {
+    "name": "デザインガイド",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9061-ContentsGuide01-": {
+    "name": "製作ガイド",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9062-ContentsGuide01-": {
+    "name": "採鉱ガイド",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9063-ContentsGuide01-": {
+    "name": "エンチャントガイド",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9064-ContentsGuide01-": {
+    "name": "採鉱ガイド：深化",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9065-ContentsGuide01-": {
+    "name": "採鉱ガイド：応用",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9066-ContentsGuide01-": {
+    "name": "乗り物ガイド：地上用",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9067-ContentsGuide01-": {
+    "name": "乗り物ガイド：飛行用",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9068-ContentsGuide01-": {
+    "name": "建設ガイド：入門",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9069-ContentsGuide01-": {
+    "name": "建設ガイド：深化",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9070-ContentsGuide01-": {
+    "name": "建設ガイド：応用",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9071-ContentsGuide01-": {
+    "name": "畜産ガイド",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9072-ContentsGuide01-": {
+    "name": "畜産ガイド：深化",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9073-ContentsGuide01-": {
+    "name": "畜産ガイド：応用",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9074-ContentsGuide01-": {
+    "name": "ギルドガイド",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9075-ContentsGuide02-": {
+    "name": "採集ガイド",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9076-ContentsGuide02-": {
+    "name": "採集ガイド：深化",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9077-ContentsGuide02-": {
+    "name": "採集ガイド：応用",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9078-ContentsGuide02-": {
+    "name": "栽培ガイド",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9079-ContentsGuide02-": {
+    "name": "栽培ガイド：深化",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9080-ContentsGuide02-": {
+    "name": "栽培ガイド：応用",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9081-ContentsGuide03-": {
+    "name": "ペットガイド",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9082-Pet_Zakum-": {
+    "name": "燃え上がる炎",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9083--": {
+    "name": "不安定な力の結晶",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9084-Develop-": {
+    "name": "CHAPTERDESCRIPTION_9084_NAME:[F]Develop",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "9085-SurvivalTutorial-": {
+    "name": "マッシュキングランドへ行く道",
+    "isTutorial": "",
+    "regionID": ""
+  }
+}

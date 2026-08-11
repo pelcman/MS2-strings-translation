@@ -1,0 +1,590 @@
+{
+  "1--": {
+    "name": "커뮤니티"
+  },
+  "2--": {
+    "name": "뷰티"
+  },
+  "3--": {
+    "name": "택시"
+  },
+  "4--": {
+    "name": "자동 줍기"
+  },
+  "5--": {
+    "name": "탈것"
+  },
+  "6-Fishing-": {
+    "name": "낚시"
+  },
+  "7--": {
+    "name": "케이의 이벤트"
+  },
+  "8-MeratMarket-": {
+    "name": "메럿 마켓"
+  },
+  "9--": {
+    "name": "금고"
+  },
+  "10--": {
+    "name": "다이나믹 액션"
+  },
+  "11--": {
+    "name": "알퐁달퐁 목장"
+  },
+  "12-GuildSystem01-": {
+    "name": "길드"
+  },
+  "13-ArcadeSystem-": {
+    "name": "메이플 아케이드"
+  },
+  "14--": {
+    "name": "둔둔"
+  },
+  "15--": {
+    "name": "파티 찾기"
+  },
+  "16--": {
+    "name": "$dungeonTitle:21001001$"
+  },
+  "17--": {
+    "name": "$dungeonTitle:25001001$"
+  },
+  "18--": {
+    "name": "자이언트 터틀"
+  },
+  "19-MusicInstrument-": {
+    "name": "악기 연주"
+  },
+  "20--": {
+    "name": "인챈트"
+  },
+  "21--": {
+    "name": "골마아파트"
+  },
+  "22--": {
+    "name": "비행풍선"
+  },
+  "23--": {
+    "name": "$dungeonTitle:21005001$"
+  },
+  "24--": {
+    "name": "$dungeonTitle:21006001$"
+  },
+  "25--": {
+    "name": "$dungeonTitle:21007001$"
+  },
+  "26--": {
+    "name": "데블린 워리어"
+  },
+  "27--": {
+    "name": "분해하기"
+  },
+  "28--": {
+    "name": "블랙마켓"
+  },
+  "29--": {
+    "name": "그리폰"
+  },
+  "30--": {
+    "name": "$dungeonTitle:25002001$"
+  },
+  "31--": {
+    "name": "데블린 치프"
+  },
+  "32-ShadowCataclysm-": {
+    "name": "그림자 문"
+  },
+  "33--": {
+    "name": "$dungeonTitle:21003001$"
+  },
+  "34--": {
+    "name": "마크52 알파"
+  },
+  "35--": {
+    "name": "$dungeonTitle:20012001$"
+  },
+  "36--": {
+    "name": "$dungeonTitle:25004001$"
+  },
+  "37--": {
+    "name": "부동산"
+  },
+  "38--": {
+    "name": "메이드"
+  },
+  "39--": {
+    "name": "그리피나"
+  },
+  "40--": {
+    "name": "$dungeonTitle:20006001$"
+  },
+  "41--": {
+    "name": "$dungeonTitle:20002001$"
+  },
+  "42--": {
+    "name": "$dungeonTitle:20009001$"
+  },
+  "43--": {
+    "name": "$dungeonTitle:21004001$"
+  },
+  "44--": {
+    "name": "로로와 무무스"
+  },
+  "45--": {
+    "name": "바야르 수문장"
+  },
+  "46--": {
+    "name": "$dungeonTitle:20005001$"
+  },
+  "47--": {
+    "name": "$dungeonTitle:21002001$"
+  },
+  "48--": {
+    "name": "$dungeonTitle:25003001$"
+  },
+  "49--": {
+    "name": "알파 터틀"
+  },
+  "50--": {
+    "name": "$dungeonTitle:20013001$"
+  },
+  "51--": {
+    "name": "분노의 바포메트"
+  },
+  "52--": {
+    "name": "레르노스"
+  },
+  "53--": {
+    "name": "$dungeonTitle:20003001$"
+  },
+  "54--": {
+    "name": "$dungeonTitle:20010001$"
+  },
+  "55--": {
+    "name": "$dungeonTitle:20011001$"
+  },
+  "56--": {
+    "name": "$dungeonTitle:21009001$"
+  },
+  "57--": {
+    "name": "$dungeonTitle:21017001$"
+  },
+  "58--": {
+    "name": "토토와 구구스"
+  },
+  "59-KarkarIsland-": {
+    "name": "비공정 루미윈드"
+  },
+  "60--": {
+    "name": "$dungeonTitle:21008001$"
+  },
+  "61--": {
+    "name": "페카노스"
+  },
+  "62-KarkarIsland-": {
+    "name": "아마돈"
+  },
+  "63--": {
+    "name": "$dungeonTitle:25000001$"
+  },
+  "64--": {
+    "name": "$dungeonTitle:21019001$"
+  },
+  "65-AricariDailyQ-": {
+    "name": "일일 퀘스트"
+  },
+  "67-Season3-": {
+    "name": "푸른 별"
+  },
+  "68-Season3-": {
+    "name": "붉은 별"
+  },
+  "69-ShadowCrack-": {
+    "name": "비틀린 공간의 틈"
+  },
+  "70-CharacterAbility-": {
+    "name": "특성"
+  },
+  "71-ItemSocketSystem-": {
+    "name": "젬스톤"
+  },
+  "73--": {
+    "name": "$dungeonTitle:21010001$"
+  },
+  "201-KarkarIsland-": {
+    "name": "우레우스"
+  },
+  "202-BattleField51to55-": {
+    "name": "이카르 마드"
+  },
+  "203-BattleField51to55-": {
+    "name": "냉혈한 바포메트"
+  },
+  "204-KarkarIsland-": {
+    "name": "아크레온"
+  },
+  "205--": {
+    "name": "$dungeonTitle:21013001$"
+  },
+  "206--": {
+    "name": "$dungeonTitle:25010001$"
+  },
+  "207--": {
+    "name": "$dungeonTitle:25009001$"
+  },
+  "208-TimeAttackDungeon-": {
+    "name": "$dungeonTitle:25008001$"
+  },
+  "209--": {
+    "name": "$dungeonTitle:21015001$"
+  },
+  "210--": {
+    "name": "$dungeonTitle:20017001$"
+  },
+  "211--": {
+    "name": "$dungeonTitle:20008001$"
+  },
+  "212--": {
+    "name": "$dungeonTitle:20001001$"
+  },
+  "213--": {
+    "name": "$dungeonTitle:20015001$"
+  },
+  "214--": {
+    "name": "$dungeonTitle:21014001$"
+  },
+  "215--": {
+    "name": "$dungeonTitle:20014002$"
+  },
+  "216--": {
+    "name": "$dungeonTitle:20016002$"
+  },
+  "217--": {
+    "name": "$dungeonTitle:21018001$"
+  },
+  "219--": {
+    "name": "$dungeonTitle:20004002$"
+  },
+  "220--": {
+    "name": "$dungeonTitle:20018002$"
+  },
+  "221--": {
+    "name": "$dungeonTitle:20019002$"
+  },
+  "223--": {
+    "name": "$dungeonTitle:21016001$"
+  },
+  "224--": {
+    "name": "$dungeonTitle:20020002$"
+  },
+  "226--": {
+    "name": "$dungeonTitle:21022001$"
+  },
+  "227--": {
+    "name": "$dungeonTitle:21023001$"
+  },
+  "228--": {
+    "name": "$dungeonTitle:21021001$"
+  },
+  "229--": {
+    "name": "$dungeonTitle:20021002$"
+  },
+  "230--": {
+    "name": "$dungeonTitle:21024001$"
+  },
+  "231--": {
+    "name": "$dungeonTitle:21025001$"
+  },
+  "232--": {
+    "name": "$dungeonTitle:21026001$"
+  },
+  "233--": {
+    "name": "$dungeonTitle:20022002$"
+  },
+  "234--": {
+    "name": "$dungeonTitle:23031002$"
+  },
+  "235--": {
+    "name": "$dungeonTitle:23032002$"
+  },
+  "236--": {
+    "name": "$dungeonTitle:23033002$"
+  },
+  "237--": {
+    "name": "$dungeonTitle:23034002$"
+  },
+  "238--": {
+    "name": "$dungeonTitle:23035002$"
+  },
+  "239--": {
+    "name": "$dungeonTitle:23036002$"
+  },
+  "240--": {
+    "name": "$dungeonTitle:23021003$"
+  },
+  "241--": {
+    "name": "$dungeonTitle:23022003$"
+  },
+  "242-JobChange_01-": {
+    "name": "전직"
+  },
+  "243-Lapenshard01-": {
+    "name": "라펜샤드"
+  },
+  "244-LapentaDungeon-CN": {
+    "name": "$dungeonTitle:27000001$"
+  },
+  "245-LapentaDungeon-CN": {
+    "name": "$dungeonTitle:27001001$"
+  },
+  "246-LapentaDungeon-CN": {
+    "name": "$dungeonTitle:27002001$"
+  },
+  "247-LapentaDungeon-CN": {
+    "name": "$dungeonTitle:27003001$"
+  },
+  "248-JobChange_01-": {
+    "name": "전직"
+  },
+  "249-Lapenshard01-": {
+    "name": "라펜샤드"
+  },
+  "250-LapentaDungeon-": {
+    "name": "$dungeonTitle:27000001$"
+  },
+  "251-LapentaDungeon-": {
+    "name": "$dungeonTitle:27001001$"
+  },
+  "252-LapentaDungeon-": {
+    "name": "$dungeonTitle:27002001$"
+  },
+  "253-LapentaDungeon-": {
+    "name": "$dungeonTitle:27003001$"
+  },
+  "257--": {
+    "name": "메이플 공방"
+  },
+  "258--": {
+    "name": "탐험 달성도"
+  },
+  "259--": {
+    "name": "콤팩트 키"
+  },
+  "260-ItemPartyDungeon-": {
+    "name": "$dungeonTitle:29003001$"
+  },
+  "261-GuildMinigame01-": {
+    "name": "길드 미니게임"
+  },
+  "262-GuildQuest01-": {
+    "name": "길드 퀘스트"
+  },
+  "263-GuildHouse01-": {
+    "name": "길드 하우스"
+  },
+  "264-Club-": {
+    "name": "동아리"
+  },
+  "265-Mastery-": {
+    "name": "생활 기술 생산"
+  },
+  "266-Mastery-": {
+    "name": "생활 기술 제작"
+  },
+  "267-UGCMapRenewal2-": {
+    "name": "생활 기술 여가"
+  },
+  "268-MagicScroll01-": {
+    "name": "생활 기술 마법부여"
+  },
+  "269-GuildRaid01-": {
+    "name": "길드 레이드 : 제논 시스템"
+  },
+  "271-JobChange_02-": {
+    "name": "마스터스킬"
+  },
+  "272-Kritias_2018_12-": {
+    "name": "크리티아스"
+  },
+  "273-Fieldwar01-": {
+    "name": "군단전"
+  },
+  "274-Gigantica01-": {
+    "name": "기간티카"
+  },
+  "275-Kritias_Paika01-": {
+    "name": "$dungeonTitle:23037002$"
+  },
+  "276-Kritias_Balrog01-": {
+    "name": "$dungeonTitle:23038002$"
+  },
+  "277-Kritias_Zakum01-": {
+    "name": "$dungeonTitle:23041003$"
+  },
+  "278-Kritias_Zakum01-": {
+    "name": "$dungeonTitle:23040003$"
+  },
+  "279-Kritias_Inferno01-": {
+    "name": "$dungeonTitle:23043003$"
+  },
+  "280-Kritias_Inferno01-": {
+    "name": "$dungeonTitle:23042003$"
+  },
+  "281-Colosseum01-": {
+    "name": "$dungeonTitle:24096001$"
+  },
+  "285--": {
+    "name": "$dungeonTitle:23024003$"
+  },
+  "286--": {
+    "name": "$dungeonTitle:23025003$"
+  },
+  "287--": {
+    "name": "$dungeonTitle:23023003$"
+  },
+  "288--": {
+    "name": "$dungeonTitle:23026003$"
+  },
+  "289-Kritias_Turka01-": {
+    "name": "$dungeonTitle:27004001$"
+  },
+  "290-Kritias_Turka02-": {
+    "name": "$dungeonTitle:27005001$"
+  },
+  "291-Kritias_Turka03-": {
+    "name": "$dungeonTitle:27006001$"
+  },
+  "297--": {
+    "name": "일일 퀘스트"
+  },
+  "298-Season3-": {
+    "name": "푸른 별"
+  },
+  "299-Season3-": {
+    "name": "붉은 별"
+  },
+  "1001--": {
+    "name": "일일 퀘스트"
+  },
+  "1002--": {
+    "name": "메이플 투기장"
+  },
+  "1003--": {
+    "name": "푸른 별"
+  },
+  "1004--": {
+    "name": "붉은 별"
+  },
+  "1005--": {
+    "name": "우레우스"
+  },
+  "1006--": {
+    "name": "이카르 마드"
+  },
+  "1007--": {
+    "name": "냉혈한 바포메트"
+  },
+  "1008--": {
+    "name": "아크레온"
+  },
+  "1009--": {
+    "name": "$dungeonTitle:25008001$"
+  },
+  "1010--": {
+    "name": "$dungeonTitle:25010001$"
+  },
+  "1011--": {
+    "name": "$dungeonTitle:25009001$"
+  },
+  "1012--": {
+    "name": "$dungeonTitle:21013001$"
+  },
+  "1013--": {
+    "name": "$dungeonTitle:21015001$"
+  },
+  "1014--": {
+    "name": "$dungeonTitle:20017001$"
+  },
+  "1015--": {
+    "name": "$dungeonTitle:20008001$"
+  },
+  "1016--": {
+    "name": "$dungeonTitle:20001001$"
+  },
+  "1017--": {
+    "name": "$dungeonTitle:20015001$"
+  },
+  "1018--": {
+    "name": "$dungeonTitle:21014001$"
+  },
+  "1019--": {
+    "name": "$dungeonTitle:20014002$"
+  },
+  "1020--": {
+    "name": "$dungeonTitle:20016002$"
+  },
+  "1021--": {
+    "name": "$dungeonTitle:20006001$"
+  },
+  "1022--": {
+    "name": "$dungeonTitle:23010003$"
+  },
+  "1023--": {
+    "name": "$dungeonTitle:20004002$"
+  },
+  "1024--": {
+    "name": "$dungeonTitle:20018002$"
+  },
+  "1025--": {
+    "name": "$dungeonTitle:20019002$"
+  },
+  "1026--": {
+    "name": "$dungeonTitle:21020001$"
+  },
+  "225-DungeonOpenNA1807-NA": {
+    "name": "$dungeonTitle:21020001$"
+  },
+  "254-DungeonOpenNA1808-NA": {
+    "name": "$dungeonTitle:23006003$"
+  },
+  "255-DungeonOpenNA1808-NA": {
+    "name": "$dungeonTitle:23010003$"
+  },
+  "270-DungeonOpenNA1808-NA": {
+    "name": "Ludibrium Clock Tower"
+  },
+  "282-DungeonOpenNA1808-NA": {
+    "name": "$dungeonTitle:23007003$"
+  },
+  "283-DungeonOpenNA1808-NA": {
+    "name": "$dungeonTitle:23008003$"
+  },
+  "284-DungeonOpenNA1901-NA": {
+    "name": "$dungeonTitle:24090005$"
+  },
+  "225-DungeonOpenJP1901-JP": {
+    "name": "$dungeonTitle:21020001$"
+  },
+  "254-DungeonOpenJP1901-JP": {
+    "name": "$dungeonTitle:23006003$"
+  },
+  "255-DungeonOpenJP1901-JP": {
+    "name": "$dungeonTitle:23010003$"
+  },
+  "256-Develop-JP": {
+    "name": "$dungeonTitle:23018003$"
+  },
+  "270-Develop-JP": {
+    "name": "ルディブリアム時計塔"
+  },
+  "282-DungeonOpenJP1901-JP": {
+    "name": "$dungeonTitle:23007003$"
+  },
+  "283-DungeonOpenJP1901-JP": {
+    "name": "$dungeonTitle:23008003$"
+  },
+  "284-Develop-JP": {
+    "name": "$dungeonTitle:24090005$"
+  }
+}

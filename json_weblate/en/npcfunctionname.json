@@ -1,0 +1,2213 @@
+{
+  "11000004--": {
+    "name": "Gear Shop"
+  },
+  "11000010--": {
+    "name": "Supply Shop"
+  },
+  "11000011--": {
+    "name": "Bank"
+  },
+  "11000013--": {
+    "name": "Traveling Shop"
+  },
+  "11000016--": {
+    "name": "Ferry"
+  },
+  "11000017--": {
+    "name": "Specialty Shop"
+  },
+  "11000018--": {
+    "name": "Gear Shop"
+  },
+  "11000028--": {
+    "name": "Gear Shop"
+  },
+  "11000029--": {
+    "name": "Supply Shop"
+  },
+  "11000038--": {
+    "name": "Hospital"
+  },
+  "11000040--": {
+    "name": "Master Knight"
+  },
+  "11000041--": {
+    "name": "Master Berserker"
+  },
+  "11000042--": {
+    "name": "Master Wizard"
+  },
+  "11000043--": {
+    "name": "Master Priest"
+  },
+  "11000045--": {
+    "name": "Master Archer"
+  },
+  "11000046--": {
+    "name": "Master Heavy Gunner"
+  },
+  "11000048--": {
+    "name": "Quartermaster"
+  },
+  "11000050--": {
+    "name": "Master Thief"
+  },
+  "11000051--": {
+    "name": "Master Assassin"
+  },
+  "11000070--": {
+    "name": "Hospital"
+  },
+  "11000071--": {
+    "name": "Face Plastic Surgery"
+  },
+  "11000072--": {
+    "name": "Skin Color"
+  },
+  "11000079--": {
+    "name": "Supply Shop"
+  },
+  "11000117--": {
+    "name": "General Shop"
+  },
+  "11000133--": {
+    "name": "Craft Shop"
+  },
+  "11000155--": {
+    "name": "Bank"
+  },
+  "11000249--": {
+    "name": "Gear Shop"
+  },
+  "11000250--": {
+    "name": "Supply Shop"
+  },
+  "11000253--": {
+    "name": "Saved Hairstyles"
+  },
+  "11000255--": {
+    "name": "Hairstyles"
+  },
+  "11000256--": {
+    "name": "Cosmetics"
+  },
+  "11000257--": {
+    "name": "Gear Dyeing"
+  },
+  "11000261--": {
+    "name": "Hospital"
+  },
+  "11000267--": {
+    "name": "Gear Shop"
+  },
+  "11000268--": {
+    "name": "Supply Shop"
+  },
+  "11000272--": {
+    "name": "Supply Shop"
+  },
+  "11000273--": {
+    "name": "Hospital"
+  },
+  "11000274--": {
+    "name": "Hospital"
+  },
+  "11000275--": {
+    "name": "Hospital"
+  },
+  "11000276--": {
+    "name": "Bank"
+  },
+  "11000277--": {
+    "name": "Bank"
+  },
+  "11000278--": {
+    "name": "Bank"
+  },
+  "11000279--": {
+    "name": "Bank"
+  },
+  "11000304--": {
+    "name": "Forest Shop"
+  },
+  "11000313--": {
+    "name": "Craft Shop"
+  },
+  "11000314--": {
+    "name": "Craft Shop"
+  },
+  "11000315--": {
+    "name": "Craft Shop"
+  },
+  "11000316--": {
+    "name": "Mount Shop"
+  },
+  "11000419--": {
+    "name": "Hospital"
+  },
+  "11000433--": {
+    "name": "Mount Shop"
+  },
+  "11000434--": {
+    "name": "Mount Shop"
+  },
+  "11000435--": {
+    "name": "Mount Shop"
+  },
+  "11000436--": {
+    "name": "Hospital"
+  },
+  "11000445--": {
+    "name": "Juice Shop"
+  },
+  "11000459--": {
+    "name": "Concessions"
+  },
+  "11000463--": {
+    "name": "Shadow Gear Shop"
+  },
+  "11000469--": {
+    "name": "Shadow Gear Shop"
+  },
+  "11000470--": {
+    "name": "Shadow Gear Shop"
+  },
+  "11000494--": {
+    "name": "Craft Shop"
+  },
+  "11000495--": {
+    "name": "Craft Shop"
+  },
+  "11000508--": {
+    "name": "Enchanting"
+  },
+  "11000509--": {
+    "name": "Enchanting"
+  },
+  "11000510--": {
+    "name": "Enchanting"
+  },
+  "11000512--": {
+    "name": "Diligent Worker"
+  },
+  "11000535--": {
+    "name": "Cathy Mart"
+  },
+  "11000536--": {
+    "name": "Cathy Mart"
+  },
+  "11000537--": {
+    "name": "Cathy Mart"
+  },
+  "11000538--": {
+    "name": "Cathy Mart"
+  },
+  "11000544--": {
+    "name": "Dignified Butler"
+  },
+  "11000561--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11000562--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11000563--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11000564--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11000582--": {
+    "name": "Hospital"
+  },
+  "11000583--": {
+    "name": "Hospital"
+  },
+  "11000584--": {
+    "name": "Hospital"
+  },
+  "11000585--": {
+    "name": "Ferry"
+  },
+  "11000611--": {
+    "name": "Guild Lounge Agent"
+  },
+  "11000612--": {
+    "name": "Guild Lounge Agent"
+  },
+  "11000620--": {
+    "name": "Battle Gear Shop"
+  },
+  "11000621--": {
+    "name": "Supply Shop"
+  },
+  "11000623--": {
+    "name": "Gear Shop"
+  },
+  "11000624--": {
+    "name": "Gear Shop"
+  },
+  "11000625--": {
+    "name": "Bank"
+  },
+  "11000626--": {
+    "name": "Mount Shop"
+  },
+  "11000627--": {
+    "name": "Shadow Mount Shop"
+  },
+  "11000658--": {
+    "name": "Hospital"
+  },
+  "11000662--": {
+    "name": "Black Market"
+  },
+  "11000698--": {
+    "name": "Black Market"
+  },
+  "11000699--": {
+    "name": "Black Market"
+  },
+  "11000706--": {
+    "name": "Battle Supply Shop"
+  },
+  "11000711--": {
+    "name": "Bunny Gal"
+  },
+  "11000757--": {
+    "name": "Pictorial Shop"
+  },
+  "11000758--": {
+    "name": "Reserved Worker"
+  },
+  "11000759--": {
+    "name": "Mysterious Butler"
+  },
+  "11000760--": {
+    "name": "Assistant"
+  },
+  "11000761--": {
+    "name": "Servant"
+  },
+  "11000762--": {
+    "name": "Hospital"
+  },
+  "11000764--": {
+    "name": "Coy Bunny"
+  },
+  "11000767--": {
+    "name": "Aspiring Sailor"
+  },
+  "11000768--": {
+    "name": "Lazy Loafer"
+  },
+  "11000769--": {
+    "name": "Kindly Fellow"
+  },
+  "11000770--": {
+    "name": "Cheerful Assistant"
+  },
+  "11000771--": {
+    "name": "Resolute Worker"
+  },
+  "11000772--": {
+    "name": "Consumer Bot"
+  },
+  "11000773--": {
+    "name": "Off-putting Surgeon"
+  },
+  "11000774--": {
+    "name": "Boy Visionary"
+  },
+  "11000777--": {
+    "name": "Pampered Feline"
+  },
+  "11000778--": {
+    "name": "Cheerful Bunny"
+  },
+  "11000779--": {
+    "name": "Black Market Trader"
+  },
+  "11000780--": {
+    "name": "Teen Heartthrob"
+  },
+  "11000781--": {
+    "name": "Fishing Supply Shop"
+  },
+  "11000785--": {
+    "name": "Eccentric Soldier"
+  },
+  "11000786--": {
+    "name": "Green Hood Assistant"
+  },
+  "11000787--": {
+    "name": "Future Emcee"
+  },
+  "11000788--": {
+    "name": "Aspiring Captain"
+  },
+  "11000789--": {
+    "name": "Forest Elf"
+  },
+  "11000790--": {
+    "name": "Surly Stinker"
+  },
+  "11000791--": {
+    "name": "Trader Extraordinaire"
+  },
+  "11000792--": {
+    "name": "Intellectual Elf"
+  },
+  "11000793--": {
+    "name": "Business Savant"
+  },
+  "11000794--": {
+    "name": "Timid Sprite"
+  },
+  "11000796--": {
+    "name": "Assistant"
+  },
+  "11000797--": {
+    "name": "Servant"
+  },
+  "11000798--": {
+    "name": "Assistant"
+  },
+  "11000799--": {
+    "name": "Servant"
+  },
+  "11000877--": {
+    "name": "Karma Collector"
+  },
+  "11000878--": {
+    "name": "Karma Collector"
+  },
+  "11000896--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11000897--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11000898--": {
+    "name": "Hospital"
+  },
+  "11000899--": {
+    "name": "Hospital"
+  },
+  "11000900--": {
+    "name": "Craft Shop"
+  },
+  "11000903--": {
+    "name": "Assistant"
+  },
+  "11000906--": {
+    "name": "Assistant"
+  },
+  "11000907--": {
+    "name": "Assistant"
+  },
+  "11000908--": {
+    "name": "Assistant"
+  },
+  "11000918--": {
+    "name": "Assistant"
+  },
+  "11000919--": {
+    "name": "Assistant"
+  },
+  "11000933--": {
+    "name": "Shadow Mount Shop"
+  },
+  "11000934--": {
+    "name": "Shadow Mount Shop"
+  },
+  "11000939--": {
+    "name": "Assistant"
+  },
+  "11000947--": {
+    "name": "Hospital"
+  },
+  "11000948--": {
+    "name": "Hospital"
+  },
+  "11000949--": {
+    "name": "Hospital"
+  },
+  "11000950--": {
+    "name": "Hospital"
+  },
+  "11000951--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11000952--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11000953--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11000954--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11000955--": {
+    "name": "Supply Shop"
+  },
+  "11000981--": {
+    "name": "Navigator"
+  },
+  "11000982--": {
+    "name": "Navigator"
+  },
+  "11000994--": {
+    "name": "???"
+  },
+  "11001013--": {
+    "name": "Balmy Shop"
+  },
+  "11001017--": {
+    "name": "Bank"
+  },
+  "11001018--": {
+    "name": "Bank"
+  },
+  "11001061--": {
+    "name": "Fan Art Book Stand"
+  },
+  "11001087--": {
+    "name": "Hospital"
+  },
+  "11001088--": {
+    "name": "Hospital"
+  },
+  "11001089--": {
+    "name": "Hospital"
+  },
+  "11001090--": {
+    "name": "Hospital"
+  },
+  "11001091--": {
+    "name": "Hospital"
+  },
+  "11001092--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11001093--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11001094--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11001095--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11001096--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11001100--": {
+    "name": "Battle Supply Shop"
+  },
+  "11001101--": {
+    "name": "Hospital"
+  },
+  "11001102--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11001103--": {
+    "name": "Chaos Onyx Collector"
+  },
+  "11001163--": {
+    "name": "Battle Supply Shop"
+  },
+  "11001164--": {
+    "name": "Halloween Event Shop"
+  },
+  "11001182--": {
+    "name": "Allicari Merchant Society Shop"
+  },
+  "11001197--": {
+    "name": "Trophy Pendant Shop"
+  },
+  "11001212--": {
+    "name": "Smuggler"
+  },
+  "11001228--": {
+    "name": "Havi Fairy"
+  },
+  "11001257--": {
+    "name": "Waystation Caretaker"
+  },
+  "11001269--": {
+    "name": "Holiday Event Shop"
+  },
+  "11001270--": {
+    "name": "Blue Star Keeper"
+  },
+  "11001271--": {
+    "name": "Blue Star Keeper"
+  },
+  "11001272--": {
+    "name": "Red Star Keeper"
+  },
+  "11001273--": {
+    "name": "Red Star Keeper"
+  },
+  "11001276--": {
+    "name": "Lumiwind Pilot"
+  },
+  "11001320--": {
+    "name": "Music Academy Head"
+  },
+  "11001322--": {
+    "name": "Music Academy Head"
+  },
+  "11001324--": {
+    "name": "Hospital"
+  },
+  "11001325--": {
+    "name": "Gear Shop"
+  },
+  "11001326--": {
+    "name": "Bank"
+  },
+  "11001327--": {
+    "name": "Black Market"
+  },
+  "11001403--": {
+    "name": "Lumiwind Pilot"
+  },
+  "11001429--": {
+    "name": "Servant"
+  },
+  "11001435--": {
+    "name": "Heavenbound Hog"
+  },
+  "11001436--": {
+    "name": "Heavenbound Hog"
+  },
+  "11001440--": {
+    "name": "Collector"
+  },
+  "11001441--": {
+    "name": "Supply Shop"
+  },
+  "11001442--": {
+    "name": "Gear Shop"
+  },
+  "11001443--": {
+    "name": "Hospital"
+  },
+  "11001449--": {
+    "name": "Fishing Supply Shop"
+  },
+  "11001450--": {
+    "name": "Craft Shop"
+  },
+  "11001464--": {
+    "name": "Craft Shop"
+  },
+  "11001465--": {
+    "name": "Bank"
+  },
+  "11001486--": {
+    "name": "Allicari Merchant Society Shop"
+  },
+  "11001489--": {
+    "name": "Nether Guide"
+  },
+  "11001504--": {
+    "name": "Nether Guide"
+  },
+  "11001513-SpecialHair-": {
+    "name": "Special Hairstyles"
+  },
+  "11001514-SpecialHair-": {
+    "name": "Chic Salon Stylist"
+  },
+  "11001515--": {
+    "name": "Frost Messenger"
+  },
+  "11001516--": {
+    "name": "Frost Messenger"
+  },
+  "11001518--": {
+    "name": "School Union Member"
+  },
+  "11001519--": {
+    "name": "School Union Member"
+  },
+  "11001526--": {
+    "name": "Fishing Supply Shop"
+  },
+  "11001532--": {
+    "name": "Juice Shop"
+  },
+  "11001535--": {
+    "name": "Smuggler"
+  },
+  "11001552--": {
+    "name": "Fishing Supply Shop"
+  },
+  "11001668--": {
+    "name": "Hospital"
+  },
+  "11001864--": {
+    "name": "Music Academy Head"
+  },
+  "11001866--": {
+    "name": "Music Academy Head"
+  },
+  "11001871--": {
+    "name": "Enchanting"
+  },
+  "11001875--": {
+    "name": "Part-timer"
+  },
+  "11001935--": {
+    "name": "Battle Sim Operator"
+  },
+  "11001951--": {
+    "name": "Roaming Shop"
+  },
+  "11001952--": {
+    "name": "Roaming Shop"
+  },
+  "11002000--": {
+    "name": "Resident Doctor"
+  },
+  "11002001--": {
+    "name": "Resident Shop"
+  },
+  "11002002--": {
+    "name": "Resident Doctor"
+  },
+  "11002003--": {
+    "name": "Resident Doctor"
+  },
+  "11002004--": {
+    "name": "Resident Doctor"
+  },
+  "11002005--": {
+    "name": "Resident Doctor"
+  },
+  "11002006--": {
+    "name": "Resident Doctor"
+  },
+  "11002007--": {
+    "name": "Resident Doctor"
+  },
+  "11002008--": {
+    "name": "Resident Doctor"
+  },
+  "11002009--": {
+    "name": "Resident Doctor"
+  },
+  "11002010--": {
+    "name": "Resident Doctor"
+  },
+  "11002011--": {
+    "name": "Resident Doctor"
+  },
+  "11002012--": {
+    "name": "Resident Doctor"
+  },
+  "11002013--": {
+    "name": "Resident Doctor"
+  },
+  "11002014--": {
+    "name": "Resident Doctor"
+  },
+  "11002015--": {
+    "name": "Resident Doctor"
+  },
+  "11002016--": {
+    "name": "Resident Doctor"
+  },
+  "11002017--": {
+    "name": "Resident Shop"
+  },
+  "11002018--": {
+    "name": "Resident Shop"
+  },
+  "11002019--": {
+    "name": "Resident Shop"
+  },
+  "11002020--": {
+    "name": "Resident Shop"
+  },
+  "11002021--": {
+    "name": "Resident Shop"
+  },
+  "11002022--": {
+    "name": "Resident Shop"
+  },
+  "11002023--": {
+    "name": "Resident Shop"
+  },
+  "11002024--": {
+    "name": "Resident Shop"
+  },
+  "11002025--": {
+    "name": "Resident Shop"
+  },
+  "11002026--": {
+    "name": "Resident Shop"
+  },
+  "11002027--": {
+    "name": "Resident Shop"
+  },
+  "11002028--": {
+    "name": "Resident Shop"
+  },
+  "11002029--": {
+    "name": "Resident Shop"
+  },
+  "11002030--": {
+    "name": "Resident Shop"
+  },
+  "11002031--": {
+    "name": "Resident Shop"
+  },
+  "11002032--": {
+    "name": "Resident Shop"
+  },
+  "11002033--": {
+    "name": "Resident Shop"
+  },
+  "11002034--": {
+    "name": "Resident Shop"
+  },
+  "11002035--": {
+    "name": "Resident Shop"
+  },
+  "11002036--": {
+    "name": "Resident Shop"
+  },
+  "11002037--": {
+    "name": "Resident Shop"
+  },
+  "11002038--": {
+    "name": "Resident Shop"
+  },
+  "11002039--": {
+    "name": "Resident Shop"
+  },
+  "11002040--": {
+    "name": "Resident Doctor"
+  },
+  "11002041--": {
+    "name": "Resident Doctor"
+  },
+  "11002042--": {
+    "name": "Resident Doctor"
+  },
+  "11002043--": {
+    "name": "Resident Doctor"
+  },
+  "11002044--": {
+    "name": "Resident Doctor"
+  },
+  "11002045--": {
+    "name": "Resident Doctor"
+  },
+  "11002046--": {
+    "name": "Resident Doctor"
+  },
+  "11002047--": {
+    "name": "Resident Doctor"
+  },
+  "11002048--": {
+    "name": "Resident Doctor"
+  },
+  "11002049--": {
+    "name": "Resident Doctor"
+  },
+  "11002050--": {
+    "name": "Resident Shop"
+  },
+  "11002051--": {
+    "name": "Resident Shop"
+  },
+  "11002052--": {
+    "name": "Resident Shop"
+  },
+  "11002053--": {
+    "name": "Resident Shop"
+  },
+  "11002054--": {
+    "name": "Resident Shop"
+  },
+  "11002055--": {
+    "name": "Resident Shop"
+  },
+  "11002056--": {
+    "name": "Resident Shop"
+  },
+  "11002057--": {
+    "name": "Resident Shop"
+  },
+  "11002058--": {
+    "name": "Resident Shop"
+  },
+  "11002059--": {
+    "name": "Resident Shop"
+  },
+  "11002060--": {
+    "name": "Resident Shop"
+  },
+  "11002061--": {
+    "name": "Resident Shop"
+  },
+  "11002062--": {
+    "name": "Resident Shop"
+  },
+  "11002063--": {
+    "name": "Resident Shop"
+  },
+  "11002064--": {
+    "name": "Resident Shop"
+  },
+  "11003177--": {
+    "name": "Event Shop"
+  },
+  "11003377--": {
+    "name": "Roaming Shop"
+  },
+  "11003378--": {
+    "name": "Antique Medal Shop"
+  },
+  "11003385--": {
+    "name": "Reverse Gate Shop"
+  },
+  "11003405--": {
+    "name": "Shanghai Coin Shop"
+  },
+  "11003405-MassiveCrazyRunnersShanghai-NA": {
+    "name": "Lucky Pig Coin Shop"
+  },
+  "11003416--": {
+    "name": "Empowerment"
+  },
+  "11003458--": {
+    "name": "Blue Star Keeper"
+  },
+  "11003459--": {
+    "name": "Red Star Keeper"
+  },
+  "11003460--": {
+    "name": "Shadow Gear Shop"
+  },
+  "11003461--": {
+    "name": "Shadow Supply Shop"
+  },
+  "11003462--": {
+    "name": "Shadow Mount Shop"
+  },
+  "11003463--": {
+    "name": "Battle Gear Shop"
+  },
+  "11003464--": {
+    "name": "Reverse Gate Shop"
+  },
+  "11003465--": {
+    "name": "Havi Fairy"
+  },
+  "11003466--": {
+    "name": "Battle Sim Operator"
+  },
+  "11003503--": {
+    "name": "Team Mushroom Member"
+  },
+  "11003505--": {
+    "name": "Team Mushroom Grunt"
+  },
+  "11003506--": {
+    "name": "Supply Shop"
+  },
+  "11003507--": {
+    "name": "Team Mushroom Member"
+  },
+  "11003512--": {
+    "name": "Apeullela Chief"
+  },
+  "11003513--": {
+    "name": "Apeullela Villager"
+  },
+  "11003514--": {
+    "name": "Apeullela Villager"
+  },
+  "11003515--": {
+    "name": "Apeullela Villager"
+  },
+  "11003516--": {
+    "name": "Apeullela Villager"
+  },
+  "11003517--": {
+    "name": "Apeullela Villager"
+  },
+  "11003518--": {
+    "name": "Apeullela Villager"
+  },
+  "11003519--": {
+    "name": "Apeullela Villager"
+  },
+  "11003533--": {
+    "name": "Alliance Captain"
+  },
+  "11003534--": {
+    "name": "Vanguard Captain"
+  },
+  "11003535--": {
+    "name": "Intelligence Expert"
+  },
+  "11003536--": {
+    "name": "Tactical Officer"
+  },
+  "11003537--": {
+    "name": "Templar"
+  },
+  "11003552--": {
+    "name": "Harang Lake Guide"
+  },
+  "11003555--": {
+    "name": "Distinguished Tokens"
+  },
+  "11003558--": {
+    "name": "Event Shop"
+  },
+  "11003559--": {
+    "name": "Event Shop"
+  },
+  "11003560--": {
+    "name": "Dungeon Helper Shop"
+  },
+  "11003561--": {
+    "name": "Mentor Shop"
+  },
+  "11003562--": {
+    "name": "Mentee Shop"
+  },
+  "11003563--": {
+    "name": "Halloween Shop"
+  },
+  "11003573--": {
+    "name": "Pumpkin Carriage Shop"
+  },
+  "11003722--": {
+    "name": "Zakum's Clone"
+  },
+  "11003774--": {
+    "name": "Fishing Shop"
+  },
+  "11003803--": {
+    "name": "Gear Shop"
+  },
+  "11003804--": {
+    "name": "Supply Shop"
+  },
+  "11003805--": {
+    "name": "Craft Shop"
+  },
+  "11003806--": {
+    "name": "Fishing Shop"
+  },
+  "11003807--": {
+    "name": "Music Merchant"
+  },
+  "11003808--": {
+    "name": "Bank"
+  },
+  "11003809--": {
+    "name": "Hospital"
+  },
+  "11003854--": {
+    "name": "((China Only)) Gold Yuanbao Owner"
+  },
+  "11003859--": {
+    "name": "Goods Supplier"
+  },
+  "11004039--": {
+    "name": "Event Shop"
+  },
+  "11004040--": {
+    "name": "Fishing Supply Shop"
+  },
+  "11004132--": {
+    "name": "Mushking Outfit Shop"
+  },
+  "11004133--": {
+    "name": "Mushking Supply Shop"
+  },
+  "11004215--": {
+    "name": "Gemstone Upgrades"
+  },
+  "11004216--": {
+    "name": "Lumistone Upgrade Support"
+  },
+  "11004231--": {
+    "name": "Stellar Shop"
+  },
+  "11004243--": {
+    "name": "Mutual Help Knight Shop"
+  },
+  "11004247-SurvivalContents03-": {
+    "name": "Bank"
+  },
+  "11004248-Season1-": {
+    "name": "NPCFUNCTIONNAME_11004248_NAME:[F]Season1"
+  },
+  "11004248-Season1-NA": {
+    "name": "Moon Bunny"
+  },
+  "11004312-Kritias_2018_12-": {
+    "name": "Alliance Captain"
+  },
+  "11004313-Kritias_2018_12-": {
+    "name": "Vanguard Captain"
+  },
+  "11004314-Kritias_2018_12-": {
+    "name": "Intelligence Officer"
+  },
+  "11004315-Kritias_2018_12-": {
+    "name": "Tactical Officer"
+  },
+  "11004316-Kritias_2018_12-": {
+    "name": "Templar"
+  },
+  "11004318-Season1-": {
+    "name": "Hospital"
+  },
+  "11004442-Kritias_2018_12-": {
+    "name": "Mount Shop"
+  },
+  "11004443-Kritias_2018_12-": {
+    "name": "Supply Shop"
+  },
+  "11004444-Kritias_2018_12-": {
+    "name": "Gear Shop"
+  },
+  "11004445-Kritias_2018_12-": {
+    "name": "Craft Shop"
+  },
+  "11004446-MusicInstrument-": {
+    "name": "Royal Music Academy"
+  },
+  "11004447-GemStoneJewelBox_01-": {
+    "name": "Mage"
+  },
+  "11004448-GemStoneJewelBox_01-": {
+    "name": "Gemstone Upgrades"
+  },
+  "11004450-Kritias_2018_12-": {
+    "name": "Bank"
+  },
+  "11004451-Kritias_2018_12-": {
+    "name": "Hospital"
+  },
+  "11004452-Kritias_2018_12-": {
+    "name": "Black Market"
+  },
+  "11004453-Kritias_2018_12-": {
+    "name": "Fishing Shop"
+  },
+  "11004454-AricariDailyQ-": {
+    "name": "Allicari Merchant Society Shop"
+  },
+  "11004504-Kritias_2018_12-": {
+    "name": "Aetherine Supplies"
+  },
+  "11004517-Kritias_2018_12-": {
+    "name": "Maple Alliance Quartermaster"
+  },
+  "11004518-Kritias_2018_12-": {
+    "name": "Lumiknights Quartermaster"
+  },
+  "11004519-Kritias_2018_12-": {
+    "name": "Green Hoods Quartermaster"
+  },
+  "11004520-Kritias_2018_12-": {
+    "name": "Lumiwind Pilot"
+  },
+  "11004521-Kritias_2018_12-": {
+    "name": "Lumiwind Pilot"
+  },
+  "11004554--": {
+    "name": "Fairy Gold Collector"
+  },
+  "11004625--": {
+    "name": "Event Shop"
+  },
+  "11004636--": {
+    "name": "Humanitas Quartermaster"
+  },
+  "11004637--": {
+    "name": "Free Shop"
+  },
+  "11004639--": {
+    "name": "Secretary"
+  },
+  "11004674--": {
+    "name": "Event Shop"
+  },
+  "11004707-Wedding-": {
+    "name": "House Wedding Planner"
+  },
+  "11004708-Wedding-": {
+    "name": "Party Wedding Planner"
+  },
+  "11004709-Wedding-": {
+    "name": "Luxury Wedding Planner"
+  },
+  "11004710-Wedding-": {
+    "name": "Sky Castle Castellan"
+  },
+  "11004711-Wedding-": {
+    "name": "Luxury Cruise MC"
+  },
+  "11004712-Wedding-": {
+    "name": "Divorce Attorney"
+  },
+  "11004713-Wedding-": {
+    "name": "Divorce Attorney"
+  },
+  "11004714-Wedding-": {
+    "name": "Lucky Merchant"
+  },
+  "11004717-Event-": {
+    "name": "Witchling"
+  },
+  "11004722-Wedding-": {
+    "name": "Guardian Priest"
+  },
+  "11004723-Wedding-": {
+    "name": "Elder"
+  },
+  "11004724-Wedding-": {
+    "name": "Archmage"
+  },
+  "11004725-Wedding-": {
+    "name": "Pontiff"
+  },
+  "11004726-Event-": {
+    "name": "Event Shop"
+  },
+  "11004733-Wedding-": {
+    "name": "Luxury Cruise MC"
+  },
+  "11004738-Wedding-": {
+    "name": "Party Wedding Planner"
+  },
+  "11004745-Wedding-": {
+    "name": "House Wedding Planner"
+  },
+  "11004746-Wedding-": {
+    "name": "Party Wedding Planner"
+  },
+  "11004747-Wedding-": {
+    "name": "Luxury Wedding Planner"
+  },
+  "11004748-Wedding-": {
+    "name": "House Wedding Planner"
+  },
+  "11004749-Wedding-": {
+    "name": "Party Wedding Planner"
+  },
+  "11004750-Wedding-": {
+    "name": "Luxury Wedding Planner"
+  },
+  "11004751-Wedding-": {
+    "name": "House Wedding Planner"
+  },
+  "11004752-Wedding-": {
+    "name": "Party Wedding Planner"
+  },
+  "11004753-Wedding-": {
+    "name": "Luxury Wedding Planner"
+  },
+  "11004754-Wedding-": {
+    "name": "Proposal Helper"
+  },
+  "11004755-Wedding-": {
+    "name": "Wedding Invitation Sender"
+  },
+  "11004756-Wedding-": {
+    "name": "Location Manager"
+  },
+  "11004757-Wedding-": {
+    "name": "Location Manager"
+  },
+  "11004758-Wedding-": {
+    "name": "Location Manager"
+  },
+  "11004772-Wedding-": {
+    "name": "Young Wedding Consultant"
+  },
+  "11004773-Wedding-": {
+    "name": "Young Wedding Consultant"
+  },
+  "11004774--NA": {
+    "name": "Style Coin Shop"
+  },
+  "11004776-Event-": {
+    "name": "Event Shop"
+  },
+  "11200000--": {
+    "name": "Hospital"
+  },
+  "11200002--": {
+    "name": "Royal Music Academy Delegate"
+  },
+  "11200003--": {
+    "name": "Gear Shop"
+  },
+  "11200004--": {
+    "name": "Gemstone Shop"
+  },
+  "11200006--": {
+    "name": "Empowerment Material Shop"
+  },
+  "11000004-Season1-": {
+    "name": "Gear Shop"
+  },
+  "11000018-Season1-": {
+    "name": "Gear Shop"
+  },
+  "11000028-Season1-": {
+    "name": "Gear Shop"
+  },
+  "11000249-Season1-": {
+    "name": "Gear Shop"
+  },
+  "11000267-Season1-": {
+    "name": "Gear Shop"
+  },
+  "11000623-Season1-": {
+    "name": "Gear Shop"
+  },
+  "11000624-Season1-": {
+    "name": "Gear Shop"
+  },
+  "11001325-KarkarIsland-": {
+    "name": "Gear Shop"
+  },
+  "11001442-KarkarIsland-": {
+    "name": "Gear Shop"
+  },
+  "11000010-Season1-": {
+    "name": "Supply Shop"
+  },
+  "11000029-Season1-": {
+    "name": "Supply Shop"
+  },
+  "11000079-Season1-": {
+    "name": "Supply Shop"
+  },
+  "11000250-Season1-": {
+    "name": "Supply Shop"
+  },
+  "11000268-Season1-": {
+    "name": "Supply Shop"
+  },
+  "11000272-Season1-": {
+    "name": "Supply Shop"
+  },
+  "11000621-Season1-": {
+    "name": "Supply Shop"
+  },
+  "11000955-KarkarIsland-": {
+    "name": "Supply Shop"
+  },
+  "11001441-KarkarIsland-": {
+    "name": "Supply Shop"
+  },
+  "11000011-Season1-": {
+    "name": "Bank"
+  },
+  "11000155-Season1-": {
+    "name": "Bank"
+  },
+  "11000276-Season1-": {
+    "name": "Bank"
+  },
+  "11000277-Season1-": {
+    "name": "Bank"
+  },
+  "11000278-Season1-": {
+    "name": "Bank"
+  },
+  "11000279-Season1-": {
+    "name": "Bank"
+  },
+  "11000625-Season1-": {
+    "name": "Bank"
+  },
+  "11001017-Season1-": {
+    "name": "Bank"
+  },
+  "11001018-Season1-": {
+    "name": "Bank"
+  },
+  "11001326-KarkarIsland-": {
+    "name": "Bank"
+  },
+  "11000038-Season1-": {
+    "name": "Hospital"
+  },
+  "11000070-Season1-": {
+    "name": "Hospital"
+  },
+  "11000261-Season1-": {
+    "name": "Hospital"
+  },
+  "11000273-Season1-": {
+    "name": "Hospital"
+  },
+  "11000274-Season1-": {
+    "name": "Hospital"
+  },
+  "11000275-Season1-": {
+    "name": "Hospital"
+  },
+  "11000419-Season1-": {
+    "name": "Hospital"
+  },
+  "11000436-Season1-": {
+    "name": "Hospital"
+  },
+  "11000582-Season1-": {
+    "name": "Hospital"
+  },
+  "11000583-Season1-": {
+    "name": "Hospital"
+  },
+  "11000584-Season1-": {
+    "name": "Hospital"
+  },
+  "11000658-Season1-": {
+    "name": "Hospital"
+  },
+  "11000762-Season1-": {
+    "name": "Hospital"
+  },
+  "11000898-Season1-": {
+    "name": "Hospital"
+  },
+  "11000899-Season1-": {
+    "name": "Hospital"
+  },
+  "11000947-Season1-": {
+    "name": "Hospital"
+  },
+  "11000948-Season1-": {
+    "name": "Hospital"
+  },
+  "11000949-Season1-": {
+    "name": "Hospital"
+  },
+  "11000950-Season1-": {
+    "name": "Hospital"
+  },
+  "11001091-Season1-": {
+    "name": "Hospital"
+  },
+  "11001324-KarkarIsland-": {
+    "name": "Hospital"
+  },
+  "11001443-KarkarIsland-": {
+    "name": "Hospital"
+  },
+  "11000133-Season1-": {
+    "name": "Craft Shop"
+  },
+  "11000313-Season1-": {
+    "name": "Craft Shop"
+  },
+  "11000314-Season1-": {
+    "name": "Craft Shop"
+  },
+  "11000315-Season1-": {
+    "name": "Craft Shop"
+  },
+  "11000494-Season1-": {
+    "name": "Craft Shop"
+  },
+  "11000495-Season1-": {
+    "name": "Craft Shop"
+  },
+  "11000900-Season1-": {
+    "name": "Craft Shop"
+  },
+  "11000316-Season1-": {
+    "name": "Mount Shop"
+  },
+  "11000433-Season1-": {
+    "name": "Mount Shop"
+  },
+  "11000434-Season1-": {
+    "name": "Mount Shop"
+  },
+  "11000435-Season1-": {
+    "name": "Mount Shop"
+  },
+  "11000626-Season1-": {
+    "name": "Mount Shop"
+  },
+  "11000662-Season1-": {
+    "name": "Black Market"
+  },
+  "11000698-Season1-": {
+    "name": "Black Market"
+  },
+  "11000699-Season1-": {
+    "name": "Black Market"
+  },
+  "11001327-KarkarIsland-": {
+    "name": "Black Market"
+  },
+  "11000781-Season1-": {
+    "name": "Fishing Shop"
+  },
+  "11001182-AricariDailyQ-": {
+    "name": "Allicari Merchant Society Shop"
+  },
+  "11001276-KarkarIsland-": {
+    "name": "Lumiwind Pilot"
+  },
+  "11001403-KarkarIsland-": {
+    "name": "Lumiwind Pilot"
+  },
+  "11000013-Season1-": {
+    "name": "Traveling Merchant"
+  },
+  "11000016-Season1-": {
+    "name": "Boatman"
+  },
+  "11000585-Season1-": {
+    "name": "Boatman"
+  },
+  "11000017-Season1-": {
+    "name": "Specialty Goods Trader"
+  },
+  "11000040-Season1-": {
+    "name": "Knight Master"
+  },
+  "11000041-Season1-": {
+    "name": "Berserker Master"
+  },
+  "11000042-Season1-": {
+    "name": "Wizard Master"
+  },
+  "11000043-Season1-": {
+    "name": "Priest Master"
+  },
+  "11000045-Season1-": {
+    "name": "Archer Master"
+  },
+  "11000046-Season1-": {
+    "name": "Heavy Gunner Master"
+  },
+  "11000048-Season1-": {
+    "name": " Supply Manager"
+  },
+  "11000050-Season1-": {
+    "name": "Thief Master"
+  },
+  "11000051-Season1-": {
+    "name": "Assassin Master"
+  },
+  "11000071-Season1-": {
+    "name": "Plastic Surgeon"
+  },
+  "11000072-Season1-": {
+    "name": "Dermatologist"
+  },
+  "11000117-Season1-": {
+    "name": "All Goods Merchant"
+  },
+  "11000253-Season1-": {
+    "name": "Hair Storage Designer"
+  },
+  "11000255-Season1-": {
+    "name": "Hair Salon Director"
+  },
+  "11000256-Season1-": {
+    "name": "Makeup Artist"
+  },
+  "11000257-Season1-": {
+    "name": "Dye Master"
+  },
+  "11000304-Season1-": {
+    "name": "Forest Peddler"
+  },
+  "11000445-Season1-": {
+    "name": "Tropical Juice Maker"
+  },
+  "11000459-Season1-": {
+    "name": "Bundle Merchant"
+  },
+  "11000463-ShadowCrack-": {
+    "name": "Shadow Equipment Merchant"
+  },
+  "11000469-ShadowCrack-": {
+    "name": "Shadow Equipment Merchant"
+  },
+  "11000470-ShadowCrack-": {
+    "name": "Shadow Equipment Merchant"
+  },
+  "11000508-Season1-": {
+    "name": "Enchant Master"
+  },
+  "11000510-Peachy01-": {
+    "name": "Enchant Master"
+  },
+  "11000512-Season1-": {
+    "name": "Kind Maid"
+  },
+  "11000535-Season1-": {
+    "name": "Cash Mart Counter Staff"
+  },
+  "11000536-Season1-": {
+    "name": "Cash Mart Counter Staff"
+  },
+  "11000537-Season1-": {
+    "name": "Cash Mart Counter Staff"
+  },
+  "11000538-Season1-": {
+    "name": "Cash Mart Counter Staff"
+  },
+  "11000544-Season1-": {
+    "name": "Gentle Butler"
+  },
+  "11000561-ShadowCrack-": {
+    "name": "Shadow General Goods Merchant"
+  },
+  "11000562-ShadowCrack-": {
+    "name": "Shadow General Goods Merchant"
+  },
+  "11000563-ShadowCrack-": {
+    "name": "Shadow General Goods Merchant"
+  },
+  "11000564-ShadowCrack-": {
+    "name": "Shadow General Goods Merchant"
+  },
+  "11000896-ShadowCrack-": {
+    "name": "Shadow General Goods Merchant"
+  },
+  "11000897-ShadowCrack-": {
+    "name": "Shadow General Goods Merchant"
+  },
+  "11000951-ShadowCrack-": {
+    "name": "Shadow General Goods Merchant"
+  },
+  "11000952-ShadowCrack-": {
+    "name": "Shadow General Goods Merchant"
+  },
+  "11000953-ShadowCrack-": {
+    "name": "Shadow General Goods Merchant"
+  },
+  "11000954-ShadowCrack-": {
+    "name": "Shadow General Goods Merchant"
+  },
+  "11001096-ShadowCrack-": {
+    "name": "Shadow General Goods Merchant"
+  },
+  "11000627-ShadowCrack-": {
+    "name": "Shadow Mount Merchant"
+  },
+  "11000933-ShadowCrack-": {
+    "name": "Shadow Mount Merchant"
+  },
+  "11000934-ShadowCrack-": {
+    "name": "Shadow Mount Merchant"
+  },
+  "11000711-Season1-": {
+    "name": "Bunny Girl"
+  },
+  "11000757-MikaBooks-": {
+    "name": "Photo Book Merchant"
+  },
+  "11000758-Season1-": {
+    "name": "Chic Maid"
+  },
+  "11000759-Season1-": {
+    "name": "Mystery Butler"
+  },
+  "11000764-Season1-": {
+    "name": "Pouty Bunny Girl"
+  },
+  "11000767-Season1-": {
+    "name": "Aspiring Explorer"
+  },
+  "11000768-Season1-": {
+    "name": "Grumpy Butler"
+  },
+  "11000769-Season1-": {
+    "name": "Kind Grandfather"
+  },
+  "11000770-Season1-": {
+    "name": "Caring Maid"
+  },
+  "11000771-Season1-": {
+    "name": "Lively Maid"
+  },
+  "11000772-Season1-": {
+    "name": "Household Robot"
+  },
+  "11000773-Season1-": {
+    "name": "Suspicious Butler"
+  },
+  "11000774-Season1-": {
+    "name": "30th Century Boy"
+  },
+  "11000777-Season1-": {
+    "name": "Proud Cat"
+  },
+  "11000778-Season1-": {
+    "name": "Fresh Bunny Girl"
+  },
+  "11000779-Season1-": {
+    "name": "Intellectual Secretary"
+  },
+  "11000780-Season1-": {
+    "name": "Heart-Pounding Idol"
+  },
+  "11000785-Season1-": {
+    "name": "Silly Guard"
+  },
+  "11000786-Season1-": {
+    "name": "Green Hood Maid"
+  },
+  "11000787-Season1-": {
+    "name": "Dreaming of a Famous MC"
+  },
+  "11000788-Season1-": {
+    "name": "Aspiring Adventurer"
+  },
+  "11000789-Season1-": {
+    "name": "Forest Elf"
+  },
+  "11000790-Season1-": {
+    "name": "Surly Stinker"
+  },
+  "11000791-Season1-": {
+    "name": "Trader Extraordinaire"
+  },
+  "11000792-Season1-": {
+    "name": "Intellectual Elf"
+  },
+  "11000793-Season1-": {
+    "name": "Business Savant"
+  },
+  "11000794-Season1-": {
+    "name": "Timid Sprite"
+  },
+  "11000981-Season1-": {
+    "name": "Sailor"
+  },
+  "11000982-Season1-": {
+    "name": "Sailor"
+  },
+  "11000994-Season1-": {
+    "name": "Odd Jobber"
+  },
+  "11001013-Season1-": {
+    "name": "Baaalmy Merchant"
+  },
+  "11001061-Season1-": {
+    "name": "Fan Art Book Stand"
+  },
+  "11001103-Season1-": {
+    "name": "Chaonix Collector"
+  },
+  "11001163-Season1-": {
+    "name": "Battle General Goods Merchant"
+  },
+  "11001164-Season1-": {
+    "name": "Halloween Event Merchant"
+  },
+  "11001197-Season1-": {
+    "name": "Trophy Pendant Merchant"
+  },
+  "11001212-Balrogitem1st-": {
+    "name": "Black Market Dealer"
+  },
+  "11001228-TimeAttackDungeon-": {
+    "name": "Harvey Collecting Fairy"
+  },
+  "11001257-RuneBlader-": {
+    "name": "Storage Keeper"
+  },
+  "11001269-Season1-": {
+    "name": "Christmas Event Merchant"
+  },
+  "11001270-Season3-": {
+    "name": "Blue Starwatcher"
+  },
+  "11001271-Season3-": {
+    "name": "Blue Starwatcher"
+  },
+  "11001272-Season3-": {
+    "name": "Red Starwatcher"
+  },
+  "11001273-Season3-": {
+    "name": "Red Starwatcher"
+  },
+  "11001320-MusicInstrument-": {
+    "name": "Royal Music Academy Administrator"
+  },
+  "11001322-MusicInstrument-": {
+    "name": "Royal Music Academy Administrator"
+  },
+  "11001429-KarkarIsland-": {
+    "name": "Attendant"
+  },
+  "11001435-KarkarIsland-": {
+    "name": "Celestial Guide"
+  },
+  "11001436-KarkarIsland-": {
+    "name": "Celestial Guide"
+  },
+  "11001440-KarkarIsland-": {
+    "name": "Collector"
+  },
+  "11001449-KarkarIsland-": {
+    "name": "Fishing Shop"
+  },
+  "11001552-Fishing-": {
+    "name": "Fishing Shop"
+  },
+  "11003774-Season1-": {
+    "name": "Fishing Shop"
+  },
+  "11004040-Season1-": {
+    "name": "Fishing Shop"
+  },
+  "11001450-KarkarIsland-": {
+    "name": "Craft Shop"
+  },
+  "11001464-KarkarIsland-": {
+    "name": "Craft Shop"
+  },
+  "11001465-KarkarIsland-": {
+    "name": "Bank"
+  },
+  "11001486-AricariDailyQ-": {
+    "name": "Allicari Merchant Society Shop"
+  },
+  "11001532-MassiveDanceDanceStop-": {
+    "name": "Tropical Juice Maker"
+  },
+  "11001668-UGCMapRenewal-": {
+    "name": "Hospital"
+  },
+  "11200000-GuildHouse01-": {
+    "name": "Hospital"
+  },
+  "11001864-ContentsGuide01-": {
+    "name": "Royal Music Academy Administrator"
+  },
+  "11001866-ContentsGuide01-": {
+    "name": "Royal Music Academy Administrator"
+  },
+  "11004876-EpicApocalypse04-": {
+    "name": "Royal Music Academy Administrator"
+  },
+  "11001871-ContentsGuide01-": {
+    "name": "Enchant Master"
+  },
+  "11003177-Season1-": {
+    "name": "Event Shop"
+  },
+  "11003558-Season1-": {
+    "name": "Event Shop"
+  },
+  "11003559-Season1-KR": {
+    "name": "Event Shop"
+  },
+  "11004039-Season1-": {
+    "name": "Event Shop"
+  },
+  "11004625-Season1-": {
+    "name": "Event Shop"
+  },
+  "11004674-Event-": {
+    "name": "Event Shop"
+  },
+  "11004695-Event-CN": {
+    "name": "Event Shop"
+  },
+  "11004844-Event-CN": {
+    "name": "Event Shop"
+  },
+  "11004845-Event-KR": {
+    "name": "Event Shop"
+  },
+  "11003458-Season3-": {
+    "name": "Blue Starwatcher"
+  },
+  "11003459-Season3-": {
+    "name": "Red Starwatcher"
+  },
+  "11003460-ShadowCrack-": {
+    "name": "Shadow Equipment Merchant"
+  },
+  "11003461-ShadowCrack-": {
+    "name": "Shadow General Goods Merchant"
+  },
+  "11003462-ShadowCrack-": {
+    "name": "Shadow Mount Merchant"
+  },
+  "11003464-ReverseShop01-": {
+    "name": "Reverse Gate Shop"
+  },
+  "11003465-TimeAttackDungeon-": {
+    "name": "Harvey Collecting Fairy"
+  },
+  "11003506-ContentsGuide03-": {
+    "name": "Supply Shop"
+  },
+  "11003533-FameContents-": {
+    "name": "Alliance Captain"
+  },
+  "11003534-FameContents-": {
+    "name": "Vanguard Captain"
+  },
+  "11003535-FameContents-": {
+    "name": "Intelligence Officer"
+  },
+  "11003536-FameContents-": {
+    "name": "Tactical Officer"
+  },
+  "11003537-FameContents-": {
+    "name": "Templar"
+  },
+  "11004215-GemStoneJewelBox_01-": {
+    "name": "Gemstone Upgrades"
+  },
+  "11004231-GemStoneJewelBox_01-": {
+    "name": "Mage"
+  },
+  "11200002-GuildHouse01-": {
+    "name": "Royal Music Academy"
+  },
+  "11200003-NpcRashi-": {
+    "name": "Gear Shop"
+  },
+  "11001489-KarkarIsland-": {
+    "name": "Guide of the Underground"
+  },
+  "11001504-KarkarIsland-": {
+    "name": "Guide of the Underground"
+  },
+  "11001875-ContentsGuide01-": {
+    "name": "Part-Time Worker"
+  },
+  "11001935-Season1-": {
+    "name": "Battle Simulator Attendant"
+  },
+  "11003466-ChaosRaid-": {
+    "name": "Battle Simulator Attendant"
+  },
+  "11002000-Season1-": {
+    "name": "Residents' Doctor"
+  },
+  "11002002-Season1-": {
+    "name": "Residents' Doctor"
+  },
+  "11002003-Season1-": {
+    "name": "Residents' Doctor"
+  },
+  "11002004-Season1-": {
+    "name": "Residents' Doctor"
+  },
+  "11002005-Season1-": {
+    "name": "Residents' Doctor"
+  },
+  "11002006-Season1-": {
+    "name": "Residents' Doctor"
+  },
+  "11002007-Season1-": {
+    "name": "Residents' Doctor"
+  },
+  "11002008-Season1-": {
+    "name": "Residents' Doctor"
+  },
+  "11002009-Season1-": {
+    "name": "Residents' Doctor"
+  },
+  "11002010-Season1-": {
+    "name": "Residents' Doctor"
+  },
+  "11002011-Season1-": {
+    "name": "Residents' Doctor"
+  },
+  "11002012-Season1-": {
+    "name": "Residents' Doctor"
+  },
+  "11002013-Season1-": {
+    "name": "Residents' Doctor"
+  },
+  "11002014-Season1-": {
+    "name": "Residents' Doctor"
+  },
+  "11002015-Season1-": {
+    "name": "Residents' Doctor"
+  },
+  "11002016-Season1-": {
+    "name": "Residents' Doctor"
+  },
+  "11002040-KarkarIsland-": {
+    "name": "Residents' Doctor"
+  },
+  "11002041-KarkarIsland-": {
+    "name": "Residents' Doctor"
+  },
+  "11002042-KarkarIsland-": {
+    "name": "Residents' Doctor"
+  },
+  "11002043-KarkarIsland-": {
+    "name": "Residents' Doctor"
+  },
+  "11002044-KarkarIsland-": {
+    "name": "Residents' Doctor"
+  },
+  "11002045-KarkarIsland-": {
+    "name": "Residents' Doctor"
+  },
+  "11002046-KarkarIsland-": {
+    "name": "Residents' Doctor"
+  },
+  "11002047-KarkarIsland-": {
+    "name": "Residents' Doctor"
+  },
+  "11002048-KarkarIsland-": {
+    "name": "Residents' Doctor"
+  },
+  "11002049-KarkarIsland-": {
+    "name": "Residents' Doctor"
+  },
+  "11002001-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002017-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002018-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002019-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002020-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002021-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002022-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002023-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002024-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002025-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002026-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002027-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002028-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002029-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002030-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002031-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002032-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002033-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002034-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002035-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002036-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002037-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002038-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002039-Season1-": {
+    "name": "Residents' Merchant"
+  },
+  "11002050-KarkarIsland-": {
+    "name": "Residents' Merchant"
+  },
+  "11002051-KarkarIsland-": {
+    "name": "Residents' Merchant"
+  },
+  "11002052-KarkarIsland-": {
+    "name": "Residents' Merchant"
+  },
+  "11002053-KarkarIsland-": {
+    "name": "Residents' Merchant"
+  },
+  "11002054-KarkarIsland-": {
+    "name": "Residents' Merchant"
+  },
+  "11002055-KarkarIsland-": {
+    "name": "Residents' Merchant"
+  },
+  "11002056-KarkarIsland-": {
+    "name": "Residents' Merchant"
+  },
+  "11002057-KarkarIsland-": {
+    "name": "Residents' Merchant"
+  },
+  "11002058-KarkarIsland-": {
+    "name": "Residents' Merchant"
+  },
+  "11002059-KarkarIsland-": {
+    "name": "Residents' Merchant"
+  },
+  "11002060-KarkarIsland-": {
+    "name": "Residents' Merchant"
+  },
+  "11002061-KarkarIsland-": {
+    "name": "Residents' Merchant"
+  },
+  "11002062-KarkarIsland-": {
+    "name": "Residents' Merchant"
+  },
+  "11002063-KarkarIsland-": {
+    "name": "Residents' Merchant"
+  },
+  "11002064-KarkarIsland-": {
+    "name": "Residents' Merchant"
+  },
+  "11003405-MassiveCrazyRunnersShanghai-": {
+    "name": "Gold Piggy Coin Trader"
+  },
+  "11003416-ItemMerge-": {
+    "name": "Ascension Master"
+  },
+  "11003463-PvPRankingDuelMode-": {
+    "name": "Combat Gear Merchant"
+  },
+  "11003503-ContentsGuide03-": {
+    "name": "Missile Union Member"
+  },
+  "11003507-ContentsGuide03-": {
+    "name": "Missile Union Member"
+  },
+  "11003505-ContentsGuide03-": {
+    "name": "Missile Union Trainee"
+  },
+  "11003512-GuildRaid01-": {
+    "name": "Apprela Chieftain"
+  },
+  "11003513-GuildRaid01-": {
+    "name": "Apprela Resident"
+  },
+  "11003514-GuildRaid01-": {
+    "name": "Apprela Resident"
+  },
+  "11003515-GuildRaid01-": {
+    "name": "Apprela Resident"
+  },
+  "11003516-GuildRaid01-": {
+    "name": "Apprela Resident"
+  },
+  "11003517-GuildRaid01-": {
+    "name": "Apprela Resident"
+  },
+  "11003518-GuildRaid01-": {
+    "name": "Apprela Resident"
+  },
+  "11003519-GuildRaid01-": {
+    "name": "Apprela Resident"
+  },
+  "11003552-ContentsGuide01-": {
+    "name": "Harang Lake Keeper"
+  },
+  "11003555--KR": {
+    "name": "Martial Arts Token Clerk"
+  },
+  "11003555--CN": {
+    "name": "Martial Arts Token Clerk"
+  },
+  "11003560-FindDungeonHelp-": {
+    "name": "Kind Knight Merchant"
+  },
+  "11003561-Mentoring-": {
+    "name": "Mentor Merchant"
+  },
+  "11003562-Mentoring-": {
+    "name": "Mentee Merchant"
+  },
+  "11003573-Season1-": {
+    "name": "Pumpkin Carriage Merchant"
+  },
+  "11003722--CN": {
+    "name": "Zakum's Clone"
+  },
+  "11003859-FameContents-": {
+    "name": "Supply Officer"
+  },
+  "11004092-SurvivalContents02-CN": {
+    "name": "Mushking Championship Staff"
+  },
+  "11004216-LumiStoneJewelBox_01-": {
+    "name": "Lumistone Upgrade Support"
+  },
+  "11004449-LumiStoneJewelBox_01-": {
+    "name": "Lumistone Upgrade Support"
+  },
+  "11004243-Event-": {
+    "name": "Mutual Aid Ascendant Merchant"
+  },
+  "11004636-Fame_Geo01-": {
+    "name": "Humanitas Supply Officer"
+  },
+  "11004637-Season1-": {
+    "name": "Bread Shop Event Helper"
+  },
+  "11004639-BlackOnyx-": {
+    "name": "Secretary"
+  },
+  "11004842-Event-": {
+    "name": "Treasure Collector"
+  },
+  "11004843-Event-": {
+    "name": "Antique Sales"
+  },
+  "11200004-ItemSocketSystem-": {
+    "name": "Gemstone Merchant"
+  },
+  "11200006-ItemMerge-": {
+    "name": "Transcendence Material Merchant"
+  },
+  "11004717-Event-JP": {
+    "name": "Apprentice Witch"
+  },
+  "11004775--JP": {
+    "name": "Avatar Coin Shop"
+  }
+}

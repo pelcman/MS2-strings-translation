@@ -1,0 +1,86 @@
+{
+  "100--": {
+    "name": "View Character"
+  },
+  "101--": {
+    "name": "Whisper"
+  },
+  "102--": {
+    "name": "View Character"
+  },
+  "200--": {
+    "name": "Leave Party"
+  },
+  "201--": {
+    "name": "Invite to Party"
+  },
+  "202--": {
+    "name": "Kick from Party"
+  },
+  "203--": {
+    "name": "Make Party Leader"
+  },
+  "204--": {
+    "name": "Vote to Kick"
+  },
+  "205--": {
+    "name": "Ready Check"
+  },
+  "300--": {
+    "name": "Unfriend"
+  },
+  "301--": {
+    "name": "Add Friend"
+  },
+  "400--": {
+    "name": "Block"
+  },
+  "401--": {
+    "name": "Unblock"
+  },
+  "402--": {
+    "name": "Edit Block Reason"
+  },
+  "500--": {
+    "name": "Trade"
+  },
+  "501--": {
+    "name": "Report"
+  },
+  "502--": {
+    "name": "Invite to Group Chat"
+  },
+  "503--": {
+    "name": "Visit House"
+  },
+  "504--": {
+    "name": "Invite to My Home"
+  },
+  "505--": {
+    "name": "Pet Info"
+  },
+  "506--": {
+    "name": "Dismiss Pet"
+  },
+  "507--": {
+    "name": "Grant Furnishing Rights"
+  },
+  "508--": {
+    "name": "Buddy Emote"
+  },
+  "600--": {
+    "name": "Smite Visitor"
+  },
+  "601--": {
+    "name": "Revive Visitor"
+  },
+  "602--": {
+    "name": "Kick from Home"
+  },
+  "701--": {
+    "name": "Invite to Guild"
+  },
+  "801--": {
+    "name": "Propose"
+  }
+}

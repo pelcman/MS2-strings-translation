@@ -1,0 +1,847 @@
+{
+  "8000--": {
+    "name": "A Special Gift",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8001--": {
+    "name": "Happy Valentine's Day",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8002--": {
+    "name": "Happy New Year",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8003--": {
+    "name": "Spring Festival",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8004--": {
+    "name": "Meeting a Valuable Friend",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8005--": {
+    "name": "Animal Rights Campaign",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8006--": {
+    "name": "Surprise: Shadow Battle",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8007--": {
+    "name": "Surprise: Windy Garden",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8008--": {
+    "name": "Surprise: Logic Versus Emotion",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8009--": {
+    "name": "Surprise: Sweet Times",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8010--": {
+    "name": "Where I Want to Be",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8011--": {
+    "name": "The One I Miss the Most",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8012--": {
+    "name": "A Hero's Welcome",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8013--": {
+    "name": "Arrival of a Special Gift",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8014--": {
+    "name": "Saving the Moon Festival",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8015--": {
+    "name": "Enjoying the Moon Festival",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8016--": {
+    "name": "The Door's Always Open",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8017--": {
+    "name": "Week 1: A Daring Challenge",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8018--": {
+    "name": "Week 2: A Fun Challenge",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8019--": {
+    "name": "Week 3: A Endless Challenge",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8020--": {
+    "name": "Week 4: A Great Challenge",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8021--": {
+    "name": "The Joy of Collecting Letters",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8022--": {
+    "name": "Collecting Maple Letters",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8023--": {
+    "name": "Collecting Festival Letters",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8024--": {
+    "name": "The Excitement of Collecting Letters",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8025--": {
+    "name": "Enjoy the Maple Festival",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8026--": {
+    "name": "Happy Halloween",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8027--": {
+    "name": "A Gift from the Allicari",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8028--": {
+    "name": "Fantastic Warm Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8029--": {
+    "name": "Fantastic Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8030--": {
+    "name": "Fantastic Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8031--": {
+    "name": "Fantastic Warm Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8032--": {
+    "name": "Fantastic Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8033--": {
+    "name": "Fantastic Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8034--": {
+    "name": "Fantastic Warm Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8035--": {
+    "name": "Fantastic Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8036--": {
+    "name": "Fantastic Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8037--": {
+    "name": "Fantastic Warm Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8038--": {
+    "name": "Fantastic Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8039--": {
+    "name": "Fantastic Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8040--": {
+    "name": "Fantastic Warm Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8041--": {
+    "name": "Fantastic Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8042--": {
+    "name": "Fantastic Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8043--": {
+    "name": "Fantastic Warm Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8044--": {
+    "name": "Fantastic Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8045--": {
+    "name": "Fantastic Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8046--": {
+    "name": "Fantastic Warm Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8047--": {
+    "name": "Fantastic Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8048--": {
+    "name": "Fantastic Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8049--": {
+    "name": "Fantastic Warm Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8050--": {
+    "name": "Fantastic Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8051--": {
+    "name": "Fantastic Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8052--": {
+    "name": "Fantastic Warm Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8053--": {
+    "name": "Fantastic Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8054--": {
+    "name": "Fantastic Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8055--": {
+    "name": "Fantastic Warm Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8056--": {
+    "name": "Fantastic Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8057--": {
+    "name": "Fantastic Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8058--": {
+    "name": "Fantastic Warm Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8059--": {
+    "name": "Fantastic Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8060--": {
+    "name": "Fantastic Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8061--": {
+    "name": "Fantastic Warm Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8062--": {
+    "name": "Fantastic Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8063--": {
+    "name": "Fantastic Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8064--": {
+    "name": "Fantastic Warm Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8065--": {
+    "name": "Fantastic Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8066--": {
+    "name": "Fantastic Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8067--": {
+    "name": "Fantastic Warm Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8068--": {
+    "name": "Fantastic Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8069--": {
+    "name": "Fantastic Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8070--": {
+    "name": "Fantastic Warm Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8071--": {
+    "name": "Fantastic Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8072--": {
+    "name": "Fantastic Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8073--": {
+    "name": "Fantastic Warm Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8074--": {
+    "name": "Fantastic Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8075--": {
+    "name": "Fantastic Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8076--": {
+    "name": "Exciting Benefits",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8077--": {
+    "name": "Dungeon Review",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8078--": {
+    "name": "Handicraft and Smithing",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8079--": {
+    "name": "Encyclopedia of Guardstones",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8080--": {
+    "name": "Santa Peachie's Holiday Gift",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8081--": {
+    "name": "New Year Adventures",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8082--": {
+    "name": "Happy New Year Maple 2",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8083--": {
+    "name": "Happy New Year",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8084--": {
+    "name": "Power Level Up",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8085--": {
+    "name": "Sweet Valentine's Day",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8086--": {
+    "name": "Just for You",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8087--": {
+    "name": "A Greater Hero",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8088--": {
+    "name": "Recipe for Sweet Chocolate",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8089--CN": {
+    "name": "Happy Maple World",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8090--CN": {
+    "name": "Spring Festival",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8091--CN": {
+    "name": "Exciting Adventures",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8092--CN": {
+    "name": "Hello Maple 2",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8093--CN": {
+    "name": "Enjoy the Maple Festival",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8094--CN": {
+    "name": "Where I Want to Be",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8095--CN": {
+    "name": "The One I Miss the Most",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8096--": {
+    "name": "Growing Fast",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8097--": {
+    "name": "Singles vs. Couples",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8098--": {
+    "name": "Sweet White Day Mission!",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8099--": {
+    "name": "The Cherry Blossom Festival",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8100--": {
+    "name": "Super Heroics",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8102--": {
+    "name": "Worthy of Eternal Strength",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8103--": {
+    "name": "Balrog",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8104--": {
+    "name": "Help of the First Knight",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8105--": {
+    "name": "Worthy of Eternal Strength",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8106--": {
+    "name": "Balrog the Eternal ",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8107--": {
+    "name": "Missing Zakum",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8108--": {
+    "name": "MapleStory 2 for 2",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8109--": {
+    "name": "The Dungeon Master",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8110--": {
+    "name": "Pink Pink Pink Bean",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8111--": {
+    "name": "GM Charlie's Request for Help",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8112--": {
+    "name": "Barbosa Daily Mission",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8113--": {
+    "name": "Barbosa Weekly Mission ",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8114--": {
+    "name": "Barbosa Weekly Mission ",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8115--": {
+    "name": "Barbosa Weekly Mission ",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8116--": {
+    "name": "Barbosa Weekly Mission ",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8117--": {
+    "name": "Barbosa Weekly Mission ",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8118--": {
+    "name": "Hide-and-Seek with Meret-Man",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8119--KR": {
+    "name": "Papa Santa's Gift",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8120--": {
+    "name": "Barbosa Daily Mission",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8121--": {
+    "name": "Beating Heart Valentine's Day",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8122--": {
+    "name": "Cheering the Expedition",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8123--": {
+    "name": "Best White Day Candy",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8993--": {
+    "name": "Schwanda's Open Gallery",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8994--": {
+    "name": "Time Running",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8995--": {
+    "name": "Stamp Event Chapter (New)",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8996--": {
+    "name": "Stamp Event Chapter (Returning)",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8997--": {
+    "name": "Test Chapter",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8998--": {
+    "name": "Stamp Event Chapter",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8999--CN": {
+    "name": "Stamp Event Chapter",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "8124--": {
+    "name": "Hide and Seek: Today's Friend"
+  },
+  "8126--": {
+    "name": "Mushking's Order 1"
+  },
+  "8125--": {
+    "name": "Mushking Championship: Let's Work Together!"
+  },
+  "8127--": {
+    "name": "Mushking's Order 2"
+  },
+  "8128--": {
+    "name": "Mushking's Order 3"
+  },
+  "8129--": {
+    "name": "Mushking's Order 4"
+  },
+  "8130--": {
+    "name": "For Adventurers Who Fear Spores!"
+  },
+  "8131--": {
+    "name": "World Raid Mushking"
+  },
+  "8132--": {
+    "name": "My Friend Rainbow Slime"
+  },
+  "8133--": {
+    "name": "Letter Collection 1st Week"
+  },
+  "8134--": {
+    "name": "Letter Collection 2nd Week"
+  },
+  "8135--": {
+    "name": "Letter Collection 3rd Week"
+  },
+  "8136--": {
+    "name": "Letter Collection 4th Week"
+  },
+  "8137--": {
+    "name": "3rd Anniversary Daily Mission"
+  },
+  "8138--": {
+    "name": "Save Love in My Heart"
+  },
+  "8139--": {
+    "name": "Fill the World with Love"
+  },
+  "8140--": {
+    "name": "1st Sign of Love"
+  },
+  "8141--": {
+    "name": "2nd Sign of Love"
+  },
+  "8142--": {
+    "name": "3rd Sign of Love"
+  },
+  "8143--": {
+    "name": "Last Sign of Love"
+  },
+  "8144--": {
+    "name": "Special Gift of Love"
+  },
+  "8145--": {
+    "name": "Ruby's Quest of the Day"
+  },
+  "8146--": {
+    "name": "To Make a Fragrant Rice Cake"
+  },
+  "8147--": {
+    "name": "Suspicious Shadow Behind the Full Moon"
+  },
+  "8148--": {
+    "name": "The Missing Moon Rabbit"
+  },
+  "8150--": {
+    "name": "Turkey Raid!"
+  },
+  "8149--": {
+    "name": "Little Devil Pumky"
+  },
+  "8151--": {
+    "name": "Free the Lucky Piggies"
+  },
+  "8152-Event-": {
+    "name": "Hide and Seek: Today's Friend"
+  },
+  "8153-Event-": {
+    "name": "Letter Collection 1주차"
+  },
+  "8154-Event-": {
+    "name": "Letter Collection 2주차"
+  },
+  "8155-Event-": {
+    "name": "Letter Collection 3주차"
+  },
+  "8156-Event-": {
+    "name": "Letter Collection 4주차"
+  },
+  "8158-Event-KR": {
+    "name": "Enjoy April Fool's Day!"
+  },
+  "8157-Event-": {
+    "name": "Find the GM!"
+  },
+  "8159-Event-KR": {
+    "name": "I'm Dating"
+  },
+  "8160-Event-KR": {
+    "name": "Make a Pinwheel"
+  },
+  "8161-Event-KR": {
+    "name": "Collecting a Pinwheel"
+  },
+  "8162-Event-KR": {
+    "name": "Let's Be a Time Traveller!"
+  },
+  "8163-Event-KR": {
+    "name": "Opportunity for Rapid Growth"
+  },
+  "8164-Event-KR": {
+    "name": "Golden Scroll"
+  },
+  "8167-Event-KR": {
+    "name": "Let's Challenge: Queen Bean Rumble!"
+  },
+  "8165-Event-KR": {
+    "name": "Ask for an Interview!"
+  },
+  "8166-Event-KR": {
+    "name": "My Story is..."
+  },
+  "8168-Event-KR": {
+    "name": "Challenge! Ghost Boost"
+  },
+  "8170-Event-KR": {
+    "name": "Midwinter Dance Party"
+  },
+  "8169-Event-KR": {
+    "name": "Where is My Partner?"
+  },
+  "8171-Event-KR": {
+    "name": "Recipe for Rice Cake Soup"
+  },
+  "8172-Event-KR": {
+    "name": "Rice Cake Soup Feast"
+  },
+  "8173-Event-KR": {
+    "name": "Mischievous Black Bean's Prank"
+  },
+  "8174-Event-KR": {
+    "name": "See You Friday"
+  },
+  "8175-Event-KR": {
+    "name": "Balloons Sprinkled by Black Bean"
+  },
+  "8176-Event-KR": {
+    "name": "Ruby's Tiny Trouble"
+  },
+  "8177-Event-KR": {
+    "name": "Find Nao"
+  },
+  "8179-Event-KR": {
+    "name": "블랙빈 풍선을 날려라"
+  },
+  "8180-Event-KR": {
+    "name": "블랙빈 풍선을 날려라"
+  },
+  "8181-Event-KR": {
+    "name": "블랙빈 풍선을 날려라"
+  },
+  "8985-Event-KR": {
+    "name": "5th Anniversary Stamp"
+  },
+  "8986-Event-KR": {
+    "name": "Midwinter Schwanda"
+  },
+  "8987-Event-KR": {
+    "name": "Get a Calendar! Stamp"
+  },
+  "8988--": {
+    "name": "4th Anniversary Stamp"
+  },
+  "8989--": {
+    "name": "Schwanda's Christmas Gallery"
+  },
+  "8990--": {
+    "name": "Halloween Stamp"
+  },
+  "8991--": {
+    "name": "Moon Rabbit Stamp"
+  },
+  "8992--": {
+    "name": "Running Back in Time"
+  }
+}

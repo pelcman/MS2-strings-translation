@@ -1,0 +1,27 @@
+{
+  "2016-Develop-": {
+    "name": "クリスマスの魔法",
+    "isTutorial": "OK",
+    "regionID": ""
+  },
+  "2100-Event-JP": {
+    "name": "ブラッディモンシュシュホテルの秘密",
+    "isTutorial": "OK",
+    "regionID": ""
+  },
+  "2101-Event-JP": {
+    "name": "クリスマス大騒動",
+    "isTutorial": "OK",
+    "regionID": ""
+  },
+  "2102-Event-JP": {
+    "name": "見習いルドルフのおねがい",
+    "isTutorial": "OK",
+    "regionID": ""
+  },
+  "2103-Event-JP": {
+    "name": "クリスマスダンスパーティ",
+    "isTutorial": "OK",
+    "regionID": ""
+  }
+}

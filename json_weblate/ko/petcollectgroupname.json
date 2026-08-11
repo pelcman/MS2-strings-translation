@@ -1,0 +1,44 @@
+{
+  "1-PetBattle-": {
+    "name": "미확인"
+  },
+  "2-PetBattle-": {
+    "name": "식물형"
+  },
+  "3-PetBattle-": {
+    "name": "야수형"
+  },
+  "4-PetBattle-": {
+    "name": "벌레형"
+  },
+  "5-PetBattle-": {
+    "name": "신수형"
+  },
+  "6-PetBattle-": {
+    "name": "정령형"
+  },
+  "7-PetBattle-": {
+    "name": "요정형"
+  },
+  "8-PetBattle-": {
+    "name": "인간형"
+  },
+  "9-PetBattle-": {
+    "name": "언데드형"
+  },
+  "10-PetBattle-": {
+    "name": "악마형"
+  },
+  "11-PetBattle-": {
+    "name": "기계형"
+  },
+  "12-PetBattle-": {
+    "name": "사물형"
+  },
+  "100-PetBattle-": {
+    "name": "특수 펫"
+  },
+  "900-PetBattle-": {
+    "name": "그 외"
+  }
+}

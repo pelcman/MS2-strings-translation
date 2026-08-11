@@ -1,0 +1,20 @@
+{
+  "1-NpcRashi-": {
+    "name": "장비 상인"
+  },
+  "2-GuildSystem01-": {
+    "name": "잡화 상인"
+  },
+  "3-ItemSocketSystem-": {
+    "name": "젬스톤 상인"
+  },
+  "4-ItemMerge-": {
+    "name": "초월 재료 상인"
+  },
+  "6-GuildQuest01-": {
+    "name": "길드 사무장"
+  },
+  "5-Develop-": {
+    "name": "演奏商人"
+  }
+}

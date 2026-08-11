@@ -1,0 +1,779 @@
+{
+  "200001--": {
+    "name": "Up"
+  },
+  "200002--": {
+    "name": "Down"
+  },
+  "200003--": {
+    "name": "Left"
+  },
+  "200004--": {
+    "name": "Right"
+  },
+  "300001--": {
+    "name": "Jump"
+  },
+  "300002--": {
+    "name": "Action"
+  },
+  "300003--": {
+    "name": "Pick Up"
+  },
+  "300004--": {
+    "name": "Sit"
+  },
+  "300005--": {
+    "name": "Crawl"
+  },
+  "300006--": {
+    "name": "Run"
+  },
+  "300007--": {
+    "name": "Chat"
+  },
+  "300008--": {
+    "name": "Zoom In"
+  },
+  "300009--": {
+    "name": "Zoom Out"
+  },
+  "300010--": {
+    "name": "Walk"
+  },
+  "300013--": {
+    "name": "Furnishing Mode"
+  },
+  "300014--": {
+    "name": "Next Trigger"
+  },
+  "300015--": {
+    "name": "Screenshot"
+  },
+  "300016--": {
+    "name": "Mount"
+  },
+  "300017--": {
+    "name": "Fitting Mannequin 1"
+  },
+  "300018--": {
+    "name": "Fitting Mannequin 2"
+  },
+  "300019--": {
+    "name": "Fitting Mannequin 3"
+  },
+  "300020--": {
+    "name": "Fitting Mannequin 4"
+  },
+  "300021--": {
+    "name": "Fitting Mannequin 5"
+  },
+  "300022--": {
+    "name": "Camera Angle"
+  },
+  "300033--": {
+    "name": "Basic Attack"
+  },
+  "300034--": {
+    "name": "Grab"
+  },
+  "300035--": {
+    "name": "My Home"
+  },
+  "300036--": {
+    "name": "Hide UI"
+  },
+  "300037--": {
+    "name": "Whisper"
+  },
+  "300038--": {
+    "name": "Item Preview"
+  },
+  "300039--": {
+    "name": "Expand Minimap"
+  },
+  "300041--": {
+    "name": "Cancel"
+  },
+  "300042--": {
+    "name": "Beauty Salon"
+  },
+  "300043--": {
+    "name": "Dye Workshop"
+  },
+  "300044--": {
+    "name": "Plastic Surgery Office"
+  },
+  "300046--": {
+    "name": "Quickslot Bar 1"
+  },
+  "300047--": {
+    "name": "Quickslot Bar 2"
+  },
+  "300048--": {
+    "name": "Quickslot Bar 3"
+  },
+  "300049--": {
+    "name": "Cycle Quickslots"
+  },
+  "400001--": {
+    "name": "Inventory"
+  },
+  "400002--": {
+    "name": "Character"
+  },
+  "400005--": {
+    "name": "Skills"
+  },
+  "400006--": {
+    "name": "World Map"
+  },
+  "400007--": {
+    "name": "Quest Journal"
+  },
+  "400008--": {
+    "name": "Portrait Camera"
+  },
+  "400009--": {
+    "name": "Trophies"
+  },
+  "400010--": {
+    "name": "Beauty Shop"
+  },
+  "400011--": {
+    "name": "Edit Item"
+  },
+  "400012--": {
+    "name": "Friends"
+  },
+  "400013--": {
+    "name": "Mailbox"
+  },
+  "400014--": {
+    "name": "Guild"
+  },
+  "400016-MeratMarket-": {
+    "name": "Meret Market"
+  },
+  "400018--": {
+    "name": "Challenge Map"
+  },
+  "400019--": {
+    "name": "Assistant Tasks"
+  },
+  "400020-PvPRankingDuelMode-": {
+    "name": "Maple Arena"
+  },
+  "400021--": {
+    "name": "Black Market"
+  },
+  "400022--": {
+    "name": "Maple Navigator"
+  },
+  "400023--": {
+    "name": "Maple Arcade"
+  },
+  "400024--": {
+    "name": "Beauty Shortcuts"
+  },
+  "400025--": {
+    "name": "Traits"
+  },
+  "400026--": {
+    "name": "Premium Club"
+  },
+  "400027--": {
+    "name": "Party Finder"
+  },
+  "400028--": {
+    "name": "Maple Workshop"
+  },
+  "400029-Mastery-": {
+    "name": "Life Skills"
+  },
+  "400030--": {
+    "name": "Maple Guide"
+  },
+  "400031--": {
+    "name": "Macro Settings"
+  },
+  "400032-GameDictionary-": {
+    "name": "Encyclopedia"
+  },
+  "400033-InGameRank-": {
+    "name": "Ranking"
+  },
+  "400034-Club-": {
+    "name": "Clubs"
+  },
+  "400035-PetBase-": {
+    "name": "Pets"
+  },
+  "400037--": {
+    "name": "Dungeon Info"
+  },
+  "400038-Lapenshard01-": {
+    "name": "Lapenshard"
+  },
+  "500001--": {
+    "name": "Quickslot 1"
+  },
+  "500002--": {
+    "name": "Quickslot 2"
+  },
+  "500003--": {
+    "name": "Quickslot 3"
+  },
+  "500004--": {
+    "name": "Quickslot 4"
+  },
+  "500005--": {
+    "name": "Quickslot 5"
+  },
+  "500006--": {
+    "name": "Quickslot 6"
+  },
+  "500007--": {
+    "name": "Quickslot 7"
+  },
+  "500008--": {
+    "name": "Quickslot 8"
+  },
+  "500009--": {
+    "name": "Quickslot 9"
+  },
+  "500010--": {
+    "name": "Quickslot 10"
+  },
+  "500011--": {
+    "name": "Quickslot 11"
+  },
+  "500012--": {
+    "name": "Quickslot 12"
+  },
+  "500013--": {
+    "name": "Quickslot 13"
+  },
+  "500014--": {
+    "name": "Quickslot 14"
+  },
+  "500015--": {
+    "name": "Quickslot 15"
+  },
+  "500016--": {
+    "name": "Quickslot 16"
+  },
+  "500017--": {
+    "name": "Quickslot 17"
+  },
+  "500018--": {
+    "name": "Quickslot 18"
+  },
+  "500019--": {
+    "name": "Quickslot 19"
+  },
+  "500020--": {
+    "name": "Quickslot 20"
+  },
+  "500021--": {
+    "name": "Quickslot 21"
+  },
+  "500022--": {
+    "name": "Quickslot 22"
+  },
+  "600001--": {
+    "name": "Mode"
+  },
+  "700001--": {
+    "name": "Macro Key {0}"
+  },
+  "700002--": {
+    "name": "Macro Key {0}"
+  },
+  "700003--": {
+    "name": "Macro Key {0}"
+  },
+  "800001--": {
+    "name": "Quickslot Bar 1"
+  },
+  "800002--": {
+    "name": "Quickslot Bar 2"
+  },
+  "800003--": {
+    "name": "Quickslot Bar 3"
+  },
+  "800004--": {
+    "name": "Main Menu"
+  },
+  "800005--": {
+    "name": "Mouse Right-Click"
+  },
+  "800006--": {
+    "name": "Mouse Left-Click"
+  },
+  "800007--": {
+    "name": "Mouse Mode"
+  },
+  "900001-Closet-": {
+    "name": "Wardrobe Shortcut {0}"
+  },
+  "900002-Closet-": {
+    "name": "Wardrobe Shortcut {0}"
+  },
+  "900003-Closet-": {
+    "name": "Wardrobe Shortcut {0}"
+  },
+  "900004-Closet-": {
+    "name": "Wardrobe Shortcut {0}"
+  },
+  "900005-Closet-": {
+    "name": "Wardrobe Shortcut {0}"
+  },
+  "900006-Closet-": {
+    "name": "Wardrobe Shortcut {0}"
+  },
+  "900007-Closet-": {
+    "name": "Wardrobe Shortcut {0}"
+  },
+  "900008-Closet-": {
+    "name": "Wardrobe Shortcut {0}"
+  },
+  "900009-Closet-": {
+    "name": "Wardrobe Shortcut {0}"
+  },
+  "900010-Closet-": {
+    "name": "Wardrobe Shortcut {0}"
+  },
+  "1--": {
+    "name": "ESC"
+  },
+  "2--": {
+    "name": "1"
+  },
+  "3--": {
+    "name": "2"
+  },
+  "4--": {
+    "name": "3"
+  },
+  "5--": {
+    "name": "4"
+  },
+  "6--": {
+    "name": "5"
+  },
+  "7--": {
+    "name": "6"
+  },
+  "8--": {
+    "name": "7"
+  },
+  "9--": {
+    "name": "8"
+  },
+  "10--": {
+    "name": "9"
+  },
+  "11--": {
+    "name": "0"
+  },
+  "12--": {
+    "name": "-"
+  },
+  "13--": {
+    "name": "="
+  },
+  "14--": {
+    "name": "Backspace"
+  },
+  "15--": {
+    "name": "Tab"
+  },
+  "16--": {
+    "name": "Q"
+  },
+  "17--": {
+    "name": "W"
+  },
+  "18--": {
+    "name": "E"
+  },
+  "19--": {
+    "name": "R"
+  },
+  "20--": {
+    "name": "T"
+  },
+  "21--": {
+    "name": "Y"
+  },
+  "22--": {
+    "name": "U"
+  },
+  "23--": {
+    "name": "I"
+  },
+  "24--": {
+    "name": "O"
+  },
+  "25--": {
+    "name": "P"
+  },
+  "26--": {
+    "name": "["
+  },
+  "27--": {
+    "name": "]"
+  },
+  "28--": {
+    "name": "Enter"
+  },
+  "29--": {
+    "name": "Ctrl"
+  },
+  "30--": {
+    "name": "A"
+  },
+  "31--": {
+    "name": "S"
+  },
+  "32--": {
+    "name": "D"
+  },
+  "33--": {
+    "name": "F"
+  },
+  "34--": {
+    "name": "G"
+  },
+  "35--": {
+    "name": "H"
+  },
+  "36--": {
+    "name": "J"
+  },
+  "37--": {
+    "name": "K"
+  },
+  "38--": {
+    "name": "L"
+  },
+  "39--": {
+    "name": ";"
+  },
+  "40--": {
+    "name": "'"
+  },
+  "41--": {
+    "name": "`"
+  },
+  "42--": {
+    "name": "Shift"
+  },
+  "43--": {
+    "name": "\\"
+  },
+  "44--": {
+    "name": "Z"
+  },
+  "45--": {
+    "name": "X"
+  },
+  "46--": {
+    "name": "C"
+  },
+  "47--": {
+    "name": "V"
+  },
+  "48--": {
+    "name": "B"
+  },
+  "49--": {
+    "name": "N"
+  },
+  "50--": {
+    "name": "M"
+  },
+  "51--": {
+    "name": ","
+  },
+  "52--": {
+    "name": "."
+  },
+  "53--": {
+    "name": "/"
+  },
+  "54--": {
+    "name": "Shift"
+  },
+  "55--": {
+    "name": "Num *"
+  },
+  "56--": {
+    "name": "Alt"
+  },
+  "57--": {
+    "name": "Space"
+  },
+  "58--": {
+    "name": "Caps Lock"
+  },
+  "59--": {
+    "name": "F1"
+  },
+  "60--": {
+    "name": "F2"
+  },
+  "61--": {
+    "name": "F3"
+  },
+  "62--": {
+    "name": "F4"
+  },
+  "63--": {
+    "name": "F5"
+  },
+  "64--": {
+    "name": "F6"
+  },
+  "65--": {
+    "name": "F7"
+  },
+  "66--": {
+    "name": "F8"
+  },
+  "67--": {
+    "name": "F9"
+  },
+  "68--": {
+    "name": "F10"
+  },
+  "70--": {
+    "name": "Scroll Lock"
+  },
+  "71--": {
+    "name": "Num 7"
+  },
+  "72--": {
+    "name": "Num 8"
+  },
+  "73--": {
+    "name": "Num 9"
+  },
+  "74--": {
+    "name": "Num -"
+  },
+  "75--": {
+    "name": "Num 4"
+  },
+  "76--": {
+    "name": "Num 5"
+  },
+  "77--": {
+    "name": "Num 6"
+  },
+  "78--": {
+    "name": "Num +"
+  },
+  "79--": {
+    "name": "Num 1"
+  },
+  "80--": {
+    "name": "Num 2"
+  },
+  "81--": {
+    "name": "Num 3"
+  },
+  "82--": {
+    "name": "Num 0"
+  },
+  "83--": {
+    "name": "Num ."
+  },
+  "85--": {
+    "name": "F11"
+  },
+  "86--": {
+    "name": "F12"
+  },
+  "106--": {
+    "name": "Num Enter"
+  },
+  "107--": {
+    "name": "Ctrl"
+  },
+  "116--": {
+    "name": "Num /"
+  },
+  "117--": {
+    "name": "Print Scrn"
+  },
+  "118--": {
+    "name": "Alt"
+  },
+  "119--": {
+    "name": "Pause"
+  },
+  "120--": {
+    "name": "Home"
+  },
+  "121--": {
+    "name": "Up"
+  },
+  "122--": {
+    "name": "Page Up"
+  },
+  "123--": {
+    "name": "Left"
+  },
+  "124--": {
+    "name": "Right"
+  },
+  "125--": {
+    "name": "End"
+  },
+  "126--": {
+    "name": "Down"
+  },
+  "127--": {
+    "name": "Page Dn"
+  },
+  "128--": {
+    "name": "Insert"
+  },
+  "129--": {
+    "name": "Delete"
+  },
+  "130--": {
+    "name": "Window"
+  },
+  "131--": {
+    "name": "Window"
+  },
+  "146--": {
+    "name": "DUp"
+  },
+  "147--": {
+    "name": "DDown"
+  },
+  "148--": {
+    "name": "DLeft"
+  },
+  "149--": {
+    "name": "DRight"
+  },
+  "150--": {
+    "name": "LB"
+  },
+  "151--": {
+    "name": "LT"
+  },
+  "152--": {
+    "name": "RB"
+  },
+  "153--": {
+    "name": "RT"
+  },
+  "154--": {
+    "name": "Y"
+  },
+  "155--": {
+    "name": "A"
+  },
+  "156--": {
+    "name": "X"
+  },
+  "157--": {
+    "name": "B"
+  },
+  "158--": {
+    "name": "FA"
+  },
+  "159--": {
+    "name": "FB"
+  },
+  "160--": {
+    "name": "Start"
+  },
+  "161--": {
+    "name": "Back"
+  },
+  "163--": {
+    "name": "LSLeft"
+  },
+  "164--": {
+    "name": "LSRight"
+  },
+  "165--": {
+    "name": "LSUp"
+  },
+  "166--": {
+    "name": "LSDown"
+  },
+  "167--": {
+    "name": "RSLeft"
+  },
+  "168--": {
+    "name": "RSRight"
+  },
+  "169--": {
+    "name": "RSUp"
+  },
+  "170--": {
+    "name": "RSDown"
+  },
+  "171--": {
+    "name": "X1H0"
+  },
+  "172--": {
+    "name": "X1H1"
+  },
+  "173--": {
+    "name": "X1V0"
+  },
+  "174--": {
+    "name": "X1V1"
+  },
+  "175--": {
+    "name": "X2H0"
+  },
+  "176--": {
+    "name": "X2H1"
+  },
+  "177--": {
+    "name": "X2V0"
+  },
+  "178--": {
+    "name": "X2V1"
+  },
+  "202--": {
+    "name": "ScrollBn"
+  },
+  "203--": {
+    "name": "SideDn"
+  },
+  "204--": {
+    "name": "SideUp"
+  },
+  "205--": {
+    "name": "X3"
+  },
+  "206--": {
+    "name": "X4"
+  },
+  "207--": {
+    "name": "X5"
+  },
+  "400015-Maview-": {
+    "name": "Maview"
+  },
+  "300045-Skin2tab-": {
+    "name": "Equip Skin Tab"
+  },
+  "400017-CashShop-": {
+    "name": "Cash Shop"
+  },
+  "400036-DailyMission-": {
+    "name": "Adventure Guide"
+  }
+}

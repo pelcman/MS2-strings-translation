@@ -1,0 +1,95 @@
+{
+  "1--": {
+    "name": "Overview"
+  },
+  "2--": {
+    "name": "Events"
+  },
+  "3--": {
+    "name": "Prestige Rank"
+  },
+  "4--": {
+    "name": "Adventuring"
+  },
+  "5--": {
+    "name": "Challenges"
+  },
+  "6--": {
+    "name": "Lifestyle"
+  },
+  "7--": {
+    "name": "Adventuring"
+  },
+  "8--": {
+    "name": "Challenges"
+  },
+  "9--": {
+    "name": "Lifestyle"
+  },
+  "10--": {
+    "name": "Experience"
+  },
+  "11--": {
+    "name": "Travel"
+  },
+  "12--": {
+    "name": "Quests"
+  },
+  "13--": {
+    "name": "Exploration"
+  },
+  "14--": {
+    "name": "Factions"
+  },
+  "15--": {
+    "name": "PvP"
+  },
+  "16--": {
+    "name": "Hunting"
+  },
+  "17--": {
+    "name": "Bosses"
+  },
+  "18--": {
+    "name": "Training"
+  },
+  "19--": {
+    "name": "Commerce"
+  },
+  "20--": {
+    "name": "Housing"
+  },
+  "21--": {
+    "name": "Collecting"
+  },
+  "22--": {
+    "name": "Special"
+  },
+  "23--": {
+    "name": "Daily Life"
+  },
+  "24--": {
+    "name": "Mushking Royale"
+  },
+  "27-SurvivalContents03-NA": {
+    "name": "Tourism"
+  },
+  "28-SurvivalContents03-NA": {
+    "name": "Survival"
+  },
+  "29-SurvivalContents03-NA": {
+    "name": "Conquest"
+  },
+  "25--": {
+    "name": "All"
+  },
+  "29-SurvivalContents03-JP": {
+    "name": "ACHIEVECATEGORYNAME_29_NAME:[F]SurvivalContents03:[L]JP"
+  },
+  "27-SurvivalContents03-JP": {
+    "name": "ACHIEVECATEGORYNAME_27_NAME:[F]SurvivalContents03:[L]JP"
+  },
+  "28-SurvivalContents03-JP": {
+    "name": "ACHIEVECATEGORYNAME_28_NAME:[F]SurvivalContents03:[L]JP"
+  }
+}

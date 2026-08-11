@@ -1,0 +1,38 @@
+{
+  "unknown--": {
+    "name": "Unknown"
+  },
+  "plant--": {
+    "name": "Plant"
+  },
+  "animal--": {
+    "name": "Beast"
+  },
+  "bug--": {
+    "name": "Insect"
+  },
+  "mystic--": {
+    "name": "Divine"
+  },
+  "spirit--": {
+    "name": "Spirit"
+  },
+  "fairy--": {
+    "name": "Fairfolk"
+  },
+  "combine--": {
+    "name": "Humanoid"
+  },
+  "undead--": {
+    "name": "Undead"
+  },
+  "devil--": {
+    "name": "Devil"
+  },
+  "machine--": {
+    "name": "Machine"
+  },
+  "creature--": {
+    "name": "Inanimate"
+  }
+}

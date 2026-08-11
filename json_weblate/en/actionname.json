@@ -1,0 +1,2888 @@
+{
+  "11000004--": {
+    "name": "Trade"
+  },
+  "11000010--": {
+    "name": "Trade"
+  },
+  "11000011--": {
+    "name": "Storage"
+  },
+  "11000013--": {
+    "name": "Trade"
+  },
+  "11000016--": {
+    "name": "Talk"
+  },
+  "11000017--": {
+    "name": "Trade"
+  },
+  "11000018--": {
+    "name": "Trade"
+  },
+  "11000028--": {
+    "name": "Trade"
+  },
+  "11000029--": {
+    "name": "Trade"
+  },
+  "11000038--": {
+    "name": "Treat"
+  },
+  "11000040--": {
+    "name": "Talk"
+  },
+  "11000041--": {
+    "name": "Talk"
+  },
+  "11000042--": {
+    "name": "Talk"
+  },
+  "11000043--": {
+    "name": "Talk"
+  },
+  "11000045--": {
+    "name": "Talk"
+  },
+  "11000046--": {
+    "name": "Talk"
+  },
+  "11000048--": {
+    "name": "Find Item"
+  },
+  "11000050--": {
+    "name": "Talk"
+  },
+  "11000051--": {
+    "name": "Talk"
+  },
+  "11000070--": {
+    "name": "Treat"
+  },
+  "11000079--": {
+    "name": "Trade"
+  },
+  "11000117--": {
+    "name": "Trade"
+  },
+  "11000120--": {
+    "name": "Search"
+  },
+  "11000133--": {
+    "name": "Trade"
+  },
+  "11000155--": {
+    "name": "Storage"
+  },
+  "11000175--": {
+    "name": "Search"
+  },
+  "11000176--": {
+    "name": "Look Around"
+  },
+  "11000177--": {
+    "name": "Search"
+  },
+  "11000184--": {
+    "name": "Search"
+  },
+  "11000199--": {
+    "name": "Search"
+  },
+  "11000214--": {
+    "name": "Search"
+  },
+  "11000249--": {
+    "name": "Trade"
+  },
+  "11000250--": {
+    "name": "Trade"
+  },
+  "11000261--": {
+    "name": "Treat"
+  },
+  "11000267--": {
+    "name": "Trade"
+  },
+  "11000268--": {
+    "name": "Trade"
+  },
+  "11000272--": {
+    "name": "Trade"
+  },
+  "11000273--": {
+    "name": "Treat"
+  },
+  "11000274--": {
+    "name": "Treat"
+  },
+  "11000275--": {
+    "name": "Treat"
+  },
+  "11000276--": {
+    "name": "Storage"
+  },
+  "11000277--": {
+    "name": "Storage"
+  },
+  "11000278--": {
+    "name": "Storage"
+  },
+  "11000279--": {
+    "name": "Storage"
+  },
+  "11000286--": {
+    "name": "Search"
+  },
+  "11000287--": {
+    "name": "Search"
+  },
+  "11000304--": {
+    "name": "Trade"
+  },
+  "11000313--": {
+    "name": "Trade"
+  },
+  "11000314--": {
+    "name": "Trade"
+  },
+  "11000315--": {
+    "name": "Trade"
+  },
+  "11000316--": {
+    "name": "Trade"
+  },
+  "11000343--": {
+    "name": "Search"
+  },
+  "11000344--": {
+    "name": "Search"
+  },
+  "11000345--": {
+    "name": "Search"
+  },
+  "11000346--": {
+    "name": "Search"
+  },
+  "11000347--": {
+    "name": "Search"
+  },
+  "11000351--": {
+    "name": "Check Mirror"
+  },
+  "11000363--": {
+    "name": "Search"
+  },
+  "11000364--": {
+    "name": "Search"
+  },
+  "11000369--": {
+    "name": "Read Data"
+  },
+  "11000370--": {
+    "name": "Read Data"
+  },
+  "11000371--": {
+    "name": "Read Data"
+  },
+  "11000419--": {
+    "name": "Treat"
+  },
+  "11000422--": {
+    "name": "Search"
+  },
+  "11000433--": {
+    "name": "Trade"
+  },
+  "11000434--": {
+    "name": "Trade"
+  },
+  "11000435--": {
+    "name": "Trade"
+  },
+  "11000436--": {
+    "name": "Treat"
+  },
+  "11000445--": {
+    "name": "Trade"
+  },
+  "11000448--": {
+    "name": "Trade"
+  },
+  "11000459--": {
+    "name": "Trade"
+  },
+  "11000463--": {
+    "name": "Trade"
+  },
+  "11000469--": {
+    "name": "Trade"
+  },
+  "11000470--": {
+    "name": "Trade"
+  },
+  "11000474--": {
+    "name": "Turn"
+  },
+  "11000475--": {
+    "name": "Turn"
+  },
+  "11000482--": {
+    "name": "Search"
+  },
+  "11000486--": {
+    "name": "Trade"
+  },
+  "11000494--": {
+    "name": "Trade"
+  },
+  "11000495--": {
+    "name": "Trade"
+  },
+  "11000535--": {
+    "name": "Trade"
+  },
+  "11000536--": {
+    "name": "Trade"
+  },
+  "11000537--": {
+    "name": "Trade"
+  },
+  "11000538--": {
+    "name": "Trade"
+  },
+  "11000550--": {
+    "name": "Search"
+  },
+  "11000553--": {
+    "name": "Read"
+  },
+  "11000554--": {
+    "name": "Read"
+  },
+  "11000555--": {
+    "name": "Read"
+  },
+  "11000556--": {
+    "name": "Read"
+  },
+  "11000557--": {
+    "name": "Read"
+  },
+  "11000558--": {
+    "name": "Read"
+  },
+  "11000559--": {
+    "name": "Read"
+  },
+  "11000560--": {
+    "name": "Read"
+  },
+  "11000561--": {
+    "name": "Trade"
+  },
+  "11000562--": {
+    "name": "Trade"
+  },
+  "11000563--": {
+    "name": "Trade"
+  },
+  "11000564--": {
+    "name": "Trade"
+  },
+  "11000569--": {
+    "name": "Trade"
+  },
+  "11000570--": {
+    "name": "Trade"
+  },
+  "11000571--": {
+    "name": "Trade"
+  },
+  "11000572--": {
+    "name": "Trade"
+  },
+  "11000573--": {
+    "name": "Trade"
+  },
+  "11000574--": {
+    "name": "Trade"
+  },
+  "11000575--": {
+    "name": "Trade"
+  },
+  "11000576--": {
+    "name": "Trade"
+  },
+  "11000582--": {
+    "name": "Treat"
+  },
+  "11000583--": {
+    "name": "Treat"
+  },
+  "11000584--": {
+    "name": "Treat"
+  },
+  "11000585--": {
+    "name": "Board Ship"
+  },
+  "11000597--": {
+    "name": "Search"
+  },
+  "11000598--": {
+    "name": "Search"
+  },
+  "11000620--": {
+    "name": "Trade"
+  },
+  "11000621--": {
+    "name": "Trade"
+  },
+  "11000623--": {
+    "name": "Trade"
+  },
+  "11000624--": {
+    "name": "Trade"
+  },
+  "11000625--": {
+    "name": "Storage"
+  },
+  "11000626--": {
+    "name": "Trade"
+  },
+  "11000627--": {
+    "name": "Trade"
+  },
+  "11000658--": {
+    "name": "Treat"
+  },
+  "11000662--": {
+    "name": "Trade"
+  },
+  "11000663--": {
+    "name": "Search"
+  },
+  "11000665--": {
+    "name": "Call"
+  },
+  "11000666--": {
+    "name": "Search System"
+  },
+  "11000670--": {
+    "name": "Open Cabinet"
+  },
+  "11000671--": {
+    "name": "Open Cabinet"
+  },
+  "11000673--": {
+    "name": "Search"
+  },
+  "11000674--": {
+    "name": "Search"
+  },
+  "11000678--": {
+    "name": "Search"
+  },
+  "11000686--": {
+    "name": "Search"
+  },
+  "11000698--": {
+    "name": "Trade"
+  },
+  "11000699--": {
+    "name": "Trade"
+  },
+  "11000706--": {
+    "name": "Trade"
+  },
+  "11000709--": {
+    "name": "Turn"
+  },
+  "11000714--": {
+    "name": "Read"
+  },
+  "11000715--": {
+    "name": "Read"
+  },
+  "11000716--": {
+    "name": "Read"
+  },
+  "11000717--": {
+    "name": "Read"
+  },
+  "11000718--": {
+    "name": "Read"
+  },
+  "11000719--": {
+    "name": "Read"
+  },
+  "11000720--": {
+    "name": "Read"
+  },
+  "11000721--": {
+    "name": "Read"
+  },
+  "11000722--": {
+    "name": "Read"
+  },
+  "11000723--": {
+    "name": "Read"
+  },
+  "11000724--": {
+    "name": "Read"
+  },
+  "11000725--": {
+    "name": "Read"
+  },
+  "11000726--": {
+    "name": "Read"
+  },
+  "11000727--": {
+    "name": "Read"
+  },
+  "11000728--": {
+    "name": "Read"
+  },
+  "11000729--": {
+    "name": "Read"
+  },
+  "11000730--": {
+    "name": "Read"
+  },
+  "11000731--": {
+    "name": "Read"
+  },
+  "11000732--": {
+    "name": "Read"
+  },
+  "11000733--": {
+    "name": "Read"
+  },
+  "11000757--": {
+    "name": "Trade"
+  },
+  "11000762--": {
+    "name": "Treat"
+  },
+  "11000781--": {
+    "name": "Trade"
+  },
+  "11000800--": {
+    "name": "Read"
+  },
+  "11000801--": {
+    "name": "Read"
+  },
+  "11000802--": {
+    "name": "Read"
+  },
+  "11000803--": {
+    "name": "Read"
+  },
+  "11000895--": {
+    "name": "Search"
+  },
+  "11000896--": {
+    "name": "Trade"
+  },
+  "11000897--": {
+    "name": "Trade"
+  },
+  "11000898--": {
+    "name": "Treat"
+  },
+  "11000899--": {
+    "name": "Treat"
+  },
+  "11000900--": {
+    "name": "Trade"
+  },
+  "11000909--": {
+    "name": "Read"
+  },
+  "11000933--": {
+    "name": "Trade"
+  },
+  "11000934--": {
+    "name": "Trade"
+  },
+  "11000947--": {
+    "name": "Treat"
+  },
+  "11000948--": {
+    "name": "Treat"
+  },
+  "11000949--": {
+    "name": "Treat"
+  },
+  "11000950--": {
+    "name": "Treat"
+  },
+  "11000951--": {
+    "name": "Trade"
+  },
+  "11000952--": {
+    "name": "Trade"
+  },
+  "11000953--": {
+    "name": "Trade"
+  },
+  "11000954--": {
+    "name": "Trade"
+  },
+  "11000955--": {
+    "name": "Trade"
+  },
+  "11000994--": {
+    "name": "Move"
+  },
+  "11001003--": {
+    "name": "Trade"
+  },
+  "11001008--": {
+    "name": "Search"
+  },
+  "11001013--": {
+    "name": "Trade"
+  },
+  "11001017--": {
+    "name": "Storage"
+  },
+  "11001018--": {
+    "name": "Storage"
+  },
+  "11001042--": {
+    "name": "Search"
+  },
+  "11001056--": {
+    "name": "Operate"
+  },
+  "11001061--": {
+    "name": "Trade"
+  },
+  "11001087--": {
+    "name": "Treat"
+  },
+  "11001088--": {
+    "name": "Treat"
+  },
+  "11001089--": {
+    "name": "Treat"
+  },
+  "11001090--": {
+    "name": "Treat"
+  },
+  "11001091--": {
+    "name": "Treat"
+  },
+  "11001092--": {
+    "name": "Trade"
+  },
+  "11001093--": {
+    "name": "Trade"
+  },
+  "11001094--": {
+    "name": "Trade"
+  },
+  "11001095--": {
+    "name": "Trade"
+  },
+  "11001096--": {
+    "name": "Trade"
+  },
+  "11001100--": {
+    "name": "Trade"
+  },
+  "11001101--": {
+    "name": "Treat"
+  },
+  "11001102--": {
+    "name": "Trade"
+  },
+  "11001120--": {
+    "name": "Turn"
+  },
+  "11001146--": {
+    "name": "Read"
+  },
+  "11001147--": {
+    "name": "Cook"
+  },
+  "11001163--": {
+    "name": "Trade"
+  },
+  "11001164--": {
+    "name": "Trade"
+  },
+  "11001182--": {
+    "name": "Trade"
+  },
+  "11001197--": {
+    "name": "Trade"
+  },
+  "11001212--": {
+    "name": "Trade"
+  },
+  "11001228--": {
+    "name": "Trade"
+  },
+  "11001257--": {
+    "name": "Move"
+  },
+  "11001269--": {
+    "name": "Trade"
+  },
+  "11001270--": {
+    "name": "Trade"
+  },
+  "11001271--": {
+    "name": "Trade"
+  },
+  "11001272--": {
+    "name": "Trade"
+  },
+  "11001273--": {
+    "name": "Trade"
+  },
+  "11001276--": {
+    "name": "Move"
+  },
+  "11001320--": {
+    "name": "Trade"
+  },
+  "11001322--": {
+    "name": "Trade"
+  },
+  "11001324--": {
+    "name": "Treat"
+  },
+  "11001325--": {
+    "name": "Trade"
+  },
+  "11001326--": {
+    "name": "Storage"
+  },
+  "11001327--": {
+    "name": "Trade"
+  },
+  "11001357--": {
+    "name": "Search"
+  },
+  "11001403--": {
+    "name": "Move"
+  },
+  "11001435--": {
+    "name": "Trade"
+  },
+  "11001436--": {
+    "name": "Trade"
+  },
+  "11001440--": {
+    "name": "Trade"
+  },
+  "11001441--": {
+    "name": "Trade"
+  },
+  "11001442--": {
+    "name": "Trade"
+  },
+  "11001443--": {
+    "name": "Treat"
+  },
+  "11001449--": {
+    "name": "Trade"
+  },
+  "11001450--": {
+    "name": "Trade"
+  },
+  "11001464--": {
+    "name": "Trade"
+  },
+  "11001465--": {
+    "name": "Storage"
+  },
+  "11001486--": {
+    "name": "Trade"
+  },
+  "11001489--": {
+    "name": "Trade"
+  },
+  "11001504--": {
+    "name": "Trade"
+  },
+  "11001515--": {
+    "name": "Trade"
+  },
+  "11001516--": {
+    "name": "Trade"
+  },
+  "11001517--": {
+    "name": "Turn"
+  },
+  "11001518--": {
+    "name": "Trade"
+  },
+  "11001519--": {
+    "name": "Trade"
+  },
+  "11001526--": {
+    "name": "Trade"
+  },
+  "11001532--": {
+    "name": "Trade"
+  },
+  "11001535--": {
+    "name": "Trade"
+  },
+  "11001551--": {
+    "name": "Flip Card"
+  },
+  "11001552--": {
+    "name": "Trade"
+  },
+  "11001611--": {
+    "name": "Look"
+  },
+  "11001653--": {
+    "name": "Flip Card"
+  },
+  "11001654--": {
+    "name": "Turn"
+  },
+  "11001668--": {
+    "name": "Treat"
+  },
+  "11001694--": {
+    "name": "Search"
+  },
+  "11001695--": {
+    "name": "Turn"
+  },
+  "11001698--": {
+    "name": "Search"
+  },
+  "11001741--": {
+    "name": "Search"
+  },
+  "11001758--": {
+    "name": "Search"
+  },
+  "11001759--": {
+    "name": "Search"
+  },
+  "11001766--": {
+    "name": "Search"
+  },
+  "11001770--": {
+    "name": "Search"
+  },
+  "11001794--": {
+    "name": "Search"
+  },
+  "11001861--": {
+    "name": "Trade"
+  },
+  "11001862--": {
+    "name": "Trade"
+  },
+  "11001863--": {
+    "name": "Trade"
+  },
+  "11001865--": {
+    "name": "Trade"
+  },
+  "11001867--": {
+    "name": "Trade"
+  },
+  "11001869--": {
+    "name": "Trade"
+  },
+  "11001872--": {
+    "name": "Trade"
+  },
+  "11001875--": {
+    "name": "Trade"
+  },
+  "11001916--": {
+    "name": "Search"
+  },
+  "11001935--": {
+    "name": "Trade"
+  },
+  "11001951--": {
+    "name": "Trade"
+  },
+  "11001952--": {
+    "name": "Trade"
+  },
+  "11001953--": {
+    "name": "Turn"
+  },
+  "11001974--": {
+    "name": "Search"
+  },
+  "11002000--": {
+    "name": "Treat"
+  },
+  "11002001--": {
+    "name": "Trade"
+  },
+  "11002002--": {
+    "name": "Treat"
+  },
+  "11002003--": {
+    "name": "Treat"
+  },
+  "11002004--": {
+    "name": "Treat"
+  },
+  "11002005--": {
+    "name": "Treat"
+  },
+  "11002006--": {
+    "name": "Treat"
+  },
+  "11002007--": {
+    "name": "Treat"
+  },
+  "11002008--": {
+    "name": "Treat"
+  },
+  "11002009--": {
+    "name": "Treat"
+  },
+  "11002010--": {
+    "name": "Treat"
+  },
+  "11002011--": {
+    "name": "Treat"
+  },
+  "11002012--": {
+    "name": "Treat"
+  },
+  "11002013--": {
+    "name": "Treat"
+  },
+  "11002014--": {
+    "name": "Treat"
+  },
+  "11002015--": {
+    "name": "Treat"
+  },
+  "11002016--": {
+    "name": "Treat"
+  },
+  "11002017--": {
+    "name": "Trade"
+  },
+  "11002018--": {
+    "name": "Trade"
+  },
+  "11002019--": {
+    "name": "Trade"
+  },
+  "11002020--": {
+    "name": "Trade"
+  },
+  "11002021--": {
+    "name": "Trade"
+  },
+  "11002022--": {
+    "name": "Trade"
+  },
+  "11002023--": {
+    "name": "Trade"
+  },
+  "11002024--": {
+    "name": "Trade"
+  },
+  "11002025--": {
+    "name": "Trade"
+  },
+  "11002026--": {
+    "name": "Trade"
+  },
+  "11002027--": {
+    "name": "Trade"
+  },
+  "11002028--": {
+    "name": "Trade"
+  },
+  "11002029--": {
+    "name": "Trade"
+  },
+  "11002030--": {
+    "name": "Trade"
+  },
+  "11002031--": {
+    "name": "Trade"
+  },
+  "11002032--": {
+    "name": "Trade"
+  },
+  "11002033--": {
+    "name": "Trade"
+  },
+  "11002034--": {
+    "name": "Trade"
+  },
+  "11002035--": {
+    "name": "Trade"
+  },
+  "11002036--": {
+    "name": "Trade"
+  },
+  "11002037--": {
+    "name": "Trade"
+  },
+  "11002038--": {
+    "name": "Trade"
+  },
+  "11002039--": {
+    "name": "Trade"
+  },
+  "11002040--": {
+    "name": "Treat"
+  },
+  "11002041--": {
+    "name": "Treat"
+  },
+  "11002042--": {
+    "name": "Treat"
+  },
+  "11002043--": {
+    "name": "Treat"
+  },
+  "11002044--": {
+    "name": "Treat"
+  },
+  "11002045--": {
+    "name": "Treat"
+  },
+  "11002046--": {
+    "name": "Treat"
+  },
+  "11002047--": {
+    "name": "Treat"
+  },
+  "11002048--": {
+    "name": "Treat"
+  },
+  "11002049--": {
+    "name": "Treat"
+  },
+  "11002050--": {
+    "name": "Trade"
+  },
+  "11002051--": {
+    "name": "Trade"
+  },
+  "11002052--": {
+    "name": "Trade"
+  },
+  "11002053--": {
+    "name": "Trade"
+  },
+  "11002054--": {
+    "name": "Trade"
+  },
+  "11002055--": {
+    "name": "Trade"
+  },
+  "11002056--": {
+    "name": "Trade"
+  },
+  "11002057--": {
+    "name": "Trade"
+  },
+  "11002058--": {
+    "name": "Trade"
+  },
+  "11002059--": {
+    "name": "Trade"
+  },
+  "11002060--": {
+    "name": "Trade"
+  },
+  "11002061--": {
+    "name": "Trade"
+  },
+  "11002062--": {
+    "name": "Trade"
+  },
+  "11002063--": {
+    "name": "Trade"
+  },
+  "11002064--": {
+    "name": "Trade"
+  },
+  "11003002--": {
+    "name": "Search"
+  },
+  "11003061--": {
+    "name": "Investigate"
+  },
+  "11003138--": {
+    "name": "Turn"
+  },
+  "11003139--": {
+    "name": "Chat"
+  },
+  "11003177--": {
+    "name": "Trade"
+  },
+  "11003377--": {
+    "name": "Trade"
+  },
+  "11003378--": {
+    "name": "Trade"
+  },
+  "11003385--": {
+    "name": "Trade"
+  },
+  "11003386--": {
+    "name": "Turn"
+  },
+  "11003405--": {
+    "name": "Trade"
+  },
+  "11003405-MassiveCrazyRunnersShanghai-NA": {
+    "name": "Trade"
+  },
+  "11003430--": {
+    "name": "Investigate"
+  },
+  "11003453--": {
+    "name": "Investigate"
+  },
+  "11003458--": {
+    "name": "Trade"
+  },
+  "11003459--": {
+    "name": "Trade"
+  },
+  "11003460--": {
+    "name": "Trade"
+  },
+  "11003461--": {
+    "name": "Trade"
+  },
+  "11003462--": {
+    "name": "Trade"
+  },
+  "11003463--": {
+    "name": "Trade"
+  },
+  "11003464--": {
+    "name": "Trade"
+  },
+  "11003465--": {
+    "name": "Trade"
+  },
+  "11003466--": {
+    "name": "Trade"
+  },
+  "11003468--": {
+    "name": "Investigate"
+  },
+  "11003472--": {
+    "name": "Turn"
+  },
+  "11003506--": {
+    "name": "Trade"
+  },
+  "11003511--": {
+    "name": "Turn"
+  },
+  "11003528--": {
+    "name": "Search"
+  },
+  "11003551--": {
+    "name": "Turn"
+  },
+  "11003552--": {
+    "name": "Go to Harang Island"
+  },
+  "11003555--": {
+    "name": "Trade"
+  },
+  "11003558--": {
+    "name": "Trade"
+  },
+  "11003559--": {
+    "name": "Trade"
+  },
+  "11003560--": {
+    "name": "Trade"
+  },
+  "11003561--": {
+    "name": "Trade"
+  },
+  "11003562--": {
+    "name": "Trade"
+  },
+  "11003563--": {
+    "name": "Trade"
+  },
+  "11003573--": {
+    "name": "Trade"
+  },
+  "11003671--": {
+    "name": "Search"
+  },
+  "11003688--": {
+    "name": "Turn"
+  },
+  "11003697--": {
+    "name": "Trade"
+  },
+  "11003698--": {
+    "name": "Trade"
+  },
+  "11003768--": {
+    "name": "Search"
+  },
+  "11003769--": {
+    "name": "Search"
+  },
+  "11003774--": {
+    "name": "Trade"
+  },
+  "11003803--": {
+    "name": "Trade"
+  },
+  "11003804--": {
+    "name": "Trade"
+  },
+  "11003805--": {
+    "name": "Trade"
+  },
+  "11003806--": {
+    "name": "Trade"
+  },
+  "11003807--": {
+    "name": "Trade"
+  },
+  "11003808--": {
+    "name": "Storage"
+  },
+  "11003809--": {
+    "name": "Treat"
+  },
+  "11003818--": {
+    "name": "Investigate"
+  },
+  "11003823--": {
+    "name": "Investigate"
+  },
+  "11003854--": {
+    "name": "Trade"
+  },
+  "11003855--": {
+    "name": "Trade"
+  },
+  "11003859--": {
+    "name": "Trade"
+  },
+  "11003895--": {
+    "name": "Pay Respects"
+  },
+  "11003900--": {
+    "name": "Chat"
+  },
+  "11003912--": {
+    "name": "Search"
+  },
+  "11003916--": {
+    "name": "Search"
+  },
+  "11003917--": {
+    "name": "Search"
+  },
+  "11003918--": {
+    "name": "Search"
+  },
+  "11003923--": {
+    "name": "Examine"
+  },
+  "11003924--": {
+    "name": "Investigate"
+  },
+  "11003928--": {
+    "name": "Examine"
+  },
+  "11003930--": {
+    "name": "Search"
+  },
+  "11003933--": {
+    "name": "Look"
+  },
+  "11003936--": {
+    "name": "Confront"
+  },
+  "11003939--": {
+    "name": "Confront"
+  },
+  "11003946--": {
+    "name": "Search"
+  },
+  "11003968--": {
+    "name": "Search"
+  },
+  "11003969--": {
+    "name": "Read"
+  },
+  "11003970--": {
+    "name": "Mingle"
+  },
+  "11004039--": {
+    "name": "Trade"
+  },
+  "11004040--": {
+    "name": "Trade"
+  },
+  "11004063--NA": {
+    "name": "Search"
+  },
+  "11004064--NA": {
+    "name": "Search"
+  },
+  "11004065--NA": {
+    "name": "Search"
+  },
+  "11004067--NA": {
+    "name": "Search"
+  },
+  "11004068--NA": {
+    "name": "Search"
+  },
+  "11004070--NA": {
+    "name": "Search"
+  },
+  "11004073--NA": {
+    "name": "Search"
+  },
+  "11004077--NA": {
+    "name": "Search"
+  },
+  "11004078--NA": {
+    "name": "Search"
+  },
+  "11004080--NA": {
+    "name": "Search"
+  },
+  "11004081--NA": {
+    "name": "Search"
+  },
+  "11004085--NA": {
+    "name": "Search"
+  },
+  "11004090--NA": {
+    "name": "Search"
+  },
+  "11004098--NA": {
+    "name": "Search"
+  },
+  "11004101--": {
+    "name": "Trade"
+  },
+  "11004132--": {
+    "name": "Trade"
+  },
+  "11004133--": {
+    "name": "Trade"
+  },
+  "11004214--": {
+    "name": "Trade"
+  },
+  "11004215--": {
+    "name": "Operate"
+  },
+  "11004216--": {
+    "name": "Operate"
+  },
+  "11004231--": {
+    "name": "Trade"
+  },
+  "11004243--": {
+    "name": "Trade"
+  },
+  "11004247-SurvivalContents03-": {
+    "name": "Storage"
+  },
+  "11004248-Season1-NA": {
+    "name": "Trade"
+  },
+  "11004251--NA": {
+    "name": "Examine"
+  },
+  "11004254--NA": {
+    "name": "Examine"
+  },
+  "11004256--NA": {
+    "name": "Search"
+  },
+  "11004257--NA": {
+    "name": "Search"
+  },
+  "11004259--NA": {
+    "name": "Search"
+  },
+  "11004261-KarkarIsland-NA": {
+    "name": "Examine"
+  },
+  "11004262-KarkarIsland-NA": {
+    "name": "Examine"
+  },
+  "11004263-KarkarIsland-NA": {
+    "name": "Examine"
+  },
+  "11004264-KarkarIsland-NA": {
+    "name": "Examine"
+  },
+  "11004268-KarkarIsland-NA": {
+    "name": "Examine"
+  },
+  "11004269-KarkarIsland-NA": {
+    "name": "Examine"
+  },
+  "11004271-KarkarIsland-NA": {
+    "name": "Examine"
+  },
+  "11004276-KarkarIsland-NA": {
+    "name": "Examine"
+  },
+  "11004278-KarkarIsland-NA": {
+    "name": "Examine"
+  },
+  "11004279-KarkarIsland-NA": {
+    "name": "Examine"
+  },
+  "11004280-KarkarIsland-NA": {
+    "name": "Examine"
+  },
+  "11004281-KarkarIsland-NA": {
+    "name": "Examine"
+  },
+  "11004282-KarkarIsland-NA": {
+    "name": "Examine"
+  },
+  "11004287-Colosseum01-": {
+    "name": "Trade"
+  },
+  "11004317--": {
+    "name": "Play"
+  },
+  "11004318-Season1-": {
+    "name": "Treat"
+  },
+  "11004442-Kritias_2018_12-": {
+    "name": "Trade"
+  },
+  "11004447-GemStoneJewelBox_01-": {
+    "name": "Trade"
+  },
+  "11004451-Kritias_2018_12-": {
+    "name": "Treat"
+  },
+  "11004456--": {
+    "name": "Approach"
+  },
+  "11004504-Kritias_2018_12-": {
+    "name": "Trade"
+  },
+  "11004517-Kritias_2018_12-": {
+    "name": "Trade"
+  },
+  "11004518-Kritias_2018_12-": {
+    "name": "Trade"
+  },
+  "11004519-Kritias_2018_12-": {
+    "name": "Trade"
+  },
+  "11004520-Kritias_2018_12-": {
+    "name": "Move"
+  },
+  "11004521-Kritias_2018_12-": {
+    "name": "Move"
+  },
+  "11004554--": {
+    "name": "Trade"
+  },
+  "11004625--": {
+    "name": "Trade"
+  },
+  "11004631--": {
+    "name": "Search"
+  },
+  "11004632--": {
+    "name": "Search"
+  },
+  "11004633--": {
+    "name": "Search"
+  },
+  "11004636--": {
+    "name": "Trade"
+  },
+  "11004637--": {
+    "name": "Trade"
+  },
+  "11004663-Event-": {
+    "name": "ACTIONNAME_11004663_NAME:[F]Event"
+  },
+  "11004674--": {
+    "name": "Trade"
+  },
+  "11004717-Event-": {
+    "name": "Trade"
+  },
+  "11004726-Event-": {
+    "name": "Trade"
+  },
+  "11004728--": {
+    "name": "Turn"
+  },
+  "11004742--": {
+    "name": "Turn"
+  },
+  "11004774--NA": {
+    "name": "Trade"
+  },
+  "11004776-Event-": {
+    "name": "Trade"
+  },
+  "11200000--": {
+    "name": "Treat"
+  },
+  "11200001--": {
+    "name": "Trade"
+  },
+  "11200002--": {
+    "name": "Trade"
+  },
+  "11200003--": {
+    "name": "Trade"
+  },
+  "11200004--": {
+    "name": "Trade"
+  },
+  "11200006--": {
+    "name": "Trade"
+  },
+  "11000004-Season1-": {
+    "name": "Trade"
+  },
+  "11000011-Season1-": {
+    "name": "Storage"
+  },
+  "11000016-Season1-": {
+    "name": "Talk"
+  },
+  "11000013-Season1-": {
+    "name": "Trade"
+  },
+  "11000010-Season1-": {
+    "name": "Trade"
+  },
+  "11000028-Season1-": {
+    "name": "Trade"
+  },
+  "11000038-Season1-": {
+    "name": "Heal"
+  },
+  "11000017-Season1-": {
+    "name": "Trade"
+  },
+  "11000018-Season1-": {
+    "name": "Trade"
+  },
+  "11000029-Season1-": {
+    "name": "Trade"
+  },
+  "11000043-Season1-": {
+    "name": "Job Advancement"
+  },
+  "11000040-Season1-": {
+    "name": "Job Advancement"
+  },
+  "11000041-Season1-": {
+    "name": "Job Advancement"
+  },
+  "11000042-Season1-": {
+    "name": "Job Advancement"
+  },
+  "11000045-Season1-": {
+    "name": "Job Advancement"
+  },
+  "11000051-Season1-": {
+    "name": "Job Advancement"
+  },
+  "11000050-Season1-": {
+    "name": "Job Advancement"
+  },
+  "11000046-Season1-": {
+    "name": "Job Advancement"
+  },
+  "11000048-Season1-": {
+    "name": "Find Item"
+  },
+  "11000070-Season1-": {
+    "name": "Heal"
+  },
+  "11000133-Season1-": {
+    "name": "Trade"
+  },
+  "11000175-Season1-": {
+    "name": "Examine"
+  },
+  "11000117-Season1-": {
+    "name": "Trade"
+  },
+  "11000079-Season1-": {
+    "name": "Trade"
+  },
+  "11000155-Season1-": {
+    "name": "Storage"
+  },
+  "11000214-Season1-": {
+    "name": "Examine"
+  },
+  "11000199-Season1-": {
+    "name": "Examine"
+  },
+  "11000177-Season1-": {
+    "name": "Examine"
+  },
+  "11000184-Season1-": {
+    "name": "Examine"
+  },
+  "11000176-Season1-": {
+    "name": "Look Around"
+  },
+  "11000250-Season1-": {
+    "name": "Trade"
+  },
+  "11000261-Season1-": {
+    "name": "Heal"
+  },
+  "11000249-Season1-": {
+    "name": "Trade"
+  },
+  "11000268-Season1-": {
+    "name": "Trade"
+  },
+  "11000267-Season1-": {
+    "name": "Trade"
+  },
+  "11000272-Season1-": {
+    "name": "Trade"
+  },
+  "11000276-Season1-": {
+    "name": "Storage"
+  },
+  "11000273-Season1-": {
+    "name": "Heal"
+  },
+  "11000275-Season1-": {
+    "name": "Heal"
+  },
+  "11000274-Season1-": {
+    "name": "Heal"
+  },
+  "11000277-Season1-": {
+    "name": "Storage"
+  },
+  "11000278-Season1-": {
+    "name": "Storage"
+  },
+  "11000287-Season1-": {
+    "name": "Examine"
+  },
+  "11000286-Season1-": {
+    "name": "Examine"
+  },
+  "11000279-Season1-": {
+    "name": "Storage"
+  },
+  "11000316-Season1-": {
+    "name": "Trade"
+  },
+  "11000315-Season1-": {
+    "name": "Trade"
+  },
+  "11000304-Season1-": {
+    "name": "Trade"
+  },
+  "11000313-Season1-": {
+    "name": "Trade"
+  },
+  "11000314-Season1-": {
+    "name": "Trade"
+  },
+  "11000343-Season1-": {
+    "name": "Examine"
+  },
+  "11000344-Season1-": {
+    "name": "Examine"
+  },
+  "11000345-Season1-": {
+    "name": "Examine"
+  },
+  "11000346-Season1-": {
+    "name": "Examine"
+  },
+  "11000347-Season1-": {
+    "name": "Examine"
+  },
+  "11000351-Season1-": {
+    "name": "Look in Mirror"
+  },
+  "11000363-Season1-": {
+    "name": "Examine"
+  },
+  "11000364-Season1-": {
+    "name": "Examine"
+  },
+  "11000369-Season1-": {
+    "name": "Read Data"
+  },
+  "11000370-Season1-": {
+    "name": "Read Data"
+  },
+  "11000371-Season1-": {
+    "name": "Read Data"
+  },
+  "11000419-Season1-": {
+    "name": "Heal"
+  },
+  "11000422-Season1-": {
+    "name": "Examine"
+  },
+  "11000433-Season1-": {
+    "name": "Trade"
+  },
+  "11000434-Season1-": {
+    "name": "Trade"
+  },
+  "11000435-Season1-": {
+    "name": "Trade"
+  },
+  "11000436-Season1-": {
+    "name": "Heal"
+  },
+  "11000445-Season1-": {
+    "name": "Trade"
+  },
+  "11000448-Season1-": {
+    "name": "Trade"
+  },
+  "11000459-Season1-": {
+    "name": "Trade"
+  },
+  "11000463-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11000469-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11000470-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11000474-Season1-": {
+    "name": "Turn"
+  },
+  "11000475-Season1-": {
+    "name": "Turn"
+  },
+  "11000482-Season1-": {
+    "name": "Examine"
+  },
+  "11000486-Season1-": {
+    "name": "Trade"
+  },
+  "11000494-Season1-": {
+    "name": "Trade"
+  },
+  "11000495-Season1-": {
+    "name": "Trade"
+  },
+  "11000535-Season1-": {
+    "name": "Trade"
+  },
+  "11000536-Season1-": {
+    "name": "Trade"
+  },
+  "11000537-Season1-": {
+    "name": "Trade"
+  },
+  "11000538-Season1-": {
+    "name": "Trade"
+  },
+  "11000550-Season1-": {
+    "name": "Examine"
+  },
+  "11000553-Season1-": {
+    "name": "Read"
+  },
+  "11000554-Season1-": {
+    "name": "Read"
+  },
+  "11000555-Season1-": {
+    "name": "Read"
+  },
+  "11000556-Season1-": {
+    "name": "Read"
+  },
+  "11000557-Season1-": {
+    "name": "Read"
+  },
+  "11000558-Season1-": {
+    "name": "Read"
+  },
+  "11000559-Season1-": {
+    "name": "Read"
+  },
+  "11000560-Season1-": {
+    "name": "Read"
+  },
+  "11000561-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11000562-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11000563-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11000564-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11000569-Season1-": {
+    "name": "Trade"
+  },
+  "11000570-Season1-": {
+    "name": "Trade"
+  },
+  "11000571-Season1-": {
+    "name": "Trade"
+  },
+  "11000572-Season1-": {
+    "name": "Trade"
+  },
+  "11000573-Season1-": {
+    "name": "Trade"
+  },
+  "11000574-Season1-": {
+    "name": "Trade"
+  },
+  "11000575-Season1-": {
+    "name": "Trade"
+  },
+  "11000576-Season1-": {
+    "name": "Trade"
+  },
+  "11000582-Season1-": {
+    "name": "Heal"
+  },
+  "11000583-Season1-": {
+    "name": "Heal"
+  },
+  "11000584-Season1-": {
+    "name": "Heal"
+  },
+  "11000585-Season1-": {
+    "name": "Board Ship"
+  },
+  "11000597-Season1-": {
+    "name": "Examine"
+  },
+  "11000598-Season1-": {
+    "name": "Examine"
+  },
+  "11000621-Season1-": {
+    "name": "Trade"
+  },
+  "11000623-Season1-": {
+    "name": "Trade"
+  },
+  "11000624-Season1-": {
+    "name": "Trade"
+  },
+  "11000625-Season1-": {
+    "name": "Storage"
+  },
+  "11000626-Season1-": {
+    "name": "Trade"
+  },
+  "11000627-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11000658-Season1-": {
+    "name": "Heal"
+  },
+  "11000662-Season1-": {
+    "name": "Trade"
+  },
+  "11000663-Season1-": {
+    "name": "Examine"
+  },
+  "11000665-Season1-": {
+    "name": "Call"
+  },
+  "11000666-Season1-": {
+    "name": "Examine System"
+  },
+  "11000670-Season1-": {
+    "name": "Open Bookshelf"
+  },
+  "11000671-Season1-": {
+    "name": "Open Bookshelf"
+  },
+  "11000673-Season1-": {
+    "name": "Examine"
+  },
+  "11000674-Season1-": {
+    "name": "Examine"
+  },
+  "11000678-Season1-": {
+    "name": "Examine"
+  },
+  "11000686-Season1-": {
+    "name": "Examine"
+  },
+  "11000698-Season1-": {
+    "name": "Trade"
+  },
+  "11000699-Season1-": {
+    "name": "Trade"
+  },
+  "11000709-Season1-": {
+    "name": "Turn"
+  },
+  "11000714-Season1-": {
+    "name": "Read"
+  },
+  "11000715-Season1-": {
+    "name": "Read"
+  },
+  "11000716-Season1-": {
+    "name": "Read"
+  },
+  "11000717-Season1-": {
+    "name": "Read"
+  },
+  "11000718-Season1-": {
+    "name": "Read"
+  },
+  "11000719-Season1-": {
+    "name": "Read"
+  },
+  "11000720-Season1-": {
+    "name": "Read"
+  },
+  "11000721-Season1-": {
+    "name": "Read"
+  },
+  "11000722-Season1-": {
+    "name": "Read"
+  },
+  "11000723-Season1-": {
+    "name": "Read"
+  },
+  "11000724-Season1-": {
+    "name": "Read"
+  },
+  "11000725-Season1-": {
+    "name": "Read"
+  },
+  "11000726-Season1-": {
+    "name": "Read"
+  },
+  "11000727-Season1-": {
+    "name": "Read"
+  },
+  "11000728-Season1-": {
+    "name": "Read"
+  },
+  "11000729-Season1-": {
+    "name": "Read"
+  },
+  "11000730-Season1-": {
+    "name": "Read"
+  },
+  "11000731-Season1-": {
+    "name": "Read"
+  },
+  "11000732-Season1-": {
+    "name": "Read"
+  },
+  "11000733-Season1-": {
+    "name": "Read"
+  },
+  "11000757-MikaBooks-": {
+    "name": "Trade"
+  },
+  "11000762-Season1-": {
+    "name": "Heal"
+  },
+  "11000781-Season1-": {
+    "name": "Trade"
+  },
+  "11000800-Season1-": {
+    "name": "Read"
+  },
+  "11000801-Season1-": {
+    "name": "Read"
+  },
+  "11000802-Season1-": {
+    "name": "Read"
+  },
+  "11000803-Season1-": {
+    "name": "Read"
+  },
+  "11000895-Season1-": {
+    "name": "Examine"
+  },
+  "11000896-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11000897-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11000898-Season1-": {
+    "name": "Heal"
+  },
+  "11000899-Season1-": {
+    "name": "Heal"
+  },
+  "11000900-Season1-": {
+    "name": "Trade"
+  },
+  "11000909-Season1-": {
+    "name": "Read"
+  },
+  "11000933-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11000934-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11000947-Season1-": {
+    "name": "Heal"
+  },
+  "11000948-Season1-": {
+    "name": "Heal"
+  },
+  "11000949-Season1-": {
+    "name": "Heal"
+  },
+  "11000950-Season1-": {
+    "name": "Heal"
+  },
+  "11000951-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11000952-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11000953-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11000954-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11000955-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11000994-Season1-": {
+    "name": "Move"
+  },
+  "11001002-Season1-CN": {
+    "name": "Trade"
+  },
+  "11001003-Season1-": {
+    "name": "Trade"
+  },
+  "11001008-Season1-": {
+    "name": "Examine"
+  },
+  "11001013-Season1-": {
+    "name": "Trade"
+  },
+  "11001017-Season1-": {
+    "name": "Storage"
+  },
+  "11001018-Season1-": {
+    "name": "Storage"
+  },
+  "11001042-Season1-": {
+    "name": "Examine"
+  },
+  "11001056-Season1-": {
+    "name": "Operate"
+  },
+  "11001061-Season1-": {
+    "name": "Trade"
+  },
+  "11001091-Season1-": {
+    "name": "Heal"
+  },
+  "11001096-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11001120-Season1-": {
+    "name": "Turn"
+  },
+  "11001146-Season1-": {
+    "name": "Read"
+  },
+  "11001147-Season1-": {
+    "name": "Cook"
+  },
+  "11001163-Season1-": {
+    "name": "Trade"
+  },
+  "11001164-Season1-": {
+    "name": "Trade"
+  },
+  "11001182-AricariDailyQ-": {
+    "name": "Trade"
+  },
+  "11001197-Season1-": {
+    "name": "Trade"
+  },
+  "11001212-Balrogitem1st-": {
+    "name": "Trade"
+  },
+  "11001228-TimeAttackDungeon-": {
+    "name": "Trade"
+  },
+  "11001257-RuneBlader-": {
+    "name": "Move"
+  },
+  "11001269-Season1-": {
+    "name": "Trade"
+  },
+  "11001270-Season3-": {
+    "name": "Trade"
+  },
+  "11001271-Season3-": {
+    "name": "Trade"
+  },
+  "11001272-Season3-": {
+    "name": "Trade"
+  },
+  "11001273-Season3-": {
+    "name": "Trade"
+  },
+  "11001276-KarkarIsland-": {
+    "name": "Move"
+  },
+  "11001320-MusicInstrument-": {
+    "name": "Trade"
+  },
+  "11001322-MusicInstrument-": {
+    "name": "Trade"
+  },
+  "11001324-KarkarIsland-": {
+    "name": "Heal"
+  },
+  "11001325-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11001326-KarkarIsland-": {
+    "name": "Storage"
+  },
+  "11001327-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11001357-KarkarIsland-": {
+    "name": "Examine"
+  },
+  "11001403-KarkarIsland-": {
+    "name": "Move"
+  },
+  "11001435-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11001436-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11001440-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11001441-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11001442-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11001443-KarkarIsland-": {
+    "name": "Heal"
+  },
+  "11001449-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11001450-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11001464-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11001465-KarkarIsland-": {
+    "name": "Storage"
+  },
+  "11001486-AricariDailyQ-": {
+    "name": "Trade"
+  },
+  "11001489-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11001504-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11001532-MassiveDanceDanceStop-": {
+    "name": "Trade"
+  },
+  "11001551-EventDuckyCardGame-": {
+    "name": "Flip Card"
+  },
+  "11001552-Fishing-": {
+    "name": "Trade"
+  },
+  "11001611-NutaNuta-": {
+    "name": "Look"
+  },
+  "11001668-UGCMapRenewal-": {
+    "name": "Heal"
+  },
+  "11001694-NutaNuta-": {
+    "name": "Examine"
+  },
+  "11001695--CN": {
+    "name": "Turn"
+  },
+  "11001698-Season1-": {
+    "name": "Examine"
+  },
+  "11001741-DoubleImpactStory-": {
+    "name": "Examine"
+  },
+  "11001758-DoubleImpactStory-": {
+    "name": "Examine"
+  },
+  "11001759-DoubleImpactStory-": {
+    "name": "Examine"
+  },
+  "11001766-DoubleImpactStory-": {
+    "name": "Examine"
+  },
+  "11001770-DoubleImpactStory-": {
+    "name": "Examine"
+  },
+  "11001794-DoubleImpactStory-": {
+    "name": "Examine"
+  },
+  "11001861-ContentsGuide01-": {
+    "name": "Trade"
+  },
+  "11001862-ContentsGuide01-": {
+    "name": "Trade"
+  },
+  "11001863-ContentsGuide01-": {
+    "name": "Trade"
+  },
+  "11001865-ContentsGuide01-": {
+    "name": "Trade"
+  },
+  "11001867-ContentsGuide01-": {
+    "name": "Trade"
+  },
+  "11001869-ContentsGuide01-": {
+    "name": "Trade"
+  },
+  "11001872-ContentsGuide01-": {
+    "name": "Trade"
+  },
+  "11001875-ContentsGuide01-": {
+    "name": "Trade"
+  },
+  "11001916-Season1-": {
+    "name": "Examine"
+  },
+  "11001935-Season1-": {
+    "name": "Trade"
+  },
+  "11001953-Season1-": {
+    "name": "Turn"
+  },
+  "11001974-Season1-": {
+    "name": "Examine"
+  },
+  "11002000-Season1-": {
+    "name": "Heal"
+  },
+  "11002001-Season1-": {
+    "name": "Trade"
+  },
+  "11002002-Season1-": {
+    "name": "Heal"
+  },
+  "11002003-Season1-": {
+    "name": "Heal"
+  },
+  "11002004-Season1-": {
+    "name": "Heal"
+  },
+  "11002005-Season1-": {
+    "name": "Heal"
+  },
+  "11002006-Season1-": {
+    "name": "Heal"
+  },
+  "11002007-Season1-": {
+    "name": "Heal"
+  },
+  "11002008-Season1-": {
+    "name": "Heal"
+  },
+  "11002009-Season1-": {
+    "name": "Heal"
+  },
+  "11002010-Season1-": {
+    "name": "Heal"
+  },
+  "11002011-Season1-": {
+    "name": "Heal"
+  },
+  "11002012-Season1-": {
+    "name": "Heal"
+  },
+  "11002013-Season1-": {
+    "name": "Heal"
+  },
+  "11002014-Season1-": {
+    "name": "Heal"
+  },
+  "11002015-Season1-": {
+    "name": "Heal"
+  },
+  "11002016-Season1-": {
+    "name": "Heal"
+  },
+  "11002017-Season1-": {
+    "name": "Trade"
+  },
+  "11002018-Season1-": {
+    "name": "Trade"
+  },
+  "11002019-Season1-": {
+    "name": "Trade"
+  },
+  "11002020-Season1-": {
+    "name": "Trade"
+  },
+  "11002021-Season1-": {
+    "name": "Trade"
+  },
+  "11002022-Season1-": {
+    "name": "Trade"
+  },
+  "11002023-Season1-": {
+    "name": "Trade"
+  },
+  "11002024-Season1-": {
+    "name": "Trade"
+  },
+  "11002025-Season1-": {
+    "name": "Trade"
+  },
+  "11002026-Season1-": {
+    "name": "Trade"
+  },
+  "11002027-Season1-": {
+    "name": "Trade"
+  },
+  "11002028-Season1-": {
+    "name": "Trade"
+  },
+  "11002029-Season1-": {
+    "name": "Trade"
+  },
+  "11002030-Season1-": {
+    "name": "Trade"
+  },
+  "11002031-Season1-": {
+    "name": "Trade"
+  },
+  "11002032-Season1-": {
+    "name": "Trade"
+  },
+  "11002033-Season1-": {
+    "name": "Trade"
+  },
+  "11002034-Season1-": {
+    "name": "Trade"
+  },
+  "11002035-Season1-": {
+    "name": "Trade"
+  },
+  "11002036-Season1-": {
+    "name": "Trade"
+  },
+  "11002037-Season1-": {
+    "name": "Trade"
+  },
+  "11002038-Season1-": {
+    "name": "Trade"
+  },
+  "11002039-Season1-": {
+    "name": "Trade"
+  },
+  "11002040-KarkarIsland-": {
+    "name": "Heal"
+  },
+  "11002041-KarkarIsland-": {
+    "name": "Heal"
+  },
+  "11002042-KarkarIsland-": {
+    "name": "Heal"
+  },
+  "11002043-KarkarIsland-": {
+    "name": "Heal"
+  },
+  "11002044-KarkarIsland-": {
+    "name": "Heal"
+  },
+  "11002045-KarkarIsland-": {
+    "name": "Heal"
+  },
+  "11002046-KarkarIsland-": {
+    "name": "Heal"
+  },
+  "11002047-KarkarIsland-": {
+    "name": "Heal"
+  },
+  "11002048-KarkarIsland-": {
+    "name": "Heal"
+  },
+  "11002049-KarkarIsland-": {
+    "name": "Heal"
+  },
+  "11002050-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11002051-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11002052-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11002053-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11002054-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11002055-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11002056-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11002057-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11002058-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11002059-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11002060-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11002061-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11002062-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11002063-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11002064-KarkarIsland-": {
+    "name": "Trade"
+  },
+  "11003002-ItemPartyDungeon-": {
+    "name": "Examine"
+  },
+  "11003061-SnowKingdom-": {
+    "name": "Examine"
+  },
+  "11003138-Season1-": {
+    "name": "Turn"
+  },
+  "11003177-Season1-": {
+    "name": "Trade"
+  },
+  "11003386-Season1-": {
+    "name": "Turn"
+  },
+  "11003405-MassiveCrazyRunnersShanghai-": {
+    "name": "Trade"
+  },
+  "11003430-Quest2017_2-": {
+    "name": "Investigate"
+  },
+  "11003453-Quest2017_2-": {
+    "name": "Investigate"
+  },
+  "11003458-Season3-": {
+    "name": "Trade"
+  },
+  "11003459-Season3-": {
+    "name": "Trade"
+  },
+  "11003460-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11003461-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11003462-ShadowCrack-": {
+    "name": "Trade"
+  },
+  "11003463-PvPRankingDuelMode-": {
+    "name": "Trade"
+  },
+  "11003464-ReverseShop01-": {
+    "name": "Trade"
+  },
+  "11003465-TimeAttackDungeon-": {
+    "name": "Trade"
+  },
+  "11003466-ChaosRaid-": {
+    "name": "Trade"
+  },
+  "11003468-Quest2017_2-": {
+    "name": "Investigate"
+  },
+  "11003506-ContentsGuide03-": {
+    "name": "Trade"
+  },
+  "11003511-VIPDungeon-": {
+    "name": "Turn"
+  },
+  "11003528-ContentsGuide03-": {
+    "name": "Examine"
+  },
+  "11003551-Season1-CN": {
+    "name": "Turn"
+  },
+  "11003552-ContentsGuide01-": {
+    "name": "Go to Harang Lake Island"
+  },
+  "11003555--KR": {
+    "name": "Trade"
+  },
+  "11003555--CN": {
+    "name": "Trade"
+  },
+  "11003558-Season1-": {
+    "name": "Trade"
+  },
+  "11003559-Season1-KR": {
+    "name": "Trade"
+  },
+  "11003560-FindDungeonHelp-": {
+    "name": "Trade"
+  },
+  "11003561-Mentoring-": {
+    "name": "Trade"
+  },
+  "11003562-Mentoring-": {
+    "name": "Trade"
+  },
+  "11003573-Season1-": {
+    "name": "Trade"
+  },
+  "11003688-Season1-CN": {
+    "name": "Turn"
+  },
+  "11003697-FameContents-": {
+    "name": "Trade"
+  },
+  "11003698-FameContents-": {
+    "name": "Trade"
+  },
+  "11003774-Season1-": {
+    "name": "Trade"
+  },
+  "11003818-FameContents_EP1_02-": {
+    "name": "Investigate"
+  },
+  "11003823-FameContents_EP1_02-": {
+    "name": "Investigate"
+  },
+  "11003859-FameContents-": {
+    "name": "Trade"
+  },
+  "11003895-LapentaFrontierQuest-": {
+    "name": "Examine"
+  },
+  "11003900-LapentaFrontierQuest-": {
+    "name": "Examine"
+  },
+  "11003912-LapentaFrontierQuest-": {
+    "name": "Examine"
+  },
+  "11003916-LapentaFrontierQuest-": {
+    "name": "Examine"
+  },
+  "11003917-LapentaFrontierQuest-": {
+    "name": "Examine"
+  },
+  "11003918-LapentaFrontierQuest-": {
+    "name": "Examine"
+  },
+  "11003923-LapentaFrontierQuest-": {
+    "name": "Examine"
+  },
+  "11003924-LapentaFrontierQuest-": {
+    "name": "Examine"
+  },
+  "11003928-LapentaFrontierQuest-": {
+    "name": "Examine"
+  },
+  "11003930-LapentaFrontierQuest-": {
+    "name": "Examine"
+  },
+  "11003933-LapentaFrontierQuest-": {
+    "name": "Look"
+  },
+  "11003936-LapentaFrontierQuest-": {
+    "name": "Confront"
+  },
+  "11003939-LapentaFrontierQuest-": {
+    "name": "Confront"
+  },
+  "11003946-LapentaFrontierQuest-": {
+    "name": "Examine"
+  },
+  "11003968-LapentaFrontierQuest-": {
+    "name": "Examine"
+  },
+  "11003969-LapentaFrontierQuest-": {
+    "name": "Examine"
+  },
+  "11003970-LapentaFrontierQuest-": {
+    "name": "Examine"
+  },
+  "11004039-Season1-": {
+    "name": "Trade"
+  },
+  "11004040-Season1-": {
+    "name": "Trade"
+  },
+  "11004092-SurvivalContents02-CN": {
+    "name": "Trade"
+  },
+  "11004214-LapentaDungeon-": {
+    "name": "Trade"
+  },
+  "11004215-GemStoneJewelBox_01-": {
+    "name": "Operate"
+  },
+  "11004216-LumiStoneJewelBox_01-": {
+    "name": "Operate"
+  },
+  "11004231-GemStoneJewelBox_01-": {
+    "name": "Trade"
+  },
+  "11004243-Event-": {
+    "name": "Trade"
+  },
+  "11004456-Kritias_Epic01-": {
+    "name": "Approach"
+  },
+  "11004625-Season1-": {
+    "name": "Trade"
+  },
+  "11004631-Kritias_Epic03-": {
+    "name": "Examine"
+  },
+  "11004632-Kritias_Epic03-": {
+    "name": "Examine"
+  },
+  "11004633-Kritias_Epic03-": {
+    "name": "Examine"
+  },
+  "11004636-Fame_Geo01-": {
+    "name": "Trade"
+  },
+  "11004637-Season1-": {
+    "name": "Trade"
+  },
+  "11004674-Event-": {
+    "name": "Trade"
+  },
+  "11004695-Event-CN": {
+    "name": "Trade"
+  },
+  "11004728-MassiveHideAndSeek-": {
+    "name": "Turn"
+  },
+  "11004742-MassiveHideAndSeek-CN": {
+    "name": "Turn"
+  },
+  "11004820-EpicApocalypse01-": {
+    "name": "Approach"
+  },
+  "11004829-EpicApocalypse02-": {
+    "name": "Examine"
+  },
+  "11004842-Event-": {
+    "name": "Trade"
+  },
+  "11004842-Event-CN": {
+    "name": "Trade"
+  },
+  "11004843-Event-": {
+    "name": "Trade"
+  },
+  "11004844-Event-CN": {
+    "name": "Trade"
+  },
+  "11004845-Event-KR": {
+    "name": "Trade"
+  },
+  "11200000-GuildHouse01-": {
+    "name": "Heal"
+  },
+  "11200001-GuildHouse01-": {
+    "name": "Trade"
+  },
+  "11200002-GuildHouse01-": {
+    "name": "Trade"
+  },
+  "11200003-NpcRashi-": {
+    "name": "Trade"
+  },
+  "11200004-ItemSocketSystem-": {
+    "name": "Trade"
+  },
+  "11200006-ItemMerge-": {
+    "name": "Trade"
+  },
+  "11500002-Season1-": {
+    "name": "Trade"
+  },
+  "11004552--": {
+    "name": "Trade"
+  },
+  "11003405-MassiveCrazyRunnersShanghai-JP": {
+    "name": "Trade"
+  },
+  "11004063--JP": {
+    "name": "Examine"
+  },
+  "11004064--JP": {
+    "name": "Examine"
+  },
+  "11004065--JP": {
+    "name": "Examine"
+  },
+  "11004067--JP": {
+    "name": "Examine"
+  },
+  "11004068--JP": {
+    "name": "Examine"
+  },
+  "11004070--JP": {
+    "name": "Examine"
+  },
+  "11004073--JP": {
+    "name": "Examine"
+  },
+  "11004077--JP": {
+    "name": "Examine"
+  },
+  "11004078--JP": {
+    "name": "Examine"
+  },
+  "11004080--JP": {
+    "name": "Examine"
+  },
+  "11004081--JP": {
+    "name": "Examine"
+  },
+  "11004085--JP": {
+    "name": "Examine"
+  },
+  "11004090--JP": {
+    "name": "Examine"
+  },
+  "11004098--JP": {
+    "name": "Examine"
+  },
+  "11004251--JP": {
+    "name": "Examine"
+  },
+  "11004254--JP": {
+    "name": "Examine"
+  },
+  "11004256--JP": {
+    "name": "Examine"
+  },
+  "11004257--JP": {
+    "name": "Examine"
+  },
+  "11004259--JP": {
+    "name": "Examine"
+  },
+  "11004261-KarkarIsland-JP": {
+    "name": "Examine"
+  },
+  "11004262-KarkarIsland-JP": {
+    "name": "Examine"
+  },
+  "11004263-KarkarIsland-JP": {
+    "name": "Examine"
+  },
+  "11004264-KarkarIsland-JP": {
+    "name": "Examine"
+  },
+  "11004268-KarkarIsland-JP": {
+    "name": "Examine"
+  },
+  "11004269-KarkarIsland-JP": {
+    "name": "Examine"
+  },
+  "11004271-KarkarIsland-JP": {
+    "name": "Examine"
+  },
+  "11004276-KarkarIsland-JP": {
+    "name": "Examine"
+  },
+  "11004278-KarkarIsland-JP": {
+    "name": "Examine"
+  },
+  "11004279-KarkarIsland-JP": {
+    "name": "Examine"
+  },
+  "11004280-KarkarIsland-JP": {
+    "name": "Examine"
+  },
+  "11004281-KarkarIsland-JP": {
+    "name": "Examine"
+  },
+  "11004282-KarkarIsland-JP": {
+    "name": "Examine"
+  },
+  "11004717-Event-JP": {
+    "name": "Chat"
+  },
+  "11004775--JP": {
+    "name": "Trade"
+  },
+  "11004063-GlobalNpc-": {
+    "name": "ACTIONNAME_11004063_NAME:[F]GlobalNpc"
+  },
+  "11004064-GlobalNpc-": {
+    "name": "ACTIONNAME_11004064_NAME:[F]GlobalNpc"
+  },
+  "11004065-GlobalNpc-": {
+    "name": "ACTIONNAME_11004065_NAME:[F]GlobalNpc"
+  },
+  "11004068-GlobalNpc-": {
+    "name": "ACTIONNAME_11004068_NAME:[F]GlobalNpc"
+  },
+  "11004070-GlobalNpc-": {
+    "name": "ACTIONNAME_11004070_NAME:[F]GlobalNpc"
+  },
+  "11004073-GlobalNpc-": {
+    "name": "ACTIONNAME_11004073_NAME:[F]GlobalNpc"
+  },
+  "11004077-GlobalNpc-": {
+    "name": "ACTIONNAME_11004077_NAME:[F]GlobalNpc"
+  },
+  "11004078-GlobalNpc-": {
+    "name": "ACTIONNAME_11004078_NAME:[F]GlobalNpc"
+  },
+  "11004080-GlobalNpc-": {
+    "name": "ACTIONNAME_11004080_NAME:[F]GlobalNpc"
+  },
+  "11004081-GlobalNpc-": {
+    "name": "ACTIONNAME_11004081_NAME:[F]GlobalNpc"
+  },
+  "11004085-GlobalNpc-": {
+    "name": "ACTIONNAME_11004085_NAME:[F]GlobalNpc"
+  },
+  "11004090-GlobalNpc-": {
+    "name": "ACTIONNAME_11004090_NAME:[F]GlobalNpc"
+  },
+  "11004098-GlobalNpc-": {
+    "name": "ACTIONNAME_11004098_NAME:[F]GlobalNpc"
+  },
+  "11004251-GlobalNpc-": {
+    "name": "ACTIONNAME_11004251_NAME:[F]GlobalNpc"
+  },
+  "11004254-GlobalNpc-": {
+    "name": "ACTIONNAME_11004254_NAME:[F]GlobalNpc"
+  },
+  "11004256-GlobalNpc-": {
+    "name": "ACTIONNAME_11004256_NAME:[F]GlobalNpc"
+  },
+  "11004257-GlobalNpc-": {
+    "name": "ACTIONNAME_11004257_NAME:[F]GlobalNpc"
+  },
+  "11004259-GlobalNpc-": {
+    "name": "ACTIONNAME_11004259_NAME:[F]GlobalNpc"
+  },
+  "11004261-GlobalNpc-": {
+    "name": "ACTIONNAME_11004261_NAME:[F]GlobalNpc"
+  },
+  "11004262-GlobalNpc-": {
+    "name": "ACTIONNAME_11004262_NAME:[F]GlobalNpc"
+  },
+  "11004263-GlobalNpc-": {
+    "name": "ACTIONNAME_11004263_NAME:[F]GlobalNpc"
+  },
+  "11004264-GlobalNpc-": {
+    "name": "ACTIONNAME_11004264_NAME:[F]GlobalNpc"
+  },
+  "11004268-GlobalNpc-": {
+    "name": "ACTIONNAME_11004268_NAME:[F]GlobalNpc"
+  },
+  "11004269-GlobalNpc-": {
+    "name": "ACTIONNAME_11004269_NAME:[F]GlobalNpc"
+  },
+  "11004271-GlobalNpc-": {
+    "name": "ACTIONNAME_11004271_NAME:[F]GlobalNpc"
+  },
+  "11004276-GlobalNpc-": {
+    "name": "ACTIONNAME_11004276_NAME:[F]GlobalNpc"
+  },
+  "11004278-GlobalNpc-": {
+    "name": "ACTIONNAME_11004278_NAME:[F]GlobalNpc"
+  },
+  "11004279-GlobalNpc-": {
+    "name": "ACTIONNAME_11004279_NAME:[F]GlobalNpc"
+  },
+  "11004280-GlobalNpc-": {
+    "name": "ACTIONNAME_11004280_NAME:[F]GlobalNpc"
+  },
+  "11004281-GlobalNpc-": {
+    "name": "ACTIONNAME_11004281_NAME:[F]GlobalNpc"
+  },
+  "11004282-GlobalNpc-": {
+    "name": "ACTIONNAME_11004282_NAME:[F]GlobalNpc"
+  },
+  "11004774-GlobalNpc-": {
+    "name": "ACTIONNAME_11004774_NAME:[F]GlobalNpc"
+  },
+  "11004775-GlobalNpc-": {
+    "name": "ACTIONNAME_11004775_NAME:[F]GlobalNpc"
+  }
+}

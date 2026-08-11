@@ -1,0 +1,3890 @@
+{
+  "11000001--": {
+    "name": "Elder"
+  },
+  "11000005--": {
+    "name": "Head Librarian"
+  },
+  "11000007--": {
+    "name": "Platoon Leader"
+  },
+  "11000012--": {
+    "name": "Delivery Man"
+  },
+  "11000015--": {
+    "name": "Militia Captain"
+  },
+  "11000027--": {
+    "name": "White"
+  },
+  "11000031--": {
+    "name": "Archmage"
+  },
+  "11000038--": {
+    "name": "Doctor"
+  },
+  "11000052--": {
+    "name": "Chief"
+  },
+  "11000053--": {
+    "name": "Glutton"
+  },
+  "11000065--": {
+    "name": "Mayor"
+  },
+  "11000070--": {
+    "name": "Doctor"
+  },
+  "11000071--": {
+    "name": "Doctor"
+  },
+  "11000072--": {
+    "name": "Doctor"
+  },
+  "11000074--": {
+    "name": "Minister"
+  },
+  "11000075--": {
+    "name": "Empress"
+  },
+  "11000076--": {
+    "name": "Captain"
+  },
+  "11000077--": {
+    "name": "Agent"
+  },
+  "11000097--": {
+    "name": "Hawker"
+  },
+  "11000117--": {
+    "name": "Hawker"
+  },
+  "11000119--": {
+    "name": "Guard Captain"
+  },
+  "11000121--": {
+    "name": "Research Assistant"
+  },
+  "11000124--": {
+    "name": "Pharmacologist"
+  },
+  "11000125--": {
+    "name": "Geneticist"
+  },
+  "11000128--": {
+    "name": "Royal Porter"
+  },
+  "11000129--": {
+    "name": "Royal Porter"
+  },
+  "11000136--": {
+    "name": "Wolf Girl"
+  },
+  "11000145--": {
+    "name": "Time Traveler"
+  },
+  "11000146--": {
+    "name": "Time Traveler"
+  },
+  "11000157--": {
+    "name": "Guardsman"
+  },
+  "11000158--": {
+    "name": "Guardsman"
+  },
+  "11000159--": {
+    "name": "Guardsman"
+  },
+  "11000160--": {
+    "name": "Guide"
+  },
+  "11000164--": {
+    "name": "Royal Porter"
+  },
+  "11000169--": {
+    "name": "Armory Guard"
+  },
+  "11000170--": {
+    "name": "Hawker"
+  },
+  "11000171--": {
+    "name": "Junkyard King"
+  },
+  "11000172--": {
+    "name": "Guardsman"
+  },
+  "11000173--": {
+    "name": "Broker"
+  },
+  "11000179--": {
+    "name": "Hawker"
+  },
+  "11000180--": {
+    "name": "Junk Merchant"
+  },
+  "11000181--": {
+    "name": "Junk Merchant"
+  },
+  "11000185--": {
+    "name": "Broker"
+  },
+  "11000190--": {
+    "name": "Herbalist"
+  },
+  "11000192--": {
+    "name": "Lumberjack"
+  },
+  "11000203--": {
+    "name": "Lumberjack"
+  },
+  "11000207--": {
+    "name": "Worker"
+  },
+  "11000208--": {
+    "name": "Agent"
+  },
+  "11000214--": {
+    "name": "Unidentified"
+  },
+  "11000215--": {
+    "name": "Agent"
+  },
+  "11000216--": {
+    "name": "Protester"
+  },
+  "11000217--": {
+    "name": "Assistant"
+  },
+  "11000220--": {
+    "name": "Supervisor"
+  },
+  "11000241--": {
+    "name": "Cable Car Guide"
+  },
+  "11000242--": {
+    "name": "White Cloud Cafe Owner"
+  },
+  "11000245--": {
+    "name": "Supervisor"
+  },
+  "11000254--": {
+    "name": "Hairstylist"
+  },
+  "11000258--": {
+    "name": "Agent"
+  },
+  "11000260--": {
+    "name": "Agent"
+  },
+  "11000261--": {
+    "name": "Doctor"
+  },
+  "11000264--": {
+    "name": "Alchemist"
+  },
+  "11000265--": {
+    "name": "Magic Scholar"
+  },
+  "11000266--": {
+    "name": "Commander"
+  },
+  "11000273--": {
+    "name": "Doctor"
+  },
+  "11000274--": {
+    "name": "Doctor"
+  },
+  "11000275--": {
+    "name": "Doctor"
+  },
+  "11000280--": {
+    "name": "Guardsman"
+  },
+  "11000281--": {
+    "name": "Professor"
+  },
+  "11000283--": {
+    "name": "Fortune Teller"
+  },
+  "11000284--": {
+    "name": "Fairy"
+  },
+  "11000292--": {
+    "name": "Hawker"
+  },
+  "11000293--": {
+    "name": "Tree Spirit"
+  },
+  "11000298--": {
+    "name": "Fairy"
+  },
+  "11000299--": {
+    "name": "Farmer"
+  },
+  "11000300--": {
+    "name": "Hawker"
+  },
+  "11000301--": {
+    "name": "Foreman"
+  },
+  "11000302--": {
+    "name": "Shamaness"
+  },
+  "11000303--": {
+    "name": "Shaman"
+  },
+  "11000304--": {
+    "name": "Greedy Witch"
+  },
+  "11000324--": {
+    "name": "Emotion Coach"
+  },
+  "11000325--": {
+    "name": "Car Salesman"
+  },
+  "11000327--": {
+    "name": "Professor"
+  },
+  "11000328--": {
+    "name": "Antique Collector"
+  },
+  "11000337--": {
+    "name": "White"
+  },
+  "11000338--": {
+    "name": "Baker"
+  },
+  "11000339--": {
+    "name": "Bellhop"
+  },
+  "11000340--": {
+    "name": "Assistant"
+  },
+  "11000341--": {
+    "name": "Mademoiselle"
+  },
+  "11000350--": {
+    "name": "Hawker"
+  },
+  "11000352--": {
+    "name": "Park Security"
+  },
+  "11000353--": {
+    "name": "Foreman"
+  },
+  "11000358--": {
+    "name": "Hooligan"
+  },
+  "11000362--": {
+    "name": "Fisherman"
+  },
+  "11000365--": {
+    "name": "Gangster"
+  },
+  "11000374--": {
+    "name": "Wolf Handler"
+  },
+  "11000375--": {
+    "name": "Royal Porter"
+  },
+  "11000393--": {
+    "name": "Custodian"
+  },
+  "11000394--": {
+    "name": "Convenience Store Clerk"
+  },
+  "11000400--": {
+    "name": "Manager"
+  },
+  "11000402--": {
+    "name": "Hawker"
+  },
+  "11000403--": {
+    "name": "Hawker"
+  },
+  "11000406--": {
+    "name": "Celebrity"
+  },
+  "11000419--": {
+    "name": "Doctor"
+  },
+  "11000433--": {
+    "name": "Shepherd"
+  },
+  "11000436--": {
+    "name": "Doctor"
+  },
+  "11000444--": {
+    "name": "Explorer"
+  },
+  "11000479--": {
+    "name": "Musician"
+  },
+  "11000480--": {
+    "name": "Foreman"
+  },
+  "11000484--": {
+    "name": "Hawker"
+  },
+  "11000504--": {
+    "name": "Mademoiselle"
+  },
+  "11000514--": {
+    "name": "Warden"
+  },
+  "11000515--": {
+    "name": "Head Broker"
+  },
+  "11000520--": {
+    "name": "Manager"
+  },
+  "11000521--": {
+    "name": "Warden"
+  },
+  "11000524--": {
+    "name": "Agent"
+  },
+  "11000534--": {
+    "name": "Coroner"
+  },
+  "11000546--": {
+    "name": "Hawker"
+  },
+  "11000547--": {
+    "name": "Guard member"
+  },
+  "11000548--": {
+    "name": "Guard member"
+  },
+  "11000549--": {
+    "name": "Wolf Handler"
+  },
+  "11000551--": {
+    "name": "Guardsman"
+  },
+  "11000582--": {
+    "name": "Doctor"
+  },
+  "11000583--": {
+    "name": "Doctor"
+  },
+  "11000584--": {
+    "name": "Doctor"
+  },
+  "11000594--": {
+    "name": "Director"
+  },
+  "11000596--": {
+    "name": "Fairy"
+  },
+  "11000601--": {
+    "name": "Guardian Priestess"
+  },
+  "11000602--": {
+    "name": "Patrolman"
+  },
+  "11000603--": {
+    "name": "Patrolman"
+  },
+  "11000607--": {
+    "name": "Hawker"
+  },
+  "11000608--": {
+    "name": "Guardian Priestess"
+  },
+  "11000609--": {
+    "name": "Hawker"
+  },
+  "11000610--": {
+    "name": "Gangster"
+  },
+  "11000613--": {
+    "name": "Lumina soldier"
+  },
+  "11000614--": {
+    "name": "Lumina soldier"
+  },
+  "11000615--": {
+    "name": "Lumina soldier"
+  },
+  "11000616--": {
+    "name": "Lumina soldier"
+  },
+  "11000617--": {
+    "name": "Guardsman"
+  },
+  "11000631--": {
+    "name": "Guardsman"
+  },
+  "11000632--": {
+    "name": "Guardsman"
+  },
+  "11000633--": {
+    "name": "Guardsman"
+  },
+  "11000658--": {
+    "name": "Doctor"
+  },
+  "11000667--": {
+    "name": "Broker"
+  },
+  "11000668--": {
+    "name": "Broker"
+  },
+  "11000669--": {
+    "name": "Broker"
+  },
+  "11000672--": {
+    "name": "Militia Captain"
+  },
+  "11000675--": {
+    "name": "Gladiator"
+  },
+  "11000677--": {
+    "name": "Fairy"
+  },
+  "11000701--": {
+    "name": "Militia Captain"
+  },
+  "11000702--": {
+    "name": "Guard Captain"
+  },
+  "11000703--": {
+    "name": "Guard member"
+  },
+  "11000712--": {
+    "name": "Little Turtle"
+  },
+  "11000713--": {
+    "name": "Father Turtle"
+  },
+  "11000736--": {
+    "name": "Fairy"
+  },
+  "11000737--": {
+    "name": "Swordsman"
+  },
+  "11000738--": {
+    "name": "Swordsman"
+  },
+  "11000739--": {
+    "name": "Swordsman"
+  },
+  "11000744--": {
+    "name": "Witch"
+  },
+  "11000745--": {
+    "name": "Witch"
+  },
+  "11000746--": {
+    "name": "Forest Witch"
+  },
+  "11000762--": {
+    "name": "Doctor"
+  },
+  "11000763--": {
+    "name": "Celebrity"
+  },
+  "11000782--": {
+    "name": "Explorer"
+  },
+  "11000795--": {
+    "name": "Convenience Store Clerk"
+  },
+  "11000806--": {
+    "name": "Chemist"
+  },
+  "11000813--": {
+    "name": "Hawker"
+  },
+  "11000814--": {
+    "name": "Hawker"
+  },
+  "11000828--": {
+    "name": "Hawker"
+  },
+  "11000829--": {
+    "name": "Hawker"
+  },
+  "11000837--": {
+    "name": "Defender"
+  },
+  "11000839--": {
+    "name": "Lumina soldier"
+  },
+  "11000841--": {
+    "name": "Lumina soldier"
+  },
+  "11000842--": {
+    "name": "Lumina soldier"
+  },
+  "11000843--": {
+    "name": "Director"
+  },
+  "11000844--": {
+    "name": "Young"
+  },
+  "11000848--": {
+    "name": "Professor"
+  },
+  "11000862--": {
+    "name": "Minister"
+  },
+  "11000868--": {
+    "name": "Novice Researcher"
+  },
+  "11000869--": {
+    "name": "Temporal Engineer"
+  },
+  "11000870--": {
+    "name": "Researcher"
+  },
+  "11000871--": {
+    "name": "Researcher"
+  },
+  "11000874--": {
+    "name": "Master"
+  },
+  "11000885--": {
+    "name": "Moon Bunny"
+  },
+  "11000892--": {
+    "name": "Forest Fairy"
+  },
+  "11000893--": {
+    "name": "Light Fairy"
+  },
+  "11000894--": {
+    "name": "Wind Fairy"
+  },
+  "11000895--": {
+    "name": "Picchu Picchu Gardens"
+  },
+  "11000898--": {
+    "name": "Doctor"
+  },
+  "11000899--": {
+    "name": "Doctor"
+  },
+  "11000911--": {
+    "name": "Biotechnologist"
+  },
+  "11000930--": {
+    "name": "Mother Bird"
+  },
+  "11000931--": {
+    "name": "Wolf"
+  },
+  "11000947--": {
+    "name": "Doctor"
+  },
+  "11000948--": {
+    "name": "Doctor"
+  },
+  "11000949--": {
+    "name": "Doctor"
+  },
+  "11000950--": {
+    "name": "Doctor"
+  },
+  "11000958--": {
+    "name": "Farmer"
+  },
+  "11000959--": {
+    "name": "Patrolman"
+  },
+  "11000961--": {
+    "name": "Guard member"
+  },
+  "11000962--": {
+    "name": "Guard member"
+  },
+  "11000963--": {
+    "name": "Hawker"
+  },
+  "11000972--": {
+    "name": "Guard member"
+  },
+  "11000974--": {
+    "name": "Flavorologist"
+  },
+  "11000975--": {
+    "name": "Farmer"
+  },
+  "11000976--": {
+    "name": "Master"
+  },
+  "11000977--": {
+    "name": "Medicine Man"
+  },
+  "11000980--": {
+    "name": "Hawker"
+  },
+  "11000984--": {
+    "name": "Mage"
+  },
+  "11000985--": {
+    "name": "Professor"
+  },
+  "11000987--": {
+    "name": "Supervisor"
+  },
+  "11001002--": {
+    "name": "Event Guide"
+  },
+  "11001003--": {
+    "name": "Event Guide"
+  },
+  "11001010--": {
+    "name": "Intern"
+  },
+  "11001016--": {
+    "name": "King"
+  },
+  "11001028--": {
+    "name": "Director"
+  },
+  "11001031--": {
+    "name": "Research Intern"
+  },
+  "11001032--": {
+    "name": "Lead Researcher"
+  },
+  "11001040--": {
+    "name": "Expedition Member"
+  },
+  "11001041--": {
+    "name": "Seer"
+  },
+  "11001043--": {
+    "name": "Security Agent"
+  },
+  "11001046--": {
+    "name": "Shaman"
+  },
+  "11001047--": {
+    "name": "Supervisor"
+  },
+  "11001057--": {
+    "name": "Temporal Engineer"
+  },
+  "11001062--": {
+    "name": "Chaos Onyx Collector"
+  },
+  "11001068--": {
+    "name": "Security Guard"
+  },
+  "11001078--": {
+    "name": "Glutton"
+  },
+  "11001079--": {
+    "name": "Prisoner"
+  },
+  "11001080--": {
+    "name": "Patrol Captain"
+  },
+  "11001084--": {
+    "name": "Patrolman"
+  },
+  "11001087--": {
+    "name": "Doctor"
+  },
+  "11001088--": {
+    "name": "Doctor"
+  },
+  "11001089--": {
+    "name": "Doctor"
+  },
+  "11001090--": {
+    "name": "Doctor"
+  },
+  "11001091--": {
+    "name": "Doctor"
+  },
+  "11001097--": {
+    "name": "Engineer"
+  },
+  "11001099--": {
+    "name": "Militia Captain"
+  },
+  "11001101--": {
+    "name": "Doctor"
+  },
+  "11001110--": {
+    "name": "Lumina soldier"
+  },
+  "11001117--": {
+    "name": "Forest Fairy"
+  },
+  "11001118--": {
+    "name": "Bunny Gal"
+  },
+  "11001119--": {
+    "name": "Bunny Gal"
+  },
+  "11001123--": {
+    "name": "Delivery Man"
+  },
+  "11001125--": {
+    "name": "Droid"
+  },
+  "11001129--": {
+    "name": "Worker"
+  },
+  "11001130--": {
+    "name": "Herbalist"
+  },
+  "11001131--": {
+    "name": "Expedition Member"
+  },
+  "11001132--": {
+    "name": "Refugee"
+  },
+  "11001133--": {
+    "name": "Hawker"
+  },
+  "11001138--": {
+    "name": "Refugee"
+  },
+  "11001139--": {
+    "name": "Leather Craftsman"
+  },
+  "11001140--": {
+    "name": "Worker"
+  },
+  "11001141--": {
+    "name": "Caretaker"
+  },
+  "11001143--": {
+    "name": "Professor"
+  },
+  "11001144--": {
+    "name": "Fortune Teller"
+  },
+  "11001146--": {
+    "name": "Mother"
+  },
+  "11001147--": {
+    "name": "Mother"
+  },
+  "11001148--": {
+    "name": "Weapon Collector"
+  },
+  "11001176--": {
+    "name": "Chief Designer"
+  },
+  "11001177--": {
+    "name": "Guard member"
+  },
+  "11001178--": {
+    "name": "Farmer"
+  },
+  "11001191--": {
+    "name": "Program Director"
+  },
+  "11001192--": {
+    "name": "Junior Writer"
+  },
+  "11001193--": {
+    "name": "Lighting Director"
+  },
+  "11001194--": {
+    "name": "Film Crew"
+  },
+  "11001195--": {
+    "name": "Stylist"
+  },
+  "11001196--": {
+    "name": "Support Team"
+  },
+  "11001210--": {
+    "name": "Investigator"
+  },
+  "11001211--": {
+    "name": "Blacksmith"
+  },
+  "11001214--": {
+    "name": "Chief"
+  },
+  "11001230--": {
+    "name": "Acting Elder Blade"
+  },
+  "11001234--": {
+    "name": "Scout"
+  },
+  "11001238--": {
+    "name": "Witch"
+  },
+  "11001248--": {
+    "name": "Acting Elder Blade"
+  },
+  "11001249--": {
+    "name": "Scout"
+  },
+  "11001261--": {
+    "name": "Relic Curator"
+  },
+  "11001262--": {
+    "name": "Information Broker"
+  },
+  "11001266--": {
+    "name": "Terrun Calibre"
+  },
+  "11001268--": {
+    "name": "Terrun Calibre"
+  },
+  "11001275--": {
+    "name": "Assistant"
+  },
+  "11001276--": {
+    "name": "Doc"
+  },
+  "11001277--": {
+    "name": "Relic Curator"
+  },
+  "11001278--": {
+    "name": "Chaser"
+  },
+  "11001282--": {
+    "name": "Terrun Calibre"
+  },
+  "11001299--": {
+    "name": "Captain"
+  },
+  "11001300--": {
+    "name": "Captain"
+  },
+  "11001301--": {
+    "name": "Empress"
+  },
+  "11001302--": {
+    "name": "Empress"
+  },
+  "11001303--": {
+    "name": "Guardian Priestess"
+  },
+  "11001304--": {
+    "name": "Archmage"
+  },
+  "11001305--": {
+    "name": "Elder"
+  },
+  "11001308--": {
+    "name": "Antique Dealer"
+  },
+  "11001309--": {
+    "name": "Officer"
+  },
+  "11001310--": {
+    "name": "Guardsman"
+  },
+  "11001311--": {
+    "name": "Guardsman"
+  },
+  "11001312--": {
+    "name": "Guardsman"
+  },
+  "11001314--": {
+    "name": "Chief"
+  },
+  "11001315--": {
+    "name": "Fluffy Tribe"
+  },
+  "11001316--": {
+    "name": "Oracle"
+  },
+  "11001317--": {
+    "name": "Oracle"
+  },
+  "11001324--": {
+    "name": "Doctor"
+  },
+  "11001341--": {
+    "name": "Kilkos Employee"
+  },
+  "11001342--": {
+    "name": "W.H.A Employee"
+  },
+  "11001343--": {
+    "name": "Lifeguard"
+  },
+  "11001344--": {
+    "name": "Guardsman"
+  },
+  "11001345--": {
+    "name": "Warden"
+  },
+  "11001349--": {
+    "name": "Hotelier"
+  },
+  "11001355--": {
+    "name": "Patrolman"
+  },
+  "11001356--": {
+    "name": "Bunny Gal"
+  },
+  "11001370--": {
+    "name": "Monorail Conductor"
+  },
+  "11001374--": {
+    "name": "Head Secretary"
+  },
+  "11001375--": {
+    "name": "Salesman"
+  },
+  "11001376--": {
+    "name": "Shooting Director"
+  },
+  "11001377--": {
+    "name": "Manager"
+  },
+  "11001378--": {
+    "name": "MMA Fighter"
+  },
+  "11001379--": {
+    "name": "Security Guard"
+  },
+  "11001381--": {
+    "name": "Chairman"
+  },
+  "11001382--": {
+    "name": "Blackstar Agent"
+  },
+  "11001386--": {
+    "name": "Elder"
+  },
+  "11001387--": {
+    "name": "Villager"
+  },
+  "11001388--": {
+    "name": "Villager"
+  },
+  "11001389--": {
+    "name": "Villager"
+  },
+  "11001390--": {
+    "name": "Villager"
+  },
+  "11001391--": {
+    "name": "Patient"
+  },
+  "11001392--": {
+    "name": "Patient"
+  },
+  "11001393--": {
+    "name": "Lovesick Beggar"
+  },
+  "11001396--": {
+    "name": "Girl Genius"
+  },
+  "11001397--": {
+    "name": "Fluffy Tribe"
+  },
+  "11001399--": {
+    "name": "Patrol 24 Captain"
+  },
+  "11001400--": {
+    "name": "Worker"
+  },
+  "11001401--": {
+    "name": "Worker"
+  },
+  "11001406--": {
+    "name": "Scout Captain"
+  },
+  "11001407--": {
+    "name": "Ghost"
+  },
+  "11001408--": {
+    "name": "Patrol Captain"
+  },
+  "11001409--": {
+    "name": "Drill Instructor"
+  },
+  "11001410--": {
+    "name": "Secretary"
+  },
+  "11001411--": {
+    "name": "Secretary"
+  },
+  "11001412--": {
+    "name": "Patient"
+  },
+  "11001430--": {
+    "name": "From the Stars"
+  },
+  "11001431--": {
+    "name": "Dusk Fox"
+  },
+  "11001433--": {
+    "name": "Boy"
+  },
+  "11001434--": {
+    "name": "Professor"
+  },
+  "11001443--": {
+    "name": "Doctor"
+  },
+  "11001448--": {
+    "name": "Empress"
+  },
+  "11001458--": {
+    "name": "Black Star Society Member"
+  },
+  "11001473--": {
+    "name": "Professor"
+  },
+  "11001474--": {
+    "name": "Professor"
+  },
+  "11001478--": {
+    "name": "Empress"
+  },
+  "11001483--": {
+    "name": "Fortune Teller"
+  },
+  "11001484--": {
+    "name": "Event Guide"
+  },
+  "11001485--": {
+    "name": "Shaman"
+  },
+  "11001490--": {
+    "name": "Empress"
+  },
+  "11001502--": {
+    "name": "Glutton"
+  },
+  "11001520--": {
+    "name": "Starlight Explorer"
+  },
+  "11001521--": {
+    "name": "Starlight Explorer"
+  },
+  "11001522--": {
+    "name": "Starlight Explorer"
+  },
+  "11001547--": {
+    "name": "Reigning Champ"
+  },
+  "11001556--": {
+    "name": "Master"
+  },
+  "11001557--": {
+    "name": "Senior Disciple"
+  },
+  "11001619--": {
+    "name": "Chairwoman"
+  },
+  "11001620--": {
+    "name": "Chairwoman"
+  },
+  "11001622--": {
+    "name": "Reigning Champ"
+  },
+  "11001625--": {
+    "name": "Reigning Champ"
+  },
+  "11001626--": {
+    "name": "Host"
+  },
+  "11001628--": {
+    "name": "Chairwoman"
+  },
+  "11001630--": {
+    "name": "Reigning Champ"
+  },
+  "11001657--": {
+    "name": "Senior Disciple"
+  },
+  "11001659--": {
+    "name": "Senior Disciple"
+  },
+  "11001661--": {
+    "name": "Master"
+  },
+  "11001663--": {
+    "name": "Empress"
+  },
+  "11001665--": {
+    "name": "Minister"
+  },
+  "11001666--": {
+    "name": "Guard Captain"
+  },
+  "11001668--": {
+    "name": "Primary Physician"
+  },
+  "11001669--": {
+    "name": "Bunny Gal"
+  },
+  "11001670--": {
+    "name": "Bunny Gal"
+  },
+  "11001671--": {
+    "name": "Senior Disciple"
+  },
+  "11001672--": {
+    "name": "Senior Disciple"
+  },
+  "11001690--": {
+    "name": "Chairwoman"
+  },
+  "11001696--": {
+    "name": "Barista"
+  },
+  "11001697--": {
+    "name": "Manager"
+  },
+  "11001700--": {
+    "name": "Guardsman"
+  },
+  "11001715--": {
+    "name": "Senior Disciple"
+  },
+  "11001716--": {
+    "name": "Senior Disciple"
+  },
+  "11001717--": {
+    "name": "Senior Disciple"
+  },
+  "11001718--": {
+    "name": "Senior Disciple"
+  },
+  "11001719--": {
+    "name": "Senior Disciple"
+  },
+  "11001720--": {
+    "name": "Senior Disciple"
+  },
+  "11001721--": {
+    "name": "Senior Disciple"
+  },
+  "11001722--": {
+    "name": "Senior Disciple"
+  },
+  "11001742--": {
+    "name": "Senior Disciple"
+  },
+  "11001762--": {
+    "name": "Senior Disciple"
+  },
+  "11001763--": {
+    "name": "Senior Disciple"
+  },
+  "11001771--": {
+    "name": "Senior Disciple"
+  },
+  "11001772--": {
+    "name": "Senior Disciple"
+  },
+  "11001773--": {
+    "name": "Senior Disciple"
+  },
+  "11001774--": {
+    "name": "Senior Disciple"
+  },
+  "11001790--": {
+    "name": "Senior Disciple"
+  },
+  "11001791--": {
+    "name": "Senior Disciple"
+  },
+  "11001792--": {
+    "name": "Senior Disciple"
+  },
+  "11001806--": {
+    "name": "Senior Disciple"
+  },
+  "11001836--": {
+    "name": "Program Director"
+  },
+  "11001838--": {
+    "name": "Cadet"
+  },
+  "11001839--": {
+    "name": "Cadet"
+  },
+  "11001840--": {
+    "name": "Cadet"
+  },
+  "11001841--": {
+    "name": "Cadet"
+  },
+  "11001842--": {
+    "name": "Guardsman"
+  },
+  "11001843--": {
+    "name": "Guardsman"
+  },
+  "11001861--": {
+    "name": "Fisher"
+  },
+  "11001862--": {
+    "name": "Fisher"
+  },
+  "11001863--": {
+    "name": "Fisher"
+  },
+  "11001865--": {
+    "name": "Instrument Merchant"
+  },
+  "11001867--": {
+    "name": "Artisan"
+  },
+  "11001868--": {
+    "name": "Artisan"
+  },
+  "11001869--": {
+    "name": "Artisan"
+  },
+  "11001870--": {
+    "name": "Nerman Guild Leader"
+  },
+  "11001872--": {
+    "name": "Doc"
+  },
+  "11001873--": {
+    "name": "Doc"
+  },
+  "11001874--": {
+    "name": "Assistant"
+  },
+  "11001876--": {
+    "name": "Executive Assistant"
+  },
+  "11001877--": {
+    "name": "Farmer"
+  },
+  "11001878--": {
+    "name": "Firestarter"
+  },
+  "11001888--": {
+    "name": "Program Director"
+  },
+  "11001889--": {
+    "name": "Militia Captain"
+  },
+  "11001901--": {
+    "name": "Captain"
+  },
+  "11001967--": {
+    "name": "Cadet"
+  },
+  "11002000--": {
+    "name": "Primary Physician"
+  },
+  "11002002--": {
+    "name": "Primary Physician"
+  },
+  "11002003--": {
+    "name": "Primary Physician"
+  },
+  "11002004--": {
+    "name": "Primary Physician"
+  },
+  "11002005--": {
+    "name": "Primary Physician"
+  },
+  "11002006--": {
+    "name": "Primary Physician"
+  },
+  "11002007--": {
+    "name": "Primary Physician"
+  },
+  "11002008--": {
+    "name": "Primary Physician"
+  },
+  "11002009--": {
+    "name": "Primary Physician"
+  },
+  "11002010--": {
+    "name": "Primary Physician"
+  },
+  "11002011--": {
+    "name": "Primary Physician"
+  },
+  "11002012--": {
+    "name": "Primary Physician"
+  },
+  "11002013--": {
+    "name": "Primary Physician"
+  },
+  "11002014--": {
+    "name": "Primary Physician"
+  },
+  "11002015--": {
+    "name": "Primary Physician"
+  },
+  "11002016--": {
+    "name": "Primary Physician"
+  },
+  "11002020--": {
+    "name": "Convenience Store Clerk"
+  },
+  "11002035--": {
+    "name": "Convenience Store Clerk"
+  },
+  "11002036--": {
+    "name": "Convenience Store Clerk"
+  },
+  "11002037--": {
+    "name": "Convenience Store Clerk"
+  },
+  "11002038--": {
+    "name": "Convenience Store Clerk"
+  },
+  "11002040--": {
+    "name": "Primary Physician"
+  },
+  "11002041--": {
+    "name": "Primary Physician"
+  },
+  "11002042--": {
+    "name": "Primary Physician"
+  },
+  "11002043--": {
+    "name": "Primary Physician"
+  },
+  "11002044--": {
+    "name": "Primary Physician"
+  },
+  "11002045--": {
+    "name": "Primary Physician"
+  },
+  "11002046--": {
+    "name": "Primary Physician"
+  },
+  "11002047--": {
+    "name": "Primary Physician"
+  },
+  "11002048--": {
+    "name": "Primary Physician"
+  },
+  "11002049--": {
+    "name": "Primary Physician"
+  },
+  "11003054--": {
+    "name": "Captain"
+  },
+  "11003059--": {
+    "name": "Supply Crew"
+  },
+  "11003063--": {
+    "name": "Herbalist"
+  },
+  "11003069--": {
+    "name": "Snow Queen"
+  },
+  "11003074--": {
+    "name": "Snow Queen"
+  },
+  "11003075--": {
+    "name": "Frost King"
+  },
+  "11003079--": {
+    "name": "Chairwoman"
+  },
+  "11003080--": {
+    "name": "Explorer"
+  },
+  "11003092--": {
+    "name": "Maestro"
+  },
+  "11003093--": {
+    "name": "Captain"
+  },
+  "11003094--": {
+    "name": "Captain"
+  },
+  "11003095--": {
+    "name": "Militia Captain"
+  },
+  "11003096--": {
+    "name": "Captain"
+  },
+  "11003121--": {
+    "name": "Guard Captain"
+  },
+  "11003122--": {
+    "name": "Militia Captain"
+  },
+  "11003126--": {
+    "name": "Play Island Helper"
+  },
+  "11003127--": {
+    "name": "Lumiknight"
+  },
+  "11003139--": {
+    "name": "Event Guide"
+  },
+  "11003142--": {
+    "name": "From the Stars"
+  },
+  "11003143--": {
+    "name": "Alchemist"
+  },
+  "11003150--": {
+    "name": "Head Librarian"
+  },
+  "11003151--": {
+    "name": "Guard Captain"
+  },
+  "11003163--": {
+    "name": "Royal Steward"
+  },
+  "11003164--": {
+    "name": "Cadet"
+  },
+  "11003165--": {
+    "name": "Guard Captain"
+  },
+  "11003166--": {
+    "name": "Cadet"
+  },
+  "11003169--": {
+    "name": "Cadet"
+  },
+  "11003170--": {
+    "name": "Cadet"
+  },
+  "11003172--": {
+    "name": "Cadet"
+  },
+  "11003173--": {
+    "name": "Commander"
+  },
+  "11003178--": {
+    "name": "Cadet"
+  },
+  "11003186--": {
+    "name": "Cadet"
+  },
+  "11003187--": {
+    "name": "Broker"
+  },
+  "11003188--": {
+    "name": "Cadet"
+  },
+  "11003193--": {
+    "name": "Information Broker"
+  },
+  "11003194--": {
+    "name": "Broker"
+  },
+  "11003195--": {
+    "name": "Captain"
+  },
+  "11003196--": {
+    "name": "Captain"
+  },
+  "11003198--": {
+    "name": "Cadet"
+  },
+  "11003199--": {
+    "name": "Cadet"
+  },
+  "11003200--": {
+    "name": "Captain"
+  },
+  "11003201--": {
+    "name": "Captain"
+  },
+  "11003202--": {
+    "name": "Cadet"
+  },
+  "11003203--": {
+    "name": "Cadet"
+  },
+  "11003218--": {
+    "name": "Cadet"
+  },
+  "11003220--": {
+    "name": "Cadet"
+  },
+  "11003221--": {
+    "name": "Elder"
+  },
+  "11003222--": {
+    "name": "Militia Captain"
+  },
+  "11003238--": {
+    "name": "Militia Captain"
+  },
+  "11003239--": {
+    "name": "Elder"
+  },
+  "11003241--": {
+    "name": "Broker"
+  },
+  "11003243--": {
+    "name": "Guard member"
+  },
+  "11003245--": {
+    "name": "Militia Captain"
+  },
+  "11003246--": {
+    "name": "Guard Captain"
+  },
+  "11003247--": {
+    "name": "Cadet"
+  },
+  "11003250--": {
+    "name": "Archmage"
+  },
+  "11003264--": {
+    "name": "Head Librarian"
+  },
+  "11003266--": {
+    "name": "Guardsman"
+  },
+  "11003267--": {
+    "name": "Captain"
+  },
+  "11003268--": {
+    "name": "Alchemist"
+  },
+  "11003269--": {
+    "name": "Platoon Leader"
+  },
+  "11003270--": {
+    "name": "Commander"
+  },
+  "11003274--": {
+    "name": "Warden"
+  },
+  "11003281--": {
+    "name": "Archmage"
+  },
+  "11003283--": {
+    "name": "Archmage"
+  },
+  "11003284--": {
+    "name": "Archmage"
+  },
+  "11003306--": {
+    "name": "Archmage"
+  },
+  "11003307--": {
+    "name": "Elder"
+  },
+  "11003308--": {
+    "name": "Elder"
+  },
+  "11003309--": {
+    "name": "Militia Captain"
+  },
+  "11003314--": {
+    "name": "Archmage"
+  },
+  "11003319--": {
+    "name": "Militia Captain"
+  },
+  "11003320--": {
+    "name": "Sir"
+  },
+  "11003328--": {
+    "name": "Captain"
+  },
+  "11003330--": {
+    "name": "Guardian Priestess"
+  },
+  "11003331--": {
+    "name": "Guardian Priestess"
+  },
+  "11003334--": {
+    "name": "Broker"
+  },
+  "11003361--": {
+    "name": "Elder"
+  },
+  "11003432--": {
+    "name": "Head Librarian"
+  },
+  "11003435--": {
+    "name": "Archmage"
+  },
+  "11003437--": {
+    "name": "Head Librarian"
+  },
+  "11003538--": {
+    "name": "Researcher"
+  },
+  "11003539--": {
+    "name": "Researcher"
+  },
+  "11003540--": {
+    "name": "Researcher"
+  },
+  "11003541--": {
+    "name": "Researcher"
+  },
+  "11003542--": {
+    "name": "Researcher"
+  },
+  "11003590--": {
+    "name": "Guardsman"
+  },
+  "11003591--": {
+    "name": "Royal Steward"
+  },
+  "11003592--": {
+    "name": "Guardsman"
+  },
+  "11003594--": {
+    "name": "Hawker"
+  },
+  "11003599--": {
+    "name": "Princess"
+  },
+  "11003600--": {
+    "name": "Fog Knight"
+  },
+  "11003602--": {
+    "name": "Scatterbrain"
+  },
+  "11003603--": {
+    "name": "Clock Demon"
+  },
+  "11003604--": {
+    "name": "Clock Demon"
+  },
+  "11003605--": {
+    "name": "Clock Demon"
+  },
+  "11003610--": {
+    "name": "Clock Demon"
+  },
+  "11003611--": {
+    "name": "Fog Knight"
+  },
+  "11003612--": {
+    "name": "Fog Knight"
+  },
+  "11003613--": {
+    "name": "Princess"
+  },
+  "11003614--": {
+    "name": "Princess"
+  },
+  "11003615--": {
+    "name": "Marionette"
+  },
+  "11003616--": {
+    "name": "Fog Knight"
+  },
+  "11003617--": {
+    "name": "Fog Knight"
+  },
+  "11003618--": {
+    "name": "Fog Knight"
+  },
+  "11003620--": {
+    "name": "Puppeteer of Fantasies"
+  },
+  "11003621--": {
+    "name": "Puppeteer of Fantasies"
+  },
+  "11003623--": {
+    "name": "Princess"
+  },
+  "11003624--": {
+    "name": "Marionette"
+  },
+  "11003625--": {
+    "name": "Fog Knight"
+  },
+  "11003651--": {
+    "name": "Guardsman"
+  },
+  "11003652--": {
+    "name": "Alchemist"
+  },
+  "11003653--": {
+    "name": "Guardsman"
+  },
+  "11003654--": {
+    "name": "Researcher"
+  },
+  "11003655--": {
+    "name": "Researcher"
+  },
+  "11003656--": {
+    "name": "Researcher"
+  },
+  "11003657--": {
+    "name": "Researcher"
+  },
+  "11003670--": {
+    "name": "Researcher"
+  },
+  "11003674--": {
+    "name": "Princess"
+  },
+  "11003675--": {
+    "name": "Guardian Knight"
+  },
+  "11003676--": {
+    "name": "Researcher"
+  },
+  "11003677--": {
+    "name": "Researcher"
+  },
+  "11003712--": {
+    "name": "Fog Knight"
+  },
+  "11003713--": {
+    "name": "Marionette"
+  },
+  "11003714--": {
+    "name": "Marionette"
+  },
+  "11003715--": {
+    "name": "Marionette"
+  },
+  "11003717--": {
+    "name": "Programmer"
+  },
+  "11003723--": {
+    "name": "Royal Steward"
+  },
+  "11003724--": {
+    "name": "Guardsman"
+  },
+  "11003726--": {
+    "name": "Hawker"
+  },
+  "11003738--": {
+    "name": "Researcher"
+  },
+  "11003743--": {
+    "name": "Blackstar Scavenger Boss"
+  },
+  "11003744--": {
+    "name": "Blackstar Scavenger Supervisor"
+  },
+  "11003750--": {
+    "name": "Researcher"
+  },
+  "11003760--": {
+    "name": "Princess"
+  },
+  "11003796--": {
+    "name": "Researcher"
+  },
+  "11003803--": {
+    "name": "Hawker"
+  },
+  "11003804--": {
+    "name": "Hawker"
+  },
+  "11003805--": {
+    "name": "Hawker"
+  },
+  "11003806--": {
+    "name": "Hawker"
+  },
+  "11003807--": {
+    "name": "Hawker"
+  },
+  "11003809--": {
+    "name": "Doctor"
+  },
+  "11003810--": {
+    "name": "Witch"
+  },
+  "11003811--": {
+    "name": "Captain"
+  },
+  "11003870--": {
+    "name": "Groundskeeper"
+  },
+  "11003871--": {
+    "name": "Miner"
+  },
+  "11003872--": {
+    "name": "Miner"
+  },
+  "11003873--": {
+    "name": "Miner"
+  },
+  "11003876--": {
+    "name": "Navigator"
+  },
+  "11003877--": {
+    "name": "Navigator"
+  },
+  "11003878--": {
+    "name": "Caretaker"
+  },
+  "11003879--": {
+    "name": "Gardener"
+  },
+  "11003882--": {
+    "name": "Guardsman"
+  },
+  "11004069--NA": {
+    "name": "Beloved"
+  },
+  "11004079--NA": {
+    "name": "Bored"
+  },
+  "11004083--NA": {
+    "name": "Geothermal Engineer"
+  },
+  "11004099--": {
+    "name": "Beloved"
+  },
+  "11004100--": {
+    "name": "Beloved"
+  },
+  "11004101--": {
+    "name": "NPCTITLE_11004101_NAME"
+  },
+  "11004102--": {
+    "name": "NPCTITLE_11004102_NAME"
+  },
+  "11004104--": {
+    "name": "Happy"
+  },
+  "11004105--": {
+    "name": "Happy"
+  },
+  "11004223-SurvivalContents03-": {
+    "name": ""
+  },
+  "11004224-SurvivalContents03-": {
+    "name": ""
+  },
+  "11004225-SurvivalContents03-": {
+    "name": ""
+  },
+  "11004252--NA": {
+    "name": ""
+  },
+  "11004253--NA": {
+    "name": ""
+  },
+  "11004258--NA": {
+    "name": "Researcher"
+  },
+  "11004265-KarkarIsland-NA": {
+    "name": "DJ"
+  },
+  "11004266-KarkarIsland-NA": {
+    "name": ""
+  },
+  "11004267-KarkarIsland-NA": {
+    "name": ""
+  },
+  "11004270-KarkarIsland-NA": {
+    "name": "Director"
+  },
+  "11004274-KarkarIsland-NA": {
+    "name": "Cheerful"
+  },
+  "11004289-Season1-": {
+    "name": "Mademoiselle"
+  },
+  "11004290-Season1-": {
+    "name": "Hotelier"
+  },
+  "11004291-Season1-": {
+    "name": "Bellhop"
+  },
+  "11004292-Season1-": {
+    "name": "Bellhop"
+  },
+  "11004293-Season1-": {
+    "name": "Little Ghost"
+  },
+  "11004294-Season1-": {
+    "name": "Little Ghost"
+  },
+  "11004295-Season1-": {
+    "name": "Little Ghost"
+  },
+  "11004305-Season1-": {
+    "name": "Mademoiselle"
+  },
+  "11004308-Season1-": {
+    "name": "Little Ghost"
+  },
+  "11004310-Season1-": {
+    "name": "Little Ghost"
+  },
+  "11004311-Season1-": {
+    "name": "Little Ghost"
+  },
+  "11004318-Season1-": {
+    "name": "Doctor"
+  },
+  "11004386-Kritias_Epic01-": {
+    "name": "Adjutant"
+  },
+  "11004387-Kritias_Epic01-": {
+    "name": "Hunter"
+  },
+  "11004388-Kritias_Epic01-": {
+    "name": "Scout"
+  },
+  "11004390-Kritias_Epic01-": {
+    "name": "Empress"
+  },
+  "11004391-Kritias_Epic01-": {
+    "name": "Hunter"
+  },
+  "11004393-Kritias_Epic01-": {
+    "name": "Pathfinder"
+  },
+  "11004394-Kritias_Epic01-": {
+    "name": "Scout"
+  },
+  "11004396-Kritias_Epic01-": {
+    "name": "Adjutant"
+  },
+  "11004397-Kritias_Epic01-": {
+    "name": "Officer"
+  },
+  "11004398-Kritias_Epic01-": {
+    "name": "Agent"
+  },
+  "11004399-Kritias_Epic01-": {
+    "name": "Agent"
+  },
+  "11004433-Kritias_Epic01-": {
+    "name": "Agent"
+  },
+  "11004441-TreasureMap01-": {
+    "name": "Archaeologist"
+  },
+  "11004451-Kritias_2018_12-": {
+    "name": "Doctor"
+  },
+  "11004457-Kritias_2018_12-": {
+    "name": "Ensign"
+  },
+  "11004458-Kritias_2018_12-": {
+    "name": "Ensign"
+  },
+  "11004459-Kritias_2018_12-": {
+    "name": "Ensign"
+  },
+  "11004479-Kritias_2018_12-": {
+    "name": "Expedition Member"
+  },
+  "11004480-Kritias_2018_12-": {
+    "name": "Expedition Member"
+  },
+  "11004481-Kritias_2018_12-": {
+    "name": "Expedition Member"
+  },
+  "11004482-Kritias_2018_12-": {
+    "name": "Expedition Member"
+  },
+  "11004483-Kritias_2018_12-": {
+    "name": "Expedition Member"
+  },
+  "11004484-Kritias_2018_12-": {
+    "name": "Expedition Member"
+  },
+  "11004485-Kritias_2018_12-": {
+    "name": "Researcher"
+  },
+  "11004486-Kritias_2018_12-": {
+    "name": "Researcher"
+  },
+  "11004487-Kritias_2018_12-": {
+    "name": "Researcher"
+  },
+  "11004488-Kritias_2018_12-": {
+    "name": "Researcher"
+  },
+  "11004489-Kritias_2018_12-": {
+    "name": "Researcher"
+  },
+  "11004490-Kritias_2018_12-": {
+    "name": "Researcher"
+  },
+  "11004491-Kritias_2018_12-": {
+    "name": "Researcher"
+  },
+  "11004492-Kritias_2018_12-": {
+    "name": "Botanist"
+  },
+  "11004493-Kritias_2018_12-": {
+    "name": "Biologist"
+  },
+  "11004494-Kritias_2018_12-": {
+    "name": "Professor"
+  },
+  "11004495-Kritias_2018_12-": {
+    "name": "Physicist"
+  },
+  "11004496-Kritias_2018_12-": {
+    "name": "Ichthyologist"
+  },
+  "11004497-Kritias_2018_12-": {
+    "name": "Ichthyologist"
+  },
+  "11004498-Kritias_2018_12-": {
+    "name": "Professor"
+  },
+  "11004499-Kritias_2018_12-": {
+    "name": "Architect"
+  },
+  "11004527-Kritias_2018_12-": {
+    "name": "Ecologist"
+  },
+  "11004528-Kritias_2018_12-": {
+    "name": "Ecologist"
+  },
+  "11004529-Kritias_2018_12-": {
+    "name": "Ecologist"
+  },
+  "11004530-Kritias_2018_12-": {
+    "name": "Agent"
+  },
+  "11004541-Kritias_2018_12-": {
+    "name": "Researcher"
+  },
+  "11004542-Kritias_2018_12-": {
+    "name": "Researcher"
+  },
+  "11004543-Kritias_2018_12-": {
+    "name": "Researcher"
+  },
+  "11004552--": {
+    "name": "Event Guide"
+  },
+  "11004557--": {
+    "name": "Pink Pink"
+  },
+  "11004618--": {
+    "name": "NPCTITLE_11004618_NAME"
+  },
+  "11004619--": {
+    "name": "NPCTITLE_11004619_NAME"
+  },
+  "11004662--": {
+    "name": "Blackstar's"
+  },
+  "11004663-Event-": {
+    "name": "NPCTITLE_11004663_NAME:[F]Event"
+  },
+  "11004666-Event-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11004668-Event-": {
+    "name": "Archaeologist"
+  },
+  "11004669-Event-": {
+    "name": "NPCTITLE_11004669_NAME:[F]Event"
+  },
+  "11004672-Event-": {
+    "name": "NPCTITLE_11004672_NAME:[F]Event"
+  },
+  "11004673-Event-": {
+    "name": "NPCTITLE_11004673_NAME:[F]Event"
+  },
+  "11004685-Event-": {
+    "name": "Bellhop"
+  },
+  "11004718--": {
+    "name": "Celebrity"
+  },
+  "11004720-Event-": {
+    "name": "Guardsman"
+  },
+  "11004726-Event-": {
+    "name": "Broadcast Writer"
+  },
+  "11200000--": {
+    "name": "Doctor"
+  },
+  "11200005--": {
+    "name": "Chairwoman"
+  },
+  "21450004--": {
+    "name": "Blackstar's"
+  },
+  "21450005--": {
+    "name": "Blackstar's"
+  },
+  "21450006--": {
+    "name": "Blackstar's"
+  },
+  "11000001-Season1-": {
+    "name": "Elder"
+  },
+  "11000005-Season1-": {
+    "name": "Head Librarian"
+  },
+  "11000007-Season1-": {
+    "name": "Squad Leader"
+  },
+  "11000012-Season1-": {
+    "name": "Delivery Knight"
+  },
+  "11000015-Season1-": {
+    "name": "Vigilante Captain"
+  },
+  "11000027-Season1-": {
+    "name": "White"
+  },
+  "11000031-Season1-": {
+    "name": "Archmage"
+  },
+  "11000038-Season1-": {
+    "name": "Doctor"
+  },
+  "11000052-Season1-": {
+    "name": "Village Chief"
+  },
+  "11000053-Season1-": {
+    "name": "Glutton"
+  },
+  "11000070-Season1-": {
+    "name": "Doctor"
+  },
+  "11000071-Season1-": {
+    "name": "Doctor"
+  },
+  "11000072-Season1-": {
+    "name": "Doctor"
+  },
+  "11000261-Season1-": {
+    "name": "Doctor"
+  },
+  "11000273-Season1-": {
+    "name": "Doctor"
+  },
+  "11000274-Season1-": {
+    "name": "Doctor"
+  },
+  "11000275-Season1-": {
+    "name": "Doctor"
+  },
+  "11000419-Season1-": {
+    "name": "Doctor"
+  },
+  "11000436-Season1-": {
+    "name": "Doctor"
+  },
+  "11000582-Season1-": {
+    "name": "Doctor"
+  },
+  "11000583-Season1-": {
+    "name": "Doctor"
+  },
+  "11000584-Season1-": {
+    "name": "Doctor"
+  },
+  "11000658-Season1-": {
+    "name": "Doctor"
+  },
+  "11000762-Season1-": {
+    "name": "Doctor"
+  },
+  "11000898-Season1-": {
+    "name": "Doctor"
+  },
+  "11000899-Season1-": {
+    "name": "Doctor"
+  },
+  "11000947-Season1-": {
+    "name": "Doctor"
+  },
+  "11000948-Season1-": {
+    "name": "Doctor"
+  },
+  "11000949-Season1-": {
+    "name": "Doctor"
+  },
+  "11000950-Season1-": {
+    "name": "Doctor"
+  },
+  "11001091-Season1-": {
+    "name": "Doctor"
+  },
+  "11001324-KarkarIsland-": {
+    "name": "Doctor"
+  },
+  "11000075-Season1-": {
+    "name": "Empress"
+  },
+  "11001301-KarkarIsland-": {
+    "name": "Empress"
+  },
+  "11001302-KarkarIsland-": {
+    "name": "Empress"
+  },
+  "11000145-Season1-": {
+    "name": "NPCTITLE_11004663_NAME:[F]Event"
+  },
+  "11000146-Season1-": {
+    "name": "NPCTITLE_11004663_NAME:[F]Event"
+  },
+  "11000281-Season1-": {
+    "name": "Professor"
+  },
+  "11000327-Season1-": {
+    "name": "Archaeologist"
+  },
+  "11001143-Season1-": {
+    "name": "Archaeologist"
+  },
+  "11000337-Season1-": {
+    "name": "White"
+  },
+  "11000339-Season1-": {
+    "name": "Bellhop"
+  },
+  "11000340-Season1-": {
+    "name": "Hotelier"
+  },
+  "11001349-KarkarIsland-": {
+    "name": "Hotelier"
+  },
+  "11000341-Season1-": {
+    "name": "Mademoiselle"
+  },
+  "11000504-KarkarIsland-": {
+    "name": "Mademoiselle"
+  },
+  "11000672-Season1-": {
+    "name": "Vigilante Captain"
+  },
+  "11000701-Season1-": {
+    "name": "Vigilante Captain"
+  },
+  "11001099-Season1-": {
+    "name": "Vigilante Captain"
+  },
+  "11000870-Season1-": {
+    "name": "Researcher"
+  },
+  "11000871-Season1-": {
+    "name": "Researcher"
+  },
+  "11001002-Season1-": {
+    "name": "Event Guide"
+  },
+  "11001002-Season1-CN": {
+    "name": "Event Guide"
+  },
+  "11001003-Season1-": {
+    "name": "Event Guide"
+  },
+  "11001078-Season1-": {
+    "name": "Glutton"
+  },
+  "11001123-Season1-": {
+    "name": "Delivery Knight"
+  },
+  "11001191-Season1-": {
+    "name": "Program Director"
+  },
+  "11001214-Season1-": {
+    "name": "Village Chief"
+  },
+  "11001304-KarkarIsland-": {
+    "name": "Archmage"
+  },
+  "11001305-KarkarIsland-": {
+    "name": "Elder"
+  },
+  "11000065-Season1-": {
+    "name": "Market"
+  },
+  "11000074-Season1-": {
+    "name": "Chancellor of the Kingdom"
+  },
+  "11000862-Season1-": {
+    "name": "Chancellor of the Kingdom"
+  },
+  "11000076-Season1-": {
+    "name": "Knight Commander"
+  },
+  "11001299-KarkarIsland-": {
+    "name": "Knight Commander"
+  },
+  "11001300-KarkarIsland-": {
+    "name": "Knight Commander"
+  },
+  "11000077-Season1-": {
+    "name": "Darkwind"
+  },
+  "11000208-Season1-": {
+    "name": "Darkwind"
+  },
+  "11000215-Season1-": {
+    "name": "Darkwind"
+  },
+  "11000258-Season1-": {
+    "name": "Darkwind"
+  },
+  "11000260-Season1-": {
+    "name": "Darkwind"
+  },
+  "11000524-Season1-": {
+    "name": "Darkwind"
+  },
+  "11000097-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000117-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000170-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000179-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000292-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000300-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000350-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000402-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000403-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000484-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000546-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000607-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000609-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000813-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000814-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000828-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000829-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000963-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000980-Season1-": {
+    "name": "Pedlar"
+  },
+  "11001133-Season1-": {
+    "name": "Pedlar"
+  },
+  "11000119-Season1-": {
+    "name": "Royal Guard Captain"
+  },
+  "11000702-Season1-": {
+    "name": "Royal Guard Captain"
+  },
+  "11000121-Season1-": {
+    "name": "Research Assistant"
+  },
+  "11000124-Season1-": {
+    "name": "Doctor of Pharmacology"
+  },
+  "11000125-Season1-": {
+    "name": "Doctor of Genetics"
+  },
+  "11000128-Season1-": {
+    "name": "Royal Porter"
+  },
+  "11000129-Season1-": {
+    "name": "Royal Porter"
+  },
+  "11000164-Season1-": {
+    "name": "Royal Porter"
+  },
+  "11000375-Season1-": {
+    "name": "Royal Porter"
+  },
+  "11000136-Season1-": {
+    "name": "Wolf Girl"
+  },
+  "11000157-Season1-": {
+    "name": "Guard"
+  },
+  "11000158-Season1-": {
+    "name": "Guard"
+  },
+  "11000159-Season1-": {
+    "name": "Guard"
+  },
+  "11000280-Season1-": {
+    "name": "Guard"
+  },
+  "11000551-Season1-": {
+    "name": "Guard"
+  },
+  "11000617-Season1-": {
+    "name": "Guard"
+  },
+  "11001310-KarkarIsland-": {
+    "name": "Guard"
+  },
+  "11001311-KarkarIsland-": {
+    "name": "Guard"
+  },
+  "11001312-KarkarIsland-": {
+    "name": "Guard"
+  },
+  "11000160-Season1-": {
+    "name": "Guide"
+  },
+  "11000169-Season1-": {
+    "name": "Weaponry Guard"
+  },
+  "11000171-Season1-": {
+    "name": "Junk King"
+  },
+  "11000172-Season1-": {
+    "name": "Security Guard"
+  },
+  "11000173-Season1-": {
+    "name": "Broker"
+  },
+  "11000667-Season1-": {
+    "name": "Broker"
+  },
+  "11000668-Season1-": {
+    "name": "Broker"
+  },
+  "11000669-Season1-": {
+    "name": "Broker"
+  },
+  "11000180-Season1-": {
+    "name": "Junk Shop Assistant"
+  },
+  "11000181-Season1-": {
+    "name": "Junk Shop Assistant"
+  },
+  "11000185-Season1-": {
+    "name": "Intermediary"
+  },
+  "11000190-Season1-": {
+    "name": "Herbalist"
+  },
+  "11001130-Season1-": {
+    "name": "Herbalist"
+  },
+  "11000192-Season1-": {
+    "name": "Lumberjack"
+  },
+  "11000203-Season1-": {
+    "name": "Lumberjack"
+  },
+  "11000207-Season1-": {
+    "name": "Worker"
+  },
+  "11000214-Season1-": {
+    "name": "Unidentified"
+  },
+  "11000216-Season1-": {
+    "name": "Protesters"
+  },
+  "11000217-Season1-": {
+    "name": "Maid"
+  },
+  "11000220-Season1-": {
+    "name": "Supervisor"
+  },
+  "11000245-Season1-": {
+    "name": "Supervisor"
+  },
+  "11000987-Season1-": {
+    "name": "Supervisor"
+  },
+  "11001047-Season1-": {
+    "name": "Supervisor"
+  },
+  "11000241-Season1-": {
+    "name": "Cable Car Attendant"
+  },
+  "11000242-Season1-": {
+    "name": "Cloud Cafe Owner"
+  },
+  "11000254-Season1-": {
+    "name": "Hairstyle Consultant"
+  },
+  "11000264-Season1-": {
+    "name": "Alchemist"
+  },
+  "11000265-Season1-": {
+    "name": "Magic Scholar"
+  },
+  "11000266-Season1-": {
+    "name": "Dark Wind Commander"
+  },
+  "11000283-Season1-": {
+    "name": "Fortune Teller"
+  },
+  "11001144-Season1-": {
+    "name": "Fortune Teller"
+  },
+  "11000284-Season1-": {
+    "name": "Fairy"
+  },
+  "11000298-Season1-": {
+    "name": "Fairy"
+  },
+  "11000596-Season1-": {
+    "name": "Fairy"
+  },
+  "11000677-Season1-": {
+    "name": "Fairy"
+  },
+  "11000736-Season1-": {
+    "name": "Fairy"
+  },
+  "11000293-Season1-": {
+    "name": "Tree Fairy"
+  },
+  "11000299-Season1-": {
+    "name": "Farmer"
+  },
+  "11000301-Season1-": {
+    "name": "Construction Supervisor"
+  },
+  "11000353-Season1-": {
+    "name": "Construction Supervisor"
+  },
+  "11000302-Season1-": {
+    "name": "Apprentice Priest"
+  },
+  "11000303-Season1-": {
+    "name": "Shaman"
+  },
+  "11001046-Season1-": {
+    "name": "Shaman"
+  },
+  "11000304-Season1-": {
+    "name": "Greedy Witch"
+  },
+  "11000324-Season1-": {
+    "name": "Emotion Expression Coach"
+  },
+  "11000325-Season1-": {
+    "name": "PR Staff"
+  },
+  "11000328-Season1-": {
+    "name": "Antique Collector"
+  },
+  "11000338-Season1-": {
+    "name": "Baker"
+  },
+  "11000352-Season1-": {
+    "name": "Park Guard"
+  },
+  "11000358-Season1-": {
+    "name": "Thug"
+  },
+  "11000362-Season1-": {
+    "name": "Fisherman"
+  },
+  "11000365-Season1-": {
+    "name": "Gang Member"
+  },
+  "11000610-Season1-": {
+    "name": "Gang Member"
+  },
+  "11000374-Season1-": {
+    "name": "Wolf Hunter"
+  },
+  "11000549-Season1-": {
+    "name": "Wolf Hunter"
+  },
+  "11000393-Season1-": {
+    "name": "Water Works Manager"
+  },
+  "11000394-Season1-": {
+    "name": "Cash Mart Staff"
+  },
+  "11000795-Season1-": {
+    "name": "Cash Mart Staff"
+  },
+  "11000400-Season1-": {
+    "name": "Facility Manager"
+  },
+  "11000520-Season1-": {
+    "name": "Facility Manager"
+  },
+  "11000406-Season1-": {
+    "name": "Idol"
+  },
+  "11000433-Season1-": {
+    "name": "Shepherd Boy"
+  },
+  "11000444-Season1-": {
+    "name": "Explorer"
+  },
+  "11000782-Season1-": {
+    "name": "Explorer"
+  },
+  "11000479-Season1-": {
+    "name": "Musician"
+  },
+  "11000480-Season1-": {
+    "name": "Quarry Supervisor"
+  },
+  "11000514-Season1-": {
+    "name": "Prison Warden"
+  },
+  "11000521-Season1-": {
+    "name": "Prison Warden"
+  },
+  "11001345-KarkarIsland-": {
+    "name": "Prison Warden"
+  },
+  "11000515-Season1-": {
+    "name": "Trader Office Manager"
+  },
+  "11000534-Season1-": {
+    "name": "Coroner"
+  },
+  "11000547-Season1-": {
+    "name": "Green Hood"
+  },
+  "11000548-Season1-": {
+    "name": "Green Hood"
+  },
+  "11000703-Season1-": {
+    "name": "Green Hood"
+  },
+  "11000961-Season1-": {
+    "name": "Green Hood"
+  },
+  "11000962-Season1-": {
+    "name": "Green Hood"
+  },
+  "11000972-Season1-": {
+    "name": "Green Hood"
+  },
+  "11001177-Season1-": {
+    "name": "Green Hood"
+  },
+  "11000594-Season1-": {
+    "name": "Laboratory Director"
+  },
+  "11000843-Season1-": {
+    "name": "Laboratory Director"
+  },
+  "11001028-Season1-": {
+    "name": "Laboratory Director"
+  },
+  "11000601-Season1-": {
+    "name": "Guardian Priest"
+  },
+  "11000608-Season1-": {
+    "name": "Guardian Priest"
+  },
+  "11001303-KarkarIsland-": {
+    "name": "Guardian Priest"
+  },
+  "11000602-Season1-": {
+    "name": "Royal Guard Tracker"
+  },
+  "11000603-Season1-": {
+    "name": "Royal Guard Tracker"
+  },
+  "11000613-Season1-": {
+    "name": "Lumina Liberation Soldier"
+  },
+  "11000614-Season1-": {
+    "name": "Lumina Liberation Soldier"
+  },
+  "11000615-Season1-": {
+    "name": "Lumina Liberation Soldier"
+  },
+  "11000616-Season1-": {
+    "name": "Lumina Liberation Soldier"
+  },
+  "11000839-Season1-": {
+    "name": "Lumina Liberation Soldier"
+  },
+  "11000841-Season1-": {
+    "name": "Lumina Liberation Soldier"
+  },
+  "11000842-Season1-": {
+    "name": "Lumina Liberation Soldier"
+  },
+  "11001110-Season1-": {
+    "name": "Lumina Liberation Soldier"
+  },
+  "11000631-Season1-": {
+    "name": "Prison Warden"
+  },
+  "11000632-Season1-": {
+    "name": "Prison Warden"
+  },
+  "11000633-Season1-": {
+    "name": "Prison Warden"
+  },
+  "11001344-KarkarIsland-": {
+    "name": "Prison Warden"
+  },
+  "11000675-Season1-": {
+    "name": "Gladiator"
+  },
+  "11000712-Season1-": {
+    "name": "Baby Turtle"
+  },
+  "11000713-Season1-": {
+    "name": "Papa Turtle"
+  },
+  "11000737-Season1-": {
+    "name": "Swordsman"
+  },
+  "11000738-Season1-": {
+    "name": "Swordsman"
+  },
+  "11000739-Season1-": {
+    "name": "Swordsman"
+  },
+  "11000744-Season1-": {
+    "name": "Witch"
+  },
+  "11000745-Season1-": {
+    "name": "Witch"
+  },
+  "11001238-KatvanDungeon-": {
+    "name": "Witch"
+  },
+  "11000746-Season1-": {
+    "name": "Witch of the Forest"
+  },
+  "11000806-Season1-": {
+    "name": "Chemist"
+  },
+  "11000837-Season1-": {
+    "name": "Guardian"
+  },
+  "11000844-Season1-": {
+    "name": "Young"
+  },
+  "11000848-Season1-": {
+    "name": "Doctor of Engineering"
+  },
+  "11000985-Season1-": {
+    "name": "Doctor of Engineering"
+  },
+  "11000868-Season1-": {
+    "name": "Apprentice Researcher"
+  },
+  "11000869-Season1-": {
+    "name": "Time Engineer"
+  },
+  "11001057-Season1-": {
+    "name": "Time Engineer"
+  },
+  "11000874-Season1-": {
+    "name": "Turtle Sage"
+  },
+  "11000885-Season1-": {
+    "name": "Moon Rabbit"
+  },
+  "11000892-Season1-": {
+    "name": "Forest Spirit"
+  },
+  "11001117-Season1-": {
+    "name": "Forest Spirit"
+  },
+  "11000893-Season1-": {
+    "name": "Spirit of Light"
+  },
+  "11000894-Season1-": {
+    "name": "Wind Spirit"
+  },
+  "11000895-Season1-": {
+    "name": "Picchu Picchu's Garden in the Sky"
+  },
+  "11000911-Season1-": {
+    "name": "Biotech Researcher"
+  },
+  "11000930-Season1-": {
+    "name": "Mother Bird"
+  },
+  "11000931-Season1-": {
+    "name": "Wolf"
+  },
+  "11000958-Season1-": {
+    "name": "Farmer"
+  },
+  "11000975-Season1-": {
+    "name": "Farmer"
+  },
+  "11000959-Season1-": {
+    "name": "Scout"
+  },
+  "11001084-KarkarIsland-": {
+    "name": "Scout"
+  },
+  "11001355-KarkarIsland-": {
+    "name": "Scout"
+  },
+  "11000974-Season1-": {
+    "name": "Cuisine Researcher"
+  },
+  "11000976-Season1-": {
+    "name": "Martial Arts Master"
+  },
+  "11000977-Season1-": {
+    "name": "Priest"
+  },
+  "11000984-Season1-": {
+    "name": "Wizard"
+  },
+  "11001010-Season1-": {
+    "name": "Intern"
+  },
+  "11001016-Season1-": {
+    "name": "King of the Andesen Kingdom"
+  },
+  "11001031-Season1-": {
+    "name": "Research Intern"
+  },
+  "11001032-Season1-": {
+    "name": "Center Director"
+  },
+  "11001040-Season1-": {
+    "name": "Expedition Member"
+  },
+  "11001131-Season1-": {
+    "name": "Expedition Member"
+  },
+  "11001041-Season1-": {
+    "name": "Prophet"
+  },
+  "11001043-Season1-": {
+    "name": "Security Guard"
+  },
+  "11001062-Season1-": {
+    "name": "KaoNix Collector"
+  },
+  "11001068-Season1-": {
+    "name": "Bodyguard"
+  },
+  "11001079-Season1-": {
+    "name": "Prisoner"
+  },
+  "11001080-KarkarIsland-": {
+    "name": "Scout Captain"
+  },
+  "11001097-Season1-": {
+    "name": "Engineer"
+  },
+  "11001118-Season1-": {
+    "name": "Bunny Girl"
+  },
+  "11001119-Season1-": {
+    "name": "Bunny Girl"
+  },
+  "11001356-KarkarIsland-": {
+    "name": "Bunny Girl"
+  },
+  "11001125-Season1-": {
+    "name": "Droid"
+  },
+  "11001129-Season1-": {
+    "name": "Worker"
+  },
+  "11001140-Season1-": {
+    "name": "Worker"
+  },
+  "11001132-Season1-": {
+    "name": "Refugee"
+  },
+  "11001138-Season1-": {
+    "name": "Refugee"
+  },
+  "11001139-Season1-": {
+    "name": "Leatherworker"
+  },
+  "11001141-Season1-": {
+    "name": "Estate Manager"
+  },
+  "11001146-Season1-": {
+    "name": "Mother's"
+  },
+  "11001147-Season1-": {
+    "name": "Mother's"
+  },
+  "11001148-Season1-": {
+    "name": "Weapon Collector"
+  },
+  "11001176-ContentsGuide01-": {
+    "name": "Lead Designer"
+  },
+  "11001178-Season1-": {
+    "name": "Farm Owner"
+  },
+  "11001192-Season1-": {
+    "name": "Youngest Writer"
+  },
+  "11001193-Season1-": {
+    "name": "Lighting Director"
+  },
+  "11001194-Season1-": {
+    "name": "Camera Crew"
+  },
+  "11001195-Season1-": {
+    "name": "Stylist"
+  },
+  "11001196-Season1-": {
+    "name": "Support Team"
+  },
+  "11001210-Balrogitem1st-": {
+    "name": "Explorer"
+  },
+  "11001211-Balrogitem1st-": {
+    "name": "Blacksmith"
+  },
+  "11001230-RuneBlader-": {
+    "name": "Deputy Leader"
+  },
+  "11001248-RuneBlader-": {
+    "name": "Deputy Leader"
+  },
+  "11001234-RuneBlader-": {
+    "name": "Scout"
+  },
+  "11001249-RuneBlader-": {
+    "name": "Scout"
+  },
+  "11001261-RuneBlader-": {
+    "name": "Artifact Restorer"
+  },
+  "11001277-RuneBlader-": {
+    "name": "Artifact Restorer"
+  },
+  "11001262-Quest2017-": {
+    "name": "Information Broker"
+  },
+  "11001266-RuneBlader-": {
+    "name": "Terunkelebr"
+  },
+  "11001268-RuneBlader-": {
+    "name": "Terunkelebr"
+  },
+  "11001282-RuneBlader-": {
+    "name": "Terunkelebr"
+  },
+  "11001275-KarkarIsland-": {
+    "name": "Assistant"
+  },
+  "11001276-KarkarIsland-": {
+    "name": "Inventor"
+  },
+  "11001278-RuneBlader-": {
+    "name": "Chaser"
+  },
+  "11001308-KarkarIsland-": {
+    "name": "Antique Collector"
+  },
+  "11001309-KarkarIsland-": {
+    "name": "Police Officer"
+  },
+  "11001314-KarkarIsland-": {
+    "name": "Moropapa Chief"
+  },
+  "11001315-KarkarIsland-": {
+    "name": "Moropapa Tribe"
+  },
+  "11001316-KarkarIsland-": {
+    "name": "Priestess"
+  },
+  "11001317-KarkarIsland-": {
+    "name": "Priestess"
+  },
+  "11001341-KarkarIsland-": {
+    "name": "Kilcos Employee"
+  },
+  "11001342-KarkarIsland-": {
+    "name": "W.H.A Employee"
+  },
+  "11001343-KarkarIsland-": {
+    "name": "Lifeguard"
+  },
+  "11001370-KarkarIsland-": {
+    "name": "Monorail Conductor"
+  },
+  "11001374-KarkarIsland-": {
+    "name": "Executive Assistant"
+  },
+  "11001375-KarkarIsland-": {
+    "name": "Salesperson"
+  },
+  "11001376-KarkarIsland-": {
+    "name": "Film Director"
+  },
+  "11001377-KarkarIsland-": {
+    "name": "Manager"
+  },
+  "11001378-KarkarIsland-": {
+    "name": "Fighter"
+  },
+  "11001379-KarkarIsland-": {
+    "name": "Security Guard"
+  },
+  "11001397-KarkarIsland-": {
+    "name": "Moropapa Tribe"
+  },
+  "11001400-KarkarIsland-": {
+    "name": "Worker"
+  },
+  "11001401-KarkarIsland-": {
+    "name": "Worker"
+  },
+  "11001408-KarkarIsland-": {
+    "name": "Scout Captain"
+  },
+  "11001430-KarkarIsland-": {
+    "name": "NPCTITLE_11004672_NAME:[F]Event"
+  },
+  "11003142-ContentsGuide02-": {
+    "name": "NPCTITLE_11004672_NAME:[F]Event"
+  },
+  "11001431-KarkarIsland-": {
+    "name": "NPCTITLE_11004673_NAME:[F]Event"
+  },
+  "11001433-KarkarIsland-": {
+    "name": "NPCTITLE_11004669_NAME:[F]Event"
+  },
+  "11001434-KarkarIsland-": {
+    "name": "Archaeologist"
+  },
+  "11001473-KarkarIsland-": {
+    "name": "Archaeologist"
+  },
+  "11001474-KarkarIsland-": {
+    "name": "Archaeologist"
+  },
+  "11001443-KarkarIsland-": {
+    "name": "Doctor"
+  },
+  "11200000-GuildHouse01-": {
+    "name": "Doctor"
+  },
+  "11001448-KarkarIsland-": {
+    "name": "Empress"
+  },
+  "11001478-KarkarIsland-": {
+    "name": "Empress"
+  },
+  "11001490-KarkarIsland-": {
+    "name": "Empress"
+  },
+  "11001663-Season1-": {
+    "name": "Empress"
+  },
+  "11004785-EpicApocalypse01-": {
+    "name": "Empress"
+  },
+  "11004786-EpicApocalypse01-": {
+    "name": "Empress"
+  },
+  "11001485-KarkarIsland-": {
+    "name": "Shaman"
+  },
+  "11001502-KarkarIsland-": {
+    "name": "Glutton"
+  },
+  "11001557-SoulBinder-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001657-SoulBinder-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001659-SoulBinder-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001671-SoulBinder-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001672-SoulBinder-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001715-SoulBinder-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001716-SoulBinder-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001717-SoulBinder-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001718-SoulBinder-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001719-SoulBinder-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001720-SoulBinder-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001721-SoulBinder-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001722-SoulBinder-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001742-SoulBinder-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001762-DoubleImpactStory-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001763-DoubleImpactStory-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001771-DoubleImpactStory-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001772-ShrineOfGuidance-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001773-ShrineOfGuidance-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001774-ShrineOfGuidance-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001790-DoubleImpactStory-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001791-DoubleImpactStory-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001792-DoubleImpactStory-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001806-DoubleImpactStory-": {
+    "name": "NPCTITLE_11004666_NAME:[F]Event"
+  },
+  "11001665-Season1-": {
+    "name": "Chancellor of the Kingdom"
+  },
+  "11004778-EpicApocalypse01-": {
+    "name": "Chancellor of the Kingdom"
+  },
+  "11004779-EpicApocalypse01-": {
+    "name": "Chancellor of the Kingdom"
+  },
+  "11004780-EpicApocalypse01-": {
+    "name": "Chancellor of the Kingdom"
+  },
+  "11004781-EpicApocalypse01-": {
+    "name": "Chancellor of the Kingdom"
+  },
+  "11001666-Season1-": {
+    "name": "Royal Guard Captain"
+  },
+  "11003121-DarkCastle-": {
+    "name": "Royal Guard Captain"
+  },
+  "11003151-Quest2017-": {
+    "name": "Royal Guard Captain"
+  },
+  "11003165-Quest2017-": {
+    "name": "Royal Guard Captain"
+  },
+  "11003246-Quest2017-": {
+    "name": "Royal Guard Captain"
+  },
+  "11001669-Season1-": {
+    "name": "Bunny Girl"
+  },
+  "11001670-Season1-": {
+    "name": "Bunny Girl"
+  },
+  "11001700-ShadowExpedition-": {
+    "name": "Guard"
+  },
+  "11003266-Quest2017-": {
+    "name": "Guard"
+  },
+  "11001836-Season1-": {
+    "name": "Program Director"
+  },
+  "11001888-Season1-": {
+    "name": "Program Director"
+  },
+  "11001872-ContentsGuide01-": {
+    "name": "Inventor"
+  },
+  "11001873-ContentsGuide01-": {
+    "name": "Inventor"
+  },
+  "11001874-ContentsGuide01-": {
+    "name": "Assistant"
+  },
+  "11001877-ContentsGuide01-": {
+    "name": "Farm Owner"
+  },
+  "11001889-Season1-": {
+    "name": "Vigilante Captain"
+  },
+  "11003095-DarkCastle-": {
+    "name": "Vigilante Captain"
+  },
+  "11003122-DarkCastle-": {
+    "name": "Vigilante Captain"
+  },
+  "11003222-Season1-": {
+    "name": "Vigilante Captain"
+  },
+  "11003238-Quest2017-": {
+    "name": "Vigilante Captain"
+  },
+  "11003245-Quest2017-": {
+    "name": "Vigilante Captain"
+  },
+  "11003309-Quest2017-": {
+    "name": "Vigilante Captain"
+  },
+  "11003319-Season1-": {
+    "name": "Vigilante Captain"
+  },
+  "11001901-Season1-": {
+    "name": "Knight Commander"
+  },
+  "11003054-SnowKingdom-": {
+    "name": "Knight Commander"
+  },
+  "11003093-DarkCastle-": {
+    "name": "Knight Commander"
+  },
+  "11003096-DarkCastle-": {
+    "name": "Knight Commander"
+  },
+  "11003267-Quest2017-": {
+    "name": "Knight Commander"
+  },
+  "11003328-JobIntro-": {
+    "name": "Knight Commander"
+  },
+  "11002020-Season1-": {
+    "name": "Cash Mart Staff"
+  },
+  "11002035-Season1-": {
+    "name": "Cash Mart Staff"
+  },
+  "11002036-Season1-": {
+    "name": "Cash Mart Staff"
+  },
+  "11002037-Season1-": {
+    "name": "Cash Mart Staff"
+  },
+  "11002038-Season1-": {
+    "name": "Cash Mart Staff"
+  },
+  "11003063-SnowKingdom-": {
+    "name": "Herbalist"
+  },
+  "11003080-PirateOcean-": {
+    "name": "Explorer"
+  },
+  "11003143-ContentsGuide02-": {
+    "name": "Alchemist"
+  },
+  "11003268-Quest2017-": {
+    "name": "Alchemist"
+  },
+  "11003187-Quest2017-": {
+    "name": "Broker"
+  },
+  "11003194-Quest2017-": {
+    "name": "Broker"
+  },
+  "11003241-Quest2017-": {
+    "name": "Broker"
+  },
+  "11003193-Quest2017-": {
+    "name": "Information Broker"
+  },
+  "11003221-Season1-": {
+    "name": "Elder"
+  },
+  "11003239-Quest2017-": {
+    "name": "Elder"
+  },
+  "11003307-Quest2017-": {
+    "name": "Elder"
+  },
+  "11003308-Quest2017-": {
+    "name": "Elder"
+  },
+  "11003361-Quest2017-": {
+    "name": "Elder"
+  },
+  "11003243-Quest2017-": {
+    "name": "Green Hood"
+  },
+  "11003250-Quest2017-": {
+    "name": "Archmage"
+  },
+  "11003281-Quest2017-": {
+    "name": "Archmage"
+  },
+  "11003283-Season1-": {
+    "name": "Archmage"
+  },
+  "11003284-Season1-": {
+    "name": "Archmage"
+  },
+  "11003306-Season1-": {
+    "name": "Archmage"
+  },
+  "11003314-Quest2017-": {
+    "name": "Archmage"
+  },
+  "11003435-Quest2017_2-": {
+    "name": "Archmage"
+  },
+  "11003264-Quest2017-": {
+    "name": "Head Librarian"
+  },
+  "11003432-Quest2017_2-": {
+    "name": "Head Librarian"
+  },
+  "11003437-Quest2017_2-": {
+    "name": "Head Librarian"
+  },
+  "11003269-Quest2017-": {
+    "name": "Squad Leader"
+  },
+  "11003270-Quest2017-": {
+    "name": "Dark Wind Commander"
+  },
+  "11003274-Season1-": {
+    "name": "Prison Warden"
+  },
+  "11003330-JobIntro-": {
+    "name": "Guardian Priest"
+  },
+  "11003331-JobIntro-": {
+    "name": "Guardian Priest"
+  },
+  "11004782-EpicApocalypse01-": {
+    "name": "Guardian Priest"
+  },
+  "11004783-EpicApocalypse01-": {
+    "name": "Guardian Priest"
+  },
+  "11004784-EpicApocalypse01-": {
+    "name": "Guardian Priest"
+  },
+  "11003810-Pet_Zakum-": {
+    "name": "Witch"
+  },
+  "11004552-Season1-": {
+    "name": "Event Guide"
+  },
+  "11500001-Season1-": {
+    "name": "Event Guide"
+  },
+  "11500002-Season1-": {
+    "name": "Event Guide"
+  },
+  "11004688-BlackOnyx-": {
+    "name": "Guide"
+  },
+  "11004689-BlackOnyx-": {
+    "name": "Guide"
+  },
+  "11004695-Event-CN": {
+    "name": "Pedlar"
+  },
+  "11004844-Event-CN": {
+    "name": "Pedlar"
+  },
+  "11004845-Event-KR": {
+    "name": "Pedlar"
+  },
+  "11004718-Event-": {
+    "name": "Idol"
+  },
+  "21450004-BlackOnyx-": {
+    "name": "Blackstar's"
+  },
+  "21450005-BlackOnyx-": {
+    "name": "Blackstar's"
+  },
+  "21450006-BlackOnyx-": {
+    "name": "Blackstar's"
+  },
+  "11001381-KarkarIsland-": {
+    "name": "Chairman"
+  },
+  "11001382-KarkarIsland-": {
+    "name": "Blackstar Agent"
+  },
+  "11001386-KarkarIsland-": {
+    "name": "Village Elder"
+  },
+  "11001387-KarkarIsland-": {
+    "name": "Village Resident"
+  },
+  "11001388-KarkarIsland-": {
+    "name": "Village Resident"
+  },
+  "11001389-KarkarIsland-": {
+    "name": "Village Resident"
+  },
+  "11001390-KarkarIsland-": {
+    "name": "Village Resident"
+  },
+  "11001391-KarkarIsland-": {
+    "name": "Patient"
+  },
+  "11001392-KarkarIsland-": {
+    "name": "Patient"
+  },
+  "11001412-KarkarIsland-": {
+    "name": "Patient"
+  },
+  "11001393-KarkarIsland-": {
+    "name": "Beggar in Love"
+  },
+  "11001396-KarkarIsland-": {
+    "name": "Genius Girl"
+  },
+  "11001399-KarkarIsland-": {
+    "name": "Scout Team 24 Leader"
+  },
+  "11001406-KarkarIsland-": {
+    "name": "Search Team Leader"
+  },
+  "11001407-KarkarIsland-": {
+    "name": "Ghost"
+  },
+  "11001409-KarkarIsland-": {
+    "name": "Training Captain"
+  },
+  "11001410-KarkarIsland-": {
+    "name": "Secretary"
+  },
+  "11001411-KarkarIsland-": {
+    "name": "Secretary"
+  },
+  "11001458-KarkarIsland-": {
+    "name": "Blackstar Gangster"
+  },
+  "11001483-KarkarIsland-": {
+    "name": "Coward"
+  },
+  "11001520-NutaNuta-": {
+    "name": "Starlight Expedition"
+  },
+  "11001521-NutaNuta-": {
+    "name": "Starlight Expedition"
+  },
+  "11001522-NutaNuta-": {
+    "name": "Starlight Expedition"
+  },
+  "11001547-Striker-": {
+    "name": "Battle God"
+  },
+  "11001622-Striker-": {
+    "name": "Battle God"
+  },
+  "11001625-Striker-": {
+    "name": "Battle God"
+  },
+  "11001630-Striker-": {
+    "name": "Battle God"
+  },
+  "11001556-SoulBinder-": {
+    "name": "Master"
+  },
+  "11001661-SoulBinder-": {
+    "name": "Master"
+  },
+  "11001619-Striker-": {
+    "name": "Manager"
+  },
+  "11001620-Striker-": {
+    "name": "Manager"
+  },
+  "11001628-Striker-": {
+    "name": "Manager"
+  },
+  "11001690-Striker-": {
+    "name": "Manager"
+  },
+  "11001626-Striker-": {
+    "name": "Match Host"
+  },
+  "11001668-UGCMapRenewal-": {
+    "name": "Personal Physician"
+  },
+  "11002000-Season1-": {
+    "name": "Personal Physician"
+  },
+  "11002002-Season1-": {
+    "name": "Personal Physician"
+  },
+  "11002003-Season1-": {
+    "name": "Personal Physician"
+  },
+  "11002004-Season1-": {
+    "name": "Personal Physician"
+  },
+  "11002005-Season1-": {
+    "name": "Personal Physician"
+  },
+  "11002006-Season1-": {
+    "name": "Personal Physician"
+  },
+  "11002007-Season1-": {
+    "name": "Personal Physician"
+  },
+  "11002008-Season1-": {
+    "name": "Personal Physician"
+  },
+  "11002009-Season1-": {
+    "name": "Personal Physician"
+  },
+  "11002010-Season1-": {
+    "name": "Personal Physician"
+  },
+  "11002011-Season1-": {
+    "name": "Personal Physician"
+  },
+  "11002012-Season1-": {
+    "name": "Personal Physician"
+  },
+  "11002013-Season1-": {
+    "name": "Personal Physician"
+  },
+  "11002014-Season1-": {
+    "name": "Personal Physician"
+  },
+  "11002015-Season1-": {
+    "name": "Personal Physician"
+  },
+  "11002016-Season1-": {
+    "name": "Personal Physician"
+  },
+  "11002040-KarkarIsland-": {
+    "name": "Personal Physician"
+  },
+  "11002041-KarkarIsland-": {
+    "name": "Personal Physician"
+  },
+  "11002042-KarkarIsland-": {
+    "name": "Personal Physician"
+  },
+  "11002043-KarkarIsland-": {
+    "name": "Personal Physician"
+  },
+  "11002044-KarkarIsland-": {
+    "name": "Personal Physician"
+  },
+  "11002045-KarkarIsland-": {
+    "name": "Personal Physician"
+  },
+  "11002046-KarkarIsland-": {
+    "name": "Personal Physician"
+  },
+  "11002047-KarkarIsland-": {
+    "name": "Personal Physician"
+  },
+  "11002048-KarkarIsland-": {
+    "name": "Personal Physician"
+  },
+  "11002049-KarkarIsland-": {
+    "name": "Personal Physician"
+  },
+  "11001838-Season1-": {
+    "name": "Trainee Guard"
+  },
+  "11001839-Season1-": {
+    "name": "Trainee Guard"
+  },
+  "11001840-Season1-": {
+    "name": "Trainee Guard"
+  },
+  "11001841-Season1-": {
+    "name": "Trainee Guard"
+  },
+  "11001967-Season1-": {
+    "name": "Trainee Guard"
+  },
+  "11003164-Quest2017-": {
+    "name": "Trainee Guard"
+  },
+  "11003166-Quest2017-": {
+    "name": "Trainee Guard"
+  },
+  "11003169-Quest2017-": {
+    "name": "Trainee Guard"
+  },
+  "11003170-Quest2017-": {
+    "name": "Trainee Guard"
+  },
+  "11003172-Quest2017-": {
+    "name": "Trainee Guard"
+  },
+  "11003178-Quest2017-": {
+    "name": "Trainee Guard"
+  },
+  "11003186-Quest2017-": {
+    "name": "Trainee Guard"
+  },
+  "11003188-Quest2017-": {
+    "name": "Trainee Guard"
+  },
+  "11003198-Quest2017-": {
+    "name": "Trainee Guard"
+  },
+  "11003199-Quest2017-": {
+    "name": "Trainee Guard"
+  },
+  "11003202-Quest2017-": {
+    "name": "Trainee Guard"
+  },
+  "11003203-Quest2017-": {
+    "name": "Trainee Guard"
+  },
+  "11003218-Quest2017-": {
+    "name": "Trainee Guard"
+  },
+  "11003220-Quest2017-": {
+    "name": "Trainee Guard"
+  },
+  "11003247-Quest2017-": {
+    "name": "Trainee Guard"
+  },
+  "11001842-Season1-": {
+    "name": "Guardsman"
+  },
+  "11001843-Season1-": {
+    "name": "Wounded Soldier"
+  },
+  "11001861-ContentsGuide01-": {
+    "name": "Fisher"
+  },
+  "11001862-ContentsGuide01-": {
+    "name": "Fisher"
+  },
+  "11001863-ContentsGuide01-": {
+    "name": "Fisher"
+  },
+  "11001865-ContentsGuide01-": {
+    "name": "Instrument Merchant"
+  },
+  "11001867-ContentsGuide01-": {
+    "name": "Gemcraftsman"
+  },
+  "11001868-ContentsGuide01-": {
+    "name": "Gemcraftsman"
+  },
+  "11001869-ContentsGuide01-": {
+    "name": "Gemcraftsman"
+  },
+  "11001870-ContentsGuide01-": {
+    "name": "Nerman Guild Master"
+  },
+  "11001876-ContentsGuide01-": {
+    "name": "Head Butler"
+  },
+  "11001878-Season1-": {
+    "name": "Fire Man"
+  },
+  "11003059-SnowKingdom-": {
+    "name": "Supply Corps Member"
+  },
+  "11003069-SnowKingdom-": {
+    "name": "Snow Queen"
+  },
+  "11003074-SnowKingdom-": {
+    "name": "Snow Queen"
+  },
+  "11003075-SnowKingdom-": {
+    "name": "Frost King"
+  },
+  "11003079-ContentsGuide01-": {
+    "name": "Guild Clerk"
+  },
+  "11200005-GuildQuest01-": {
+    "name": "Guild Clerk"
+  },
+  "11003094-DarkCastle-": {
+    "name": "Dark Wind Captain"
+  },
+  "11003195-Quest2017-": {
+    "name": "Dark Wind Captain"
+  },
+  "11003196-Quest2017-": {
+    "name": "Dark Wind Captain"
+  },
+  "11003200-Quest2017-": {
+    "name": "Dark Wind Captain"
+  },
+  "11003201-Quest2017-": {
+    "name": "Dark Wind Captain"
+  },
+  "11003127-DarkCastle-": {
+    "name": "Secret Knights Order"
+  },
+  "11003163-Quest2017-": {
+    "name": "Royal Caretaker"
+  },
+  "11003173-Quest2017-": {
+    "name": "Dark Wind Commander"
+  },
+  "11003320-JobIntro-": {
+    "name": "Knight"
+  },
+  "11003870-Mastery05-": {
+    "name": "Berk Island Caretaker"
+  },
+  "11003871-Mastery05-": {
+    "name": "Miner"
+  },
+  "11003872-Mastery05-": {
+    "name": "Miner"
+  },
+  "11003873-Mastery05-": {
+    "name": "Miner"
+  },
+  "11003876-Mastery05-": {
+    "name": "Navigator"
+  },
+  "11003877-Mastery05-": {
+    "name": "Navigator"
+  },
+  "11003878-Mastery05-": {
+    "name": "Alchemy Garden Keeper"
+  },
+  "11004847-Event-": {
+    "name": "Alchemy Garden Keeper"
+  },
+  "11004848-Event-": {
+    "name": "Alchemy Garden Keeper"
+  },
+  "11004849-Event-": {
+    "name": "Alchemy Garden Keeper"
+  },
+  "11004850-Event-": {
+    "name": "Alchemy Garden Keeper"
+  },
+  "11003879-Mastery05-": {
+    "name": "Gardener"
+  },
+  "11003882-WorldChampionMushroom-": {
+    "name": "Guard"
+  },
+  "11004557-Event-": {
+    "name": "Pink Pink"
+  },
+  "11004574-Kritias_Epic02-": {
+    "name": "Refugee Leader"
+  },
+  "11004576-Kritias_Epic02-": {
+    "name": "Information Merchant"
+  },
+  "11004618-Fame_Geo01-": {
+    "name": "Cerbe Legion Commander"
+  },
+  "11004619-Fame_Geo01-": {
+    "name": "Cerbe Legion Deputy Commander"
+  },
+  "11004690-BlackOnyx-": {
+    "name": "Trader"
+  },
+  "11004694-BlackOnyx-": {
+    "name": "Fence"
+  },
+  "11004696-BlackOnyx-": {
+    "name": "Dealer"
+  },
+  "11004697-BlackOnyx-": {
+    "name": "Waiter"
+  },
+  "11004698-BlackOnyx-": {
+    "name": "Madam"
+  },
+  "11004700-BlackOnyx-": {
+    "name": "Resort Business Representative"
+  },
+  "11004701-BlackOnyx-": {
+    "name": "Ancient Ruins Excavation Specialist"
+  },
+  "11004702-BlackOnyx-": {
+    "name": "Karkar Businessman"
+  },
+  "11004703-BlackOnyx-": {
+    "name": "Ancient Energy Researcher"
+  },
+  "11004846-Event-": {
+    "name": "Seeking Help"
+  },
+  "11500003-Event-": {
+    "name": "Event Merchant"
+  },
+  "11004265-KarkarIsland-JP": {
+    "name": "DJ"
+  },
+  "11004069--JP": {
+    "name": "Smitten"
+  },
+  "11004729-Event-JP": {
+    "name": "Smitten"
+  },
+  "11004730-Event-JP": {
+    "name": "Smitten"
+  },
+  "11004079--JP": {
+    "name": "Bored"
+  },
+  "11004083--JP": {
+    "name": "Lava Researcher"
+  },
+  "11004252--JP": {
+    "name": "Observer"
+  },
+  "11004253--JP": {
+    "name": "Lumina Liberation Army"
+  },
+  "11004258--JP": {
+    "name": "Researcher"
+  },
+  "11004266-KarkarIsland-JP": {
+    "name": "Musician"
+  },
+  "11004267-KarkarIsland-JP": {
+    "name": "Race Queen"
+  },
+  "11004270-KarkarIsland-JP": {
+    "name": "Research Director"
+  },
+  "11004274-KarkarIsland-JP": {
+    "name": "Happy"
+  },
+  "11004731-Event-JP": {
+    "name": "Happy"
+  },
+  "11004732-Event-JP": {
+    "name": "Happy"
+  }
+}

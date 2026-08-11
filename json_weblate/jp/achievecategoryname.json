@@ -1,0 +1,86 @@
+{
+  "1--": {
+    "name": "トロフィー要約"
+  },
+  "2--": {
+    "name": "エンブレム"
+  },
+  "3--": {
+    "name": "冒険レベル"
+  },
+  "4--": {
+    "name": "冒険"
+  },
+  "5--": {
+    "name": "戦闘"
+  },
+  "6--": {
+    "name": "生活"
+  },
+  "7--": {
+    "name": "冒険"
+  },
+  "8--": {
+    "name": "戦闘"
+  },
+  "9--": {
+    "name": "生活"
+  },
+  "10--": {
+    "name": "経験値"
+  },
+  "11--": {
+    "name": "移動"
+  },
+  "12--": {
+    "name": "クエスト"
+  },
+  "13--": {
+    "name": "探検"
+  },
+  "14--": {
+    "name": "勢力"
+  },
+  "15--": {
+    "name": "PVP"
+  },
+  "16--": {
+    "name": "狩り"
+  },
+  "17--": {
+    "name": "ボス"
+  },
+  "18--": {
+    "name": "成長"
+  },
+  "19--": {
+    "name": "経済"
+  },
+  "20--": {
+    "name": "不動産"
+  },
+  "21--": {
+    "name": "収集"
+  },
+  "22--": {
+    "name": "イベント"
+  },
+  "23--": {
+    "name": "日常"
+  },
+  "24--": {
+    "name": "王様キノコチャンピオンシップ"
+  },
+  "27-SurvivalContents03-JP": {
+    "name": "ACHIEVECATEGORYNAME_27_NAME:[F]SurvivalContents03:[L]JP"
+  },
+  "28-SurvivalContents03-JP": {
+    "name": "ACHIEVECATEGORYNAME_28_NAME:[F]SurvivalContents03:[L]JP"
+  },
+  "29-SurvivalContents03-JP": {
+    "name": "ACHIEVECATEGORYNAME_29_NAME:[F]SurvivalContents03:[L]JP"
+  },
+  "25--": {
+    "name": "全体トロフィー"
+  }
+}
