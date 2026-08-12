@@ -19,7 +19,7 @@ FIX = [
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.normpath(os.path.join(BASE, "..", ".."))
-targets = sorted(glob.glob(os.path.join(BASE, "sq_map*.json")))
+targets = sorted(glob.glob(os.path.join(BASE, "sq_*.json")))   # sq_map* と sq_kri* の両方
 targets.append(os.path.join(ROOT, "json_weblate", "jp", "scriptquest.json"))
 
 total = 0

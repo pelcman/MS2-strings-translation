@@ -19,7 +19,7 @@ for name in ["tm_cross.json", "tm_self.json"]:  # self を後勝ちで優先
     if os.path.exists(p):
         tm.update(load(p))
 maps = {}
-for p in sorted(glob.glob(os.path.join(BASE, "sq_map*.json"))):
+for p in sorted(glob.glob(os.path.join(BASE, "sq_*.json"))):   # sq_map* と sq_kri* の両方
     m = load(p)
     m.pop("_comment", None)
     maps.update(m)
