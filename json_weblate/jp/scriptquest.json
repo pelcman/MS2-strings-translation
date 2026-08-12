@@ -13953,99 +13953,99 @@
   },
   "124162319010858-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010858_NAME:[F]Kritias_Inferno01"
+    "name": "だがその前に。\n確実に片付けねばならない別の勢力がある。"
   },
   "124162319010859-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010859_NAME:[F]Kritias_Inferno01"
+    "name": "(それは何かと尋ねる。)"
   },
   "124162319010860-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010860_NAME:[F]Kritias_Inferno01"
+    "name": "まさにケルベスとタイレン王国の兵士たちだ。\n奴らは我々がクリティアスの中枢地域を探査しようとするのを妨げ続けている。"
   },
   "124162319010861-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010861_NAME:[F]Kritias_Inferno01"
+    "name": "これ以上奴らに振り回されるわけにはいかん。そこで、奴らに先制攻撃を仕掛ける予定だ。\nゲオルクも今回の任務を共にしたいと言っていた。"
   },
   "124162319010862-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010862_NAME:[F]Kritias_Inferno01"
+    "name": "ゲオルクと良好な関係を保っている貴官に我々の代表として出てもらいたいのだが、可能か？"
   },
   "124162319010863-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010863_NAME:[F]Kritias_Inferno01"
+    "name": "(可能だと言う。)"
   },
   "124162319010864-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010864_NAME:[F]Kritias_Inferno01"
+    "name": "分かった。\nではひとまず<font color=\"#ffd200\">$map:02020009$</font>へ移動して命令を待つように。"
   },
   "124162319010865-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010865_NAME:[F]Kritias_Inferno01"
+    "name": "目的が同じだから共にするだけですので、お気になさらず。"
   },
   "124162319010866-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0124162319010866_NAME:[F]Kritias_Inferno01"
+    "name": "あなたたちが正体不明の怪獣と戦っている間、ゲオルクはタイレン王国についての情報を集め続けていました。"
   },
   "124162319010867-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0124162319010867_NAME:[F]Kritias_Inferno01"
+    "name": "そしてここ<font color=\"#ffd200\">$map:02020009$</font>に、タイレン王国と内通するケルベスの隊員が駐屯していることが分かりました。\nここを叩けば、彼らに大きな打撃を与えられます！"
   },
   "124162319010868-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0124162319010868_NAME:[F]Kritias_Inferno01"
+    "name": "タイレンの兵士は長い訓練期間を経るため、戦闘に投入されるまで多くの時間を要します。\nですがケルベスの隊員は違います。彼らは追放者を集めて自らの勢力を絶えず拡大しています。"
   },
   "124162319010869-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0124162319010869_NAME:[F]Kritias_Inferno01"
+    "name": "だからタイレン王国は彼らと手を組んだのです。\n私たちゲオルクとケルベスを戦わせて、自分たちの勢力は維持し続けるというわけです。\nケルベスにとっても損な取引ではありませんし。 "
   },
   "124162319010870-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0124162319010870_NAME:[F]Kritias_Inferno01"
+    "name": "私はこの悪循環の輪を断ち切ります。\nタイレン王国と内通するケルベスの隊員を片付ければ、しばらくは両勢力とも自衛のために大きく動かず身をひそめるはずです。"
   },
   "124162319010871-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0124162319010871_NAME:[F]Kritias_Inferno01"
+    "name": "今こそ反撃の時です。\nまずはゲオルクの陣営を苦しめ続けてきた<font color=\"#ffd200\">$npcName:25021601$</font>、<font color=\"#ffd200\">$npcName:25021602$</font>、<font color=\"#ffd200\">$npcName:25021603$</font>から始めましょう！"
   },
   "124162319010872-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0124162319010872_NAME:[F]Kritias_Inferno01"
+    "name": "おかげでケルベスとタイレン王国の双方に打撃を与えることができました。\n彼らの軍事力が弱まった今、その主要施設を占領しましょう！"
   },
   "124162319010873-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010873_NAME:[F]Kritias_Inferno01"
+    "name": "貴官が活躍している間、我々は<font color=\"#ffd200\">$map:02020009$</font>全域をスキャンしていた。\nその最中、興味深いものを発見した。"
   },
   "124162319010874-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0124162319010874_NAME:[F]Kritias_Inferno01"
+    "name": "そこにある巨大なドリルをご覧になったことはありますか？\nゲオルクはケルベスが巨大ドリルを管理していることが気になり、重点的に見ていました。\nそんな中、スカイフォートレスの地域スキャン結果を確認していて、巨大ドリルからタイレン王国の信号が検出されたことを確認したのです。"
   },
   "124162319010875-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0124162319010875_NAME:[F]Kritias_Inferno01"
+    "name": "まだ巨大ドリルの目的までは把握できていませんが、検出された信号を逆探知して解析すれば、タイレン王国の全般的な通信コードを確保できそうです！"
   },
   "124162319010876-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010876_NAME:[F]Kritias_Inferno01"
+    "name": "そのコードを確保すれば、スカイフォートレスの隊員とゲオルクの兵士がタイレン王国の施設へ潜入し、機器を破壊したり情報を入手したりしてタイレン王国を妨害する予定だ。"
   },
   "124162319010877-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010877_NAME:[F]Kritias_Inferno01"
+    "name": "$MyPCName$、巨大ドリルへ移動してタイレン王国の通信コードの確保を頼む。\n貴官が接近すれば、<font color=\"#ffd200\">$npcName:11004315[gender:0]$</font>が支援する予定だ。"
   },
   "124162319010878-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0124162319010878_NAME:[F]Kritias_Inferno01"
+    "name": "$MyPCName$、あなたにもう一つだけお願いしてもよろしいですか？ "
   },
   "124162319010879-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0124162319010879_NAME:[F]Kritias_Inferno01"
+    "name": "<font color=\"#ffd200\">$npcName:25021604$</font>たちは<font color=\"#ffd200\">$item:30001257$</font>を持っています。\nこれを奪えば、ケルベスはしばらく物資不足に苦しみ、他の地域を攻撃できなくなるはずです。"
   },
   "124162319010880-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0124162319010880_NAME:[F]Kritias_Inferno01"
+    "name": "あなたの実力を信じてお願いします。\n<font color=\"#ffd200\">$item:30001257$</font>を確保していただけますか？"
   },
   "124162319010881-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010881_NAME:[F]Kritias_Inferno01"
+    "name": "ケルベスが打撃を受ければ、スカイフォートレスの隊員も安定してクリティアスを探査できる。\n支援は可能か？"
   },
   "124162319010882-Kritias_Inferno01-": {
     "npc": "PC",
@@ -14053,339 +14053,339 @@
   },
   "124162319010883-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010883_NAME:[F]Kritias_Inferno01"
+    "name": "頼もしいな。\nでは<font color=\"#ffd200\">$npcName:25021604$</font>たちを退治した後、<font color=\"#ffd200\">$item:30001257$</font>を確保するように。"
   },
   "124162319010884-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010884_NAME:[F]Kritias_Inferno01"
+    "name": "(最後の任務は何かと尋ねる。)"
   },
   "124162319010885-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010885_NAME:[F]Kritias_Inferno01"
+    "name": "それはここを完全に掌握することだ。\n敵の勢力が減った今が好機だ。"
   },
   "124162319010886-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0124162319010886_NAME:[F]Kritias_Inferno01"
+    "name": "<font color=\"#ffd200\">$map:02020009$</font>の地下に統制室があるはずです。\nそこのメイン制御機器を掌握すれば、<font color=\"#ffd200\">$map:02020009$</font>は私たちの手に入ります。"
   },
   "124162319010887-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010887_NAME:[F]Kritias_Inferno01"
+    "name": "<font color=\"#ffd200\">$map:52100108$</font>はスカイフォートレスのレーダーでもスキャンできなかった。\nつまり、どのような危険があるか分からない状態ということだ。\n他の隊員ならこんな任務は下さなかったが、貴官なら可能だと信じている。"
   },
   "124162319010888-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010888_NAME:[F]Kritias_Inferno01"
+    "name": "<font color=\"#ffd200\">$map:52100108$</font>へ移動してメイン制御機器を掌握し、戻ってくるように。"
   },
   "124162319010889-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010889_NAME:[F]Kritias_Inferno01"
+    "name": "よく聞こえる。\n<font color=\"#ffd200\">$map:52100108$</font>はどうだった？"
   },
   "124162319010890-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010890_NAME:[F]Kritias_Inferno01"
+    "name": "(タイレン王国の兵士が守っていたが、メイン制御機器を掌握したと言う。)"
   },
   "124162319010891-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010891_NAME:[F]Kritias_Inferno01"
+    "name": "貴官なら成功すると思っていた。\n長い任務だったな。 \nもう帰還してよい。"
   },
   "124162319010892-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0124162319010892_NAME:[F]Kritias_Inferno01"
+    "name": "$MyPCName$、戻ってきましたね！\n帰還が遅れて心配していました。"
   },
   "124162319010893-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010893_NAME:[F]Kritias_Inferno01"
+    "name": "(大したことではなかったと言う。)"
   },
   "124162319010894-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0124162319010894_NAME:[F]Kritias_Inferno01"
+    "name": "改めてゲオルクを代表して、スカイフォートレスとあなたに感謝の言葉を伝えねばなりませんね。\n皆さんの活躍のおかげで、<font color=\"#ffd200\">$map:02020013$</font>を越えてクリティアスの深層部へ進むことが夢ではなくなりました。"
   },
   "124162319010895-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010895_NAME:[F]Kritias_Inferno01"
+    "name": "(<font color=\"#ffd200\">$map:02020013$</font>には何があるのかと尋ねる。)"
   },
   "124162319010896-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0124162319010896_NAME:[F]Kritias_Inferno01"
+    "name": "間もなくその目で確かめられるはずです。"
   },
   "124162319010897-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010897_NAME:[F]Kritias_Inferno01"
+    "name": "何があろうと、我々を妨げるなら片付けるまでだ。"
   },
   "124162319010898-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010898_NAME:[F]Kritias_Inferno01"
+    "name": "スカイフォートレス全隊員に命じる。\n<font color=\"#ffd200\">$map:02020013$</font>を越える準備をせよ！"
   },
   "124162319010899-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010899_NAME:[F]Kritias_Inferno01"
+    "name": "$MyPCName$、隊員の活躍も期待している。\n準備が終わったら知らせよう。"
   },
   "124174019010900-Kritias_2018_12-": {
     "npc": "투르카",
-    "name": "SCRIPTQUEST_0124174019010900_NAME:[F]Kritias_2018_12"
+    "name": "バンゲンハイムの娘…彼女と対面して以来か？"
   },
   "124202519010901-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010901_NAME:[F]Kritias_2018_12"
+    "name": "クリティアスでの探検にも少しは慣れてきた気がします。\nですが気を緩めるわけにはいきませんね！"
   },
   "124202519010902-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124202519010902_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#909090\">($npcName:11004315[gender:0]$の適応力は大したものだな…。)</font>"
   },
   "124202519010903-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010903_NAME:[F]Kritias_2018_12"
+    "name": "今回はクリティアスの古い遺跡を精密に調査してみたいんです。\n探査隊員の報告によれば、クリティアスの遺跡はビクトリアアイランドの\n古代遺跡と似た建築様式を持っているそうです。"
   },
   "124202519010904-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010904_NAME:[F]Kritias_2018_12"
+    "name": "何だか興味が湧きませんか？\nクリティアスとメイプルワールドの文明のつながり…。 \nそのミッシングリンクを解き明かす機会かもしれません！"
   },
   "124202519010905-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010905_NAME:[F]Kritias_2018_12"
+    "name": "探査隊員が遺跡を探索しようとしましたが、失敗しました。 \nですが$MyPCName$様なら違いますよね？！<font color=\"#ffd200\">$map:02020003$</font>の座標をお送りします。\n到着されたらまた無線を入れますね！"
   },
   "124202519010906-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010906_NAME:[F]Kritias_2018_12"
+    "name": "$map:02020003$の座標をお送りします。\n到着されたらまた無線を入れますね！"
   },
   "124202519010907-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010907_NAME:[F]Kritias_2018_12"
+    "name": "$MyPCName$様！無事に到着されましたか？"
   },
   "124202519010908-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124202519010908_NAME:[F]Kritias_2018_12"
+    "name": "(到着したが、タイレンの兵力がびっしり展開していると言う。)"
   },
   "124202519010909-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010909_NAME:[F]Kritias_2018_12"
+    "name": "これは…奴らは私たちに敵対的なので、遺跡調査を妨害してくるに決まっています。"
   },
   "124202519010910-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010910_NAME:[F]Kritias_2018_12"
+    "name": "まずはタイレンの兵力を追い払うのが先です！\n<font color=\"#ffd200\">$npcName:25021504$</font>、<font color=\"#ffd200\">$npcName:25021505$</font>をできるだけ多く追い払ってください！"
   },
   "124202519010911-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010911_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$npcName:25021504$</font>、<font color=\"#ffd200\">$npcName:25021505$</font>をできるだけ多く追い払ってください！"
   },
   "124202519010912-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010912_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$npcName:25021504$</font>、<font color=\"#ffd200\">$npcName:25021505$</font>をできるだけ多く追い払ってください！"
   },
   "124202519010913-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010913_NAME:[F]Kritias_2018_12"
+    "name": "ふう～\nこれで探査を妨げるタイレンの兵力もだいぶ減りましたし、本業に専念しましょうか？？"
   },
   "124202519010914-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010914_NAME:[F]Kritias_2018_12"
+    "name": "あそこ！あそこ、一番大きな遺跡からです！"
   },
   "124202519010915-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124202519010915_NAME:[F]Kritias_2018_12"
+    "name": "(カメラがどこにあるのか分からないと言う。)"
   },
   "124202519010916-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010916_NAME:[F]Kritias_2018_12"
+    "name": "あっ！そうだ…こちらは「キャッツアイ衛星」で見ていたんでした…。\nすみません、机の上では現場の状況が分かりにくくてつい…。"
   },
   "124202519010917-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010917_NAME:[F]Kritias_2018_12"
+    "name": "カメラが設置された位置をナビゲーションへ送信します。\n表示された位置に到着したら、遺跡の写真を撮って送ってください！"
   },
   "124202519010918-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010918_NAME:[F]Kritias_2018_12"
+    "name": "カメラが設置された位置をナビゲーションへ送信します。\n表示された位置に到着したら、遺跡の写真を撮って送ってください！"
   },
   "124202519010919-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010919_NAME:[F]Kritias_2018_12"
+    "name": "カメラが設置された位置をナビゲーションへ送信します。\n表示された位置に到着したら、遺跡の写真を撮って送ってください！"
   },
   "124202519010920-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124202519010920_NAME:[F]Kritias_2018_12"
+    "name": "(ネイリンに写真を送信する。)"
   },
   "124202519010921-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010921_NAME:[F]Kritias_2018_12"
+    "name": "あっ！ありがとうございます！\nたった今、写真を全て受信しました！"
   },
   "124202519010922-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124202519010922_NAME:[F]Kritias_2018_12"
+    "name": "(ものすごく速いと言う。)"
   },
   "124202519010923-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010923_NAME:[F]Kritias_2018_12"
+    "name": "ふふふ…スカイフォートレスの技術陣が徹夜した成果です。\n私たちはクリティアスの上空にすでに数多くの通信衛星を打ち上げていて、\n通信衛星の全ての資料はスカイフォートレスへ送信されるんです。"
   },
   "124202519010924-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010924_NAME:[F]Kritias_2018_12"
+    "name": "おかげでスカイフォートレスの資料管理チームはデータの洪水で、毎日が生き地獄そのものですけど…。"
   },
   "124202519010925-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010925_NAME:[F]Kritias_2018_12"
+    "name": "でも探査の現場はそれ以上でしょうから。\nサポートのために最善を尽くさないと。"
   },
   "124202519010926-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010926_NAME:[F]Kritias_2018_12"
+    "name": "うーん～では写真を見てみましょうか～\nふーむ～ふむ～\nほお～"
   },
   "124202519010927-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124202519010927_NAME:[F]Kritias_2018_12"
+    "name": "(何かおかしな点でもあるのかと尋ねる。)"
   },
   "124202519010928-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010928_NAME:[F]Kritias_2018_12"
+    "name": "いいえ…むしろ予想通りすぎるんです。\nクリティアスの遺跡は、メイプルワールドの古代遺跡の建築様式と非常に多くの類似点を持っていますね。"
   },
   "124202519010929-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010929_NAME:[F]Kritias_2018_12"
+    "name": "果たしてこれは偶然でしょうか？\n偶然にしてはあまりに多くの部分が一致しています。\n特にこの柱をつなぐアーチ…そのつなぎ方まで…。"
   },
   "124202519010930-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010930_NAME:[F]Kritias_2018_12"
+    "name": "むしろ類似点が多すぎて、好奇心がさらに膨らみます。"
   },
   "124202519010931-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010931_NAME:[F]Kritias_2018_12"
+    "name": "だめです！\n遺跡の内部まで全部覗いてみたくなりました！"
   },
   "124202519010932-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010932_NAME:[F]Kritias_2018_12"
+    "name": "$map:52100106$の位置をナビゲーションに表示しますね！\nそこへ進入されたら、また連絡します！"
   },
   "124202519010933-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124202519010933_NAME:[F]Kritias_2018_12"
+    "name": "(遺跡の内部へ入ったら通信が途絶えるのではないかと尋ねる。)"
   },
   "124202519010934-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010934_NAME:[F]Kritias_2018_12"
+    "name": "えー～\nそんな心配をされると思って、あらかじめ位置増幅器「ファイアフライ」をポケットに入れておきました！"
   },
   "124202519010935-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124202519010935_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#909090\">(前にも似たようなことがあった気がするんだが…。)</font>"
   },
   "124202519010936-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010936_NAME:[F]Kritias_2018_12"
+    "name": "ファイアフライの位置補正、プラスマイナス1.2ポイント…。\n$MyPCName$様の位置情報の増幅を確認！\n信号の強さから見て、多少深い地下でも問題なさそうです。"
   },
   "124202519010937-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010937_NAME:[F]Kritias_2018_12"
+    "name": "$map:52100106$の位置をナビゲーションに表示しますね！\nそこへ進入されたら、また連絡します！"
   },
   "124202519010938-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010938_NAME:[F]Kritias_2018_12"
+    "name": "$map:52020006$の位置をナビゲーションに表示しますね！\nそこへ進入されたら、また連絡します！"
   },
   "124202519010939-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010939_NAME:[F]Kritias_2018_12"
+    "name": "$map:52020006$の位置をナビゲーションに表示しますね！\nそこへ進入されたら、また連絡します！"
   },
   "124202519010940-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010940_NAME:[F]Kritias_2018_12"
+    "name": "到着されましたか？\n$MyPCName$様…。"
   },
   "124202519010941-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010941_NAME:[F]Kritias_2018_12"
+    "name": "あっ！警報？\nこんな遺跡になぜこんな装置が？\n入口に侵入者感知装置があったようです！"
   },
   "124202519010942-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010942_NAME:[F]Kritias_2018_12"
+    "name": "ひとまず隠れないと！\n地形スキャン中…。"
   },
   "124202519010943-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010943_NAME:[F]Kritias_2018_12"
+    "name": "前方にちょうどいい部屋があります！\nそこへ隠れましょう！"
   },
   "124202519010944-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010944_NAME:[F]Kritias_2018_12"
+    "name": "前方にちょうどいい部屋があります！\nそこへ隠れましょう！"
   },
   "124202519010945-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010945_NAME:[F]Kritias_2018_12"
+    "name": "前方にちょうどいい部屋があります！\nそこへ隠れましょう！"
   },
   "124202519010946-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124202519010946_NAME:[F]Kritias_2018_12"
+    "name": "($npcName:11004315[gender:0]$に古い書物を発見したと言う。)"
   },
   "124202519010947-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010947_NAME:[F]Kritias_2018_12"
+    "name": "何が書かれているのか気になります。\nそれを持って$map:02020041$へ復帰してください！"
   },
   "124202519010948-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010948_NAME:[F]Kritias_2018_12"
+    "name": "何が書かれているのか気になります。\nそれを持って$map:02020041$へ復帰してください！"
   },
   "124202519010949-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010949_NAME:[F]Kritias_2018_12"
+    "name": "何が書かれているのか気になります。\nそれを持って$map:02020041$へ復帰してください！"
   },
   "124202519010950-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010950_NAME:[F]Kritias_2018_12"
+    "name": "古い書物を持ってきてくださったんですね！\n思わぬ収穫です。"
   },
   "124202519010951-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010951_NAME:[F]Kritias_2018_12"
+    "name": "侵入者を感知する装置があるほどなら、この古い書物には本当に重要な情報が収められているのではないでしょうか。"
   },
   "124202519010952-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010952_NAME:[F]Kritias_2018_12"
+    "name": "ふふふ…何が書かれているのか気になって仕方ありません…。"
   },
   "124202519010953-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0124202519010953_NAME:[F]Kritias_2018_12"
+    "name": "いやあ～目つきが怖いわね～！\nネイネイの秘密の本棚にあった「あの本」を見ていた時の目つきじゃない？"
   },
   "124202519010954-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010954_NAME:[F]Kritias_2018_12"
+    "name": "あ！！違います！ \n私が何の本を見たっていうんですか～！"
   },
   "124202519010955-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0124202519010955_NAME:[F]Kritias_2018_12"
+    "name": "ほら、あるじゃない！ヒョギの写真集とか…あと…。"
   },
   "124202519010956-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010956_NAME:[F]Kritias_2018_12"
+    "name": "きゃー！\nシャドウウィンド通信チャンネル遮断！！"
   },
   "124202519010957-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010957_NAME:[F]Kritias_2018_12"
+    "name": "ふぅ…。\n今$npcName:11004314[gender:1]$が言ったことは忘れてください。"
   },
   "124202519010958-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010958_NAME:[F]Kritias_2018_12"
+    "name": "コホン！コホン！\nともかく、重要な遺跡ですから私が入念に調査します。"
   },
   "124202519010959-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010959_NAME:[F]Kritias_2018_12"
+    "name": "まずクリティアス文字ライブラリをスキャナーに適用して、書物を翻訳してみます！"
   },
   "124202519010960-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010960_NAME:[F]Kritias_2018_12"
+    "name": "持ってきていただいた古い書物の解読は、30パーセントほどの進捗となっています。"
   },
   "124202519010961-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010961_NAME:[F]Kritias_2018_12"
+    "name": "クリティアス文字のデータライブラリが十分でないため解読率は低いのですが、データが蓄積されるほど解読率は上がると見られます。"
   },
   "124202519010962-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010962_NAME:[F]Kritias_2018_12"
+    "name": "これまで解読された内容を分析した結果、この書物は「誰か」の日記です。"
   },
   "124202519010963-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010963_NAME:[F]Kritias_2018_12"
+    "name": "まだその「誰か」の正体は分かりませんが、クリティアスについての多くの出来事が詳しく記されていました。"
   },
   "124202519010964-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010964_NAME:[F]Kritias_2018_12"
+    "name": "問題は、この書物の内容が真実なのか、虚構の創作物なのか分からないことです。\nもし事実を記録したものなら、私たちはクリティアスの歴史の重要な部分を知ることができます。"
   },
   "124202519010965-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010965_NAME:[F]Kritias_2018_12"
+    "name": "まず、この書物に記された内容の真偽を確かめなければなりません。\n書物に記された…<font color=\"#ffd200\">白く輝く美しい空の島々</font>…と描写されたこの場所…。"
   },
   "124202519010966-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124202519010966_NAME:[F]Kritias_2018_12"
+    "name": "この一文から推測できる場所といえば…。\nああ～どこのことを言っているんでしょう？"
   },
   "124202519010967-Kritias_2018_12-": {
     "npc": "PC",
@@ -14393,7 +14393,7 @@
   },
   "124202519010968-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124202519010968_NAME:[F]Kritias_2018_12"
+    "name": "$map:02020018$！！"
   },
   "124202519010969-Kritias_2018_12-": {
     "npc": "네이린",
@@ -102417,7 +102417,7 @@
   },
   "1031125219009937-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_1031125219009937_NAME:[F]Kritias_Inferno01"
+    "name": "分かった。\nではひとまず<font color=\"#ffd200\">$map:02020009$</font>へ移動して命令を待つように。"
   },
   "1031125219009938-Kritias_Inferno01-": {
     "npc": "마를레네",
@@ -102461,11 +102461,11 @@
   },
   "1031125219009948-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_1031125219009948_NAME:[F]Kritias_Inferno01"
+    "name": "<font color=\"#ffd200\">$map:52100108$</font>へ移動してメイン制御機器を掌握し、戻ってくるように。"
   },
   "1031125219009949-Kritias_Inferno01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_1031125219009949_NAME:[F]Kritias_Inferno01"
+    "name": "<font color=\"#ffd200\">$map:52100108$</font>へ移動してメイン制御機器を掌握し、戻ってくるように。"
   },
   "1031125219009950-Kritias_Inferno01-": {
     "npc": "PC",
