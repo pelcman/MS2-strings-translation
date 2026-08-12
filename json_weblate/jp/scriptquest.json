@@ -13521,39 +13521,39 @@
   },
   "123155819010750-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010750_NAME:[F]Kritias_2018_12"
+    "name": "何よりです。\n妨害の原因は追跡中です。"
   },
   "123155819010751-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0123155819010751_NAME:[F]Kritias_2018_12"
+    "name": "(ひとまず$map:02020041$へ行くと言う。)"
   },
   "123155819010752-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010752_NAME:[F]Kritias_2018_12"
+    "name": "…お待ちしています。"
   },
   "123155819010753-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0123155819010753_NAME:[F]Kritias_2018_12"
+    "name": "($map:02020033$での一部始終を話す。)"
   },
   "123155819010754-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010754_NAME:[F]Kritias_2018_12"
+    "name": "$npcName:11004430[gender:0]$が…。"
   },
   "123155819010755-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010755_NAME:[F]Kritias_2018_12"
+    "name": "それにしても何かおかしいですね。\n奴がそんな訳の分からないことを言うとは。"
   },
   "123155819010756-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010756_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">自分が何者なのか明確にできそうな気がする</font>、ですか。"
   },
   "123155819010757-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0123155819010757_NAME:[F]Kritias_2018_12"
+    "name": "(今まで見てきた姿とは少し違ったと言う。)"
   },
   "123155819010758-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010758_NAME:[F]Kritias_2018_12"
+    "name": "$MyPCName$様までそう思われるとは…。 \nそして、<font color=\"#ffd200\">$npcName:23000301$と$npcName:23000073$</font>の契約というのは？"
   },
   "123155819010759-Kritias_2018_12-": {
     "npc": "메이슨",
@@ -13561,23 +13561,23 @@
   },
   "123155819010760-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010760_NAME:[F]Kritias_2018_12"
+    "name": "ひとまず、奴が我々を混乱させようとする計略である可能性を考えます。\nこういう時こそ疑いの糸を手放してはいけません。"
   },
   "123155819010761-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010761_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$npcName:11004430[gender:0]$</font>を阻むため、今は<font color=\"#ffd200\">$npcName:23000073$</font>を追跡するのが先決です。"
   },
   "123155819010762-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0123155819010762_NAME:[F]Kritias_2018_12"
+    "name": "(うなずく。)"
   },
   "123155819010763-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010763_NAME:[F]Kritias_2018_12"
+    "name": "やはり同感なのですね。\nひとまず、今日はご苦労さまでした。\n全ての準備が整ったらまたお話ししましょう。"
   },
   "123155819010764-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010764_NAME:[F]Kritias_Zakum01"
+    "name": "…ついにその<font color=\"#ffd200\">$npcName:23000073$</font>という存在についてのルミナイツの調査結果が出ました。"
   },
   "123155819010765-Kritias_Zakum01-": {
     "npc": "PC",
@@ -13585,51 +13585,51 @@
   },
   "123155819010766-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010766_NAME:[F]Kritias_Zakum01"
+    "name": "<font color=\"#ffd200\">$npcName:23000073$</font>は<font color=\"#ffd200\">古代の悪魔</font>で、<font color=\"#ffd200\">クリティアスと共に封印された存在</font>だったそうです。\n<font color=\"#ffd200\">$npcName:23000073$</font>を降臨させられる<font color=\"#ffd200\">特定の儀式</font>があるという情報も併せて発見されました。"
   },
   "123155819010767-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010767_NAME:[F]Kritias_Zakum01"
+    "name": "ビクトリアアイランド側から<font color=\"#ffd200\">受け取った文献</font>によれば、\nかつて<font color=\"#ffd200\">メイプルワールド</font>にも降臨したことがあるそうです…。"
   },
   "123155819010768-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010768_NAME:[F]Kritias_Zakum01"
+    "name": "かつて彼が<font color=\"#ffd200\">降臨した場所</font>の<font color=\"#ffd200\">祭壇の儀式</font>をもとに分析を進め、\nその結果…<font color=\"#ffd200\">$npcName:23000073$</font>の真の位置を把握することに成功しました。"
   },
   "123155819010769-Kritias_Zakum01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0123155819010769_NAME:[F]Kritias_Zakum01"
+    "name": "それでは…。"
   },
   "123155819010770-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010770_NAME:[F]Kritias_Zakum01"
+    "name": "<font color=\"#ffd200\">$npcName:23000073$</font>は<font color=\"#ffd200\">$map:02020034$</font>にいます。\nそちらへ移動してください。"
   },
   "123155819010771-Kritias_Zakum01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0123155819010771_NAME:[F]Kritias_Zakum01"
+    "name": "(到着したと言う。)"
   },
   "123155819010772-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010772_NAME:[F]Kritias_Zakum01"
+    "name": "<font color=\"#ffd200\">$map:02020034$</font>は、<font color=\"#ffd200\">機械兵</font>が守っていると聞いています。\n<font color=\"#ffd200\">$npcName:23000073$</font>との戦闘に彼らが影響を与えうると考えますが…。"
   },
   "123155819010773-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010773_NAME:[F]Kritias_Zakum01"
+    "name": "<font color=\"#ffd200\">$npcName:25020801$、$npcName:25020803$、$npcName:25020805$</font>を速やかに退治してください。\nではお願いします。"
   },
   "123155819010774-Kritias_Zakum01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0123155819010774_NAME:[F]Kritias_Zakum01"
+    "name": "(これで<font color=\"#ffd200\">$npcName:23000073$</font>を倒しに行けばいいのかと尋ねる。)"
   },
   "123155819010775-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010775_NAME:[F]Kritias_Zakum01"
+    "name": "…$MyPCName$、<font color=\"#ffd200\">$npcName:23000073$</font>はそう甘い相手ではありません。\nですから、それに対する<font color=\"#ffd200\">備え</font>が徹底的に必要です。"
   },
   "123155819010776-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010776_NAME:[F]Kritias_Zakum01"
+    "name": "周囲を見回せば、<font color=\"#ffd200\">正体不明のトーテム</font>が存在するはずです。\n<font color=\"#ffd200\">$npcName:23000073$</font>に力を与える<font color=\"#ffd200\">儀式のかけられたトーテム</font>だそうです。"
   },
   "123155819010777-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010777_NAME:[F]Kritias_Zakum01"
+    "name": "それらを全て破壊してください。"
   },
   "123155819010778-Kritias_Zakum01-": {
     "npc": "PC",
@@ -13637,43 +13637,43 @@
   },
   "123155819010779-Kritias_Zakum01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0123155819010779_NAME:[F]Kritias_Zakum01"
+    "name": "(これで全ての準備が整ったようだと言う。)"
   },
   "123155819010780-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010780_NAME:[F]Kritias_Zakum01"
+    "name": "…承知しました。\nでは<font color=\"#ffd200\">$npcName:23000073$</font>、あの悪魔の退治をお願いします。"
   },
   "123155819010781-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010781_NAME:[F]Kritias_Zakum01"
+    "name": "どうかお気をつけて。"
   },
   "123155819010782-Kritias_Zakum01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0123155819010782_NAME:[F]Kritias_Zakum01"
+    "name": "$npcName:11004430[gender:0]$？！"
   },
   "123155819010783-Kritias_Zakum01-": {
     "npc": "투르카",
-    "name": "SCRIPTQUEST_0123155819010783_NAME:[F]Kritias_Zakum01"
+    "name": "貴様がいくら私を妨げようともがいたところで無駄だ。\n死ぬ日を早めるだけのこと。\n面白い。"
   },
   "123155819010784-Kritias_Zakum01-": {
     "npc": "투르카",
-    "name": "SCRIPTQUEST_0123155819010784_NAME:[F]Kritias_Zakum01"
+    "name": "…だが、こんなネズミどもの争いに私が気を使う必要はない。\nより重要な用があるのでな。"
   },
   "123155819010785-Kritias_Zakum01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0123155819010785_NAME:[F]Kritias_Zakum01"
+    "name": "それはどういう意味だ？"
   },
   "123155819010786-Kritias_Zakum01-": {
     "npc": "투르카",
-    "name": "SCRIPTQUEST_0123155819010786_NAME:[F]Kritias_Zakum01"
+    "name": "必死にもがく貴様の姿を見られないのは残念だ。\nではな。"
   },
   "123155819010787-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010787_NAME:[F]Kritias_Zakum01"
+    "name": "どうなりましたか？"
   },
   "123155819010788-Kritias_Zakum01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0123155819010788_NAME:[F]Kritias_Zakum01"
+    "name": "(成功したようだと言う。)"
   },
   "123155819010789-Kritias_Zakum01-": {
     "npc": "메이슨",
@@ -13681,15 +13681,15 @@
   },
   "123155819010790-Kritias_Zakum01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0123155819010790_NAME:[F]Kritias_Zakum01"
+    "name": "(ひとまず$map:02020041$へ帰還すると言う。)"
   },
   "123155819010791-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010791_NAME:[F]Kritias_Zakum01"
+    "name": "お待ちしています。\nどうかお気をつけてお越しください。"
   },
   "123155819010792-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010792_NAME:[F]Kritias_Zakum01"
+    "name": "あの古代の悪魔の退治に成功するとは…。\nさすが$MyPCName$様です。"
   },
   "123155819010793-Kritias_Zakum01-": {
     "npc": "PC",
@@ -13697,7 +13697,7 @@
   },
   "123155819010794-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010794_NAME:[F]Kritias_Zakum01"
+    "name": "実は$npcName:23000073$が片付いたとはいえ、 \n気にかかる問題がもう一つあるのですが…。"
   },
   "123155819010795-Kritias_Zakum01-": {
     "npc": "PC",
@@ -13705,87 +13705,87 @@
   },
   "123155819010796-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010796_NAME:[F]Kritias_Zakum01"
+    "name": "今すぐ気にすべき問題ではありませんが…。\n<font color=\"#ffd200\">$npcName:23000301$と$npcName:11004430[gender:0]$</font>から感じられる<font color=\"#ffd200\">闇の力</font>が、\nここクリティアスの<font color=\"#ffd200\">闇の力と類似している</font>という結果が出ました。"
   },
   "123155819010797-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010797_NAME:[F]Kritias_Zakum01"
+    "name": "そして、その闇の力がまるでネットワークのような形をしていて…。\n非常に気にかかりますね。"
   },
   "123155819010798-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010798_NAME:[F]Kritias_Zakum01"
+    "name": "$npcName:11004430[gender:0]$の陰謀はひとまず阻みましたが、まだ多くの秘密が残っているようです。\nきっといつか突き止める、また明らかになる問題でしょう。"
   },
   "123155819010799-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0123155819010799_NAME:[F]Kritias_Zakum01"
+    "name": "ともあれ、ご苦労さまでした。 \n$MyPCName$様の底力を改めて知ることができました。"
   },
   "124162319010800-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010800_NAME:[F]Kritias_Inferno01"
+    "name": "本来ならここに<font color=\"#ffd200\">$npcName:11004555[gender:0]$</font>様が到着してからブリーフィングを始めるべきだが、一刻を争う状況だ。\nまずは無線を通じてブリーフィングを行う。\n<font color=\"#ffd200\">$npcName:11004315[gender:0]$</font>、接続を頼む。"
   },
   "124162319010801-Kritias_Inferno01-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124162319010801_NAME:[F]Kritias_Inferno01"
+    "name": "はい、接続完了です。\nこちらスカイフォートレス。 \n<font color=\"#ffd200\">$npcName:11004555[gender:0]$</font>様、聞こえますか？"
   },
   "124162319010802-Kritias_Inferno01-": {
     "npc": "트리스탄",
-    "name": "SCRIPTQUEST_0124162319010802_NAME:[F]Kritias_Inferno01"
+    "name": "ああ、こうすればいいのか？\nこれは実に不思議だな。昔ひとりで戦っていた頃は、こんな技術は思いもよらなかった。ところでこれ、今聞こえているのか？なぜ誰も返事をしないんだ？ああ、まだつながっていないのか？もっとも、いくら技術が進歩したといっても、こんなものがすぐつながるはずもないな。"
   },
   "124162319010803-Kritias_Inferno01-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124162319010803_NAME:[F]Kritias_Inferno01"
+    "name": "<font color=\"#ffd200\">$npcName:11004555[gender:0]$</font>様、接続完了です。\n相変わらずですね…。"
   },
   "124162319010804-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010804_NAME:[F]Kritias_Inferno01"
+    "name": "(本当にそうだと言う。)"
   },
   "124162319010805-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010805_NAME:[F]Kritias_Inferno01"
+    "name": "全て聞こえています。\nまず、急な呼び出しにもかかわらず早くお越しくださり感謝します。"
   },
   "124162319010806-Kritias_Inferno01-": {
     "npc": "트리스탄",
-    "name": "SCRIPTQUEST_0124162319010806_NAME:[F]Kritias_Inferno01"
+    "name": "いやなに、あやつがいるなら当然わしが来なければならん。\nそれにしてもここは実に不思議だな。 \n感じられる気配が実に独特だ。"
   },
   "124162319010807-Kritias_Inferno01-": {
     "npc": "트리스탄",
-    "name": "SCRIPTQUEST_0124162319010807_NAME:[F]Kritias_Inferno01"
+    "name": "ああ、この気配について説明が必要だな。\n<font size='10'>我が家に伝わる書、「デイウォーカーの冒険」に記されていた一節だ。ちなみにデイウォーカーとは我が家のごく遠い先祖でな。おそらくセイジたちが生きていた時代に共に活動していたのだろう。これは重要な話ではないから後で改めて説明しよう。さて元の話に戻るとしよう。「デイウォーカーの冒険」にはこう記されている。「私が知っていたあらゆる常識が崩れる感覚だった。我々の世界には存在しない力とは。世界は広く、まだ学ぶことは多いのだと悟った。</font>"
   },
   "124162319010808-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010808_NAME:[F]Kritias_Inferno01"
+    "name": "それより、ここで<font color=\"#ffd200\">$npcName:23000150[gender:0]$</font>の気配は感じられますか？"
   },
   "124162319010809-Kritias_Inferno01-": {
     "npc": "트리스탄",
-    "name": "SCRIPTQUEST_0124162319010809_NAME:[F]Kritias_Inferno01"
+    "name": "ここの異質な気配のせいで<font color=\"#ffd200\">$npcName:23000150[gender:0]$</font>の気を正確に捉えるのが難しい。\nどうやらここに慣れる時間が必要のようだ。"
   },
   "124162319010810-Kritias_Inferno01-": {
     "npc": "트리스탄",
-    "name": "SCRIPTQUEST_0124162319010810_NAME:[F]Kritias_Inferno01"
+    "name": "<font color=\"#ffd200\">$map:02020041$</font>に着いてから周りを歩き回れば、もっとはっきり言えるようになると思う。\n自分で隅々まで確かめたいのだが、構わんな？"
   },
   "124162319010811-Kritias_Inferno01-": {
     "npc": "콘대르",
-    "name": "SCRIPTQUEST_0124162319010811_NAME:[F]Kritias_Inferno01"
+    "name": "いや、来てからいくらも経っていないのに一人でうろつくだと？！\nここがどれほど危険か分かっているのか？！"
   },
   "124162319010812-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010812_NAME:[F]Kritias_Inferno01"
+    "name": "私も<font color=\"#ffd200\">$npcName:11004313[gender:0]$</font>部長と同じ意見です。\n単独行動は許可できません。\n<font color=\"#ffd200\">$npcName:11004555[gender:0]$</font>様はまだここがどんな場所か分かっていません。"
   },
   "124162319010813-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010813_NAME:[F]Kritias_Inferno01"
+    "name": "だからといって何もしないという意味ではありません。\n$MyPCName$、支援は可能か？"
   },
   "124162319010814-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010814_NAME:[F]Kritias_Inferno01"
+    "name": "もちろんです。"
   },
   "124162319010815-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010815_NAME:[F]Kritias_Inferno01"
+    "name": "よし。<font color=\"#ffd200\">$npcName:11004555[gender:0]$</font>様がこちらへ来られる間、<font color=\"#ffd200\">$npcName:11004315[gender:0]$</font>は過去に<font color=\"#ffd200\">$npcName:23000150[gender:0]$</font>を追跡したデータをもとに携帯用感知器を作っていた。"
   },
   "124162319010816-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010816_NAME:[F]Kritias_Inferno01"
+    "name": "その感知器の信号を見ながら移動し、<font color=\"#ffd200\">$npcName:23000150[gender:0]$</font>のいそうな場所を絞り込んだ後、<font color=\"#ffd200\">$npcName:11004555[gender:0]$</font>様と確認すればよかろう。\n質問はあるか？"
   },
   "124162319010817-Kritias_Inferno01-": {
     "npc": "PC",
@@ -13793,7 +13793,7 @@
   },
   "124162319010818-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010818_NAME:[F]Kritias_Inferno01"
+    "name": "よし。 \nまずは感知器に表示された通り<font color=\"#ffd200\">$map:02020003$</font>へ移動するように。"
   },
   "124162319010819-Kritias_Inferno01-": {
     "npc": "PC",
@@ -13801,155 +13801,155 @@
   },
   "124162319010820-Kritias_Inferno01-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124162319010820_NAME:[F]Kritias_Inferno01"
+    "name": "感知器のデータはこちらでも一緒にモニタリング中です。\n異常が発生したらすぐお伝えしますので、迅速な対応をお願いしますね！"
   },
   "124162319010821-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010821_NAME:[F]Kritias_Inferno01"
+    "name": "(それは監視ではないのかと尋ねる。)"
   },
   "124162319010822-Kritias_Inferno01-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124162319010822_NAME:[F]Kritias_Inferno01"
+    "name": "あら？データに問題がないか確認しているだけですけど？\nさあ、もう感知器のデータに異常が見えますね。\n近くのタイレン兵士とケルベス隊員が持っているエネルのせいで、感知器が誤作動しているようです。"
   },
   "124162319010823-Kritias_Inferno01-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124162319010823_NAME:[F]Kritias_Inferno01"
+    "name": "まず正確なデータを得るために、<font color=\"#ffd200\">$npcName:25021504$</font>と<font color=\"#ffd200\">$npcName:25021505$</font>、そして<font color=\"#ffd200\">$npcName:25021502$</font>を片付けていただけますか？"
   },
   "124162319010824-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010824_NAME:[F]Kritias_Inferno01"
+    "name": "<font color=\"#ffd200\">$npcName:23000150[gender:0]$</font>の位置は？"
   },
   "124162319010825-Kritias_Inferno01-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124162319010825_NAME:[F]Kritias_Inferno01"
+    "name": "ここからそう遠くありません。\nデータを分析した結果、<font color=\"#ffd200\">$map:02020018$</font>にいると推定されます。"
   },
   "124162319010826-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010826_NAME:[F]Kritias_Inferno01"
+    "name": "そうか。"
   },
   "124162319010827-Kritias_Inferno01-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0124162319010827_NAME:[F]Kritias_Inferno01"
+    "name": "艦長、位置を突き止めただけで満足すべきではないでしょうか？\n前回はスカイフォートレスまで動員しても殺せなかった<font color=\"#ffd200\">$npcName:23000150[gender:0]$</font>です。\nやみくもに突入するのは危険です。"
   },
   "124162319010828-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010828_NAME:[F]Kritias_Inferno01"
+    "name": "その通りだ。\n$MyPCName$、ひとまず復帰…。"
   },
   "124162319010829-Kritias_Inferno01-": {
     "npc": "트리스탄",
-    "name": "SCRIPTQUEST_0124162319010829_NAME:[F]Kritias_Inferno01"
+    "name": "ああ、ちゃんと聞こえると言ったな？"
   },
   "124162319010830-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010830_NAME:[F]Kritias_Inferno01"
+    "name": "<font color=\"#ffd200\">$npcName:11004555[gender:0]$</font>様？"
   },
   "124162319010831-Kritias_Inferno01-": {
     "npc": "트리스탄",
-    "name": "SCRIPTQUEST_0124162319010831_NAME:[F]Kritias_Inferno01"
+    "name": "$MyPCName$、わしは今<font color=\"#ffd200\">$npcName:23000150[gender:0]$</font>のいる場所へ向かっている！\nついに…ついにあやつを殺す方法を突き止めたぞ！！"
   },
   "124162319010832-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010832_NAME:[F]Kritias_Inferno01"
+    "name": "奴を殺す方法を突き止めたというのですか？！"
   },
   "124162319010833-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010833_NAME:[F]Kritias_Inferno01"
+    "name": "(それは何かと尋ねる。)"
   },
   "124162319010834-Kritias_Inferno01-": {
     "npc": "트리스탄",
-    "name": "SCRIPTQUEST_0124162319010834_NAME:[F]Kritias_Inferno01"
+    "name": "それはまさに、これまで存在しなかったまったく新しい力だ！\nここにしか存在しないエネルなら、<font color=\"#ffd200\">$npcName:23000150[gender:0]$</font>にも直接的な打撃を与えられるはずだ！"
   },
   "124162319010835-Kritias_Inferno01-": {
     "npc": "트리스탄",
-    "name": "SCRIPTQUEST_0124162319010835_NAME:[F]Kritias_Inferno01"
+    "name": "わしはたった今、<font color=\"#ffd200\">$npcName:11004315[gender:0]$</font>が保管していたエネルを一つ確保した。\n念のため口にしてみたら、全身に新しい力が流れるのを感じられたぞ。\n確信している、この力ならあやつを殺せる！"
   },
   "124162319010836-Kritias_Inferno01-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0124162319010836_NAME:[F]Kritias_Inferno01"
+    "name": "いえ、それはいつ持って行かれたんですか？\nそれに…それをまた口にされたんですって？！"
   },
   "124162319010837-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010837_NAME:[F]Kritias_Inferno01"
+    "name": "あまりに無謀です。\n<font color=\"#ffd200\">$npcName:11004555[gender:0]$</font>様、$MyPCName$。\n今すぐ帰還を命じます。"
   },
   "124162319010838-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010838_NAME:[F]Kritias_Inferno01"
+    "name": "(通用するかどうかは試してみれば分かると言う。)"
   },
   "124162319010839-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010839_NAME:[F]Kritias_Inferno01"
+    "name": "危険すぎる、$MyPCName$！！"
   },
   "124162319010840-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010840_NAME:[F]Kritias_Inferno01"
+    "name": "艦長の隊員を信じてください。\n必ず戻ってきます。"
   },
   "124162319010841-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010841_NAME:[F]Kritias_Inferno01"
+    "name": "…約束できるか？"
   },
   "124162319010842-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010842_NAME:[F]Kritias_Inferno01"
+    "name": "はい。約束します。"
   },
   "124162319010843-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010843_NAME:[F]Kritias_Inferno01"
+    "name": "分かった。<font color=\"#ffd200\">$npcName:23000150[gender:0]$</font>の討伐を命じる。\n必ず…必ず無事に戻ってこい。"
   },
   "124162319010844-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010844_NAME:[F]Kritias_Inferno01"
+    "name": "(よく聞こえると言う。)"
   },
   "124162319010845-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010845_NAME:[F]Kritias_Inferno01"
+    "name": "隊員と<font color=\"#ffd200\">$npcName:11004555[gender:0]$</font>様は無事か？"
   },
   "124162319010846-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010846_NAME:[F]Kritias_Inferno01"
+    "name": "(二人とも無事で、<font color=\"#ffd200\">$npcName:23000150[gender:0]$</font>も倒したと言う。)"
   },
   "124162319010847-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010847_NAME:[F]Kritias_Inferno01"
+    "name": "本当に何よりだ。\n詳しい報告は<font color=\"#ffd200\">$map:02020041$</font>で受ける。できるだけ早く帰還するように。"
   },
   "124162319010848-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010848_NAME:[F]Kritias_Inferno01"
+    "name": "(戻ることを拒んだと言う。)"
   },
   "124162319010849-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010849_NAME:[F]Kritias_Inferno01"
+    "name": "拒まれただと？"
   },
   "124162319010850-Kritias_Inferno01-": {
     "npc": "콘대르",
-    "name": "SCRIPTQUEST_0124162319010850_NAME:[F]Kritias_Inferno01"
+    "name": "本当に<font color=\"#ffd200\">$npcName:23000150[gender:0]$</font>が死んだのか確かめたいのだろうな。\nあやつの家に代々受け継がれてきた務めだ、終わったという実感が湧かんのだろう。"
   },
   "124162319010851-Kritias_Inferno01-": {
     "npc": "콘대르",
-    "name": "SCRIPTQUEST_0124162319010851_NAME:[F]Kritias_Inferno01"
+    "name": "見るまでもなく、その辺りで本当に終わったのか確かめているはずだ。\nあやつの性格は元来そういうものだ。"
   },
   "124162319010852-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010852_NAME:[F]Kritias_Inferno01"
+    "name": "(部長のおっしゃる通りだと言う。)"
   },
   "124162319010853-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010853_NAME:[F]Kritias_Inferno01"
+    "name": "そうか？もっとも、あの方にも心を整理する時間が必要だろうな。\n我々が勝利を祝う時間を必要とするようにな。"
   },
   "124162319010854-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010854_NAME:[F]Kritias_Inferno01"
+    "name": "本当にご苦労だった、$MyPCName$。\nまだここでの務めは残っているが、しばし勝利の余韻を楽しむのもよかろう。"
   },
   "124162319010855-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010855_NAME:[F]Kritias_Inferno01"
+    "name": "皆と共にこの喜びを存分に味わうように。"
   },
   "124162319010856-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010856_NAME:[F]Kritias_Inferno01"
+    "name": "(任務を遂行しただけだと言う。)"
   },
   "124162319010857-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0124162319010857_NAME:[F]Kritias_Inferno01"
+    "name": "フッ、そうか？\n我々を妨げる勢力はほぼ片付いたようだから、クリティアスの奥深くへ探査を進めたいと考えている。"
   },
   "124162319010858-Kritias_Inferno01-": {
     "npc": "블리체",
@@ -102345,7 +102345,7 @@
   },
   "1031125219009919-Kritias_Inferno01-": {
     "npc": "트리스탄",
-    "name": "SCRIPTQUEST_1031125219009919_NAME:[F]Kritias_Inferno01"
+    "name": "いやなに、あやつがいるなら当然わしが来なければならん。\nそれにしてもここは実に不思議だな。 \n感じられる気配が実に独特だ。"
   },
   "1031125219009920-Kritias_Inferno01-": {
     "npc": "트리스탄",
@@ -102353,11 +102353,11 @@
   },
   "1031125219009921-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_1031125219009921_NAME:[F]Kritias_Inferno01"
+    "name": "それより、ここで<font color=\"#ffd200\">$npcName:23000150[gender:0]$</font>の気配は感じられますか？"
   },
   "1031125219009922-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_1031125219009922_NAME:[F]Kritias_Inferno01"
+    "name": "それより、ここで<font color=\"#ffd200\">$npcName:23000150[gender:0]$</font>の気配は感じられますか？"
   },
   "1031125219009923-Kritias_Inferno01-": {
     "npc": "트리스탄",
@@ -102377,11 +102377,11 @@
   },
   "1031125219009927-Kritias_Inferno01-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_1031125219009927_NAME:[F]Kritias_Inferno01"
+    "name": "まず正確なデータを得るために、<font color=\"#ffd200\">$npcName:25021504$</font>と<font color=\"#ffd200\">$npcName:25021505$</font>、そして<font color=\"#ffd200\">$npcName:25021502$</font>を片付けていただけますか？"
   },
   "1031125219009928-Kritias_Inferno01-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_1031125219009928_NAME:[F]Kritias_Inferno01"
+    "name": "まず正確なデータを得るために、<font color=\"#ffd200\">$npcName:25021504$</font>と<font color=\"#ffd200\">$npcName:25021505$</font>、そして<font color=\"#ffd200\">$npcName:25021502$</font>を片付けていただけますか？"
   },
   "1031125219009929-Kritias_Inferno01-": {
     "npc": "네이린",
@@ -102389,11 +102389,11 @@
   },
   "1031125219009930-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_1031125219009930_NAME:[F]Kritias_Inferno01"
+    "name": "分かった。<font color=\"#ffd200\">$npcName:23000150[gender:0]$</font>の討伐を命じる。\n必ず…必ず無事に戻ってこい。"
   },
   "1031125219009931-Kritias_Inferno01-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_1031125219009931_NAME:[F]Kritias_Inferno01"
+    "name": "分かった。<font color=\"#ffd200\">$npcName:23000150[gender:0]$</font>の討伐を命じる。\n必ず…必ず無事に戻ってこい。"
   },
   "1031125219009932-Kritias_Inferno01-": {
     "npc": "블리체",
@@ -102561,7 +102561,7 @@
   },
   "1031125219010027-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_1031125219010027_NAME:[F]Kritias_Zakum01"
+    "name": "<font color=\"#ffd200\">$npcName:23000073$</font>は<font color=\"#ffd200\">$map:02020034$</font>にいます。\nそちらへ移動してください。"
   },
   "1031125219010028-Kritias_Zakum01-": {
     "npc": "메이슨",
@@ -102581,11 +102581,11 @@
   },
   "1031125219010032-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_1031125219010032_NAME:[F]Kritias_Zakum01"
+    "name": "それらを全て破壊してください。"
   },
   "1031125219010033-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_1031125219010033_NAME:[F]Kritias_Zakum01"
+    "name": "それらを全て破壊してください。"
   },
   "1031125219010034-Kritias_Zakum01-": {
     "npc": "메이슨",
@@ -102617,11 +102617,11 @@
   },
   "1031125219010041-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_1031125219010041_NAME:[F]Kritias_Zakum01"
+    "name": "お待ちしています。\nどうかお気をつけてお越しください。"
   },
   "1031125219010042-Kritias_Zakum01-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_1031125219010042_NAME:[F]Kritias_Zakum01"
+    "name": "お待ちしています。\nどうかお気をつけてお越しください。"
   },
   "1031125219010043-Kritias_Zakum01-": {
     "npc": "메이슨",
