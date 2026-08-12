@@ -619,6 +619,12 @@
       "ko": "칸투랑",
       "source": "session",
       "note": "モラン族の長(11004620)"
+    },
+    "Hallstatt": {
+      "ja": "ハルシュタット",
+      "ko": "홀슈타트",
+      "source": "jms2 (chapterdescription_epic: ハルシュタットの計略)",
+      "note": "最強の剣士。ホルシュタットではない"
     }
   },
   "mascots_pets": {
@@ -873,11 +879,6 @@
       "ja": "バズの知恵",
       "ko": "바즈의 지혜",
       "source": "jms2 (questdescription)"
-    },
-    "Holstadt": {
-      "ja": "ホルシュタット",
-      "ko": "홀슈타트",
-      "source": "session"
     },
     "Tius Core": {
       "ja": "ティウスコア",

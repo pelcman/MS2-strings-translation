@@ -33603,22 +33603,22 @@
     "type": "ShowCountUI"
   },
   "83000002_COLOSSEUM__ROUND8__3-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND8__3_NAME:[F]Colosseum01",
+    "name": "そなたの退屈が見えるようだな。そこでこれからは、このクイーンビーンが面白いものを用意した。期待するがよい！",
     "npc": "퀸크빈",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND8__4-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND8__4_NAME:[F]Colosseum01",
+    "name": "そなたの退屈が見えるようだな。そこでこれからは、このクイーンビーンが面白いものを用意した。期待するがよい！",
     "npc": "퀸크빈",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND8__5-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND8__5_NAME:[F]Colosseum01",
+    "name": "行く手を阻むな。生きたければ…。",
     "npc": "파토스",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND8__6-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND8__6_NAME:[F]Colosseum01",
+    "name": "ここまでか…。",
     "npc": "파토스",
     "type": "AddBalloonTalk"
   },
@@ -33653,7 +33653,7 @@
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND9__0-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND9__0_NAME:[F]Colosseum01",
+    "name": "優勝候補が見えてきましたね！実質的な黒星会のナンバー2！引き締まった筋肉が脅威的なバサラ・チェン選手の登場です！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
@@ -33668,12 +33668,12 @@
     "type": "ShowCountUI"
   },
   "83000002_COLOSSEUM__ROUND9__3-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND9__3_NAME:[F]Colosseum01",
+    "name": "トライアの英雄の実力を確かめてやろう。",
     "npc": "바사라 첸",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND9__4-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND9__4_NAME:[F]Colosseum01",
+    "name": "俺の修練が足りなかったな…。",
     "npc": "바사라 첸",
     "type": "AddBalloonTalk"
   },
@@ -33688,7 +33688,7 @@
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND9__7-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND9__7_NAME:[F]Colosseum01",
+    "name": "敗北しました。試合が終了します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -33698,17 +33698,17 @@
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND9__9-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND9__9_NAME:[F]Colosseum01",
+    "name": "Round9 勝利！！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND9__10-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND9__10_NAME:[F]Colosseum01",
+    "name": "Round9 失敗。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND9__11-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND9__11_NAME:[F]Colosseum01",
+    "name": "気に入った奴だな。お前、私の騎士にならないか？",
     "npc": "퀸크빈",
     "type": "SideNpcTalk"
   },
@@ -36643,12 +36643,12 @@
     "type": "이벤트UI를설정한다"
   },
   "83000003_COLOSSEUM__ROUND10__10-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND10__10_NAME:[F]Colosseum02",
+    "name": "さすが名は体を表すですね！まだ終わりではありません、気を緩めないでください！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND11__0-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND11__0_NAME:[F]Colosseum02",
+    "name": "ついに彼の登場です！氷のように冷たい瞳！最強の剣士ハルシュタットです！！！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
@@ -36663,12 +36663,12 @@
     "type": "ShowCountUI"
   },
   "83000003_COLOSSEUM__ROUND11__3-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND11__3_NAME:[F]Colosseum02",
+    "name": "ようやくまともに戦えそうだな。",
     "npc": "홀슈타트",
     "type": "AddBalloonTalk"
   },
   "83000003_COLOSSEUM__ROUND11__4-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND11__4_NAME:[F]Colosseum02",
+    "name": "くうっ…。お前、これほどの実力だったとは。",
     "npc": "홀슈타트",
     "type": "AddBalloonTalk"
   },
@@ -36683,7 +36683,7 @@
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND11__7-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND11__7_NAME:[F]Colosseum02",
+    "name": "敗北しました。試合が終了します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -36693,22 +36693,22 @@
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND11__9-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND11__9_NAME:[F]Colosseum02",
+    "name": "Round11 勝利！！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000003_COLOSSEUM__ROUND11__10-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND11__10_NAME:[F]Colosseum02",
+    "name": "Round11 失敗。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000003_COLOSSEUM__ROUND11__11-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND11__11_NAME:[F]Colosseum02",
+    "name": "残念だな…。いい男の剣士だったのに…。",
     "npc": "퀸크빈",
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND12__0-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND12__0_NAME:[F]Colosseum02",
+    "name": "おや、この方は？！目を凝らして見直しても…可愛いいたずらっ子、マドリア選手です！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
@@ -36723,12 +36723,12 @@
     "type": "ShowCountUI"
   },
   "83000003_COLOSSEUM__ROUND12__3-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND12__3_NAME:[F]Colosseum02",
+    "name": "こんにちは？また会ったね？思いっきり遊ぼうよ！！！",
     "npc": "마드리아",
     "type": "AddBalloonTalk"
   },
   "83000003_COLOSSEUM__ROUND12__4-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND12__4_NAME:[F]Colosseum02",
+    "name": "またなの？！あんな若造にまた負けるなんて…。",
     "npc": "마드리아",
     "type": "AddBalloonTalk"
   },
@@ -36748,22 +36748,22 @@
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND12__8-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND12__8_NAME:[F]Colosseum02",
+    "name": "Round12 勝利！！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000003_COLOSSEUM__ROUND12__9-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND12__9_NAME:[F]Colosseum02",
+    "name": "Round12 失敗。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000003_COLOSSEUM__ROUND12__10-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND12__10_NAME:[F]Colosseum02",
+    "name": "あはは…。すさまじく殺伐とした試合でした…。次のラウンド、開始します！！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND13__0-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND13__0_NAME:[F]Colosseum02",
+    "name": "神秘といえばミエル！ミエルといえば神秘！ベールに包まれた男、ミエル選手です！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
@@ -36778,12 +36778,12 @@
     "type": "ShowCountUI"
   },
   "83000003_COLOSSEUM__ROUND13__3-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND13__3_NAME:[F]Colosseum02",
+    "name": "君を傷つけたくはないけど…。よろしく頼むよ。",
     "npc": "미엘",
     "type": "AddBalloonTalk"
   },
   "83000003_COLOSSEUM__ROUND13__4-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND13__4_NAME:[F]Colosseum02",
+    "name": "うっ…。ルチェ、大丈夫？",
     "npc": "미엘",
     "type": "AddBalloonTalk"
   },
@@ -36803,17 +36803,17 @@
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND13__8-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND13__8_NAME:[F]Colosseum02",
+    "name": "Round13 勝利！！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000003_COLOSSEUM__ROUND13__9-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND13__9_NAME:[F]Colosseum02",
+    "name": "Round13 失敗。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000003_COLOSSEUM__ROUND13__10-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND13__10_NAME:[F]Colosseum02",
+    "name": "数多くの挑戦者を退け、真の勝者が誕生しました！！！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
@@ -37028,187 +37028,187 @@
     "type": "ShowCountUI"
   },
   "84000006_WD__84000006_WD_MAIN__0-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__0_NAME:[F]Wedding",
+    "name": "アフターパーティーへようこそ！",
     "npc": "레인보우 유니콘 피냐타",
     "type": "AddBalloonTalk"
   },
   "84000006_WD__84000006_WD_MAIN__1-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__1_NAME:[F]Wedding",
+    "name": "私の名前はレインボーピニャータ！",
     "npc": "레인보우 유니콘 피냐타",
     "type": "AddBalloonTalk"
   },
   "84000006_WD__84000006_WD_MAIN__2-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__2_NAME:[F]Wedding",
+    "name": "もうすぐパーティーを始め…うっ！",
     "npc": "레인보우 유니콘 피냐타",
     "type": "AddBalloonTalk"
   },
   "84000006_WD__84000006_WD_MAIN__3-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__3_NAME:[F]Wedding",
+    "name": "結婚式を…\\n台無しにしてやる…。",
     "npc": "한 맺힌 솔로 악령",
     "type": "AddBalloonTalk"
   },
   "84000006_WD__84000006_WD_MAIN__4-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__4_NAME:[F]Wedding",
+    "name": "みんな…\\n憎い…。",
     "npc": "한 맺힌 솔로 악령",
     "type": "AddBalloonTalk"
   },
   "84000006_WD__84000006_WD_MAIN__5-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__5_NAME:[F]Wedding",
+    "name": "こいつはまずい！リス港口のソロ悪霊だ！",
     "npc": "콘대르",
     "type": "SideNpcTalk"
   },
   "84000006_WD__84000006_WD_MAIN__6-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__6_NAME:[F]Wedding",
+    "name": "私の可愛いピニャータに染み込むなんて…！",
     "npc": "콘대르",
     "type": "SideNpcTalk"
   },
   "84000006_WD__84000006_WD_MAIN__7-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__7_NAME:[F]Wedding",
+    "name": "あいつは食い意地がとても強いんだ。",
     "npc": "콘대르",
     "type": "SideNpcTalk"
   },
   "84000006_WD__84000006_WD_MAIN__8-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__8_NAME:[F]Wedding",
+    "name": "パーティー会場の食べ物を盗み食いして悪霊の目を引きつけてくれ。",
     "npc": "콘대르",
     "type": "SideNpcTalk"
   },
   "84000006_WD__84000006_WD_MAIN__9-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__9_NAME:[F]Wedding",
+    "name": "そうやって時間を稼いでくれれば、私が解決策を見つけ出す。",
     "npc": "콘대르",
     "type": "SideNpcTalk"
   },
   "84000006_WD__84000006_WD_MAIN__10-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__10_NAME:[F]Wedding",
+    "name": "今から食べ物を盗み食いして時間を稼ごう！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "84000006_WD__84000006_WD_MAIN__11-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__11_NAME:[F]Wedding",
+    "name": "食べ物に…。\\n触るな…。",
     "npc": "한 맺힌 솔로 악령",
     "type": "AddBalloonTalk"
   },
   "84000006_WD__84000006_WD_MAIN__12-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__12_NAME:[F]Wedding",
+    "name": "さあ今だ！レインボーデンデン攻撃！",
     "npc": "콘대르",
     "type": "SideNpcTalk"
   },
   "84000006_WD__84000006_WD_MAIN__13-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__13_NAME:[F]Wedding",
+    "name": "レインボーデンデンを投げて悪霊を攻撃してください！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "84000006_WD__84000006_WD_MAIN__14-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__14_NAME:[F]Wedding",
+    "name": "今日も…独りだ…。",
     "npc": "한 맺힌 솔로 악령",
     "type": "AddBalloonTalk"
   },
   "84000006_WD__84000006_WD_MAIN__15-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__15_NAME:[F]Wedding",
+    "name": "ひとまず…引き下がろう…。",
     "npc": "한 맺힌 솔로 악령",
     "type": "AddBalloonTalk"
   },
   "84000006_WD__84000006_WD_MAIN__16-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__16_NAME:[F]Wedding",
+    "name": "ソロ悪霊の退治成功！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "84000006_WD__84000006_WD_MAIN__17-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__17_NAME:[F]Wedding",
+    "name": "ともかくソロ悪霊を追い払った！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "84000006_WD__84000006_WD_MAIN__18-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__18_NAME:[F]Wedding",
+    "name": "助けてくださってありがとうございます！\\nご結婚おめでとうございます！",
     "npc": "레인보우 유니콘 피냐타",
     "type": "AddBalloonTalk"
   },
   "84000006_WD__84000006_WD_MAIN__19-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__19_NAME:[F]Wedding",
+    "name": "今日も勝利だな！",
     "npc": "콘대르",
     "type": "AddBalloonTalk"
   },
   "84000006_WD__84000006_WD_MAIN__20-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__20_NAME:[F]Wedding",
+    "name": "ソロ悪霊の退治成功！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "84000006_WD__84000006_WD_MAIN__21-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__21_NAME:[F]Wedding",
+    "name": "ともかくソロ悪霊を追い払った！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "84000006_WD__84000006_WD_MAIN__22-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__22_NAME:[F]Wedding",
+    "name": "それでも助けてくださってありがとうございます！\\nご結婚おめでとうございます！",
     "npc": "레인보우 유니콘 피냐타",
     "type": "AddBalloonTalk"
   },
   "84000006_WD__84000006_WD_MAIN__23-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__23_NAME:[F]Wedding",
+    "name": "今日も勝利だな！",
     "npc": "콘대르",
     "type": "AddBalloonTalk"
   },
   "84000006_WD__84000006_WD_MAIN__24-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__24_NAME:[F]Wedding",
+    "name": "まもなくアフターパーティーが終了します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "84000006_WD__84000006_WD_MAIN__25-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__25_NAME:[F]Wedding",
+    "name": "残りの時間、\\n友達と楽しくお過ごしください！",
     "npc": "레인보우 유니콘 피냐타",
     "type": "AddBalloonTalk"
   },
   "84000006_WD__84000006_WD_MAIN__26-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_MAIN__26_NAME:[F]Wedding",
+    "name": "さあさあ！残りの時間、\\n思いっきり楽しんでくれ！",
     "npc": "콘대르",
     "type": "AddBalloonTalk"
   },
   "84000006_WD__84000006_WD_WAIT__0-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_WAIT__0_NAME:[F]Wedding",
+    "name": "びっくりしたでしょ？\\nさあさあ、早く来てくれ！",
     "npc": "콘대르",
     "type": "AddBalloonTalk"
   },
   "84000006_WD__84000006_WD_WAIT__1-Wedding-": {
-    "name": "STRINGTRIGGER_84000006_WD__84000006_WD_WAIT__1_NAME:[F]Wedding",
+    "name": "結婚おめでとう！\\nもうこんなに大きくなったとは。",
     "npc": "콘대르",
     "type": "AddBalloonTalk"
   },
   "84000007_WD__01_MASSIVEMAIN__0-Wedding-": {
-    "name": "STRINGTRIGGER_84000007_WD__01_MASSIVEMAIN__0_NAME:[F]Wedding",
+    "name": "残りの時間、アフターパーティーをお楽しみください！\\n時間が過ぎると結婚式場へ移動します！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "84000007_WD__09_FIREWORKS__0-Wedding-": {
-    "name": "STRINGTRIGGER_84000007_WD__09_FIREWORKS__0_NAME:[F]Wedding",
+    "name": "ダンスタイムは終わりだよ～\\nでもパーティーはまだ終わってない！\\nさあ花火タイム～！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "84000007_WD__09_FIREWORKS__1-Wedding-": {
-    "name": "STRINGTRIGGER_84000007_WD__09_FIREWORKS__1_NAME:[F]Wedding",
+    "name": "楽しく遊べましたか～！\\nさあ、今度は花火タイム～！\\nご結婚おめでとう～！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "84000011_WD__84000011_MAIN__0-Wedding-": {
-    "name": "STRINGTRIGGER_84000011_WD__84000011_MAIN__0_NAME:[F]Wedding",
+    "name": "お二人とも、準備が整ったようですね。\\nでは結婚式を始めましょうか？",
     "npc": "루아나",
     "type": "AddCinematicTalk"
   },
   "84000011_WD__84000011_MAIN__1-Wedding-": {
-    "name": "STRINGTRIGGER_84000011_WD__84000011_MAIN__1_NAME:[F]Wedding",
+    "name": "お二人は、互いに愛し合い仲良く暮らすことを誓いますか？\\n誓うなら、相手の名前を書いて愛の誓約をしてください。",
     "npc": "루아나",
     "type": "AddCinematicTalk"
   },
   "84000011_WD__84000011_MAIN__2-Wedding-": {
-    "name": "STRINGTRIGGER_84000011_WD__84000011_MAIN__2_NAME:[F]Wedding",
+    "name": "結婚式場から出て行ってしまうなんて…。\\n本当にひどいです。",
     "npc": "루아나",
     "type": "AddCinematicTalk"
   },
   "84000011_WD__84000011_MAIN__3-Wedding-": {
-    "name": "STRINGTRIGGER_84000011_WD__84000011_MAIN__3_NAME:[F]Wedding",
+    "name": "結婚式はお二人がそろわないと進行できません。\\nひとまず進行を中断して、戻ってこられるまで待ってみますね。",
     "npc": "루아나",
     "type": "AddCinematicTalk"
   },
   "84000011_WD__84000011_MAIN__4-Wedding-": {
-    "name": "STRINGTRIGGER_84000011_WD__84000011_MAIN__4_NAME:[F]Wedding",
+    "name": "名前は正しく打っていただかないと…。\\n本当にひどいです。",
     "npc": "루아나",
     "type": "AddCinematicTalk"
   },
@@ -37298,7 +37298,7 @@
     "type": "AddCinematicTalk"
   },
   "84000014_WD__84000014_MAIN__1-Wedding-": {
-    "name": "STRINGTRIGGER_84000014_WD__84000014_MAIN__1_NAME:[F]Wedding",
+    "name": "お二人は、互いに愛し合い仲良く暮らすことを誓いますか？\\n誓うなら、相手の名前を書いて愛の誓約をしてください。",
     "npc": "나메드",
     "type": "AddCinematicTalk"
   },
@@ -37333,7 +37333,7 @@
     "type": "AddCinematicTalk"
   },
   "84000015_WD__84000015_MAIN__1-Wedding-": {
-    "name": "STRINGTRIGGER_84000015_WD__84000015_MAIN__1_NAME:[F]Wedding",
+    "name": "お二人は、互いに愛し合い仲良く暮らすことを誓いますか？\\n誓うなら、相手の名前を書いて愛の誓約をしてください。",
     "npc": "클로리스",
     "type": "AddCinematicTalk"
   },
@@ -37398,27 +37398,27 @@
     "type": "AddCinematicTalk"
   },
   "84000021_WD__84000021_MAIN__0-Wedding-": {
-    "name": "STRINGTRIGGER_84000021_WD__84000021_MAIN__0_NAME:[F]Wedding",
+    "name": "お二人とも、準備が整ったようですね。\\nでは結婚式を始めましょうか？",
     "npc": "루아나",
     "type": "AddCinematicTalk"
   },
   "84000021_WD__84000021_MAIN__1-Wedding-": {
-    "name": "STRINGTRIGGER_84000021_WD__84000021_MAIN__1_NAME:[F]Wedding",
+    "name": "お二人は、互いに愛し合い仲良く暮らすことを誓いますか？\\n誓うなら、相手の名前を書いて愛の誓約をしてください。",
     "npc": "루아나",
     "type": "AddCinematicTalk"
   },
   "84000021_WD__84000021_MAIN__2-Wedding-": {
-    "name": "STRINGTRIGGER_84000021_WD__84000021_MAIN__2_NAME:[F]Wedding",
+    "name": "結婚式場から出て行ってしまうなんて…。\\n本当にひどいです。",
     "npc": "루아나",
     "type": "AddCinematicTalk"
   },
   "84000021_WD__84000021_MAIN__3-Wedding-": {
-    "name": "STRINGTRIGGER_84000021_WD__84000021_MAIN__3_NAME:[F]Wedding",
+    "name": "結婚式はお二人がそろわないと進行できません。\\nひとまず進行を中断して、戻ってこられるまで待ってみますね。",
     "npc": "루아나",
     "type": "AddCinematicTalk"
   },
   "84000021_WD__84000021_MAIN__4-Wedding-": {
-    "name": "STRINGTRIGGER_84000021_WD__84000021_MAIN__4_NAME:[F]Wedding",
+    "name": "名前は正しく打っていただかないと…。\\n本当にひどいです。",
     "npc": "루아나",
     "type": "AddCinematicTalk"
   },
@@ -37508,7 +37508,7 @@
     "type": "AddCinematicTalk"
   },
   "84000024_WD__84000024_MAIN__1-Wedding-": {
-    "name": "STRINGTRIGGER_84000024_WD__84000024_MAIN__1_NAME:[F]Wedding",
+    "name": "お二人は、互いに愛し合い仲良く暮らすことを誓いますか？\\n誓うなら、相手の名前を書いて愛の誓約をしてください。",
     "npc": "나메드",
     "type": "AddCinematicTalk"
   },
@@ -37543,7 +37543,7 @@
     "type": "AddCinematicTalk"
   },
   "84000025_WD__84000025_MAIN__1-Wedding-": {
-    "name": "STRINGTRIGGER_84000025_WD__84000025_MAIN__1_NAME:[F]Wedding",
+    "name": "お二人は、互いに愛し合い仲良く暮らすことを誓いますか？\\n誓うなら、相手の名前を書いて愛の誓約をしてください。",
     "npc": "클로리스",
     "type": "AddCinematicTalk"
   },
