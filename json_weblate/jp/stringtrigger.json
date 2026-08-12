@@ -17263,15 +17263,15 @@
     "type": "이벤트UI를설정한다"
   },
   "52010026_QD__MAIN__39-Quest2017-": {
-    "name": "STRINGTRIGGER_52010026_QD__MAIN__39_NAME:[F]Quest2017",
+    "name": "$MyPCName$さん、こちらへ来てください。",
     "npc": "NotUse"
   },
   "52010026_QD__MAIN__40-Quest2017-": {
-    "name": "STRINGTRIGGER_52010026_QD__MAIN__40_NAME:[F]Quest2017",
+    "name": "武器を強化して差し上げます…。",
     "npc": "NotUse"
   },
   "52010026_QD__MAIN__41-Quest2017-": {
-    "name": "STRINGTRIGGER_52010026_QD__MAIN__41_NAME:[F]Quest2017",
+    "name": "$npc:11003343$のところへ行って助けを求めよう。",
     "npc": "NotUse"
   },
   "52010026_QD__MAIN__42-Quest2017-": {
@@ -26327,31 +26327,31 @@
     "type": "AddCinematicTalk"
   },
   "52010039_QD__52010039__0-FameContents-": {
-    "name": "STRINGTRIGGER_52010039_QD__52010039__0_NAME:[F]FameContents",
+    "name": "離陸準備完了…！\\nで、でも$MyPCName$さんと隊長、担当官たちがまだ交戦中です！",
     "npc": "NotUse"
   },
   "52010039_QD__52010039__1-FameContents-": {
-    "name": "STRINGTRIGGER_52010039_QD__52010039__1_NAME:[F]FameContents",
+    "name": "待ってください、支援要請を受信中…。",
     "npc": "NotUse"
   },
   "52010039_QD__52010039__2-FameContents-": {
-    "name": "STRINGTRIGGER_52010039_QD__52010039__2_NAME:[F]FameContents",
+    "name": "基地内部への艦砲射撃要請…？！",
     "npc": "NotUse"
   },
   "52010039_QD__52010039__3-FameContents-": {
-    "name": "STRINGTRIGGER_52010039_QD__52010039__3_NAME:[F]FameContents",
+    "name": "…彼らがいなければ、この艦船は役立たずのくず鉄だ。",
     "npc": "NotUse"
   },
   "52010039_QD__52010039__4-FameContents-": {
-    "name": "STRINGTRIGGER_52010039_QD__52010039__4_NAME:[F]FameContents",
+    "name": "「あれ」を使うしかないな。\\n奴らには鉄槌を、味方には好機を作ってみせる。",
     "npc": "NotUse"
   },
   "52010039_QD__52010039__5-FameContents-": {
-    "name": "STRINGTRIGGER_52010039_QD__52010039__5_NAME:[F]FameContents",
+    "name": "艦船起動！\\n艦砲！XR級砲弾装填後、待機！",
     "npc": "NotUse"
   },
   "52010039_QD__52010039__6-FameContents-": {
-    "name": "STRINGTRIGGER_52010039_QD__52010039__6_NAME:[F]FameContents",
+    "name": "艦長、艦砲射撃可能高度です！",
     "npc": "NotUse"
   },
   "52010039_QD__52010039__7-FameContents-": {
@@ -26429,11 +26429,11 @@
     "type": "AddCinematicTalk"
   },
   "52010054_QD__52010054_QD__4-FameContents-": {
-    "name": "STRINGTRIGGER_52010054_QD__52010054_QD__4_NAME:[F]FameContents",
+    "name": "スカイフォートレス チャプター1、艦隊最優先任務",
     "npc": "NotUse"
   },
   "52010054_QD__52010054_QD__5-FameContents-": {
-    "name": "STRINGTRIGGER_52010054_QD__52010054_QD__5_NAME:[F]FameContents",
+    "name": "後編に続く",
     "npc": "NotUse"
   },
   "52020036_QD__MAIN__0-FameContents-": {
@@ -27443,15 +27443,15 @@
     "type": "SideNpcTalk"
   },
   "52010055_QD__52010055__18-FameContents-": {
-    "name": "STRINGTRIGGER_52010055_QD__52010055__18_NAME:[F]FameContents",
+    "name": "甲板へ向かう敵の大規模な空襲を検知しました！どうしよう…これだけの敵の空襲は、いくら$MyPCName$さんでも…。",
     "npc": "NotUse"
   },
   "52010055_QD__52010055__19-FameContents-": {
-    "name": "STRINGTRIGGER_52010055_QD__52010055__19_NAME:[F]FameContents",
+    "name": "あ！艦砲！艦砲の自動照準機能は故障していますが、手動操縦なら可能なはずです。",
     "npc": "NotUse"
   },
   "52010055_QD__52010055__20-FameContents-": {
-    "name": "STRINGTRIGGER_52010055_QD__52010055__20_NAME:[F]FameContents",
+    "name": "艦砲のハッチロックを解除します！艦砲の威力なら手動操作でも大きな戦力になるはずです！",
     "npc": "NotUse"
   },
   "52010055_QD__52010055__21-FameContents-": {
@@ -27490,7 +27490,7 @@
     "type": "AddCinematicTalk"
   },
   "52010055_QD__52010055__28-FameContents-": {
-    "name": "STRINGTRIGGER_52010055_QD__52010055__28_NAME:[F]FameContents",
+    "name": "これで終わりではない…。逆らえぬ絶望がメイプルワールドを飲み込むのだからな…。",
     "npc": "NotUse"
   },
   "52010055_QD__52010055__29-FameContents-": {
@@ -32348,17 +32348,17 @@
     "type": "SideNpcTalk"
   },
   "52020040_QD__52020040__0-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__0_NAME:[F]Kritias_Epic01",
+    "name": "船内の問題状況のチェックは？",
     "npc": "블리체",
     "type": "AddCinematicTalk"
   },
   "52020040_QD__52020040__1-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__1_NAME:[F]Kritias_Epic01",
+    "name": "現在異常ありません！",
     "npc": "네이린",
     "type": "AddCinematicTalk"
   },
   "52020040_QD__52020040__2-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__2_NAME:[F]Kritias_Epic01",
+    "name": "よし。全員、気を緩めるな。",
     "npc": "블리체",
     "type": "AddCinematicTalk"
   },
@@ -32398,12 +32398,12 @@
     "type": "AddCinematicTalk"
   },
   "52020040_QD__52020040__10-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__10_NAME:[F]Kritias_Epic01",
+    "name": "突然何事だ…。位置は？",
     "npc": "블리체",
     "type": "AddCinematicTalk"
   },
   "52020040_QD__52020040__11-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__11_NAME:[F]Kritias_Epic01",
+    "name": "高速でスカイフォートレスへ向かっています！",
     "npc": "네이린",
     "type": "AddCinematicTalk"
   },
@@ -32413,12 +32413,12 @@
     "type": "AddCinematicTalk"
   },
   "52020040_QD__52020040__13-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__13_NAME:[F]Kritias_Epic01",
+    "name": "攻撃体の速度から見て、回避機動は役に立たないと思われます！",
     "npc": "네이린",
     "type": "AddCinematicTalk"
   },
   "52020040_QD__52020040__14-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__14_NAME:[F]Kritias_Epic01",
+    "name": "衝突退避を命じる。 \\n速やかに実行せよ！",
     "npc": "블리체",
     "type": "AddCinematicTalk"
   },
@@ -32428,22 +32428,22 @@
     "type": "AddCinematicTalk"
   },
   "52020040_QD__52020040__16-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__16_NAME:[F]Kritias_Epic01",
+    "name": "衝突退避のカウントダウンを開始します。",
     "npc": "경보 시스템",
     "type": "AddCinematicTalk"
   },
   "52020040_QD__52020040__17-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__17_NAME:[F]Kritias_Epic01",
+    "name": "5…4…3…2…",
     "npc": "경보 시스템",
     "type": "AddCinematicTalk"
   },
   "52020040_QD__52020040__18-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__18_NAME:[F]Kritias_Epic01",
+    "name": "1…！",
     "npc": "경보 시스템",
     "type": "AddCinematicTalk"
   },
   "52020040_QD__52020040__19-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__19_NAME:[F]Kritias_Epic01",
+    "name": "うわあああああっ！！！！！！",
     "npc": "콘대르",
     "type": "AddCinematicTalk"
   },
@@ -32453,27 +32453,27 @@
     "type": "AddCinematicTalk"
   },
   "52020040_QD__52020040__21-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__21_NAME:[F]Kritias_Epic01",
+    "name": "…そんな馬鹿な。",
     "npc": "네이린",
     "type": "AddCinematicTalk"
   },
   "52020040_QD__52020040__22-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__22_NAME:[F]Kritias_Epic01",
+    "name": "2時28分34秒頃。\\n攻撃体が消滅しました。",
     "npc": "네이린",
     "type": "AddCinematicTalk"
   },
   "52020040_QD__52020040__23-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__23_NAME:[F]Kritias_Epic01",
+    "name": "攻撃体が消滅しただと？",
     "npc": "블리체",
     "type": "AddCinematicTalk"
   },
   "52020040_QD__52020040__24-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__24_NAME:[F]Kritias_Epic01",
+    "name": "副官、理由を把握できるか。",
     "npc": "블리체",
     "type": "AddCinematicTalk"
   },
   "52020040_QD__52020040__25-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52020040_QD__52020040__25_NAME:[F]Kritias_Epic01",
+    "name": "小さなエネルギーに変わって四方に散らばったところを見ると、\\n爆発…したようです。",
     "npc": "네이린",
     "type": "AddCinematicTalk"
   },
@@ -38013,37 +38013,37 @@
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__3-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__3_NAME:[F]EpicApocalypse01",
+    "name": "何事ですか？さあ、話してみてください。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__4-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__4_NAME:[F]EpicApocalypse01",
+    "name": "実は…$MyPCName$についてのことです。",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__5-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__5_NAME:[F]EpicApocalypse01",
+    "name": "$MyPCName$のことなら、また何か褒めるようなことをしたのでしょうね。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__6-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__6_NAME:[F]EpicApocalypse01",
+    "name": "今度はまたどんな…。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__7-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__7_NAME:[F]EpicApocalypse01",
+    "name": "彼が…暗黒の魔法使いに会いました。",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__8-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__8_NAME:[F]EpicApocalypse01",
+    "name": "そして、闇に染まってしまいました。",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__9-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__9_NAME:[F]EpicApocalypse01",
+    "name": "…？！",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
@@ -38098,27 +38098,27 @@
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__20-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__20_NAME:[F]EpicApocalypse01",
+    "name": "い、いったん…考える時間をください。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__21-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__21_NAME:[F]EpicApocalypse01",
+    "name": "明日また…話すことにしましょう。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__22-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__22_NAME:[F]EpicApocalypse01",
+    "name": "はい。これで下がらせていただきます。",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__23-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__23_NAME:[F]EpicApocalypse01",
+    "name": "しばらくして…",
     "npc": "systemMSG",
     "type": "연출UI를설정한다"
   },
   "52000200_QD__52000200__24-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__24_NAME:[F]EpicApocalypse01",
+    "name": "…王室総理様の頼みなら難しいことでもないけど。\\n本当にここまでする必要があるのか？",
     "npc": "???",
     "type": "AddCinematicTalk"
   },
@@ -38128,32 +38128,32 @@
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__26-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__26_NAME:[F]EpicApocalypse01",
+    "name": "これは…メイプルワールドのための最も正しい道だ。",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__27-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__27_NAME:[F]EpicApocalypse01",
+    "name": "ラージン。",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__28-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__28_NAME:[F]EpicApocalypse01",
+    "name": "はっ。まあいい、信じてみるさ。 \\nたった一人の「兄貴」の頼みだからな。",
     "npc": "라딘",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__29-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__29_NAME:[F]EpicApocalypse01",
+    "name": "今夜、監獄の塔に火をつければいいんだろ？",
     "npc": "라딘",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__30-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__30_NAME:[F]EpicApocalypse01",
+    "name": "そうだ。お前なら後腐れなく綺麗に片付けられるだろう。",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__31-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__31_NAME:[F]EpicApocalypse01",
+    "name": "いいだろう。約束した品はその後に受け取るとしよう。",
     "npc": "라딘",
     "type": "AddCinematicTalk"
   },
@@ -38163,17 +38163,17 @@
     "type": "ShowCaption"
   },
   "52000202_QD__52000202__1-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000202_QD__52000202__1_NAME:[F]EpicApocalypse01",
+    "name": "ここが…時空の亀裂？",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52000202_QD__52000202__2-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000202_QD__52000202__2_NAME:[F]EpicApocalypse01",
+    "name": "乱れたエネルギーで満ちている。\\nそして、女王様の不安も一緒に感じられる…。",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52000202_QD__52000202__3-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000202_QD__52000202__3_NAME:[F]EpicApocalypse01",
+    "name": "一体なぜこんな空間が現れたんだ？",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
@@ -38183,7 +38183,7 @@
     "type": "AddCinematicTalk"
   },
   "52000202_QD__52000202__5-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000202_QD__52000202__5_NAME:[F]EpicApocalypse01",
+    "name": "何か強力な気配が…！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
@@ -38193,17 +38193,17 @@
     "type": "AddCinematicTalk"
   },
   "52000202_QD__52000202__7-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000202_QD__52000202__7_NAME:[F]EpicApocalypse01",
+    "name": "？！あいつらは…！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52000202_QD__52000202__8-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000202_QD__52000202__8_NAME:[F]EpicApocalypse01",
+    "name": "過去に私が退治した奴らじゃないか。\\nなぜここに…？",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52000202_QD__52000202__9-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000202_QD__52000202__9_NAME:[F]EpicApocalypse01",
+    "name": "くうっ、近づいてくる。\\nひとまず片付けたほうがよさそうだ！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
@@ -38213,22 +38213,22 @@
     "type": "AddCinematicTalk"
   },
   "52000202_QD__52000202__11-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000202_QD__52000202__11_NAME:[F]EpicApocalypse01",
+    "name": "全部…消えたじゃないか？",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52000202_QD__52000202__12-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000202_QD__52000202__12_NAME:[F]EpicApocalypse01",
+    "name": "一体何だったんだ？",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52000202_QD__52000202__13-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000202_QD__52000202__13_NAME:[F]EpicApocalypse01",
+    "name": "うっ、時空間がまた不安定になっている。",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52000202_QD__52000202__14-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000202_QD__52000202__14_NAME:[F]EpicApocalypse01",
+    "name": "とにかく早く外へ…！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
