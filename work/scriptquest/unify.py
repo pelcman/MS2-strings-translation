@@ -19,6 +19,13 @@ FIX = [
     ("闇の気配", "闇のオーラ"),          # 어둠의 기운: 公式原本は闇のオーラ54件(気配は0件)
 ]
 
+# 正規表現による統一。(パターン, 置換)
+# NPC 名タグの直後の敬称は「様」。公式原本は 様243件・さん1件。
+# ただし $MyPCName$(プレイヤー)は「さん」なので、npc/npcName タグのみを対象にする。
+REGEX_FIX = [
+    (re.compile(r"(\$npc(?:Name)?:[^$]*\$)さん"), r"\1様"),
+]
+
 # 話者ごとの一人称。公式原本の用例に合わせる。
 # (話者名, 誤, 正) — その話者の name のみを置換する
 SPEAKER_FIX = [
@@ -63,6 +70,8 @@ for p in targets:
         nv = v
         for a, b in FIX:
             nv = nv.replace(a, b)
+        for rx, rep in REGEX_FIX:
+            nv = rx.sub(rep, nv)
         for spk, wrong, right in SPEAKER_FIX:
             hit = k in speaker_key.get(spk, ()) if isjp else k in speaker_ko.get(spk, ())
             if hit:
