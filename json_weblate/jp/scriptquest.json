@@ -60697,47 +60697,47 @@
   },
   "728172802005672-DoubleImpactStory-": {
     "npc": "제이시",
-    "name": "SCRIPTQUEST_0728172802005672_NAME:[F]DoubleImpactStory"
+    "name": "一体あの人たちが何だというんですか、命まで懸けて…。はぁ… \n黒星会本部の建物の地下に密室があります。\nそこにあなたの探している人たちが閉じ込められているという話を聞いたことがあります。"
   },
   "728172802005673-DoubleImpactStory-": {
     "npc": "제이시",
-    "name": "SCRIPTQUEST_0728172802005673_NAME:[F]DoubleImpactStory"
+    "name": "$MyPCName$、具合はどうですか？\n大丈夫ですか？記憶は…戻りましたか？"
   },
   "728172802005674-DoubleImpactStory-": {
     "npc": "제이시",
-    "name": "SCRIPTQUEST_0728172802005674_NAME:[F]DoubleImpactStory"
+    "name": "今$npcName:11000251[gender:0]$が組織員たちを四方に放って、あなたを探しています。 \nここで休んで体が回復し次第、もっと安全な場所へ移ったほうがいいでしょう。"
   },
   "728172802005675-DoubleImpactStory-": {
     "npc": "제이시",
-    "name": "SCRIPTQUEST_0728172802005675_NAME:[F]DoubleImpactStory"
+    "name": "どうしても行くというなら、$map:02000156$の入口は覚えていますよね？その周りをよく調べれば、地下の秘密通路に \nつながる扉があるはずです。\n$map:63000015$とつながる<font color=\"#ffd200\">$map:63000016$</font>へ直接入れるはずですから、少なくとも \n<font color=\"#ffd200\">$npcName:11000251[gender:0]$</font>の顔は見られるでしょう。"
   },
   "728172802005676-DoubleImpactStory-": {
     "npc": "웨이 홍",
-    "name": "SCRIPTQUEST_0728172802005676_NAME:[F]DoubleImpactStory"
+    "name": "クックッ…自ら死に場所を見つけて踏み込んできたか。\nまあな…お前の性格なら、いつまでも逃げ回りはしないと思っていたぞ。クックック… "
   },
   "728172802005677-DoubleImpactStory-": {
     "npc": "웨이 홍",
-    "name": "SCRIPTQUEST_0728172802005677_NAME:[F]DoubleImpactStory"
+    "name": "今さら俺たちの間に長い言葉は要らんだろう… \n<font color=\"#ffd200\">灰色のオオカミ</font>…今回の生はここで静かに終わりにしろ。"
   },
   "728172802005678-DoubleImpactStory-": {
     "npc": "웨이 홍",
-    "name": "SCRIPTQUEST_0728172802005678_NAME:[F]DoubleImpactStory"
+    "name": "まあ、どうせ俺には何の関わりもない人間ども…死のうが生きようが知ったことではない。\n<font color=\"#ffd200\">灰色のオオカミ</font>…お前とは違ってな…クックック… "
   },
   "728172802005679-DoubleImpactStory-": {
     "npc": "제이시",
-    "name": "SCRIPTQUEST_0728172802005679_NAME:[F]DoubleImpactStory"
+    "name": "$MyPCName$…！！"
   },
   "728172802005680-DoubleImpactStory-": {
     "npc": "제이시",
-    "name": "SCRIPTQUEST_0728172802005680_NAME:[F]DoubleImpactStory"
+    "name": "どうなったんですか？ケガはありませんか？"
   },
   "728172802005681-DoubleImpactStory-": {
     "npc": "제이시",
-    "name": "SCRIPTQUEST_0728172802005681_NAME:[F]DoubleImpactStory"
+    "name": "差出人の名前はありませんが…おそらくあの人でしょうね？\nあなたを$map:52000045$で助けてくれた… \n今すぐ<font color=\"#ffd200\">$map:63000038$</font>へ向かってみますか？"
   },
   "728172802005682-DoubleImpactStory-": {
     "npc": "가이던스 표식",
-    "name": "SCRIPTQUEST_0728172802005682_NAME:[F]DoubleImpactStory"
+    "name": "得体の知れない神秘的な気配が感じられる。\nメモを送ったあの者が残していったものだろうか…？"
   },
   "729223304000936-SoulBinder-": {
     "npc": "준타",
@@ -62817,27 +62817,27 @@
   },
   "802233102005683-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0802233102005683_NAME:[F]SoulBinder"
+    "name": "俺が知りたいのはまさに<font color=\"#ffd200\">謁見式が中止になった理由</font>だ。\n地震が起きてからもう何日も経ってるのに、今さら急に謁見式を\n中止するなんてありえるか？あぁ、もう！！考えるほど腹が立つ。"
   },
   "802233102005684-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0802233102005684_NAME:[F]SoulBinder"
+    "name": "絶対に何か企んでるはずだ。においがするんだよ！\n何を隠してるのか、突き止めてやる。"
   },
   "802233102005685-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0802233102005685_NAME:[F]SoulBinder"
+    "name": "俺はこれからあちこち調べて回るから、とにかく忙しくなる予定だ。\nだからお前もあちこちで熱心に聞き込んで、何か分かったら \n俺に知らせるんだぞ。分かったな？なあ？"
   },
   "802233102005686-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0802233102005686_NAME:[F]SoulBinder"
+    "name": "誰に聞けばいいのか教えてほしいと言う。"
   },
   "802233102005687-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0802233102005687_NAME:[F]SoulBinder"
+    "name": "ん？そ…それをなんで俺に聞くんだ？！ \nどうしても分からないなら、近いところから始めろ！\nあそこにいる$npcTitle:11000169[gender:0]$でもつかまえて聞いてみるとかさ～"
   },
   "802233102005688-SoulBinder-": {
     "npc": "트라이아 청사",
-    "name": "SCRIPTQUEST_0802233102005688_NAME:[F]SoulBinder"
+    "name": "確かにここで$npc:11000492[gender:0]$に会えると聞いたのに、扉は固く閉ざされている。\n人の気配が感じられないところを見ると、役所の中には誰もいないようだ。\n役所を離れる$npc:11000492[gender:0]$を見た人がいないか、周りの住民たちに聞いてみよう。 "
   },
   "803133811012891-EyeOfLapentaQuest-": {
     "npc": "의문의 검사",
@@ -62929,355 +62929,355 @@
   },
   "803181311003925-SoulBinder-": {
     "npc": "근위대 경비병",
-    "name": "SCRIPTQUEST_0803181311003925_NAME:[F]SoulBinder"
+    "name": "<font color=\"#ffd200\">ワシの獣人</font>と<font color=\"#ffd200\">トナカイの獣人</font>は、あの道を右へ \nずっと上っていったところにある<font color=\"#ffd200\">かわいい木の家</font>へ入っていかれました。\nあの方々をお探しなら、私の右手の道をずっと上っていってみてください。"
   },
   "803181311003926-SoulBinder-": {
     "npc": "근위대 경비병",
-    "name": "SCRIPTQUEST_0803181311003926_NAME:[F]SoulBinder"
+    "name": "<font color=\"#ffd200\">ワシの獣人</font>と<font color=\"#ffd200\">トナカイの獣人</font>は、あの道を右へ \nずっと上っていったところにある<font color=\"#ffd200\">かわいい木の家</font>へ入っていかれました。\nあの方々をお探しなら、私の右手の道をずっと上っていってみてください。"
   },
   "803181311003927-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003927_NAME:[F]SoulBinder"
+    "name": "あっ…！$MyPCName$、来たんだね！\n体は大丈夫？"
   },
   "803181311003928-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003928_NAME:[F]SoulBinder"
+    "name": "$npc:11001716[gender:0]$が倒れたのかと尋ねる。"
   },
   "803181311003929-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003929_NAME:[F]SoulBinder"
+    "name": "うん。見てのとおり、かなり具合が悪いみたい。 \nいくら力を使い果たしたからって、これはないよ。 \n大弟子のくせにこれでいいの？早く目を覚まさないと……。 "
   },
   "803181311003930-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003930_NAME:[F]SoulBinder"
+    "name": "何があったのかと尋ねる。"
   },
   "803181311003931-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003931_NAME:[F]SoulBinder"
+    "name": "あなたが乗った雲を追いかける連中がけっこう多くて、注意がそれてる隙に \n$npcName:11001716[gender:0]$先輩が私をぶら下げて飛んできたの。もちろん私も隠身術を保つのが大変だったよ。 \nそれにしてもよく見つけて来られたね！会うのは難しいと思ってたのに。"
   },
   "803181311003932-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003932_NAME:[F]SoulBinder"
+    "name": "$npc:11001677[gender:0]$が教えてくれたと答える。"
   },
   "803181311003933-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003933_NAME:[F]SoulBinder"
+    "name": "そう。ここ$map:02000001$には近衛隊がいるから、突然の侵入や \n騒ぎが起きても比較的安全なほうなんだって。それに本当にいろんな \n人が集まるところだから、私たちみたいな獣人を見ても珍しがったり驚いたりしないの。\t"
   },
   "803181311003934-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003934_NAME:[F]SoulBinder"
+    "name": "それに…その分<font color=\"#ffd200\">多彩でたくさんの情報</font>が集まる場所でもあるんだ。 \nさあ、それじゃあやることをやろうか。 "
   },
   "803181311003935-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003935_NAME:[F]SoulBinder"
+    "name": "やること…？ "
   },
   "803181311003936-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003936_NAME:[F]SoulBinder"
+    "name": "せっかく全部説明してあげたのに…忘れたの？落ちるとき頭でも打った？\n波色の山を襲撃したあの<font color=\"#ffd200\">$npc:23000082[gender:0]$</font>という者が、私たちガイダンスの神器を \n持っていこうとしたじゃない。そうさせないように阻止しないとね。 "
   },
   "803181311003937-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003937_NAME:[F]SoulBinder"
+    "name": "とりあえずここに住みながら、静かに<font color=\"#ffd200\">聞き込み調査</font>を始めないとね。\nもちろん、このバカ先輩の回復が先だけど……。 "
   },
   "803181311003938-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003938_NAME:[F]SoulBinder"
+    "name": "まずはここで情報をできるだけ集めて調べてみる必要があるよ。\n波色の山の古い遺物がここに保管されていた形跡があるかどうかから\n始めてみるのがよさそう。<font color=\"#ffd200\">情報収集</font>はあなたが引き受けてくれる？"
   },
   "803181311003939-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003939_NAME:[F]SoulBinder"
+    "name": "$npc:11001707[gender:1]$は何をするのかと尋ねる。"
   },
   "803181311003940-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003940_NAME:[F]SoulBinder"
+    "name": "私はここで<font color=\"#ffd200\">$npcName:11001716[gender:0]$先輩</font>の<font color=\"#ffd200\">看病</font>をしてるよ。 \nまあ、$npcName:11001716[gender:0]$先輩と仲良く見つめ合ったり、おでこに手を当てたり、\n羽づくろいもしてあげたいなら、あなたが先輩の看病を引き受けてもいいけど。"
   },
   "803181311003941-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003941_NAME:[F]SoulBinder"
+    "name": "…看病は$npcName:11001707[gender:1]$に任せると言う。"
   },
   "803181311003942-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003942_NAME:[F]SoulBinder"
+    "name": "そうそう。いい判断だね。\nそれから、人間たちの頼みを聞いたり、彼らの事件を調べたりするのも \n嫌がらないでね。知っておけば全部私たちの情報になるんだから。\nもちろん$npcName:11001716[gender:0]$先輩はあまりいい顔をしないだろうけど。"
   },
   "803181311003943-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003943_NAME:[F]SoulBinder"
+    "name": "来る途中で見たんだけど、王宮のほうに<font color=\"#ffd200\">案内員</font>みたいな格好をした人がいたよ。\n彼女に聞くところから始めるのがよさそう。それじゃ、よろしくね！"
   },
   "803181311003944-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003944_NAME:[F]SoulBinder"
+    "name": "来る途中で見たんだけど、王宮のほうに<font color=\"#ffd200\">案内員</font>みたいな格好をした人がいたよ。\n彼女に聞くところから始めるのがよさそう。それじゃ、よろしくね！"
   },
   "803181311003945-SoulBinder-": {
     "npc": "나폴리",
-    "name": "SCRIPTQUEST_0803181311003945_NAME:[F]SoulBinder"
+    "name": "こんにちは。何か気になることでもありますか？"
   },
   "803181311003946-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003946_NAME:[F]SoulBinder"
+    "name": "聞きたいことがいくつかあると答える。"
   },
   "803181311003947-SoulBinder-": {
     "npc": "나폴리",
-    "name": "SCRIPTQUEST_0803181311003947_NAME:[F]SoulBinder"
+    "name": "私の知っていることなら何でもお教えしますよ。\nどうぞおっしゃってください。"
   },
   "803181311003948-SoulBinder-": {
     "npc": "나폴리",
-    "name": "SCRIPTQUEST_0803181311003948_NAME:[F]SoulBinder"
+    "name": "$map:02000001$は初めてですか？初めてお会いする方のようですね。\n何をお聞きになりたいのか、おっしゃってみてください。"
   },
   "803181311003949-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003949_NAME:[F]SoulBinder"
+    "name": "本当に私を見たことがないのかと尋ねる。"
   },
   "803181311003950-SoulBinder-": {
     "npc": "나폴리",
-    "name": "SCRIPTQUEST_0803181311003950_NAME:[F]SoulBinder"
+    "name": "え？もしかして私たち、お会いしたことがありましたか？\n最近は<font color=\"#ffd200\">謁見式</font>のせいで本当に多くの方が行き交っていて、\n私もすべての方を覚えておくには限界がありまして、ハハハ。 "
   },
   "803181311003951-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003951_NAME:[F]SoulBinder"
+    "name": "私も思い出せないから聞いているのだと言う。"
   },
   "803181311003952-SoulBinder-": {
     "npc": "나폴리",
-    "name": "SCRIPTQUEST_0803181311003952_NAME:[F]SoulBinder"
+    "name": "あら…どこか具合が悪いのではありませんか？よくうっかりするとか… \nもの忘れみたいなものです。それとも…<font color=\"#ffd200\">記憶喪失？</font> \n最近そういう方が多いんですよ。<font color=\"#ffd200\">謁見式の中止</font>にショックを受けて現実を否定する……。"
   },
   "803181311003953-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003953_NAME:[F]SoulBinder"
+    "name": "少し前までの記憶がないと答える。"
   },
   "803181311003954-SoulBinder-": {
     "npc": "나폴리",
-    "name": "SCRIPTQUEST_0803181311003954_NAME:[F]SoulBinder"
+    "name": "あら。ごめんなさい。<font color=\"#ffd200\">冗談</font>のつもりで言ったのに<font color=\"#ffd200\">本当</font>だったんですね…。\nでも、私と$MyPCName$様が以前お会いしたことはないと思います。\nお役に立てなくて申し訳ありません。他に気になることはありませんか？"
   },
   "803181311003955-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003955_NAME:[F]SoulBinder"
+    "name": "遺物のようなものはどこにたくさん保管されているのかと尋ねる。"
   },
   "803181311003956-SoulBinder-": {
     "npc": "나폴리",
-    "name": "SCRIPTQUEST_0803181311003956_NAME:[F]SoulBinder"
+    "name": "やはり女王様がいらっしゃる$map:02000001$の王宮でしょうね。 \nでも数がとても多いので、ただ遺物とだけ言われても探すのは難しいと思います。 \nもう少し詳しく教えていただけますか？"
   },
   "803181311003957-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003957_NAME:[F]SoulBinder"
+    "name": "<font color=\"#ffd200\">獣人</font>たちと関係があるはずだと言う。"
   },
   "803181311003958-SoulBinder-": {
     "npc": "나폴리",
-    "name": "SCRIPTQUEST_0803181311003958_NAME:[F]SoulBinder"
+    "name": "うーん…そうですね。そういう特別な遺物なら、王宮の品物を管理している方々に\nお問い合わせになるのがよさそうです。ですが今は<font color=\"#ffd200\">謁見式の中止</font>のせいで \n皆てんてこ舞いですから、答えられる人はいないと思います。"
   },
   "803181311003959-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003959_NAME:[F]SoulBinder"
+    "name": "<font color=\"#909090\">(みんな謁見式の中止の話ばかりだな…)</font>"
   },
   "803181311003960-SoulBinder-": {
     "npc": "나폴리",
-    "name": "SCRIPTQUEST_0803181311003960_NAME:[F]SoulBinder"
+    "name": "王室関係者以外で、獣人に関わる遺物を知っていそうな方といえば…うーん… \nあっ！文句は多いですが、好奇心が強くて何でも突き止めようとする\n<font color=\"#ffd200\">$npc:11000003[gender:0]$</font>なら、$MyPCName$様が気になっていることを知っているかもしれません。\n気になることは我慢できず、単純に飛び込んでいく性格なので…意外と情報通だそうですよ。 "
   },
   "803181311003961-SoulBinder-": {
     "npc": "나폴리",
-    "name": "SCRIPTQUEST_0803181311003961_NAME:[F]SoulBinder"
+    "name": "<font color=\"#ffd200\">$npc:11000003[gender:0]$</font>はあの階段の下にいますから、一度会いに行ってみてください。 \nあ、今は少し機嫌が悪そうなので、ご参考までに。"
   },
   "803181311003962-SoulBinder-": {
     "npc": "나폴리",
-    "name": "SCRIPTQUEST_0803181311003962_NAME:[F]SoulBinder"
+    "name": "<font color=\"#ffd200\">$npc:11000003[gender:0]$</font>はあの階段の下にいますから、一度会いに行ってみてください。 \nあ、今は少し機嫌が悪そうなので、ご参考までに。"
   },
   "803181311003963-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0803181311003963_NAME:[F]SoulBinder"
+    "name": "なんだ？お前はまた何なんだ？ \nったく…イライラして仕方ないってのに、変な人間ばかり来やがる… "
   },
   "803181311003964-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003964_NAME:[F]SoulBinder"
+    "name": "$map:02000001$で獣人たちの遺物について聞いたことがあるかと尋ねる。"
   },
   "803181311003965-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003965_NAME:[F]SoulBinder"
+    "name": "うれしそうにあいさつする。"
   },
   "803181311003966-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0803181311003966_NAME:[F]SoulBinder"
+    "name": "ここ$map:02000001$は王宮だぞ。宝が1つや2つだと思うか？\nそれに、何と言っても$map:02000001$最高の宝は$npcName:11000075[gender:1]$女王様に決まってる。\n謁見式で会えると思って期待して来たのに…なんだよこれ。ちくしょう！"
   },
   "803181311003967-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003967_NAME:[F]SoulBinder"
+    "name": "<font color=\"#909090\">(何も知らないようだ。このまま行ったほうがよさそうだ。)</font>"
   },
   "803181311003968-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0803181311003968_NAME:[F]SoulBinder"
+    "name": "なんだ？くだらないやつだな…ご機嫌でうらやましいこった。\n何か聞きたいことでもあるんだろ？言ってみろよ、ほら。"
   },
   "803181311003969-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003969_NAME:[F]SoulBinder"
+    "name": "獣人たちの宝について知っていることはないかと尋ねる。"
   },
   "803181311003970-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0803181311003970_NAME:[F]SoulBinder"
+    "name": "待て。何か知りたいことがあったんじゃないのか？ \n<font color=\"#ffd200\">俺が知りたいことを調べてきてくれたら</font>、俺も知ってることを話してやる。\n今は思い出せないが、分からないだろ？機嫌がよくなれば思い出すかもしれないぞ。"
   },
   "803181311003971-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003971_NAME:[F]SoulBinder"
+    "name": "<font color=\"#909090\">(ひとまず頼みを聞いて、情報をもらったほうがよさそうだ。)</font>"
   },
   "803181311003972-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0803181311003972_NAME:[F]SoulBinder"
+    "name": "なんだ？やるのか、やらないのか？ \nこれ以上腹が立ったら何も思い出せなくなりそうだから、さっさと答えろよ。\nああ、もう知るか！嫌ならやめろ！あっちへ行け！ "
   },
   "803181311003973-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003973_NAME:[F]SoulBinder"
+    "name": "知りたいことを調べてきてやると言う。"
   },
   "803181311003974-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0803181311003974_NAME:[F]SoulBinder"
+    "name": "そうだ、いい判断だ。"
   },
   "803181311003975-SoulBinder-": {
     "npc": "보기",
-    "name": "SCRIPTQUEST_0803181311003975_NAME:[F]SoulBinder"
+    "name": "$MyPCName$様！$npc:11001707[gender:1]$様という方から届いた連絡です。\n話があるので$map:52000041$で会いたいとおっしゃっています。"
   },
   "803181311003976-SoulBinder-": {
     "npc": "보기",
-    "name": "SCRIPTQUEST_0803181311003976_NAME:[F]SoulBinder"
+    "name": "$MyPCName$様！$npc:11001707[gender:1]$様という方から届いた連絡です。\n話があるので$map:52000041$で会いたいとおっしゃっています。"
   },
   "803181311003977-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003977_NAME:[F]SoulBinder"
+    "name": "来たね！待ってたよ。"
   },
   "803181311003978-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003978_NAME:[F]SoulBinder"
+    "name": "$map:02000001$の見物はどうだった？楽しかった？ \nここで情報は少しは集まった？"
   },
   "803181311003979-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003979_NAME:[F]SoulBinder"
+    "name": "まだ役に立ちそうなものはなさそうだと答える。"
   },
   "803181311003980-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003980_NAME:[F]SoulBinder"
+    "name": "え～どうせこの私が乗り出すまで大した進展はないに決まってるんだから、\n$map:02000001$の見物でもすればいいのに。本当に情報集めばかりしてたみたいだね。\nこんなに面白みがないところ、そっくりだよ、そっくり。<font color=\"#ffd200\">魂の相棒</font>だね～"
   },
   "803181311003981-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003981_NAME:[F]SoulBinder"
+    "name": "誰と相棒だというのかと尋ねる。"
   },
   "803181311003982-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003982_NAME:[F]SoulBinder"
+    "name": "分からなくて聞いてるの？<font color=\"#ffd200\">修行狂の$npcName:11001716[gender:0]$先輩</font>と<font color=\"#ffd200\">気絶が趣味のあなた！</font>\n口数は少ないし、面白みもないし～そっくりなんだって。へへっ。 \nそうだ、先輩の具合はずいぶんよくなったよ。しばらく寝たままぶつぶつ言ってたのに、\n今は起きて歩き回ったり、修行をするって言い出したりしてるんだから。"
   },
   "803181311003983-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003983_NAME:[F]SoulBinder"
+    "name": "だから、いよいよこの私が本格的に乗り出すときが来たってわけ。\nここに根を張った私の情報通を活用しないとね。実はこの家の主でもあるんだけど、\nずいぶん会ってないなぁ！<font color=\"#ffd200\">がっしりして俊敏な体</font>に、<font color=\"#ffd200\">豪快な性格のいいやつ</font>だったよ～"
   },
   "803181311003984-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003984_NAME:[F]SoulBinder"
+    "name": "待って…家の主とはどういうことかと尋ねる。"
   },
   "803181311003985-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003985_NAME:[F]SoulBinder"
+    "name": "あ、この家は<font color=\"#ffd200\">タイグフリアン</font>の家だよ。昔、私たちと一緒にガイダンスで \n修行を積んでいた<font color=\"#ffd200\">虎</font>の獣人だった。$npcName:11001716[gender:0]$先輩とはあまり仲がよくなくて、\n自分は都市で修練を積むと言って出ていっちゃったの。それでこの前、\n久しぶりに私に手紙をよこしたんだ。<font color=\"#ffd200\">$map:02000001$</font>に小さな修練場を用意したってね。"
   },
   "803181311003986-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003986_NAME:[F]SoulBinder"
+    "name": "ここで都市のやり方で修練を積みながら謁見式も見物するっていう、\nなかなか素敵な計画を立ててたんだよね。感心しながら手紙を読んだのを覚えてるよ～\nだからあいつに会うのも兼ねてここに来たんだけど、元気にやってるかな～"
   },
   "803181311003987-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003987_NAME:[F]SoulBinder"
+    "name": "では、今は人の家を無断で占拠しているのではないかと言う。"
   },
   "803181311003988-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003988_NAME:[F]SoulBinder"
+    "name": "え～ガイダンスの名の下に、私たちはみんな兄弟だよ。 \n<font color=\"#ffd200\">兄弟の家</font>に遊びに来るのを無断占拠なんて言う？ \nあいつだって当然！こう思うはず。<font color=\"#ffd200\">細かいことは気にしないってね～</font>"
   },
   "803181311003989-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003989_NAME:[F]SoulBinder"
+    "name": "…会って謝ったほうがいいと言う。"
   },
   "803181311003990-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003990_NAME:[F]SoulBinder"
+    "name": "謝るんじゃなくて<font color=\"#ffd200\">お願い</font>をしないと。これから一緒に情報を集めようってね。\n$npc:11001661[gender:0]$を尊敬してたやつだから、きっと助けてくれるよ。 \nさあ…それじゃあ<font color=\"#ffd200\">あいつを探しに</font>行ってみようか。 "
   },
   "803181311003991-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003991_NAME:[F]SoulBinder"
+    "name": "早く行ってこいと言う。"
   },
   "803181311003992-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003992_NAME:[F]SoulBinder"
+    "name": "ん？私が？冗談でしょ？\nまだ<font color=\"#ffd200\">$npcName:11001716[gender:0]$先輩</font>の具合が悪くて、誰かがそばにいないといけないのに… \nもちろん、あなたが先輩のそばに残ってマッサージも歌も披露してくれるなら、私が行くけど。"
   },
   "803181311003993-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003993_NAME:[F]SoulBinder"
+    "name": "…行ってくると言う。"
   },
   "803181311003994-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003994_NAME:[F]SoulBinder"
+    "name": "へへっ。それじゃ行ってらっしゃい～\nタイグフリアンは虎の獣人だよ。俊敏な体つきに豪快な性格だから、\n<font color=\"#ffd200\">虎</font>の獣人を見かけたら<font color=\"#ffd200\">タイグフリアン</font>を知っているか聞いてみて～すぐ分かるはず！ "
   },
   "803181311003995-SoulBinder-": {
     "npc": "틴차이",
-    "name": "SCRIPTQUEST_0803181311003995_NAME:[F]SoulBinder"
+    "name": "へへっ。それじゃ行ってらっしゃい～\nタイグフリアンは虎の獣人だよ。俊敏な体つきに豪快な性格だから、\n<font color=\"#ffd200\">虎</font>の獣人を見かけたら<font color=\"#ffd200\">タイグフリアン</font>を知っているか聞いてみて～すぐ分かるはず！ "
   },
   "803181311003996-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0803181311003996_NAME:[F]SoulBinder"
+    "name": "なんだ、お前は？ \n謁見式が中止になった理由は分かったのか？ "
   },
   "803181311003997-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003997_NAME:[F]SoulBinder"
+    "name": "もしやタイグフリアンが誰なのか知っているかと尋ねる。"
   },
   "803181311003998-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0803181311003998_NAME:[F]SoulBinder"
+    "name": "…お前、今なんて言った？俺が聞いたのはその名前で合ってるか？ \nまさか…お前、どこから来た？その名前を誰から聞いた？"
   },
   "803181311003999-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311003999_NAME:[F]SoulBinder"
+    "name": "波色の山から来た$npcName:11001707[gender:1]$が教えてくれたと答える。"
   },
   "803181311004000-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0803181311004000_NAME:[F]SoulBinder"
+    "name": "……\n<font color=\"#909090\">(タイクンは何も言えず、その場に立ち尽くしている。)</font>"
   },
   "803181311004001-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311004001_NAME:[F]SoulBinder"
+    "name": "よく知らないなら他の人に聞きに行くと言う。"
   },
   "803181311004002-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0803181311004002_NAME:[F]SoulBinder"
+    "name": "ま…待て。よく来てくれた。 \nそれは<font color=\"#ffd200\">俺の名前</font>だ。"
   },
   "803181311004003-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0803181311004003_NAME:[F]SoulBinder"
+    "name": "お前…<font color=\"#ffd200\">$npc:11001707[gender:1]$</font>とはどういう関係だ。 \n2人だけでここに来たのか？今$npc:11001707[gender:1]$はどこにいる？"
   },
   "803181311004004-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311004004_NAME:[F]SoulBinder"
+    "name": "$map:52000041$で$npcName:11001716[gender:0]$を看病していると答える。"
   },
   "803181311004005-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0803181311004005_NAME:[F]SoulBinder"
+    "name": "な…なんだと？<font color=\"#ffd200\">$npcName:11001716[gender:0]$</font>？あいつがまたどうして？\n山に籠もって<font color=\"#ffd200\">修練で忙しいはずのやつ</font>が、ここで誰と何をしてるんだ？\nま、まさかマスターに追い出されたのか？一体何があったんだ？"
   },
   "803181311004006-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311004006_NAME:[F]SoulBinder"
+    "name": "<font color=\"#909090\">(がっしりした体つきで豪快な性格だと言っていたが…こいつが本人なのかどうか分からない。)</font> "
   },
   "803181311004007-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0803181311004007_NAME:[F]SoulBinder"
+    "name": "ああ、もどかしい！$MyPCName$、答えろよ！ \n一体何があったのかって聞いてるんだ！ \nそれから、<font color=\"#ffd200\">マスター</font>はお元気なのか？"
   },
   "803181311004008-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311004008_NAME:[F]SoulBinder"
+    "name": "これまでにあったことを簡単に話してやる。"
   },
   "803181311004009-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0803181311004009_NAME:[F]SoulBinder"
+    "name": "そんなことがあったなんて…俺にできることなら何でも手伝うぞ。任せてくれ。\nその前に、<font color=\"#ffd200\">家</font>に行って<font color=\"#ffd200\">$npc:11001707[gender:1]$</font>に会わないとな。\n本当に久しぶりだ…相変わらず賢くてきれいで愛らしいんだろうな？ふふっ。"
   },
   "803181311004010-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311004010_NAME:[F]SoulBinder"
+    "name": "$npcName:11001707[gender:1]$が黙って家に押しかけたようなものだが、それでもいいのかと尋ねる。"
   },
   "803181311004011-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0803181311004011_NAME:[F]SoulBinder"
+    "name": "<font color=\"#ffd200\">$npc:11001707[gender:1]$</font>ならもちろん構わないさ。頑張ってメルを貯めて$map:02000001$に\n住まいを構えたかいがあるってもんだ。えへへへ。 \nじゃあ俺は毛づくろいしてから行くから、<font color=\"#ffd200\">$map:52000041$</font>で会おう。 "
   },
   "803181311004012-SoulBinder-": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0803181311004012_NAME:[F]SoulBinder"
+    "name": "俺は毛づくろいしてから行くから、<font color=\"#ffd200\">$map:52000041$</font>で会おう。 \n$npc:11001707[gender:1]$…待っててくれ…！"
   },
   "803181311004013-SoulBinder-": {
     "npc": "준타",
@@ -63333,7 +63333,7 @@
   },
   "803181311004026-SoulBinder-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0803181311004026_NAME:[F]SoulBinder"
+    "name": "…行ってくると言う。"
   },
   "803181311004027-SoulBinder-": {
     "npc": "틴차이",
@@ -63601,11 +63601,11 @@
   },
   "803181311004093-SoulBinder-": {
     "npc": "보기",
-    "name": "SCRIPTQUEST_0803181311004093_NAME:[F]SoulBinder"
+    "name": "$MyPCName$様！$npc:11001707[gender:1]$様という方から届いた連絡です。\n話があるので$map:52000041$で会いたいとおっしゃっています。"
   },
   "803181311004094-SoulBinder-": {
     "npc": "보기",
-    "name": "SCRIPTQUEST_0803181311004094_NAME:[F]SoulBinder"
+    "name": "$MyPCName$様！$npc:11001707[gender:1]$様という方から届いた連絡です。\n話があるので$map:52000041$で会いたいとおっしゃっています。"
   },
   "803181311004095-SoulBinder-": {
     "npc": "틴차이",
@@ -63845,11 +63845,11 @@
   },
   "803181311004154-SoulBinder-": {
     "npc": "보기",
-    "name": "SCRIPTQUEST_0803181311004154_NAME:[F]SoulBinder"
+    "name": "$MyPCName$様！$npc:11001707[gender:1]$様という方から届いた連絡です。\n話があるので$map:52000041$で会いたいとおっしゃっています。"
   },
   "803181311004155-SoulBinder-": {
     "npc": "보기",
-    "name": "SCRIPTQUEST_0803181311004155_NAME:[F]SoulBinder"
+    "name": "$MyPCName$様！$npc:11001707[gender:1]$様という方から届いた連絡です。\n話があるので$map:52000041$で会いたいとおっしゃっています。"
   },
   "803181311004156-SoulBinder-": {
     "npc": "틴차이",
@@ -64313,11 +64313,11 @@
   },
   "803181311004271-SoulBinder-": {
     "npc": "보기",
-    "name": "SCRIPTQUEST_0803181311004271_NAME:[F]SoulBinder"
+    "name": "$MyPCName$様！$npc:11001707[gender:1]$様という方から届いた連絡です。\n話があるので$map:52000041$で会いたいとおっしゃっています。"
   },
   "803181311004272-SoulBinder-": {
     "npc": "보기",
-    "name": "SCRIPTQUEST_0803181311004272_NAME:[F]SoulBinder"
+    "name": "$MyPCName$様！$npc:11001707[gender:1]$様という方から届いた連絡です。\n話があるので$map:52000041$で会いたいとおっしゃっています。"
   },
   "803181311004273-SoulBinder-": {
     "npc": "틴차이",
@@ -64961,7 +64961,7 @@
   },
   "812174702005759-DoubleImpactStory-": {
     "npc": "제이시",
-    "name": "SCRIPTQUEST_0812174702005759_NAME:[F]DoubleImpactStory"
+    "name": "一体あの人たちが何だというんですか、命まで懸けて…。はぁ… \n黒星会本部の建物の地下に密室があります。\nそこにあなたの探している人たちが閉じ込められているという話を聞いたことがあります。"
   },
   "812174702005760-DoubleImpactStory-": {
     "npc": "pc",
@@ -65053,7 +65053,7 @@
   },
   "816135802005769-DoubleImpactStory-": {
     "npc": "제이시",
-    "name": "SCRIPTQUEST_0816135802005769_NAME:[F]DoubleImpactStory"
+    "name": "どうしても行くというなら、$map:02000156$の入口は覚えていますよね？その周りをよく調べれば、地下の秘密通路に \nつながる扉があるはずです。\n$map:63000015$とつながる<font color=\"#ffd200\">$map:63000016$</font>へ直接入れるはずですから、少なくとも \n<font color=\"#ffd200\">$npcName:11000251[gender:0]$</font>の顔は見られるでしょう。"
   },
   "816135802005770-DoubleImpactStory-": {
     "npc": "pc",
@@ -65065,7 +65065,7 @@
   },
   "816135802005772-DoubleImpactStory-": {
     "npc": "웨이 홍",
-    "name": "SCRIPTQUEST_0816135802005772_NAME:[F]DoubleImpactStory"
+    "name": "まあ、どうせ俺には何の関わりもない人間ども…死のうが生きようが知ったことではない。\n<font color=\"#ffd200\">灰色のオオカミ</font>…お前とは違ってな…クックック… "
   },
   "816135802005773-DoubleImpactStory-": {
     "npc": "pc",
@@ -65089,7 +65089,7 @@
   },
   "816135802005778-DoubleImpactStory-": {
     "npc": "제이시",
-    "name": "SCRIPTQUEST_0816135802005778_NAME:[F]DoubleImpactStory"
+    "name": "差出人の名前はありませんが…おそらくあの人でしょうね？\nあなたを$map:52000045$で助けてくれた… \n今すぐ<font color=\"#ffd200\">$map:63000038$</font>へ向かってみますか？"
   },
   "816160004001437-ContentsGuide03-": {
     "npc": "리브",
@@ -67297,7 +67297,7 @@
   },
   "831174302000026--": {
     "npc": "어흥이",
-    "name": "SCRIPTQUEST_0831174302000026_NAME"
+    "name": "絶対に何か企んでるはずだ。においがするんだよ！\n何を隠してるのか、突き止めてやる。"
   },
   "831174302000027--": {
     "npc": "pc",
@@ -84385,7 +84385,7 @@
   },
   "831175903000525--": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0831175903000525_NAME"
+    "name": "うれしそうにあいさつする。"
   },
   "831175903000526--": {
     "npc": "디케이",

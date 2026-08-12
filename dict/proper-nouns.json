@@ -1009,10 +1009,10 @@
       "source": "jms2 (questname)"
     },
     "Starlight Expedition": {
-      "ja": "星明かり遠征隊",
+      "ja": "星色遠征隊",
       "ko": "별빛 원정대",
-      "source": "session",
-      "note": "별빛=星明かり(questname: 星明かりの義理)"
+      "source": "jms2 (itemname/npcname/mapname/titlename 計25件)",
+      "note": "組織名は星色遠征隊が正。questdescription_final のみ公式訳が「星明かり遠征隊」(10件)と割れているが、命名系ファイルが一貫して星色遠征隊のためそちらを採用。일반語の 별빛 単体は「星明かり」でよい"
     },
     "Kwinko Grave Robbers": {
       "ja": "クィンコ盗掘団",
