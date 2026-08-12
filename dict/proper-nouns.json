@@ -99,8 +99,7 @@
     "Prison Tower": {
       "ja": "監獄の塔",
       "ko": "감옥의 탑",
-      "type": "場所",
-      "source": "session"
+      "source": "jms2 (mapname)"
     },
     "Katramus": {
       "ja": "カトラムス",
@@ -179,6 +178,37 @@
       "ja": "ルディブリアム",
       "ko": "루디브리엄",
       "source": "jms2 (questdescription: ルディブリアムキューブ)"
+    },
+    "Forain Forest": {
+      "ja": "フォレインの森",
+      "ko": "포레인 숲",
+      "source": "jms2 (mapname)"
+    },
+    "Turkalion": {
+      "ja": "空中要塞トゥルカリオン",
+      "ko": "공중요새 투르칼리온",
+      "source": "jms2 (mapname)"
+    },
+    "Black Moon Abyss": {
+      "ja": "黒月の深淵",
+      "ko": "검은달 심연",
+      "source": "jms2 (mapname)"
+    },
+    "Evansville": {
+      "ja": "エバンズビル",
+      "ko": "에반스빌",
+      "source": "jms2 (mapname)",
+      "note": "NPCタグ経由の合成語では「$npc$ズビル」"
+    },
+    "Elinel Magic Academy": {
+      "ja": "魔法学院エリネル",
+      "ko": "마법학원 엘리넬",
+      "source": "jms2 (mapname)"
+    },
+    "Lith Harbor": {
+      "ja": "リス港口",
+      "ko": "리스항구",
+      "source": "jms2 (mapname/korflash)"
     }
   },
   "bosses_monsters": {
@@ -206,14 +236,13 @@
     "Turka": {
       "ja": "トゥルカ",
       "ko": "투르카",
-      "source": "corpus",
-      "note": "Lv70レイド"
+      "source": "jms2 (achievedescription: トゥルカの宝石箱)",
+      "note": "闇の軍団の指導者"
     },
     "Timaion": {
       "ja": "ティマイオン",
       "ko": "티마이온",
-      "source": "session",
-      "note": "Renegade Timaion=裏切り者ティマイオン(변절자 티마이온)"
+      "source": "jms2 (itemname: 裏切り者ティマイオン)"
     },
     "Humanitas": {
       "ja": "ヒューマニタス",
@@ -236,7 +265,7 @@
     "Gigantica": {
       "ja": "ギガンティカ",
       "ko": "기간티카",
-      "source": "session"
+      "source": "jms2 (achievename/questdescription)"
     },
     "Lumieragon": {
       "ja": "ルミエラゴン",
@@ -379,6 +408,56 @@
       "ko": "딱딱새",
       "source": "session",
       "note": "アムホストの珍鳥"
+    },
+    "Grazna": {
+      "ja": "グラズナ",
+      "ko": "그라즈나",
+      "source": "jms2 (npcname: 月影のグラズナ)"
+    },
+    "Norcacias": {
+      "ja": "ノルカシアス",
+      "ko": "노르카시아스",
+      "source": "jms2 (npcname)"
+    },
+    "Solo Spirit": {
+      "ja": "ソロ悪霊",
+      "ko": "솔로 악령",
+      "source": "jms2 (npcname: 恨みのこもったソロ悪霊)"
+    },
+    "Fiar de Carlo": {
+      "ja": "フィア・ド・カルロ",
+      "ko": "피어 드 카를로",
+      "source": "jms2 (npcname)"
+    },
+    "Kabon": {
+      "ja": "警備団長カボン",
+      "ko": "경비단장 카본",
+      "source": "jms2 (npcname)"
+    },
+    "King Tabo": {
+      "ja": "ピグ王タボ",
+      "ko": "돼지왕 타보",
+      "source": "jms2 (npcname)"
+    },
+    "Stumpy": {
+      "ja": "スタンピ",
+      "ko": "스텀피",
+      "source": "jms2 (npcname)"
+    },
+    "Cloro": {
+      "ja": "恐ろしのクロロ",
+      "ko": "끔찍 클로로",
+      "source": "jms2 (npcname)"
+    },
+    "Giant Sewer Creep": {
+      "ja": "オオクシ下水道虫",
+      "ko": "큰빗하수구벌레",
+      "source": "jms2 (stringguide)"
+    },
+    "Piggy": {
+      "ja": "ピギー",
+      "ko": "꿀꿀이",
+      "source": "jms2 (npcname: 不良ピギー/お腹空いたピギー)"
     }
   },
   "npcs_characters": {
@@ -403,12 +482,12 @@
     "Marlene": {
       "ja": "マルレーネ",
       "ko": "마를레네",
-      "source": "session"
+      "source": "jms2 (itemname: 称号：マルレーネの意志)"
     },
     "Mason": {
       "ja": "メイソン",
       "ko": "메이슨",
-      "source": "corpus"
+      "source": "jms2 (achievename: メイソンの守護騎士)"
     },
     "Anellas": {
       "ja": "アネラス",
@@ -418,7 +497,7 @@
     "Ladin": {
       "ja": "ラージン",
       "ko": "라딘",
-      "source": "corpus"
+      "source": "jms2 (itemname/mapname: ラージンコープ研究室)"
     },
     "Jayce": {
       "ja": "ジェイシー",
@@ -439,7 +518,7 @@
     "Claudia": {
       "ja": "クラウディア",
       "ko": "클라디아",
-      "source": "session"
+      "source": "jms2 (npcname)"
     },
     "Claudine": {
       "ja": "クローディーン",
@@ -478,9 +557,9 @@
       "source": "jms2 (npcname 11000601)"
     },
     "Manovich": {
-      "ja": "マノビッチ",
+      "ja": "マノヴィッチ",
       "ko": "마노비치",
-      "source": "session"
+      "source": "jms2 (npcname)"
     },
     "Named": {
       "ja": "ナメド",
@@ -488,9 +567,10 @@
       "source": "session"
     },
     "Paika": {
-      "ja": "パイカ",
+      "ja": "ペイカ",
       "ko": "페이카",
-      "source": "session"
+      "source": "jms2 (npcname)",
+      "note": "itemnameに1件パイカ表記があるがペイカが多数派"
     },
     "GM Lola": {
       "ja": "GMローラ",
@@ -588,8 +668,8 @@
     "Nairin": {
       "ja": "ネイリン",
       "ko": "네이린",
-      "source": "session",
-      "note": "スカイフォートレス研究員(11004315)"
+      "source": "jms2 (scriptquest)",
+      "note": "スカイフォートレス研究員"
     },
     "Bomar": {
       "ja": "ボマル",
@@ -625,6 +705,97 @@
       "ko": "홀슈타트",
       "source": "jms2 (chapterdescription_epic: ハルシュタットの計略)",
       "note": "最強の剣士。ホルシュタットではない"
+    },
+    "Blitze": {
+      "ja": "ブリーチェ",
+      "ko": "블리체",
+      "source": "jms2 (chapterdescription_famecontents: フォートレスランブル：ブリーチェ)",
+      "note": "スカイフォートレス艦長"
+    },
+    "Kal": {
+      "ja": "カール",
+      "ko": "칼",
+      "source": "jms2 (npcname)"
+    },
+    "Kilian": {
+      "ja": "キリアン",
+      "ko": "킬리안",
+      "source": "jms2 (npcname)"
+    },
+    "Baron": {
+      "ja": "バロン",
+      "ko": "바론",
+      "source": "jms2 (npcname/mapname: バロンの監獄)",
+      "note": "七英雄の1人"
+    },
+    "Visset": {
+      "ja": "ビセット",
+      "ko": "비셋",
+      "source": "jms2 (questdescription_final/scriptquest)",
+      "note": "最後のドラゴンマスター"
+    },
+    "Basara Chen": {
+      "ja": "バサラ・チェン",
+      "ko": "바사라 첸",
+      "source": "jms2 (npcname)",
+      "note": "黒星会のナンバー2"
+    },
+    "Madria": {
+      "ja": "マドリア",
+      "ko": "마드리아",
+      "source": "jms2 (achievename/chapterdescription_epic)"
+    },
+    "Miel": {
+      "ja": "ミエル",
+      "ko": "미엘",
+      "source": "jms2 (itemname)"
+    },
+    "Luche": {
+      "ja": "ルチェ",
+      "ko": "루체",
+      "source": "jms2 (npcname)"
+    },
+    "Ophelia": {
+      "ja": "オフィリア",
+      "ko": "오필리아",
+      "source": "jms2 (npcname)"
+    },
+    "Orde": {
+      "ja": "オルデ",
+      "ko": "오르데",
+      "source": "jms2 (npcname)"
+    },
+    "Rovey": {
+      "ja": "ロベ",
+      "ko": "로베",
+      "source": "jms2 (npcname)"
+    },
+    "Startz": {
+      "ja": "スターツ",
+      "ko": "스타츠",
+      "source": "jms2 (npcname)"
+    },
+    "Pathos": {
+      "ja": "パトス",
+      "ko": "파토스",
+      "source": "jms2 (npcname)",
+      "note": "闇のイノセント"
+    },
+    "Queen Bean": {
+      "ja": "クイーンビーン",
+      "ko": "퀸크빈",
+      "source": "jms2 (npcname)"
+    },
+    "Rolling Thunder": {
+      "ja": "ゴロゴロ雷",
+      "ko": "구르는 천둥",
+      "source": "jms2 (npcname)",
+      "note": "ペリオンの族長。音訳ではなく意訳が公式"
+    },
+    "Mano": {
+      "ja": "マノ",
+      "ko": "마노",
+      "source": "jms2 (npcname)"
     }
   },
   "mascots_pets": {
@@ -929,6 +1100,32 @@
       "ko": "백염룡",
       "source": "session",
       "note": "メイソン(11004316)の剣"
+    },
+    "Ener": {
+      "ja": "エネル",
+      "ko": "에네르",
+      "source": "jms2 (questdescription/npcname)",
+      "note": "エネル凝縮器/エネル分光装置/エネルの欠片"
+    },
+    "Blue Lapenta": {
+      "ja": "ブルーラペンタ",
+      "ko": "블루 라펜타",
+      "source": "jms2 (achievename/itemname)"
+    },
+    "Innocent of Darkness": {
+      "ja": "闇のイノセント",
+      "ko": "어둠의 이노센트",
+      "source": "jms2 (stringcolorpalettedesc)"
+    },
+    "Rainbow Snail": {
+      "ja": "レインボーデンデン",
+      "ko": "무지개 달팽이",
+      "source": "jms2 (itemname/skillname)"
+    },
+    "Pinata": {
+      "ja": "ピニャータ",
+      "ko": "피냐타",
+      "source": "jms2 (itemname/mapname)"
     }
   },
   "lore_notes": {

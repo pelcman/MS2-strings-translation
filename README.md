@@ -12,22 +12,22 @@ MapleStory 2 (MS2) クライアント文字列データの日本語化プロジ�
 
 | 区分 | ファイル数 | 未翻訳の残り |
 |---|---:|---:|
-| ✅ 完了(本プロジェクトで翻訳) | 32 | 0 |
+| ✅ 完了(本プロジェクトで翻訳) | 33 | 0 |
 | ✅ 完了(JMS2 既訳のみで作業不要) | 30 | 0 |
-| 🔄 作業中・未着手 | 2 | 54,644 |
+| 🔄 作業中・未着手 | 1 | 18,339 |
 
 - 「残り」= 未翻訳(プレースホルダー形式またはハングル残存)のうち、KO/EN のいずれかに実文があるもの。
 - 「残置(源無し)」= 全言語でプレースホルダーのみ(翻訳元が存在しない)。方針によりそのまま残す。
 - 開発者向けメモ等の正当な韓国語フィールドは集計対象外
-  (stringcommon の comment/desc 系、maidmanufacturemessage の npc、chapterdescription の isTutorial、addressname の *Kor)。
+  (stringcommon の comment/desc 系、maidmanufacturemessage の npc、chapterdescription の isTutorial、addressname の *Kor、
+  stringtrigger・scriptquest の npc(話者ID)と type(トリガー関数名)。いずれも JP・EN とも原文のまま)。
 - 表の再生成: `python work/scripts/status.py`
 
 ## 🔄 作業中・未着手
 
 | ファイル | 対象フィールド | 残り | 残置(源無し) | 状況 |
 |---|---:|---:|---:|---|
-| scriptquest | 70,453 | 45,068 | 46 | 未着手(ストーリー会話。最大のデータ) |
-| stringtrigger | 22,710 | 9,576 | 0 | 未着手(トリガーメッセージ) |
+| scriptquest | 35,232 | 18,339 | 33 | 未着手(ストーリー会話。最大のデータ) |
 
 ## ✅ 完了(本プロジェクトで翻訳したファイル)
 
@@ -65,6 +65,7 @@ MapleStory 2 (MS2) クライアント文字列データの日本語化プロジ�
 | stringfieldenterance | 427 | 0 | 5 |
 | stringguide | 1,327 | 0 | 0 |
 | stringnpcai | 498 | 0 | 0 |
+| stringtrigger | 7,778 | 0 | 0 |
 | titlename | 783 | 0 | 0 |
 | usmsubtitletext | 226 | 0 | 0 |
 
