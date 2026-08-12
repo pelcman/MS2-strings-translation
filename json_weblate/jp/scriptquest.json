@@ -6273,15 +6273,15 @@
   },
   "107200521028760-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107200521028760_NAME:[F]Kritias_2018_12"
+    "name": "…………。\n様々なモンスターを確保して、データを得ることだ。"
   },
   "107200521028761-Kritias_2018_12-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107200521028761_NAME:[F]Kritias_2018_12"
+    "name": "(…必要なモンスターがいるのかと尋ねる。)"
   },
   "107200521028762-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107200521028762_NAME:[F]Kritias_2018_12"
+    "name": "研究員たちが<font color=\"#ffd200\">$map:02020033$</font>の<font color=\"#ffd200\">$item:61000170$</font>を研究してみたいそうだ。\n<font color=\"#ffd200\">$map:02020033$</font>へ移動してモンスターを確保してくること。 \n以上だ。"
   },
   "107200521028763-Kritias_2018_12-": {
     "npc": "PC",
@@ -6289,7 +6289,7 @@
   },
   "107200521028764-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107200521028764_NAME:[F]Kritias_2018_12"
+    "name": "…四足歩行のモンスターは、やはりいないのか。"
   },
   "107202221028765-Kritias_2018_12-": {
     "npc": "PC",
@@ -6297,7 +6297,7 @@
   },
   "107202221028766-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107202221028766_NAME:[F]Kritias_2018_12"
+    "name": "まだ<font color=\"#ffd200\">$map:02020018$</font>の<font color=\"#ffd200\">$item:61000166$</font>は分析が足りないそうだ。\nどうせやる研究なら全て完璧であってほしいのだが、そのモンスターを確保できるか？"
   },
   "107202221028767-Kritias_2018_12-": {
     "npc": "pc",
@@ -6305,59 +6305,59 @@
   },
   "107202221028768-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107202221028768_NAME:[F]Kritias_2018_12"
+    "name": "予想通りの答えだな。\nでは待っているぞ。"
   },
   "107202221028769-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107202221028769_NAME:[F]Kritias_2018_12"
+    "name": "モンスターは私が研究チームへ渡す。\n分析の後、いつも通り元いた場所へ帰す予定だ。"
   },
   "107205121028770-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107205121028770_NAME:[F]Kritias_2018_12"
+    "name": "(クリティアス大陸の生命体研究のために必要なモンスターがいるのかと尋ねる。)"
   },
   "107205121028771-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107205121028771_NAME:[F]Kritias_2018_12"
+    "name": "その通りだ。\n研究員たちは今回<font color=\"#ffd200\">$map:02020037$</font>の<font color=\"#ffd200\">$item:61000169$</font>を分析したいそうだ。"
   },
   "107205121028772-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107205121028772_NAME:[F]Kritias_2018_12"
+    "name": "(少し待ってほしいと言う。)"
   },
   "107205121028773-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107205121028773_NAME:[F]Kritias_2018_12"
+    "name": "いつも信頼している。$MyPCName$。"
   },
   "107205121028774-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107205121028774_NAME:[F]Kritias_2018_12"
+    "name": "(全然つらくないと言う。)"
   },
   "107205121028775-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107205121028775_NAME:[F]Kritias_2018_12"
+    "name": "それでも無理をしてはいかん。\n暇な時は休んで体力を蓄えておくように。"
   },
   "107211221028776-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211221028776_NAME:[F]Kritias_2018_12"
+    "name": "その先は私が説明してもよろしいですか、艦長？\nかわい子ちゃん、そんな最中に、ある研究員が夜中にうっかり確保していたモンスターを全部逃がしてしまったのよ。\n今、研究員たちは犯人を捕まえたらただじゃおかないって、みんな目を光らせているの！"
   },
   "107211221028777-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211221028777_NAME:[F]Kritias_2018_12"
+    "name": "みんな犯人を捕まえてくれと私のところへ来たけど、だからといって誰の仕業か教えるわけにはいかないでしょ？\nとりあえず研究員たちをなだめるために、逃げたモンスターをもう一度捕まえてきてくれる？\n私はその間、悪い犯人と教育の時間を持たなきゃね。"
   },
   "107211221028778-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211221028778_NAME:[F]Kritias_2018_12"
+    "name": "逃げたモンスターは<font color=\"#ffd200\">$map:02020009$</font>の<font color=\"#ffd200\">$item:61000163$</font>だそうだ。\nでは、頼むぞ。"
   },
   "107211221028779-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211221028779_NAME:[F]Kritias_2018_12"
+    "name": "おかげで研究員たちを安心させられそうだ。\n感謝する、$MyPCName$。"
   },
   "107211221028780-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211221028780_NAME:[F]Kritias_2018_12"
+    "name": "名前とは裏腹にひどく大人しく、研究員たちの興味を刺激したようだ。\n研究のための確保を頼む。"
   },
   "107211221028781-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211221028781_NAME:[F]Kritias_2018_12"
+    "name": "(言われたモンスターで合っているのではないかと尋ねる。)"
   },
   "107211221028782-Kritias_2018_12-": {
     "npc": "블리체",
@@ -6365,19 +6365,19 @@
   },
   "107211221028783-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211221028783_NAME:[F]Kritias_2018_12"
+    "name": "すぐに研究員たちへ渡すとしよう。"
   },
   "107211319010249-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010249_NAME:[F]Kritias_2018_12"
+    "name": "(完了した日々の業務について報告する。)"
   },
   "107211319010250-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010250_NAME:[F]Kritias_2018_12"
+    "name": "ご苦労だった、$MyPCName$。\n今回も与えられた業務を見事に片付けたな。\n報告もまた申し分ない。"
   },
   "107211319010251-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010251_NAME:[F]Kritias_2018_12"
+    "name": "あら、私のかわい子ちゃんは艦長に褒められているところ？\n報告が終わったならこっちへ来ない？"
   },
   "107211319010252-Kritias_2018_12-": {
     "npc": "PC",
@@ -6385,231 +6385,231 @@
   },
   "107211319010253-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010253_NAME:[F]Kritias_2018_12"
+    "name": "それがね、隊員たちの間で妙な噂が流れているのよ。 "
   },
   "107211319010254-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010254_NAME:[F]Kritias_2018_12"
+    "name": "私が誰だと思う？シャドウウィンドの<font color=\"#ffd200\">$npcName:11004314[gender:1]$</font>様でしょう？\nだからあちこち回って調べてみたの。 \nそうしたら…噂の正体を直接見てしまったのよ。"
   },
   "107211319010255-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010255_NAME:[F]Kritias_2018_12"
+    "name": "大きな翼に、いかにも不服そうな顔…。\nここまで言えば誰か分かるでしょう？"
   },
   "107211319010256-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010256_NAME:[F]Kritias_2018_12"
+    "name": "(まだよく分からないと言う。)"
   },
   "107211319010257-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010257_NAME:[F]Kritias_2018_12"
+    "name": "ふーん、私はかわい子ちゃんに期待しすぎたのかしら？\nとりあえず<font color=\"#ffd200\">$map:02020013$</font>へ行ってみて。"
   },
   "107211319010258-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010258_NAME:[F]Kritias_2018_12"
+    "name": "そこへ行っても分からなかったら連絡してね、あなた～。"
   },
   "107211319010259-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010259_NAME:[F]Kritias_2018_12"
+    "name": "ひとまず<font color=\"#ffd200\">$map:02020013$</font>へ行ってみるように。"
   },
   "107211319010260-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010260_NAME:[F]Kritias_2018_12"
+    "name": "ザザッ…ザザッ…ザザッ…。\n(スカイフォートレスとの交信を試みる。)"
   },
   "107211319010261-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010261_NAME:[F]Kritias_2018_12"
+    "name": "うちのかわい子ちゃん、答えは見つかった？"
   },
   "107211319010262-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010262_NAME:[F]Kritias_2018_12"
+    "name": "(考えてみたが、誰なのか分からないと言う。)"
   },
   "107211319010263-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010263_NAME:[F]Kritias_2018_12"
+    "name": "ふん、思ったよりセンスがないのね。\n大きな翼に、いかにも不服そうな顔…。"
   },
   "107211319010264-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010264_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$npcName:23090006[gender:0]$</font>以外にいる？"
   },
   "107211319010265-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010265_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$npcName:11004314[gender:1]$</font>、それは事実か？"
   },
   "107211319010266-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010266_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020013$</font>を飛び回る奴を、この両目ではっきり見ました。\n一体なぜ奴がここクリティアスへ来たのか、何を企んでいるのかは分かりませんが、スカイフォートレスには大きな脅威となるでしょう。"
   },
   "107211319010267-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010267_NAME:[F]Kritias_2018_12"
+    "name": "同感だな。"
   },
   "107211319010268-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010268_NAME:[F]Kritias_2018_12"
+    "name": "奴の痕跡を追って、なぜここへ来たのか調べてくれる？"
   },
   "107211319010269-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010269_NAME:[F]Kritias_2018_12"
+    "name": "奴の痕跡を追って、なぜここへ来たのか調べてくれる？"
   },
   "107211319010270-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010270_NAME:[F]Kritias_2018_12"
+    "name": "こちら$MyPCName$。\nスカイフォートレス、聞こえますか？"
   },
   "107211319010271-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010271_NAME:[F]Kritias_2018_12"
+    "name": "$MyPCName$！もう見つけたの？"
   },
   "107211319010272-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010272_NAME:[F]Kritias_2018_12"
+    "name": "(<font color=\"#ffd200\">$npcName:23090006[gender:0]$</font>ではないが<font color=\"#ffd200\">$npcName:25020906$</font>を発見したと言う。)"
   },
   "107211319010273-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010273_NAME:[F]Kritias_2018_12"
+    "name": "何ですって？！ \n<font color=\"#ffd200\">$npcName:25020906$</font>もここにいるの？"
   },
   "107211319010274-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010274_NAME:[F]Kritias_2018_12"
+    "name": "(写真を送ると言う。)"
   },
   "107211319010275-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010275_NAME:[F]Kritias_2018_12"
+    "name": "送ってくれた写真、確認した。\n<font color=\"#ffd200\">$npcName:11004315[gender:0]$</font>に分析を求める必要もなさそうだ。"
   },
   "107211319010276-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010276_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$npcName:25020906$</font>で間違いありませんね。\n見たところ<font color=\"#ffd200\">$npcName:23090006[gender:0]$</font>が手下まで全て引き連れてここへ来たようですね？"
   },
   "107211319010277-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010277_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$npcName:11004315[gender:0]$</font>、今すぐ<font color=\"#ffd200\">$npcName:23090006[gender:0]$</font>を目標にMAVIEWレーダーを稼働させるように。"
   },
   "107211319010278-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0107211319010278_NAME:[F]Kritias_2018_12"
+    "name": "はい！MAVIEWレーダー稼働開始…。\n<font color=\"#ffd200\">$map:02020017$</font>で<font color=\"#ffd200\">$npcName:23090006[gender:0]$</font>の反応を捕捉しました！"
   },
   "107211319010279-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010279_NAME:[F]Kritias_2018_12"
+    "name": "まず<font color=\"#ffd200\">$map:02020017$</font>へ移動するように。"
   },
   "107211319010280-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010280_NAME:[F]Kritias_2018_12"
+    "name": "まず<font color=\"#ffd200\">$map:02020017$</font>へ移動するように。"
   },
   "107211319010281-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010281_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">ゲオルク</font>、聞こえますか？"
   },
   "107211319010282-Kritias_2018_12-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0107211319010282_NAME:[F]Kritias_2018_12"
+    "name": "よく聞こえます。何事ですか？"
   },
   "107211319010283-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010283_NAME:[F]Kritias_2018_12"
+    "name": "こちらで<font color=\"#ffd200\">$npcName:23090006[gender:0]$</font>の痕跡が発見されたため、警告いたします。"
   },
   "107211319010284-Kritias_2018_12-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0107211319010284_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$npcName:23090006[gender:0]$</font>…ですか？"
   },
   "107211319010285-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010285_NAME:[F]Kritias_2018_12"
+    "name": "(大きな翼が生えていて、いかにも不服そうな顔だと言う。)"
   },
   "107211319010286-Kritias_2018_12-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0107211319010286_NAME:[F]Kritias_2018_12"
+    "name": "それを<font color=\"#ffd200\">$npcName:23090006[gender:0]$</font>というのですか？\nその怪物は<font color=\"#ffd200\">クリティアス</font>の封印が解けた後、ここに現れました。\n私たちの兵士が命がけで、その怪物がここへ来た理由を突き止めたのです。"
   },
   "107211319010287-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010287_NAME:[F]Kritias_2018_12"
+    "name": "(理由は何かと尋ねる。)"
   },
   "107211319010288-Kritias_2018_12-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0107211319010288_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">新しい力</font>です。\nあの怪物は力を求めています。\n兵士たちの話では、あの怪物がここの<font color=\"#ffd200\">エネル</font>と<font color=\"#ffd200\">ラペンシャード</font>を集めているそうです。 "
   },
   "107211319010289-Kritias_2018_12-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0107211319010289_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">ラペンシャード</font>が何なのかはよく分かりませんが。"
   },
   "107211319010290-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010290_NAME:[F]Kritias_2018_12"
+    "name": "意見が一致しますね。"
   },
   "107211319010291-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010291_NAME:[F]Kritias_2018_12"
+    "name": "意見が一致しますね。"
   },
   "107211319010292-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010292_NAME:[F]Kritias_2018_12"
+    "name": "確かなのは、<font color=\"#ffd200\">$npcName:23090006[gender:0]$</font>が新しい力を手に入れれば、メイプルワールドはもちろんクリティアスにも大きな脅威となるという事実です。"
   },
   "107211319010293-Kritias_2018_12-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0107211319010293_NAME:[F]Kritias_2018_12"
+    "name": "最近、隊員たちが彼の位置を把握することに成功しました。\n位置を送ります。"
   },
   "107211319010294-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010294_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$npcName:11004395[gender:1]$</font>様が送ってきた位置へ向かい、今すぐ<font color=\"#ffd200\">$npcName:23090006[gender:0]$</font>を制圧するように。"
   },
   "107211319010295-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010295_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$npcName:11004395[gender:1]$</font>様が送ってきた位置へ向かい、今すぐ<font color=\"#ffd200\">$npcName:23090006[gender:0]$</font>を制圧するように。"
   },
   "107211319010296-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010296_NAME:[F]Kritias_2018_12"
+    "name": "聞こえますか？\n艦長？"
   },
   "107211319010297-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010297_NAME:[F]Kritias_2018_12"
+    "name": "しまった、無線機が使い物にならないじゃないか？\n<font color=\"#ffd200\">$npcName:23090006[gender:0]$</font>と戦った時に壊れたのか？"
   },
   "107211319010298-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010298_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#909090\">(バベニへ戻って直接報告しないとな。)</font>"
   },
   "107211319010299-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010299_NAME:[F]Kritias_2018_12"
+    "name": "バベニへ直接行って報告しないとな。"
   },
   "107211319010300-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010300_NAME:[F]Kritias_2018_12"
+    "name": "バベニへ直接行って報告しないとな。"
   },
   "107211319010301-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010301_NAME:[F]Kritias_2018_12"
+    "name": "連絡が途絶えて心配した。\n幸い無事だな。"
   },
   "107211319010302-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010302_NAME:[F]Kritias_2018_12"
+    "name": "(無線機が壊れて報告できなかったと言う。)"
   },
   "107211319010303-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010303_NAME:[F]Kritias_2018_12"
+    "name": "交戦中に破損したのか？ \n研究隊員に耐久度を上げるよう命じねばならんな。\n<font color=\"#ffd200\">$npcName:23090006[gender:0]$</font>は制圧したか？"
   },
   "107211319010304-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010304_NAME:[F]Kritias_2018_12"
+    "name": "(簡単ではなかったが制圧したと言う。)"
   },
   "107211319010305-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010305_NAME:[F]Kritias_2018_12"
+    "name": "うちのかわい子ちゃん、なかなかやるじゃない！\n艦長、もう<font color=\"#ffd200\">$npcName:23090006[gender:0]$</font>の件は終結してもよさそうですね？"
   },
   "107211319010306-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010306_NAME:[F]Kritias_2018_12"
+    "name": "安心するのは早い。 \n<font color=\"#ffd200\">$npcName:23090006[gender:0]$</font>があまりに簡単に制圧されたという気がする。"
   },
   "107211319010307-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107211319010307_NAME:[F]Kritias_2018_12"
+    "name": "ここに<font color=\"#ffd200\">$npcName:23090006[gender:0]$</font>がいるのなら、<font color=\"#ffd200\">別の危険</font>も存在しうるだろう。"
   },
   "107211319010308-Kritias_2018_12-": {
     "npc": "샤텐",
-    "name": "SCRIPTQUEST_0107211319010308_NAME:[F]Kritias_2018_12"
+    "name": "艦長、そのお言葉はまさか…？"
   },
   "107211319010309-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010309_NAME:[F]Kritias_2018_12"
+    "name": "あなたも感じたでしょう？ \n馴染みがあるようでない…「異質な闇の力」を…。"
   },
   "107211319010310-Kritias_2018_12-": {
     "npc": "PC",
@@ -6617,123 +6617,123 @@
   },
   "107211319010311-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010311_NAME:[F]Kritias_2018_12"
+    "name": "フッ、相変わらず謙虚ですね、$MyPCName$。"
   },
   "107211319010312-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010312_NAME:[F]Kritias_2018_12"
+    "name": "(もう少し具体的に説明してほしいと言う。)"
   },
   "107211319010313-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010313_NAME:[F]Kritias_2018_12"
+    "name": "異質な闇の力について確信は持てません。\nですが私の「左手の白炎龍」は、この闇の力が看過できない\n危機だと告げています。"
   },
   "107211319010314-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010314_NAME:[F]Kritias_2018_12"
+    "name": "自ら動いて突き止めていただければ、私の口からL等級の機密を語らずに済みます。 \nまずは、我が左手の白炎龍が導くままに…。  \n<font color=\"#ffd200\">$map:02020030$</font>から始めてみましょう。"
   },
   "107211319010315-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010315_NAME:[F]Kritias_2018_12"
+    "name": "私はここで世界を守っております。\n私の心配はせず、早く<font color=\"#ffd200\">$map:02020030$</font>へ出発してください。"
   },
   "107211319010316-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010316_NAME:[F]Kritias_2018_12"
+    "name": "(スカイフォートレスとの交信を試みる。)"
   },
   "107211319010317-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010317_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020030$</font>には無事到着されましたか？\nでは「増幅器」を設置してみましょうか？"
   },
   "107211319010318-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010318_NAME:[F]Kritias_2018_12"
+    "name": "(何の増幅器のことを言っているのか…。)"
   },
   "107211319010319-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010319_NAME:[F]Kritias_2018_12"
+    "name": "グリーンフッド傘下の技術部が新たに開発した、闇の力を検出できる増幅器を使ってみましょう。"
   },
   "107211319010320-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010320_NAME:[F]Kritias_2018_12"
+    "name": "ともあれ…。 \n開発日誌を見ると「微弱な闇の力も捉えられる高性能増幅器」と明記されていますね。"
   },
   "107211319010321-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010321_NAME:[F]Kritias_2018_12"
+    "name": "さあ、動く時です。"
   },
   "107211319010322-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010322_NAME:[F]Kritias_2018_12"
+    "name": "増幅器を<font color=\"#ffd200\">$map:02020030$</font>の各地に設置してください。"
   },
   "107211319010323-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010323_NAME:[F]Kritias_2018_12"
+    "name": "増幅器を<font color=\"#ffd200\">$map:02020030$</font>の各地に設置してください。"
   },
   "107211319010324-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010324_NAME:[F]Kritias_2018_12"
+    "name": "(スカイフォートレスとの交信を試みる。)"
   },
   "107211319010325-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010325_NAME:[F]Kritias_2018_12"
+    "name": "成功です、$MyPCName$。 \n「増幅器」が闇の力を捉えていますね。"
   },
   "107211319010326-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010326_NAME:[F]Kritias_2018_12"
+    "name": "この気配…魔法ではありませんね。\nなぜ異質に感じられたのか理解できました。"
   },
   "107211319010327-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0107211319010327_NAME:[F]Kritias_2018_12"
+    "name": "グリーンフラワーを通じて検出されたデータを「ケイトシード」へアップロード…。分析中…。"
   },
   "107211319010328-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010328_NAME:[F]Kritias_2018_12"
+    "name": "我が左手の白炎龍が…。 \nいえ、私の推論によれば、機械兵士たちが今頃この力の影響を受けているはずです。"
   },
   "107211319010329-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010329_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020031$</font>へ行って私の推論を確かめてください。"
   },
   "107211319010330-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010330_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020031$</font>へ行って私の推論を確かめてください。"
   },
   "107211319010331-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010331_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020031$</font>へ行って私の推論を確かめてください。"
   },
   "107211319010332-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010332_NAME:[F]Kritias_2018_12"
+    "name": "あー、あー、マイクテスト…。あっ！あっ！\n$MyPCName$様、聞こえますか？"
   },
   "107211319010333-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107211319010333_NAME:[F]Kritias_2018_12"
+    "name": "(機械兵士を調査してみたが、特別な力の影響はなかったと言う。)"
   },
   "107211319010334-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010334_NAME:[F]Kritias_2018_12"
+    "name": "ほお…私の推論を外れるとは、何者かは分かりませんが<font color=\"#ffd200\">ずいぶん手の込んだ舞台</font>ですね。\nですが、まだ「高位神官騎士のみの権限」である因果律の書を開く時ではありません。\nその時は…世界が無事では済まないでしょうから。"
   },
   "107211319010335-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010335_NAME:[F]Kritias_2018_12"
+    "name": "それにしても、生物ではなく機械を狙った力とは…。闇の勢力もなかなかやりますね。\nここ「クリティアス」なら、そちらのほうが効率的な方法でしょう。"
   },
   "107211319010336-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010336_NAME:[F]Kritias_2018_12"
+    "name": "やはりこうした案件には<font color=\"#ffd200\">$npcName:11004315[gender:0]$</font>様ほどの適任者はいないでしょう？"
   },
   "107211319010337-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107211319010337_NAME:[F]Kritias_2018_12"
+    "name": "やはりこうした案件には<font color=\"#ffd200\">$npcName:11004315[gender:0]$</font>様ほどの適任者はいないでしょう？"
   },
   "107211319010338-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0107211319010338_NAME:[F]Kritias_2018_12"
+    "name": "コホン！私の出番ですね！ \nこうなると思って、あらかじめエネルギー分析を進めていました。\n技術的な分野なら任せてください！"
   },
   "107211319010339-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0107211319010339_NAME:[F]Kritias_2018_12"
+    "name": "これをご覧ください。\nグリーンフラワーを通じて収集した情報を視覚化した映像です。"
   },
   "107211319010340-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0107211319010340_NAME:[F]Kritias_2018_12"
+    "name": "$npcName:11004316[gender:0]$様のおっしゃること、一理あります。\n私の経験からしても、これはニューラルネットワークの群集体のようです。"
   },
   "107211319010341-Kritias_2018_12-": {
     "npc": "네이린",
@@ -8957,7 +8957,7 @@
   },
   "110183719010621-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0110183719010621_NAME:[F]Kritias_2018_12"
+    "name": "私はここで世界を守っております。\n私の心配はせず、早く<font color=\"#ffd200\">$map:02020030$</font>へ出発してください。"
   },
   "110183719010622-Kritias_2018_12-": {
     "npc": "PC",
