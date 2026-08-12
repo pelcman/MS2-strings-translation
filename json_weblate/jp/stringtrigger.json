@@ -37728,42 +37728,42 @@
     "type": "AddCinematicTalk"
   },
   "52000192_QD__52000192__2-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000192_QD__52000192__2_NAME:[F]EpicApocalypse01",
+    "name": "このままでは女王様が安全に通れません。\\n私が炎を抑えている間、バロンは女王様を守ってください。",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52000192_QD__52000192__3-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000192_QD__52000192__3_NAME:[F]EpicApocalypse01",
+    "name": "…分かった。",
     "npc": "바론",
     "type": "AddCinematicTalk"
   },
   "52000192_QD__52000192__4-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000192_QD__52000192__4_NAME:[F]EpicApocalypse01",
+    "name": "女王様のことは心配するな。",
     "npc": "바론",
     "type": "SideNpcTalk"
   },
   "52000192_QD__52000192__5-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000192_QD__52000192__5_NAME:[F]EpicApocalypse01",
+    "name": "あっ…！",
     "npc": "에레브",
     "type": "AddBalloonTalk"
   },
   "52000192_QD__52000192__6-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000192_QD__52000192__6_NAME:[F]EpicApocalypse01",
+    "name": "これは…昔からたまに見かけた奴らだが、火を避けて這い出てきたな。",
     "npc": "바론",
     "type": "AddCinematicTalk"
   },
   "52000192_QD__52000192__7-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000192_QD__52000192__7_NAME:[F]EpicApocalypse01",
+    "name": "急がないと…！",
     "npc": "에레브",
     "type": "AddBalloonTalk"
   },
   "52000192_QD__52000192__8-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000192_QD__52000192__8_NAME:[F]EpicApocalypse01",
+    "name": "気をつけて！",
     "npc": "에레브",
     "type": "AddBalloonTalk"
   },
   "52000192_QD__52000192__9-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000192_QD__52000192__9_NAME:[F]EpicApocalypse01",
+    "name": "私は大丈夫です。",
     "npc": "에레브",
     "type": "AddBalloonTalk"
   },
@@ -37788,77 +37788,77 @@
     "type": "AddCinematicTalk"
   },
   "52000192_QD__52000192__14-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000192_QD__52000192__14_NAME:[F]EpicApocalypse01",
+    "name": "すぐ前が出口です！！！\\n早く脱出してください、$MyPCName$！",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000193_QD__52000193__0-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000193_QD__52000193__0_NAME:[F]EpicApocalypse01",
+    "name": "その頃…エレヴ女王は",
     "npc": "systemMSG",
     "type": "연출UI를설정한다"
   },
   "52000193_QD__52000193__1-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000193_QD__52000193__1_NAME:[F]EpicApocalypse01",
+    "name": "女帝の寝室",
     "npc": "systemMSG",
     "type": "ShowCaption"
   },
   "52000194_QD__52000194__0-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000194_QD__52000194__0_NAME:[F]EpicApocalypse01",
+    "name": "亀裂が生じた女帝の寝室",
     "npc": "systemMSG",
     "type": "ShowCaption"
   },
   "52000194_QD__52000194__1-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000194_QD__52000194__1_NAME:[F]EpicApocalypse01",
+    "name": "時空の亀裂",
     "npc": "systemMSG",
     "type": "ShowCaption"
   },
   "52000195_QD__52000195__0-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000195_QD__52000195__0_NAME:[F]EpicApocalypse01",
+    "name": "昨夜、エレヴの夢の中",
     "npc": "systemMSG",
     "type": "ShowCaption"
   },
   "52000195_QD__52000195__1-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000195_QD__52000195__1_NAME:[F]EpicApocalypse01",
+    "name": "ここは…どこ？",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000195_QD__52000195__2-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000195_QD__52000195__2_NAME:[F]EpicApocalypse01",
+    "name": "トライアに現れた闇の物質がここにも…！",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000195_QD__52000195__3-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000195_QD__52000195__3_NAME:[F]EpicApocalypse01",
+    "name": "前の方へ続いているみたい。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000195_QD__52000195__4-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000195_QD__52000195__4_NAME:[F]EpicApocalypse01",
+    "name": "女王を連れて闇の地へ行く。\\n反対するなら、力ずくでも連れて行かせてもらう。",
     "npc": "바론",
     "type": "AddCinematicTalk"
   },
   "52000195_QD__52000195__5-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000195_QD__52000195__5_NAME:[F]EpicApocalypse01",
+    "name": "君、本気で言っているのか…？\\n絶対に容認できん！",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
   "52000195_QD__52000195__6-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000195_QD__52000195__6_NAME:[F]EpicApocalypse01",
+    "name": "闇に染まって女王様を危険に陥れようとするとは…。\\n完全に正気を失ったようだな。",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
   "52000195_QD__52000195__7-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000195_QD__52000195__7_NAME:[F]EpicApocalypse01",
+    "name": "今すぐエレヴ女王のもとへ行く。",
     "npc": "바론",
     "type": "AddCinematicTalk"
   },
   "52000195_QD__52000195__8-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000195_QD__52000195__8_NAME:[F]EpicApocalypse01",
+    "name": "！！！\\nやめないか！！！",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
   "52000195_QD__52000195__9-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000195_QD__52000195__9_NAME:[F]EpicApocalypse01",
+    "name": "これは…一体…？",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
@@ -37868,67 +37868,67 @@
     "type": "AddCinematicTalk"
   },
   "52000195_QD__52000195__11-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000195_QD__52000195__11_NAME:[F]EpicApocalypse01",
+    "name": "世界が…！",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__0-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__0_NAME:[F]EpicApocalypse01",
+    "name": "女王様、大丈夫ですか？\\nいつの間にこんな火が？！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__1-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__1_NAME:[F]EpicApocalypse01",
+    "name": "私は大丈夫です。それより…ここを早く脱出するのが先決のようですね。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__2-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__2_NAME:[F]EpicApocalypse01",
+    "name": "でも、入口も炎で塞がれています。\\n抜け出す方法が…。",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__3-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__3_NAME:[F]EpicApocalypse01",
+    "name": "…王室の者だけが知っている秘密の通路があります。\\n私についてきてください！",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__4-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__4_NAME:[F]EpicApocalypse01",
+    "name": "(…女王様のこんな姿、初めて見た。)",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__5-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__5_NAME:[F]EpicApocalypse01",
+    "name": "こちらです！",
     "npc": "에레브",
     "type": "AddBalloonTalk"
   },
   "52000198_QD__52000198__6-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__6_NAME:[F]EpicApocalypse01",
+    "name": "ゴホッ、ゴホッ！",
     "npc": "에레브",
     "type": "AddBalloonTalk"
   },
   "52000198_QD__52000198__7-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__7_NAME:[F]EpicApocalypse01",
+    "name": "煙が…！",
     "npc": "에레브",
     "type": "AddBalloonTalk"
   },
   "52000198_QD__52000198__8-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__8_NAME:[F]EpicApocalypse01",
+    "name": "まさにここです。この銅像の裏の通路から抜け出せばいいのです。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__9-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__9_NAME:[F]EpicApocalypse01",
+    "name": "女王様、ここで少しお待ちいただけますか？",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__10-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__10_NAME:[F]EpicApocalypse01",
+    "name": "監獄の塔は古い建物なので崩壊の危険があります。\\n一刻も早く脱出しなければなりません。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__11-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__11_NAME:[F]EpicApocalypse01",
+    "name": "地下にいるバロン…彼を救出しなければなりません。\\nここで死なせるわけにはいきません。",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
@@ -37938,77 +37938,77 @@
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__13-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__13_NAME:[F]EpicApocalypse01",
+    "name": "ひとまず分かりました。急いでバロンを連れてきてください。\\n話は後にしましょう。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__14-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__14_NAME:[F]EpicApocalypse01",
+    "name": "気をつけてください！",
     "npc": "에레브",
     "type": "AddBalloonTalk"
   },
   "52000198_QD__52000198__15-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__15_NAME:[F]EpicApocalypse01",
+    "name": "バロン、早くこちらへ！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__16-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__16_NAME:[F]EpicApocalypse01",
+    "name": "若造、どうやってここへ…！\\nこの火はまた何なのだ。",
     "npc": "바론",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__17-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__17_NAME:[F]EpicApocalypse01",
+    "name": "話をしている時間はありません。\\n上で女王様がお待ちなんです！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__18-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__18_NAME:[F]EpicApocalypse01",
+    "name": "？！エレヴ女王、彼女がここに…？",
     "npc": "바론",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__19-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__19_NAME:[F]EpicApocalypse01",
+    "name": "分かった。急いでそちらへ行こう！",
     "npc": "바론",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__20-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__20_NAME:[F]EpicApocalypse01",
+    "name": "バロン、あなた…！本当に生きていたのですね。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__21-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__21_NAME:[F]EpicApocalypse01",
+    "name": "積もる話は脱出してからにしましょう。",
     "npc": "바론",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__22-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__22_NAME:[F]EpicApocalypse01",
+    "name": "…その通りですね。$MyPCName$！ \\nこの銅像を押せば秘密の通路が現れるはずです。お願いします。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__23-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__23_NAME:[F]EpicApocalypse01",
+    "name": "開きました！",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000198_QD__52000198__24-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000198_QD__52000198__24_NAME:[F]EpicApocalypse01",
+    "name": "若造、急げ！",
     "npc": "바론",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__0-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__0_NAME:[F]EpicApocalypse01",
+    "name": "同じ頃…",
     "npc": "systemMSG",
     "type": "연출UI를설정한다"
   },
   "52000200_QD__52000200__1-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__1_NAME:[F]EpicApocalypse01",
+    "name": "カール、いらっしゃいましたね。\\n急ぎの話があるとか？",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__2-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__2_NAME:[F]EpicApocalypse01",
+    "name": "…はい。非常に重大な事柄です。",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
@@ -38048,37 +38048,37 @@
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__10-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__10_NAME:[F]EpicApocalypse01",
+    "name": "女王様…！",
     "npc": "루아나",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__11-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__11_NAME:[F]EpicApocalypse01",
+    "name": "カール、今なんと…言ったのですか？\\nもう一度言ってみてください。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__12-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__12_NAME:[F]EpicApocalypse01",
+    "name": "言葉の通りです。\\n$MyPCName$…彼は暗黒の魔法使いに会い、闇の勢力に寝返りました。",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__13-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__13_NAME:[F]EpicApocalypse01",
+    "name": "現在空いている監獄の塔で暗黒の魔法使いに会い、\\n謀議を巡らせているところを現場で摘発されたということです！",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__14-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__14_NAME:[F]EpicApocalypse01",
+    "name": "そんな…。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__15-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__15_NAME:[F]EpicApocalypse01",
+    "name": "発見と同時に独房へ閉じ込めてあります。\\nトライアの英雄は…もういません。",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__16-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__16_NAME:[F]EpicApocalypse01",
+    "name": "そんなはずがありません。嘘でしょう？\\nカール。どうか真実だけを話してください。",
     "npc": "에레브",
     "type": "AddCinematicTalk"
   },
@@ -38088,7 +38088,7 @@
     "type": "AddCinematicTalk"
   },
   "52000200_QD__52000200__18-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000200_QD__52000200__18_NAME:[F]EpicApocalypse01",
+    "name": "どうしようもない真実です。\\n当時警備に立っていた警備兵が目撃しました。目撃者を連れてきてほしいのですか？",
     "npc": "칼",
     "type": "AddCinematicTalk"
   },
@@ -38158,7 +38158,7 @@
     "type": "AddCinematicTalk"
   },
   "52000202_QD__52000202__0-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000202_QD__52000202__0_NAME:[F]EpicApocalypse01",
+    "name": "時空の亀裂",
     "npc": "systemMSG",
     "type": "ShowCaption"
   },
@@ -38233,12 +38233,12 @@
     "type": "AddCinematicTalk"
   },
   "52000199_QD__52000199__0-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000199_QD__52000199__0_NAME:[F]EpicApocalypse01",
+    "name": "黒月の深淵",
     "npc": "systemMSG",
     "type": "ShowCaption"
   },
   "52000199_QD__52000199_2__0-EpicApocalypse01-": {
-    "name": "STRINGTRIGGER_52000199_QD__52000199_2__0_NAME:[F]EpicApocalypse01",
+    "name": "キリアンが全ての真実を語った後…",
     "npc": "systemMSG",
     "type": "연출UI를설정한다"
   },
