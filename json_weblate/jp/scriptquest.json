@@ -1,19 +1,19 @@
 {
   "102145212002983-Timaion01-": {
     "npc": "이오네",
-    "name": "SCRIPTQUEST_0102145212002983_NAME:[F]Timaion01"
+    "name": "幸い、$npcName:11003597[gender:0]$を通じて$item:30000975$の位置は特定できました。\n場所は$map:02020004$の$map:52020009$です。"
   },
   "102145212002984-Timaion01-": {
     "npc": "이오네",
-    "name": "SCRIPTQUEST_0102145212002984_NAME:[F]Timaion01"
+    "name": "<font color=\"#ffd200\">$item:30000975$</font>はその中にあるはずです。\nそれを持ち帰ってきてください。"
   },
   "102145212002985-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102145212002985_NAME:[F]Timaion01"
+    "name": "必ず$item:30000975$を持ち帰ってみせます。"
   },
   "102145212002986-Timaion01-": {
     "npc": "미카엘",
-    "name": "SCRIPTQUEST_0102145212002986_NAME:[F]Timaion01"
+    "name": "無事に帰ってこられるかな？"
   },
   "102145212002987-Timaion01-": {
     "npc": "PC",
@@ -21,7 +21,7 @@
   },
   "102145212002988-Timaion01-": {
     "npc": "미카엘",
-    "name": "SCRIPTQUEST_0102145212002988_NAME:[F]Timaion01"
+    "name": "何でもない。\n無事の帰還を祈っているよ。フフフ…。"
   },
   "102145212002989-Timaion01-": {
     "npc": "이오네",
@@ -29,59 +29,59 @@
   },
   "102145212002990-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102145212002990_NAME:[F]Timaion01"
+    "name": "その屋敷の名前がなぜ$map:52020009$というのか、教えてもらえますか？"
   },
   "102145212002991-Timaion01-": {
     "npc": "미카엘",
-    "name": "SCRIPTQUEST_0102145212002991_NAME:[F]Timaion01"
+    "name": "屋敷を二周も歩けば分かるさ。\n姫にはお前と無駄話をする暇はない。\nさっさと行って帰ってこい。"
   },
   "102145212002992-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102145212002992_NAME:[F]Timaion01"
+    "name": "$item:30000975$を持ち帰りました。"
   },
   "102145212002993-Timaion01-": {
     "npc": "이오네",
-    "name": "SCRIPTQUEST_0102145212002993_NAME:[F]Timaion01"
+    "name": "($npcName:11003599[gender:1]$は無言で$item:30000975$を受け取った。)"
   },
   "102145212002994-Timaion01-": {
     "npc": "미카엘",
-    "name": "SCRIPTQUEST_0102145212002994_NAME:[F]Timaion01"
+    "name": "<font color=\"#909090\">(こいつ、闇の力を宿した欠片に触れておきながら無事とはな。面白い。)</font>"
   },
   "102145212002995-Timaion01-": {
     "npc": "미카엘",
-    "name": "SCRIPTQUEST_0102145212002995_NAME:[F]Timaion01"
+    "name": "なあ、欠片を探す途中で何か異常は見つからなかったか？"
   },
   "102145212002996-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102145212002996_NAME:[F]Timaion01"
+    "name": "欠片の力に引き寄せられたモンスターが、欠片の近くに次々と集まっているのを見ました。\n他の欠片がある場所も似たような状況でしょう。"
   },
   "102145212002997-Timaion01-": {
     "npc": "미카엘",
-    "name": "SCRIPTQUEST_0102145212002997_NAME:[F]Timaion01"
+    "name": "欠片の力に引き寄せられたモンスターか…。\nそれは欠片のありかを探す手がかりになるかもしれないな。"
   },
   "102150812002998-Timaion01-": {
     "npc": "미카엘",
-    "name": "SCRIPTQUEST_0102150812002998_NAME:[F]Timaion01"
+    "name": "ちょうどモンスターが異常に集まっている場所を知っている。\n<font color=\"#ffd200\">$map:02020007$</font>だ。"
   },
   "102150812002999-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102150812002999_NAME:[F]Timaion01"
+    "name": "$map:02020007$？"
   },
   "102150812003000-Timaion01-": {
     "npc": "미카엘",
-    "name": "SCRIPTQUEST_0102150812003000_NAME:[F]Timaion01"
+    "name": "ああ、$map:02020007$だ。\nお前の話が正しければ、そこで欠片の痕跡をたどれるはずだ。"
   },
   "102150812003001-Timaion01-": {
     "npc": "이오네",
-    "name": "SCRIPTQUEST_0102150812003001_NAME:[F]Timaion01"
+    "name": "$map:02020007$へ行けば欠片を追跡できます。"
   },
   "102150812003002-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102150812003002_NAME:[F]Timaion01"
+    "name": "<font color=\"#909090\">(気のせいだろうか？姫の口調は、どこか機械的に聞こえる。)</font>"
   },
   "102150812003003-Timaion01-": {
     "npc": "미카엘",
-    "name": "SCRIPTQUEST_0102150812003003_NAME:[F]Timaion01"
+    "name": "何を考え込んでいる、さっさと行って帰ってこい。\n我々は誰よりも早く欠片を見つけなければならない義務がある。"
   },
   "102150812003004-Timaion01-": {
     "npc": "이오네",
@@ -93,83 +93,83 @@
   },
   "102150812003006-Timaion01-": {
     "npc": "미카엘",
-    "name": "SCRIPTQUEST_0102150812003006_NAME:[F]Timaion01"
+    "name": "<font color=\"#909090\">(考えるほどに面白い。もうしばらく観察してみるとするか。)</font>"
   },
   "102162112002202--": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0102162112002202_NAME"
+    "name": "作り方が分からないと言う。"
   },
   "102162112002203--": {
     "npc": "민트",
-    "name": "SCRIPTQUEST_0102162112002203_NAME"
+    "name": "あ…そうなの？ \nもし$item:33000063$もまだ作ったことがないなら…それを先に作ってみて。\n$item:33000063$の製作に慣れれば、<font color=\"#ffd200\">$item:33000064$</font>も難しくなく作れるはずよ。"
   },
   "102171112003015-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003015_NAME:[F]Timaion01"
+    "name": "聞きたいことがあれば何でも聞いてくれ！\n全部教えてやる！"
   },
   "102171112003016-Timaion01-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0102171112003016_NAME:[F]Timaion01"
+    "name": "異常な力を宿した欠片について尋ねる。"
   },
   "102171112003017-Timaion01-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0102171112003017_NAME:[F]Timaion01"
+    "name": "なぜ壊されて捨てられたのか尋ねる。"
   },
   "102171112003018-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003018_NAME:[F]Timaion01"
+    "name": "お前もあの力に引き寄せられて来たのか？\n俺もご主人様の命令で、あの力を探しにここへ来たんだ！"
   },
   "102171112003019-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102171112003019_NAME:[F]Timaion01"
+    "name": "<font color=\"#909090\">(ご主人様？)</font>"
   },
   "102171112003020-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003020_NAME:[F]Timaion01"
+    "name": "ご主人様は、欠片はこの場所のどこかにあると言っていた。\n欠片はとてつもなく大きな力を放っている。\nそのせいで俺の友達は変異してしまったんだ…。"
   },
   "102171112003021-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003021_NAME:[F]Timaion01"
+    "name": "欠片のある場所は$map:02020007$の中の<font color=\"#ffd200\">$map:52020010$</font>だ。\nあっ！助けてくれたお礼に、あの力のある場所まで案内してやるよ。\nちょっと怖いけど…。"
   },
   "102171112003022-Timaion01-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0102171112003022_NAME:[F]Timaion01"
+    "name": "案内を頼む。"
   },
   "102171112003023-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003023_NAME:[F]Timaion01"
+    "name": "俺をこんな姿にしたのは友達なんだ。\nあいつらは欠片の力に影響されて凶暴になり、俺を襲ったんだよ。"
   },
   "102171112003024-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003024_NAME:[F]Timaion01"
+    "name": "俺を襲った友達は、一番の親友の一人だったんだ。\nあれは初めて出会った時のことでな…。"
   },
   "102171112003025-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003025_NAME:[F]Timaion01"
+    "name": "(話し始めた$npcName:11003603[gender:0]$の物語は、当分終わりそうにない。)"
   },
   "102171112003026-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003026_NAME:[F]Timaion01"
+    "name": "そういうわけで、俺はこうして壊されて森に捨てられたんだ。\nもっと話が聞きたければ、いつでも聞いてくれ。"
   },
   "102171112003027-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102171112003027_NAME:[F]Timaion01"
+    "name": "<font color=\"#909090\">(欠片の力の影響がなくても、こいつは壊されていた気がする。)</font>"
   },
   "102171112003028-Timaion01-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0102171112003028_NAME:[F]Timaion01"
+    "name": "好奇心はしまっておこう。"
   },
   "102171112003029-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003029_NAME:[F]Timaion01"
+    "name": "それじゃ出発だ！\n俺が作ったポータルに入ってくれ！"
   },
   "102171112003030-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003030_NAME:[F]Timaion01"
+    "name": "なんでまた戻ってきたんだ？\n欠片のある場所へ行くんじゃなかったのか？"
   },
   "102171112003031-Timaion01-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0102171112003031_NAME:[F]Timaion01"
+    "name": "もう一度案内を頼む。"
   },
   "102171112003032-Timaion01-": {
     "npc": "pc",
@@ -177,103 +177,103 @@
   },
   "102171112003033-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003033_NAME:[F]Timaion01"
+    "name": "よし！\nじゃあ改めて出発だ！"
   },
   "102171112003034-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003034_NAME:[F]Timaion01"
+    "name": "さっきの話をもう一度してやろうか？"
   },
   "102171112003035-Timaion01-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0102171112003035_NAME:[F]Timaion01"
+    "name": "早く案内してほしいと頼む。"
   },
   "102171112003036-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102171112003036_NAME:[F]Timaion01"
+    "name": "はぁ…。\n<font color=\"#909090\">($npcName:11003603[gender:0]$の案内の間、終わりのない身の上話をずっと聞かされる羽目になった。)</font>"
   },
   "102171112003037-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003037_NAME:[F]Timaion01"
+    "name": "カカカ…。 \nありがとう、こんなに思いきり話したのは久しぶりだよ。"
   },
   "102171112003038-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003038_NAME:[F]Timaion01"
+    "name": "着いたぞ！\nここがお前の探している力のある場所だ。\nここは本当に恐ろしい…。"
   },
   "102171112003039-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102171112003039_NAME:[F]Timaion01"
+    "name": "何も見えませんけど？"
   },
   "102171112003040-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003040_NAME:[F]Timaion01"
+    "name": "違う！この屋敷の時間がねじ曲げられているから見えないだけだ！"
   },
   "102171112003041-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003041_NAME:[F]Timaion01"
+    "name": "人間よ…。\nお前、間抜けな顔をしているぞ。"
   },
   "102171112003042-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003042_NAME:[F]Timaion01"
+    "name": "自分で体験してみれば分かる。\nホールにある<font color=\"#ffd200\">時計</font>をいじってみろ。"
   },
   "102171112003043-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003043_NAME:[F]Timaion01"
+    "name": "ホールにある<font color=\"#ffd200\">時計</font>をいじってみろ。\nまさか俺の話が信じられないのか？"
   },
   "102171112003044-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003044_NAME:[F]Timaion01"
+    "name": "見ただろう？\nこれが屋敷の時間がねじ曲げられている証拠だ。"
   },
   "102171112003045-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003045_NAME:[F]Timaion01"
+    "name": "屋敷の時間を元に戻さなければ、欠片は見つけられないぞ。"
   },
   "102171112003046-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102171112003046_NAME:[F]Timaion01"
+    "name": "それはそうと、変異した友達の姿が見えなくて少し心配だ。\n何かあったんじゃないだろうな。"
   },
   "102172312003047-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102172312003047_NAME:[F]Timaion01"
+    "name": "どういうわけか、屋敷の時間が元に戻ったぞ！\nお前がやったのか？"
   },
   "102172312003048-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102172312003048_NAME:[F]Timaion01"
+    "name": "そう言っても間違いではないですね…。"
   },
   "102172412003047-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102172412003047_NAME:[F]Timaion01"
+    "name": "カカ…急いでくれ、人間！\n俺も<font color=\"#ffd200\">欠片</font>の力に影響されて、狂ってお前を襲うかもしれない。"
   },
   "102172412003048-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102172412003048_NAME:[F]Timaion01"
+    "name": "$npcName:11003605[gender:0]$？"
   },
   "102172412003049-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102172412003049_NAME:[F]Timaion01"
+    "name": "早く動け！人間！"
   },
   "102172412003050-Timaion01-": {
     "npc": "틱토그",
-    "name": "SCRIPTQUEST_0102172412003050_NAME:[F]Timaion01"
+    "name": "ぐっ…ぐっ…。\n力が…抑えきれない…早く行け…。"
   },
   "102172412003051-Timaion01-": {
     "npc": "이오네",
-    "name": "SCRIPTQUEST_0102172412003051_NAME:[F]Timaion01"
+    "name": "$item:30000976$を持ち帰りましたね。\nご苦労さまです。"
   },
   "102172412003052-Timaion01-": {
     "npc": "이오네",
-    "name": "SCRIPTQUEST_0102172412003052_NAME:[F]Timaion01"
+    "name": "あなたが$map:02020007$へ行っている間、$npcName:11003600[gender:0]$を送って他の欠片の位置を調査させました。\n予想通り、$map:02020004$と$map:02020005$にそれぞれ1つずつ欠片があります。"
   },
   "102172412003053-Timaion01-": {
     "npc": "이오네",
-    "name": "SCRIPTQUEST_0102172412003053_NAME:[F]Timaion01"
+    "name": "これからは$npcName:11003600[gender:0]$と共に残りの欠片を捜してください。\n私の手元の欠片はすでに$npcName:11003600[gender:0]$へ渡しました。欠片を繋ぎ合わせることも、あなたたちに託します。"
   },
   "102172412003054-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102172412003054_NAME:[F]Timaion01"
+    "name": "あの、$npcName:11003600[gender:0]$はどこに…。"
   },
   "102172412003055-Timaion01-": {
     "npc": "이오네",
-    "name": "SCRIPTQUEST_0102172412003055_NAME:[F]Timaion01"
+    "name": "これからは$npcName:11003600[gender:0]$と共に残りの欠片を捜してください。\n私の手元の欠片はすでに$npcName:11003600[gender:0]$へ渡しました。欠片を繋ぎ合わせることも、あなたたちに託します。"
   },
   "102172412003056-Timaion01-": {
     "npc": "PC",
@@ -281,119 +281,119 @@
   },
   "102172412003057-Timaion01-": {
     "npc": "이오네",
-    "name": "SCRIPTQUEST_0102172412003057_NAME:[F]Timaion01"
+    "name": "これからは$npcName:11003600[gender:0]$と共に残りの欠片を捜してください。\n私の手元の欠片はすでに$npcName:11003600[gender:0]$へ渡しました。欠片を繋ぎ合わせることも、あなたたちに託します。"
   },
   "102172412003058-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102172412003058_NAME:[F]Timaion01"
+    "name": "<font color=\"#909090\">(なぜ彼女は同じ言葉ばかり繰り返すのだろう？)</font>"
   },
   "102172412003059-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102172412003059_NAME:[F]Timaion01"
+    "name": "<font color=\"#909090\">($npcName:11003600[gender:0]$を探しに行こう。)</font>"
   },
   "102172412003060-Timaion01-": {
     "npc": "이오네",
-    "name": "SCRIPTQUEST_0102172412003060_NAME:[F]Timaion01"
+    "name": "これからは$npcName:11003600[gender:0]$と共に残りの欠片を捜してください。\n私の手元の欠片はすでに$npcName:11003600[gender:0]$へ渡しました。欠片を繋ぎ合わせることも、あなたたちに託します。"
   },
   "102172412003061-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102172412003061_NAME:[F]Timaion01"
+    "name": "<font color=\"#909090\">(まるで人形のようだ…。)</font>"
   },
   "102172412003062-Timaion01-": {
     "npc": "미카엘",
-    "name": "SCRIPTQUEST_0102172412003062_NAME:[F]Timaion01"
+    "name": "おお…、誰が来たかと思えば？\n<font color=\"#ffd200\">アメーバ</font>くん、ハロー？"
   },
   "102172412003063-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102172412003063_NAME:[F]Timaion01"
+    "name": "そんなお褒めの言葉は受け取れません…。\nアメーバと呼ぶのはやめてもらえませんか？"
   },
   "102172412003064-Timaion01-": {
     "npc": "미카엘",
-    "name": "SCRIPTQUEST_0102172412003064_NAME:[F]Timaion01"
+    "name": "いや、呼ぶね。"
   },
   "102172412003065-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0102172412003065_NAME:[F]Timaion01"
+    "name": "はぁ…"
   },
   "102172412003066-Timaion01-": {
     "npc": "미카엘",
-    "name": "SCRIPTQUEST_0102172412003066_NAME:[F]Timaion01"
+    "name": "本題に戻ろう。この木には扉があるようだが、俺には見えない。\n探すのを手伝ってくれるか？"
   },
   "103082412003067-Timaion01-": {
     "npc": "미카엘",
-    "name": "SCRIPTQUEST_0103082412003067_NAME:[F]Timaion01"
+    "name": "ほう…。まさか難なく欠片を2つも集めるとはな、予想外だ。\nそこまでやるなら褒めてやらねばならんな。"
   },
   "103084812003068-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0103084812003068_NAME:[F]Timaion01"
+    "name": "一緒に行かないんですか？"
   },
   "103084912003069-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0103084912003069_NAME:[F]Timaion01"
+    "name": "<font color=\"#909090\">(からかわれている気がする…。)</font>"
   },
   "103090612003070-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0103090612003070_NAME:[F]Timaion01"
+    "name": "はぁ…。"
   },
   "103090612003071-Timaion01-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0103090612003071_NAME:[F]Timaion01"
+    "name": "嫌だと言う。"
   },
   "103090612003072-Timaion01-": {
     "npc": "미카엘",
-    "name": "SCRIPTQUEST_0103090612003072_NAME:[F]Timaion01"
+    "name": "なら自分で歩いて行け。"
   },
   "103091012003073-Timaion01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0103091012003073_NAME:[F]Timaion01"
+    "name": "<font color=\"#909090\">(この手は通じないのか…。)</font>"
   },
   "103092312003074-Timaion01-": {
     "npc": "미카엘",
-    "name": "SCRIPTQUEST_0103092312003074_NAME:[F]Timaion01"
+    "name": "おっと…。口が滑って、危うくお前の自尊心を傷つけるところだった。"
   },
   "104185521028654-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0104185521028654_NAME:[F]Kritias_2018_12"
+    "name": "見た目に騙されるなんて、私なら絶対にありえないことですが。"
   },
   "104185521028655-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0104185521028655_NAME:[F]Kritias_2018_12"
+    "name": "ああ…。"
   },
   "104185521028656-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0104185521028656_NAME:[F]Kritias_2018_12"
+    "name": "とにかく隊員たちが繰り返し負傷するのは避けねばなりませんので、<font color=\"#ffd200\">$map:02020029$</font>へ行って奴らを懲らしめてきていただけますか？"
   },
   "104185521028657-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0104185521028657_NAME:[F]Kritias_2018_12"
+    "name": "なぜご自分で…？"
   },
   "104185521028658-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0104185521028658_NAME:[F]Kritias_2018_12"
+    "name": "ふぅ…。また私の口から申し上げねばなりませんか？"
   },
   "104185521028660-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0104185521028660_NAME:[F]Kritias_2018_12"
+    "name": "(しばらく隊員たちが<font color=\"#ffd200\">$npcName:25020005$</font>に近づくことはなさそうだと言う。)"
   },
   "104185521028661-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0104185521028661_NAME:[F]Kritias_2018_12"
+    "name": "それは何よりです。\n私も隊員たちに改めて注意しておきます。"
   },
   "104192919010134-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0104192919010134_NAME:[F]Kritias_2018_12"
+    "name": "$MyPCName$隊員。 \nここ、<font color=\"#ffd200\">$map:02020041$</font>で会うのは初めてだな。"
   },
   "104192919010135-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0104192919010135_NAME:[F]Kritias_2018_12"
+    "name": "($map:02020041$？この地域の名前なのかと尋ねる。)"
   },
   "104192919010136-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0104192919010136_NAME:[F]Kritias_2018_12"
+    "name": "その通りだ。\n我々は<font color=\"#ffd200\">未知の大陸、クリティアスの探査</font>のために定住地が必要だと判断した。\nゲオルクに尋ねたところ、ここを勧められたのだ。"
   },
   "104192919010137-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0104192919010137_NAME:[F]Kritias_2018_12"
+    "name": "無事にクリティアスへ到着して定住地を見つけられたこと、そして我々を助けてくれる協力者に出会えたこと。\n全て$MyPCName$、君のおかげだ。"
   },
   "104192919010138-Kritias_2018_12-": {
     "npc": "PC",
@@ -401,43 +401,43 @@
   },
   "104192919010139-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0104192919010139_NAME:[F]Kritias_2018_12"
+    "name": "そうか？ならば、すぐ次の任務を与えてもよさそうだな。"
   },
   "104192919010140-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0104192919010140_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#909090\">(早い！)</font>"
   },
   "104192919010141-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0104192919010141_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020029$</font>へ行って、闇の軍団の動向を把握してくるように。"
   },
   "104192919010142-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0104192919010142_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#909090\">(闇の軍団の痕跡か…。どうやって探せばいいんだ？)</font>"
   },
   "104192919010143-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0104192919010143_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#909090\">(ここは広すぎるし、分からないことだらけだ…。)</font>"
   },
   "104192919010144-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0104192919010144_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#909090\">(騒ぎを起こしていれば、何か現れるんじゃないか？)</font>"
   },
   "104192919010145-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0104192919010145_NAME:[F]Kritias_2018_12"
+    "name": "とにかくやってみよう！"
   },
   "104192919010146-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0104192919010146_NAME:[F]Kritias_2018_12"
+    "name": "思いっきり騒ぎを起こしてやる！"
   },
   "104192919010147-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0104192919010147_NAME:[F]Kritias_2018_12"
+    "name": "思いっきり騒ぎを起こしてやる！"
   },
   "104192919010148-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0104192919010148_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#909090\">(うーん…。特に変わったことはないな？)</font>"
   },
   "104192919010149-Kritias_2018_12-": {
     "npc": "블리체",
@@ -105369,7 +105369,7 @@
   },
   "1113125512002788-Timaion01-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_1113125512002788_NAME:[F]Timaion01"
+    "name": "案内を頼む。"
   },
   "1113125512002789-Timaion01-": {
     "npc": "엘레나",
