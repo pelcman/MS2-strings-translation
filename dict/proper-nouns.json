@@ -387,7 +387,7 @@
       "note": "異世界からの訪問者(カオスルベリスク)"
     },
     "Captain Moc": {
-      "ja": "キャプテンモーク",
+      "ja": "キャプテン・モク",
       "ko": "캡틴 모크",
       "source": "session",
       "note": "カオス月明かり船長の要塞"
@@ -462,7 +462,7 @@
   },
   "npcs_characters": {
     "Black Mage": {
-      "ja": "黒の魔法師",
+      "ja": "暗黒の魔法使い",
       "ko": "검은 마법사",
       "source": "corpus/web",
       "note": "MS1共通の宿敵"
@@ -993,7 +993,7 @@
       "source": "jms2 (questdescription/stringcommon)"
     },
     "Shadow Legion": {
-      "ja": "影の軍団",
+      "ja": "影軍団",
       "ko": "그림자 군단",
       "source": "jms2 (scriptquest)",
       "note": "검은군단(闇の軍団)とは別"

@@ -1,0 +1,996 @@
+11001513-SpecialHair-	name	폴리:s	Paulies
+11001514-SpecialHair-	name	롤리:s	Lollies
+11001683-Season1-	name	티토:s	Tito:s
+11002065-Season1-	name	MC 케이:s	MC Kays
+11003555--KR	name	토드:s	Toad:s
+11003555--CN	name	토드:s	Toad:s
+11004067-FameContents-	name	연구원 제이튼:s	Researcher Jayton:s
+11004243-Event-	name	슈발리:s	Chevaliers
+11004285-Colosseum01-	name	퀸크빈:s	Queen Beans
+11004286-Colosseum01-	name	핑크빈 경비병:s	Pink Bean Guards
+11004287-Colosseum01-	name	알베르토빈:s	Alberto Beans
+11004288-Colosseum01-	name	MC 나기:s	MC Nagis
+11004556-Kritias_2018_12-	name	분홍 꿈트리:s	Pink Wrigglers
+11004557-Event-	name	핑크빈:s	Pink Beans
+11004558-Event-	name	슈퍼파워 핑크빈:s	Super Pink Beans
+11004559-Colosseum01-	name	민트:s	Mints
+11004560-Colosseum01-	name	로베:s	Roveys
+11004561-Colosseum01-	name	스타츠:s	Startzes
+11004562-Colosseum01-	name	구르는 천둥:s	Rolling Thunders
+11004563-Colosseum01-	name	알론:s	Allons
+11004564-Colosseum01-	name	오르데:s	Ordes
+11004565-Colosseum01-	name	오필리아:s	Ophelias
+11004566-Colosseum01-	name	파토스:s	Pathoses
+11004567-Colosseum01-	name	바사라 첸:s	Vasara Chens
+11004568-Colosseum01-	name	미카:s	Mikas
+11004569-Colosseum01-	name	MC 나기:s	MC Nagis
+11004570-Colosseum01-	name	MC 나기:s	MC Nagis
+11004571-Kritias_Epic02-	name	그레고르:s	Gregor:s
+11004572-Kritias_Epic02-	name	헬렌:s	Helen
+11004573-Kritias_Epic02-	name	엘라:s	Ella
+11004574-Kritias_Epic02-	name	테사:s	Tessa
+11004575-Kritias_Epic02-	name	제시카:s	Jessicas
+11004576-Kritias_Epic02-	name	요랑:s	Yorang
+11004577-Kritias_Epic02-	name	블리체:s	Veliches
+11004578-Kritias_Epic02-	name	콘대르:s	Condors
+11004579-Kritias_Epic02-	name	샤텐:s	Schattens
+11004580-Kritias_Epic02-	name	네이린:s	Nairins
+11004581-Kritias_Epic02-	name	메이슨:s	Masons
+11004582-Kritias_Epic02-	name	마를레네:s	Marlenes
+11004583-Kritias_Epic02-	name	시만:s	Simans
+11004584-Kritias_Epic02-	name	홀슈타트:s	Holstatts
+11004585-Kritias_Epic02-	name	안내로봇:s	Guide Bot
+11004586-Kritias_Epic02-	name	홀슈타트:s	Holstatts
+11004587-Kritias_Epic02-	name	블리체:s	Veliches
+11004588-Kritias_Epic02-	name	콘대르:s	Condors
+11004589-Kritias_Epic02-	name	샤텐:s	Schattens
+11004590-Kritias_Epic02-	name	네이린:s	Nairins
+11004591-Kritias_Epic02-	name	메이슨:s	Masons
+11004592-Kritias_Epic02-	name	마를레네:s	Marlenes
+11004593-Kritias_Epic02-	name	시만:s	Simans
+11004594-Kritias_Epic02-	name	홀슈타트:s	Holstatts
+11004595-Kritias_Epic03-	name	블리체:s	Veliches
+11004596-Kritias_Epic03-	name	콘대르:s	Condors
+11004597-Kritias_Epic03-	name	샤텐:s	Schattens
+11004598-Kritias_Epic03-	name	네이린:s	Nairins
+11004599-Kritias_Epic03-	name	메이슨:s	Masons
+11004600-Kritias_Epic03-	name	마를레네:s	Marlenes
+11004601-Kritias_Epic03-	name	시만:s	Simans
+11004602-Kritias_Epic03-	name	홀슈타트:s	Holstatts
+11004603-Kritias_Epic03-	name	클라디아:s	Claudias
+11004604-Kritias_Epic03-	name	블리체:s	Veliches
+11004605-Kritias_Epic03-	name	콘대르:s	Condors
+11004606-Kritias_Epic03-	name	샤텐:s	Schattens
+11004607-Kritias_Epic03-	name	네이린:s	Nairins
+11004608-Kritias_Epic03-	name	메이슨:s	Masons
+11004609-Kritias_Epic03-	name	마를레네:s	Marlenes
+11004610-Kritias_Epic03-	name	시만:s	Simans
+11004611-Kritias_Epic03-	name	홀슈타트:s	Holstatts
+11004612-Kritias_Epic03-	name	클라디아:s	Claudias
+11004613-Kritias_Epic03-	name	검은 마법사:s	Black Mages
+11004614-Fame_Geo01-	name	마를레네:s	Marlenes
+11004615-Fame_Geo01-	name	시만:s	Simans
+11004616-Fame_Geo01-	name	블리체:s	Veliches
+11004617-Kritias_Turka03-	name	투르카:s	Turkas
+11004618-Fame_Geo01-	name	쿠스만:s	Kusman
+11004619-Fame_Geo01-	name	파얀:s	Payan
+11004620-Fame_Geo01-	name	모랑족장 칸투랑:s	Leshy Chief Kanturang
+11004621-Kritias_Epic03-	name	타이렌군사1:s	Tairen Soldier 1
+11004622-Kritias_Epic03-	name	타이렌군사2:s	Tairen Soldier 2
+11004623-Kritias_Epic03-	name	타이렌군사3:s	Tairen Soldier 3
+11004624-Kritias_Epic03-	name	클라디아:s	Claudias
+11004625-Season1-	name	로니:s	Ronnies
+11004626-Fame_Geo01-	name	버럭모랑 주민 그랑:s	Grang, Morang Resident
+11004627-Fame_Geo01-	name	버럭모랑 주민 그랑 베리에이션:s	Grang, Morang Resident (Variation)
+11004628-Fame_Geo01-	name	모랑 주민 샤랑:s	Sharang, Morang Resident
+11004629-Fame_Geo01-	name	모랑 주민 샤랑 베리에이션:s	Sharang, Morang Resident (Variation)
+11004630-Kritias_Epic03-	name	제시카의 구관조:s	Jessica's Myna
+11004631-Kritias_Epic03-	name	책상 위 메모:s	Memo on the Desk
+11004632-Kritias_Epic03-	name	클라디아 어머니에 대한 기록. p38:s	Record on Claudia's Mother. p38
+11004633-Kritias_Epic03-	name	반겐하임에 대한 기록. p2491:s	Record on Bangenheim. p2491
+11004636-Fame_Geo01-	name	벤시:s	Vanshis
+11004637-Season1-	name	키키:s	Kikis
+11004639-BlackOnyx-	name	제이:s	Jay
+11004640-BlackOnyx-	name	흑성회 조직원:s	Blackstar Gangsters
+11004641-BlackOnyx-	name	흑성회 무장 조직원:s	Armed Blackstar Gangster
+11004642-BlackOnyx-	name	흑성회 무장 조직원:s	Armed Blackstar Gangster
+11004643-DarkTear-	name	구속당한 영혼:s	Bound Spirit
+11004644-DarkTear-	name	구속당한 영혼:s	Bound Spirit
+11004645-Kritias_Epic02-	name	정체불명의 알:s	Mystery Egg
+11004646-Kritias_Epic02-	name	일랑:s	Illang
+11004647-Kritias_Epic02-	name	알랑:s	Arang
+11004648-Kritias_Epic02-	name	모무랑:s	Momurang
+11004649-Kritias_Epic02-	name	카랑:s	Karang
+11004650-Kritias_Epic02-	name	쿠쿠랑:s	Kukurang
+11004651-Kritias_Epic02-	name	라일랑:s	Lailang
+11004652-Kritias_Epic02-	name	아네랑:s	Anerang:s
+11004653-Kritias_Epic02-	name	모네랑:s	Monerang:s
+11004654-Kritias_Epic02-	name	베르차:s	Bercha:s
+11004655-Kritias_Epic02-	name	누군가가 써놓은 쪽지:s	A note written by someone:s
+11004656-Kritias_Epic02-	name	카츠:s	Katz:s
+11004657-Kritias_Epic02-	name	얀코:s	Yanko:s
+11004658-BlackOnyx-	name	바사라 첸:s	Vasara Chens
+11004659-BlackOnyx-	name	브리드 민:s	Bridd Mins
+11004660-BlackOnyx-	name	아르망:s	Armand:s
+11004661-BlackOnyx-	name	카일:s	Kyles
+11004662--	name	컴뱃 메이드 M2:s	Combat Maid M2s
+11004663-Event-	name	앤디:s	NPCNAMEPLURAL_11004663_NAME:[F]Event
+11004664-Event-	name	콩콩새:s	NPCNAMEPLURAL_11004664_NAME:[F]Event
+11004665-Event-	name	이슈라:s	NPCNAMEPLURAL_11004665_NAME:[F]Event
+11004666-Event-	name	준타:s	NPCNAMEPLURAL_11004666_NAME:[F]Event
+11004667-Event-	name	틴차이:s	NPCNAMEPLURAL_11004667_NAME:[F]Event
+11004668-Event-	name	파르두:s	NPCNAMEPLURAL_11004668_NAME:[F]Event
+11004669-Event-	name	아조르:s	NPCNAMEPLURAL_11004669_NAME:[F]Event
+11004670-Event-	name	디나:s	NPCNAMEPLURAL_11004670_NAME:[F]Event
+11004671-Event-	name	카나:s	NPCNAMEPLURAL_11004671_NAME:[F]Event
+11004672-Event-	name	미엘:s	NPCNAMEPLURAL_11004672_NAME:[F]Event
+11004673-Event-	name	루체:s	NPCNAMEPLURAL_11004673_NAME:[F]Event
+11004674-Event-	name	썸머 더키볼:s	Summer Ducklings
+11004675-Kritias_Epic02-	name	블리체:s	Veliches
+11004676-Kritias_Epic02-	name	콘대르:s	Condors
+11004677-Kritias_Epic02-	name	샤텐:s	Schattens
+11004678-Kritias_Epic02-	name	네이린:s	Nairins
+11004679-Kritias_Epic02-	name	메이슨:s	Masons
+11004680-Kritias_Epic02-	name	마를레네:s	Marlenes
+11004681-Kritias_Epic02-	name	시만:s	Simans
+11004682-Kritias_Epic02-	name	홀슈타트:s	Holstatts
+11004683-Kritias_Epic02-	name	투르카:s	Turkas
+11004684-Kritias_Epic02-	name	티마이온:s	Timaion:s
+11004685-Event-	name	스투키:s	NPCNAMEPLURAL_11004685_NAME:[F]Event
+11004686-Kritias_Epic02-	name	홀슈타트:s	Holstatts
+11004687-DarkTear-	name	어둠의 샘:s	Spring of Darkness:s
+11004688-BlackOnyx-	name	세리:s	Seri:s
+11004689-BlackOnyx-	name	밀라:s	Milas
+11004690-BlackOnyx-	name	제이시:s	Jayces
+11004691-BlackOnyx-	name	라딘:s	Ladins
+11004692-BlackOnyx-	name	혁이:s	Blakes
+11004693-BlackOnyx-	name	감시 로봇 빅터 V1:s	Victorious Sentinel Robot V1:s
+11004694-BlackOnyx-	name	덴비:s	Denby:s
+11004695-Event-CN	name	살레:s	Salley:s
+11004696-BlackOnyx-	name	카난:s	Kanan:s
+11004697-BlackOnyx-	name	진저:s	Ginger:s
+11004698-BlackOnyx-	name	줄리아:s	Julia:s
+11004699-BlackOnyx-	name	프랭:s	Frank:s
+11004700-BlackOnyx-	name	비르디:s	Birdie:s
+11004701-BlackOnyx-	name	존스:s	Jones:s
+11004702-BlackOnyx-	name	벅:s	Buck:s
+11004703-BlackOnyx-	name	마빌:s	Mabyl
+11004704-BlackOnyx-	name	하렌:s	Haren
+11004705-BlackOnyx-	name	미어캣 정찰대:s	Meerkat Scouts
+11004706-DarkTear-	name	정체불명의 도굴꾼:s	Mysterious Graverobber
+11004707-Wedding-	name	흐뭇:s	Heumat
+11004708-Wedding-	name	아이비:s	Ivy
+11004709-Wedding-	name	위즈 하모니:s	Wiz Harmony
+11004710-Wedding-	name	클로리스:s	Cloris
+11004711-Wedding-	name	데이데이:s	Daidey
+11004712-Wedding-	name	미아:s	Mias
+11004713-Wedding-	name	하인들:s	The Servants
+11004714-Wedding-	name	카라:s	Kara
+11004715-Kritias_Epic02-	name	마를레네:s	Marlenes
+11004716-DarkTear-	name	그림자 영혼:s	Shadow Spirit:s
+11004717-Event-	name	카카메르:s	Karkamelles
+11004718-Event-	name	혁이:s	Blakes
+11004719-Event-	name	칸타타의 편지:s	Cantata's Letters
+11004720-Event-	name	미치:s	Michis
+11004721-Event-	name	어느 모험가:s	Some Adventurers
+11004722-Wedding-	name	루아나:s	Luannas
+11004723-Wedding-	name	마노비치:s	Manoviches
+11004724-Wedding-	name	아시모프:s	Asimovs
+11004725-Wedding-	name	나메드:s	Namids
+11004726-Event-	name	일루나:s	Illunas
+11004727-EpicApocalypse01-	name	어둠의 물질:s	Dark Matter:s
+11004728-MassiveHideAndSeek-	name	숨바꼭질 이벤트 스핀:s	Hide-and-Seek Wheels
+11004733-Wedding-	name	데이데이:s	Daidey
+11004734-Wedding-	name	레이:s	Rays
+11004735-Wedding-	name	50메소:s	50 Mesos
+11004736-Wedding-	name	매미넴:s	Meminems
+11004737-Wedding-	name	칸타타:s	Cantatas
+11004738-Wedding-	name	아이비:s	Ivy
+11004739-Wedding-	name	디보르티:s	Diborti:s
+11004740-Wedding-	name	미제라:s	Mizera:s
+11004741-Wedding-	name	마누엘:s	Manuel:s
+11004742-MassiveHideAndSeek-CN	name	숨바꼭질 이벤트 스핀:s	Hide-and-Seek Wheels
+11004743-Wedding-	name	레인보우 유니콘 피냐타:s	Rainbow Unicorn Piñata:s
+11004744-EpicApocalypse01-	name	바론:s	Baron:s
+11004745-Wedding-	name	흐뭇:s	Heumat
+11004746-Wedding-	name	아이비:s	Ivy
+11004747-Wedding-	name	위즈 하모니:s	Wiz Harmony
+11004748-Wedding-	name	흐뭇:s	Heumat
+11004749-Wedding-	name	아이비:s	Ivy
+11004750-Wedding-	name	위즈 하모니:s	Wiz Harmony
+11004751-Wedding-	name	흐뭇:s	Heumat
+11004752-Wedding-	name	아이비:s	Ivy
+11004753-Wedding-	name	위즈 하모니:s	Wiz Harmony
+11004754-Wedding-	name	러비:s	Lubi:s
+11004755-Wedding-	name	프로미:s	Promi:s
+11004756-Wedding-	name	쟈니스:s	Jannis:s
+11004757-Wedding-	name	페르젠:s	Ferzen:s
+11004758-Wedding-	name	보글보글:s	Bubbling:s
+11004759-Wedding-	name	메로미:s	Meromi:s
+11004760-Wedding-	name	베라리:s	Berari:s
+11004761-Wedding-	name	밀리 부인:s	Mrs. Millie:s
+11004762-Wedding-	name	예비아내:s	Fiancée:s
+11004763-Wedding-	name	예비신랑:s	Fiancé:s
+11004764-Wedding-	name	관광객:s	Tourists
+11004765-Wedding-	name	관리인:s	Manager:s
+11004766-Wedding-	name	지노:s	Genoes
+11004767-Wedding-	name	유리:s	Yuris
+11004768-Wedding-	name	스키틀:s	Skittles
+11004769-Wedding-	name	치즈:s	Cheezes
+11004770-Wedding-	name	윙스:s	Wings:s
+11004771-Wedding-	name	플러리:s	Flurry:s
+11004772-Wedding-	name	콘대르:s	Condors
+11004773-Wedding-	name	콘대르:s	Condors
+11004776-Event-	name	로민:s	Romins
+11004777-Event-	name	함박눈 요정:s	Snowleaf Fairfolk
+11004778-EpicApocalypse01-	name	칼:s	Karls
+11004779-EpicApocalypse01-	name	칼:s	Karls
+11004780-EpicApocalypse01-	name	칼:s	Karls
+11004781-EpicApocalypse01-	name	칼:s	Karls
+11004782-EpicApocalypse01-	name	루아나:s	Luannas
+11004783-EpicApocalypse01-	name	루아나:s	Luannas
+11004784-EpicApocalypse01-	name	루아나:s	Luannas
+11004785-EpicApocalypse01-	name	에레브:s	Ereves
+11004786-EpicApocalypse01-	name	에레브:s	Ereves
+11004787-EpicApocalypse01-	name	바론:s	Baron:s
+11004788-EpicApocalypse01-	name	바론:s	Baron:s
+11004789-EpicApocalypse01-	name	바론:s	Baron:s
+11004790-EpicApocalypse01-	name	바론:s	Baron:s
+11004791-EpicApocalypse01-	name	꿈 속 장면 확인:s	View Dream Scene:s
+11004792-EpicApocalypse01-	name	바론의 감옥 입구:s	Baron's Prison Entrance:s
+11004793-EpicApocalypse01-	name	바론:s	Baron:s
+11004794-EpicApocalypse01-	name	어둠의 땅 입구:s	Entrance to the Land of Darkness:s
+11004795-EpicApocalypse01-	name	벨라:s	Bellas
+11004796-EpicApocalypse01-	name	벨라:s	Bellas
+11004797-EpicApocalypse01-	name	벨라:s	Bellas
+11004798-EpicApocalypse01-	name	검은 마법사:s	Black Mages
+11004799-EpicApocalypse01-	name	검은 마법사:s	Black Mages
+11004800-EpicApocalypse01-	name	독방 입구:s	Solitary Cell Entrance:s
+11004801-EpicApocalypse01-	name	시공의 균열:s	Space-Time Rift:s
+11004802-EpicApocalypse01-	name	라네모네:s	Lanemones
+11004803-EpicApocalypse01-	name	어둠의 물질:s	Dark Matter:s
+11004804-EpicApocalypse01-	name	어둠의 물질:s	Dark Matter:s
+11004805-EpicApocalypse01-	name	어둠의 물질:s	Dark Matter:s
+11004806-EpicApocalypse01-	name	어둠의 물질:s	Dark Matter:s
+11004807-EpicApocalypse01-	name	어둠의 물질:s	Dark Matter:s
+11004808-EpicApocalypse01-	name	어둠의 물질:s	Dark Matter:s
+11004809-EpicApocalypse01-	name	어둠의 물질:s	Dark Matter:s
+11004810-EpicApocalypse01-	name	어둠의 물질:s	Dark Matter:s
+11004811-EpicApocalypse01-	name	어둠의 물질:s	Dark Matter:s
+11004812-EpicApocalypse01-	name	어둠의 물질:s	Dark Matter:s
+11004813-EpicApocalypse01-	name	신성한 영혼:s	Sacred Soul:s
+11004814-EpicApocalypse01-	name	청렴한 영혼:s	Pure Soul:s
+11004815-EpicApocalypse01-	name	정의로운 영혼:s	Righteous Soul:s
+11004816-EpicApocalypse01-	name	라네모네:s	Lanemones
+11004817-EpicApocalypse01-	name	메이리:s	Meili:s
+11004818-EpicApocalypse01-	name	비밀기사단 마법사:s	Lumiknight Mages
+11004819-EpicApocalypse01-	name	비밀기사단 마법사:s	Lumiknight Mages
+11004820-EpicApocalypse01-	name	에레브:s	Ereves
+11004821-EpicApocalypse01-	name	환영의 부부스:s	Phantom Bubuss:s
+11004822-EpicApocalypse01-	name	환영의 호루스:s	Phantom Horus:s
+11004823-EpicApocalypse01-	name	환영의 바야르:s	Phantom Vayar:s
+11004824-EpicApocalypse01-	name	환영의 마크52:s	Phantom Mark 52:s
+11004825-EpicApocalypse01-	name	에레브:s	Ereves
+11004826-EpicApocalypse01-	name	감옥 경비병:s	Prison Guard:s
+11004827-Event-	name	시간여행자 블랙빈:s	NPCNAMEPLURAL_11004827_NAME:[F]Event
+11004828-EpicApocalypse02-	name	라네모네:s	Lanemones
+11004829-EpicApocalypse02-	name	시공의 균열 중앙:s	Space-Time Rift Center:s
+11004830-EpicApocalypse02-	name	다크로드:s	Dark Lords
+11004831-EpicApocalypse02-	name	블랙빈:s	Black Bean:s
+11004832-EpicApocalypse02-	name	킬리안:s	Cerians
+11004833-Event-	name	시간여행자 블랙빈:s	NPCNAMEPLURAL_11004833_NAME:[F]Event
+11004834-Event-KR	name	프라이데이:s	Friday:s
+11004835-Event-KR	name	벚나무:s	Cherry Tree:s
+11004836-Event-KR	name	작은 벚나무:s	Small Cherry Tree:s
+11004837-Event-KR	name	더 작은 벚나무:s	Smaller Cherry Tree:s
+11004838-Event-KR	name	틴차이:s	Tinchais
+11004839-Event-KR	name	이브:s	Eves
+11004840-Event-KR	name	혁이:s	Blakes
+11004841-Event-KR	name	케이틀린:s	Kaitlyns
+11004842-Event-	name	백스:s	Backs:s
+11004842-Event-CN	name	백스:s	Backs:s
+11004843-Event-	name	몽쉘:s	Monshels
+11004844-Event-CN	name	살레:s	Salley:s
+11004845-Event-KR	name	살레:s	Salley:s
+11004846-Event-	name	아르웬:s	Arwens
+11004847-Event-	name	마니:s	Mannies
+11004848-Event-	name	마니:s	Mannies
+11004849-Event-	name	마니:s	Mannies
+11004850-Event-	name	마니:s	Mannies
+11004851-Event-	name	로얄로드 남부A01:s	South Royal Road A01:s
+11004852-Event-	name	로얄로드 남부B01:s	South Royal Road B01:s
+11004853-Event-	name	로얄로드 남부C01:s	South Royal Road C01:s
+11004854-Event-	name	비치웨이 "111"A01:s	Beachway "111" A01:s
+11004855-Event-	name	비치웨이 "111"B01:s	Beachway "111" B01:s
+11004856-Event-	name	비치웨이 "111"C01:s	Beachway "111" C01:s
+11004857-Event-	name	트리니안 가도A01:s	Trinian Crossing A01:s
+11004858-Event-	name	트리니안 가도B01:s	Trinian Crossing B01:s
+11004859-Event-	name	트리니안 가도C01:s	Trinian Crossing C01:s
+11004860-Event-	name	바움나무A01:s	Baum Tree A01:s
+11004861-Event-	name	바움나무B01:s	Baum Tree B01:s
+11004862-Event-	name	바움나무C01:s	Baum Tree C01:s
+11004863-EpicApocalypse01-	name	어둠의 물질:s	Dark Matter:s
+11004864-DungeonOS01-	name	블루 루크:s	Blue Luke:s
+11004865-EpicApocalypse01-	name	어둠의 물질:s	Dark Matter:s
+11004870-EpicApocalypse04-	name	어둠의 물질:s	Dark Matter:s
+11004871-EpicApocalypse04-	name	납치된 연주단원:s	Kidnapped Musician:s
+11004872-EpicApocalypse04-	name	오스칼:s	Oskas
+11004873-EpicApocalypse04-	name	아르마노:s	Armanos
+11004874-EpicApocalypse04-	name	검은 마법사:s	Black Mages
+11004875-EpicApocalypse04-	name	흑화된 아르마노:s	Corrupted Armano:s
+11004876-EpicApocalypse04-	name	슈테판:s	Stefans
+11004877-EpicApocalypse04-	name	어둠의 물질:s	Dark Matter:s
+11500001-Season1-	name	루비:s	Rubies
+11500002-Season1-	name	바비:s	Bobbies
+11500003-Event-	name	루비:s	Rubies
+11500004-Event-	name	병사:s	Soldiers
+11500005-Event-	name	훈련용 허수아비:s	Training Scarecrow:s
+21001042-EpicApocalypse01-	name	신성한 영혼:s	Sacred Soul:s
+21001043-EpicApocalypse01-	name	청렴한 영혼:s	Pure Soul:s
+21001044-EpicApocalypse01-	name	정의로운 영혼:s	Righteous Soul:s
+21001045-EpicApocalypse01-	name	왕궁 지하 박쥐:s	Royal Palace Underground Bat:s
+21001046-EpicApocalypse01-	name	왕궁 지하 박쥐:s	Royal Palace Underground Bat:s
+21010201-Kritias_Turka02-	name	투르카 군단 저글링:s	Turka Legion Juggler:s
+21010202-Kritias_Turka02-	name	투르카 군단 전투견:s	Turka Legion War Dog:s
+21010203-Kritias_Turka02-	name	투르카 군단 살수:s	Turka Legion Slinger:s
+21010204-Kritias_Turka02-	name	투르카 군단 마법사:s	Turka Legion Mage:s
+21010205-Kritias_Turka02-	name	투르카 군단 광전사:s	Turka Legion Berserker:s
+21010206-Kritias_Turka02-	name	투르카 군단 하급 알렉:s	Turka Legion Lesser Alec:s
+21010207-Kritias_Turka02-	name	투르카 군단 중급 알렉:s	Turka Legion Middle Alec:s
+21010208-Kritias_Turka02-	name	투르카 군단 상급 알렉:s	Turka Legion Greater Alec:s
+21010209-Kritias_Turka02-	name	투르카 군단 회랑 지휘관:s	Turka Legion Corridor Commander:s
+21010210-Kritias_Turka02-	name	투르카 군단 회랑 사령관:s	Turka Legion Corridor Marshal:s
+21010211-Kritias_Turka02-	name	투르카 군단 회랑 지휘관:s	Turka Legion Corridor Commander:s
+21010212-Kritias_Turka02-	name	투르카 군단 회랑 사령관:s	Turka Legion Corridor Marshal:s
+21010213-Kritias_Turka02-	name	투르카 군단 회랑 지휘관:s	Turka Legion Corridor Commander:s
+21010214-Kritias_Turka02-	name	투르카 군단 회랑 사령관:s	Turka Legion Corridor Marshal:s
+21010215-Kritias_Turka02-	name	투르카 군단 회랑 지휘관:s	Turka Legion Corridor Commander:s
+21010216-Kritias_Turka02-	name	투르카 군단 회랑 사령관:s	Turka Legion Corridor Marshal:s
+21010217-Kritias_Turka02-	name	투르카 군단 회랑 사령관:s	Turka Legion Corridor Marshal:s
+21010218-Kritias_Turka02-	name	투르카 군단 회랑 지휘관:s	Turka Legion Corridor Commander:s
+21010222-Kritias_Turka02-	name	투르카 군단 저글링:s	Turka Legion Juggler:s
+21010223-Kritias_Turka02-	name	투르카 군단 전투견:s	Turka Legion War Dog:s
+21010224-Kritias_Turka02-	name	투르카 군단 살수:s	Turka Legion Slinger:s
+21010225-Kritias_Turka02-	name	투르카 군단 마법사:s	Turka Legion Mage:s
+21010226-Kritias_Turka02-	name	투르카 군단 광전사:s	Turka Legion Berserker:s
+21010227-Kritias_Turka02-	name	투르카 군단 하급 알렉:s	Turka Legion Lesser Alec:s
+21010228-Kritias_Turka02-	name	투르카 군단 중급 알렉:s	Turka Legion Middle Alec:s
+21010229-Kritias_Turka02-	name	투르카 군단 상급 알렉:s	Turka Legion Greater Alec:s
+21010230-Kritias_Turka02-	name	투르카 군단 회랑 지휘관:s	Turka Legion Corridor Commander:s
+21010231-Kritias_Turka02-	name	투르카 군단 회랑 사령관:s	Turka Legion Corridor Marshal:s
+21010232-Kritias_Turka02-	name	투르카 군단 회랑 지휘관:s	Turka Legion Corridor Commander:s
+21010233-Kritias_Turka02-	name	투르카 군단 회랑 사령관:s	Turka Legion Corridor Marshal:s
+21010234-Kritias_Turka02-	name	투르카 군단 회랑 지휘관:s	Turka Legion Corridor Commander:s
+21010235-Kritias_Turka02-	name	투르카 군단 회랑 사령관:s	Turka Legion Corridor Marshal:s
+21010236-Kritias_Turka02-	name	투르카 군단 회랑 지휘관:s	Turka Legion Corridor Commander:s
+21010237-Kritias_Turka02-	name	투르카 군단 회랑 사령관:s	Turka Legion Corridor Marshal:s
+21010238-Kritias_Turka02-	name	투르카 군단 회랑 사령관:s	Turka Legion Corridor Marshal:s
+21010239-Kritias_Turka02-	name	투르카 군단 회랑 지휘관:s	Turka Legion Corridor Commander:s
+21400336-DungeonOpen70AH5-	name	지란트:s	Girants
+21400369-DungeonOpen70CH6-	name	미스틱 부기:s	Mystic Boogies
+21400370-DungeonOpen70CH6-	name	플레임 부기:s	Blazing Boogies
+21400371-DungeonOpen70CH6-	name	미스틱 부기:s	Mystic Boogies
+21400372-DungeonOpen70CH6-	name	플레임 부기:s	Blazing Boogies
+21401190-DungeonOpen70CH6-	name	데보라크 주니어:s	Devorak Juniors
+21401191-DungeonOpen70CH6-	name	데보라크 주니어:s	Devorak Juniors
+21402099-DungeonOpen70CH7-	name	만트라 솔저 Code-A:s	Animus Soldiers Series A
+21402100-DungeonOpen70CH7-	name	만트라 솔저 Code-S:s	Animus Soldiers Series S
+21402101-DungeonOpen70CH7-	name	만트라 솔저 Code-C:s	Animus Soldiers Series C
+21402190-DungeonOpen70CH6-	name	데보라크 주니어:s	Devorak Juniors
+21410110-Kritias_Zakum01-	name	부기:s	Boogies
+21410111-Kritias_Zakum01-	name	부기:s	Boogies
+21410112-Kritias_Zakum01-	name	부기:s	Boogies
+21410120-Kritias_Zakum01-	name	계약의 토템:s	Covenant Totems
+21410121-Kritias_Zakum01-	name	계약의 토템:s	Covenant Totems
+21410122-Kritias_Zakum01-	name	계약의 토템:s	Covenant Totems
+21410123-Kritias_Zakum01-	name	계약의 토템:s	Covenant Totems
+21410124-Kritias_Zakum01-	name	계약의 토템:s	Covenant Totems
+21410125-Kritias_Zakum01-	name	계약의 토템:s	Covenant Totems
+21410131-DungeonOpen70AH4-	name	바야르의 수호병:s	Vayar Guardians
+21410132-DungeonOpen70AH4-	name	바야르의 수호병:s	Vayar Guardians
+21410141-DungeonOpen70CH3-	name	슈슈의 분신:s	NuShoos
+21410142-DungeonOpen70CH3-	name	슈슈의 분신:s	NuShoos
+21410143-DungeonOpen70CH3-	name	슈슈의 분신:s	NuShoos
+21410144-DungeonOpen70CH3-	name	슈슈의 분신:s	NuShoos
+21410151-DungeonOpen70CH3-	name	슈슈의 분신:s	NuShoos
+21410152-DungeonOpen70CH3-	name	슈슈의 분신:s	NuShoos
+21410153-DungeonOpen70CH3-	name	슈슈의 분신:s	NuShoos
+21410154-DungeonOpen70CH3-	name	슈슈의 분신:s	NuShoos
+21410161-Kandura-	name	검은 그림자:s	Shades
+21410162-Kandura-	name	검은 그림자:s	Shades
+21410163-Kandura-	name	검은 그림자:s	Shades
+21410164-Kandura-	name	검은 그림자:s	Shades
+21410165-Kandura-	name	검은 그림자:s	Shades
+21410166-Kandura-	name	검은 그림자:s	Shades
+21410167-Kandura-	name	검은 그림자:s	Shades
+21410168-Kandura-	name	검은 그림자:s	Shades
+21410169-Kandura-	name	검은 그림자:s	Shades
+21410170-Kandura-	name	검은 그림자:s	Shades
+21410171-Kandura-	name	검은 그림자:s	Shades
+21410172-Kandura-	name	검은 그림자:s	Shades
+21410173-Kandura-	name	검은 그림자:s	Shades
+21410174-Kandura-	name	검은 그림자:s	Shades
+21410175-Kandura-	name	검은 그림자:s	Shades
+21410176-Kandura-	name	검은 그림자:s	Shades
+21410177-Kandura-	name	검은 그림자:s	Shades
+21410178-Kandura-	name	검은 그림자:s	Shades
+21410179-Kandura-	name	검은 그림자:s	Shades
+21410180-Kandura-	name	검은 그림자:s	Shades
+21410181-Kandura-	name	검은 그림자:s	Shades
+21410182-Kandura-	name	검은 그림자:s	Shades
+21410183-Kandura-	name	검은 그림자:s	Shades
+21410190-Kandura-	name	검은 그림자:s	Shades
+21410191-Kandura-	name	검은 그림자:s	Shades
+21410192-Kandura-	name	검은 그림자:s	Shades
+21410193-Kandura-	name	검은 그림자:s	Shades
+21410194-Kandura-	name	검은 그림자:s	Shades
+21410195-Kandura-	name	검은 그림자:s	Shades
+21410196-Kandura-	name	검은 그림자:s	Shades
+21410197-Kandura-	name	검은 그림자:s	Shades
+21410200-Kandura-	name	검은 그림자:s	Shades
+21410201-Kandura-	name	검은 그림자:s	Shades
+21430016-LapentaDungeon-	name	네펜투스:s	Nepenteeth
+21430017-LapentaDungeon-	name	라펜턴드 블레이더:s	Lapenta-Touched Blades
+21430018-LapentaDungeon-	name	라펜턴드 매지션:s	Lapenta-Touched Magicians
+21430019-LapentaDungeon-	name	라펜턴드 블레이더:s	Lapenta-Touched Blades
+21430020-LapentaDungeon-	name	라펜턴드 매지션:s	Lapenta-Touched Magicians
+21450001-BlackOnyx-	name	흑성회 조직원:s	Blackstar Gangsters
+21450002-BlackOnyx-	name	흑성회 무장 조직원:s	Armed Blackstar Gangster
+21450003-BlackOnyx-	name	흑성회 무장 조직원:s	Armed Blackstar Gangster
+21450004-BlackOnyx-	name	컴뱃 메이드 M2:s	Combat Maid M2s
+21450005-BlackOnyx-	name	 컴뱃 메이드 NF:s	 Combat Maid NF:s
+21450006-BlackOnyx-	name	컴뱃 메이드 BS:s	Combat Maid BS:s
+21450007-BlackOnyx-	name	감시 로봇 빅터 V1:s	Victorious Sentinel Robot V1:s
+21450008-DarkTear-	name	그림자 영혼:s	Shadow Spirit:s
+21450009-DarkTear-	name	그림자 영혼:s	Shadow Spirit:s
+21450010-DarkTear-	name	그림자 영혼:s	Shadow Spirit:s
+21450011-DarkTear-	name	검은 병정거미:s	Black Soldier Spider:s
+21450012-DarkTear-	name	강화된 병정거미:s	Reinforced Soldier Spider:s
+21450013-DarkTear-	name	제너럴 스파이더:s	General Spider:s
+21450014-DarkTear-	name	네더 버드:s	Nether Bird:s
+21450015-DarkTear-	name	외눈 거미:s	One-Eyed Spider:s
+21450016-DarkTear-	name	쉐도우 불:s	Shadow Bull:s
+21450017-DarkTear-	name	쉐도우 가고일:s	Shadow Gargoyle:s
+21450018-DarkTear-	name	캄캄아이:s	Dark Eye:s
+21450019-DarkTear-	name	쉐도우 리자드:s	Shadow Lizard:s
+21450020-BlackOnyx-	name	출입문:s	Entrance Doors
+21450021-DarkTear-	name	아르키아의 알:s	Arkia's Egg:s
+21450022-DarkTear-	name	아르키아의 알:s	Arkia's Egg:s
+21450023-DarkTear-	name	그림자 영혼1:s	Shadow Soul 1:s
+21450024-DarkTear-	name	그림자 영혼2:s	Shadow Soul 2:s
+21450025-DarkTear-	name	그림자 영혼3:s	Shadow Soul 3:s
+21450026-DarkTear-	name	쉐도우 불:s	Shadow Bull:s
+21450027-DarkTear-	name	쉐도우 가고일:s	Shadow Gargoyle:s
+21450028-DarkTear-	name	검은 병정거미:s	Black Soldier Spider:s
+21450029-DarkTear-	name	강화된 병정거미:s	Reinforced Soldier Spider:s
+21450030-DarkTear-	name	제너럴 스파이더:s	General Spider:s
+21450031-BlackOnyx-	name	감시 로봇 빅터 V2:s	Victorious Sentinel Robot V2:s
+21450032-BlackOnyx-	name	출입문:s	Entrance Doors
+21450033-BlackOnyx-	name	출입문:s	Entrance Doors
+21450034-DarkTear-	name	생명 거미:s	Life Spider:s
+21450035-BlackOnyx-	name	출입문:s	Entrance Doors
+21450036-DarkTear-	name	어둠의 망령:s	Wraith of Darkness:s
+21450037-DarkTear-	name	어둠의 망령:s	Wraith of Darkness:s
+21450038-DarkTear-	name	어둠의 망령:s	Wraith of Darkness:s
+21450039-BlackOnyx-	name	아기 달곰:s	Baby Moonbears
+21450040-BlackOnyx-	name	류호:s	Lupins
+21450041-BlackOnyx-	name	버려진 바야르 수호병:s	Abandoned Vayarian Guardians
+21450042-BlackOnyx-	name	럼블넛:s	Rumblenuts
+21450043-BlackOnyx-	name	레건 로보틱스 1호:s	Weldron Type 1s
+21450044-BlackOnyx-	name	리페 로보틱스 1호:s	Clampoid Type 1s
+21450045-BlackOnyx-	name	솔저레토:s	Soldierettos
+21450046-BlackOnyx-	name	나이트레토:s	Knightrettos
+21450047-DarkTear-	name	어둠의 망령:s	Wraith of Darkness:s
+21450051-BlackOnyx-	name	흑성회 조직원:s	Blackstar Gangsters
+21450052-BlackOnyx-	name	흑성회 조직원:s	Blackstar Gangsters
+21450053-BlackOnyx-	name	흑성회 조직원:s	Blackstar Gangsters
+21450054-BlackOnyx-	name	흑성회 무장 조직원:s	Armed Blackstar Gangster
+21450055-BlackOnyx-	name	흑성회 무장 조직원:s	Armed Blackstar Gangster
+21450056-BlackOnyx-	name	흑성회 무장 조직원:s	Armed Blackstar Gangster
+21450057-BlackOnyx-	name	컴뱃 메이드 M2:s	Combat Maid M2s
+21450061-BlackOnyx-	name	가면사황 차오:s	Masked King Chaos
+21450062-BlackOnyx-	name	가면사황 차쿤:s	Masked King Chakoons
+21450063-BlackOnyx-	name	가면사황 차린:s	Masked Queen Charins
+21450071-BlackOnyx-	name	비틀:s	Beetles
+21450072-BlackOnyx-	name	비틀:s	Beetles
+21450075-BlackOnyx-	name	가면사황 차우:s	Masked King Chaws
+21450076-BlackOnyx-	name	가면사황 차우:s	Masked King Chaws
+21501302-Kritias_Inferno01-	name	나이트레토:s	Knightrettos
+21501303-Kritias_Inferno01-	name	나이트레토:s	Knightrettos
+21501316-Kritias_Inferno01-	name	크림슨 발록:s	Crimson Balrogs
+21501381-DungeonOpen70CH5-	name	블랙 미니빈:s	Black Mini Bean:s
+21501382-DungeonOpen70CH5-	name	블랙 미니빈:s	Black Mini Bean:s
+21501386-DungeonOpen70CH5-	name	블랙 미니빈:s	Black Mini Bean:s
+21501391-DungeonOpen70CH5-	name	마법모자:s	Magic Hat:s
+21501396-DungeonOpen70CH5-	name	100톤 추:s	100-Ton Weight:s
+21501401-DungeonOpen70CH5-	name	더키:s	Duckies
+21501402-DungeonOpen70CH5-	name	킹슬라임:s	King Slimes
+21501403-DungeonOpen70CH5-	name	머쉬맘:s	Mushmoms
+21501404-DungeonOpen70CH5-	name	깡패 바라하:s	Varahas
+21501405-DungeonOpen70CH5-	name	데블린:s	Devilin:s
+21501411-DungeonOpen70CH5-	name	블랙 미니빈:s	Black Mini Bean:s
+21501412-DungeonOpen70CH5-	name	블랙 미니빈:s	Black Mini Bean:s
+21501416-DungeonOpen70CH5-	name	블랙 미니빈:s	Black Mini Bean:s
+21501421-DungeonOpen70CH5-	name	마법모자:s	Magic Hat:s
+21501426-DungeonOpen70CH5-	name	100톤 추:s	100-Ton Weight:s
+21501431-DungeonOpen70CH5-	name	더키:s	Duckies
+21501432-DungeonOpen70CH5-	name	킹슬라임:s	King Slimes
+21501433-DungeonOpen70CH5-	name	머쉬맘:s	Mushmoms
+21501434-DungeonOpen70CH5-	name	깡패 바라하:s	Varahas
+21501435-DungeonOpen70CH5-	name	데블린:s	Devilin:s
+21502031-DarkCastle-	name	마드리아:s	Madrias
+21502151-SnowKingdom-	name	신전의 기사단:s	Templars
+21502152-SnowKingdom-	name	신전의 기사단:s	Templars
+21502153-SnowKingdom-	name	설콩이:s	Snowbeens
+21502154-SnowKingdom-	name	설콩이:s	Snowbeens
+21502155-SnowKingdom-	name	설콩이:s	Snowbeens
+21502156-SnowKingdom-	name	설콩이:s	Snowbeens
+21502157-SnowKingdom-	name	설콩이:s	Snowbeens
+21502158-SnowKingdom-	name	설콩이:s	Snowbeens
+21502159-SnowKingdom-	name	에르다:s	Erdas
+21502221-Kritias_Turka03-	name	하급 알렉:s	Lesser Alec:s
+21502222-Kritias_Turka03-	name	상급 알렉:s	Greater Alec:s
+21502231-Kritias_Turka03-	name	하급 알렉:s	Lesser Alec:s
+21502232-Kritias_Turka03-	name	상급 알렉:s	Greater Alec:s
+21502241-Kritias_Turka03-	name	상급 알렉:s	Greater Alec:s
+21502242-Kritias_Turka03-	name	그람자 사신:s	Gramar Reaper:s
+21502251-Kritias_Turka03-	name	상급 알렉:s	Greater Alec:s
+21502252-Kritias_Turka03-	name	그람자 사신:s	Gramar Reaper:s
+21502261-Kritias_Turka03-	name	상급 알렉:s	Greater Alec:s
+21502262-Kritias_Turka03-	name	그람자 사신:s	Gramar Reaper:s
+21502271-Kritias_Turka03-	name	중급 알렉:s	Intermediate Alec:s
+21502272-Kritias_Turka03-	name	상급 알렉:s	Greater Alec:s
+21502281-Kritias_Turka03-	name	중급 알렉:s	Intermediate Alec:s
+21502282-Kritias_Turka03-	name	상급 알렉:s	Greater Alec:s
+21502291-Kritias_Turka03-	name	홀로그램 소녀:s	Hologram Girl:s
+21502292-Kritias_Turka03-	name	홀로그램 소녀:s	Hologram Girl:s
+21502293-Kritias_Turka03-	name	홀로그램 소녀:s	Hologram Girl:s
+21502295-Kritias_Turka03-	name	투르카:s	Turkas
+21502296-Kritias_Turka03-	name	투르카:s	Turkas
+21502311-Kritias_Turka03-	name	상급 알렉:s	Greater Alec:s
+21502312-Kritias_Turka03-	name	그람자 사신:s	Gramar Reaper:s
+21502321-Kritias_Turka03-	name	상급 알렉:s	Greater Alec:s
+21502322-Kritias_Turka03-	name	그람자 사신:s	Gramar Reaper:s
+21502331-Kritias_Turka03-	name	상급 알렉:s	Greater Alec:s
+21502332-Kritias_Turka03-	name	그람자 사신:s	Gramar Reaper:s
+21502341-Kritias_Turka03-	name	홀로그램 소녀:s	Hologram Girl:s
+21502342-Kritias_Turka03-	name	홀로그램 소녀:s	Hologram Girl:s
+21502345-Kritias_Turka03-	name	투르카:s	Turkas
+21502346-Kritias_Turka03-	name	투르카:s	Turkas
+21803600-Kritias_Turka03-	name	마력의 구슬:s	Orb of Mana:s
+21803601-Kritias_Turka03-	name	마력의 구슬:s	Orb of Mana:s
+21803602-Kritias_Turka03-	name	마력의 구슬:s	Orb of Mana:s
+21803603-Kritias_Turka03-	name	마력의 구슬:s	Orb of Mana:s
+22600001-BlackOnyx-	name	흑성회 감시 로봇 제로 D1:s	Blackstar Surveillance Robot Zero D1:s
+22600002-DarkTear-	name	쉐도우 가드:s	Shadow Guard:s
+22600003-DarkTear-	name	나이트 해머:s	Knight Hammer:s
+22600004-DarkTear-	name	블러디 나이프:s	Bloody Knife:s
+22600005-DarkTear-	name	딥 브레스:s	Deep Breath:s
+22600006-DarkTear-	name	에이션트 리자드:s	Ancient Lizard:s
+22600007-BlackOnyx-	name	블랙스타 코쿤:s	Blackstar Cocoon:s
+22600008-DarkTear-	name	에이션트 리자드:s	Ancient Lizard:s
+22600009-DarkTear-	name	에이션트 리자드:s	Ancient Lizard:s
+23000084-DungeonOpen70CH7-	name	칸두라:s	Kanduras
+23000085-DungeonOpen70CH7-	name	칸두라:s	Kanduras
+23000090-CrimsonBalrog01-	name	인페르녹:s	Infernogs
+23000091-CrimsonBalrog01-	name	인페르녹의 전함:s	Infernog's Battleships
+23000092-CrimsonBalrog01-	name	인페르녹의 전함:s	Infernog's Battleships
+23000093-CrimsonBalrog01-	name	인페르녹의 전함:s	Infernog's Battleships
+23000094-FameContents_EP1_01-	name	아머드 체키:s	Armored Checkies
+23000097-DungeonOpen70CH5-	name	블랙빈의 자동차:s	Black Bean's Car:s
+23000098-DungeonOpen70CH5-	name	블랙빈의 자동차:s	Black Bean's Car:s
+23000101-DungeonOpen70CH5-	name	블랙빈:s	Black Bean:s
+23000102-DungeonOpen70CH5-	name	블랙빈:s	Black Bean:s
+23000104-WorldChampionMushroom-	name	가마:s	Palanquin:s
+23000105-DungeonOpen70CH5-	name	블랙빈의 자동차:s	Black Bean's Car:s
+23000106-DungeonOpen70CH5-	name	블랙빈의 자동차:s	Black Bean's Car:s
+23000107-DungeonOpen70CH5-	name	블랙빈:s	Black Bean:s
+23000108-DungeonOpen70CH5-	name	블랙빈:s	Black Bean:s
+23000120-Kritias_Turka03-	name	투르카:s	Turkas
+23000121-Kritias_Turka03-	name	투르카:s	Turkas
+23000122-Kritias_Turka03-	name	투르카:s	Turkas
+23000123-Kritias_Turka03-	name	투르카:s	Turkas
+23000124-Kritias_Turka03-	name	투르카:s	Turkas
+23000125-Kritias_Turka03-	name	투르카:s	Turkas
+23000126-Kritias_Turka03-	name	투르카:s	Turkas
+23000127-Kritias_Turka03-	name	투르카:s	Turkas
+23000128-Kritias_Turka03-	name	투르카:s	Turkas
+23000131-Kritias_Turka03-	name	투르카:s	Turkas
+23000132-Kritias_Turka03-	name	투르카:s	Turkas
+23000133-Kritias_Turka03-	name	투르카:s	Turkas
+23000134-Kritias_Turka03-	name	투르카:s	Turkas
+23000135-Kritias_Turka03-	name	투르카:s	Turkas
+23000160-DungeonOS02-	name	핑크빈:s	Pink Beans
+23000161-DungeonOS02-	name	블랙빈:s	Black Bean:s
+23000162-DungeonOS02-	name	핑크빈:s	Pink Beans
+23000163-DungeonOS02-	name	블랙빈:s	Black Bean:s
+23000400-DungeonOS01-	name	블루 루크:s	Blue Luke:s
+23000401-DungeonOS01-	name	광기 어린 블루 루크:s	Maddened Blue Rook:s
+23000410-DungeonOS01-	name	주니어 블루 루크:s	Junior Blue Rook:s
+23000411-DungeonOS01-	name	주니어 블루 루크:s	Junior Blue Rook:s
+23000420-DungeonOS01-	name	주니어 레드 루크:s	Junior Red Rook:s
+23000421-DungeonOS01-	name	주니어 레드 루크:s	Junior Red Rook:s
+23000430-DungeonOS01-	name	주니어 옐로우 루크:s	Junior Yellow Luk
+23000431-DungeonOS01-	name	주니어 옐로우 루크:s	Junior Yellow Luk
+23000440-DungeonOS01-	name	주니어 그린 루크:s	Junior Green Luk
+23000441-DungeonOS01-	name	주니어 그린 루크:s	Junior Green Luk
+23000450-DungeonOS01-	name	구슬0:s	Orb 0
+23000451-DungeonOS01-	name	구슬1:s	Orb 1
+23000452-DungeonOS01-	name	구슬2:s	Orb 2
+23000453-DungeonOS01-	name	구슬3:s	Orb 3
+23000454-DungeonOS01-	name	구슬4:s	Orb 4
+23000455-DungeonOS01-	name	구슬5:s	Orb 5
+23000456-DungeonOS01-	name	구슬6:s	Orb 6
+23000457-DungeonOS01-	name	구슬7:s	Orb 7
+23090007-DungeonOpen70AH5-	name	발록:s	Balrogs
+23200008-DungeonOpen70CH6-	name	그림자술사 데보라크:s	Devoraks
+23200009-DungeonOpen70CH6-	name	그림자술사 데보라크:s	Devoraks
+23300001-BlackOnyx-	name	하렌:s	Haren
+23300006-DarkTear-	name	지옥 황소 데칸:s	Hell Bull Deccan:s
+23300007-DarkTear-	name	다크 플레임:s	Dark Flame:s
+23300008-DarkTear-	name	미스터리 스카프:s	Mystery Scarf:s
+23300009-DarkTear-	name	자크블:s	Jakble:s
+23300010-DarkTear-	name	검은 눈물 아르키아:s	Black Tears Arkia:s
+23300011-DarkTear-	name	검은 눈물 아르키아:s	Black Tears Arkia:s
+23400072-Kritias_Zakum01-	name	자쿰:s	Zakums
+23400073-Kritias_Zakum01-	name	자쿰:s	Zakums
+23407001-Kritias_Zakum01-	name	자쿰의 첫 번째 팔:s	Zakum's First Arms
+23407002-Kritias_Zakum01-	name	자쿰의 두 번째 팔:s	Zakum's Second Arms
+23407003-Kritias_Zakum01-	name	자쿰의 세 번째 팔:s	Zakum's Third Arms
+23407004-Kritias_Zakum01-	name	자쿰의 네 번째 팔:s	Zakum's Fourth Arms
+23407005-Kritias_Zakum01-	name	자쿰의 다섯 번째 팔:s	Zakum's Fifth Arms
+23407006-Kritias_Zakum01-	name	자쿰의 여섯 번째 팔:s	Zakum's Sixth Arms
+23407007-Kritias_Zakum01-	name	자쿰의 첫 번째 팔:s	Zakum's First Arms
+23407008-Kritias_Zakum01-	name	자쿰의 두 번째 팔:s	Zakum's Second Arms
+23407009-Kritias_Zakum01-	name	자쿰의 네 번째 팔:s	Zakum's Fourth Arms
+23407010-Kritias_Zakum01-	name	자쿰의 다섯 번째 팔:s	Zakum's Fifth Arms
+23407011-Kritias_Zakum01-	name	자쿰의 첫 번째 팔:s	Zakum's First Arms
+23407012-Kritias_Zakum01-	name	자쿰의 두 번째 팔:s	Zakum's Second Arms
+23407013-Kritias_Zakum01-	name	자쿰의 세 번째 팔:s	Zakum's Third Arms
+23407014-Kritias_Zakum01-	name	자쿰의 네 번째 팔:s	Zakum's Fourth Arms
+23407015-Kritias_Zakum01-	name	자쿰의 다섯 번째 팔:s	Zakum's Fifth Arms
+23407016-Kritias_Zakum01-	name	자쿰의 여섯 번째 팔:s	Zakum's Sixth Arms
+23407017-Kritias_Zakum01-	name	자쿰의 첫 번째 팔:s	Zakum's First Arms
+23407018-Kritias_Zakum01-	name	자쿰의 두 번째 팔:s	Zakum's Second Arms
+23407019-Kritias_Zakum01-	name	자쿰의 네 번째 팔:s	Zakum's Fourth Arms
+23407020-Kritias_Zakum01-	name	자쿰의 다섯 번째 팔:s	Zakum's Fifth Arms
+23500001-DungeonOpen70AH3-	name	마크52 오메가:s	MK 52 Omegas
+23500002-DungeonOpen70AH4-	name	잊혀진 바야르:s	Forgotten Vayars
+23500003-DungeonOpen70CH3-	name	슈슈와 부부스:s	Shoos and Booboos
+23500004-DungeonOpen70CH3-	name	슈슈와 부부스:s	Shoos and Booboos
+23500005-DungeonOpen70CH4-	name	호루스:s	Horuses
+23500006-DungeonOpen70CH4-	name	호루스:s	Horuses
+23501101-LapentaDungeon-	name	유페리아:s	Eupherias
+23501111-LapentaDungeon-	name	렌듀비앙:s	Landevians
+23501121-LapentaDungeon-	name	이슈라:s	Ishuras
+23501201-LapentaDungeon-	name	유페리아:s	Eupherias
+23501211-LapentaDungeon-	name	렌듀비앙:s	Landevians
+23501221-LapentaDungeon-	name	이슈라:s	Ishuras
+23502012-SnowKingdom-	name	비에른의 분신:s	Bjorn's Mirror Images
+23502013-SnowKingdom-	name	비에른의 분신:s	Bjorn's Mirror Images
+23502014-SnowKingdom-	name	비에른의 분신:s	Bjorn's Mirror Images
+23503001-Kritias_Turka01-	name	아르케온 격납고 포탑:s	Arkeon Hangar Turret:s
+23503002-Kritias_Turka01-	name	아르케온 격납고 포탑:s	Arkeon Hangar Turret:s
+23503003-Kritias_Turka01-	name	아르케온 카이:s	Arkeon Kai:s
+23503004-Kritias_Turka01-	name	아르케온 한방기 사용용 Dummy:s	Arkeon One-Shot Use Dummy:s
+23503005-Kritias_Turka01-	name	아르케온 페이즈4 직선 폭발 Dummy:s	Arkeon Phase 4 Straight Explosion Dummy:s
+23503006-Kritias_Turka01-	name	아르케온 페이즈4 직선 폭발 Dummy:s	Arkeon Phase 4 Straight Explosion Dummy:s
+23503007-Kritias_Turka01-	name	아르케온 페이즈4 직선 폭발 Dummy:s	Arkeon Phase 4 Straight Explosion Dummy:s
+23503008-Kritias_Turka01-	name	아르케온 페이즈4 직선 폭발 Dummy:s	Arkeon Phase 4 Straight Explosion Dummy:s
+23503009-Kritias_Turka01-	name	아르케온 한방기 사용용 Dummy:s	Arkeon One-Shot Use Dummy:s
+23503010-Kritias_Turka01-	name	조종당하는 검은군단 MK-I-S:s	Controlled Black Legion MK-I-S:s
+23503011-Kritias_Turka01-	name	조종당하는 검은군단 MK-I-B:s	Controlled Black Legion MK-I-B:s
+23503021-Kritias_Turka01-	name	아르케온 탑승 Dummy:s	Arkeon Boarding Dummy:s
+23504001-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504002-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504003-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504004-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504005-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504006-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504007-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504008-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504009-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504010-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504011-Kritias_Turka02-	name	티마이온의 회랑 수호자:s	Timaion Corridor Guardian:s
+23504012-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504013-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504014-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504015-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504016-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504017-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504018-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504019-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504020-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504021-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504022-Kritias_Turka02-	name	티마이온의 회랑 수호자:s	Timaion Corridor Guardian:s
+23504101-Kritias_Turka02-	name	티마이온:s	Timaion:s
+23504102-Kritias_Turka02-	name	하얀 면역체:s	White Antibodies
+23504103-Kritias_Turka02-	name	검은 면역체:s	Black Antibodies
+23504104-Kritias_Turka02-	name	하얀 면역체:s	White Antibodies
+23504105-Kritias_Turka02-	name	검은 면역체:s	Black Antibodies
+23504106-Kritias_Turka02-	name	티마이온 번개 Dummy:s	Timaion Lightning Dummy:s
+24002601-MadDoctor01-	name	칼키노스:s	Kalcinoses
+24002602-MadDoctor01-	name	카모칸:s	Kamokan:s
+24002603-MadDoctor01-	name	캡틴 아구스:s	Captain Aguses
+24002604-MadDoctor01-	name	데블린 제너럴:s	Deblin General
+24002605-MadDoctor01-	name	툰툰:s	Tuntun
+25022200-Kritias02-	name	타이렌 특전병:s	Tairen Elite Soldier
+25022201-Kritias02-	name	강화 타이렌 돌격병:s	Reinforced Tairen Raider
+25022202-Kritias02-	name	메카수스:s	Mekasus
+25022203-Kritias02-	name	망가진 폭스트롯:s	Broken Foxtrot
+25022204-Kritias02-	name	타이렌 마도 요원:s	Tairen Dark Arts Agent
+25022205-Kritias02-	name	잔인한 케르베스 파괴자:s	Cruel Cerbes Destroyer
+25022206-Kritias02-	name	고장난 섹트:s	Malfunctioning Sect
+25022207-Kritias02-	name	케르베스 암살자:s	Cerbes Assassin
+25022208-Kritias02-	name	덩치 큰 케르베스 돔:s	Hulking Cerbe Dome
+25022300-Kritias02-	name	케르베스 인간 사냥꾼:s	Cerbe Human Hunter
+25022301-Kritias02-	name	케르베스 도살자:s	Cerbe Butcher
+25022302-Kritias02-	name	포악한 검은군단 파수견:s	Fierce Black Legion Watchdog
+25022303-Kritias02-	name	영리한 케르베스 파괴자:s	Clever Cerbe Destroyer
+25022304-Kritias02-	name	검은군단 수석 마도사:s	Black Legion Chief Mage
+25022305-Kritias02-	name	개량된 섹트:s	Improved Cult
+25022306-Kritias02-	name	무자비한 케르베스 암살자:s	Ruthless Cerbe Assassin
+25022307-Kritias02-	name	훈련 중인 케르베스 돔:s	Cerbe Dome in Training
+25022308-Kritias02-	name	오염된 포잉:s	Contaminated Poi
+25022309-Kritias02-	name	거대한 섹트:s	Giant Sect:s
+25022400-Kritias02-	name	검은군단 수석 암살자:s	Black Legion Chief Assassin:s
+25022401-Kritias02-	name	눈치 빠른 탐식이:s	Quick-Witted Glutton:s
+25022402-Kritias02-	name	분노한 식인 아룸:s	Enraged Cannibal Arum:s
+25022403-Kritias02-	name	고성능 폭스트롯:s	High-Performance Foxtrot:s
+25022404-Kritias02-	name	잠식된 포잉:s	Corroded Poing:s
+25022405-Kritias02-	name	사나운 꿈트리:s	Fierce Dreamtree:s
+25022406-Kritias02-	name	삐딱한 슝슝 모랑:s	Crooked Whizzing Moran:s
+25022407-Kritias02-	name	냄새나는 라플레시아:s	Stinky Rafflesia:s
+25022408-Kritias02-	name	민첩한 테블라:s	Nimble Tebla:s
+25022409-Kritias02-	name	심술쟁이 뾰롱 모랑:s	Grumpy Pporong Morang
+25022410-Kritias02-	name	검은군단 제라크:s	Black Legion Zerk
+25022500-Kritias02-	name	불량한 튼튼 모랑:s	Mischievous Sturdy Morang
+25022501-Kritias02-	name	교활한 테블라:s	Cunning Tebla
+25022502-Kritias02-	name	혼란스러운 놀라쥬:s	Confused Nolaju
+25022503-Kritias02-	name	게걸스러운 버럭이 모랑:s	Gluttonous Buluk Morang
+25022504-Kritias02-	name	전이된 라플레시아:s	Transferred Rafflesia
+25022505-Kritias02-	name	개량된 테블라:s	Improved Tebla
+25022506-Kritias02-	name	고성능 섹트:s	High-performance Sect
+25022507-Kritias02-	name	광폭한 쿠우쿠:s	Ferocious Kuuku
+25022508-Kritias02-	name	까칠한 뾰롱 모랑:s	Prickly Pporong Morang:s
+25022600-Kritias02-	name	검은군단 중급 알렉트라:s	Black Legion Elite Alectra:s
+25022601-Kritias02-	name	레드 제라크:s	Red Jerak:s
+25022602-Kritias02-	name	심연의 라플레시아:s	Rafflesia of the Abyss:s
+25022603-Kritias02-	name	검은군단 하급 알렉:s	Black Legion Junior Alec:s
+25022604-Kritias02-	name	폭주한 폭스트롯:s	Frenzied Foxtrot:s
+25022605-Kritias02-	name	검은군단 파괴자 마스터:s	Black Legion Destroyer Master:s
+25022606-Kritias02-	name	잘 훈련된 탐식이:s	Well-Trained Glutton:s
+25022607-Kritias02-	name	검은군단 마도사 마스터:s	Black Legion Mage Master:s
+25022608-Kritias02-	name	검은군단 암살자 마스터:s	Black Legion Assassin Master:s
+25022609-Kritias02-	name	굶주린 검은군단 파수견:s	Starving Black Legion Watchdog
+25022700-Kritias02-	name	블랙 제라크:s	Black Jerak
+25022701-Kritias02-	name	검은군단 중급 데비르:s	Black Legion Intermediate Devir
+25022702-Kritias02-	name	검은군단 중급 알렉:s	Black Legion Intermediate Alek
+25022703-Kritias02-	name	맹독 검은군단 파수견:s	Venomous Black Legion Watchdog
+25022704-Kritias02-	name	검은군단 상급 알렉트라:s	Black Legion Advanced Alektra
+25022705-Kritias02-	name	고성능 테블라:s	High-Performance Tebla
+25022706-Kritias02-	name	성격 나쁜 탐식이:s	Bad-Tempered Glutton
+25022707-Kritias02-	name	칠흑무쇠 켄타리온:s	Jet-Black Steel Kentarion
+25022708-Kritias02-	name	칠흑무쇠 골리온:s	Jet-Black Steel Golion
+25022709-Kritias02-	name	광기의 검은군단 파수견:s	Crazed Black Legion Sentinel
+25022800-Kritias02-	name	버려진 감시로봇:s	Abandoned Sentry Robot
+25022801-Kritias02-	name	케르베스 전술대장 투샨:s	Cerbe's Battle Commander Tushan
+25022802-Kritias02-	name	변이된 첫째 포잉:s	Mutated First Powing
+25022803-Kritias02-	name	변이된 둘째 포잉:s	Mutated Second Powing
+25022804-Kritias02-	name	변이된 셋째 포잉:s	Mutated Third Powing
+25022805-Kritias02-	name	변이된 포잉 삼형제:s	Mutated Powing Trio
+25022810-Kritias02-	name	검은군단 감시로봇:s	Black Legion Sentry Robot
+25022811-Kritias02-	name	케르베스 돌격대장 쿠몬:s	Cerbe's Assault Captain Kumon
+25022812-Kritias02-	name	불타는 첫째 포잉:s	Burning First Powing
+25022813-Kritias02-	name	불타는 둘째 포잉:s	Burning Second Poing:s
+25022814-Kritias02-	name	불타는 셋째 포잉:s	Burning Third Poing:s
+25022815-Kritias02-	name	불타는 포잉 삼형제:s	Burning Poing Trio:s
+25022816-Kritias02-	name	케르베스 근위대:s	Cerbe's Royal Guard:s
+25022817-Kritias02-	name	케르베스 근위대:s	Cerbe's Royal Guard:s
+25022818-Kritias02-	name	케르베스 근위대:s	Cerbe's Royal Guard:s
+25022819-Kritias02-	name	케르베스 근위대:s	Cerbe's Royal Guard:s
+25022820-Kritias02-	name	케르베스 근위대:s	Cerbe's Royal Guard:s
+25022821-Kritias02-	name	케르베스 근위대:s	Cerbe's Royal Guard:s
+25022822-Kritias02-	name	케르베스 근위대:s	Cerbe's Royal Guard:s
+25022823-Kritias02-	name	케르베스 근위대:s	Cerbe's Royal Guard:s
+25022824-Kritias02-	name	케르베스 근위대:s	Cerbe's Royal Guard:s
+25022900-Kritias02-	name	케르베스 이인자 칼리아:s	Kalia, Cerbe's Second-in-Command:s
+25022901-Kritias02-	name	포악한 케르베스 돔:s	Ferocious Cerbe Dom:s
+25022902-Kritias02-	name	치밀한 케르베스 파괴자:s	Cunning Cerbe Destroyer:s
+25022903-Kritias02-	name	치밀한 케르베스 사냥꾼:s	Cunning Cerbe Hunter:s
+25023000-Kritias02-	name	타이렌 3급 켄타리온:s	Tairen Grade 3 Kentarion:s
+25023001-Kritias02-	name	타이렌 3급 헤비휴롯:s	Tairen Grade 3 Heavy Hurot:s
+25023002-Kritias02-	name	타이렌 3급 골리온:s	Tairen Grade 3 Goliath:s
+25023003-Kritias02-	name	타이렌 3급 킬러 휴롯:s	Tairen Grade 3 Killer Hurrot:s
+25023004-Kritias02-	name	타이렌 3급 MK-7:s	Tairen Grade 3 MK-7:s
+25023100-Kritias02-	name	케르베스 경비대장:s	Cerbe's Guard Captain:s
+25023101-Kritias02-	name	케르베스 경비병:s	Cerbe's Guard:s
+25023102-Kritias02-	name	경비중인 케르베스 돔:s	Cerbe's Dome on Guard:s
+25023200-Kritias02-	name	감염된 뾰롱 모랑:s	Infected Pyrong Morang:s
+25023201-Kritias02-	name	감염된 버럭 모랑:s	Infected Bulk Morang:s
+25023202-Kritias02-	name	타락한 버럭이 모랑:s	Fallen Bulk Morang:s
+25023300-Kritias02-	name	순찰중인 메카 티라노:s	Mecha Titanosaurus on Patrol:s
+25023301-Kritias02-	name	순찰중인 메카 캐논:s	Patrolling Mecha Cannon
+25023302-Kritias02-	name	낡은 MK-III-D:s	Worn MK-III-D
+25023303-Kritias02-	name	낡은 MK-III-W:s	Worn MK-III-W
+25030001-Kritias_Turka01-	name	아르케온 격납고 포탑:s	Arkeon Hangar Turret:s
+25030002-Kritias_Turka01-	name	아르케온 격납고 포탑:s	Arkeon Hangar Turret:s
+25030003-Kritias_Turka01-	name	아르케온 카이:s	Arkeon Kai:s
+25030004-Kritias_Turka01-	name	아르케온 한방기 사용용 Dummy:s	Arkeon One-Shot Use Dummy:s
+25030005-Kritias_Turka01-	name	아르케온 페이즈4 직선 폭발 Dummy:s	Arkeon Phase 4 Straight Explosion Dummy:s
+25030006-Kritias_Turka01-	name	아르케온 페이즈4 직선 폭발 Dummy:s	Arkeon Phase 4 Straight Explosion Dummy:s
+25030007-Kritias_Turka01-	name	아르케온 페이즈4 직선 폭발 Dummy:s	Arkeon Phase 4 Straight Explosion Dummy:s
+25030008-Kritias_Turka01-	name	아르케온 페이즈4 직선 폭발 Dummy:s	Arkeon Phase 4 Straight Explosion Dummy:s
+25030009-Kritias_Turka01-	name	아르케온 한방기 사용용 Dummy:s	Arkeon One-Shot Use Dummy:s
+25030010-Kritias_Turka01-	name	조종당하는 검은군단 MK-I-S:s	Controlled Black Legion MK-I-S:s
+25030011-Kritias_Turka01-	name	조종당하는 검은군단 MK-I-B:s	Controlled Black Legion MK-I-B:s
+25030021-Kritias_Turka01-	name	아르케온 탑승 Dummy:s	Arkeon Boarding Dummy:s
+25031001--	name	티마이온:s	NPCNAMEPLURAL_25031001_NAME
+25031002--	name	하얀 면역체:s	White Antibodies
+25031003--	name	검은 면역체:s	Black Antibodies
+25100301-Fieldwar02-	name	검은군단 탐식이:s	Daemon Gluttons
+25100302-Fieldwar02-	name	검은군단 파수견:s	Daemon Dogs
+25100303-Fieldwar02-	name	검은군단 약탈자:s	Daemon Plunderers
+25100304-Fieldwar02-	name	검은군단 무시돌진:s	Daemon Army Ignore Rushes
+25100305-Fieldwar02-	name	검은군단 파괴자:s	Daemon Destroyers
+25100306-Fieldwar02-	name	검은군단 군단장:s	Daemon Commanders
+25100307-Fieldwar02-	name	에네르 분광장치:s	Aetherine Spectrometers
+25100308-Fieldwar02-	name	검은군단 미사일 포대:s	Daemon Missile Turrets
+25200101-Kritias_Turka01-	name	흑화 에고 웨폰 전사:s	Corrupted Ego Weapon Warrior
+25200102-Kritias_Turka01-	name	흑화 에고 웨폰 궁수:s	Corrupted Ego Weapon Archer
+25200103-Kritias_Turka01-	name	흑화 에고 웨폰 마법사:s	Corrupted Ego Weapon Mage
+25200104-Kritias_Turka01-	name	흑화 에고 웨폰 정예병:s	Corrupted Ego Weapon Elite
+25200105-Kritias_Turka01-	name	흑화 에고 웨폰 전사:s	Corrupted Ego Weapon Warrior
+25200106-Kritias_Turka01-	name	흑화 에고 웨폰 궁수:s	Corrupted Ego Weapon Archer
+25200107-Kritias_Turka01-	name	흑화 에고 웨폰 마법사:s	Corrupted Ego Weapon Mage
+25200108-Kritias_Turka01-	name	흑화 에고 웨폰 정예병:s	Corrupted Ego Weapon Elite
+25200109-Kritias_Turka01-	name	플라즈마 포탑:s	Plasma Turret
+25200110-Kritias_Turka01-	name	플라즈마 포탑 더미:s	Plasma Turret Dummy
+25200201-Kritias_Turka01-	name	흑화 에고 웨폰 전사:s	Corrupted Ego Weapon Warrior
+25200202-Kritias_Turka01-	name	흑화 에고 웨폰 궁수:s	Corrupted Ego Weapon Archer
+25200203-Kritias_Turka01-	name	흑화 에고 웨폰 마법사:s	Corrupted Ego Weapon Mage
+25200204-Kritias_Turka01-	name	흑화 에고 웨폰 정예병:s	Corrupted Ego Weapon Elite
+25200205-Kritias_Turka01-	name	흑화 에고 웨폰 전사:s	Corrupted Ego Weapon Warrior
+25200206-Kritias_Turka01-	name	흑화 에고 웨폰 궁수:s	Corrupted Ego Weapon Archer
+25200207-Kritias_Turka01-	name	흑화 에고 웨폰 마법사:s	Corrupted Ego Weapon Mage
+25200208-Kritias_Turka01-	name	흑화 에고 웨폰 정예병:s	Corrupted Ego Weapon Elite
+25200209-Kritias_Turka01-	name	플라즈마 포탑:s	Plasma Turret
+25200210-Kritias_Turka01-	name	플라즈마 포탑 더미:s	Plasma Turret Dummy
+27000005-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000006-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000007-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000008-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000009-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000010-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000011-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000012-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000013-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000014-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000015-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000016-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000017-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000018-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000019-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000020-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000021-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000022-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000023-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000024-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000025-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000026-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000027-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000028-Event-	name	깜짝 보물상자:s	Surprise Treasure Chests
+27000052-Wedding-	name	한 맺힌 솔로 악령:s	Vengeful Solo Wraith
+27000053-Wedding-	name	세레나데:s	Serenade:s
+27000114-Event-	name	슈퍼파워 핑크빈:s	Super Pink Beans
+27000115-Event-	name	험상궂은 우르자:s	Tough Urzas
+27000116-Event-	name	골드 파라옹 야옹캣:s	Gold Pharaoh Meowcat:s
+27100101-EliteRenewal-	name	부기콜리:s	Turtcolis
+27100102-EliteRenewal-	name	우르자:s	Urzas
+27100103-EliteRenewal-	name	머쉬맘:s	Mushmoms
+27100104-EliteRenewal-	name	킹슬라임:s	King Slimes
+27100105-EliteRenewal-	name	스텀피:s	Stumpies
+27100106-Season2-	name	닥터 피피:s	Dr. Pippies
+27100107-Season3-	name	춤바람 카투카:s	Spearleaf the Wind-Dancers
+27100108-Season2-	name	펑펑 버블링:s	Bursting Bubblings
+44100001-DungeonOS04-	name	델라 로사:s	Dela Rosa:s
+44100002-DungeonOS04-	name	드럼롤:s	Drumroll:s
+44100003-DungeonOS04-	name	드럼롤:s	Drumroll:s
+44100004-DungeonOS04-	name	드럼롤:s	Drumroll:s
+50400341-Event-	name	놀랐냥:s	Kittywampuses
+50400342-Event-	name	놀랐냥:s	Kittywampuses
+50400343-Event-	name	놀랐냥:s	Kittywampuses
+60000062--	name	마비노기 나오 봉제인형:s	Mabinogi Nao Plush Doll
+60000101-Colosseum01-	name	로베:s	Roveys
+60000102-Colosseum01-	name	스타츠:s	Startzes
+60000103-Colosseum01-	name	민트:s	Mints
+60000201-Colosseum01-	name	알론:s	Allons
+60000202-Colosseum01-	name	오르데:s	Ordes
+60000203-Colosseum01-	name	오필리아:s	Ophelias
+60000204-Colosseum01-	name	구르는 천둥:s	Rolling Thunders
+60000301-Colosseum01-	name	파토스:s	Pathoses
+60000302-Colosseum01-	name	바사라 첸:s	Vasara Chens
+60000303-Colosseum01-	name	미카:s	Mikas
+60000304-Colosseum02-	name	홀슈타트:s	Holstatts
+60000305-Colosseum02-	name	마드리아:s	Madrias
+60000306-Colosseum02-	name	홀슈타트_더미스킬:s	Holstatt_DummySkill
+60000307-Colosseum02-	name	쁘띠 루카락스:s	Petit Lucarax
+60000308-Colosseum02-	name	퀸크빈럼블_마드리아_소환_루카락스:s	Queen Bean Rumble_Madria_Summon_Lucarax
+60000310-Colosseum02-	name	미엘:s	Miels
+60000311-Colosseum02-	name	루체:s	Ruches
+60000312-Colosseum02-	name	별꽃:s	Star Flower
+60000313-Colosseum02-	name	루체 더미:s	Lutche Dummy
+11000463-ItemSocketSystem-	name	切普:s	Cheop:s
+11000469-ItemSocketSystem-	name	鲁贝:s	Rube:s
+11000470-ItemSocketSystem-	name	迪拜克:s	Dibaik
+11000627-Season1-	name	莱顿:s	Laton
+11000735--	name	米卡:s	Mika:s
+11000933-ItemSocketSystem-	name	修茨:s	Schutz
+11000934-ItemSocketSystem-	name	莫哈:s	Moha
+11001214--	name	泰莫诺:s	Taimono
+11001215--	name	阿莫罗:s	Amoro
+11001224--	name	黑爵:s	Heijue
+11001258--	name	马夏尔:s	Marshal
+11001535--	name	斯默格:s	Smog
+11001698--	name	莉莉丝:s	Lilith
+11003139-Season1-	name	巴比:s	Vabi:s
+11003460-ItemSocketSystem-	name	海贝克:s	Haevik:s
+11003462-ItemSocketSystem-	name	马次:s	Maju:s
+21001002-Timaion01-	name	肯塔利翁:s	Kentallion:s
+21001003-Timaion01-	name	葛利温:s	Garibin:s
+21090021-Develop-	name	盗墓贼熊大:s	Tomb Robber Bear:s
+21800960--	name	战舰大炮:s	Warship Canon:s
+21800961--	name	战舰大炮:s	Warship Canon:s
+21800962--	name	战舰大炮:s	Warship Canon:s
+21800963--	name	战舰大炮:s	Warship Canon:s
+21800964--	name	战舰大炮:s	Warship Canon:s
+21800965--	name	战舰大炮:s	Warship Canon:s
+21800966--	name	战舰大炮:s	Warship Canon:s
+21801000--	name	战舰弩弓:s	Warship Crossbow:s
+21801001--	name	战舰弩弓:s	Warship Crossbow:s
+23000095--	name	巨型机器蠕虫:s	Giant Mechanical Worm:s
+23000096--	name	巨型机器蠕虫:s	Giant Mechanical Worm:s
+23000104--	name	轿子:s	Sedan Chair:s
+23000110--	name	蘑菇大王:s	Mushroom King:s
+23000111--	name	蘑菇大王:s	Mushroom King:s
+23000112--	name	蘑菇大王:s	Mushroom King:s
+23000114--	name	费艾伦:s	Feron:s
+23000115--	name	品克缤:s	Pink Bean:s
+23200062-DarkCastle-	name	莉莉丝:s	Lilith
+23200063-DarkCastle-	name	夜蚀:s	Night Eclipse:s
+23200064-DarkCastle-	name	夜蚀:s	Night Eclipse:s
+23500110--	name	蘑菇大王:s	Mushroom King:s
+23500111--	name	蘑菇大王:s	Mushroom King:s
+23500112--	name	蘑菇大王:s	Mushroom King:s
+23500113--	name	蘑菇大王:s	Mushroom King:s
+23500114--	name	蘑菇大王:s	Mushroom King:s
+23500115--	name	蘑菇大王:s	Mushroom King:s
+23500116--	name	蘑菇大王:s	Mushroom King:s
+23500117--	name	蘑菇大王:s	Mushroom King:s
+23500118--	name	蘑菇大王:s	Mushroom King:s
+23500119--	name	蘑菇大王:s	Mushroom King:s
+23500120--	name	蘑菇大王:s	Mushroom King:s
+23500121--	name	蘑菇大王:s	Mushroom King:s
+23500122--	name	蘑菇大王:s	Mushroom King:s
+23500123--	name	蘑菇大王:s	Mushroom King:s
+23500124--	name	蘑菇大王:s	Mushroom King:s
+23500125--	name	蘑菇大王:s	Mushroom King:s
+23500126--	name	蘑菇大王:s	Mushroom King:s
+23500127--	name	蘑菇大王:s	Mushroom King:s
+23500128--	name	蘑菇大王:s	Mushroom King:s
+23500129--	name	蘑菇大王:s	Mushroom King:s
+23500130--	name	蘑菇大王:s	Mushroom King:s
+23500131--	name	蘑菇大王:s	Mushroom King:s
+23500132--	name	蘑菇大王:s	Mushroom King:s
+23500133--	name	蘑菇大王:s	Mushroom King:s
+23500134--	name	蘑菇大王:s	Mushroom King:s
+23500135--	name	蘑菇大王:s	Mushroom King:s
+23500136--	name	蘑菇大王:s	Mushroom King:s
+23500137--	name	蘑菇大王:s	Mushroom King:s
+23500138--	name	蘑菇大王:s	Mushroom King:s
+23500139--	name	蘑菇大王:s	Mushroom King:s
+23988090--	name	地狱君主_前方发射:s	Hell Lord_Forward Shot:s
+23988091--	name	地狱君主_四周发射:s	Hell Lord_All Directions Shot:s
+23988092--	name	地狱君主_连续生成地面:s	Hell Lord_Continuous Ground Generation:s
+23988093--	name	地狱君主_伤害区域_圆柱:s	Hell Lord_Damage Zone_Cylinder:s
+99000055--	name	僵尸蘑菇王:s	Zombie Mushroom King:s
