@@ -28094,7 +28094,7 @@
     "type": "SideNpcTalk"
   },
   "02020098_BF__PopUpCinema__0-Kritias_Inferno01-": {
-    "name": "STRINGTRIGGER_02020098_BF__POPUPCINEMA__0_NAME:[F]Kritias_Inferno01",
+    "name": "果たして我が呪いのまなざしに耐えられるかな？クハハハ！！",
     "npc": "인페르녹",
     "type": "SideNpcTalk"
   },
@@ -32573,37 +32573,37 @@
     "type": "AddCinematicTalk"
   },
   "02020200_BF__11_BALLOONTALK__0-Kritias_Paika01-": {
-    "name": "STRINGTRIGGER_02020200_BF__11_BALLOONTALK__0_NAME:[F]Kritias_Paika01",
+    "name": "祭壇を保護しなければならない。エネル凝縮器が破壊されないようにしろ！",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020200_BF__11_BALLOONTALK__1-Kritias_Paika01-": {
-    "name": "STRINGTRIGGER_02020200_BF__11_BALLOONTALK__1_NAME:[F]Kritias_Paika01",
+    "name": "これ、なんだか危なそうだけど？",
     "npc": "NotUse",
     "type": "AddBalloonTalk"
   },
   "02020200_BF__11_BALLOONTALK__2-Kritias_Paika01-": {
-    "name": "STRINGTRIGGER_02020200_BF__11_BALLOONTALK__2_NAME:[F]Kritias_Paika01",
+    "name": "あいつのハンマーでこれを叩かれたら、すぐ壊れてしまうな。",
     "npc": "NotUse",
     "type": "AddBalloonTalk"
   },
   "02020200_BF__11_BALLOONTALK__3-Kritias_Paika01-": {
-    "name": "STRINGTRIGGER_02020200_BF__11_BALLOONTALK__3_NAME:[F]Kritias_Paika01",
+    "name": "愚か者どもめ…。気をつけろと言わなかったか！",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020200_BF__11_BALLOONTALK__4-Kritias_Paika01-": {
-    "name": "STRINGTRIGGER_02020200_BF__11_BALLOONTALK__4_NAME:[F]Kritias_Paika01",
+    "name": "今だ！！",
     "npc": "NotUse",
     "type": "AddBalloonTalk"
   },
   "02020201_BF__MAIN__0-Kritias_Paika01-": {
-    "name": "STRINGTRIGGER_02020201_BF__MAIN__0_NAME:[F]Kritias_Paika01",
+    "name": "必ず奴らを阻止しろ、ペイカ。",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020201_BF__MAIN__1-Kritias_Paika01-": {
-    "name": "STRINGTRIGGER_02020201_BF__MAIN__1_NAME:[F]Kritias_Paika01",
+    "name": "また私の前に立ちはだかるのか！！",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
@@ -33008,7 +33008,7 @@
     "type": "AddCinematicTalk"
   },
   "02020201_BF__MAIN__2-Kritias_Paika01-": {
-    "name": "STRINGTRIGGER_02020201_BF__MAIN__2_NAME:[F]Kritias_Paika01",
+    "name": "巨大な力が目の前にあったのに…。トゥルカ様…。",
     "npc": "NotUse",
     "type": "AddBalloonTalk"
   },
@@ -33143,7 +33143,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02020063_BF__MAIN__4-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__MAIN__4_NAME:[F]Fieldwar02",
+    "name": "こいつらめ！軍団長よ、奴らを片付けろ！",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
@@ -33153,12 +33153,12 @@
     "type": "SideNpcTalk"
   },
   "02020063_BF__MAIN__6-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__MAIN__6_NAME:[F]Fieldwar02",
+    "name": "分光装置をスカイフォートレスへ輸送せよ！",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020063_BF__MAIN__7-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__MAIN__7_NAME:[F]Fieldwar02",
+    "name": "ククク、ついに分光装置が我が手に入るな。",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
@@ -33173,17 +33173,17 @@
     "type": "이벤트UI를설정한다"
   },
   "02020063_BF__MESSAGE__1-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__MESSAGE__1_NAME:[F]Fieldwar02",
+    "name": "エネル分光装置の耐久度が50%未満です。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020063_BF__MESSAGE__2-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__MESSAGE__2_NAME:[F]Fieldwar02",
+    "name": "エネル分光装置の耐久度が30%未満です。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020063_BF__MESSAGE__3-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__MESSAGE__3_NAME:[F]Fieldwar02",
+    "name": "エネル分光装置の耐久度が10%未満です。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -33253,7 +33253,7 @@
     "type": "SideNpcTalk"
   },
   "02020065_BF__BATTLE_3__3-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__BATTLE_3__3_NAME:[F]Fieldwar02",
+    "name": "学習能力というものがない奴だな。補給ボックスを支援せよ！",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
@@ -33288,12 +33288,12 @@
     "type": "SideNpcTalk"
   },
   "02020065_BF__MAIN__6-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__MAIN__6_NAME:[F]Fieldwar02",
+    "name": "分光装置をスカイフォートレスへ輸送せよ！",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020065_BF__MAIN__7-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__MAIN__7_NAME:[F]Fieldwar02",
+    "name": "ククク、ついに分光装置が我が手に入るな。",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
@@ -33308,17 +33308,17 @@
     "type": "이벤트UI를설정한다"
   },
   "02020065_BF__MESSAGE__1-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__MESSAGE__1_NAME:[F]Fieldwar02",
+    "name": "エネル分光装置の耐久度が50%未満です。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020065_BF__MESSAGE__2-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__MESSAGE__2_NAME:[F]Fieldwar02",
+    "name": "エネル分光装置の耐久度が30%未満です。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020065_BF__MESSAGE__3-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__MESSAGE__3_NAME:[F]Fieldwar02",
+    "name": "エネル分光装置の耐久度が10%未満です。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -33938,122 +33938,122 @@
     "type": "SideNpcTalk"
   },
   "02020300_BF__MAIN__0-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020300_BF__MAIN__0_NAME:[F]Kritias_Turka01",
+    "name": "トゥルカが確保した格納庫を奪還してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020300_BF__MAIN__1-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020300_BF__MAIN__1_NAME:[F]Kritias_Turka01",
+    "name": "侵入者発見、サテライトレーザー作動",
     "npc": "아르케온",
     "type": "SideNpcTalk"
   },
   "02020300_BF__MAIN__2-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020300_BF__MAIN__2_NAME:[F]Kritias_Turka01",
+    "name": "アルケオンが暴走してめちゃくちゃに攻撃しているな。対策が必要だ。",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "02020300_BF__MAIN__3-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020300_BF__MAIN__3_NAME:[F]Kritias_Turka01",
+    "name": "ハッキングで一時的に作動を停止させましたが、長くは持たないでしょう。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020300_BF__MAIN__4-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020300_BF__MAIN__4_NAME:[F]Kritias_Turka01",
+    "name": "対策ばかり考えてもいられない。ひとまず素早く侵入しよう。",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "02020300_BF__MAIN__5-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020300_BF__MAIN__5_NAME:[F]Kritias_Turka01",
+    "name": "アルケオンに搭乗して格納庫の内部へ進入してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020300_BF__MAIN__6-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020300_BF__MAIN__6_NAME:[F]Kritias_Turka01",
+    "name": "嫌な予感がするな。まるで我々が来ることを読まれていたようだ。",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "02020300_BF__MAIN__7-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020300_BF__MAIN__7_NAME:[F]Kritias_Turka01",
+    "name": "危険段階を引き上げ。侵入者を除去せよ。",
     "npc": "아르케온",
     "type": "SideNpcTalk"
   },
   "02020300_BF__MAIN__8-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020300_BF__MAIN__8_NAME:[F]Kritias_Turka01",
+    "name": "砲塔稼働。危険段階、最上。",
     "npc": "아르케온",
     "type": "SideNpcTalk"
   },
   "02020300_BF__MAIN__9-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020300_BF__MAIN__9_NAME:[F]Kritias_Turka01",
+    "name": "どうもあの砲塔は危険に見えるな。",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "02020300_BF__MAIN__10-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020300_BF__MAIN__10_NAME:[F]Kritias_Turka01",
+    "name": "サテライトレーザーを逆に利用しましょう。あの砲塔を無力化できるはずです。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020300_BF__MAIN__11-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020300_BF__MAIN__11_NAME:[F]Kritias_Turka01",
+    "name": "全ての防御施設を無力化したようだな。このまま進入する。",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "52100300_QD__MAIN__0-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__0_NAME:[F]Kritias_Turka01",
+    "name": "トゥルカが確保した格納庫を奪還してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100300_QD__MAIN__1-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__1_NAME:[F]Kritias_Turka01",
+    "name": "侵入者発見、サテライトレーザー作動",
     "npc": "아르케온",
     "type": "SideNpcTalk"
   },
   "52100300_QD__MAIN__2-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__2_NAME:[F]Kritias_Turka01",
+    "name": "アルケオンが暴走してめちゃくちゃに攻撃しているな。対策が必要だ。",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "52100300_QD__MAIN__3-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__3_NAME:[F]Kritias_Turka01",
+    "name": "ハッキングで一時的に作動を停止させましたが、長くは持たないでしょう。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "52100300_QD__MAIN__4-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__4_NAME:[F]Kritias_Turka01",
+    "name": "対策ばかり考えてもいられない。ひとまず素早く侵入しよう。",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "52100300_QD__MAIN__5-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__5_NAME:[F]Kritias_Turka01",
+    "name": "アルケオンに搭乗して格納庫の内部へ進入してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100300_QD__MAIN__6-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__6_NAME:[F]Kritias_Turka01",
+    "name": "嫌な予感がするな。まるで我々が来ることを読まれていたようだ。",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "52100300_QD__MAIN__7-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__7_NAME:[F]Kritias_Turka01",
+    "name": "危険段階を引き上げ。侵入者を除去せよ。",
     "npc": "아르케온",
     "type": "SideNpcTalk"
   },
   "52100300_QD__MAIN__8-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__8_NAME:[F]Kritias_Turka01",
+    "name": "砲塔稼働。危険段階、最上。",
     "npc": "아르케온",
     "type": "SideNpcTalk"
   },
   "52100300_QD__MAIN__9-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__9_NAME:[F]Kritias_Turka01",
+    "name": "どうもあの砲塔は危険に見えるな。",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "52100300_QD__MAIN__10-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__10_NAME:[F]Kritias_Turka01",
+    "name": "サテライトレーザーを逆に利用しましょう。あの砲塔を無力化できるはずです。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "52100300_QD__MAIN__11-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__11_NAME:[F]Kritias_Turka01",
+    "name": "全ての防御施設を無力化したようだな。このまま進入する。",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
@@ -34448,97 +34448,97 @@
     "type": "SideNpcTalk"
   },
   "02020141_BF__INTERACTMESH_PHASE_3_INTERECT_01__0-Kritias_Turka03-": {
-    "name": "STRINGTRIGGER_02020141_BF__INTERACTMESH_PHASE_3_INTERECT_01__0_NAME:[F]Kritias_Turka03",
+    "name": "巨大なアルケオンデルタが登場しました。早く搭乗してください！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020301_BF__300002_PHASE_1__0-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__300002_PHASE_1__0_NAME:[F]Kritias_Turka01",
+    "name": "これは…簡単な相手じゃないな。持ちこたえろ！！役に立ちそうなものを探してみる！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "02020301_BF__3000031_PHASE_2_INTERECT_01__0-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__3000031_PHASE_2_INTERECT_01__0_NAME:[F]Kritias_Turka01",
+    "name": "こいつ！！硬くなって攻撃が効かない！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "02020301_BF__3000031_PHASE_2_INTERECT_01__1-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__3000031_PHASE_2_INTERECT_01__1_NAME:[F]Kritias_Turka01",
+    "name": "目には目を！歯には歯を！我々もアルケオンで攻撃してみよう！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "02020301_BF__3000031_PHASE_2_INTERECT_01__2-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__3000031_PHASE_2_INTERECT_01__2_NAME:[F]Kritias_Turka01",
+    "name": "アルケオンに乗ることができます。早く搭乗してください！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020301_BF__300004_PHASE_3__0-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__300004_PHASE_3__0_NAME:[F]Kritias_Turka01",
+    "name": "これは…しばらくアルケオンに搭乗できないな。",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "02020301_BF__300004_PHASE_3__1-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__300004_PHASE_3__1_NAME:[F]Kritias_Turka01",
+    "name": "左右の砲塔を制御できるようにしてみる。もう少し持ちこたえろ！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "02020301_BF__300004_PHASE_3__2-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__300004_PHASE_3__2_NAME:[F]Kritias_Turka01",
+    "name": "砲塔制御機を利用して、アルケオンを攻撃してください！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020301_BF__300005_PHASE_4__0-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__300005_PHASE_4__0_NAME:[F]Kritias_Turka01",
+    "name": "くそっ…砲塔ももう使えないぞ！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "02020301_BF__300005_PHASE_4__1-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__300005_PHASE_4__1_NAME:[F]Kritias_Turka01",
+    "name": "エネルギー充填………エネルギー充填………",
     "npc": "아르케온",
     "type": "SideNpcTalk"
   },
   "02020301_BF__300005_PHASE_4__2-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__300005_PHASE_4__2_NAME:[F]Kritias_Turka01",
+    "name": "うっ！！この不吉なエネルギーは？！みんな気をつけろ！！解決方法を探してみる！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "02020301_BF__300005_PHASE_4__3-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__300005_PHASE_4__3_NAME:[F]Kritias_Turka01",
+    "name": "これなら？！よし！！爆発物装置を見つけた！送ってやるから、あいつを終わらせてしまえ！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "02020301_BF__300005_PHASE_4__4-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__300005_PHASE_4__4_NAME:[F]Kritias_Turka01",
+    "name": "爆発物で攻撃して、エネルギーを集められないようにしてください！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020301_BF__300006_PHASE_5__0-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__300006_PHASE_5__0_NAME:[F]Kritias_Turka01",
+    "name": "よし！もう少し頑張れ！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "02020301_BF__300006_PHASE_5__1-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__300006_PHASE_5__1_NAME:[F]Kritias_Turka01",
+    "name": "しまった！！逃げるぞ！！早く追跡しよう！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "02020301_BF__300006_PHASE_5__2-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__300006_PHASE_5__2_NAME:[F]Kritias_Turka01",
+    "name": "あいつ、またパワーアップしたのか？攻撃がもう通じないぞ、どうする？！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "02020301_BF__300006_PHASE_5__3-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__300006_PHASE_5__3_NAME:[F]Kritias_Turka01",
+    "name": "よし、ちょうどアルケオンアルファの整備が完了したな。早く搭乗して叩き潰そう！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "02020301_BF__300006_PHASE_5__4-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__300006_PHASE_5__4_NAME:[F]Kritias_Turka01",
+    "name": "アルケオンに搭乗して、最後の攻撃を繰り広げてください！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100301_QD__300002_PHASE_1__0-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100301_QD__300002_PHASE_1__0_NAME:[F]Kritias_Turka01",
+    "name": "これは…簡単な相手じゃないな。持ちこたえろ！！役に立ちそうなものを探してみる！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
@@ -34553,7 +34553,7 @@
     "type": "SideNpcTalk"
   },
   "52100301_QD__300004_PHASE_3__2-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100301_QD__300004_PHASE_3__2_NAME:[F]Kritias_Turka01",
+    "name": "砲塔制御機を利用して、アルケオンを攻撃してください！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -34563,7 +34563,7 @@
     "type": "SideNpcTalk"
   },
   "52100301_QD__300005_PHASE_4__1-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100301_QD__300005_PHASE_4__1_NAME:[F]Kritias_Turka01",
+    "name": "エネルギー充填………エネルギー充填………",
     "npc": "아르케온",
     "type": "SideNpcTalk"
   },
@@ -34583,12 +34583,12 @@
     "type": "이벤트UI를설정한다"
   },
   "52100301_QD__3000061_PHASE_5_INTERECT_01__0-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100301_QD__3000061_PHASE_5_INTERECT_01__0_NAME:[F]Kritias_Turka01",
+    "name": "アルケオンに乗ることができます。早く搭乗してください！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100301_QD__300006_PHASE_5__0-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100301_QD__300006_PHASE_5__0_NAME:[F]Kritias_Turka01",
+    "name": "よし！もう少し頑張れ！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
@@ -34613,457 +34613,457 @@
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_1__0-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__0_NAME:[F]Kritias_Turka02",
+    "name": "同じ色のコア同士は力が増幅されるようですね。",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_1__1-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__1_NAME:[F]Kritias_Turka02",
+    "name": "同じ色のコア同士は力が増幅されるようですね。",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_1__2-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__2_NAME:[F]Kritias_Turka02",
+    "name": "同じ色のコア同士は力が増幅されるようですね。",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_1__3-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__3_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_1__4-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__4_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_1__5-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__5_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_1__6-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__6_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_1__7-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__7_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_1__8-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__8_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_1__9-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__9_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_1__10-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__10_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_1__11-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__11_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_1__12-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__12_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_1__13-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__13_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_1__14-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__14_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__0-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__0_NAME:[F]Kritias_Turka02",
+    "name": "気をつけて！$npcName:23504001$が戦場に現れました！！遠くから私たちを試しているようです。まずは目の前の敵から退治しましょう！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_2__1-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__1_NAME:[F]Kritias_Turka02",
+    "name": "気をつけて！$npcName:23504001$が戦場に現れました！！遠くから私たちを試しているようです。まずは目の前の敵から退治しましょう！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_2__2-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__2_NAME:[F]Kritias_Turka02",
+    "name": "気をつけて！$npcName:23504001$が戦場に現れました！！遠くから私たちを試しているようです。まずは目の前の敵から退治しましょう！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_2__3-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__3_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__4-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__4_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__5-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__5_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__6-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__6_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__7-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__7_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__8-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__8_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__9-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__9_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__10-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__10_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__11-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__11_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__12-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__12_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__13-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__13_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__14-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__14_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__15-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__15_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__16-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__16_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__17-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__17_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__18-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__18_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__19-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__19_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__20-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__20_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__21-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__21_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__22-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__22_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__23-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__23_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__24-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__24_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__25-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__25_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__26-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__26_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_2__27-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__27_NAME:[F]Kritias_Turka02",
+    "name": "前にある免疫体が見えますか？あの免疫体で$npcName:23504001$の攻撃に備えられるはずです！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_2__28-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__28_NAME:[F]Kritias_Turka02",
+    "name": "前にある免疫体が見えますか？あの免疫体で$npcName:23504001$の攻撃に備えられるはずです！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_2__29-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__29_NAME:[F]Kritias_Turka02",
+    "name": "前にある免疫体が見えますか？あの免疫体で$npcName:23504001$の攻撃に備えられるはずです！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_2__30-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__30_NAME:[F]Kritias_Turka02",
+    "name": "前にある免疫体が見えますか？あの免疫体で$npcName:23504001$の攻撃に備えられるはずです！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_2__31-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__31_NAME:[F]Kritias_Turka02",
+    "name": "前にある免疫体が見えますか？あの免疫体で$npcName:23504001$の攻撃に備えられるはずです！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_2__32-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_2__32_NAME:[F]Kritias_Turka02",
+    "name": "前にある免疫体が見えますか？あの免疫体で$npcName:23504001$の攻撃に備えられるはずです！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_3__0-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__0_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__1-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__1_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__2-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__2_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__3-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__3_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__4-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__4_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__5-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__5_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__6-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__6_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__7-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__7_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__8-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__8_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__9-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__9_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__10-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__10_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__11-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__11_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__12-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__12_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__13-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__13_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__14-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__14_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__15-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__15_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__16-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__16_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__17-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__17_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__18-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__18_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__19-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__19_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__20-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__20_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__21-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__21_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__22-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__22_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_3__23-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_3__23_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_4__0-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_4__0_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_4__1-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_4__1_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_4__2-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_4__2_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_4__3-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_4__3_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_4__4-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_4__4_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_4__5-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_4__5_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_4__6-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_4__6_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_4__7-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_4__7_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_4__8-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_4__8_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_4__9-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_4__9_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_4__10-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_4__10_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_4__11-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_4__11_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_4__12-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_4__12_NAME:[F]Kritias_Turka02",
+    "name": "ついに$npcName:23504001$に近づいたようです。",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_4__13-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_4__13_NAME:[F]Kritias_Turka02",
+    "name": "ついに$npcName:23504001$に近づいたようです。",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_4__14-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_4__14_NAME:[F]Kritias_Turka02",
+    "name": "ついに$npcName:23504001$に近づいたようです。",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_5__0-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_5__0_NAME:[F]Kritias_Turka02",
+    "name": "あ、あー！聞こえますか？両脇にアルケオンが見えますよね？皆さんが搭乗したら、私が遠隔で移動させます！",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_5__1-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_5__1_NAME:[F]Kritias_Turka02",
+    "name": "すごい数ですね…。アルケオンで全部なぎ払いましょう！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__FIELD_5__2-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_5__2_NAME:[F]Kritias_Turka02",
+    "name": "終わったようですね。さあ、$npcName:23504001$に会いに行きましょう！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__MAIN__0-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__0_NAME:[F]Kritias_Turka02",
+    "name": "ここを通過しないと$map:02020071$へ行けません！遠くに見える入口へ急いで移動しましょう。",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
@@ -35078,137 +35078,137 @@
     "type": "SideNpcTalk"
   },
   "02020310_BF__MAIN__3-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__3_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__MAIN__4-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__4_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__MAIN__5-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__5_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__MAIN__6-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__6_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__MAIN__7-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__7_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__MAIN__8-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__8_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__MAIN__9-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__9_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__MAIN__10-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__10_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__MAIN__11-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__11_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__MAIN__12-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__12_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__MAIN__13-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__13_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__MAIN__14-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__14_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_1__0-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_1__0_NAME:[F]Kritias_Turka02",
+    "name": "同じ色のコア同士は力が増幅されるようですね。",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_1__1-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_1__1_NAME:[F]Kritias_Turka02",
+    "name": "同じ色のコア同士は力が増幅されるようですね。",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_1__2-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_1__2_NAME:[F]Kritias_Turka02",
+    "name": "同じ色のコア同士は力が増幅されるようですね。",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_1__3-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_1__3_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_1__4-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_1__4_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_1__5-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_1__5_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_1__6-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_1__6_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_1__7-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_1__7_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_1__8-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_1__8_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_1__9-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_1__9_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_1__10-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_1__10_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_1__11-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_1__11_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_1__12-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_1__12_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_1__13-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_1__13_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_1__14-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_1__14_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -35243,347 +35243,347 @@
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_2__6-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__6_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__7-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__7_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__8-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__8_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__9-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__9_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__10-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__10_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__11-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__11_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__12-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__12_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__13-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__13_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__14-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__14_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__15-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__15_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__16-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__16_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__17-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__17_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__18-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__18_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__19-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__19_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__20-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__20_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__21-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__21_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__22-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__22_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__23-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__23_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__24-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__24_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__25-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__25_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__26-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__26_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__27-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__27_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__28-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__28_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__29-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__29_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__30-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__30_NAME:[F]Kritias_Turka02",
+    "name": "前にある免疫体が見えますか？あの免疫体で$npcName:23504001$の攻撃に備えられるはずです！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_2__31-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__31_NAME:[F]Kritias_Turka02",
+    "name": "前にある免疫体が見えますか？あの免疫体で$npcName:23504001$の攻撃に備えられるはずです！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_2__32-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__32_NAME:[F]Kritias_Turka02",
+    "name": "前にある免疫体が見えますか？あの免疫体で$npcName:23504001$の攻撃に備えられるはずです！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_2__33-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__33_NAME:[F]Kritias_Turka02",
+    "name": "前にある免疫体が見えますか？あの免疫体で$npcName:23504001$の攻撃に備えられるはずです！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_2__34-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__34_NAME:[F]Kritias_Turka02",
+    "name": "前にある免疫体が見えますか？あの免疫体で$npcName:23504001$の攻撃に備えられるはずです！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_2__35-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__35_NAME:[F]Kritias_Turka02",
+    "name": "前にある免疫体が見えますか？あの免疫体で$npcName:23504001$の攻撃に備えられるはずです！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_3__0-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__0_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__1-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__1_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__2-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__2_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__3-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__3_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__4-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__4_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__5-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__5_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__6-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__6_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__7-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__7_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__8-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__8_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__9-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__9_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__10-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__10_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__11-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__11_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__12-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__12_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__13-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__13_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__14-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__14_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__15-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__15_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__16-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__16_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__17-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__17_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__18-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__18_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__19-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__19_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__20-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__20_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__21-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__21_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__22-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__22_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_3__23-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_3__23_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_4__0-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_4__0_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_4__1-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_4__1_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_4__2-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_4__2_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_4__3-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_4__3_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_4__4-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_4__4_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_4__5-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_4__5_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_4__6-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_4__6_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_4__7-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_4__7_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_4__8-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_4__8_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_4__9-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_4__9_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_4__10-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_4__10_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_4__11-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_4__11_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_4__12-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_4__12_NAME:[F]Kritias_Turka02",
+    "name": "ついに$npcName:23504001$に近づいたようです。",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_4__13-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_4__13_NAME:[F]Kritias_Turka02",
+    "name": "ついに$npcName:23504001$に近づいたようです。",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_4__14-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_4__14_NAME:[F]Kritias_Turka02",
+    "name": "ついに$npcName:23504001$に近づいたようです。",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
@@ -35593,12 +35593,12 @@
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_5__1-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_5__1_NAME:[F]Kritias_Turka02",
+    "name": "すごい数ですね…。アルケオンで全部なぎ払いましょう！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_5__2-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_5__2_NAME:[F]Kritias_Turka02",
+    "name": "終わったようですね。さあ、$npcName:23504001$に会いに行きましょう！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
@@ -35623,7 +35623,7 @@
     "type": "AddCinematicTalk"
   },
   "52100302_QD__MAIN__1-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__MAIN__1_NAME:[F]Kritias_Turka02",
+    "name": "ここを通過しないと$map:02020071$へ行けません！遠くに見える入口へ急いで移動しましょう。",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
@@ -35638,67 +35638,67 @@
     "type": "SideNpcTalk"
   },
   "52100302_QD__MAIN__4-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__MAIN__4_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__MAIN__5-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__MAIN__5_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__MAIN__6-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__MAIN__6_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、移動ケーブルが出発します。全員搭乗してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__MAIN__7-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__MAIN__7_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__MAIN__8-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__MAIN__8_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__MAIN__9-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__MAIN__9_NAME:[F]Kritias_Turka02",
+    "name": "3秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__MAIN__10-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__MAIN__10_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__MAIN__11-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__MAIN__11_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__MAIN__12-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__MAIN__12_NAME:[F]Kritias_Turka02",
+    "name": "2秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__MAIN__13-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__MAIN__13_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__MAIN__14-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__MAIN__14_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__MAIN__15-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__MAIN__15_NAME:[F]Kritias_Turka02",
+    "name": "1秒後に出発します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020300_BF__MAIN__12-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020300_BF__MAIN__12_NAME:[F]Kritias_Turka01",
+    "name": "30秒後にエレベーターの作動が停止します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -35718,17 +35718,17 @@
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_1__15-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__15_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、入口の移動制限装置が作動します。外部の者の進入が制限されます。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_1__16-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__16_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、入口の移動制限装置が作動します。外部の者の進入が制限されます。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__FIELD_1__17-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__FIELD_1__17_NAME:[F]Kritias_Turka02",
+    "name": "まもなく、入口の移動制限装置が作動します。外部の者の進入が制限されます。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
