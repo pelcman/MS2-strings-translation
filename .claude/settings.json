@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(PYTHONIOENCODING=utf-8 python -)",
+      "Bash(PYTHONIOENCODING=utf-8 python \"C:/Users/chro/AppData/Local/Temp/claude/c--Users-chro-Desktop-MS2-strings-translation/6b942b1c-7c20-46d3-85cf-4b28d60387b5/scratchpad/extract.py\")",
+      "Bash(PYTHONIOENCODING=utf-8 python \"C:/Users/chro/AppData/Local/Temp/claude/c--Users-chro-Desktop-MS2-strings-translation/6b942b1c-7c20-46d3-85cf-4b28d60387b5/scratchpad/dump_keys.py\")",
+      "Bash(PYTHONIOENCODING=utf-8 python \"C:/Users/chro/AppData/Local/Temp/claude/c--Users-chro-Desktop-MS2-strings-translation/6b942b1c-7c20-46d3-85cf-4b28d60387b5/scratchpad/kolook.py\" 라메스톤 루미에라곤 마드라칸 룬스톤 아프리엔 마드리아)"
+    ]
+  }
+}
