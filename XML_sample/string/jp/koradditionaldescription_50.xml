@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="10500031" level="1" name="アイスアロー" tooltipDescription="氷の矢に貫かれ、体が固くなりました。\n移動速度が4%減少" />
+	<key id="10500032" level="1" name="氷結" tooltipDescription="体が凍りつきました！\n氷結状態になって行動不能" />
+	<key id="10500061" level="1" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが13増加\n命中が1増加" />
+	<key id="10500061" level="2" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが20増加\n命中が1増加" />
+	<key id="10500061" level="3" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが27増加\n命中が2増加" />
+	<key id="10500061" level="4" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが34増加\n命中が2増加" />
+	<key id="10500061" level="5" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが41増加\n命中が3増加" />
+	<key id="10500061" level="6" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが48増加\n命中が3増加" />
+	<key id="10500061" level="7" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが55増加\n命中が4増加" />
+	<key id="10500061" level="8" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが62増加\n命中が4増加" />
+	<key id="10500061" level="9" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが69増加\n命中が4増加" />
+	<key id="10500061" level="10" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが76増加\n命中が5増加" />
+	<key id="10500061" level="11" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが83増加\n命中が5増加" />
+	<key id="10500061" level="12" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが90増加\n命中が5増加" />
+	<key id="10500066" level="1" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が1増加\nクリティカルヒットが17増加" feature="JobChange_01" />
+	<key id="10500066" level="2" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が1増加\nクリティカルヒットが28増加" feature="JobChange_01" />
+	<key id="10500066" level="3" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が2増加\nクリティカルヒットが39増加" feature="JobChange_01" />
+	<key id="10500066" level="4" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が2増加\nクリティカルヒットが50増加" feature="JobChange_01" />
+	<key id="10500066" level="5" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が3増加\nクリティカルヒットが61増加" feature="JobChange_01" />
+	<key id="10500066" level="6" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が3増加\nクリティカルヒットが72増加" feature="JobChange_01" />
+	<key id="10500066" level="7" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が4増加\nクリティカルヒットが83増加" feature="JobChange_01" />
+	<key id="10500066" level="8" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が4増加\nクリティカルヒットが94増加" feature="JobChange_01" />
+	<key id="10500066" level="9" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が4増加\nクリティカルヒットが105増加" feature="JobChange_01" />
+	<key id="10500066" level="10" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が5増加\nクリティカルヒットが116増加" feature="JobChange_01" />
+	<key id="10500066" level="11" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が5増加\nクリティカルヒットが127増加" feature="JobChange_01" />
+	<key id="10500066" level="12" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が5増加\nクリティカルヒットが138増加" feature="JobChange_01" />
+	<key id="10500072" level="1" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが4.4%増加" />
+	<key id="10500072" level="2" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが4.7%増加" />
+	<key id="10500072" level="3" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが5%増加" />
+	<key id="10500072" level="4" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが5.3%増加" />
+	<key id="10500072" level="5" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが5.6%増加" />
+	<key id="10500072" level="6" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが5.9%増加" />
+	<key id="10500072" level="7" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが6.2%増加" />
+	<key id="10500072" level="8" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが6.5%増加" />
+	<key id="10500072" level="9" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが6.8%増加" />
+	<key id="10500072" level="10" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが7.1%増加" />
+	<key id="10500072" level="11" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが7.4%増加" />
+	<key id="10500072" level="12" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが7.7%増加" />
+	<key id="10500081" level="1" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに60%のダメージ\n移動速度が30%減少\nジャンプ力が30%減少" />
+	<key id="10500081" level="2" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに64%のダメージ\n移動速度が30%減少\nジャンプ力が30%減少" />
+	<key id="10500081" level="3" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに68%のダメージ\n移動速度が30%減少\nジャンプ力が30%減" />
+	<key id="10500081" level="4" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに72%のダメージ\n移動速度が35%減少\nジャンプ力が35%減少" />
+	<key id="10500081" level="5" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに76%のダメージ\n移動速度が35%減少\nジャンプ力が35%減少" />
+	<key id="10500081" level="6" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに80%のダメージ\n移動速度が35%減少\nジャンプ力が35%減少" />
+	<key id="10500081" level="7" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに84%のダメージ\n移動速度が40%減少\nジャンプ力が40%減少" />
+	<key id="10500081" level="8" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに88%のダメージ\n移動速度が40%減少\nジャンプ力が40%減少" />
+	<key id="10500081" level="9" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに92%のダメージ\n移動速度が40%減少\nジャンプ力が40%減少" />
+	<key id="10500081" level="10" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに96%のダメージ\n移動速度が45%減少\nジャンプ力が45%減少" />
+	<key id="10500081" level="11" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに100%のダメージ\n移動速度が45%減少\nジャンプ力が45%減少" />
+	<key id="10500081" level="12" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに104%のダメージ\n移動速度が45%減少\nジャンプ力が45%減少" />
+	<key id="10500091" level="1" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを1回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="2" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを2回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="3" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを3回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="4" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを4回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="5" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを5回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="6" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを6回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="7" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを7回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="8" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを8回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="9" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを9回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="10" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを10回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="11" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを11回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="12" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを12回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500093" level="1" name="フェニックススピリット" tooltipDescription="神秘的なフェニックスの精気が全身を流れます。\n毎秒SP3回復\n攻撃命中時、フェニックス支援攻撃発動" feature="JobChange_02" />
+	<key id="10500093" level="2" name="フェニックススピリット" tooltipDescription="神秘的なフェニックスの精気が全身を流れます。\n毎秒SP4回復\n攻撃命中時、フェニックス支援攻撃発動" feature="JobChange_02" />
+	<key id="10500093" level="3" name="フェニックススピリット" tooltipDescription="神秘的なフェニックスの精気が全身を流れます。\n毎秒SP5回復\n攻撃命中時、フェニックス支援攻撃発動" feature="JobChange_02" />
+	<key id="10500093" level="4" name="フェニックススピリット" tooltipDescription="神秘的なフェニックスの精気が全身を流れます。\n毎秒SP6回復\n攻撃命中時、フェニックス支援攻撃発動" feature="JobChange_02" />
+	<key id="10500093" level="5" name="フェニックススピリット" tooltipDescription="神秘的なフェニックスの精気が全身を流れます。\n毎秒SP7回復\n攻撃命中時、フェニックス支援攻撃発動" feature="JobChange_02" />
+	<key id="10500093" level="6" name="フェニックススピリット" tooltipDescription="神秘的なフェニックスの精気が全身を流れます。\n毎秒SP8回復\n攻撃命中時、フェニックス支援攻撃発動" feature="JobChange_02" />
+	<key id="10500093" level="7" name="フェニックススピリット" tooltipDescription="神秘的なフェニックスの精気が全身を流れます。\n毎秒SP9回復\n攻撃命中時、フェニックス支援攻撃発動" feature="JobChange_02" />
+	<key id="10500093" level="8" name="フェニックススピリット" tooltipDescription="神秘的なフェニックスの精気が全身を流れます。\n毎秒SP10回復\n攻撃命中時、フェニックス支援攻撃発動" feature="JobChange_02" />
+	<key id="10500093" level="9" name="フェニックススピリット" tooltipDescription="神秘的なフェニックスの精気が全身を流れます。\n毎秒SP11回復\n攻撃命中時、フェニックス支援攻撃発動" feature="JobChange_02" />
+	<key id="10500093" level="10" name="フェニックススピリット" tooltipDescription="神秘的なフェニックスの精気が全身を流れます。\n毎秒SP12回復\n攻撃命中時、フェニックス支援攻撃発動" feature="JobChange_02" />
+	<key id="10500093" level="11" name="フェニックススピリット" tooltipDescription="神秘的なフェニックスの精気が全身を流れます。\n毎秒SP13回復\n攻撃命中時、フェニックス支援攻撃発動" feature="JobChange_02" />
+	<key id="10500093" level="12" name="フェニックススピリット" tooltipDescription="神秘的なフェニックスの精気が全身を流れます。\n毎秒SP14回復\n攻撃命中時、フェニックス支援攻撃発動" feature="JobChange_02" />
+	<key id="10500111" level="1" name="スナイプ" tooltipDescription="正確に敵を照準しています。\nSP回復量が1増加" />
+	<key id="10500171" level="1" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="2" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="3" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="4" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="5" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="6" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="7" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="8" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="9" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="10" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="11" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="12" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="1" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="2" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="3" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="4" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="5" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="6" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="7" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="8" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="9" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="10" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="11" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="12" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500173" level="1" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="2" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="3" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="4" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="5" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="6" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="7" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="8" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="9" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="10" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="11" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="12" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500181" level="1" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が3%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="2" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が6%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="3" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が9%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="4" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が12%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="5" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が15%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="6" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が18%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="7" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が21%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="8" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が24%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="9" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が27%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="10" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が30%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="11" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が33%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="12" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が36%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500231" level="1" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が1%、命中が1増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="2" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が2%、命中が2増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="3" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が3%、命中が3増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="4" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が4%、命中が4増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="5" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が5%、命中が5増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="6" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が6%、命中が6増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="7" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が7%、命中が7増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="8" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が8%、命中が8増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="9" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が9%、命中が9増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="10" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が10%、命中が10増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="11" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が11%、命中が11増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="12" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が12%、命中が12増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500232" level="1" name="チャージ状態" tooltipDescription="弓に風の力が宿っています。\n風系攻撃スキルで攻撃すると1回重複増加。最大15回まで重複\n15回重複すると解放状態に変更される" feature="JobChange_01" />
+	<key id="10500233" level="1" name="解放状態" tooltipDescription="弓に風の力が十分に集まりました！\nシークレットオブアーチェリー使用可能" feature="JobChange_01" />
+	<key id="10500261" level="1" name="焦熱の炎" tooltipDescription="フェニックスの超高熱の炎が敵を焼き尽くします。\n10秒間、毎秒202%の持続ダメージ" feature="JobChange_02" />
+	<key id="10500261" level="2" name="焦熱の炎" tooltipDescription="フェニックスの超高熱の炎が敵を焼き尽くします。\n10秒間、毎秒222%の持続ダメージ" feature="JobChange_02" />
+	<key id="10500261" level="3" name="焦熱の炎" tooltipDescription="フェニックスの超高熱の炎が敵を焼き尽くします。\n10秒間、毎秒242%の持続ダメージ" feature="JobChange_02" />
+	<key id="10500261" level="4" name="焦熱の炎" tooltipDescription="フェニックスの超高熱の炎が敵を焼き尽くします。\n10秒間、毎秒262%の持続ダメージ" feature="JobChange_02" />
+	<key id="10500261" level="5" name="焦熱の炎" tooltipDescription="フェニックスの超高熱の炎が敵を焼き尽くします。\n10秒間、毎秒282%の持続ダメージ" feature="JobChange_02" />
+	<key id="10500261" level="6" name="焦熱の炎" tooltipDescription="フェニックスの超高熱の炎が敵を焼き尽くします。\n10秒間、毎秒302%の持続ダメージ" feature="JobChange_02" />
+	<key id="10500261" level="7" name="焦熱の炎" tooltipDescription="フェニックスの超高熱の炎が敵を焼き尽くします。\n10秒間、毎秒322%の持続ダメージ" feature="JobChange_02" />
+	<key id="10500261" level="8" name="焦熱の炎" tooltipDescription="フェニックスの超高熱の炎が敵を焼き尽くします。\n10秒間、毎秒342%の持続ダメージ" feature="JobChange_02" />
+	<key id="10500261" level="9" name="焦熱の炎" tooltipDescription="フェニックスの超高熱の炎が敵を焼き尽くします。\n10秒間、毎秒362%の持続ダメージ" feature="JobChange_02" />
+	<key id="10500261" level="10" name="焦熱の炎" tooltipDescription="フェニックスの超高熱の炎が敵を焼き尽くします。\n10秒間、毎秒382%の持続ダメージ" feature="JobChange_02" />
+	<key id="10500261" level="11" name="焦熱の炎" tooltipDescription="フェニックスの超高熱の炎が敵を焼き尽くします。\n10秒間、毎秒402%の持続ダメージ" feature="JobChange_02" />
+	<key id="10500261" level="12" name="焦熱の炎" tooltipDescription="フェニックスの超高熱の炎が敵を焼き尽くします。\n10秒間、毎秒422%の持続ダメージ" feature="JobChange_02" />
+	<key id="10500272" level="1" name="フェニックスフォーム" tooltipDescription="フェニックスが戦闘を支援します。\nクリティカル命中10増加\n物理ダメージ7%増加\nDEX3%増加" feature="JobChange_02" />
+	<key id="10500272" level="2" name="フェニックスフォーム" tooltipDescription="フェニックスが戦闘を支援します。\nクリティカル命中20増加\n物理ダメージ9%増加\nDEX4.5%増加" feature="JobChange_02" />
+	<key id="10500272" level="3" name="フェニックスフォーム" tooltipDescription="フェニックスが戦闘を支援します。\nクリティカル命中30増加\n物理ダメージ11%増加\nDEX6%増加" feature="JobChange_02" />
+	<key id="10500272" level="4" name="フェニックスフォーム" tooltipDescription="フェニックスが戦闘を支援します。\nクリティカル命中40増加\n物理ダメージ13%増加\nDEX7.5%増加" feature="JobChange_02" />
+	<key id="10500272" level="5" name="フェニックスフォーム" tooltipDescription="フェニックスが戦闘を支援します。\nクリティカル命中50増加\n物理ダメージ15%増加\nDEX9%増加" feature="JobChange_02" />
+	<key id="10500272" level="6" name="フェニックスフォーム" tooltipDescription="フェニックスが戦闘を支援します。\nクリティカル命中60増加\n物理ダメージ17%増加\nDEX10.5%増加" feature="JobChange_02" />
+	<key id="10500272" level="7" name="フェニックスフォーム" tooltipDescription="フェニックスが戦闘を支援します。\nクリティカル命中70増加\n物理ダメージ19%増加\nDEX12%増加" feature="JobChange_02" />
+	<key id="10500272" level="8" name="フェニックスフォーム" tooltipDescription="フェニックスが戦闘を支援します。\nクリティカル命中80増加\n物理ダメージ21%増加\nDEX13.5%増加" feature="JobChange_02" />
+	<key id="10500272" level="9" name="フェニックスフォーム" tooltipDescription="フェニックスが戦闘を支援します。\nクリティカル命中90増加\n物理ダメージ23%増加\nDEX15%増加" feature="JobChange_02" />
+	<key id="10500272" level="10" name="フェニックスフォーム" tooltipDescription="フェニックスが戦闘を支援します。\nクリティカル命中100増加\n物理ダメージ25%増加\nDEX16.5%増加" feature="JobChange_02" />
+	<key id="10500272" level="11" name="フェニックスフォーム" tooltipDescription="フェニックスが戦闘を支援します。\nクリティカル命中110増加\n物理ダメージ27%増加\nDEX18%増加" feature="JobChange_02" />
+	<key id="10500272" level="12" name="フェニックスフォーム" tooltipDescription="フェニックスが戦闘を支援します。\nクリティカル命中120増加\n物理ダメージ29%増加\nDEX19.5%増加" feature="JobChange_02" />
+	<key id="10500281" level="1" name="弱点看破" tooltipDescription="鋭い攻撃によって弱点がさらされます。\n10秒間、詠唱者から被撃時、456%の追加ダメージ" feature="JobChange_02" />
+	<key id="10500281" level="2" name="弱点看破" tooltipDescription="鋭い攻撃によって弱点がさらされます。\n10秒間、詠唱者から被撃時、497%の追加ダメージ" feature="JobChange_02" />
+	<key id="10500281" level="3" name="弱点看破" tooltipDescription="鋭い攻撃によって弱点がさらされます。\n10秒間、詠唱者から被撃時、538%の追加ダメージ" feature="JobChange_02" />
+	<key id="10500281" level="4" name="弱点看破" tooltipDescription="鋭い攻撃によって弱点がさらされます。\n10秒間、詠唱者から被撃時、579%の追加ダメージ" feature="JobChange_02" />
+	<key id="10500281" level="5" name="弱点看破" tooltipDescription="鋭い攻撃によって弱点がさらされます。\n10秒間、詠唱者から被撃時、620%の追加ダメージ" feature="JobChange_02" />
+	<key id="10500281" level="6" name="弱点看破" tooltipDescription="鋭い攻撃によって弱点がさらされます。\n10秒間、詠唱者から被撃時、661%の追加ダメージ" feature="JobChange_02" />
+	<key id="10500281" level="7" name="弱点看破" tooltipDescription="鋭い攻撃によって弱点がさらされます。\n10秒間、詠唱者から被撃時、702%の追加ダメージ" feature="JobChange_02" />
+	<key id="10500281" level="8" name="弱点看破" tooltipDescription="鋭い攻撃によって弱点がさらされます。\n10秒間、詠唱者から被撃時、743%の追加ダメージ" feature="JobChange_02" />
+	<key id="10500281" level="9" name="弱点看破" tooltipDescription="鋭い攻撃によって弱点がさらされます。\n10秒間、詠唱者から被撃時、784%の追加ダメージ" feature="JobChange_02" />
+	<key id="10500281" level="10" name="弱点看破" tooltipDescription="鋭い攻撃によって弱点がさらされます。\n10秒間、詠唱者から被撃時、825%の追加ダメージ" feature="JobChange_02" />
+	<key id="10500281" level="11" name="弱点看破" tooltipDescription="鋭い攻撃によって弱点がさらされます。\n10秒間、詠唱者から被撃時、866%の追加ダメージ" feature="JobChange_02" />
+	<key id="10500281" level="12" name="弱点看破" tooltipDescription="鋭い攻撃によって弱点がさらされます。\n10秒間、詠唱者から被撃時、907%の追加ダメージ" feature="JobChange_02" />
+	<key id="10500291" level="1" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力2%増加" feature="JobChange_02" />
+	<key id="10500291" level="2" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力4%増加" feature="JobChange_02" />
+	<key id="10500291" level="3" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力6%増加" feature="JobChange_02" />
+	<key id="10500291" level="4" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力8%増加" feature="JobChange_02" />
+	<key id="10500291" level="5" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力10%増加" feature="JobChange_02" />
+	<key id="10500291" level="6" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力12%増加" feature="JobChange_02" />
+	<key id="10500291" level="7" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力14%増加" feature="JobChange_02" />
+	<key id="10500291" level="8" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力16%増加" feature="JobChange_02" />
+	<key id="10500291" level="9" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力18%増加" feature="JobChange_02" />
+	<key id="10500291" level="10" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力20%増加" feature="JobChange_02" />
+	<key id="10500291" level="11" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力22%増加" feature="JobChange_02" />
+	<key id="10500291" level="12" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力24%増加" feature="JobChange_02" />
+	<key id="10500293" level="1" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力16%増加" feature="JobChange_02" />
+	<key id="10500293" level="2" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力22%増加" feature="JobChange_02" />
+	<key id="10500293" level="3" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力28%増加" feature="JobChange_02" />
+	<key id="10500293" level="4" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力34%増加" feature="JobChange_02" />
+	<key id="10500293" level="5" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力40%増加" feature="JobChange_02" />
+	<key id="10500293" level="6" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力46%増加" feature="JobChange_02" />
+	<key id="10500293" level="7" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力52%増加" feature="JobChange_02" />
+	<key id="10500293" level="8" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力58%増加" feature="JobChange_02" />
+	<key id="10500293" level="9" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力64%増加" feature="JobChange_02" />
+	<key id="10500293" level="10" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力70%増加" feature="JobChange_02" />
+	<key id="10500293" level="11" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力76%増加" feature="JobChange_02" />
+	<key id="10500293" level="12" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力82%増加" feature="JobChange_02" />
+	<key id="10500295" level="1" name="休憩時間" tooltipDescription="イーグルスクワッドが休憩を取っています。\n100秒間、イーグルスクワッド、キャプテンイーグル効果免疫" feature="JobChange_02" />
+	<key id="10500296" level="1" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力16%増加" feature="JobChange_02" />
+	<key id="10500296" level="2" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力22%増加" feature="JobChange_02" />
+	<key id="10500296" level="3" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力28%増加" feature="JobChange_02" />
+	<key id="10500296" level="4" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力34%増加" feature="JobChange_02" />
+	<key id="10500296" level="5" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力40%増加" feature="JobChange_02" />
+	<key id="10500296" level="6" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力46%増加" feature="JobChange_02" />
+	<key id="10500296" level="7" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力52%増加" feature="JobChange_02" />
+	<key id="10500296" level="8" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力58%増加" feature="JobChange_02" />
+	<key id="10500296" level="9" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力64%増加" feature="JobChange_02" />
+	<key id="10500296" level="10" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力70%増加" feature="JobChange_02" />
+	<key id="10500296" level="11" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力76%増加" feature="JobChange_02" />
+	<key id="10500296" level="12" name="キャプテンイーグル" tooltipDescription="キャプテンイーグルの指揮を受けます！\n40秒間、物理攻撃力82%増加" feature="JobChange_02" />
+	<key id="10500298" level="1" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力2%増加" feature="JobChange_02" />
+	<key id="10500298" level="2" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力4%増加" feature="JobChange_02" />
+	<key id="10500298" level="3" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力6%増加" feature="JobChange_02" />
+	<key id="10500298" level="4" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力8%増加" feature="JobChange_02" />
+	<key id="10500298" level="5" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力10%増加" feature="JobChange_02" />
+	<key id="10500298" level="6" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力12%増加" feature="JobChange_02" />
+	<key id="10500298" level="7" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力14%増加" feature="JobChange_02" />
+	<key id="10500298" level="8" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力16%増加" feature="JobChange_02" />
+	<key id="10500298" level="9" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力18%増加" feature="JobChange_02" />
+	<key id="10500298" level="10" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力20%増加" feature="JobChange_02" />
+	<key id="10500298" level="11" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力22%増加" feature="JobChange_02" />
+	<key id="10500298" level="12" name="イーグルスクワッド" tooltipDescription="イーグルスクワッドの増援を受けます！\n40秒間、物理、魔法攻撃力24%増加" feature="JobChange_02" />
+</ms2>

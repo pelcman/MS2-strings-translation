@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="10000001" name="ハンマーリング" />
+	<key id="10000011" name="パワーストライク" />
+	<key id="10000012" name="パワーストライク2打" feature="Develop" />
+	<key id="10000013" name="パワーストライク3打" feature="Develop" />
+	<key id="10000021" name="デンデンスロー" />
+	<key id="10000022" name="デンデンスロースプラッシュ" feature="Develop" />
+	<key id="10000031" name="体当たり" />
+	<key id="10000041" name="前転" />
+	<key id="10000042" name="連続前転" feature="Develop" />
+	<key id="10000051" name="ライフリカバリー" />
+	<key id="10000061" name="ニートの底力" />
+	<key id="19900001" name="GMの審判" />
+	<key id="19900011" name="高速飛行" />
+	<key id="19900021" name="寄生" />
+	<key id="19900031" name="GMの愛" />
+	<key id="19900032" name="GMの愛スプラッシュ" />
+	<key id="19900041" name="GMの応援" />
+	<key id="19900042" name="GMの応援スプラッシュ" />
+	<key id="19900051" name="GMのツンツン" />
+	<key id="19900052" name="GMのツンツンスプラッシュ" />
+	<key id="19900061" name="GMの一撃" />
+	<key id="19999991" name="カメラ撮影" />
+</ms2>

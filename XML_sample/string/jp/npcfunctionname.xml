@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="11000004" name="装備商人" />
+	<key id="11000010" name="雑貨商人" />
+	<key id="11000011" name="金庫番" />
+	<key id="11000013" name="さすらいのよろず屋" />
+	<key id="11000016" name="船乗り" />
+	<key id="11000017" name="特産品交易商人" />
+	<key id="11000018" name="装備商人" />
+	<key id="11000028" name="装備商人" />
+	<key id="11000029" name="雑貨商人" />
+	<key id="11000038" name="医師" />
+	<key id="11000040" name="ナイトマスター" />
+	<key id="11000041" name="バーサーカーマスター" />
+	<key id="11000042" name="ウィザードマスター" />
+	<key id="11000043" name="プリーストマスター" />
+	<key id="11000045" name="レンジャーマスター" />
+	<key id="11000046" name="ヘビーガンナーマスター" />
+	<key id="11000048" name="品物管理人" />
+	<key id="11000050" name="シーフマスター" />
+	<key id="11000051" name="アサシンマスター" />
+	<key id="11000070" name="医師" />
+	<key id="11000071" name="美容整形外科専門医" />
+	<key id="11000072" name="美容皮膚科専門医" />
+	<key id="11000079" name="雑貨商人" />
+	<key id="11000117" name="よろず屋" />
+	<key id="11000133" name="製作材料商人" />
+	<key id="11000155" name="金庫番" />
+	<key id="11000249" name="装備商人" />
+	<key id="11000250" name="雑貨商人" />
+	<key id="11000253" name="ヘア保存デザイナー" />
+	<key id="11000255" name="ヘアショップの院長" />
+	<key id="11000256" name="メイクアップアーティスト" />
+	<key id="11000257" name="染色職人" />
+	<key id="11000261" name="医師" />
+	<key id="11000267" name="装備商人" />
+	<key id="11000268" name="雑貨商人" />
+	<key id="11000272" name="雑貨商人" />
+	<key id="11000273" name="医師" />
+	<key id="11000274" name="医師" />
+	<key id="11000275" name="医師" />
+	<key id="11000276" name="金庫番" />
+	<key id="11000277" name="金庫番" />
+	<key id="11000278" name="金庫番" />
+	<key id="11000279" name="金庫番" />
+	<key id="11000304" name="森の雑貨商人" />
+	<key id="11000313" name="製作材料商人" />
+	<key id="11000314" name="製作材料商人" />
+	<key id="11000315" name="製作材料商人" />
+	<key id="11000316" name="乗り物商人" />
+	<key id="11000419" name="医師" />
+	<key id="11000433" name="乗り物商人" />
+	<key id="11000434" name="乗り物商人" />
+	<key id="11000435" name="乗り物商人" />
+	<key id="11000436" name="医師" />
+	<key id="11000445" name="トロピカルジュースメーカー" />
+	<key id="11000459" name="行商人" />
+	<key id="11000463" name="影の装備商人" />
+	<key id="11000469" name="影の装備商人" />
+	<key id="11000470" name="影の装備商人" />
+	<key id="11000494" name="製作材料商人" />
+	<key id="11000495" name="製作材料商人" />
+	<key id="11000508" name="エンチャントマスター" />
+	<key id="11000509" name="エンチャントマスター" />
+	<key id="11000510" name="エンチャントマスター" />
+	<key id="11000512" name="優しいメイド" />
+	<key id="11000535" name="キャシーマートのレジ担当" />
+	<key id="11000536" name="キャシーマートのレジ担当" />
+	<key id="11000537" name="キャシーマートのレジ担当" />
+	<key id="11000538" name="キャシーマートのレジ担当" />
+	<key id="11000544" name="ジェントルな執事" />
+	<key id="11000561" name="影の雑貨商人" />
+	<key id="11000562" name="影の雑貨商人" />
+	<key id="11000563" name="影の雑貨商人" />
+	<key id="11000564" name="影の雑貨商人" />
+	<key id="11000582" name="医師" />
+	<key id="11000583" name="医師" />
+	<key id="11000584" name="医師" />
+	<key id="11000585" name="船乗り" />
+	<key id="11000611" name="ギルドラウンジガードマン" />
+	<key id="11000612" name="ギルドラウンジガードマン" />
+	<key id="11000620" name="戦闘装備商人" />
+	<key id="11000621" name="雑貨商人" />
+	<key id="11000623" name="装備商人" />
+	<key id="11000624" name="装備商人" />
+	<key id="11000625" name="金庫番" />
+	<key id="11000626" name="乗り物商人" />
+	<key id="11000627" name="影の乗り物商人" />
+	<key id="11000658" name="医師" />
+	<key id="11000662" name="トレーダー" />
+	<key id="11000698" name="トレーダー" />
+	<key id="11000699" name="トレーダー" />
+	<key id="11000706" name="戦闘雑貨商人" />
+	<key id="11000711" name="バニーガール" />
+	<key id="11000757" name="写真集商人" />
+	<key id="11000758" name="クールなメイド" />
+	<key id="11000759" name="ミステリアスな執事" />
+	<key id="11000760" name="メイド" />
+	<key id="11000761" name="執事" />
+	<key id="11000762" name="医師" />
+	<key id="11000764" name="すまし顔のバニーガール" />
+	<key id="11000767" name="探検家志望者" />
+	<key id="11000768" name="愚痴の多い執事" />
+	<key id="11000769" name="優しいおじいちゃん" />
+	<key id="11000770" name="気立てのいいメイド" />
+	<key id="11000771" name="明るいメイド" />
+	<key id="11000772" name="生活型ロボット" />
+	<key id="11000773" name="怪しい執事" />
+	<key id="11000774" name="30世紀少年" />
+	<key id="11000777" name="気高い猫" />
+	<key id="11000778" name="キュートなバニーガール" />
+	<key id="11000779" name="インテリ秘書" />
+	<key id="11000780" name="ドキドキアイドル" />
+	<key id="11000781" name="釣り具商人" />
+	<key id="11000785" name="ぶっ飛んだ近衛隊員" />
+	<key id="11000786" name="グリーンフッドのメイド" />
+	<key id="11000787" name="名司会者を夢見る" />
+	<key id="11000788" name="冒険者志望者" />
+	<key id="11000789" name="森の妖精" />
+	<key id="11000790" name="偏屈な執事" />
+	<key id="11000791" name="勤勉な執事" />
+	<key id="11000792" name="賢い妖精" />
+	<key id="11000793" name="気難しいメイド" />
+	<key id="11000794" name="内気な妖精" />
+	<key id="11000796" name="メイド" />
+	<key id="11000797" name="執事" />
+	<key id="11000798" name="メイド" />
+	<key id="11000799" name="執事" />
+	<key id="11000877" name="カルマコレクター" />
+	<key id="11000878" name="カルマコレクター" />
+	<key id="11000896" name="影の雑貨商人" />
+	<key id="11000897" name="影の雑貨商人" />
+	<key id="11000898" name="医師" />
+	<key id="11000899" name="医師" />
+	<key id="11000900" name="製作材料商人" />
+	<key id="11000903" name="メイド" />
+	<key id="11000906" name="執事" />
+	<key id="11000907" name="メイド" />
+	<key id="11000908" name="執事" />
+	<key id="11000918" name="メイド" />
+	<key id="11000919" name="執事" />
+	<key id="11000933" name="影の乗り物商人" />
+	<key id="11000934" name="影の乗り物商人" />
+	<key id="11000939" name="メイド" />
+	<key id="11000947" name="医師" />
+	<key id="11000948" name="医師" />
+	<key id="11000949" name="医師" />
+	<key id="11000950" name="医師" />
+	<key id="11000951" name="影の雑貨商人" />
+	<key id="11000952" name="影の雑貨商人" />
+	<key id="11000953" name="影の雑貨商人" />
+	<key id="11000954" name="影の雑貨商人" />
+	<key id="11000955" name="雑貨商人" />
+	<key id="11000981" name="航海士" />
+	<key id="11000982" name="航海士" />
+	<key id="11000994" name="雑用係" />
+	<key id="11001013" name="アルポンダルポン商人" />
+	<key id="11001017" name="金庫番" />
+	<key id="11001018" name="金庫番" />
+	<key id="11001061" name="ファンアートブックスタンド" />
+	<key id="11001087" name="医師" />
+	<key id="11001088" name="医師" />
+	<key id="11001089" name="医師" />
+	<key id="11001090" name="医師" />
+	<key id="11001091" name="医師" />
+	<key id="11001092" name="影の雑貨商人" />
+	<key id="11001093" name="影の雑貨商人" />
+	<key id="11001094" name="影の雑貨商人" />
+	<key id="11001095" name="影の雑貨商人" />
+	<key id="11001096" name="影の雑貨商人" />
+	<key id="11001100" name="戦闘雑貨商人" />
+	<key id="11001101" name="医師" />
+	<key id="11001102" name="影の雑貨商人" />
+	<key id="11001103" name="カオニキスコレクター" />
+	<key id="11001163" name="戦闘雑貨商人" />
+	<key id="11001164" name="ハロウィンイベント商人" />
+	<key id="11001182" name="商団の宝物倉庫" />
+	<key id="11001197" name="トロフィーペンダント商人" />
+	<key id="11001212" name="闇商人" />
+	<key id="11001228" name="ハービーコレクト妖精" />
+	<key id="11001257" name="保管書の番人" />
+	<key id="11001269" name="クリティアスイベント商人" />
+	<key id="11001270" name="青い星の番人" />
+	<key id="11001271" name="青い星の番人" />
+	<key id="11001272" name="赤い星の番人" />
+	<key id="11001273" name="赤い星の番人" />
+	<key id="11001276" name="ルミウィンドパイロット" />
+	<key id="11001320" name="ロイヤルミュージックアカデミー行政官" />
+	<key id="11001322" name="ロイヤルミュージックアカデミー行政官" />
+	<key id="11001324" name="医師" />
+	<key id="11001325" name="装備商人" />
+	<key id="11001326" name="金庫番" />
+	<key id="11001327" name="トレーダー" />
+	<key id="11001403" name="ルミウィンドパイロット" />
+	<key id="11001429" name="侍従" />
+	<key id="11001435" name="天上の案内者" />
+	<key id="11001436" name="天上の案内者" />
+	<key id="11001440" name="コレクター" />
+	<key id="11001441" name="雑貨商人" />
+	<key id="11001442" name="装備商人" />
+	<key id="11001443" name="医師" />
+	<key id="11001449" name="釣り具商人" />
+	<key id="11001450" name="製作材料商人" />
+	<key id="11001464" name="製作材料商人" />
+	<key id="11001465" name="金庫番" />
+	<key id="11001486" name="商団の宝物倉庫" />
+	<key id="11001489" name="地下の案内者" />
+	<key id="11001504" name="地下の案内者" />
+	<key id="11001513" name="スペシャルヘアデザイナー" feature="SpecialHair" />
+	<key id="11001514" name="スペシャルケアクーポンデザイナー" feature="SpecialHair" />
+	<key id="11001515" name="霜の伝令" />
+	<key id="11001516" name="霜の伝令" />
+	<key id="11001518" name="学院組合委員会" />
+	<key id="11001519" name="学院組合委員会" />
+	<key id="11001526" name="釣り具商人" />
+	<key id="11001532" name="トロピカルジュースメーカー" />
+	<key id="11001535" name="密輸業者" />
+	<key id="11001552" name="釣り具商人" />
+	<key id="11001668" name="医師" />
+	<key id="11001864" name="ロイヤルミュージックアカデミー行政官" />
+	<key id="11001866" name="ロイヤルミュージックアカデミー行政官" />
+	<key id="11001871" name="エンチャントマスター" />
+	<key id="11001875" name="アルバイト" />
+	<key id="11001935" name="バトルシミュレーター交換員" />
+	<key id="11001951" name="放浪商人" />
+	<key id="11001952" name="放浪商人" />
+	<key id="11002000" name="住民専用医師" />
+	<key id="11002001" name="住民専用商人" />
+	<key id="11002002" name="住民専用医師" />
+	<key id="11002003" name="住民専用医師" />
+	<key id="11002004" name="住民専用医師" />
+	<key id="11002005" name="住民専用医師" />
+	<key id="11002006" name="住民専用医師" />
+	<key id="11002007" name="住民専用医師" />
+	<key id="11002008" name="住民専用医師" />
+	<key id="11002009" name="住民専用医師" />
+	<key id="11002010" name="住民専用医師" />
+	<key id="11002011" name="住民専用医師" />
+	<key id="11002012" name="住民専用医師" />
+	<key id="11002013" name="住民専用医師" />
+	<key id="11002014" name="住民専用医師" />
+	<key id="11002015" name="住民専用医師" />
+	<key id="11002016" name="住民専用医師" />
+	<key id="11002017" name="住民専用商人" />
+	<key id="11002018" name="住民専用商人" />
+	<key id="11002019" name="住民専用商人" />
+	<key id="11002020" name="住民専用商人" />
+	<key id="11002021" name="住民専用商人" />
+	<key id="11002022" name="住民専用商人" />
+	<key id="11002023" name="住民専用商人" />
+	<key id="11002024" name="住民専用商人" />
+	<key id="11002025" name="住民専用商人" />
+	<key id="11002026" name="住民専用商人" />
+	<key id="11002027" name="住民専用商人" />
+	<key id="11002028" name="住民専用商人" />
+	<key id="11002029" name="住民専用商人" />
+	<key id="11002030" name="住民専用商人" />
+	<key id="11002031" name="住民専用商人" />
+	<key id="11002032" name="住民専用商人" />
+	<key id="11002033" name="住民専用商人" />
+	<key id="11002034" name="住民専用商人" />
+	<key id="11002035" name="住民専用商人" />
+	<key id="11002036" name="住民専用商人" />
+	<key id="11002037" name="住民専用商人" />
+	<key id="11002038" name="住民専用商人" />
+	<key id="11002039" name="住民専用商人" />
+	<key id="11002040" name="住民専用医師" />
+	<key id="11002041" name="住民専用医師" />
+	<key id="11002042" name="住民専用医師" />
+	<key id="11002043" name="住民専用医師" />
+	<key id="11002044" name="住民専用医師" />
+	<key id="11002045" name="住民専用医師" />
+	<key id="11002046" name="住民専用医師" />
+	<key id="11002047" name="住民専用医師" />
+	<key id="11002048" name="住民専用医師" />
+	<key id="11002049" name="住民専用医師" />
+	<key id="11002050" name="住民専用商人" />
+	<key id="11002051" name="住民専用商人" />
+	<key id="11002052" name="住民専用商人" />
+	<key id="11002053" name="住民専用商人" />
+	<key id="11002054" name="住民専用商人" />
+	<key id="11002055" name="住民専用商人" />
+	<key id="11002056" name="住民専用商人" />
+	<key id="11002057" name="住民専用商人" />
+	<key id="11002058" name="住民専用商人" />
+	<key id="11002059" name="住民専用商人" />
+	<key id="11002060" name="住民専用商人" />
+	<key id="11002061" name="住民専用商人" />
+	<key id="11002062" name="住民専用商人" />
+	<key id="11002063" name="住民専用商人" />
+	<key id="11002064" name="住民専用商人" />
+	<key id="11003177" name="イベント商人" />
+	<key id="11003377" name="放浪商人" />
+	<key id="11003378" name="アンティークメダル商人" />
+	<key id="11003385" name="リバースゲート商人" />
+	<key id="11003405" name="上海コイン商人" />
+	<key id="11003405" name="NPCFUNCTIONNAME_11003405_NAME:[F]MassiveCrazyRunnersShanghai:[L]JP" feature="MassiveCrazyRunnersShanghai" locale="JP" />
+	<key id="11003416" name="超越マスター" />
+	<key id="11003458" name="青い星の番人" />
+	<key id="11003459" name="赤い星の番人" />
+	<key id="11003460" name="影の装備商人" />
+	<key id="11003461" name="影の雑貨商人" />
+	<key id="11003462" name="影の乗り物商人" />
+	<key id="11003463" name="戦闘装備商人" />
+	<key id="11003464" name="リバースゲート商人" />
+	<key id="11003465" name="ハービーコレクト妖精" />
+	<key id="11003466" name="バトルシミュレーター交換員" />
+	<key id="11003503" name="ミサイル連合団員" />
+	<key id="11003505" name="ミサイル連合見習い団員" />
+	<key id="11003506" name="雑貨商人" />
+	<key id="11003507" name="ミサイル連合団員" />
+	<key id="11003512" name="アフレラ族長" />
+	<key id="11003513" name="アフレラ住民" />
+	<key id="11003514" name="アフレラ住民" />
+	<key id="11003515" name="アフレラ住民" />
+	<key id="11003516" name="アフレラ住民" />
+	<key id="11003517" name="アフレラ住民" />
+	<key id="11003518" name="アフレラ住民" />
+	<key id="11003519" name="アフレラ住民" />
+	<key id="11003533" name="連合の艦長" />
+	<key id="11003534" name="近衛部長" />
+	<key id="11003535" name="諜報の専門家" />
+	<key id="11003536" name="戦術副官" />
+	<key id="11003537" name="神官騎士" />
+	<key id="11003552" name="ハラン湖の管理人" />
+	<key id="11003555" name="武功の証管理兵" />
+	<key id="11003558" name="イベント商人" />
+	<key id="11003559" name="イベント商人" />
+	<key id="11003560" name="親切な騎士商人" />
+	<key id="11003561" name="先生ポイント商人" />
+	<key id="11003562" name="教え子ポイント商人" />
+	<key id="11003563" name="ハロウィン商人" />
+	<key id="11003573" name="カボチャの馬車商人" />
+	<key id="11003722" name="ジャクムの分身" />
+	<key id="11003774" name="釣り具商人" />
+	<key id="11003803" name="装備商人" />
+	<key id="11003804" name="雑貨商人" />
+	<key id="11003805" name="製作材料商人" />
+	<key id="11003806" name="釣り具商人" />
+	<key id="11003807" name="演奏商人" />
+	<key id="11003808" name="金庫番" />
+	<key id="11003809" name="医師" />
+	<key id="11003854" name="黄金の銀錠の主" />
+	<key id="11003859" name="品物補給員" />
+	<key id="11004039" name="イベント商人" />
+	<key id="11004040" name="釣り具商人" />
+	<key id="11004132" name="マッシュキングランド衣装商人" />
+	<key id="11004133" name="マッシュキングランド雑貨商人" />
+	<key id="11004215" name="ジェムストーンアップグレードサポート" />
+	<key id="11004216" name="ルミストーンアップグレードサポート" />
+	<key id="11004231" name="魔法使い" />
+	<key id="11004243" name="相生騎士商人" />
+	<key id="11004247" name="金庫番" feature="SurvivalContents03" />
+	<key id="11004248" name="月ウサギ" feature="Season1" />
+	<key id="11004312" name="連合の艦長" feature="Kritias_2018_12" />
+	<key id="11004313" name="近衛部長" feature="Kritias_2018_12" />
+	<key id="11004314" name="諜報の専門家" feature="Kritias_2018_12" />
+	<key id="11004315" name="戦術副官" feature="Kritias_2018_12" />
+	<key id="11004316" name="神官騎士" feature="Kritias_2018_12" />
+	<key id="11004318" name="医師" feature="Season1" />
+	<key id="11004442" name="乗り物商人" feature="Kritias_2018_12" />
+	<key id="11004443" name="雑貨商人" feature="Kritias_2018_12" />
+	<key id="11004444" name="装備商人" feature="Kritias_2018_12" />
+	<key id="11004445" name="製作材料商人" feature="Kritias_2018_12" />
+	<key id="11004446" name="ロイヤルミュージックアカデミー派遣員" feature="MusicInstrument" />
+	<key id="11004447" name="魔法使い" feature="GemStoneJewelBox_01" />
+	<key id="11004448" name="ジェムストーンアップグレード支援" feature="GemStoneJewelBox_01" />
+	<key id="11004449" name="ルミストーンアップグレードサポート" feature="LumiStoneJewelBox_01" />
+	<key id="11004450" name="金庫番" feature="Kritias_2018_12" />
+	<key id="11004451" name="医師" feature="Kritias_2018_12" />
+	<key id="11004452" name="トレーダー" feature="Kritias_2018_12" />
+	<key id="11004453" name="釣り具商人" feature="Kritias_2018_12" />
+	<key id="11004454" name="商団の宝物倉庫" feature="AricariDailyQ" />
+	<key id="11004504" name="エネル補給兵" feature="Kritias_2018_12" />
+	<key id="11004517" name="メイプル連合補給官" feature="Kritias_2018_12" />
+	<key id="11004518" name="ルミナイツ補給官" feature="Kritias_2018_12" />
+	<key id="11004519" name="グリーンフッド補給官" feature="Kritias_2018_12" />
+	<key id="11004520" name="ルミウィンドパイロット" feature="Kritias_2018_12" />
+	<key id="11004521" name="ルミウィンドパイロット" feature="Kritias_2018_12" />
+	<key id="11004554" name="妖精金貨の持ち主" />
+	<key id="11004625" name="イベント商人" />
+	<key id="11004636" name="ゲオルク補給官" />
+	<key id="11004637" name="0メルショップイベントガイド" />
+	<key id="11004639" name="秘書" />
+	<key id="11004674" name="イベント商人" />
+	<key id="11004707" name="ハウスウェディングプランナー" feature="Wedding" />
+	<key id="11004708" name="パーティーウェディングプランナー" feature="Wedding" />
+	<key id="11004709" name="ラグジュアリーウェディングプランナー" feature="Wedding" />
+	<key id="11004710" name="スカイキャッスル城主" feature="Wedding" />
+	<key id="11004711" name="ラグジュアリークルーズMC" feature="Wedding" />
+	<key id="11004712" name="離婚弁護士" feature="Wedding" />
+	<key id="11004713" name="離婚弁護士" feature="Wedding" />
+	<key id="11004714" name="幸運の商人" feature="Wedding" />
+	<key id="11004717" name="見習い魔女" feature="Event" />
+	<key id="11004717" name="見習い魔女" feature="Event" locale="JP" />
+	<key id="11004722" name="守護司祭" feature="Wedding" />
+	<key id="11004723" name="長老" feature="Wedding" />
+	<key id="11004724" name="大魔法使い" feature="Wedding" />
+	<key id="11004725" name="祭司長" feature="Wedding" />
+	<key id="11004726" name="イベント商人" feature="Event" />
+	<key id="11004733" name="ラグジュアリークルーズMC" feature="Wedding" />
+	<key id="11004738" name="パーティーウェディングプランナー" feature="Wedding" />
+	<key id="11004745" name="ハウスウェディングプランナー" feature="Wedding" />
+	<key id="11004746" name="パーティーウェディングプランナー" feature="Wedding" />
+	<key id="11004747" name="ラグジュアリーウェディングプランナー" feature="Wedding" />
+	<key id="11004748" name="ハウスウェディングプランナー" feature="Wedding" />
+	<key id="11004749" name="パーティーウェディングプランナー" feature="Wedding" />
+	<key id="11004750" name="ラグジュアリーウェディングプランナー" feature="Wedding" />
+	<key id="11004751" name="ハウスウェディングプランナー" feature="Wedding" />
+	<key id="11004752" name="パーティーウェディングプランナー" feature="Wedding" />
+	<key id="11004753" name="ラグジュアリーウェディングプランナー" feature="Wedding" />
+	<key id="11004754" name="プロポーズヘルパー" feature="Wedding" />
+	<key id="11004755" name="招待状発送ヘルパー" feature="Wedding" />
+	<key id="11004756" name="撮影地管理人" feature="Wedding" />
+	<key id="11004757" name="撮影地管理人" feature="Wedding" />
+	<key id="11004758" name="撮影地管理人" feature="Wedding" />
+	<key id="11004772" name="元気なウェディングコンサルタント" feature="Wedding" />
+	<key id="11004773" name="元気なウェディングコンサルタント" feature="Wedding" />
+	<key id="11004775" name="アバターコインショップ" locale="JP" />
+	<key id="11004776" name="イベント商人" feature="Event" />
+	<key id="11200000" name="医師" />
+	<key id="11200002" name="ロイヤルミュージックアカデミー派遣員" />
+	<key id="11200003" name="装備商人" />
+	<key id="11200004" name="ジェムストーン商人" />
+	<key id="11200006" name="超越材料商人" />
+</ms2>

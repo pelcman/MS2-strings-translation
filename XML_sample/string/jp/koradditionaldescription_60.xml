@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="10600052" level="1" name="グレネード" tooltipDescription="爆発の衝撃により気を失いました！\n気絶して行動不能" />
+	<key id="10600052" level="2" name="グレネード" tooltipDescription="爆発の衝撃により気を失いました！\n気絶して行動不能" />
+	<key id="10600052" level="3" name="グレネード" tooltipDescription="爆発の衝撃により気を失いました！\n気絶して行動不能" />
+	<key id="10600052" level="4" name="グレネード" tooltipDescription="爆発の衝撃により気を失いました！\n気絶して行動不能" />
+	<key id="10600052" level="5" name="グレネード" tooltipDescription="爆発の衝撃により気を失いました！\n気絶して行動不能" />
+	<key id="10600052" level="6" name="グレネード" tooltipDescription="爆発の衝撃により気を失いました！\n気絶して行動不能" />
+	<key id="10600052" level="7" name="グレネード" tooltipDescription="爆発の衝撃により気を失いました！\n気絶して行動不能" />
+	<key id="10600052" level="8" name="グレネード" tooltipDescription="爆発の衝撃により気を失いました！\n気絶して行動不能" />
+	<key id="10600052" level="9" name="グレネード" tooltipDescription="爆発の衝撃により気を失いました！\n気絶して行動不能" />
+	<key id="10600052" level="10" name="グレネード" tooltipDescription="爆発の衝撃により気を失いました！\n気絶して行動不能" />
+	<key id="10600052" level="11" name="グレネード" tooltipDescription="爆発の衝撃により気を失いました！\n気絶して行動不能" />
+	<key id="10600052" level="12" name="グレネード" tooltipDescription="爆発の衝撃により気を失いました！\n気絶して行動不能" />
+	<key id="10600062" level="1" name="マグネチックボム" tooltipDescription="強力な磁器が全身に走っています！\n移動速度が3%減少" />
+	<key id="10600062" level="2" name="マグネチックボム" tooltipDescription="強力な磁器が全身に走っています！\n移動速度が6%減少" />
+	<key id="10600062" level="3" name="マグネチックボム" tooltipDescription="強力な磁器が全身に走っています！\n移動速度が9%減少" />
+	<key id="10600062" level="4" name="マグネチックボム" tooltipDescription="強力な磁器が全身に走っています！\n移動速度が12%減少" />
+	<key id="10600062" level="5" name="マグネチックボム" tooltipDescription="強力な磁器が全身に走っています！\n移動速度が15%減少" />
+	<key id="10600062" level="6" name="マグネチックボム" tooltipDescription="強力な磁器が全身に走っています！\n移動速度が18%減少" />
+	<key id="10600062" level="7" name="マグネチックボム" tooltipDescription="強力な磁器が全身に走っています！\n移動速度が21%減少" />
+	<key id="10600062" level="8" name="マグネチックボム" tooltipDescription="強力な磁器が全身に走っています！\n移動速度が24%減少" />
+	<key id="10600062" level="9" name="マグネチックボム" tooltipDescription="強力な磁器が全身に走っています！\n移動速度が27%減少" />
+	<key id="10600062" level="10" name="マグネチックボム" tooltipDescription="強力な磁器が全身に走っています！\n移動速度が30%減少" />
+	<key id="10600062" level="11" name="マグネチックボム" tooltipDescription="強力な磁器が全身に走っています！\n移動速度が33%減少" />
+	<key id="10600062" level="12" name="マグネチックボム" tooltipDescription="強力な磁器が全身に走っています！\n移動速度が36%減少" />
+	<key id="10600131" level="1" name="サテライト" tooltipDescription="小型衛星が敵を探しています。\n標的となった敵にレーザー発射" />
+	<key id="10600131" level="2" name="サテライト" tooltipDescription="小型衛星が敵を探しています。\n標的となった敵にレーザー発射" />
+	<key id="10600131" level="3" name="サテライト" tooltipDescription="小型衛星が敵を探しています。\n標的となった敵にレーザー発射" />
+	<key id="10600131" level="4" name="サテライト" tooltipDescription="小型衛星が敵を探しています。\n標的となった敵にレーザー発射" />
+	<key id="10600131" level="5" name="サテライト" tooltipDescription="小型衛星が敵を探しています。\n標的となった敵にレーザー発射" />
+	<key id="10600131" level="6" name="サテライト" tooltipDescription="小型衛星が敵を探しています。\n標的となった敵にレーザー発射" />
+	<key id="10600131" level="7" name="サテライト" tooltipDescription="小型衛星が敵を探しています。\n標的となった敵にレーザー発射" />
+	<key id="10600131" level="8" name="サテライト" tooltipDescription="小型衛星が敵を探しています。\n標的となった敵にレーザー発射" />
+	<key id="10600131" level="9" name="サテライト" tooltipDescription="小型衛星が敵を探しています。\n標的となった敵にレーザー発射" />
+	<key id="10600131" level="10" name="サテライト" tooltipDescription="小型衛星が敵を探しています。\n標的となった敵にレーザー発射" />
+	<key id="10600131" level="11" name="サテライト" tooltipDescription="小型衛星が敵を探しています。\n標的となった敵にレーザー発射" />
+	<key id="10600131" level="12" name="サテライト" tooltipDescription="小型衛星が敵を探しています。\n標的となった敵にレーザー発射" />
+	<key id="10600171" level="1" name="プラズマチェーン" tooltipDescription="体内にプラズマエネルギーが凝縮されています！\n5回重複すると258%の電撃ダメージ" feature="JobChange_01" />
+	<key id="10600171" level="2" name="プラズマチェーン" tooltipDescription="体内にプラズマエネルギーが凝縮されています！\n5回重複すると288%の電撃ダメージ" feature="JobChange_01" />
+	<key id="10600171" level="3" name="プラズマチェーン" tooltipDescription="体内にプラズマエネルギーが凝縮されています！\n5回重複すると318%の電撃ダメージ" feature="JobChange_01" />
+	<key id="10600171" level="4" name="プラズマチェーン" tooltipDescription="体内にプラズマエネルギーが凝縮されています！\n5回重複すると348%の電撃ダメージ" feature="JobChange_01" />
+	<key id="10600171" level="5" name="プラズマチェーン" tooltipDescription="体内にプラズマエネルギーが凝縮されています！\n5回重複すると378%の電撃ダメージ" feature="JobChange_01" />
+	<key id="10600171" level="6" name="プラズマチェーン" tooltipDescription="体内にプラズマエネルギーが凝縮されています！\n5回重複すると408%の電撃ダメージ" feature="JobChange_01" />
+	<key id="10600171" level="7" name="プラズマチェーン" tooltipDescription="体内にプラズマエネルギーが凝縮されています！\n5回重複すると438%の電撃ダメージ" feature="JobChange_01" />
+	<key id="10600171" level="8" name="プラズマチェーン" tooltipDescription="体内にプラズマエネルギーが凝縮されています！\n5回重複すると468%の電撃ダメージ" feature="JobChange_01" />
+	<key id="10600171" level="9" name="プラズマチェーン" tooltipDescription="体内にプラズマエネルギーが凝縮されています！\n5回重複すると498%の電撃ダメージ" feature="JobChange_01" />
+	<key id="10600171" level="10" name="プラズマチェーン" tooltipDescription="体内にプラズマエネルギーが凝縮されています！\n5回重複すると528%の電撃ダメージ" feature="JobChange_01" />
+	<key id="10600171" level="11" name="プラズマチェーン" tooltipDescription="体内にプラズマエネルギーが凝縮されています！\n5回重複すると558%の電撃ダメージ" feature="JobChange_01" />
+	<key id="10600171" level="12" name="プラズマチェーン" tooltipDescription="体内にプラズマエネルギーが凝縮されています！\n5回重複すると588%の電撃ダメージ" feature="JobChange_01" />
+	<key id="10600201" level="1" name="ファイアボンバー" tooltipDescription="体に火がつきました！\n1秒ごとに74%の火炎ダメージ" feature="JobChange_01" />
+	<key id="10600201" level="2" name="ファイアボンバー" tooltipDescription="体に火がつきました！\n1秒ごとに82%の火炎ダメージ" feature="JobChange_01" />
+	<key id="10600201" level="3" name="ファイアボンバー" tooltipDescription="体に火がつきました！\n1秒ごとに90%の火炎ダメージ" feature="JobChange_01" />
+	<key id="10600201" level="4" name="ファイアボンバー" tooltipDescription="体に火がつきました！\n1秒ごとに98%の火炎ダメージ" feature="JobChange_01" />
+	<key id="10600201" level="5" name="ファイアボンバー" tooltipDescription="体に火がつきました！\n1秒ごとに106%の火炎ダメージ" feature="JobChange_01" />
+	<key id="10600201" level="6" name="ファイアボンバー" tooltipDescription="体に火がつきました！\n1秒ごとに114%の火炎ダメージ" feature="JobChange_01" />
+	<key id="10600201" level="7" name="ファイアボンバー" tooltipDescription="体に火がつきました！\n1秒ごとに122%の火炎ダメージ" feature="JobChange_01" />
+	<key id="10600201" level="8" name="ファイアボンバー" tooltipDescription="体に火がつきました！\n1秒ごとに130%の火炎ダメージ" feature="JobChange_01" />
+	<key id="10600201" level="9" name="ファイアボンバー" tooltipDescription="体に火がつきました！\n1秒ごとに138%の火炎ダメージ" feature="JobChange_01" />
+	<key id="10600201" level="10" name="ファイアボンバー" tooltipDescription="体に火がつきました！\n1秒ごとに146%の火炎ダメージ" feature="JobChange_01" />
+	<key id="10600201" level="11" name="ファイアボンバー" tooltipDescription="体に火がつきました！\n1秒ごとに154%の火炎ダメージ" feature="JobChange_01" />
+	<key id="10600201" level="12" name="ファイアボンバー" tooltipDescription="体に火がつきました！\n1秒ごとに162%の火炎ダメージ" feature="JobChange_01" />
+	<key id="10600212" level="1" name="スカイハンター" tooltipDescription="バリアが生成されました。\n自分の最大HPの30%分、ダメージを吸収" feature="JobChange_01" />
+	<key id="10600221" level="1" name="リトルアーモリー" tooltipDescription="自動で弾薬が補給されます。\n1秒ごとにSPを20回復" feature="JobChange_01" />
+	<key id="10600271" level="1" name="ポータブルアーマリー" tooltipDescription="自動で弾薬が補給されます\n毎秒SP20回復\nプラズマ系列スキルダメージ6%増加" feature="JobChange_02" />
+	<key id="10600271" level="2" name="ポータブルアーマリー" tooltipDescription="自動で弾薬が補給されます\n毎秒SP20回復\nプラズマ系列スキルダメージ12%増加" feature="JobChange_02" />
+	<key id="10600271" level="3" name="ポータブルアーマリー" tooltipDescription="自動で弾薬が補給されます\n毎秒SP20回復\nプラズマ系列スキルダメージ18%増加" feature="JobChange_02" />
+	<key id="10600271" level="4" name="ポータブルアーマリー" tooltipDescription="自動で弾薬が補給されます\n毎秒SP20回復\nプラズマ系列スキルダメージ24%増加" feature="JobChange_02" />
+	<key id="10600271" level="5" name="ポータブルアーマリー" tooltipDescription="自動で弾薬が補給されます\n毎秒SP20回復\nプラズマ系列スキルダメージ30%増加" feature="JobChange_02" />
+	<key id="10600271" level="6" name="ポータブルアーマリー" tooltipDescription="自動で弾薬が補給されます\n毎秒SP20回復\nプラズマ系列スキルダメージ36%増加" feature="JobChange_02" />
+	<key id="10600271" level="7" name="ポータブルアーマリー" tooltipDescription="自動で弾薬が補給されます\n毎秒SP20回復\nプラズマ系列スキルダメージ42%増加" feature="JobChange_02" />
+	<key id="10600271" level="8" name="ポータブルアーマリー" tooltipDescription="自動で弾薬が補給されます\n毎秒SP20回復\nプラズマ系列スキルダメージ48%増加" feature="JobChange_02" />
+	<key id="10600271" level="9" name="ポータブルアーマリー" tooltipDescription="自動で弾薬が補給されます\n毎秒SP20回復\nプラズマ系列スキルダメージ54%増加" feature="JobChange_02" />
+	<key id="10600271" level="10" name="ポータブルアーマリー" tooltipDescription="自動で弾薬が補給されます\n毎秒SP20回復\nプラズマ系列スキルダメージ60%増加" feature="JobChange_02" />
+	<key id="10600271" level="11" name="ポータブルアーマリー" tooltipDescription="自動で弾薬が補給されます\n毎秒SP20回復\nプラズマ系列スキルダメージ66%増加" feature="JobChange_02" />
+	<key id="10600271" level="12" name="ポータブルアーマリー" tooltipDescription="自動で弾薬が補給されます\n毎秒SP20回復\nプラズマ系列スキルダメージ72%増加" feature="JobChange_02" />
+	<key id="10600281" level="1" name="スティッキーモンスター" tooltipDescription="多機能連動粘着爆弾の機能が活性化されました！\n集中射撃、ファイアボンバー、デモリッションキャノンのスキル追加効果発動" feature="JobChange_02" />
+	<key id="10600281" level="2" name="スティッキーモンスター" tooltipDescription="多機能連動粘着爆弾の機能が活性化されました！\n集中射撃、ファイアボンバー、デモリッションキャノンのスキル追加効果発動" feature="JobChange_02" />
+	<key id="10600281" level="3" name="スティッキーモンスター" tooltipDescription="多機能連動粘着爆弾の機能が活性化されました！\n集中射撃、ファイアボンバー、デモリッションキャノンのスキル追加効果発動" feature="JobChange_02" />
+	<key id="10600281" level="4" name="スティッキーモンスター" tooltipDescription="多機能連動粘着爆弾の機能が活性化されました！\n集中射撃、ファイアボンバー、デモリッションキャノンのスキル追加効果発動" feature="JobChange_02" />
+	<key id="10600281" level="5" name="スティッキーモンスター" tooltipDescription="多機能連動粘着爆弾の機能が活性化されました！\n集中射撃、ファイアボンバー、デモリッションキャノンのスキル追加効果発動" feature="JobChange_02" />
+	<key id="10600281" level="6" name="スティッキーモンスター" tooltipDescription="多機能連動粘着爆弾の機能が活性化されました！\n集中射撃、ファイアボンバー、デモリッションキャノンのスキル追加効果発動" feature="JobChange_02" />
+	<key id="10600281" level="7" name="スティッキーモンスター" tooltipDescription="多機能連動粘着爆弾の機能が活性化されました！\n集中射撃、ファイアボンバー、デモリッションキャノンのスキル追加効果発動" feature="JobChange_02" />
+	<key id="10600281" level="8" name="スティッキーモンスター" tooltipDescription="多機能連動粘着爆弾の機能が活性化されました！\n集中射撃、ファイアボンバー、デモリッションキャノンのスキル追加効果発動" feature="JobChange_02" />
+	<key id="10600281" level="9" name="スティッキーモンスター" tooltipDescription="多機能連動粘着爆弾の機能が活性化されました！\n集中射撃、ファイアボンバー、デモリッションキャノンのスキル追加効果発動" feature="JobChange_02" />
+	<key id="10600281" level="10" name="スティッキーモンスター" tooltipDescription="多機能連動粘着爆弾の機能が活性化されました！\n集中射撃、ファイアボンバー、デモリッションキャノンのスキル追加効果発動" feature="JobChange_02" />
+	<key id="10600281" level="11" name="スティッキーモンスター" tooltipDescription="多機能連動粘着爆弾の機能が活性化されました！\n集中射撃、ファイアボンバー、デモリッションキャノンのスキル追加効果発動" feature="JobChange_02" />
+	<key id="10600281" level="12" name="スティッキーモンスター" tooltipDescription="多機能連動粘着爆弾の機能が活性化されました！\n集中射撃、ファイアボンバー、デモリッションキャノンのスキル追加効果発動" feature="JobChange_02" />
+	<key id="10600288" level="1" name="火炎放射" tooltipDescription="熱い火炎が放出されます！\n放出のたびに233%の火炎ダメージ" feature="JobChange_02" />
+	<key id="10600288" level="2" name="火炎放射" tooltipDescription="熱い火炎が放出されます！\n放出のたびに260%の火炎ダメージ" feature="JobChange_02" />
+	<key id="10600288" level="3" name="火炎放射" tooltipDescription="熱い火炎が放出されます！\n放出のたびに287%の火炎ダメージ" feature="JobChange_02" />
+	<key id="10600288" level="4" name="火炎放射" tooltipDescription="熱い火炎が放出されます！\n放出のたびに314%の火炎ダメージ" feature="JobChange_02" />
+	<key id="10600288" level="5" name="火炎放射" tooltipDescription="熱い火炎が放出されます！\n放出のたびに341%の火炎ダメージ" feature="JobChange_02" />
+	<key id="10600288" level="6" name="火炎放射" tooltipDescription="熱い火炎が放出されます！\n放出のたびに368%の火炎ダメージ" feature="JobChange_02" />
+	<key id="10600288" level="7" name="火炎放射" tooltipDescription="熱い火炎が放出されます！\n放出のたびに395%の火炎ダメージ" feature="JobChange_02" />
+	<key id="10600288" level="8" name="火炎放射" tooltipDescription="熱い火炎が放出されます！\n放出のたびに422%の火炎ダメージ" feature="JobChange_02" />
+	<key id="10600288" level="9" name="火炎放射" tooltipDescription="熱い火炎が放出されます！\n放出のたびに449%の火炎ダメージ" feature="JobChange_02" />
+	<key id="10600288" level="10" name="火炎放射" tooltipDescription="熱い火炎が放出されます！\n放出のたびに476%の火炎ダメージ" feature="JobChange_02" />
+	<key id="10600288" level="11" name="火炎放射" tooltipDescription="熱い火炎が放出されます！\n放出のたびに503%の火炎ダメージ" feature="JobChange_02" />
+	<key id="10600288" level="12" name="火炎放射" tooltipDescription="熱い火炎が放出されます！\n放出のたびに530%の火炎ダメージ" feature="JobChange_02" />
+	<key id="10600291" level="1" name="ガス中毒" tooltipDescription="強力な毒ガスにさらされました！\n毎秒785%の毒ダメージ" feature="JobChange_02" />
+	<key id="10600291" level="2" name="ガス中毒" tooltipDescription="強力な毒ガスにさらされました！\n毎秒875%の毒ダメージ" feature="JobChange_02" />
+	<key id="10600291" level="3" name="ガス中毒" tooltipDescription="強力な毒ガスにさらされました！\n毎秒965%の毒ダメージ" feature="JobChange_02" />
+	<key id="10600291" level="4" name="ガス中毒" tooltipDescription="強力な毒ガスにさらされました！\n毎秒1055%の毒ダメージ" feature="JobChange_02" />
+	<key id="10600291" level="5" name="ガス中毒" tooltipDescription="強力な毒ガスにさらされました！\n毎秒1145%の毒ダメージ" feature="JobChange_02" />
+	<key id="10600291" level="6" name="ガス中毒" tooltipDescription="強力な毒ガスにさらされました！\n毎秒1235%の毒ダメージ" feature="JobChange_02" />
+	<key id="10600291" level="7" name="ガス中毒" tooltipDescription="強力な毒ガスにさらされました！\n毎秒1325%の毒ダメージ" feature="JobChange_02" />
+	<key id="10600291" level="8" name="ガス中毒" tooltipDescription="強力な毒ガスにさらされました！\n毎秒1415%の毒ダメージ" feature="JobChange_02" />
+	<key id="10600291" level="9" name="ガス中毒" tooltipDescription="強力な毒ガスにさらされました！\n毎秒1505%の毒ダメージ" feature="JobChange_02" />
+	<key id="10600291" level="10" name="ガス中毒" tooltipDescription="強力な毒ガスにさらされました！\n毎秒1595%の毒ダメージ" feature="JobChange_02" />
+	<key id="10600291" level="11" name="ガス中毒" tooltipDescription="強力な毒ガスにさらされました！\n毎秒1685%の毒ダメージ" feature="JobChange_02" />
+	<key id="10600291" level="12" name="ガス中毒" tooltipDescription="強力な毒ガスにさらされました！\n毎秒1775%の毒ダメージ" feature="JobChange_02" />
+</ms2>
