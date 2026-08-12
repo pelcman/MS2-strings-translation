@@ -13,6 +13,8 @@ FIX = [
     ("メソ", "メル"),                  # stringcommon原本163件(通貨単位)
     ("総理", "大臣"),                  # npctitle/mapname/itemname/npcname + scriptquest原本9件
     ("ホムプルス", "ハンフルス"),      # 命名系9件 vs questdesc16件
+    ("黒星会のドン", "黒星会の顔役"),  # 대부: questdesc原本 10002020 が同一NPCで「顔役」
+    ("ドンである", "顔役である"),      # 同上
 ]
 
 BASE = os.path.dirname(os.path.abspath(__file__))
