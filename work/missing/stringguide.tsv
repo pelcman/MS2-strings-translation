@@ -1,0 +1,6 @@
+81042-FameContents-NA	name	[[icon:fame_icon_greenhood]] 세력 마크가 표시된 지역에서 해당 세력의 현장임무 수행 가능	[[icon:fame_icon_greenhood]] Faction emblems on the map indicate available field missions.
+81042-FameContents-TH	name	[[icon:fame_icon_greenhood]] 세력 마크가 표시된 지역에서 해당 세력의 현장임무 수행 가능	[[icon:fame_icon_greenhood]] Faction emblems on the map indicate available field missions.
+81042-FameContents-TW	name	[[icon:fame_icon_greenhood]] 세력 마크가 표시된 지역에서 해당 세력의 현장임무 수행 가능	[[icon:fame_icon_greenhood]] Faction emblems on the map indicate available field missions.
+81042-FameContents-CN	name	[[icon:fame_icon_darkwind]] 세력 마크가 표시된 지역에서 해당 세력의 현장임무 수행 가능	[[icon:fame_icon_darkwind]] Field missions for that faction can be performed in areas marked with that faction's mark.
+81042-FameContents-KR	name	[[icon:fame_icon_darkwind]] 세력 마크가 표시된 지역에서 해당 세력의 현장임무 수행 가능	[[icon:fame_icon_darkwind]] Field missions for that faction can be performed in areas marked with that faction's mark.
+26300735-Event-NA	name	문이 열렸어요. 출구에 있는 $item:30001477$$pp:를,을$ 주운 후 [[icon:portal]]<font color="#00a2ed">포털</font>로 이동하세요.	The door is open. Pick up the $item:30001477$ at the exit and go to the [[icon:portal]]<font color="#00a2ed">portal</font>.

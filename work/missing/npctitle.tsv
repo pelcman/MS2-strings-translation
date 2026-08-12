@@ -1,0 +1,551 @@
+11000001-Season1-	name	장로	Elder
+11000005-Season1-	name	도서관장	Head Librarian
+11000007-Season1-	name	소대장	Squad Leader
+11000012-Season1-	name	택배기사	Delivery Knight
+11000015-Season1-	name	자경대장	Vigilante Captain
+11000027-Season1-	name	백색의	White
+11000031-Season1-	name	대마법사	Archmage
+11000038-Season1-	name	닥터	Doctor
+11000052-Season1-	name	촌장	Village Chief
+11000053-Season1-	name	먹보	Glutton
+11000065-Season1-	name	시장	Market
+11000070-Season1-	name	닥터	Doctor
+11000071-Season1-	name	닥터	Doctor
+11000072-Season1-	name	닥터	Doctor
+11000074-Season1-	name	왕실 총리	Chancellor of the Kingdom
+11000075-Season1-	name	여제	Empress
+11000076-Season1-	name	기사단장	Knight Commander
+11000077-Season1-	name	다크윈드	Darkwind
+11000097-Season1-	name	보부상	Pedlar
+11000117-Season1-	name	보부상	Pedlar
+11000119-Season1-	name	근위대장	Royal Guard Captain
+11000121-Season1-	name	연구조교	Research Assistant
+11000124-Season1-	name	약학박사	Doctor of Pharmacology
+11000125-Season1-	name	유전학 박사	Doctor of Genetics
+11000128-Season1-	name	왕실 짐꾼	Royal Porter
+11000129-Season1-	name	왕실 짐꾼	Royal Porter
+11000136-Season1-	name	늑대소녀	Wolf Girl
+11000145-Season1-	name	시간 여행자	NPCTITLE_11004663_NAME:[F]Event
+11000146-Season1-	name	시간 여행자	NPCTITLE_11004663_NAME:[F]Event
+11000157-Season1-	name	근위대원	Guard
+11000158-Season1-	name	근위대원	Guard
+11000159-Season1-	name	근위대원	Guard
+11000160-Season1-	name	안내원	Guide
+11000164-Season1-	name	왕실 짐꾼	Royal Porter
+11000169-Season1-	name	무기고 경비병	Weaponry Guard
+11000170-Season1-	name	보부상	Pedlar
+11000171-Season1-	name	고물대장	Junk King
+11000172-Season1-	name	경비원	Security Guard
+11000173-Season1-	name	브로커	Broker
+11000179-Season1-	name	보부상	Pedlar
+11000180-Season1-	name	고물상 잡부	Junk Shop Assistant
+11000181-Season1-	name	고물상 잡부	Junk Shop Assistant
+11000185-Season1-	name	중개인	Intermediary
+11000190-Season1-	name	약초꾼	Herbalist
+11000192-Season1-	name	나무꾼	Lumberjack
+11000203-Season1-	name	나무꾼	Lumberjack
+11000207-Season1-	name	일꾼	Worker
+11000208-Season1-	name	다크윈드	Darkwind
+11000214-Season1-	name	신원미상	Unidentified
+11000215-Season1-	name	다크윈드	Darkwind
+11000216-Season1-	name	시위대	Protesters
+11000217-Season1-	name	메이드	Maid
+11000220-Season1-	name	감독관	Supervisor
+11000241-Season1-	name	케이블카 안내원	Cable Car Attendant
+11000242-Season1-	name	구름까페 주인장	Cloud Cafe Owner
+11000245-Season1-	name	감독관	Supervisor
+11000254-Season1-	name	헤어스타일 상담사	Hairstyle Consultant
+11000258-Season1-	name	다크윈드	Darkwind
+11000260-Season1-	name	다크윈드	Darkwind
+11000261-Season1-	name	닥터	Doctor
+11000264-Season1-	name	연금술사	Alchemist
+11000265-Season1-	name	마법학자	Magic Scholar
+11000266-Season1-	name	다크윈드 지휘관	Dark Wind Commander
+11000273-Season1-	name	닥터	Doctor
+11000274-Season1-	name	닥터	Doctor
+11000275-Season1-	name	닥터	Doctor
+11000280-Season1-	name	근위대원	Guard
+11000281-Season1-	name	지질학자	Professor
+11000283-Season1-	name	점쟁이	Fortune Teller
+11000284-Season1-	name	요정	Fairy
+11000292-Season1-	name	보부상	Pedlar
+11000293-Season1-	name	나무요정	Tree Fairy
+11000298-Season1-	name	요정	Fairy
+11000299-Season1-	name	농사꾼	Farmer
+11000300-Season1-	name	보부상	Pedlar
+11000301-Season1-	name	공사 감독	Construction Supervisor
+11000302-Season1-	name	수습 제사장	Apprentice Priest
+11000303-Season1-	name	주술사	Shaman
+11000304-Season1-	name	탐욕마녀	Greedy Witch
+11000324-Season1-	name	감정표현 코치	Emotion Expression Coach
+11000325-Season1-	name	홍보 사원	PR Staff
+11000327-Season1-	name	고고학자	Archaeologist
+11000328-Season1-	name	골동품 수집가	Antique Collector
+11000337-Season1-	name	백색의	White
+11000338-Season1-	name	제빵사	Baker
+11000339-Season1-	name	벨보이	Bellhop
+11000340-Season1-	name	지배인	Hotelier
+11000341-Season1-	name	마드모아젤	Mademoiselle
+11000350-Season1-	name	보부상	Pedlar
+11000352-Season1-	name	공원 경비원	Park Guard
+11000353-Season1-	name	공사 감독	Construction Supervisor
+11000358-Season1-	name	건달	Thug
+11000362-Season1-	name	어부	Fisherman
+11000365-Season1-	name	조직원	Gang Member
+11000374-Season1-	name	늑대잡이	Wolf Hunter
+11000375-Season1-	name	왕실 짐꾼	Royal Porter
+11000393-Season1-	name	수도관리인	Water Works Manager
+11000394-Season1-	name	캐시마트 직원	Cash Mart Staff
+11000400-Season1-	name	관리소장	Facility Manager
+11000402-Season1-	name	보부상	Pedlar
+11000403-Season1-	name	보부상	Pedlar
+11000406-Season1-	name	아이돌	Idol
+11000419-Season1-	name	닥터	Doctor
+11000433-Season1-	name	양치기 소년	Shepherd Boy
+11000436-Season1-	name	닥터	Doctor
+11000444-Season1-	name	탐험가	Explorer
+11000479-Season1-	name	음악가	Musician
+11000480-Season1-	name	채석장 감독관	Quarry Supervisor
+11000484-Season1-	name	보부상	Pedlar
+11000504-KarkarIsland-	name	마드모아젤	Mademoiselle
+11000514-Season1-	name	교도소장	Prison Warden
+11000515-Season1-	name	트레이더 사무장	Trader Office Manager
+11000520-Season1-	name	관리소장	Facility Manager
+11000521-Season1-	name	교도소장	Prison Warden
+11000524-Season1-	name	다크윈드	Darkwind
+11000534-Season1-	name	검시관	Coroner
+11000546-Season1-	name	보부상	Pedlar
+11000547-Season1-	name	자경단원	Green Hood
+11000548-Season1-	name	자경단원	Green Hood
+11000549-Season1-	name	늑대잡이	Wolf Hunter
+11000551-Season1-	name	근위대원	Guard
+11000582-Season1-	name	닥터	Doctor
+11000583-Season1-	name	닥터	Doctor
+11000584-Season1-	name	닥터	Doctor
+11000594-Season1-	name	연구소장	Laboratory Director
+11000596-Season1-	name	요정	Fairy
+11000601-Season1-	name	수호사제	Guardian Priest
+11000602-Season1-	name	근위대 추적단	Royal Guard Tracker
+11000603-Season1-	name	근위대 추적단	Royal Guard Tracker
+11000607-Season1-	name	보부상	Pedlar
+11000608-Season1-	name	수호사제	Guardian Priest
+11000609-Season1-	name	보부상	Pedlar
+11000610-Season1-	name	조직원	Gang Member
+11000613-Season1-	name	루미나 해방군	Lumina Liberation Soldier
+11000614-Season1-	name	루미나 해방군	Lumina Liberation Soldier
+11000615-Season1-	name	루미나 해방군	Lumina Liberation Soldier
+11000616-Season1-	name	루미나 해방군	Lumina Liberation Soldier
+11000617-Season1-	name	근위대원	Guard
+11000631-Season1-	name	교도관	Prison Warden
+11000632-Season1-	name	교도관	Prison Warden
+11000633-Season1-	name	교도관	Prison Warden
+11000658-Season1-	name	닥터	Doctor
+11000667-Season1-	name	브로커	Broker
+11000668-Season1-	name	브로커	Broker
+11000669-Season1-	name	브로커	Broker
+11000672-Season1-	name	자경대장	Vigilante Captain
+11000675-Season1-	name	검투사	Gladiator
+11000677-Season1-	name	요정	Fairy
+11000701-Season1-	name	자경대장	Vigilante Captain
+11000702-Season1-	name	근위대장	Royal Guard Captain
+11000703-Season1-	name	자경단원	Green Hood
+11000712-Season1-	name	꼬마 거북	Baby Turtle
+11000713-Season1-	name	아빠 거북	Papa Turtle
+11000736-Season1-	name	요정	Fairy
+11000737-Season1-	name	검객	Swordsman
+11000738-Season1-	name	검객	Swordsman
+11000739-Season1-	name	검객	Swordsman
+11000744-Season1-	name	마녀	Witch
+11000745-Season1-	name	마녀	Witch
+11000746-Season1-	name	숲속의 마녀	Witch of the Forest
+11000762-Season1-	name	닥터	Doctor
+11000782-Season1-	name	탐험가	Explorer
+11000795-Season1-	name	캐시마트 직원	Cash Mart Staff
+11000806-Season1-	name	화공학자	Chemist
+11000813-Season1-	name	보부상	Pedlar
+11000814-Season1-	name	보부상	Pedlar
+11000828-Season1-	name	보부상	Pedlar
+11000829-Season1-	name	보부상	Pedlar
+11000837-Season1-	name	수호군	Guardian
+11000839-Season1-	name	루미나 해방군	Lumina Liberation Soldier
+11000841-Season1-	name	루미나 해방군	Lumina Liberation Soldier
+11000842-Season1-	name	루미나 해방군	Lumina Liberation Soldier
+11000843-Season1-	name	연구소장	Laboratory Director
+11000844-Season1-	name	어린	Young
+11000848-Season1-	name	공학박사	Doctor of Engineering
+11000862-Season1-	name	왕실 총리	Chancellor of the Kingdom
+11000868-Season1-	name	수습 연구원	Apprentice Researcher
+11000869-Season1-	name	시간공학자	Time Engineer
+11000870-Season1-	name	연구원	Researcher
+11000871-Season1-	name	연구원	Researcher
+11000874-Season1-	name	거북도사	Turtle Sage
+11000885-Season1-	name	달토끼	Moon Rabbit
+11000892-Season1-	name	숲의 요정	Forest Spirit
+11000893-Season1-	name	빛의 요정	Spirit of Light
+11000894-Season1-	name	바람의 요정	Wind Spirit
+11000895-Season1-	name	피추피추의 공중정원	Picchu Picchu's Garden in the Sky
+11000898-Season1-	name	닥터	Doctor
+11000899-Season1-	name	닥터	Doctor
+11000911-Season1-	name	생명공학 박사	Biotech Researcher
+11000930-Season1-	name	어미 새	Mother Bird
+11000931-Season1-	name	늑대	Wolf
+11000947-Season1-	name	닥터	Doctor
+11000948-Season1-	name	닥터	Doctor
+11000949-Season1-	name	닥터	Doctor
+11000950-Season1-	name	닥터	Doctor
+11000958-Season1-	name	농부	Farmer
+11000959-Season1-	name	정찰대원	Scout
+11000961-Season1-	name	자경단원	Green Hood
+11000962-Season1-	name	자경단원	Green Hood
+11000963-Season1-	name	보부상	Pedlar
+11000972-Season1-	name	자경단원	Green Hood
+11000974-Season1-	name	요리 연구가	Cuisine Researcher
+11000975-Season1-	name	농부	Farmer
+11000976-Season1-	name	무림고수	Martial Arts Master
+11000977-Season1-	name	제사장	Priest
+11000980-Season1-	name	보부상	Pedlar
+11000984-Season1-	name	마법사	Wizard
+11000985-Season1-	name	공학박사	Doctor of Engineering
+11000987-Season1-	name	감독관	Supervisor
+11001002-Season1-	name	이벤트 도우미	Event Guide
+11001002-Season1-CN	name	이벤트 도우미	Event Guide
+11001003-Season1-	name	이벤트 도우미	Event Guide
+11001010-Season1-	name	인턴 사원	Intern
+11001016-Season1-	name	안데센 왕국 임금	King of the Andesen Kingdom
+11001028-Season1-	name	연구소장	Laboratory Director
+11001031-Season1-	name	연구인턴	Research Intern
+11001032-Season1-	name	센터장	Center Director
+11001040-Season1-	name	탐사대원	Expedition Member
+11001041-Season1-	name	예언가	Prophet
+11001043-Season1-	name	보안요원	Security Guard
+11001046-Season1-	name	주술사	Shaman
+11001047-Season1-	name	감독관	Supervisor
+11001057-Season1-	name	시간공학자	Time Engineer
+11001062-Season1-	name	카오닉스 수집가	KaoNix Collector
+11001068-Season1-	name	경호원	Bodyguard
+11001078-Season1-	name	먹보	Glutton
+11001079-Season1-	name	죄수	Prisoner
+11001080-KarkarIsland-	name	정찰대장	Scout Captain
+11001084-KarkarIsland-	name	정찰대원	Scout
+11001091-Season1-	name	닥터	Doctor
+11001097-Season1-	name	공학자	Engineer
+11001099-Season1-	name	자경대장	Vigilante Captain
+11001110-Season1-	name	루미나 해방군	Lumina Liberation Soldier
+11001117-Season1-	name	숲의 요정	Forest Spirit
+11001118-Season1-	name	바니걸	Bunny Girl
+11001119-Season1-	name	바니걸	Bunny Girl
+11001123-Season1-	name	택배기사	Delivery Knight
+11001125-Season1-	name	드로이드	Droid
+11001129-Season1-	name	인부	Worker
+11001130-Season1-	name	약초꾼	Herbalist
+11001131-Season1-	name	탐사대원	Expedition Member
+11001132-Season1-	name	피난민	Refugee
+11001133-Season1-	name	보부상	Pedlar
+11001138-Season1-	name	피난민	Refugee
+11001139-Season1-	name	가죽 세공사	Leatherworker
+11001140-Season1-	name	인부	Worker
+11001141-Season1-	name	영지 관리인	Estate Manager
+11001143-Season1-	name	고고학자	Archaeologist
+11001144-Season1-	name	점쟁이	Fortune Teller
+11001146-Season1-	name	엄마의	Mother's
+11001147-Season1-	name	엄마의	Mother's
+11001148-Season1-	name	무기 수집가	Weapon Collector
+11001176-ContentsGuide01-	name	수석 디자이너	Lead Designer
+11001177-Season1-	name	자경단원	Green Hood
+11001178-Season1-	name	농장주	Farm Owner
+11001192-Season1-	name	막내 작가	Youngest Writer
+11001193-Season1-	name	조명 감독	Lighting Director
+11001194-Season1-	name	촬영 스태프	Camera Crew
+11001195-Season1-	name	스타일리스트	Stylist
+11001196-Season1-	name	지원팀	Support Team
+11001210-Balrogitem1st-	name	탐구자	Explorer
+11001211-Balrogitem1st-	name	대장장이	Blacksmith
+11001214-Season1-	name	촌장	Village Chief
+11001230-RuneBlader-	name	단장 대리	Deputy Leader
+11001234-RuneBlader-	name	척후병	Scout
+11001238-KatvanDungeon-	name	마녀	Witch
+11001248-RuneBlader-	name	단장 대리	Deputy Leader
+11001249-RuneBlader-	name	척후병	Scout
+11001261-RuneBlader-	name	유물 복원가	Artifact Restorer
+11001262-Quest2017-	name	정보 중개인	Information Broker
+11001266-RuneBlader-	name	테룬칼리브	Terunkelebr
+11001268-RuneBlader-	name	테룬칼리브	Terunkelebr
+11001275-KarkarIsland-	name	조수	Assistant
+11001276-KarkarIsland-	name	발명가	Inventor
+11001277-RuneBlader-	name	유물 복원가	Artifact Restorer
+11001278-RuneBlader-	name	추격대원	Chaser
+11001282-RuneBlader-	name	테룬칼리브	Terunkelebr
+11001299-KarkarIsland-	name	기사단장	Knight Commander
+11001300-KarkarIsland-	name	기사단장	Knight Commander
+11001301-KarkarIsland-	name	여제	Empress
+11001302-KarkarIsland-	name	여제	Empress
+11001303-KarkarIsland-	name	수호사제	Guardian Priest
+11001304-KarkarIsland-	name	대마법사	Archmage
+11001305-KarkarIsland-	name	장로	Elder
+11001308-KarkarIsland-	name	골동품 수집상	Antique Collector
+11001309-KarkarIsland-	name	경찰관	Police Officer
+11001310-KarkarIsland-	name	근위대원	Guard
+11001311-KarkarIsland-	name	근위대원	Guard
+11001312-KarkarIsland-	name	근위대원	Guard
+11001314-KarkarIsland-	name	모로파파 부족장	Moropapa Chief
+11001315-KarkarIsland-	name	모로파파 부족	Moropapa Tribe
+11001316-KarkarIsland-	name	신녀	Priestess
+11001317-KarkarIsland-	name	신녀	Priestess
+11001324-KarkarIsland-	name	닥터	Doctor
+11001341-KarkarIsland-	name	킬코스 직원	Kilcos Employee
+11001342-KarkarIsland-	name	W.H.A 직원	W.H.A Employee
+11001343-KarkarIsland-	name	라이프 가드	Lifeguard
+11001344-KarkarIsland-	name	교도관	Prison Warden
+11001345-KarkarIsland-	name	교도소장	Prison Warden
+11001349-KarkarIsland-	name	지배인	Hotelier
+11001355-KarkarIsland-	name	정찰대원	Scout
+11001356-KarkarIsland-	name	바니걸	Bunny Girl
+11001370-KarkarIsland-	name	모노레일 기장	Monorail Conductor
+11001374-KarkarIsland-	name	수행 비서	Executive Assistant
+11001375-KarkarIsland-	name	판매원	Salesperson
+11001376-KarkarIsland-	name	촬영감독	Film Director
+11001377-KarkarIsland-	name	매니저	Manager
+11001378-KarkarIsland-	name	격투 선수	Fighter
+11001379-KarkarIsland-	name	보안 직원	Security Guard
+11001381-KarkarIsland-	name	위원장	Chairman
+11001382-KarkarIsland-	name	흑성회 요원	Blackstar Agent
+11001386-KarkarIsland-	name	마을 장로	Village Elder
+11001387-KarkarIsland-	name	마을 주민	Village Resident
+11001388-KarkarIsland-	name	마을 주민	Village Resident
+11001389-KarkarIsland-	name	마을 주민	Village Resident
+11001390-KarkarIsland-	name	마을 주민	Village Resident
+11001391-KarkarIsland-	name	환자	Patient
+11001392-KarkarIsland-	name	환자	Patient
+11001393-KarkarIsland-	name	사랑에 빠진 거지	Beggar in Love
+11001396-KarkarIsland-	name	천재 소녀	Genius Girl
+11001397-KarkarIsland-	name	모로파파 부족	Moropapa Tribe
+11001399-KarkarIsland-	name	정찰대 24조 조장	Scout Team 24 Leader
+11001400-KarkarIsland-	name	인부	Worker
+11001401-KarkarIsland-	name	인부	Worker
+11001406-KarkarIsland-	name	수색반장	Search Team Leader
+11001407-KarkarIsland-	name	유령	Ghost
+11001408-KarkarIsland-	name	정찰대장	Scout Captain
+11001409-KarkarIsland-	name	훈련반장	Training Captain
+11001410-KarkarIsland-	name	비서	Secretary
+11001411-KarkarIsland-	name	비서	Secretary
+11001412-KarkarIsland-	name	환자	Patient
+11001430-KarkarIsland-	name	별에서 온	NPCTITLE_11004672_NAME:[F]Event
+11001431-KarkarIsland-	name	노을 여우	NPCTITLE_11004673_NAME:[F]Event
+11001433-KarkarIsland-	name	소년	NPCTITLE_11004669_NAME:[F]Event
+11001434-KarkarIsland-	name	고고학자	Archaeologist
+11001443-KarkarIsland-	name	닥터	Doctor
+11001448-KarkarIsland-	name	여제	Empress
+11001458-KarkarIsland-	name	흑성회 조직원	Blackstar Gangster
+11001473-KarkarIsland-	name	고고학자	Archaeologist
+11001474-KarkarIsland-	name	고고학자	Archaeologist
+11001478-KarkarIsland-	name	여제	Empress
+11001483-KarkarIsland-	name	겁쟁이	Coward
+11001485-KarkarIsland-	name	주술사	Shaman
+11001490-KarkarIsland-	name	여제	Empress
+11001502-KarkarIsland-	name	먹보	Glutton
+11001520-NutaNuta-	name	별빛 원정대	Starlight Expedition
+11001521-NutaNuta-	name	별빛 원정대	Starlight Expedition
+11001522-NutaNuta-	name	별빛 원정대	Starlight Expedition
+11001547-Striker-	name	투신	Battle God
+11001556-SoulBinder-	name	마스터	Master
+11001557-SoulBinder-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001619-Striker-	name	사무장	Manager
+11001620-Striker-	name	사무장	Manager
+11001622-Striker-	name	투신	Battle God
+11001625-Striker-	name	투신	Battle God
+11001626-Striker-	name	경기 진행자	Match Host
+11001628-Striker-	name	사무장	Manager
+11001630-Striker-	name	투신	Battle God
+11001657-SoulBinder-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001659-SoulBinder-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001661-SoulBinder-	name	마스터	Master
+11001663-Season1-	name	여제	Empress
+11001665-Season1-	name	왕실 총리	Chancellor of the Kingdom
+11001666-Season1-	name	근위대장	Royal Guard Captain
+11001668-UGCMapRenewal-	name	주치의	Personal Physician
+11001669-Season1-	name	바니걸	Bunny Girl
+11001670-Season1-	name	바니걸	Bunny Girl
+11001671-SoulBinder-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001672-SoulBinder-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001690-Striker-	name	사무장	Manager
+11001700-ShadowExpedition-	name	근위대원	Guard
+11001715-SoulBinder-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001716-SoulBinder-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001717-SoulBinder-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001718-SoulBinder-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001719-SoulBinder-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001720-SoulBinder-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001721-SoulBinder-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001722-SoulBinder-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001742-SoulBinder-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001762-DoubleImpactStory-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001763-DoubleImpactStory-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001771-DoubleImpactStory-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001772-ShrineOfGuidance-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001773-ShrineOfGuidance-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001774-ShrineOfGuidance-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001790-DoubleImpactStory-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001791-DoubleImpactStory-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001792-DoubleImpactStory-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001806-DoubleImpactStory-	name	대제자	NPCTITLE_11004666_NAME:[F]Event
+11001838-Season1-	name	수습 근위대원	Trainee Guard
+11001839-Season1-	name	수습 근위대원	Trainee Guard
+11001840-Season1-	name	수습 근위대원	Trainee Guard
+11001841-Season1-	name	수습 근위대원	Trainee Guard
+11001842-Season1-	name	근위병	Guardsman
+11001843-Season1-	name	부상병	Wounded Soldier
+11001861-ContentsGuide01-	name	낚시꾼	Fisher
+11001862-ContentsGuide01-	name	낚시꾼	Fisher
+11001863-ContentsGuide01-	name	낚시꾼	Fisher
+11001865-ContentsGuide01-	name	악기상	Instrument Merchant
+11001867-ContentsGuide01-	name	세공사	Gemcraftsman
+11001868-ContentsGuide01-	name	세공사	Gemcraftsman
+11001869-ContentsGuide01-	name	세공사	Gemcraftsman
+11001870-ContentsGuide01-	name	네르만 길드장	Nerman Guild Master
+11001872-ContentsGuide01-	name	발명가	Inventor
+11001873-ContentsGuide01-	name	발명가	Inventor
+11001874-ContentsGuide01-	name	조수	Assistant
+11001876-ContentsGuide01-	name	수석 집사	Head Butler
+11001877-ContentsGuide01-	name	농장주	Farm Owner
+11001878-Season1-	name	불꽃남자	Fire Man
+11001889-Season1-	name	자경대장	Vigilante Captain
+11001901-Season1-	name	기사단장	Knight Commander
+11001967-Season1-	name	수습 근위대원	Trainee Guard
+11002000-Season1-	name	주치의	Personal Physician
+11002002-Season1-	name	주치의	Personal Physician
+11002003-Season1-	name	주치의	Personal Physician
+11002004-Season1-	name	주치의	Personal Physician
+11002005-Season1-	name	주치의	Personal Physician
+11002006-Season1-	name	주치의	Personal Physician
+11002007-Season1-	name	주치의	Personal Physician
+11002008-Season1-	name	주치의	Personal Physician
+11002009-Season1-	name	주치의	Personal Physician
+11002010-Season1-	name	주치의	Personal Physician
+11002011-Season1-	name	주치의	Personal Physician
+11002012-Season1-	name	주치의	Personal Physician
+11002013-Season1-	name	주치의	Personal Physician
+11002014-Season1-	name	주치의	Personal Physician
+11002015-Season1-	name	주치의	Personal Physician
+11002016-Season1-	name	주치의	Personal Physician
+11002020-Season1-	name	캐시마트 직원	Cash Mart Staff
+11002035-Season1-	name	캐시마트 직원	Cash Mart Staff
+11002036-Season1-	name	캐시마트 직원	Cash Mart Staff
+11002037-Season1-	name	캐시마트 직원	Cash Mart Staff
+11002038-Season1-	name	캐시마트 직원	Cash Mart Staff
+11002040-KarkarIsland-	name	주치의	Personal Physician
+11002041-KarkarIsland-	name	주치의	Personal Physician
+11002042-KarkarIsland-	name	주치의	Personal Physician
+11002043-KarkarIsland-	name	주치의	Personal Physician
+11002044-KarkarIsland-	name	주치의	Personal Physician
+11002045-KarkarIsland-	name	주치의	Personal Physician
+11002046-KarkarIsland-	name	주치의	Personal Physician
+11002047-KarkarIsland-	name	주치의	Personal Physician
+11002048-KarkarIsland-	name	주치의	Personal Physician
+11002049-KarkarIsland-	name	주치의	Personal Physician
+11003054-SnowKingdom-	name	기사단장	Knight Commander
+11003059-SnowKingdom-	name	보급대원	Supply Corps Member
+11003063-SnowKingdom-	name	약초꾼	Herbalist
+11003069-SnowKingdom-	name	눈의 여왕	Snow Queen
+11003074-SnowKingdom-	name	눈의 여왕	Snow Queen
+11003075-SnowKingdom-	name	서리왕	Frost King
+11003079-ContentsGuide01-	name	길드 사무장	Guild Clerk
+11003080-PirateOcean-	name	탐험가	Explorer
+11003093-DarkCastle-	name	기사단장	Knight Commander
+11003094-DarkCastle-	name	다크윈드 대장	Dark Wind Captain
+11003095-DarkCastle-	name	자경대장	Vigilante Captain
+11003096-DarkCastle-	name	기사단장	Knight Commander
+11003121-DarkCastle-	name	근위대장	Royal Guard Captain
+11003122-DarkCastle-	name	자경대장	Vigilante Captain
+11003127-DarkCastle-	name	비밀기사단	Secret Knights Order
+11003142-ContentsGuide02-	name	별에서 온	NPCTITLE_11004672_NAME:[F]Event
+11003143-ContentsGuide02-	name	연금술사	Alchemist
+11003151-Quest2017-	name	근위대장	Royal Guard Captain
+11003163-Quest2017-	name	왕실 관리인	Royal Caretaker
+11003164-Quest2017-	name	수습 근위대원	Trainee Guard
+11003165-Quest2017-	name	근위대장	Royal Guard Captain
+11003166-Quest2017-	name	수습 근위대원	Trainee Guard
+11003169-Quest2017-	name	수습 근위대원	Trainee Guard
+11003170-Quest2017-	name	수습 근위대원	Trainee Guard
+11003172-Quest2017-	name	수습 근위대원	Trainee Guard
+11003173-Quest2017-	name	다크윈드 사령관	Dark Wind Commander
+11003178-Quest2017-	name	수습 근위대원	Trainee Guard
+11003186-Quest2017-	name	수습 근위대원	Trainee Guard
+11003187-Quest2017-	name	브로커	Broker
+11003188-Quest2017-	name	수습 근위대원	Trainee Guard
+11003193-Quest2017-	name	정보 중개인	Information Broker
+11003194-Quest2017-	name	브로커	Broker
+11003195-Quest2017-	name	다크윈드 대장	Dark Wind Captain
+11003196-Quest2017-	name	다크윈드 대장	Dark Wind Captain
+11003198-Quest2017-	name	수습 근위대원	Trainee Guard
+11003199-Quest2017-	name	수습 근위대원	Trainee Guard
+11003200-Quest2017-	name	다크윈드 대장	Dark Wind Captain
+11003201-Quest2017-	name	다크윈드 대장	Dark Wind Captain
+11003202-Quest2017-	name	수습 근위대원	Trainee Guard
+11003203-Quest2017-	name	수습 근위대원	Trainee Guard
+11003218-Quest2017-	name	수습 근위대원	Trainee Guard
+11003220-Quest2017-	name	수습 근위대원	Trainee Guard
+11003221-Season1-	name	장로	Elder
+11003222-Season1-	name	자경대장	Vigilante Captain
+11003238-Quest2017-	name	자경대장	Vigilante Captain
+11003239-Quest2017-	name	장로	Elder
+11003241-Quest2017-	name	브로커	Broker
+11003243-Quest2017-	name	자경단원	Green Hood
+11003245-Quest2017-	name	자경대장	Vigilante Captain
+11003246-Quest2017-	name	근위대장	Royal Guard Captain
+11003247-Quest2017-	name	수습 근위대원	Trainee Guard
+11003250-Quest2017-	name	대마법사	Archmage
+11003264-Quest2017-	name	도서관장	Head Librarian
+11003266-Quest2017-	name	근위대원	Guard
+11003267-Quest2017-	name	기사단장	Knight Commander
+11003268-Quest2017-	name	연금술사	Alchemist
+11003269-Quest2017-	name	소대장	Squad Leader
+11003270-Quest2017-	name	다크윈드 지휘관	Dark Wind Commander
+11003274-Season1-	name	교도소장	Prison Warden
+11003281-Quest2017-	name	대마법사	Archmage
+11003283-Season1-	name	대마법사	Archmage
+11003284-Season1-	name	대마법사	Archmage
+11003306-Season1-	name	대마법사	Archmage
+11003307-Quest2017-	name	장로	Elder
+11003308-Quest2017-	name	장로	Elder
+11003309-Quest2017-	name	자경대장	Vigilante Captain
+11003314-Quest2017-	name	대마법사	Archmage
+11003319-Season1-	name	자경대장	Vigilante Captain
+11003320-JobIntro-	name	기사	Knight
+11003328-JobIntro-	name	기사단장	Knight Commander
+11003330-JobIntro-	name	수호사제	Guardian Priest
+11003331-JobIntro-	name	수호사제	Guardian Priest
+11003361-Quest2017-	name	장로	Elder
+11003432-Quest2017_2-	name	도서관장	Head Librarian
+11003435-Quest2017_2-	name	대마법사	Archmage
+11003437-Quest2017_2-	name	도서관장	Head Librarian
+11003810-Pet_Zakum-	name	마녀	Witch
+11003870-Mastery05-	name	베르크 섬 관리인	Berk Island Caretaker
+11003871-Mastery05-	name	광부	Miner
+11003872-Mastery05-	name	광부	Miner
+11003873-Mastery05-	name	광부	Miner
+11003876-Mastery05-	name	항해사	Navigator
+11003877-Mastery05-	name	항해사	Navigator
+11003878-Mastery05-	name	알키미 가든 관리인	Alchemy Garden Keeper
+11003879-Mastery05-	name	정원사	Gardener
+11003882-WorldChampionMushroom-	name	경비병	Guard
+11004552-Season1-	name	이벤트 도우미	Event Guide
+11004557-Event-	name	핑크핑크	Pink Pink
+11004618-Fame_Geo01-	name	케르베스 단장	Cerbe Legion Commander
+11004619-Fame_Geo01-	name	케르베스 단장 부관	Cerbe Legion Deputy Commander
+11004695-Event-CN	name	보부상	Pedlar
+11004718-Event-	name	아이돌	Idol
+11004844-Event-CN	name	보부상	Pedlar
+11004845-Event-KR	name	보부상	Pedlar
+11004846-Event-	name	도움을 청하는	Seeking Help
+11004847-Event-	name	알키미 가든 관리인	Alchemy Garden Keeper
+11004848-Event-	name	알키미 가든 관리인	Alchemy Garden Keeper
+11004849-Event-	name	알키미 가든 관리인	Alchemy Garden Keeper
+11004850-Event-	name	알키미 가든 관리인	Alchemy Garden Keeper
+11200000-GuildHouse01-	name	닥터	Doctor
+11200005-GuildQuest01-	name	길드 사무장	Guild Clerk
+11500001-Season1-	name	이벤트 도우미	Event Guide
+11500002-Season1-	name	이벤트 도우미	Event Guide
+11500003-Event-	name	이벤트 상인	Event Merchant
+21450004-BlackOnyx-	name	흑성회 간부 직속	Blackstar's
+21450005-BlackOnyx-	name	흑성회 간부 직속	Blackstar's
+21450006-BlackOnyx-	name	흑성회 간부 직속	Blackstar's

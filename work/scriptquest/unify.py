@@ -4,7 +4,7 @@
 #
 # 各ルールの根拠は右コメント。命名系ファイル(itemname/npcname/mapname/npctitle/titlename)を
 # 最優先、次に scriptquest 原本の多数派、という優先順位で確定している。
-import json, glob, os
+import json, glob, os, re
 
 FIX = [
     ("星明かり遠征隊", "星色遠征隊"),  # 命名系25件 vs questdesc10件
@@ -15,12 +15,37 @@ FIX = [
     ("ホムプルス", "ハンフルス"),      # 命名系9件 vs questdesc16件
     ("黒星会のドン", "黒星会の顔役"),  # 대부: questdesc原本 10002020 が同一NPCで「顔役」
     ("ドンである", "顔役である"),      # 同上
+    ("$MyPCName$様", "$MyPCName$さん"),  # 公式原本は「さん」486件・「様」0件
+]
+
+# 話者ごとの一人称。公式原本の用例に合わせる。
+# (話者名, 誤, 正) — その話者の name のみを置換する
+SPEAKER_FIX = [
+    ("메이슨", "私", "僕"),   # 公式原本メイソン: 僕117 / 私3
 ]
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.normpath(os.path.join(BASE, "..", ".."))
 targets = sorted(glob.glob(os.path.join(BASE, "sq_*.json")))   # sq_map* と sq_kri* の両方
 targets.append(os.path.join(ROOT, "json_weblate", "jp", "scriptquest.json"))
+
+# 話者別ルールを適用する KO 原文の集合を作る(sq_* のキーは KO 原文なので照合できる)
+ko_all = json.load(open(os.path.join(ROOT, "json_weblate", "ko", "scriptquest.json"), encoding="utf-8"))
+jp_orig = json.load(open(os.path.join(BASE, "scriptquest.backup.json"), encoding="utf-8"))
+PH_RE = re.compile(r"^[A-Z0-9$]+(_[A-Z0-9$]+)+")
+speaker_ko = {}      # 話者名 -> その話者の KO 原文集合(公式訳が無い行のみ)
+speaker_key = {}     # 話者名 -> その話者のキー集合(同上)
+for _k, _e in ko_all.items():
+    _npc = _e.get("npc")
+    if not _npc:
+        continue
+    _bv = jp_orig.get(_k, {}).get("name")
+    if isinstance(_bv, str) and _bv and not PH_RE.match(_bv):
+        continue     # 公式訳がある行は触らない
+    _v = _e.get("name")
+    if isinstance(_v, str):
+        speaker_ko.setdefault(_npc, set()).add(_v)
+        speaker_key.setdefault(_npc, set()).add(_k)
 
 total = 0
 for p in targets:
@@ -37,6 +62,10 @@ for p in targets:
         nv = v
         for a, b in FIX:
             nv = nv.replace(a, b)
+        for spk, wrong, right in SPEAKER_FIX:
+            hit = k in speaker_key.get(spk, ()) if isjp else k in speaker_ko.get(spk, ())
+            if hit:
+                nv = nv.replace(wrong, right)
         if nv != v:
             if isjp:
                 e["name"] = nv

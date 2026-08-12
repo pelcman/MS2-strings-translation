@@ -1,0 +1,6 @@
+81042-FameContents-NA	name	[[icon:fame_icon_greenhood]]勢力マークが表示されている地域で、該当する勢力の現場任務を遂行できる
+81042-FameContents-TH	name	[[icon:fame_icon_greenhood]]勢力マークが表示されている地域で、該当する勢力の現場任務を遂行できる
+81042-FameContents-TW	name	[[icon:fame_icon_greenhood]]勢力マークが表示されている地域で、該当する勢力の現場任務を遂行できる
+81042-FameContents-CN	name	[[icon:fame_icon_darkwind]]勢力マークが表示されている地域で、該当する勢力の現場任務を遂行できる
+81042-FameContents-KR	name	[[icon:fame_icon_darkwind]]勢力マークが表示されている地域で、該当する勢力の現場任務を遂行できる
+26300735-Event-NA	name	扉が開きました。出口にいる$item:30001477$を拾った後、[[icon:portal]]<font color="#00a2ed">ポータル</font>に移動してください。

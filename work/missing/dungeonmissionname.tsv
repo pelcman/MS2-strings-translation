@@ -1,0 +1,71 @@
+20024001-DungeonOpen70CH7-	name	(파티)5분 내에 $npc:23000085$ 처치	(Party) Defeat $npc:23000085$ within 5 minutes
+20024002-DungeonOpen70CH7-	name	(파티)10분 내에 $npc:23000085$ 처치	(Party) Defeat $npc:23000085$ within 10 minutes
+20024003-DungeonOpen70CH7-	name	비석에 깔리면 감점	Don't get tombstoned
+20024004-DungeonOpen70CH7-	name	내려찍는 검에 맞으면 감점	Don't get hit by the down strikes
+20024005-DungeonOpen70CH7-	name	소울 버스터에 맞으면 감점	Don't get hit by soul buster
+23150000-MadDoctor01-	name	(파티)$map:02000374$ 정복	
+23150001-MadDoctor01-	name	(파티)5분 내에 $map:02000374$ 정복	
+23150002-MadDoctor01-	name	(파티)10분 내에 $map:02000374$ 정복	
+23150003-MadDoctor01-	name	비석에 깔리면 감점	
+23160000-DungeonOpen70AH5-	name	(파티)$npc:23090007$ 처치	
+23160001-DungeonOpen70AH5-	name	(파티)8분 내에 $npc:23090007$ 처치	
+23160002-DungeonOpen70AH5-	name	(파티)4분 내에 $npc:23090007$ 처치	
+23160003-DungeonOpen70AH5-	name	비석에 깔리면 감점	
+23160004-DungeonOpen70AH5-	name	바닥 화염 폭발에 맞으면 감점	
+23170000-DungeonOpen70CH6-	name	(파티)$npc:23200009$ 처치	
+23170001-DungeonOpen70CH6-	name	(파티)5분 내에 $npc:23200009$ 처치	
+23170002-DungeonOpen70CH6-	name	(파티)10분 내에 $npc:23200009$ 처치	
+23170003-DungeonOpen70CH6-	name	비석에 깔리면 감점	
+23170004-DungeonOpen70CH6-	name	SP봉인 효과에 걸리면 감점	
+23170005-DungeonOpen70CH6-	name	(파티)$npc:23200008$ 처치	
+23170006-DungeonOpen70CH6-	name	(파티)5분 내에 $npc:23200008$ 처치	
+23170007-DungeonOpen70CH6-	name	(파티)10분 내에 $npc:23200008$ 처치	
+23170008-DungeonOpen70CH6-	name	비석에 깔리면 감점	
+23170009-DungeonOpen70CH6-	name	SP봉인 효과에 걸리면 감점	
+23170010-DungeonOpen70CH6-	name	쉐도우 레이저에 맞으면 감점	
+23180000-DungeonOS02-	name	(파티)$npc:23000160$ 혹은 $npc:23000161$ 처치	
+23180001-DungeonOS02-	name	(파티)5분 내에 $npc:23000160$ 혹은 $npc:23000161$ 처치	
+23180002-DungeonOS02-	name	(파티)10분 내에 $npc:23000160$ 혹은 $npc:23000161$ 처치	
+23180003-DungeonOS02-	name	비석에 깔리면 감점	
+23180004-DungeonOS02-	name	$npc:23000160$의 확성기에 맞으면 감점	
+23180005-DungeonOS02-	name	(파티)$npc:23000160$ 혹은 $npc:23000161$ 처치	
+23180006-DungeonOS02-	name	(파티)5분 내에 $npc:23000160$ 혹은 $npc:23000161$ 처치	
+23180007-DungeonOS02-	name	(파티)10분 내에 $npc:23000160$ 혹은 $npc:23000161$ 처치	
+23180008-DungeonOS02-	name	비석에 깔리면 감점	
+23180009-DungeonOS02-	name	$npc:23000160$의 확성기에 맞으면 감점	
+23180010-DungeonOS02-	name	$npc:23000160$의 빛 기둥 공격에 맞으면 감점	
+23190000-DungeonOS01-	name	(파티)$npc:23000400$ 처치	
+23190001-DungeonOS01-	name	(파티)5분 내에 $npc:23000400$ 처치	
+23190002-DungeonOS01-	name	(파티)10분 내에 $npc:23000400$ 처치	
+23190003-DungeonOS01-	name	비석에 깔리면 감점	
+23190004-DungeonOS01-	name	$npc:23000400$의 화염포에 맞으면 감점	
+23190005-DungeonOS01-	name	$npc:23000400$가 화염 충격파를 시전하면 감점	
+23190006-DungeonOS01-	name	$npc:23000430$의 공격력 버프 얻기	
+23190007-DungeonOS01-	name	(파티)$npc:23000401$ 처치	
+23190008-DungeonOS01-	name	(파티)5분 내에 $npc:23000401$ 처치	
+23190009-DungeonOS01-	name	(파티)10분 내에 $npc:23000401$ 처치	
+23190010-DungeonOS01-	name	비석에 깔리면 감점	
+23190011-DungeonOS01-	name	$npc:23000401$의 화염포에 맞으면 감점	
+23190012-DungeonOS01-	name	$npc:23000401$가 화염 충격파를 시전하면 감점	
+23190013-DungeonOS01-	name	$npc:23000431$의 공격력 버프 얻기	
+23200001-DungeonOS04-	name	(파티)$npc:44100001$ 처치	
+23200002-DungeonOS04-	name	(파티)5분 내에 $npc:44100001$ 처치	
+23200003-DungeonOS04-	name	(파티)10분 내에 $npc:44100001$ 처치	
+23200004-DungeonOS04-	name	비석에 깔리면 감점	
+23200005-DungeonOS04-	name	$npc:44100001$의 발성 연습에 맞으면 감점	
+23200006-DungeonOS04-	name	$npc:44100001$의 덩굴에 묶이면 감점	
+23200007-DungeonOS04-	name	$npc:44100001$의 스포트라이트 아래에서 다이나믹 액션 사용하기	
+23024000-Kritias_Zakum01-CN	name	(组队)击败$npc:23000072$	
+23024001-Kritias_Zakum01-CN	name	(组队)6分钟内击败$npc:23000072$	
+23024002-Kritias_Zakum01-CN	name	(组队)12分钟内击败$npc:23000072$	
+23024003-Kritias_Zakum01-CN	name	变成墓碑时减分	
+23024004-Kritias_Zakum01-CN	name	(组队)击败$npc:23000073$	
+23024005-Kritias_Zakum01-CN	name	(组队)5分钟内击败$npc:23000073$	
+23024006-Kritias_Zakum01-CN	name	(组队)10分钟内击败$npc:23000073$	
+23025000-Kritias_Inferno01-CN	name	(组队)击败$npc:23000150$	
+23025001-Kritias_Inferno01-CN	name	(组队)6分钟内击败$npc:23000150$	
+23025002-Kritias_Inferno01-CN	name	(组队)12分钟内击败$npc:23000150$	
+23025003-Kritias_Inferno01-CN	name	变成墓碑时减分	
+23025004-Kritias_Inferno01-CN	name	(组队)击败$npc:23000151$	
+23025005-Kritias_Inferno01-CN	name	(组队)5分钟内$npc:23000151$	
+23025006-Kritias_Inferno01-CN	name	(组队)10分钟内$npc:23000151$	
