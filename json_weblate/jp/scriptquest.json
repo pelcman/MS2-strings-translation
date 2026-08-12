@@ -30865,83 +30865,83 @@
   },
   "508102323003625-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0508102323003625_NAME:[F]Fame_Geo01"
+    "name": "(モラン族が分裂したという知らせを聞いて来たと言う。)"
   },
   "508102323003626-Fame_Geo01-": {
     "npc": "모랑족장 칸투랑",
-    "name": "SCRIPTQUEST_0508102323003626_NAME:[F]Fame_Geo01"
+    "name": "異邦人を皆追い出そうと主張するモランモランたちだモ。\nこいつらは、これまで守ってきた<font color=\"#ffd200\">$map:02020069$</font>の平和を壊そうとしているモ。"
   },
   "508102323003627-Fame_Geo01-": {
     "npc": "모랑족장 칸투랑",
-    "name": "SCRIPTQUEST_0508102323003627_NAME:[F]Fame_Geo01"
+    "name": "表向きは異邦人を襲って回っているが、実はあらゆる悪事を働いて回っている不良どもだモ。"
   },
   "508102323003628-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0508102323003628_NAME:[F]Fame_Geo01"
+    "name": "<font color=\"#909090\">(モランの不良だなんて、なんだかしっくりこない。だが、早く芽を摘まないと危険になりそうだ。)</font>"
   },
   "508102323003629-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0508102323003629_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020068$</font>と<font color=\"#ffd200\">$map:02020069$</font>をうろついているモランの不良たちを制圧すると言う。)"
   },
   "508102323003630-Fame_Geo01-": {
     "npc": "모랑족장 칸투랑",
-    "name": "SCRIPTQUEST_0508102323003630_NAME:[F]Fame_Geo01"
+    "name": "ありがとうだモ。これ以上ほかのモランモランが惑わされないよう、魂を叩き直してくれモ。"
   },
   "508102323003631-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0508102323003631_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020068$</font>と<font color=\"#ffd200\">$map:02020069$</font>をうろついているモランの不良たちを制圧すると言う。)"
   },
   "508102323003632-Fame_Geo01-": {
     "npc": "모랑족장 칸투랑",
-    "name": "SCRIPTQUEST_0508102323003632_NAME:[F]Fame_Geo01"
+    "name": "ありがとうだモ。 \n異邦人に懲らしめられて、自ら村へ戻ってくるモランモランが出てきているモ。"
   },
   "508102323003633-Fame_Geo01-": {
     "npc": "모랑족장 칸투랑",
-    "name": "SCRIPTQUEST_0508102323003633_NAME:[F]Fame_Geo01"
+    "name": "異邦人の魂に花が咲くことを願うモ。"
   },
   "508110823003638-Fame_Geo01-": {
     "npc": "모랑족장 칸투랑",
-    "name": "SCRIPTQUEST_0508110823003638_NAME:[F]Fame_Geo01"
+    "name": "ありがとうだモ。\n<font color=\"#ffd200\">$map:02020068$</font>へ行って、黒い気運に染まった生き物たちを安らかに眠らせてくれモ。"
   },
   "508124223003639-Fame_Geo01-": {
     "npc": "모랑족장 칸투랑",
-    "name": "SCRIPTQUEST_0508124223003639_NAME:[F]Fame_Geo01"
+    "name": "黒い気運に染まってしまった哀れな生き物たち…。\n<font color=\"#ffd200\">$map:02020069$</font>を襲おうとする、この哀れな魂たちを安らかに眠らせてくれモ。"
   },
   "508125621030466-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0508125621030466_NAME:[F]Fame_Geo01"
+    "name": "今回もご苦労さまでした、$MyPCName$。 "
   },
   "508131523003641-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0508131523003641_NAME:[F]Fame_Geo01"
+    "name": "そうか？\n<font color=\"#ffd200\">$map:02020066$</font>では<font color=\"#ffd200\">$npcName:25022801$</font>が、<font color=\"#ffd200\">$map:02020067$</font>では<font color=\"#ffd200\">$npcName:25022811$</font>が主に出没している。"
   },
   "508131623003642-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0508131623003642_NAME:[F]Fame_Geo01"
+    "name": "奴らの尻尾をつかむのは簡単ではないだろう。\nそれでも頼む、異邦人。"
   },
   "508133321030467-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0508133321030467_NAME:[F]Fame_Geo01"
+    "name": "その言葉だけでも慰めになります。\n今回もご苦労さまでした、$MyPCName$。 "
   },
   "508134121030468-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0508134121030468_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020070$</font>の闇の軍団の兵力を制圧し、道を切り開いてみると言う。)"
   },
   "508134121030469-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0508134121030469_NAME:[F]Fame_Geo01"
+    "name": "あまりに危険な任務なので、自分からは切り出せずにいたのですが…。そうしてくれますか？\n$MyPCName$、あなたなら成し遂げられると信じています。"
   },
   "508141923003643-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0508141923003643_NAME:[F]Fame_Geo01"
+    "name": "狩りどころか、命をつなぐのも難しい状況だ。"
   },
   "508141923003644-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0508141923003644_NAME:[F]Fame_Geo01"
+    "name": "(自ら出向いてケルベスの野獣たちを追い払うと言う。)"
   },
   "508142223003645-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0508142223003645_NAME:[F]Fame_Geo01"
+    "name": "頼む。 \nせめて子どもたちだけでも、何か食べられるようにしてやってくれ。"
   },
   "508142223003646-Fame_Geo01-": {
     "npc": "테사",
@@ -30949,23 +30949,23 @@
   },
   "508144421030471-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0508144421030471_NAME:[F]Fame_Geo01"
+    "name": "(特殊任務に志願すると言う。)"
   },
   "508145521030472-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0508145521030472_NAME:[F]Fame_Geo01"
+    "name": "ありがとう、$MyPCName$。\nゲオルクが手強いということを奴らに見せつけてください。"
   },
   "508160421030474-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0508160421030474_NAME:[F]Fame_Geo01"
+    "name": "<font color=\"#909090\">(なんだか乗せられた気がする…。)</font>"
   },
   "508161521030476-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0508161521030476_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020070$</font>と<font color=\"#ffd200\">$map:02020071$</font>へ行って奴らを見てみたいと言う。)"
   },
   "508161521030477-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0508161521030477_NAME:[F]Fame_Geo01"
+    "name": "もちろん、ただ見て帰ってくるだけではありませんよね？\n$MyPCName$、翼の生えた闇の軍団の一角の怪物を制圧してください。"
   },
   "510172212002488--": {
     "npc": "pc",
@@ -30977,7 +30977,7 @@
   },
   "513132821030478-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0513132821030478_NAME:[F]Fame_Geo01"
+    "name": "<font color=\"#909090\">(……。言っていることとやっていることが違うじゃないか…！)</font>"
   },
   "513171025003075-Event-JP": {
     "npc": "민트",
@@ -30993,11 +30993,11 @@
   },
   "514100621030479-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030479_NAME:[F]Fame_Geo01"
+    "name": "最近、<font color=\"#ffd200\">$map:02020066$</font>の監視用ドローンの数が目に見えて減ったという情報を入手しました。"
   },
   "514100621030480-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030480_NAME:[F]Fame_Geo01"
+    "name": "<font color=\"#ffd200\">$map:02020066$</font>でケルベスの攻撃を感知するために飛ばしているドローンのことです。"
   },
   "514100621030481-Fame_Geo01-": {
     "npc": "PC",
@@ -31005,39 +31005,39 @@
   },
   "514100621030482-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030482_NAME:[F]Fame_Geo01"
+    "name": "ドローンの数が減れば<font color=\"#ffd200\">$map:02020066$</font>の防御に苦労するはずなのに…。\nなぜ稼働台数を減らしたのか心配です。"
   },
   "514100621030483-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030483_NAME:[F]Fame_Geo01"
+    "name": "(自ら<font color=\"#ffd200\">$map:02020066$</font>へ行って<font color=\"#ffd200\">$npc:11004574[gender:1]$</font>に会い、調べてみると言う。)"
   },
   "514100621030484-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030484_NAME:[F]Fame_Geo01"
+    "name": "そうしてくれますか？$MyPCName$。 \n状況を把握したうえで、必要な支援をお願いします。"
   },
   "514100621030486-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030486_NAME:[F]Fame_Geo01"
+    "name": "(自ら<font color=\"#ffd200\">$map:02020066$</font>へ行って<font color=\"#ffd200\">$npc:11004574[gender:1]$</font>に会い、調べてみると言う。)"
   },
   "514100621030487-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030487_NAME:[F]Fame_Geo01"
+    "name": "おかえりなさい、$MyPCName$。\nドローンの数がなぜ減ったのかは分かりましたか？"
   },
   "514100621030488-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030488_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020066$</font>であった出来事を話す。)"
   },
   "514100621030489-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030489_NAME:[F]Fame_Geo01"
+    "name": "<font color=\"#ffd200\">セクト</font>の部品を活用するなんて、本当に素晴らしいアイデアですね！\nあなたでなければ思いつかなかったでしょう。"
   },
   "514100621030490-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030490_NAME:[F]Fame_Geo01"
+    "name": "今回もお疲れさまでした、$MyPCName$。 "
   },
   "514100621030494-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030494_NAME:[F]Fame_Geo01"
+    "name": "おかえりなさい、$MyPCName$。\n<font color=\"#ffd200\">$map:02020066$</font>へ行っていただけますか？"
   },
   "514100621030495-Fame_Geo01-": {
     "npc": "PC",
@@ -31045,95 +31045,95 @@
   },
   "514100621030496-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030496_NAME:[F]Fame_Geo01"
+    "name": "特に何かが起きたわけではないのですが…。\n荒れ果てた危険な場所にとどまっている難民たちが気になって。"
   },
   "514100621030497-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030497_NAME:[F]Fame_Geo01"
+    "name": "<font color=\"#909090\">(<font color=\"#ffd200\">$npcName:11004614[gender:1]$</font>は難民たちのことをずいぶん気にかけているんだな…。)</font>"
   },
   "514100621030498-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030498_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020066$</font>へ行って<font color=\"#ffd200\">$npc:11004574[gender:1]$</font>に会い、困り事は何でも解決すると言う。)"
   },
   "514100621030499-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030499_NAME:[F]Fame_Geo01"
+    "name": "ありがとう、$MyPCName$。\n今回も素晴らしい成果を期待しています。"
   },
   "514100621030500-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030500_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020066$</font>へ行って<font color=\"#ffd200\">$npc:11004574[gender:1]$</font>に会い、困り事は何でも解決すると言う。)"
   },
   "514100621030501-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030501_NAME:[F]Fame_Geo01"
+    "name": "おかえりなさい、$MyPCName$。\n今回は難民たちにどんな手助けをしてきたんですか？"
   },
   "514100621030502-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030502_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020066$</font>であった出来事を話す。)"
   },
   "514100621030503-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030503_NAME:[F]Fame_Geo01"
+    "name": "<font color=\"#ffd200\">$npcName:25022204$</font>の魔法の杖から<font color=\"#ffd200\">$item:30001354$</font>を抜き取るなんて…本当に素晴らしいアイデアですね！"
   },
   "514100621030504-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030504_NAME:[F]Fame_Geo01"
+    "name": "ここまで来ると、そのうち「難民たちの救世主」と呼ばれるようになるかもしれませんね。\n今回もご苦労さまでした、$MyPCName$。"
   },
   "514100621030507-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030507_NAME:[F]Fame_Geo01"
+    "name": "(顔が心配事でいっぱいに見えると言う。)"
   },
   "514100621030508-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030508_NAME:[F]Fame_Geo01"
+    "name": "<font color=\"#ffd200\">$map:02020067$</font>付近でケルベスの活動が目に見えて増加したという情報が入ってきました。"
   },
   "514100621030509-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030509_NAME:[F]Fame_Geo01"
+    "name": "難民たちがよく狩りをする場所なのに…。\n生計のために、ケルベスに拉致される危険まで冒して、です。"
   },
   "514100621030510-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030510_NAME:[F]Fame_Geo01"
+    "name": "(自ら<font color=\"#ffd200\">$map:02020066$</font>へ行って<font color=\"#ffd200\">$npc:11004574[gender:1]$</font>に会い、状況を把握してみると言う。)"
   },
   "514100621030511-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030511_NAME:[F]Fame_Geo01"
+    "name": "そうしてくれますか？\nありがとう、$MyPCName$。"
   },
   "514100621030512-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030512_NAME:[F]Fame_Geo01"
+    "name": "状況が切迫しているかもしれませんから、すぐに動いてください。"
   },
   "514100621030513-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030513_NAME:[F]Fame_Geo01"
+    "name": "(自ら<font color=\"#ffd200\">$map:02020066$</font>へ行って<font color=\"#ffd200\">$npc:11004574[gender:1]$</font>に会い、状況を把握してみると言う。)"
   },
   "514100621030514-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030514_NAME:[F]Fame_Geo01"
+    "name": "やっと来ましたね、$MyPCName$。"
   },
   "514100621030515-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030515_NAME:[F]Fame_Geo01"
+    "name": "(ケルベスの拉致シーズンが巡ってきて、多くの難民が拉致されたと言う。)"
   },
   "514100621030516-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030516_NAME:[F]Fame_Geo01"
+    "name": "そんな…！\n<font color=\"#ffd200\">$map:02020066$</font>は無事なのですか？"
   },
   "514100621030517-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030517_NAME:[F]Fame_Geo01"
+    "name": "(難民たちを拉致したケルベスの兵力を撃退したので、当分これ以上の犠牲は出ないだろうと言う。)"
   },
   "514100621030518-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030518_NAME:[F]Fame_Geo01"
+    "name": "よかったです。\n二度とこんなことが起きないよう、一緒に努力しましょう、$MyPCName$。"
   },
   "514100621030519-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030519_NAME:[F]Fame_Geo01"
+    "name": "(共にやると言う。)"
   },
   "514100621030520-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030520_NAME:[F]Fame_Geo01"
+    "name": "あんな怪物のような奴らがいるなんて…。\n絶対に放ってはおけません…！"
   },
   "514100621030521-Fame_Geo01-": {
     "npc": "PC",
@@ -31141,195 +31141,195 @@
   },
   "514100621030522-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030522_NAME:[F]Fame_Geo01"
+    "name": "捜索を終えて戻ってきた<font color=\"#ffd200\">$npc:11004393[gender:0]$</font>から、遊び半分で難民たちを苦しめているケルベスたちがいると聞きました。"
   },
   "514100621030523-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030523_NAME:[F]Fame_Geo01"
+    "name": "<font color=\"#909090\">(悪い奴らめ…絶対にただでは済まさない。)</font>"
   },
   "514100621030524-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030524_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020066$</font>へ行って<font color=\"#ffd200\">$npc:11004574[gender:1]$</font>に会った後、奴らを懲らしめると言う。)"
   },
   "514100621030525-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030525_NAME:[F]Fame_Geo01"
+    "name": "お願いします、$MyPCName$。\n緊急の状況ですから、すぐに出発してください。"
   },
   "514100621030526-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030526_NAME:[F]Fame_Geo01"
+    "name": "今すぐ<font color=\"#ffd200\">$map:02020066$</font>へ行って<font color=\"#ffd200\">$npc:11004574[gender:1]$</font>に会ってください！"
   },
   "514100621030527-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030527_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020067$</font>の<font color=\"#ffd200\">$npcName:25022306$</font>たちが遊び半分で難民たちに刃物を投げつけていたと言う。)"
   },
   "514100621030528-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030528_NAME:[F]Fame_Geo01"
+    "name": "獣のような奴らです…！\nもちろん、ただでは済ませませんでしたよね？"
   },
   "514100621030529-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030529_NAME:[F]Fame_Geo01"
+    "name": "(一匹残らず制圧したと言う。)"
   },
   "514100621030530-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030530_NAME:[F]Fame_Geo01"
+    "name": "……。\nいつになれば、この世界は正常に戻れるのでしょうか。"
   },
   "514100621030531-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030531_NAME:[F]Fame_Geo01"
+    "name": "(その時まで一緒に力を貸すと言う。)"
   },
   "514100621030532-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030532_NAME:[F]Fame_Geo01"
+    "name": "頼もしいですね、$MyPCName$。\n私も最善を尽くします。"
   },
   "514100621030533-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030533_NAME:[F]Fame_Geo01"
+    "name": "いつも心に引っかかっていることがあります。\n喉に刺さった小さな魚の骨のように。"
   },
   "514100621030534-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030534_NAME:[F]Fame_Geo01"
+    "name": "(何かと尋ねる。)"
   },
   "514100621030535-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030535_NAME:[F]Fame_Geo01"
+    "name": "闇の軍団がモラン族の「神秘的な力」を奪おうとしていることです。"
   },
   "514100621030536-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030536_NAME:[F]Fame_Geo01"
+    "name": "<font color=\"#ffd200\">$map:02020069$</font>の警備を強化できればいいのですが…。\nモラン族はゲオルクの駐留を許していませんし…。"
   },
   "514100621030537-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030537_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020069$</font>へ行って<font color=\"#ffd200\">$npc:11004620[gender:0]$</font>に会い、解決策を探してみると言う。)"
   },
   "514100621030538-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030538_NAME:[F]Fame_Geo01"
+    "name": "いつも助けてもらってばかりですね。\nありがとう、$MyPCName$。"
   },
   "514100621030539-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030539_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020069$</font>へ行って<font color=\"#ffd200\">$npc:11004620[gender:0]$</font>に会い、解決策を探してみると言う。)"
   },
   "514100621030540-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030540_NAME:[F]Fame_Geo01"
+    "name": "おかえりなさい、$MyPCName$。\n<font color=\"#ffd200\">$map:02020069$</font>の警備を強化する方法は見つかりましたか？"
   },
   "514100621030541-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514100621030541_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020069$</font>と<font color=\"#ffd200\">$map:02020067$</font>で起きた出来事を<font color=\"#ffd200\">$npcName:11004614[gender:1]$</font>に話す。)"
   },
   "514100621030542-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030542_NAME:[F]Fame_Geo01"
+    "name": "<font color=\"#ffd200\">$item:30001355$</font>をモラン族のこん棒に打ち込む…。"
   },
   "514100621030543-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030543_NAME:[F]Fame_Geo01"
+    "name": "そうですね！鋭い毒針は、偶然出くわした闇の軍団の奴らを鋭く斬り裂いていましたね。\n確かにモラン族の戦闘力を上げるのに大いに役立ちそうです！"
   },
   "514100621030545-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0514100621030545_NAME:[F]Fame_Geo01"
+    "name": "今回も見事に任務を完遂しましたね。\nお疲れさまでした、$MyPCName$。"
   },
   "514101223003648-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514101223003648_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020066$</font>の監視用ドローンの数がなぜ減ったのかと尋ねる。)"
   },
   "514101223003649-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0514101223003649_NAME:[F]Fame_Geo01"
+    "name": "部品…部品のせいだ、ほかに理由があるものか。\nケルベスの攻撃で壊れるドローンが1つや2つじゃない。"
   },
   "514101223003650-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0514101223003650_NAME:[F]Fame_Geo01"
+    "name": "科学者上がりの難民たちがどうにか直しているが、もう部品がほとんど尽きた…。"
   },
   "514101223003651-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0514101223003651_NAME:[F]Fame_Geo01"
+    "name": "タイレン王国へ行って部品を買ってくるわけにもいかないしな…\nドローンの数がこんなに少なければ、ケルベスの奴らがじきに<font color=\"#ffd200\">$map:02020066$</font>へ押し寄せてくる。"
   },
   "514101223003652-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514101223003652_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020066$</font>付近を飛び回っている<font color=\"#ffd200\">$npcName:25022206$</font>の<font color=\"#ffd200\">$item:30001353$</font>を活用してはどうかと言う。)"
   },
   "514101223003653-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0514101223003653_NAME:[F]Fame_Geo01"
+    "name": "あのロボットの虫どものことか？ \n正確な正体は分からんが、かつてタイレン王国で作られたものであることは間違いない。"
   },
   "514101223003654-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514101223003654_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020066$</font>付近を飛び回っている<font color=\"#ffd200\">$npcName:25022206$</font>の<font color=\"#ffd200\">$item:30001353$</font>を活用してはどうかと言う。)"
   },
   "514101223003655-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514101223003655_NAME:[F]Fame_Geo01"
+    "name": "<font color=\"#ffd200\">$npcName:25022206$</font>の<font color=\"#ffd200\">$item:30001353$</font>を持ってきたと言う。"
   },
   "514101223003656-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0514101223003656_NAME:[F]Fame_Geo01"
+    "name": "ドローンと互換性のある部品がかなりあるな！\nふぅ…これで本当に一息つけた。"
   },
   "514101223003657-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0514101223003657_NAME:[F]Fame_Geo01"
+    "name": "ありがとう、異邦人。"
   },
   "514101223003661-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514101223003661_NAME:[F]Fame_Geo01"
+    "name": "(手伝えることはないかと尋ねる。)"
   },
   "514101223003662-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0514101223003662_NAME:[F]Fame_Geo01"
+    "name": "手伝うことならいつでも山ほどある。\nここは<font color=\"#ffd200\">$map:02020030$</font>のように豊かな場所ではないからな。"
   },
   "514101223003663-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0514101223003663_NAME:[F]Fame_Geo01"
+    "name": "<font color=\"#ffd200\">$map:02020066$</font>にはエネル融合機がたった1台しかないから、いつもエネルが足りない。\nそれも小型だ。"
   },
   "514101223003664-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0514101223003664_NAME:[F]Fame_Geo01"
+    "name": "エネルは次第に底をつきかけているが、これといった手立てがない。"
   },
   "514101223003665-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0514101223003665_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020066$</font>の近くに駐留している<font color=\"#ffd200\">$npcName:25022204$</font>の魔法の杖から<font color=\"#ffd200\">$item:30001354$</font>を抜いてきてはどうかと提案する。)"
   },
   "514101223003666-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0514101223003666_NAME:[F]Fame_Geo01"
+    "name": "実にいい考えだ！\nなぜ今までこれを思いつかなかったんだ？\n今すぐ動いてくれないか？"
   },
   "514101223003667-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514101223003667_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020066$</font>の近くに駐留している<font color=\"#ffd200\">$npcName:25022204$</font>の魔法の杖から<font color=\"#ffd200\">$item:30001354$</font>を抜いてきてはどうかと提案する。)"
   },
   "514101223003668-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514101223003668_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$npcName:25022204$</font>の魔法の杖から<font color=\"#ffd200\">$item:30001354$</font>を抜いてきたと言う。)"
   },
   "514101223003669-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0514101223003669_NAME:[F]Fame_Geo01"
+    "name": "純度が非常に高い結晶だな！\nタイレンの奴ら、たかが魔法の杖にもこんな質のいいエネルを使うとは…。"
   },
   "514101223003670-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0514101223003670_NAME:[F]Fame_Geo01"
+    "name": "これだけあれば、当分エネルの心配はしなくてよさそうだ。\nありがとう、ゲオルクの異邦人。"
   },
   "514101223003674-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514101223003674_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020067$</font>付近でケルベスの活動が目に見えて増加したという知らせを聞いて来たと言う。)"
   },
   "514101223003675-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0514101223003675_NAME:[F]Fame_Geo01"
+    "name": "さすが、ゲオルクの情報力は正確だな。\nケルベスの奴らの拉致シーズンがまた巡ってきた。"
   },
   "514101223003676-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0514101223003676_NAME:[F]Fame_Geo01"
+    "name": "拉致した者たちが弱って使い物にならなくなると、また大規模な拉致が始まるんだ。"
   },
   "514101223003677-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0514101223003677_NAME:[F]Fame_Geo01"
+    "name": "くそっ、今日も<font color=\"#ffd200\">$map:02020067$</font>へ狩りに出た難民3人が戻ってこなかった。\n……。"
   },
   "514101223003678-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514101223003678_NAME:[F]Fame_Geo01"
+    "name": "(今すぐ<font color=\"#ffd200\">$map:02020067$</font>へ行って、難民たちを拉致したケルベスを撃退すると言う。)"
   },
   "514101223003679-Fame_Geo01-": {
     "npc": "테사",
@@ -31337,7 +31337,7 @@
   },
   "514101223003680-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0514101223003680_NAME:[F]Fame_Geo01"
+    "name": "(今すぐ<font color=\"#ffd200\">$map:02020067$</font>へ行って、難民たちを拉致したケルベスを撃退すると言う。)"
   },
   "514101223003681-Fame_Geo01-": {
     "npc": "PC",
@@ -31521,7 +31521,7 @@
   },
   "516085921030563-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0516085921030563_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020069$</font>へ行って<font color=\"#ffd200\">$npc:11004620[gender:0]$</font>に会い、解決策を探してみると言う。)"
   },
   "516085921030564-Fame_Geo01-": {
     "npc": "마를레네",
@@ -31529,7 +31529,7 @@
   },
   "516085921030566-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0516085921030566_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020069$</font>へ行って<font color=\"#ffd200\">$npc:11004620[gender:0]$</font>に会い、解決策を探してみると言う。)"
   },
   "516085921030567-Fame_Geo01-": {
     "npc": "마를레네",
@@ -37053,7 +37053,7 @@
   },
   "520101021030739-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0520101021030739_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020069$</font>へ行って<font color=\"#ffd200\">$npc:11004620[gender:0]$</font>に会い、解決策を探してみると言う。)"
   },
   "520101021030740-Fame_Geo01-": {
     "npc": "마를레네",
@@ -37061,7 +37061,7 @@
   },
   "520101021030741-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0520101021030741_NAME:[F]Fame_Geo01"
+    "name": "(<font color=\"#ffd200\">$map:02020069$</font>へ行って<font color=\"#ffd200\">$npc:11004620[gender:0]$</font>に会い、解決策を探してみると言う。)"
   },
   "520101021030742-Fame_Geo01-": {
     "npc": "마를레네",
@@ -37133,7 +37133,7 @@
   },
   "520101523003786-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0520101523003786_NAME:[F]Fame_Geo01"
+    "name": "ありがとう、異邦人。"
   },
   "520101523003787-Fame_Geo01-": {
     "npc": "PC",
@@ -37145,7 +37145,7 @@
   },
   "520101523003789-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0520101523003789_NAME:[F]Fame_Geo01"
+    "name": "(手伝えることはないかと尋ねる。)"
   },
   "520101523003790-Fame_Geo01-": {
     "npc": "테사",
@@ -37229,7 +37229,7 @@
   },
   "520101523003813-Fame_Geo01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0520101523003813_NAME:[F]Fame_Geo01"
+    "name": "(手伝えることはないかと尋ねる。)"
   },
   "520101523003814-Fame_Geo01-": {
     "npc": "모랑족장 칸투랑",
@@ -40113,7 +40113,7 @@
   },
   "528110723003854-Fame_Geo01-": {
     "npc": "테사",
-    "name": "SCRIPTQUEST_0528110723003854_NAME:[F]Fame_Geo01"
+    "name": "ありがとう、異邦人。"
   },
   "528110723003856-Fame_Geo01-": {
     "npc": "테사",
@@ -41285,7 +41285,7 @@
   },
   "530104221030910-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0530104221030910_NAME:[F]Fame_Geo01"
+    "name": "おかえりなさい、$MyPCName$。\n<font color=\"#ffd200\">$map:02020069$</font>の警備を強化する方法は見つかりましたか？"
   },
   "530104221030911-Fame_Geo01-": {
     "npc": "PC",
@@ -43653,7 +43653,7 @@
   },
   "531171821031059-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0531171821031059_NAME:[F]Fame_Geo01"
+    "name": "今回もご苦労さまでした、$MyPCName$。 "
   },
   "531171821031063-Fame_Geo01-": {
     "npc": "마를레네",
@@ -43929,7 +43929,7 @@
   },
   "531172421031150-Fame_Geo01-": {
     "npc": "마를레네",
-    "name": "SCRIPTQUEST_0531172421031150_NAME:[F]Fame_Geo01"
+    "name": "今回もご苦労さまでした、$MyPCName$。 "
   },
   "531172421031154-Fame_Geo01-": {
     "npc": "마를레네",
