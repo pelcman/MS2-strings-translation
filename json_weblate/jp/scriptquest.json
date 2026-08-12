@@ -4137,15 +4137,15 @@
   },
   "107032902004845--": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107032902004845_NAME"
+    "name": "$npcName:11000735[gender:1]$とラメストーンの知らせを伝える。"
   },
   "107032902004846--": {
     "npc": "에레브",
-    "name": "SCRIPTQUEST_0107032902004846_NAME"
+    "name": "え？$npcName:11000735[gender:1]$が…。 \nああ…<font color=\"#ffd200\">ラメストーン</font>がないせいで影の毒がより速く広がっているからでしょう。\nまだ完全ではありませんが、$npcName:11000735[gender:1]$を支えているのは光の力…。 \n今、その力が次第に消えつつあるのです。"
   },
   "107032902004847--": {
     "npc": "에레브",
-    "name": "SCRIPTQUEST_0107032902004847_NAME"
+    "name": "<font color=\"#ffd200\">ラメストーン</font>を取り戻すまで$npcName:11000735[gender:1]$が残された光の力を保てるようにするには、\nすぐに$npcName:11000735[gender:1]$を<font color=\"#ffd200\">$map:52010007$</font>へ連れて行かねばならないようですね。\n一時しのぎではありますが…今のところ、あそこほど光の力が強く残っている場所は\nありませんから。"
   },
   "107032902004848--": {
     "npc": "에레브",
@@ -4153,55 +4153,55 @@
   },
   "107032902004849--": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107032902004849_NAME"
+    "name": "$npc:11000075[gender:1]$の言葉を伝える。"
   },
   "107032902004850--": {
     "npc": "스타츠",
-    "name": "SCRIPTQUEST_0107032902004850_NAME"
+    "name": "<font color=\"#ffd200\">$map:52010007$</font>？\nうーん…そうか…いつか聞いたことがある。あそこが…開くとは…。 "
   },
   "107032902004851--": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107032902004851_NAME"
+    "name": "$map:02010055$とは何かと尋ねる。"
   },
   "107032902004852--": {
     "npc": "에레브",
-    "name": "SCRIPTQUEST_0107032902004852_NAME"
+    "name": "古代ルミエラゴンの長老たちが光の和合のために集った光の聖域です。\n<font color=\"#ffd200\">$map:02010055$</font>もまた<font color=\"#ffd200\">$map:52010007$</font>と同じく、ルミエラゴンが消えると共に深い闇の\n奈落へ埋もれてしまったと言われています。"
   },
   "107032902004853--": {
     "npc": "에레브",
-    "name": "SCRIPTQUEST_0107032902004853_NAME"
+    "name": "かつてルミエラゴンがドラケンハイムへ発つ前に遺した言葉があります。 \n<font color=\"#ffd200\">光と光は互いに通じ合い、より明るい光が世の闇を照らすだろう…</font>\nここナズカル神殿全体を包む濃い闇の中で、<font color=\"#ffd200\">$map:02010055$</font>と<font color=\"#ffd200\">ラメストーン</font>、\n<font color=\"#ffd200\">$map:52010007$</font>はそれぞれ離れている時には闇を貫くほど輝きませんでしたが…。 \n互いが互いに出会い、より大きな光となって、また別の光を見つけ出しているのです。"
   },
   "107032902004854--": {
     "npc": "에레브",
-    "name": "SCRIPTQUEST_0107032902004854_NAME"
+    "name": "<font color=\"#ffd200\">ラメストーン</font>はきっとナズカル神殿のどこかにある<font color=\"#ffd200\">$map:02010055$</font>の中にあるはずです。\n不安なのは…今、神殿を照らしているこの光の力がとても不安定だということです。\n混沌と混乱の光…それは、ある強大な存在がここに残る光の力を脅かして\nいることを意味します。"
   },
   "107032902004855--": {
     "npc": "에레브",
-    "name": "SCRIPTQUEST_0107032902004855_NAME"
+    "name": "今、ルミエラゴンはもちろん$npcName:11000735[gender:1]$にとっても、私たちにとっても<font color=\"#ffd200\">ラメストーン</font>を取り戻すことが最も\n急を要します。 \n竜の騎士たちは<font color=\"#ffd200\">ラメストーン</font>がある<font color=\"#ffd200\">$map:02010055$</font>の位置を突き止めるため、ナズカル神殿の\n地図を探しに向かいました。$MyPCName$様も力を貸してください。"
   },
   "107032902004856--": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107032902004856_NAME"
+    "name": "ナズカル神殿の地図はどこで探せばいいのかと尋ねる。"
   },
   "107032902004857--": {
     "npc": "에레브",
-    "name": "SCRIPTQUEST_0107032902004857_NAME"
+    "name": "深い闇と共に、今ナズカル神殿を占領しているモンスターたち…。 \n彼らの誰かがこの地図を持っている可能性が最も高いです。"
   },
   "107032902004858--": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107032902004858_NAME"
+    "name": "$item:30000513$を渡す。"
   },
   "107032902004859--": {
     "npc": "에레브",
-    "name": "SCRIPTQUEST_0107032902004859_NAME"
+    "name": "ああ…これは…破れてしまっていますね…。 \nこれで<font color=\"#ffd200\">$map:02010055$</font>を見つけ出せるかどうか…。 "
   },
   "107032902004860--": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107032902004860_NAME"
+    "name": "周辺で$npcName:11001216[gender:0]$と$npcName:11001217[gender:0]$、$npcName:11001218[gender:1]$を見なかったかと尋ねる。"
   },
   "107032902004861--": {
     "npc": "무어",
-    "name": "SCRIPTQUEST_0107032902004861_NAME"
+    "name": "あ…見ただミ！！\n稲妻みたいに、この前に見える扉の中へ入って行くのを見ただミユ！お化けかと思っただミ！"
   },
   "107032902004862--": {
     "npc": "pc",
@@ -4209,27 +4209,27 @@
   },
   "107032902004863--": {
     "npc": "무어",
-    "name": "SCRIPTQUEST_0107032902004863_NAME"
+    "name": "じゃあ…友達を助けてやらなきゃだミ…。 \n怖いからって見捨てて逃げちゃだめだユ…。 "
   },
   "107032902004864--": {
     "npc": "에레브",
-    "name": "SCRIPTQUEST_0107032902004864_NAME"
+    "name": "そして…光の運命が$npcName:11000735[gender:1]$を導いているのなら…。 \n古代ルミエラゴンがそうであったように、あの子も<font color=\"#ffd200\">$map:52010007$</font>で真の<font color=\"#ffd200\">光の末裔</font>として \n生まれ変われますように…。 "
   },
   "107032902004865--": {
     "npc": "에레브",
-    "name": "SCRIPTQUEST_0107032902004865_NAME"
+    "name": "$npcName:11000735[gender:1]$が一日も早く気力を取り戻し、光の力を取り戻す日を待ちましょう。\nルミエラゴンの光があの子を守ってくれますように…！"
   },
   "107032902004866--": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107032902004866_NAME"
+    "name": "どんな悪夢を見るのかと尋ねる。"
   },
   "107032902004867--": {
     "npc": "아모로",
-    "name": "SCRIPTQUEST_0107032902004867_NAME"
+    "name": "あの…ナズカル神殿がバラバラバラッ…ガラガラ…と崩れ落ちて、その跡にものすごく大きな\n黒い渦が巻き起こるんだそうです…。 \nその中には大きな黒いドラゴンが翼を大きく広げているって…。 "
   },
   "107032902004868--": {
     "npc": "아모로",
-    "name": "SCRIPTQUEST_0107032902004868_NAME"
+    "name": "ナズカル神殿は、ものすごくものすごく昔、黄金のドラゴンたちの聖なる神殿だったのに…。\n本当におじいちゃんの夢の通り、そんな恐ろしいことが起きたりしませんよね？\n違う…でも本当にあの神殿の奥深くで黒い竜が目を覚ましていたらどうしましょう？"
   },
   "107032902004870--": {
     "npc": "아모로",
@@ -4237,23 +4237,23 @@
   },
   "107032902004871--": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107032902004871_NAME"
+    "name": "$npcName:11001215[gender:1]$の話を聞かせる。"
   },
   "107032902004872--": {
     "npc": "무어",
-    "name": "SCRIPTQUEST_0107032902004872_NAME"
+    "name": "うわあっ…その夢は…半分は当たっている気もするし…違う気もするし…。 \nよく分からないだミユ…。 "
   },
   "107032902004873--": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107032902004873_NAME"
+    "name": "闇のカルゴンがラメストーンを狙っていると教える。"
   },
   "107032902004874--": {
     "npc": "무어",
-    "name": "SCRIPTQUEST_0107032902004874_NAME"
+    "name": "<font color=\"#ffd200\">ラメストーン</font>？光の石…聞いたことがある気がするだミユ！ \nカルゴンとかいう奴らがそれを狙ってるだミユ？うわあああ…。 \n緊急の情報だミユ！！仲間が僕を探しに来たら、すぐ知らせなきゃだミユ！"
   },
   "107032902004875--": {
     "npc": "무어",
-    "name": "SCRIPTQUEST_0107032902004875_NAME"
+    "name": "モロパパ族も知らなきゃだミユ！ \n$npcName:11001215[gender:1]$にも僕たちの偵察隊員が伝えてくれるだミユ…！"
   },
   "107040911002340-Balrogitem3rd-": {
     "npc": "베르챠",
@@ -5537,59 +5537,59 @@
   },
   "107110822004167-EpicApocalypse02-": {
     "npc": "바론",
-    "name": "SCRIPTQUEST_0107110822004167_NAME:[F]EpicApocalypse02"
+    "name": "お、来たか？"
   },
   "107110822004168-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004168_NAME:[F]EpicApocalypse02"
+    "name": "亀裂の力がさらに強まったとはどういうことですか？"
   },
   "107110822004169-EpicApocalypse02-": {
     "npc": "바론",
-    "name": "SCRIPTQUEST_0107110822004169_NAME:[F]EpicApocalypse02"
+    "name": "それは…くっ、亀裂め。\n話す隙も与えてくれんな。"
   },
   "107110822004170-EpicApocalypse02-": {
     "npc": "바론",
-    "name": "SCRIPTQUEST_0107110822004170_NAME:[F]EpicApocalypse02"
+    "name": "隣にいる$npcName:11004783[gender:1]$から話を聞いたほうがよさそうだな。"
   },
   "107110822004171-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004171_NAME:[F]EpicApocalypse02"
+    "name": "これは一体…。"
   },
   "107110822004172-EpicApocalypse02-": {
     "npc": "루아나",
-    "name": "SCRIPTQUEST_0107110822004172_NAME:[F]EpicApocalypse02"
+    "name": "$MyPCName$。 \n$npcName:11004793$からちらっと聞いてご存じでしょうが…。\n<font color=\"#ffd200\">亀裂の力</font>がさらに強まりました。"
   },
   "107110822004173-EpicApocalypse02-": {
     "npc": "루아나",
-    "name": "SCRIPTQUEST_0107110822004173_NAME:[F]EpicApocalypse02"
+    "name": "そして…亀裂の中から以前とは<font color=\"#ffd200\">違う力</font>が感じられます。\nどうやら、何か異変が起きたようです。"
   },
   "107110822004174-EpicApocalypse02-": {
     "npc": "루아나",
-    "name": "SCRIPTQUEST_0107110822004174_NAME:[F]EpicApocalypse02"
+    "name": "何か異変が起きたようです。"
   },
   "107110822004175-EpicApocalypse02-": {
     "npc": "루아나",
-    "name": "SCRIPTQUEST_0107110822004175_NAME:[F]EpicApocalypse02"
+    "name": "最近、突然亀裂が不安定に揺れたかと思うと、\n規模がわずかに大きくなることがありました。"
   },
   "107110822004176-EpicApocalypse02-": {
     "npc": "루아나",
-    "name": "SCRIPTQUEST_0107110822004176_NAME:[F]EpicApocalypse02"
+    "name": "その後、<font color=\"#ffd200\">奇妙な笑い声</font>が聞こえたり…。\n<font color=\"#ffd200\">正体不明の玉</font>が飛び出してきたりもしたんです。"
   },
   "107110822004177-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004177_NAME:[F]EpicApocalypse02"
+    "name": "正体不明の…玉ですか？"
   },
   "107110822004178-EpicApocalypse02-": {
     "npc": "루아나",
-    "name": "SCRIPTQUEST_0107110822004178_NAME:[F]EpicApocalypse02"
+    "name": "ああ、はい。\n危なそうな見た目の玉でした。\n$npcName:11004793$と悩んでいるうちに…フロンティア財団の<font color=\"#ffd200\">「あの方」</font>へ送ってしまいましたが。\nそこまで気を配る余裕がなくて。"
   },
   "107110822004179-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004179_NAME:[F]EpicApocalypse02"
+    "name": "あの方？\n…それは誰ですか？"
   },
   "107110822004180-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004180_NAME:[F]EpicApocalypse02"
+    "name": "誰って決まってるでしょ！\n<font size='40'>まさにこの$npcName:11004828[gender:0]$様よ！</font>"
   },
   "107110822004181-EpicApocalypse02-": {
     "npc": "PC",
@@ -5597,71 +5597,71 @@
   },
   "107110822004182-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004182_NAME:[F]EpicApocalypse02"
+    "name": "ふーん～何をそんなに驚いてるの？\n悪いことでもしたの？"
   },
   "107110822004183-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004183_NAME:[F]EpicApocalypse02"
+    "name": "一体いつからそこにいたんだ！"
   },
   "107110822004184-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004184_NAME:[F]EpicApocalypse02"
+    "name": "それより、今はそんな場合じゃないの。\nこの$npcName:11004828[gender:0]$様が、あの玉について分析してきたって話よ。"
   },
   "107110822004185-EpicApocalypse02-": {
     "npc": "루아나",
-    "name": "SCRIPTQUEST_0107110822004185_NAME:[F]EpicApocalypse02"
+    "name": "！！！\nすごいです。\nどんな物だったのですか？"
   },
   "107110822004186-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004186_NAME:[F]EpicApocalypse02"
+    "name": "研究所へ持って行っていろいろ研究してみたけど…。\nやっぱり私たちの世界にあった物質じゃなかった。\nかろうじて<font color=\"#ffd200\">「プリズムストーン」</font>に似た物質でできていることが分かったわ。"
   },
   "107110822004187-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004187_NAME:[F]EpicApocalypse02"
+    "name": "でも驚くのはここからよ。 \nその玉を研究員がうっかり割ってしまったんだけど、\n本当に腰を抜かすかと思ったわ。"
   },
   "107110822004188-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004188_NAME:[F]EpicApocalypse02"
+    "name": "<font size='40'><font color=\"#ffd200\">新しい装備</font>が入ってるなんて誰が思う？！</font>"
   },
   "107110822004189-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004189_NAME:[F]EpicApocalypse02"
+    "name": "新しい装備が入ってるなんて誰が思う？！"
   },
   "107110822004190-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004190_NAME:[F]EpicApocalypse02"
+    "name": "新しい…装備？"
   },
   "107110822004191-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004191_NAME:[F]EpicApocalypse02"
+    "name": "そうよ。\nこんな物を外にばらまいているところを見ると、 \n中にいる何かが私たちを<font color=\"#ffd200\">誘い込もう</font>としているのは間違いないわ。"
   },
   "107110822004192-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004192_NAME:[F]EpicApocalypse02"
+    "name": "どうやら、内部を確認してみる必要がありそうね。\n何が起きているのか、ね。"
   },
   "107110822004193-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004193_NAME:[F]EpicApocalypse02"
+    "name": "その程度は朝飯前だけど…。\n見てくるだけでいいのか？"
   },
   "107110822004194-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004194_NAME:[F]EpicApocalypse02"
+    "name": "さすが、私たちの$MyPCName$！ \n本当に勇敢よね？"
   },
   "107110822004195-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004195_NAME:[F]EpicApocalypse02"
+    "name": "ん？ここは…。"
   },
   "107110822004196-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004196_NAME:[F]EpicApocalypse02"
+    "name": "確かに以前とは変わっている。\n新しい空間ができたのか？"
   },
   "107110822004197-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004197_NAME:[F]EpicApocalypse02"
+    "name": "妙な気分がするような気もするし…。"
   },
   "107110822004198-EpicApocalypse02-": {
     "npc": "???",
-    "name": "SCRIPTQUEST_0107110822004198_NAME:[F]EpicApocalypse02"
+    "name": "ウヘヘヘ…。"
   },
   "107110822004199-EpicApocalypse02-": {
     "npc": "PC",
@@ -5669,183 +5669,183 @@
   },
   "107110822004200-EpicApocalypse02-": {
     "npc": "???",
-    "name": "SCRIPTQUEST_0107110822004200_NAME:[F]EpicApocalypse02"
+    "name": "ウヘヘヘ…。"
   },
   "107110822004201-EpicApocalypse02-": {
     "npc": "???",
-    "name": "SCRIPTQUEST_0107110822004201_NAME:[F]EpicApocalypse02"
+    "name": "ウヒヒッ…。"
   },
   "107110822004202-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004202_NAME:[F]EpicApocalypse02"
+    "name": "！！！\n何者だ！！！"
   },
   "107110822004203-EpicApocalypse02-": {
     "npc": "블랙빈",
-    "name": "SCRIPTQUEST_0107110822004203_NAME:[F]EpicApocalypse02"
+    "name": "ボクだよ、ボク～$npcName:11004831$！\nキミ、すっごく面白い顔してるね！"
   },
   "107110822004204-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004204_NAME:[F]EpicApocalypse02"
+    "name": "ブラック…何だって？"
   },
   "107110822004205-EpicApocalypse02-": {
     "npc": "블랙빈",
-    "name": "SCRIPTQUEST_0107110822004205_NAME:[F]EpicApocalypse02"
+    "name": "うんうん。$npcName:11004831$！\n初めて見る人間だね？亀裂の外にいる白いクマと女の人は見たけど…ヒヒッ。\nおかしい、おかしい！！！"
   },
   "107110822004206-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004206_NAME:[F]EpicApocalypse02"
+    "name": "…お前が$npcName:11004831$なのかブルービーンなのかは知らないが、\n亀裂の中をかき回すのはやめろ。"
   },
   "107110822004207-EpicApocalypse02-": {
     "npc": "블랙빈",
-    "name": "SCRIPTQUEST_0107110822004207_NAME:[F]EpicApocalypse02"
+    "name": "キキキッ。やっぱり面白そうだ。\nキミ！ボクと遊んでくれたら<font color=\"#ffd200\">いい物</font>をあげるよ。"
   },
   "107110822004208-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004208_NAME:[F]EpicApocalypse02"
+    "name": "？！\n変なことを言うな！\n亀裂を不安定にするなと言って…。"
   },
   "107110822004209-EpicApocalypse02-": {
     "npc": "블랙빈",
-    "name": "SCRIPTQUEST_0107110822004209_NAME:[F]EpicApocalypse02"
+    "name": "ボクはちゃんと言ったからね！！！\n<font size='40'>ばいばーい～！！！</font>"
   },
   "107110822004210-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004210_NAME:[F]EpicApocalypse02"
+    "name": "…何なんだ。\n言いたいことだけ言って行ってしまうのか？"
   },
   "107110822004211-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004211_NAME:[F]EpicApocalypse02"
+    "name": "まあ…とりあえず。\n$npcName:11004816[gender:0]$のところへ行ってみたほうがよさそうだ。"
   },
   "107110822004212-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004212_NAME:[F]EpicApocalypse02"
+    "name": "ん？思ったより早く戻ってきたわね？\n何かあ…。"
   },
   "107110822004213-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004213_NAME:[F]EpicApocalypse02"
+    "name": "あるにはあったみたいね？"
   },
   "107110822004214-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004214_NAME:[F]EpicApocalypse02"
+    "name": "変な黒い塊に会ってきた。\n名前は…$npcName:11004831$というらしい。"
   },
   "107110822004215-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004215_NAME:[F]EpicApocalypse02"
+    "name": "$npcName:11004831$…？なかなか可愛い名前じゃない？"
   },
   "107110822004216-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004216_NAME:[F]EpicApocalypse02"
+    "name": "それで、その黒豆に何を言われたの？"
   },
   "107110822004217-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004217_NAME:[F]EpicApocalypse02"
+    "name": "自分と遊んでくれたら<font color=\"#ffd200\">いい物</font>をやると言い残して消えてしまった。\n変な笑い声と一緒にな。"
   },
   "107110822004218-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004218_NAME:[F]EpicApocalypse02"
+    "name": "いい物？いい物をくれると言ったの？！"
   },
   "107110822004219-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004219_NAME:[F]EpicApocalypse02"
+    "name": "ほお……。"
   },
   "107110822004220-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004220_NAME:[F]EpicApocalypse02"
+    "name": "よし。\n決めたわ。"
   },
   "107110822004221-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004221_NAME:[F]EpicApocalypse02"
+    "name": "こういう時は、言われた通りにしてあげるのが人情ってものよ。\n$MyPCName$！あなた。"
   },
   "107110822004222-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004222_NAME:[F]EpicApocalypse02"
+    "name": "はぁ…お前までどうしたんだ？"
   },
   "107110822004223-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004223_NAME:[F]EpicApocalypse02"
+    "name": "言われた通りにしてあげるのが人情ってものよ。\n$MyPCName$！あなた。\n<font size='40'>定期的にその$npcName:11004831$とかいう子と遊んであげなさい。</font>"
   },
   "107110822004224-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004224_NAME:[F]EpicApocalypse02"
+    "name": "このおバカ！全部あなたのためよ！\nいい物といえば決まってるじゃない？"
   },
   "107110822004225-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004225_NAME:[F]EpicApocalypse02"
+    "name": "<font size='40'>もっと強くなれる物。</font>"
   },
   "107110822004226-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004226_NAME:[F]EpicApocalypse02"
+    "name": "新しい装備を外にばらまいている奴よ。\nきっともっといい物を持っているに決まってるわ。"
   },
   "107110822004227-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004227_NAME:[F]EpicApocalypse02"
+    "name": "フフフ…！\n新しい研究材料になるわ。"
   },
   "107110822004228-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004228_NAME:[F]EpicApocalypse02"
+    "name": "<font color=\"#909090\">もっと…強くなれる、か。</font>"
   },
   "107110822004229-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004229_NAME:[F]EpicApocalypse02"
+    "name": "<font color=\"#909090\">…</font>\n<font color=\"#909090\">$npcName:11004820$女王様を、$map:02000001$を守るには力が必要だ。</font>"
   },
   "107110822004230-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004230_NAME:[F]EpicApocalypse02"
+    "name": "<font color=\"#909090\">それなら…。</font>"
   },
   "107110822004231-EpicApocalypse02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107110822004231_NAME:[F]EpicApocalypse02"
+    "name": "よし。\n黒豆の奴と付き合ってみるとしよう。"
   },
   "107110822004232-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004232_NAME:[F]EpicApocalypse02"
+    "name": "やっぱりそう言うと思ったわ。\nふふっ。"
   },
   "107110822004233-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107110822004233_NAME:[F]EpicApocalypse02"
+    "name": "何か手に入れたら、私にこっそり教えてね。\nそれじゃ私は研究所に戻るわ。\n近いうちにまた会いましょう！"
   },
   "107110822004234-EpicApocalypse02-": {
     "npc": "다크로드",
-    "name": "SCRIPTQUEST_0107110822004234_NAME:[F]EpicApocalypse02"
+    "name": "$npcName:11001812[gender:0]$。\nなぜあの若造に全ての真実を話したのだ？"
   },
   "107110822004235-EpicApocalypse02-": {
     "npc": "다크로드",
-    "name": "SCRIPTQUEST_0107110822004235_NAME:[F]EpicApocalypse02"
+    "name": "$npcName:11001812[gender:0]$。\nなぜあの若造に全ての真実を話したのだ？"
   },
   "107110822004236-EpicApocalypse02-": {
     "npc": "다크로드",
-    "name": "SCRIPTQUEST_0107110822004236_NAME:[F]EpicApocalypse02"
+    "name": "$npcName:11001812[gender:0]$。\nなぜあの若造に全ての真実を話したのだ？"
   },
   "107110822004237-EpicApocalypse02-": {
     "npc": "킬리안",
-    "name": "SCRIPTQUEST_0107110822004237_NAME:[F]EpicApocalypse02"
+    "name": "フフフ…。\nこれら全ては、あの方が予言されたこと。"
   },
   "107110822004238-EpicApocalypse02-": {
     "npc": "킬리안",
-    "name": "SCRIPTQUEST_0107110822004238_NAME:[F]EpicApocalypse02"
+    "name": "女王の封印…全てはあの方の御心。\n計画が完成するためには、あの若造の甘さが最後の材料となるだろう。"
   },
   "107110822004239-EpicApocalypse02-": {
     "npc": "킬리안",
-    "name": "SCRIPTQUEST_0107110822004239_NAME:[F]EpicApocalypse02"
+    "name": "女王が倒れることで抱く不安。\nその不安の種が芽吹くのも、そう遠くはない。"
   },
   "107110822004240-EpicApocalypse02-": {
     "npc": "킬리안",
-    "name": "SCRIPTQUEST_0107110822004240_NAME:[F]EpicApocalypse02"
+    "name": "<font color=\"#ffd200\">闇の物質</font>を<font color=\"#ffd200\">まき散らす仕事</font>はどうなっている？"
   },
   "107110822004241-EpicApocalypse02-": {
     "npc": "다크로드",
-    "name": "SCRIPTQUEST_0107110822004241_NAME:[F]EpicApocalypse02"
+    "name": "…間もなくメイプルワールド全域はお前の領域となるだろう。\n$npcName:11001812[gender:0]$。"
   },
   "107110822004242-EpicApocalypse02-": {
     "npc": "킬리안",
-    "name": "SCRIPTQUEST_0107110822004242_NAME:[F]EpicApocalypse02"
+    "name": "耳寄りな知らせだな。"
   },
   "107110822004243-EpicApocalypse02-": {
     "npc": "킬리안",
-    "name": "SCRIPTQUEST_0107110822004243_NAME:[F]EpicApocalypse02"
+    "name": "準備をしておけ。\nじきに時が来るのだから。"
   },
   "107110822004244-EpicApocalypse02-": {
     "npc": "킬리안",
-    "name": "SCRIPTQUEST_0107110822004244_NAME:[F]EpicApocalypse02"
+    "name": "これから…事は実に面白くなりそうだ。"
   },
   "107111521028662-Kritias_2018_12-": {
     "npc": "콘대르",
