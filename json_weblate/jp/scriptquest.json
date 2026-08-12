@@ -5849,19 +5849,19 @@
   },
   "107111521028662-Kritias_2018_12-": {
     "npc": "콘대르",
-    "name": "SCRIPTQUEST_0107111521028662_NAME:[F]Kritias_2018_12"
+    "name": "わしの若い頃はな、そういう時は根性で乗り切ったものだ！最近の隊員ときたら…。"
   },
   "107111521028663-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107111521028663_NAME:[F]Kritias_2018_12"
+    "name": "ふぅ…。あのような非理性的なやり方で隊員を扱うわけにはいきません。\n隊員たちのためにウイルス源を除去してください。"
   },
   "107111521028664-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107111521028664_NAME:[F]Kritias_2018_12"
+    "name": "(とりあえず目に見えるものは全て除去したと言う。)"
   },
   "107111521028665-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0107111521028665_NAME:[F]Kritias_2018_12"
+    "name": "ありがとうございます、$MyPCName$。\nお礼に私の力を分けて差し上げましょう。"
   },
   "107112821028666-Kritias_2018_12-": {
     "npc": "PC",
@@ -5869,135 +5869,135 @@
   },
   "107112821028667-Kritias_2018_12-": {
     "npc": "네이린",
-    "name": "SCRIPTQUEST_0107112821028667_NAME:[F]Kritias_2018_12"
+    "name": "探査は続けなければならないのに、はかどらなくて心配です。"
   },
   "107112821028668-Kritias_2018_12-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107112821028668_NAME:[F]Kritias_2018_12"
+    "name": "(手伝うと言う。)"
   },
   "107133121028669-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107133121028669_NAME:[F]Kritias_2018_12"
+    "name": "はたして<font color=\"#ffd200\">$npcName:11004430[gender:0]$</font>がどうやってここのモンスターを自らの支配下に置いているのかは分からんが、重要なのはそこではないだろう。"
   },
   "107133121028670-Kritias_2018_12-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107133121028670_NAME:[F]Kritias_2018_12"
+    "name": "(重要なのは何かと尋ねる。)"
   },
   "107133121028671-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107133121028671_NAME:[F]Kritias_2018_12"
+    "name": "それはつまり、すでに黒く染まったモンスターと、 \n黒化の兆しが見えるモンスターを速やかに除去せねばならないということだ。"
   },
   "107133121028672-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107133121028672_NAME:[F]Kritias_2018_12"
+    "name": "任務だ、$MyPCName$。\n速やかに<font color=\"#ffd200\">$map:02020029$</font>の<font color=\"#ffd200\">$npcName:25020001$</font>、<font color=\"#ffd200\">$map:02020031$</font>の<font color=\"#ffd200\">$npcName:25020106$</font>、<font color=\"#ffd200\">$map:02020030$</font>の<font color=\"#ffd200\">$npcName:25020205$</font>を除去するように。"
   },
   "107134421028673-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107134421028673_NAME:[F]Kritias_2018_12"
+    "name": "(全て片付けたと言う。)"
   },
   "107134421028674-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107134421028674_NAME:[F]Kritias_2018_12"
+    "name": "何よりだ。だが奴らはいつ現れるか分からん、気を緩めないように。"
   },
   "107134421028675-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107134421028675_NAME:[F]Kritias_2018_12"
+    "name": "だからといって手をこまねいてはいられまい。 \n$MyPCName$、貴官なら奴らの数を目に見えて減らせそうだが、どうだ？"
   },
   "107134421028676-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107134421028676_NAME:[F]Kritias_2018_12"
+    "name": "(問題ないと言う。)"
   },
   "107134421028677-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107134421028677_NAME:[F]Kritias_2018_12"
+    "name": "頼もしいな。\nでは<font color=\"#ffd200\">$map:02020029$</font>の<font color=\"#ffd200\">$npcName:25020002$</font>、<font color=\"#ffd200\">$map:02020031$</font>の<font color=\"#ffd200\">$npcName:25020206$</font>の始末を頼む。"
   },
   "107134421028678-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107134421028678_NAME:[F]Kritias_2018_12"
+    "name": "次の任務もよろしく頼む、諸君。\nやはり頼もしいな。"
   },
   "107141222004245-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107141222004245_NAME:[F]EpicApocalypse02"
+    "name": "それじゃ行ってらっしゃい！\n遠くへは行かないでいるわ～"
   },
   "107141422004246-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107141422004246_NAME:[F]EpicApocalypse02"
+    "name": "準備ができたら、この先へ入っていってね。"
   },
   "107142422004247-EpicApocalypse02-": {
     "npc": "라네모네",
-    "name": "SCRIPTQUEST_0107142422004247_NAME:[F]EpicApocalypse02"
+    "name": "<font size='40'>これからは、定期的にその$npcName:11004831$とかいう子と遊んであげなさい。</font>"
   },
   "107145422004248-EpicApocalypse02-": {
     "npc": "킬리안",
-    "name": "SCRIPTQUEST_0107145422004248_NAME:[F]EpicApocalypse02"
+    "name": "来たか。\n我が古き友よ。"
   },
   "107145422004249-EpicApocalypse02-": {
     "npc": "킬리안",
-    "name": "SCRIPTQUEST_0107145422004249_NAME:[F]EpicApocalypse02"
+    "name": "間もなくこの地にある全ての者は、女王を恐れるようになるだろう…。"
   },
   "107151122004250-EpicApocalypse02-": {
     "npc": "다크로드",
-    "name": "SCRIPTQUEST_0107151122004250_NAME:[F]EpicApocalypse02"
+    "name": "…それがあの方の…そしてお前の意志であるなら、喜んで従おう。"
   },
   "107151122004251-EpicApocalypse02-": {
     "npc": "다크로드",
-    "name": "SCRIPTQUEST_0107151122004251_NAME:[F]EpicApocalypse02"
+    "name": "ただ、その道が私の納得できる道であってほしいものだな。"
   },
   "107151122004252-EpicApocalypse02-": {
     "npc": "킬리안",
-    "name": "SCRIPTQUEST_0107151122004252_NAME:[F]EpicApocalypse02"
+    "name": "それは案ずるに及ばない。"
   },
   "107153121028679-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107153121028679_NAME:[F]Kritias_2018_12"
+    "name": "こちらからも支援を送りたいのだが、 \nほとんどの人員が探査作業に割り当てられていて、すぐに送れる隊員の数が足りない状況だ。"
   },
   "107153121028680-Kritias_2018_12-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107153121028680_NAME:[F]Kritias_2018_12"
+    "name": "(手伝うと言う。)"
   },
   "107153121028681-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107153121028681_NAME:[F]Kritias_2018_12"
+    "name": "そうしてくれるか？\n$MyPCName$隊員ならゲオルクでも歓迎されるだろう。"
   },
   "107153121028682-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107153121028682_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020006$</font>の<font color=\"#ffd200\">$npcName:25020306$</font>、<font color=\"#ffd200\">$map:02020004$</font>の<font color=\"#ffd200\">$npcName:25020406[gender:0]$</font>、<font color=\"#ffd200\">$map:02020001$</font>の<font color=\"#ffd200\">$npcName:25020506$</font>を片付けてゲオルクを助けるように。"
   },
   "107153121028683-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107153121028683_NAME:[F]Kritias_2018_12"
+    "name": "貴官の活躍でゲオルクと我らの同盟、その両方を守ることができた。\nご苦労だった。"
   },
   "107153121028684-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107153121028684_NAME:[F]Kritias_2018_12"
+    "name": "同盟の窮地を黙って見ているわけにはいくまい。 \n支援を要請してもよいか？"
   },
   "107153121028685-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107153121028685_NAME:[F]Kritias_2018_12"
+    "name": "(もちろんだと言う。)"
   },
   "107153121028686-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107153121028686_NAME:[F]Kritias_2018_12"
+    "name": "隊員ならそう言うと思っていた。\nでは<font color=\"#ffd200\">$map:02020004$</font>の<font color=\"#ffd200\">$npcName:25020403$</font>、<font color=\"#ffd200\">$map:02020001$</font>の<font color=\"#ffd200\">$npcName:25020507$</font>の退治を頼む。"
   },
   "107153121028687-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107153121028687_NAME:[F]Kritias_2018_12"
+    "name": "ご苦労だった、$MyPCName$。\n次回もよろしく頼む。"
   },
   "107153121028688-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107153121028688_NAME:[F]Kritias_2018_12"
+    "name": "うーむ…それは"
   },
   "107153121028689-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107153121028689_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#909090\">(何があってこんなに悩んでいるのだろう？)</font>"
   },
   "107153121028690-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107153121028690_NAME:[F]Kritias_2018_12"
+    "name": "ここへ来て見てみると、モンスターの戦闘方式がとても独特だった。\n特に剣を多様に扱う方式は非常に興味深いと思う。\nこれらの戦闘データを確保できれば、私にも他の隊員にも良い手本になりそうだ。"
   },
   "107153121028691-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107153121028691_NAME:[F]Kritias_2018_12"
+    "name": "そこでなのだが、$MyPCName$隊員が彼らと直接戦い、自らデータを確保できるか？\n君の実力なら任せられそうなのでな。"
   },
   "107153121028692-Kritias_2018_12-": {
     "npc": "pc",
@@ -6005,171 +6005,171 @@
   },
   "107153121028693-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107153121028693_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020010$</font>の<font color=\"#ffd200\">$npcName:25020602$</font>、<font color=\"#ffd200\">$map:02020034$</font>の<font color=\"#ffd200\">$npcName:25020802$</font>、<font color=\"#ffd200\">$map:02020016$</font>の<font color=\"#ffd200\">$npcName:25021004[gender:0]$</font>。\nこれらのモンスターの戦闘パターンの確認を頼む。"
   },
   "107153121028694-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107153121028694_NAME:[F]Kritias_2018_12"
+    "name": "(体で覚えた戦闘パターンを見せる。)"
   },
   "107153121028695-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107153121028695_NAME:[F]Kritias_2018_12"
+    "name": "…データの確保には少し時間がかかりそうだな。\nそれでも…感謝する。"
   },
   "107160121028696-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107160121028696_NAME:[F]Kritias_2018_12"
+    "name": "君が彼らの戦闘データを確保してきてくれるか？\n探査隊員に任せるにはあまりに危険でな。"
   },
   "107160121028697-Kritias_2018_12-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107160121028697_NAME:[F]Kritias_2018_12"
+    "name": "(任せてくれと言う。)"
   },
   "107160121028698-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107160121028698_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020010$</font>の<font color=\"#ffd200\">$npcName:25020604$</font>、<font color=\"#ffd200\">$map:02020016$</font>の<font color=\"#ffd200\">$npcName:25021005[gender:0]$</font>。\nこれらのモンスターの戦闘パターンの確認を頼む。"
   },
   "107160121028699-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107160121028699_NAME:[F]Kritias_2018_12"
+    "name": "ただ、一部の動作はさらにデータの確保が必要なようだ。\n次回もよろしく頼む。"
   },
   "107160121028700-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107160121028700_NAME:[F]Kritias_2018_12"
+    "name": "(問題が起きたのかと尋ねる。)"
   },
   "107160121028701-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107160121028701_NAME:[F]Kritias_2018_12"
+    "name": "ああ、$MyPCName$。 \n貴官も知っての通り、<font color=\"#ffd200\">$map:02020051$</font>、<font color=\"#ffd200\">$map:02020017$</font>、<font color=\"#ffd200\">$map:02020003$</font>のこの3か所は、クリティアス地域の調査で特に難航している場所だ。"
   },
   "107160121028702-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107160121028702_NAME:[F]Kritias_2018_12"
+    "name": "この地域は様々な理念を持つ集団が過激に衝突している地域で、本来ならベテラン要員を送るべきだったのだが…。"
   },
   "107160121028703-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107160121028703_NAME:[F]Kritias_2018_12"
+    "name": "指示の混線で新人要員が調査に出ることになってしまった。\nまだ不慣れな彼らが大けがを負わないか心配だ。"
   },
   "107160121028704-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107160121028704_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020051$</font>の<font color=\"#ffd200\">$npcName:25021106$</font>、<font color=\"#ffd200\">$map:02020017$</font>の<font color=\"#ffd200\">$npcName:25021202$</font>、<font color=\"#ffd200\">$map:02020003$</font>の<font color=\"#ffd200\">$npcName:25021502$</font>を退治して、新人隊員の保護を頼む。"
   },
   "107160121028705-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107160121028705_NAME:[F]Kritias_2018_12"
+    "name": "今後こんなことがあってはならんが…また起こりうるので備えはしておかねばな。\nその時もよろしく頼む、$MyPCName$。"
   },
   "107160121028706-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107160121028706_NAME:[F]Kritias_2018_12"
+    "name": "他のモンスターに比べて強力な装甲で武装した奴らのせいで、隊員の調査作業が遅れ、負傷者も増えている。\n退治してくれるか？"
   },
   "107160121028707-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107160121028707_NAME:[F]Kritias_2018_12"
+    "name": "(もちろん可能だと言う。)"
   },
   "107161521028708-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107161521028708_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020017$</font>の<font color=\"#ffd200\">$npcName:25021205$</font>、<font color=\"#ffd200\">$map:02020014$</font>の<font color=\"#ffd200\">$npcName:25021406[gender:0]$</font>。\nこの2つの始末を頼む。"
   },
   "107161521028709-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107161521028709_NAME:[F]Kritias_2018_12"
+    "name": "体に気をつけろ、$MyPCName$"
   },
   "107161521028710-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107161521028710_NAME:[F]Kritias_2018_12"
+    "name": "(体は無事で、退治に成功したと言う。)"
   },
   "107161521028711-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107161521028711_NAME:[F]Kritias_2018_12"
+    "name": "おかげで隊員たちが速やかに調査を進められそうだ。\n感謝する。"
   },
   "107161521028712-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107161521028712_NAME:[F]Kritias_2018_12"
+    "name": "タイレン王国の兵士たちもこの点をよく心得ていて、 \nこの3つの地域の兵士は我らの隊員に対してひどく攻撃的だという。 "
   },
   "107161521028713-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107161521028713_NAME:[F]Kritias_2018_12"
+    "name": "彼らが我らを妨げるなら、我らも我らの力を見せねばなるまい。\n計画を妨げる連中を片付けてくれるか？"
   },
   "107161521028714-Kritias_2018_12-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107161521028714_NAME:[F]Kritias_2018_12"
+    "name": "(当然だと言う。)"
   },
   "107161521028715-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107161521028715_NAME:[F]Kritias_2018_12"
+    "name": "頼もしいな。\n<font color=\"#ffd200\">$map:02020018$</font>の<font color=\"#ffd200\">$npcName:25021703$</font>、<font color=\"#ffd200\">$map:02020037$</font>の<font color=\"#ffd200\">$npcName:25022105$</font>、<font color=\"#ffd200\">$map:02020035$</font>の<font color=\"#ffd200\">$npcName:25021905$</font>。\nこの3つの始末を頼む。"
   },
   "107161521028716-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107161521028716_NAME:[F]Kritias_2018_12"
+    "name": "クリティアスの深層部へ向かう日も、そう遠くはないな。"
   },
   "107162121028717-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107162121028717_NAME:[F]Kritias_2018_12"
+    "name": "この2つの地域の兵士の監視は侮れないそうだ。\nだが我らも退くわけにはいかん。"
   },
   "107162121028718-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107162121028718_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020018$</font>の<font color=\"#ffd200\">$npcName:25021702$</font>、<font color=\"#ffd200\">$map:02020037$</font>の<font color=\"#ffd200\">$npcName:25022102$</font>を片付けて、探査隊員の活動を助けるように。"
   },
   "107162121028719-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107162121028719_NAME:[F]Kritias_2018_12"
+    "name": "クリティアスの深層部へ踏み込む日まで、よろしく頼む。\n$MyPCName$。"
   },
   "107164521028720-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107164521028720_NAME:[F]Kritias_2018_12"
+    "name": "偵察隊員によれば、<font color=\"#ffd200\">$map:02020031$</font>に<font color=\"#ffd200\">$item:61000154$</font>というモンスターがいるそうだ。\n研究を進められるよう確保してきてくれるか？"
   },
   "107164521028721-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107164521028721_NAME:[F]Kritias_2018_12"
+    "name": "(すぐに行くと言う。)"
   },
   "107164521028722-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107164521028722_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020031$</font>の<font color=\"#ffd200\">$item:61000154$</font>、確保を頼む。"
   },
   "107164521028723-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107164521028723_NAME:[F]Kritias_2018_12"
+    "name": "(<font color=\"#ffd200\">$map:02020031$</font>の<font color=\"#ffd200\">$item:61000154$</font>だと言う。)"
   },
   "107164521028724-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107164521028724_NAME:[F]Kritias_2018_12"
+    "name": "…そうか。"
   },
   "107164521028725-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107164521028725_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#909090\">(どこか落胆しているようだ。)</font>"
   },
   "107164521028726-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107164521028726_NAME:[F]Kritias_2018_12"
+    "name": "ご苦労だった、研究員には私から渡しておこう。\n研究が終われば元いた場所へ帰す。"
   },
   "107164521028727-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107164521028727_NAME:[F]Kritias_2018_12"
+    "name": "前回の研究で得たデータをもとに仮説を一つ立てたようだが、それを確かめるには新しいモンスターが必要だそうだ。"
   },
   "107164521028728-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107164521028728_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020006$</font>に<font color=\"#ffd200\">$item:61000155$</font>というモンスターがいるそうだ、その確保を頼む。"
   },
   "107164521028729-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107164521028729_NAME:[F]Kritias_2018_12"
+    "name": "感謝する、$MyPCName$。\n研究が終われば探査隊員が責任を持って元いた場所へ帰す。"
   },
   "107165421028730-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107165421028730_NAME:[F]Kritias_2018_12"
+    "name": "こことメイプルワールドの類似性を確かめる機会だ。\nその確保を頼んでもよいか？"
   },
   "107165421028731-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107165421028731_NAME:[F]Kritias_2018_12"
+    "name": "(もちろんだと言う。)"
   },
   "107165421028732-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107165421028732_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020001$</font>へ移動して<font color=\"#ffd200\">$item:61000159$</font>を持ってくるように。"
   },
   "107165421028733-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107165421028733_NAME:[F]Kritias_2018_12"
+    "name": "(確保した<font color=\"#ffd200\">$item:61000159$</font>を見せる。)"
   },
   "107165421028734-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107165421028734_NAME:[F]Kritias_2018_12"
+    "name": "四足歩行ではないのか…。"
   },
   "107165421028735-Kritias_2018_12-": {
     "npc": "PC",
@@ -6177,87 +6177,87 @@
   },
   "107165421028736-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107165421028736_NAME:[F]Kritias_2018_12"
+    "name": "何でもない。\nどうやら探査隊員が何か勘違いしたようだな。"
   },
   "107165421028737-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107165421028737_NAME:[F]Kritias_2018_12"
+    "name": "確保したモンスターは研究員が調べた後、元いた場所へ帰す。\n次の任務まで休むように、以上。"
   },
   "107170221028738-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107170221028738_NAME:[F]Kritias_2018_12"
+    "name": "まだどんな仮説かは分からんが、研究員たちの研究のためなら支援せねばなるまい。\n$MyPCName$、可能か？"
   },
   "107170221028739-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107170221028739_NAME:[F]Kritias_2018_12"
+    "name": "(難しくないと言う。)"
   },
   "107170221028740-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107170221028740_NAME:[F]Kritias_2018_12"
+    "name": "感謝する。 \n<font color=\"#ffd200\">$map:02020034$</font>の<font color=\"#ffd200\">$item:61000161$</font>の確保を頼む。"
   },
   "107170221028741-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107170221028741_NAME:[F]Kritias_2018_12"
+    "name": "(間違いなく持ってきたと言う。)"
   },
   "107170221028742-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107170221028742_NAME:[F]Kritias_2018_12"
+    "name": "研究員たちが駆けてくる音がもう聞こえるな。\n仮説の立証に成功したら貴官にも共有しよう。"
   },
   "107171321028743-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107171321028743_NAME:[F]Kritias_2018_12"
+    "name": "しかも奴らは他の生物モンスターと違い、体内からエネルギーを引き出さず、首に下げたエネル鉱石を通じて力を得ているという。"
   },
   "107171321028744-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107171321028744_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$item:30001303$</font>を確保し、その力を使う方法を突き止められれば、我らの戦力は大きく増すはずだ。"
   },
   "107171321028745-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107171321028745_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020013$</font>の<font color=\"#ffd200\">$npcName:25020901$</font>、<font color=\"#ffd200\">$npcName:25020902$</font>が持っている<font color=\"#ffd200\">$item:30001303$</font>を持ってくるように。"
   },
   "107171321028746-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107171321028746_NAME:[F]Kritias_2018_12"
+    "name": "(頼まれた品を持ってきたと言う。)"
   },
   "107171321028747-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107171321028747_NAME:[F]Kritias_2018_12"
+    "name": "分析に成功して、これ以上隊員が傷つくことがなければよいのだが。\nご苦労だった、$MyPCName$。"
   },
   "107173421028748-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107173421028748_NAME:[F]Kritias_2018_12"
+    "name": "(大したことではないと言う。)"
   },
   "107173421028749-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107173421028749_NAME:[F]Kritias_2018_12"
+    "name": "ふむ…それでいて今回は少し変わった生命体が必要だと言っていたな…。\nその生命体は<font color=\"#ffd200\">$map:02020051$</font>の<font color=\"#ffd200\">$item:61000164$</font>だそうだ。"
   },
   "107173421028750-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107173421028750_NAME:[F]Kritias_2018_12"
+    "name": "どうやら研究員たちの熱意は大したもののようで、できる限り支援してやりたいのだが、頼んでもよいか？\n<font color=\"#ffd200\">$map:02020051$</font>の<font color=\"#ffd200\">$item:61000164$</font>を確保してきてくれ。"
   },
   "107173421028751-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107173421028751_NAME:[F]Kritias_2018_12"
+    "name": "研究員たちに渡しておこう。\n感謝する、$MyPCName$。"
   },
   "107173421028752-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107173421028752_NAME:[F]Kritias_2018_12"
+    "name": "今回は研究員たちが<font color=\"#ffd200\">$map:02020033$</font>の<font color=\"#ffd200\">$item:61000165$</font>の確保を頼んできた。\n他の個体に比べて特に大人しい群れがあるので、それを詳しく分析したいそうだ。"
   },
   "107173421028753-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0107173421028753_NAME:[F]Kritias_2018_12"
+    "name": "(今すぐ行くと言う。)"
   },
   "107173421028754-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107173421028754_NAME:[F]Kritias_2018_12"
+    "name": "そうしてくれるか？\n<font color=\"#ffd200\">$map:02020033$</font>の<font color=\"#ffd200\">$item:61000165$</font>を連れて戻ってこい。"
   },
   "107173421028755-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107173421028755_NAME:[F]Kritias_2018_12"
+    "name": "連れてきた<font color=\"#ffd200\">$item:61000165$</font>は研究員たちに渡しておこう。\n次の任務遂行が必要な時に招集する、以上。"
   },
   "107200521028756-Kritias_2018_12-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107200521028756_NAME:[F]Kritias_2018_12"
+    "name": "(様々なモンスターを捕獲することだと言う。)"
   },
   "107200521028757-Kritias_2018_12-": {
     "npc": "pc",
@@ -6265,11 +6265,11 @@
   },
   "107200521028758-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_0107200521028758_NAME:[F]Kritias_2018_12"
+    "name": "その通りだ。 \n様々なモンスターを確保してデータを得てこそ、研究の完成度が上がる。"
   },
   "107200521028759-Kritias_2018_12-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107200521028759_NAME:[F]Kritias_2018_12"
+    "name": "(必要なモンスターがいるのかと尋ねる。)"
   },
   "107200521028760-Kritias_2018_12-": {
     "npc": "블리체",
@@ -6301,7 +6301,7 @@
   },
   "107202221028767-Kritias_2018_12-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0107202221028767_NAME:[F]Kritias_2018_12"
+    "name": "(難しくないと言う。)"
   },
   "107202221028768-Kritias_2018_12-": {
     "npc": "블리체",
@@ -7337,7 +7337,7 @@
   },
   "108125321028913-Kritias_2018_12-": {
     "npc": "pc",
-    "name": "SCRIPTQUEST_0108125321028913_NAME:[F]Kritias_2018_12"
+    "name": "(任せてくれと言う。)"
   },
   "108125321028914-Kritias_2018_12-": {
     "npc": "메이슨",
@@ -10269,7 +10269,7 @@
   },
   "115221521029127-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0115221521029127_NAME:[F]Kritias_2018_12"
+    "name": "(任せてくれと言う。)"
   },
   "115221521029128-Kritias_2018_12-": {
     "npc": "메이슨",
@@ -10593,7 +10593,7 @@
   },
   "116113321029227-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_0116113321029227_NAME:[F]Kritias_2018_12"
+    "name": "ありがとうございます、$MyPCName$。\nお礼に私の力を分けて差し上げましょう。"
   },
   "116130421029228-Kritias_2018_12-": {
     "npc": "PC",
@@ -10825,7 +10825,7 @@
   },
   "116160121029256-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0116160121029256_NAME:[F]Kritias_2018_12"
+    "name": "(任せてくれと言う。)"
   },
   "116160121029257-Kritias_2018_12-": {
     "npc": "블리체",
@@ -14049,7 +14049,7 @@
   },
   "124162319010882-Kritias_Inferno01-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0124162319010882_NAME:[F]Kritias_Inferno01"
+    "name": "(もちろんだと言う。)"
   },
   "124162319010883-Kritias_Inferno01-": {
     "npc": "블리체",
@@ -15645,7 +15645,7 @@
   },
   "129160221029587-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0129160221029587_NAME:[F]Kritias_2018_12"
+    "name": "(もちろんだと言う。)"
   },
   "129160221029588-Kritias_2018_12-": {
     "npc": "블리체",
@@ -29093,7 +29093,7 @@
   },
   "424151722003600-Kritias_Epic02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0424151722003600_NAME:[F]Kritias_Epic02"
+    "name": "(問題ないと言う。)"
   },
   "424151722003601-Kritias_Epic02-": {
     "npc": "마를레네",
@@ -51677,7 +51677,7 @@
   },
   "624202522003750-Kritias_Epic02-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_0624202522003750_NAME:[F]Kritias_Epic02"
+    "name": "(任せてくれと言う。)"
   },
   "624202522003752-Kritias_Epic02-": {
     "npc": "테사",
@@ -117369,7 +117369,7 @@
   },
   "1129204021021849--": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_1129204021021849_NAME"
+    "name": "ありがとうございます、$MyPCName$。\nお礼に私の力を分けて差し上げましょう。"
   },
   "1129204021021850--": {
     "npc": "메이슨",
@@ -128813,7 +128813,7 @@
   },
   "1217195521026353-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_1217195521026353_NAME:[F]Kritias_2018_12"
+    "name": "(もちろんだと言う。)"
   },
   "1217195521026354-Kritias_2018_12-": {
     "npc": "블리체",
@@ -129121,7 +129121,7 @@
   },
   "1217195521026443-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_1217195521026443_NAME:[F]Kritias_2018_12"
+    "name": "(任せてくれと言う。)"
   },
   "1217195521026444-Kritias_2018_12-": {
     "npc": "블리체",
@@ -129753,7 +129753,7 @@
   },
   "1217195521026615-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_1217195521026615_NAME:[F]Kritias_2018_12"
+    "name": "(もちろんだと言う。)"
   },
   "1217195521026616-Kritias_2018_12-": {
     "npc": "블리체",
@@ -130277,7 +130277,7 @@
   },
   "1219100121026748-Kritias_2018_12-": {
     "npc": "메이슨",
-    "name": "SCRIPTQUEST_1219100121026748_NAME:[F]Kritias_2018_12"
+    "name": "ありがとうございます、$MyPCName$。\nお礼に私の力を分けて差し上げましょう。"
   },
   "1219100121026749-Kritias_2018_12-": {
     "npc": "메이슨",
@@ -132305,7 +132305,7 @@
   },
   "1220183321028047-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_1220183321028047_NAME:[F]Kritias_2018_12"
+    "name": "(任せてくれと言う。)"
   },
   "1220183321028048-Kritias_2018_12-": {
     "npc": "네이린",
@@ -139317,7 +139317,7 @@
   },
   "1228142921028291-Kritias_2018_12-": {
     "npc": "PC",
-    "name": "SCRIPTQUEST_1228142921028291_NAME:[F]Kritias_2018_12"
+    "name": "(もちろんだと言う。)"
   },
   "1228142921028292-Kritias_2018_12-": {
     "npc": "블리체",
@@ -139641,7 +139641,7 @@
   },
   "1228160921028354-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_1228160921028354_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020006$</font>の<font color=\"#ffd200\">$npcName:25020306$</font>、<font color=\"#ffd200\">$map:02020004$</font>の<font color=\"#ffd200\">$npcName:25020406[gender:0]$</font>、<font color=\"#ffd200\">$map:02020001$</font>の<font color=\"#ffd200\">$npcName:25020506$</font>を片付けてゲオルクを助けるように。"
   },
   "1228160921028355-Kritias_2018_12-": {
     "npc": "블리체",
@@ -139665,7 +139665,7 @@
   },
   "1228160921028360-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_1228160921028360_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020010$</font>の<font color=\"#ffd200\">$npcName:25020602$</font>、<font color=\"#ffd200\">$map:02020034$</font>の<font color=\"#ffd200\">$npcName:25020802$</font>、<font color=\"#ffd200\">$map:02020016$</font>の<font color=\"#ffd200\">$npcName:25021004[gender:0]$</font>。\nこれらのモンスターの戦闘パターンの確認を頼む。"
   },
   "1228160921028361-Kritias_2018_12-": {
     "npc": "블리체",
@@ -139677,7 +139677,7 @@
   },
   "1228160921028363-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_1228160921028363_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020010$</font>の<font color=\"#ffd200\">$npcName:25020604$</font>、<font color=\"#ffd200\">$map:02020016$</font>の<font color=\"#ffd200\">$npcName:25021005[gender:0]$</font>。\nこれらのモンスターの戦闘パターンの確認を頼む。"
   },
   "1228160921028364-Kritias_2018_12-": {
     "npc": "블리체",
@@ -139689,7 +139689,7 @@
   },
   "1228160921028366-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_1228160921028366_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020051$</font>の<font color=\"#ffd200\">$npcName:25021106$</font>、<font color=\"#ffd200\">$map:02020017$</font>の<font color=\"#ffd200\">$npcName:25021202$</font>、<font color=\"#ffd200\">$map:02020003$</font>の<font color=\"#ffd200\">$npcName:25021502$</font>を退治して、新人隊員の保護を頼む。"
   },
   "1228160921028367-Kritias_2018_12-": {
     "npc": "블리체",
@@ -139701,7 +139701,7 @@
   },
   "1228160921028369-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_1228160921028369_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020017$</font>の<font color=\"#ffd200\">$npcName:25021205$</font>、<font color=\"#ffd200\">$map:02020014$</font>の<font color=\"#ffd200\">$npcName:25021406[gender:0]$</font>。\nこの2つの始末を頼む。"
   },
   "1228160921028370-Kritias_2018_12-": {
     "npc": "블리체",
@@ -139737,7 +139737,7 @@
   },
   "1228160921028378-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_1228160921028378_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020031$</font>の<font color=\"#ffd200\">$item:61000154$</font>、確保を頼む。"
   },
   "1228160921028379-Kritias_2018_12-": {
     "npc": "블리체",
@@ -139761,7 +139761,7 @@
   },
   "1228160921028384-Kritias_2018_12-": {
     "npc": "블리체",
-    "name": "SCRIPTQUEST_1228160921028384_NAME:[F]Kritias_2018_12"
+    "name": "<font color=\"#ffd200\">$map:02020001$</font>へ移動して<font color=\"#ffd200\">$item:61000159$</font>を持ってくるように。"
   },
   "1228160921028385-Kritias_2018_12-": {
     "npc": "블리체",
