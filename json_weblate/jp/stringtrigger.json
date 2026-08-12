@@ -17385,11 +17385,11 @@
     "type": "이벤트UI를설정한다"
   },
   "61000001_ME_001__MASSIVE00__12--": {
-    "name": "STRINGTRIGGER_61000001_ME_001__MASSIVE00__12_NAME",
+    "name": "優勝者を祝うボーナス～お金の雨が降り注ぎます！",
     "npc": "NotUse"
   },
   "61000001_ME_001__MASSIVE00__13--": {
-    "name": "STRINGTRIGGER_61000001_ME_001__MASSIVE00__13_NAME",
+    "name": "脱落者を慰めるボーナス～お金の雨が降り注ぎます！",
     "npc": "NotUse"
   },
   "61000001_ME_001__MASSIVE00__14--": {
@@ -17398,7 +17398,7 @@
     "type": "이벤트UI를설정한다"
   },
   "61000001_ME_001__WAIT__0--": {
-    "name": "STRINGTRIGGER_61000001_ME_001__WAIT__0_NAME",
+    "name": "まもなく始まります。\\n他のみんなが来るまで、もう少し待ってみましょう。",
     "npc": "NotUse"
   },
   "61000002_ME_002__MASSIVE01__0--": {
@@ -17457,7 +17457,7 @@
     "type": "이벤트UI를설정한다"
   },
   "61000002_ME_002__MASSIVE01__11--": {
-    "name": "STRINGTRIGGER_61000002_ME_002__MASSIVE01__11_NAME",
+    "name": "優勝者を祝うボーナス～お金の雨が降り注ぎます！",
     "npc": "NotUse"
   },
   "61000002_ME_002__MASSIVE01__12--": {
@@ -17470,7 +17470,7 @@
     "type": "이벤트UI를설정한다"
   },
   "61000002_ME_002__WAIT__0--": {
-    "name": "STRINGTRIGGER_61000002_ME_002__WAIT__0_NAME",
+    "name": "まもなく始まります。\\n他のみんなが来るまで、もう少し待ってみましょう。",
     "npc": "NotUse"
   },
   "61000003_ME_003__MAIN__0--": {
@@ -17572,7 +17572,7 @@
     "type": "이벤트UI를설정한다"
   },
   "61000004_ME__WAIT__0--": {
-    "name": "STRINGTRIGGER_61000004_ME__WAIT__0_NAME",
+    "name": "まもなく始まります。\\n他のみんなが来るまで、もう少し待ってみましょう。",
     "npc": "NotUse"
   },
   "61000004_ME__TRIGGER_01__2--": {
@@ -17681,7 +17681,7 @@
     "type": "이벤트UI를설정한다"
   },
   "61000006_ME__WAIT__0--": {
-    "name": "STRINGTRIGGER_61000006_ME__WAIT__0_NAME",
+    "name": "まもなく始まります。\\n他のみんなが来るまで、もう少し待ってみましょう。",
     "npc": "NotUse"
   },
   "61000007_ME__MAINPROCESS_SPRINGBEACH__0--": {
@@ -17780,11 +17780,11 @@
     "type": "이벤트UI를설정한다"
   },
   "61000007_ME__MAINPROCESS_SPRINGBEACH__19--": {
-    "name": "STRINGTRIGGER_61000007_ME__MAINPROCESS_SPRINGBEACH__19_NAME",
+    "name": "優勝者を祝うボーナス～お金の雨が降り注ぎます！",
     "npc": "NotUse"
   },
   "61000007_ME__MAINPROCESS_SPRINGBEACH__20--": {
-    "name": "STRINGTRIGGER_61000007_ME__MAINPROCESS_SPRINGBEACH__20_NAME",
+    "name": "脱落者を慰めるボーナス～お金の雨が降り注ぎます！",
     "npc": "NotUse"
   },
   "61000007_ME__MAINPROCESS_SPRINGBEACH__21--": {
@@ -17803,7 +17803,7 @@
     "type": "이벤트UI를설정한다"
   },
   "61000007_ME__WAIT_SPRINGBEACH__0--": {
-    "name": "STRINGTRIGGER_61000007_ME__WAIT_SPRINGBEACH__0_NAME",
+    "name": "まもなく始まります。\\n他のみんなが来るまで、もう少し待ってみましょう。",
     "npc": "NotUse"
   },
   "61000008_ME__01_MASSIVEMAIN__0--": {
@@ -34063,22 +34063,22 @@
     "type": "ShowCaption"
   },
   "52100300_QD__MAIN__13-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__13_NAME:[F]Kritias_Turka01",
+    "name": "ここがまさにあの…！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52100300_QD__MAIN__14-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__14_NAME:[F]Kritias_Turka01",
+    "name": "ふーん…。",
     "npc": "홀슈타트",
     "type": "AddCinematicTalk"
   },
   "52100300_QD__MAIN__15-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__15_NAME:[F]Kritias_Turka01",
+    "name": "私は先に行く。 \\nお前は勝手についてこい！",
     "npc": "홀슈타트",
     "type": "AddCinematicTalk"
   },
   "52100300_QD__MAIN__16-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100300_QD__MAIN__16_NAME:[F]Kritias_Turka01",
+    "name": "あっ、待って！一緒に行こう！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
@@ -34123,12 +34123,12 @@
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__8-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__8_NAME:[F]Kritias_Epic02",
+    "name": "はい。$npcName:11004680$様。",
     "npc": "시만",
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__9-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__9_NAME:[F]Kritias_Epic02",
+    "name": "ゲオルク・メイプル連合同盟の戦略が変化して以降、 \\n敵対勢力との接戦が絶えませんでした。",
     "npc": "시만",
     "type": "AddCinematicTalk"
   },
@@ -34198,7 +34198,7 @@
     "type": "AddCinematicTalk"
   },
   "52100205_QD__52100205__0-Kritias_Epic03-": {
-    "name": "STRINGTRIGGER_52100205_QD__52100205__0_NAME:[F]Kritias_Epic03",
+    "name": "その頃$npcName:11004603$は…",
     "npc": "systemMSG",
     "type": "연출UI를설정한다"
   },
@@ -34208,12 +34208,12 @@
     "type": "ShowCaption"
   },
   "52100205_QD__52100205__2-Kritias_Epic03-": {
-    "name": "STRINGTRIGGER_52100205_QD__52100205__2_NAME:[F]Kritias_Epic03",
+    "name": "$npcName:11004575$は奥か？",
     "npc": "클라디아",
     "type": "AddCinematicTalk"
   },
   "52100205_QD__52100205__3-Kritias_Epic03-": {
-    "name": "STRINGTRIGGER_52100205_QD__52100205__3_NAME:[F]Kritias_Epic03",
+    "name": "…ようやく到着しましたね。\\n$npcName:11004603$。",
     "npc": "제시카",
     "type": "AddCinematicTalk"
   },
@@ -34223,32 +34223,32 @@
     "type": "연출UI를설정한다"
   },
   "52100207_QD__52100207__0-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100207_QD__52100207__0_NAME:[F]Kritias_Epic02",
+    "name": "この部屋はいつ来ても新鮮だな…。",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52100207_QD__52100207__1-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100207_QD__52100207__1_NAME:[F]Kritias_Epic02",
+    "name": "…ん？",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52100207_QD__52100207__2-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100207_QD__52100207__2_NAME:[F]Kritias_Epic02",
+    "name": "？？？？？",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52100207_QD__52100207__3-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100207_QD__52100207__3_NAME:[F]Kritias_Epic02",
+    "name": "お前は？！！！！！！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__0-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__0_NAME:[F]Kritias_Epic02",
+    "name": "このエネルギー源は一体…！",
     "npc": "네이린",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__1-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__1_NAME:[F]Kritias_Epic02",
+    "name": "隊員！ひとまず$npcName:11004680$様を護衛しろ！",
     "npc": "블리체",
     "type": "AddCinematicTalk"
   },
@@ -34263,82 +34263,82 @@
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__4-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__4_NAME:[F]Kritias_Epic02",
+    "name": "…！？",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__5-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__5_NAME:[F]Kritias_Epic02",
+    "name": "この声は…！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__6-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__6_NAME:[F]Kritias_Epic02",
+    "name": "$npcName:11004683$！！！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__7-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__7_NAME:[F]Kritias_Epic02",
+    "name": "愚鈍な者どもめ…。結局ここまで這い上がってきたか。",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__8-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__8_NAME:[F]Kritias_Epic02",
+    "name": "あの野郎…！",
     "npc": "홀슈타트",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__9-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__9_NAME:[F]Kritias_Epic02",
+    "name": "こんなに突然現れるとは…。",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__10-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__10_NAME:[F]Kritias_Epic02",
+    "name": "一つ問おう。\\n私の主人が$npcName:11001811$だと思っているのか？",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__11-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__11_NAME:[F]Kritias_Epic02",
+    "name": "私の真の主人は誰でもない、この私自身だ！",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__12-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__12_NAME:[F]Kritias_Epic02",
+    "name": "全員戦闘態勢へ！",
     "npc": "블리체",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__13-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__13_NAME:[F]Kritias_Epic02",
+    "name": "何を言ってるんだ、あいつ？",
     "npc": "콘대르",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__14-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__14_NAME:[F]Kritias_Epic02",
+    "name": "ふん、虫けらのような奴らのためにこの身を犠牲にする気はない。",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__15-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__15_NAME:[F]Kritias_Epic02",
+    "name": "この手で直接この偽りのユートピアを消し去り、真のユートピアを築いてやろう。",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__16-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__16_NAME:[F]Kritias_Epic02",
+    "name": "何を言っているんだ！$npcName:11004683$！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__17-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__17_NAME:[F]Kritias_Epic02",
+    "name": "そうだ！口先だけじゃなく自分でかかってこい、この野郎！",
     "npc": "콘대르",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__18-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__18_NAME:[F]Kritias_Epic02",
+    "name": "最強の近衛隊長、この$npcName:11004578$様が相手をしてやる！",
     "npc": "콘대르",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__19-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__19_NAME:[F]Kritias_Epic02",
+    "name": "…虫けらが口を軽々しく動かすものだな。",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
@@ -34348,42 +34348,42 @@
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__21-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__21_NAME:[F]Kritias_Epic02",
+    "name": "部長！！！",
     "npc": "네이린",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__22-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__22_NAME:[F]Kritias_Epic02",
+    "name": "この野郎、よくも部長を…！",
     "npc": "샤텐",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__23-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__23_NAME:[F]Kritias_Epic02",
+    "name": "下等な種族相手に話が長くなったな。ではな。",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__24-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__24_NAME:[F]Kritias_Epic02",
+    "name": "待て！！！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52100208_QD__52100208__25-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100208_QD__52100208__25_NAME:[F]Kritias_Epic02",
+    "name": "…言いたいことだけ言って消えましたね。",
     "npc": "메이슨",
     "type": "AddCinematicTalk"
   },
   "52100202_QD__52100202__0-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100202_QD__52100202__0_NAME:[F]Kritias_Epic02",
+    "name": "あれは…！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52100202_QD__52100202__1-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100202_QD__52100202__1_NAME:[F]Kritias_Epic02",
+    "name": "…あれが未確認エネルギー源の正体か？",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52100202_QD__52100202__2-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100202_QD__52100202__2_NAME:[F]Kritias_Epic02",
+    "name": "早くこの事実を知らせに戻ったほうがよさそうだ。",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
@@ -34418,7 +34418,7 @@
     "type": "SideNpcTalk"
   },
   "52100303_QD__MAIN__0-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100303_QD__MAIN__0_NAME:[F]Kritias_Turka02",
+    "name": "あの先が空中要塞へ向かう…。あっ！あれは？",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
@@ -34543,12 +34543,12 @@
     "type": "SideNpcTalk"
   },
   "52100301_QD__300004_PHASE_3__0-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100301_QD__300004_PHASE_3__0_NAME:[F]Kritias_Turka01",
+    "name": "だいぶ待たせたか？いいものを見つけたぞ！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "52100301_QD__300004_PHASE_3__1-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100301_QD__300004_PHASE_3__1_NAME:[F]Kritias_Turka01",
+    "name": "左右の砲塔を制御できるようにしてみる！！これで奴に命中させろ！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
@@ -34558,7 +34558,7 @@
     "type": "이벤트UI를설정한다"
   },
   "52100301_QD__300005_PHASE_4__0-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100301_QD__300005_PHASE_4__0_NAME:[F]Kritias_Turka01",
+    "name": "くそっ…砲塔ももう使えないぞ！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
@@ -34568,17 +34568,17 @@
     "type": "SideNpcTalk"
   },
   "52100301_QD__300005_PHASE_4__2-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100301_QD__300005_PHASE_4__2_NAME:[F]Kritias_Turka01",
+    "name": "うっ！！何だ？もう攻撃が通じないのか？！私が方法を探してみる！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "52100301_QD__300005_PHASE_4__3-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100301_QD__300005_PHASE_4__3_NAME:[F]Kritias_Turka01",
+    "name": "これなら？！よし！！爆発物装置を見つけた！これなら奴の装甲を剥がせるはずだ！！",
     "npc": "아르케온",
     "type": "SideNpcTalk"
   },
   "52100301_QD__300005_PHASE_4__4-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100301_QD__300005_PHASE_4__4_NAME:[F]Kritias_Turka01",
+    "name": "爆発物で攻撃して、無敵状態を無効化してください！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -34593,22 +34593,22 @@
     "type": "SideNpcTalk"
   },
   "52100301_QD__300006_PHASE_5__1-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100301_QD__300006_PHASE_5__1_NAME:[F]Kritias_Turka01",
+    "name": "アルケオンの整備が完了した！乗って叩き潰してしまえ！！",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
   "52100301_QD__MAIN__0-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100301_QD__MAIN__0_NAME:[F]Kritias_Turka01",
+    "name": "ウィーン…目標物…捕捉した。直ちに処理する。",
     "npc": "아르케온",
     "type": "SideNpcTalk"
   },
   "52100301_QD__MAIN__1-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100301_QD__MAIN__1_NAME:[F]Kritias_Turka01",
+    "name": "消滅………消滅………復旧不可",
     "npc": "아르케온",
     "type": "SideNpcTalk"
   },
   "52100301_QD__MAIN__2-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_52100301_QD__MAIN__2_NAME:[F]Kritias_Turka01",
+    "name": "ふう、本当に終わりだな。",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
@@ -35213,32 +35213,32 @@
     "type": "이벤트UI를설정한다"
   },
   "52100302_QD__FIELD_2__0-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__0_NAME:[F]Kritias_Turka02",
+    "name": "気をつけて！$npcName:23504001$が戦場に現れました！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_2__1-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__1_NAME:[F]Kritias_Turka02",
+    "name": "なぜまだバリアをまとっているの？私がいるせいでエネル攪乱装置に干渉が生じているようです！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_2__2-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__2_NAME:[F]Kritias_Turka02",
+    "name": "気をつけて！$npcName:23504001$が戦場に現れました！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_2__3-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__3_NAME:[F]Kritias_Turka02",
+    "name": "なぜまだバリアをまとっているの？私がいるせいでエネル攪乱装置に干渉が生じているようです！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_2__4-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__4_NAME:[F]Kritias_Turka02",
+    "name": "気をつけて！$npcName:23504001$が戦場に現れました！！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_2__5-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_2__5_NAME:[F]Kritias_Turka02",
+    "name": "なぜまだバリアをまとっているの？私がいるせいでエネル攪乱装置に干渉が生じているようです！",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
@@ -35588,7 +35588,7 @@
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_5__0-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_5__0_NAME:[F]Kritias_Turka02",
+    "name": "あ、あー！聞こえますか？両脇にアルケオンが見えますよね？搭乗したら私が遠隔で移動させます！",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
@@ -35603,22 +35603,22 @@
     "type": "SideNpcTalk"
   },
   "52100302_QD__FIELD_5__3-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_5__3_NAME:[F]Kritias_Turka02",
+    "name": "$MyPCName$、申し訳ありませんが、ここからは一人で移動していただかなければなりません。",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
   "52100302_QD__FIELD_5__4-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_5__4_NAME:[F]Kritias_Turka02",
+    "name": "エネル攪乱装置の干渉のせいで、私はこれ以上前へ進めません。",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
   "52100302_QD__FIELD_5__5-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__FIELD_5__5_NAME:[F]Kritias_Turka02",
+    "name": "ティマイオンの退治…。 \\n簡単ではないでしょうが、よろしくお願いします。",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
   "52100302_QD__MAIN__0-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__MAIN__0_NAME:[F]Kritias_Turka02",
+    "name": "$MyPCName$！やっぱりあなた一人では行かせられなくて追ってきました。私が支援します、一緒に$npcName:23504001$を撃退しましょう！",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
@@ -35733,17 +35733,17 @@
     "type": "이벤트UI를설정한다"
   },
   "02020301_BF__MAIN__0-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__MAIN__0_NAME:[F]Kritias_Turka01",
+    "name": "ウィーン…目標物…捕捉した。直ちに処理する。",
     "npc": "아르케온 카이",
     "type": "SideNpcTalk"
   },
   "02020301_BF__MAIN__1-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__MAIN__1_NAME:[F]Kritias_Turka01",
+    "name": "消滅………消滅………復旧不可",
     "npc": "아르케온 카이",
     "type": "SideNpcTalk"
   },
   "02020301_BF__MAIN__2-Kritias_Turka01-": {
-    "name": "STRINGTRIGGER_02020301_BF__MAIN__2_NAME:[F]Kritias_Turka01",
+    "name": "ふう、本当に終わりだな。",
     "npc": "의문의 검사",
     "type": "SideNpcTalk"
   },
