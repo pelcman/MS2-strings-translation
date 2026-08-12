@@ -32728,37 +32728,37 @@
     "type": "AddCinematicTalk"
   },
   "52100105_QD__52100105_01__1-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100105_QD__52100105_01__1_NAME:[F]Kritias_Epic01",
+    "name": "お前の体内に溶け込んだのか？",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100105_QD__52100105_01__2-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100105_QD__52100105_01__2_NAME:[F]Kritias_Epic01",
+    "name": "見たところ、まだその力を使えないようだな。",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100105_QD__52100105_01__3-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100105_QD__52100105_01__3_NAME:[F]Kritias_Epic01",
+    "name": "何のことですか…？ \\n私は何も思い出せません。",
     "npc": "클라디아",
     "type": "AddCinematicTalk"
   },
   "52100105_QD__52100105_01__4-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100105_QD__52100105_01__4_NAME:[F]Kritias_Epic01",
+    "name": "自分が誰なのかさえも…。",
     "npc": "클라디아",
     "type": "AddCinematicTalk"
   },
   "52100105_QD__52100105_01__5-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100105_QD__52100105_01__5_NAME:[F]Kritias_Epic01",
+    "name": "あれだけのことをしておいて記憶を失っただと？\\n笑わせる話をするな。",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100105_QD__52100105_01__6-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100105_QD__52100105_01__6_NAME:[F]Kritias_Epic01",
+    "name": "まあ、構わん。\\n体内にあるブルーラペンタの力を残らず引き出してやるからな！",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100105_QD__52100105_01__7-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100105_QD__52100105_01__7_NAME:[F]Kritias_Epic01",
+    "name": "作動させろ。",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
@@ -32768,37 +32768,37 @@
     "type": "AddCinematicTalk"
   },
   "52100105_QD__52100105_03__0-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100105_QD__52100105_03__0_NAME:[F]Kritias_Epic01",
+    "name": "わざと捕まったのか。\\n我々を利用して体内のラペンタ粒子を凝縮しようとしたな。",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100105_QD__52100105_03__1-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100105_QD__52100105_03__1_NAME:[F]Kritias_Epic01",
+    "name": "いつから記憶が戻ったのだ？\\nそれとも最初から記憶を失ってなどいなかったのか？",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100105_QD__52100105_03__2-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100105_QD__52100105_03__2_NAME:[F]Kritias_Epic01",
+    "name": "マルレーネの執務室であなたを見た時よ。\\nあの面を見て、記憶が戻らないわけがないでしょう。",
     "npc": "클라디아",
     "type": "AddCinematicTalk"
   },
   "52100105_QD__52100105_03__3-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100105_QD__52100105_03__3_NAME:[F]Kritias_Epic01",
+    "name": "その面を下げているなら、\\nきっと私の体のラペンタを抜き取ろうとするだろうと判断したの。",
     "npc": "클라디아",
     "type": "AddCinematicTalk"
   },
   "52100105_QD__52100105_03__4-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100105_QD__52100105_03__4_NAME:[F]Kritias_Epic01",
+    "name": "笑わせる。\\n今すぐあの女を捕らえろ！",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100105_QD__52100105_03__5-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100105_QD__52100105_03__5_NAME:[F]Kritias_Epic01",
+    "name": "くっ…。これがブルーラペンタの力か…。",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100105_QD__52100105_03__6-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100105_QD__52100105_03__6_NAME:[F]Kritias_Epic01",
+    "name": "これで終わりだと思うな！",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
@@ -32823,17 +32823,17 @@
     "type": "AddCinematicTalk"
   },
   "52100102_QD__MAIN__4-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100102_QD__MAIN__4_NAME:[F]Kritias_Epic01",
+    "name": "もう一度問う。\\nあの女はどこにいる？",
     "npc": "검은군단 병사",
     "type": "AddCinematicTalk"
   },
   "52100102_QD__MAIN__5-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100102_QD__MAIN__5_NAME:[F]Kritias_Epic01",
+    "name": "女だと…。一体誰のことを言っているんだ？",
     "npc": "게오르크 장교",
     "type": "AddCinematicTalk"
   },
   "52100102_QD__MAIN__6-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100102_QD__MAIN__6_NAME:[F]Kritias_Epic01",
+    "name": "間抜けどもめ…。",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
@@ -32843,12 +32843,12 @@
     "type": "ShowCaption"
   },
   "52100102_QD__MAIN__8-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100102_QD__MAIN__8_NAME:[F]Kritias_Epic01",
+    "name": "闇の軍団クリティアス占領軍団長",
     "npc": "systemMSG",
     "type": "ShowCaption"
   },
   "52100102_QD__MAIN__9-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100102_QD__MAIN__9_NAME:[F]Kritias_Epic01",
+    "name": "まだこんな虫けらどもと言い争っていたのか…。",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
@@ -32908,12 +32908,12 @@
     "type": "AddCinematicTalk"
   },
   "52100103_QD__MAIN__0-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__0_NAME:[F]Kritias_Epic01",
+    "name": "不吉な気配を感じる…。",
     "npc": "정체불명의 여자",
     "type": "AddCinematicTalk"
   },
   "52100103_QD__MAIN__1-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__1_NAME:[F]Kritias_Epic01",
+    "name": "ここは安全だから安心して…。",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
@@ -32928,67 +32928,67 @@
     "type": "AddCinematicTalk"
   },
   "52100103_QD__MAIN__4-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__4_NAME:[F]Kritias_Epic01",
+    "name": "愚鈍な者どもめ…。\\n今頃気づくとは…。",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100103_QD__MAIN__5-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__5_NAME:[F]Kritias_Epic01",
+    "name": "何だと！貴様は！",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
   "52100103_QD__MAIN__6-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__6_NAME:[F]Kritias_Epic01",
+    "name": "何だ？貴様もここにいたのか？",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100103_QD__MAIN__7-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__7_NAME:[F]Kritias_Epic01",
+    "name": "今度こそ決着をつけよう！",
     "npc": "NotUse",
     "type": "대화를설정한다"
   },
   "52100103_QD__MAIN__8-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__8_NAME:[F]Kritias_Epic01",
+    "name": "さあ、大人しく彼女を渡してもらおうか？",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100103_QD__MAIN__9-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__9_NAME:[F]Kritias_Epic01",
+    "name": "まず我々を相手にしてもらおう！",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
   "52100103_QD__MAIN__10-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__10_NAME:[F]Kritias_Epic01",
+    "name": "一つの組織の長ともあろう者が、どうしてこうも愚かなのか？\\n私がここにいるということは、外がすでにどうなっているか考えてみろ。",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100103_QD__MAIN__11-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__11_NAME:[F]Kritias_Epic01",
+    "name": "しまった！",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
   "52100103_QD__MAIN__12-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__12_NAME:[F]Kritias_Epic01",
+    "name": "よく考えろ。\\nたった一人の命のために、より大きな犠牲を払うのか？",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100103_QD__MAIN__13-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__13_NAME:[F]Kritias_Epic01",
+    "name": "やめて。",
     "npc": "클라디아",
     "type": "AddCinematicTalk"
   },
   "52100103_QD__MAIN__14-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__14_NAME:[F]Kritias_Epic01",
+    "name": "私のせいで、これ以上犠牲を出すわけにはいかない。",
     "npc": "클라디아",
     "type": "AddCinematicTalk"
   },
   "52100103_QD__MAIN__15-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__15_NAME:[F]Kritias_Epic01",
+    "name": "だめだ！お前だけは！",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
   "52100103_QD__MAIN__16-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__16_NAME:[F]Kritias_Epic01",
+    "name": "大丈夫。\\n何事もないはずよ。",
     "npc": "클라디아",
     "type": "AddCinematicTalk"
   },
@@ -32998,12 +32998,12 @@
     "type": "AddCinematicTalk"
   },
   "52100103_QD__MAIN__18-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__18_NAME:[F]Kritias_Epic01",
+    "name": "クフフ…。良い判断だ。\\nさあ行くぞ！",
     "npc": "투르카",
     "type": "AddCinematicTalk"
   },
   "52100103_QD__MAIN__19-Kritias_Epic01-": {
-    "name": "STRINGTRIGGER_52100103_QD__MAIN__19_NAME:[F]Kritias_Epic01",
+    "name": "クラウディア…。",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
@@ -33013,12 +33013,12 @@
     "type": "AddBalloonTalk"
   },
   "52100108_QD__MAIN__0-Kritias_2018_12-": {
-    "name": "STRINGTRIGGER_52100108_QD__MAIN__0_NAME:[F]Kritias_2018_12",
+    "name": "ここなんだな…。艦長が教えてくださった場所は。",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52100108_QD__MAIN__1-Kritias_2018_12-": {
-    "name": "STRINGTRIGGER_52100108_QD__MAIN__1_NAME:[F]Kritias_2018_12",
+    "name": "じゃあ、その「メイン制御機器」というのはどこにあるんだ？",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
@@ -33028,17 +33028,17 @@
     "type": "AddCinematicTalk"
   },
   "52100108_QD__MAIN__3-Kritias_2018_12-": {
-    "name": "STRINGTRIGGER_52100108_QD__MAIN__3_NAME:[F]Kritias_2018_12",
+    "name": "あれか？あれで合ってるよな？！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52100108_QD__MAIN__4-Kritias_2018_12-": {
-    "name": "STRINGTRIGGER_52100108_QD__MAIN__4_NAME:[F]Kritias_2018_12",
+    "name": "ん…？",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
   "52100108_QD__MAIN__5-Kritias_2018_12-": {
-    "name": "STRINGTRIGGER_52100108_QD__MAIN__5_NAME:[F]Kritias_2018_12",
+    "name": "何者だ！！！",
     "npc": "근위대 경호대장",
     "type": "AddCinematicTalk"
   },
@@ -33048,7 +33048,7 @@
     "type": "AddCinematicTalk"
   },
   "52100108_QD__MAIN__7-Kritias_2018_12-": {
-    "name": "STRINGTRIGGER_52100108_QD__MAIN__7_NAME:[F]Kritias_2018_12",
+    "name": "見つかったか…！",
     "npc": "player",
     "type": "AddCinematicTalk"
   },
@@ -34083,27 +34083,27 @@
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__0-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__0_NAME:[F]Kritias_Epic02",
+    "name": "こうして来てくださってありがとうございます、$npcName:11004616$艦長。\\n持ち場を空けさせてしまって申し訳ありません。",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__1-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__1_NAME:[F]Kritias_Epic02",
+    "name": "いいえ。$npcName:11004580$に少し小言を言われはしましたが…。",
     "npc": "블리체",
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__2-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__2_NAME:[F]Kritias_Epic02",
+    "name": "それより、問題の状況についてお話しください。",
     "npc": "블리체",
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__3-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__3_NAME:[F]Kritias_Epic02",
+    "name": "では、すぐ本題に入ります。",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__4-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__4_NAME:[F]Kritias_Epic02",
+    "name": "今ゲオルクは、創立以来最悪の人手不足に苦しんでいます。",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
@@ -34113,12 +34113,12 @@
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__6-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__6_NAME:[F]Kritias_Epic02",
+    "name": "それはどういう…。",
     "npc": "블리체",
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__7-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__7_NAME:[F]Kritias_Epic02",
+    "name": "$npcName:11004615$？説明をお願いします。",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
@@ -34133,32 +34133,32 @@
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__10-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__10_NAME:[F]Kritias_Epic02",
+    "name": "$map:02020030$の闇の軍団とタイレンの兵士たち。 \\nそしてケルベスの奇襲攻撃。",
     "npc": "시만",
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__11-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__11_NAME:[F]Kritias_Epic02",
+    "name": "続く戦闘で負傷した隊員が増え、 \\n他の隊員たちも次第に疲弊している状況です。\\nとても不安定な状態ですね。",
     "npc": "시만",
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__12-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__12_NAME:[F]Kritias_Epic02",
+    "name": "しかも、戦闘だけでなく様々な付随する仕事が山ほどあります。\\nこのままでは…。",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__13-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__13_NAME:[F]Kritias_Epic02",
+    "name": "…ゲオルクに危機が訪れるのは時間の問題ですね。",
     "npc": "블리체",
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__14-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__14_NAME:[F]Kritias_Epic02",
+    "name": "そうです。 \\nそこで苦心の末…。",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__15-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__15_NAME:[F]Kritias_Epic02",
+    "name": "同盟であるメイプル連合に助けを求めることにしたのです。",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
@@ -34168,17 +34168,17 @@
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__17-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__17_NAME:[F]Kritias_Epic02",
+    "name": "承知しました。\\n同盟として、このような助けの求めに背を向けるわけにはいきません。",
     "npc": "블리체",
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__18-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__18_NAME:[F]Kritias_Epic02",
+    "name": "それでは…！",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__19-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__19_NAME:[F]Kritias_Epic02",
+    "name": "今すぐ戻って、$MyPCName$隊員をこちらへ送りましょう。",
     "npc": "블리체",
     "type": "AddCinematicTalk"
   },
@@ -34188,12 +34188,12 @@
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__21-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__21_NAME:[F]Kritias_Epic02",
+    "name": "！！！ \\n本当にありがとうございます。$npcName:11004616$艦長。",
     "npc": "마를레네",
     "type": "AddCinematicTalk"
   },
   "52100109_QD__MAIN__22-Kritias_Epic02-": {
-    "name": "STRINGTRIGGER_52100109_QD__MAIN__22_NAME:[F]Kritias_Epic02",
+    "name": "感謝いたします。",
     "npc": "시만",
     "type": "AddCinematicTalk"
   },
