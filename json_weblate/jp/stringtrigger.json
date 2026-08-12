@@ -19820,7 +19820,7 @@
     "type": "대화를설정한다"
   },
   "99999884__SCENE01__1--": {
-    "name": "STRINGTRIGGER_99999884__SCENE01__1_NAME",
+    "name": "闇の力でお前の傷を…。",
     "npc": "NotUse"
   },
   "99999884__SCENE01__2--": {
@@ -19829,19 +19829,19 @@
     "type": "대화를설정한다"
   },
   "99999884__SCENE01__3--": {
-    "name": "STRINGTRIGGER_99999884__SCENE01__3_NAME",
+    "name": "しつこい奴らめ…。",
     "npc": "NotUse"
   },
   "99999884__SCENE01__4--": {
-    "name": "STRINGTRIGGER_99999884__SCENE01__4_NAME",
+    "name": "立ち上がれ、デボラク！！！",
     "npc": "NotUse"
   },
   "99999884__SCENE01__5--": {
-    "name": "STRINGTRIGGER_99999884__SCENE01__5_NAME",
+    "name": "止まれ！！！",
     "npc": "NotUse"
   },
   "99999884__SCENE01__6--": {
-    "name": "STRINGTRIGGER_99999884__SCENE01__6_NAME",
+    "name": "失せろ！！！",
     "npc": "NotUse"
   },
   "99999884__SCENE01__7--": {
@@ -19850,7 +19850,7 @@
     "type": "대화를설정한다"
   },
   "99999884__SCENE01__8--": {
-    "name": "STRINGTRIGGER_99999884__SCENE01__8_NAME",
+    "name": "$npc:11000525$！！！やめて！！！",
     "npc": "NotUse"
   },
   "99999896__01_INTRO__0--": {
@@ -19959,19 +19959,19 @@
     "type": "이벤트UI를설정한다"
   },
   "99999910__01_MAIN__0--": {
-    "name": "STRINGTRIGGER_99999910__01_MAIN__0_NAME",
+    "name": "目標：ニワトリを救出せよ！！",
     "npc": "File missing"
   },
   "99999910__03_OBJECT__0--": {
-    "name": "STRINGTRIGGER_99999910__03_OBJECT__0_NAME",
+    "name": "[飛行風船]を利用して渡ってください。",
     "npc": "File missing"
   },
   "99999910__04_OBJECT__0--": {
-    "name": "STRINGTRIGGER_99999910__04_OBJECT__0_NAME",
+    "name": "[飛行風船]を利用して渡ってください。",
     "npc": "File missing"
   },
   "99999910__BATTLEZONE_01__0--": {
-    "name": "STRINGTRIGGER_99999910__BATTLEZONE_01__0_NAME",
+    "name": "鶏小屋を攻撃してニワトリを救出してください",
     "npc": "File missing"
   },
   "99999910__BATTLEZONE_01__1--": {
@@ -19991,11 +19991,11 @@
     "npc": "File missing"
   },
   "99999910__BOSSBATTLE_01__0--": {
-    "name": "STRINGTRIGGER_99999910__BOSSBATTLE_01__0_NAME",
+    "name": "マノを退治してニワトリを救出せよ！！",
     "npc": "File missing"
   },
   "99999910__BOSSBATTLE_01__1--": {
-    "name": "STRINGTRIGGER_99999910__BOSSBATTLE_01__1_NAME",
+    "name": "全てのニワトリを救出した！",
     "npc": "File missing"
   },
   "99999910__BOSSGATE__0--": {
@@ -20003,27 +20003,27 @@
     "npc": "File missing"
   },
   "99999913__01_COMMUTE__0--": {
-    "name": "STRINGTRIGGER_99999913__01_COMMUTE__0_NAME",
+    "name": "10分後にマーケットを開場します。",
     "npc": "File missing"
   },
   "99999913__01_COMMUTE__1--": {
-    "name": "STRINGTRIGGER_99999913__01_COMMUTE__1_NAME",
+    "name": "あら～もうこんな時間になったのね？",
     "npc": "File missing"
   },
   "99999913__01_COMMUTE__2--": {
-    "name": "STRINGTRIGGER_99999913__01_COMMUTE__2_NAME",
+    "name": "さあ～始めましょうか？",
     "npc": "File missing"
   },
   "99999913__01_COMMUTE__3--": {
-    "name": "STRINGTRIGGER_99999913__01_COMMUTE__3_NAME",
+    "name": "長く待ったでしょう？",
     "npc": "File missing"
   },
   "99999913__01_COMMUTE__4--": {
-    "name": "STRINGTRIGGER_99999913__01_COMMUTE__4_NAME",
+    "name": "マーケットオープン！",
     "npc": "File missing"
   },
   "99999913__01_COMMUTE__5--": {
-    "name": "STRINGTRIGGER_99999913__01_COMMUTE__5_NAME",
+    "name": "取引を申し込んでもいいわよ～",
     "npc": "File missing"
   },
   "99999913__01_COMMUTE__6--": {
@@ -20031,47 +20031,47 @@
     "npc": "File missing"
   },
   "99999913__01_COMMUTE__7--": {
-    "name": "STRINGTRIGGER_99999913__01_COMMUTE__7_NAME",
+    "name": "そろそろお別れの時間よ～",
     "npc": "File missing"
   },
   "99999913__01_COMMUTE__8--": {
-    "name": "STRINGTRIGGER_99999913__01_COMMUTE__8_NAME",
+    "name": "楽しいお買い物になっていますように～！",
     "npc": "File missing"
   },
   "99999913__01_COMMUTE__9--": {
-    "name": "STRINGTRIGGER_99999913__01_COMMUTE__9_NAME",
+    "name": "来週また会いましょう～",
     "npc": "File missing"
   },
   "99999913__01_COMMUTE__10--": {
-    "name": "STRINGTRIGGER_99999913__01_COMMUTE__10_NAME",
+    "name": "こんにちは～",
     "npc": "File missing"
   },
   "99999913__01_COMMUTE__11--": {
-    "name": "STRINGTRIGGER_99999913__01_COMMUTE__11_NAME",
+    "name": "マーケット閉場！",
     "npc": "File missing"
   },
   "99999922__EVENT1__0--": {
-    "name": "STRINGTRIGGER_99999922__EVENT1__0_NAME",
+    "name": "汚染された地の一部が浄化されました。",
     "npc": "NotUse"
   },
   "99999922__EVENT2__0--": {
-    "name": "STRINGTRIGGER_99999922__EVENT2__0_NAME",
+    "name": "汚染された地の一部が浄化されました。",
     "npc": "NotUse"
   },
   "99999922__EVENT3__0--": {
-    "name": "STRINGTRIGGER_99999922__EVENT3__0_NAME",
+    "name": "汚染された地の一部が浄化されました。",
     "npc": "NotUse"
   },
   "99999922__EVENT4__0--": {
-    "name": "STRINGTRIGGER_99999922__EVENT4__0_NAME",
+    "name": "汚染された地の一部が浄化されました。",
     "npc": "NotUse"
   },
   "99999922__MAIN__0--": {
-    "name": "STRINGTRIGGER_99999922__MAIN__0_NAME",
+    "name": "汚染された敵を退治してください。",
     "npc": "NotUse"
   },
   "99999922__MAIN__1--": {
-    "name": "STRINGTRIGGER_99999922__MAIN__1_NAME",
+    "name": "汚染された地が浄化され、本来の姿を取り戻しました。",
     "npc": "NotUse"
   },
   "99999931__STARTLEVER__0--": {
@@ -34388,7 +34388,7 @@
     "type": "AddCinematicTalk"
   },
   "02020311_BF__MAIN__0-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020311_BF__MAIN__0_NAME:[F]Kritias_Turka02",
+    "name": "あの先が空中要塞へ向かう…。あっ！あれは？",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
@@ -35068,12 +35068,12 @@
     "type": "AddCinematicTalk"
   },
   "02020310_BF__MAIN__1-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__1_NAME:[F]Kritias_Turka02",
+    "name": "指揮官たちが持っているコアを獲得すれば、彼らの持つ力を得られます。",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "02020310_BF__MAIN__2-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__2_NAME:[F]Kritias_Turka02",
+    "name": "前方にある移動手段制限装置の色で、奴らが持っているコアが分かります。よく選んで移動しましょう。",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
@@ -35628,12 +35628,12 @@
     "type": "AddCinematicTalk"
   },
   "52100302_QD__MAIN__2-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__MAIN__2_NAME:[F]Kritias_Turka02",
+    "name": "指揮官たちが持っているコアを獲得すれば、彼らの持つ力を得られます。",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
   "52100302_QD__MAIN__3-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_52100302_QD__MAIN__3_NAME:[F]Kritias_Turka02",
+    "name": "前方にある移動手段制限装置の色で、奴らが持っているコアが分かります。よく選んで移動しましょう。",
     "npc": "마를레네",
     "type": "SideNpcTalk"
   },
@@ -35703,17 +35703,17 @@
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__MAIN__15-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__15_NAME:[F]Kritias_Turka02",
+    "name": "一定時間が過ぎると移動制限装置が再び作動して移動できなくなります。孤立する前に移動しなければなりません。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__MAIN__16-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__16_NAME:[F]Kritias_Turka02",
+    "name": "一定時間が過ぎると移動制限装置が再び作動して移動できなくなります。孤立する前に移動しなければなりません。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020310_BF__MAIN__17-Kritias_Turka02-": {
-    "name": "STRINGTRIGGER_02020310_BF__MAIN__17_NAME:[F]Kritias_Turka02",
+    "name": "一定時間が過ぎると移動制限装置が再び作動して移動できなくなります。孤立する前に移動しなければなりません。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -37213,87 +37213,87 @@
     "type": "AddCinematicTalk"
   },
   "84000011_WD__84000011_MAIN__5-Wedding-": {
-    "name": "STRINGTRIGGER_84000011_WD__84000011_MAIN__5_NAME:[F]Wedding",
+    "name": "落ち着いてもう一度入力してください。\\nひとまず進行を中断して、戻ってこられるまで待ってみますね。",
     "npc": "루아나",
     "type": "AddCinematicTalk"
   },
   "84000011_WD__84000011_MAIN__6-Wedding-": {
-    "name": "STRINGTRIGGER_84000011_WD__84000011_MAIN__6_NAME:[F]Wedding",
+    "name": "ここに、お二人が夫婦となったことを宣言します。",
     "npc": "루아나",
     "type": "AddCinematicTalk"
   },
   "84000012_WD__84000012_MAIN__0-Wedding-": {
-    "name": "STRINGTRIGGER_84000012_WD__84000012_MAIN__0_NAME:[F]Wedding",
+    "name": "二人とも、準備が整ったようだな。\\nでは結婚式を始めようか？",
     "npc": "마노비치",
     "type": "AddCinematicTalk"
   },
   "84000012_WD__84000012_MAIN__1-Wedding-": {
-    "name": "STRINGTRIGGER_84000012_WD__84000012_MAIN__1_NAME:[F]Wedding",
+    "name": "二人は、互いに愛し合い仲良く暮らすことを誓うか？\\n誓うなら、相手の名前を書いて愛の誓約をするのだ。",
     "npc": "마노비치",
     "type": "AddCinematicTalk"
   },
   "84000012_WD__84000012_MAIN__2-Wedding-": {
-    "name": "STRINGTRIGGER_84000012_WD__84000012_MAIN__2_NAME:[F]Wedding",
+    "name": "結婚式場から出て行ってしまうとは…。\\n なかなか無責任な者だな。",
     "npc": "마노비치",
     "type": "AddCinematicTalk"
   },
   "84000012_WD__84000012_MAIN__3-Wedding-": {
-    "name": "STRINGTRIGGER_84000012_WD__84000012_MAIN__3_NAME:[F]Wedding",
+    "name": "結婚式は二人がそろわなければ進行できないのだ。\\nひとまず進行を中断して、戻ってくるまで待つとしよう。",
     "npc": "마노비치",
     "type": "AddCinematicTalk"
   },
   "84000012_WD__84000012_MAIN__4-Wedding-": {
-    "name": "STRINGTRIGGER_84000012_WD__84000012_MAIN__4_NAME:[F]Wedding",
+    "name": "二人とも…まだ心が通じ合っていないようだな。\\n悩んでいるのか？",
     "npc": "마노비치",
     "type": "AddCinematicTalk"
   },
   "84000012_WD__84000012_MAIN__5-Wedding-": {
-    "name": "STRINGTRIGGER_84000012_WD__84000012_MAIN__5_NAME:[F]Wedding",
+    "name": "二人の心が決まったなら、もう一度結婚式を始めようか？\\n誓うなら、相手の名前を書いて愛の誓約をするのだ。",
     "npc": "마노비치",
     "type": "AddCinematicTalk"
   },
   "84000012_WD__84000012_MAIN__6-Wedding-": {
-    "name": "STRINGTRIGGER_84000012_WD__84000012_MAIN__6_NAME:[F]Wedding",
+    "name": "ここに、お二人が夫婦となったことを宣言します。",
     "npc": "마노비치",
     "type": "AddCinematicTalk"
   },
   "84000013_WD__84000013_MAIN__0-Wedding-": {
-    "name": "STRINGTRIGGER_84000013_WD__84000013_MAIN__0_NAME:[F]Wedding",
+    "name": "準備が終わったようだな。\\nでは式を始めようか？",
     "npc": "아시모프",
     "type": "AddCinematicTalk"
   },
   "84000013_WD__84000013_MAIN__1-Wedding-": {
-    "name": "STRINGTRIGGER_84000013_WD__84000013_MAIN__1_NAME:[F]Wedding",
+    "name": "二人は、互いに愛し合い仲良く暮らすことを誓うか？\\n誓うなら、相手の名前を書いて愛の誓約をするのだ。",
     "npc": "아시모프",
     "type": "AddCinematicTalk"
   },
   "84000013_WD__84000013_MAIN__2-Wedding-": {
-    "name": "STRINGTRIGGER_84000013_WD__84000013_MAIN__2_NAME:[F]Wedding",
+    "name": "おやおや、結婚式場から出て行ってしまうとは。\\n無責任な者め！",
     "npc": "아시모프",
     "type": "AddCinematicTalk"
   },
   "84000013_WD__84000013_MAIN__3-Wedding-": {
-    "name": "STRINGTRIGGER_84000013_WD__84000013_MAIN__3_NAME:[F]Wedding",
+    "name": "結婚式は二人がそろわなければ進行できないのだ。\\nひとまず進行を中断して、戻ってくるまで待つとしよう。",
     "npc": "아시모프",
     "type": "AddCinematicTalk"
   },
   "84000013_WD__84000013_MAIN__4-Wedding-": {
-    "name": "STRINGTRIGGER_84000013_WD__84000013_MAIN__4_NAME:[F]Wedding",
+    "name": "おやおや、二人の心はまだ通じ合っていないのか？\\nまさかまだ心を決められずにいるのではあるまいな？",
     "npc": "아시모프",
     "type": "AddCinematicTalk"
   },
   "84000013_WD__84000013_MAIN__5-Wedding-": {
-    "name": "STRINGTRIGGER_84000013_WD__84000013_MAIN__5_NAME:[F]Wedding",
+    "name": "二人とも、心が決まったならもう一度始めようか？\\n誓うなら、相手の名前を書いて愛の誓約をするのだ。",
     "npc": "아시모프",
     "type": "AddCinematicTalk"
   },
   "84000013_WD__84000013_MAIN__6-Wedding-": {
-    "name": "STRINGTRIGGER_84000013_WD__84000013_MAIN__6_NAME:[F]Wedding",
+    "name": "ここに、お二人が夫婦となったことを宣言します。",
     "npc": "아시모프",
     "type": "AddCinematicTalk"
   },
   "84000014_WD__84000014_MAIN__0-Wedding-": {
-    "name": "STRINGTRIGGER_84000014_WD__84000014_MAIN__0_NAME:[F]Wedding",
+    "name": "お二人とも、準備が整ったようですね。\\nでは結婚式を始めましょうか？",
     "npc": "나메드",
     "type": "AddCinematicTalk"
   },
@@ -37303,32 +37303,32 @@
     "type": "AddCinematicTalk"
   },
   "84000014_WD__84000014_MAIN__2-Wedding-": {
-    "name": "STRINGTRIGGER_84000014_WD__84000014_MAIN__2_NAME:[F]Wedding",
+    "name": "結婚式場から出て行ってしまうなんて…。\\n 失礼な方ですね。",
     "npc": "나메드",
     "type": "AddCinematicTalk"
   },
   "84000014_WD__84000014_MAIN__3-Wedding-": {
-    "name": "STRINGTRIGGER_84000014_WD__84000014_MAIN__3_NAME:[F]Wedding",
+    "name": "結婚式はお二人がそろわないと進行できません。\\nひとまず進行を中断して、戻ってこられるまで待つことにしましょう。",
     "npc": "나메드",
     "type": "AddCinematicTalk"
   },
   "84000014_WD__84000014_MAIN__4-Wedding-": {
-    "name": "STRINGTRIGGER_84000014_WD__84000014_MAIN__4_NAME:[F]Wedding",
+    "name": "お二人とも…まだ心が通じ合っていないようですね。\\n悩んでいるのですか？",
     "npc": "나메드",
     "type": "AddCinematicTalk"
   },
   "84000014_WD__84000014_MAIN__5-Wedding-": {
-    "name": "STRINGTRIGGER_84000014_WD__84000014_MAIN__5_NAME:[F]Wedding",
+    "name": "お二人の心が決まったなら、もう一度結婚式を始めましょうか？\\n誓うなら、相手の名前を書いて愛の誓約をしてください。",
     "npc": "나메드",
     "type": "AddCinematicTalk"
   },
   "84000014_WD__84000014_MAIN__6-Wedding-": {
-    "name": "STRINGTRIGGER_84000014_WD__84000014_MAIN__6_NAME:[F]Wedding",
+    "name": "ここに、お二人が夫婦となったことを宣言します。",
     "npc": "나메드",
     "type": "AddCinematicTalk"
   },
   "84000015_WD__84000015_MAIN__0-Wedding-": {
-    "name": "STRINGTRIGGER_84000015_WD__84000015_MAIN__0_NAME:[F]Wedding",
+    "name": "お二人とも、準備が整ったようですね～\\nでは結婚式を始めましょうか？",
     "npc": "클로리스",
     "type": "AddCinematicTalk"
   },
@@ -37338,62 +37338,62 @@
     "type": "AddCinematicTalk"
   },
   "84000015_WD__84000015_MAIN__2-Wedding-": {
-    "name": "STRINGTRIGGER_84000015_WD__84000015_MAIN__2_NAME:[F]Wedding",
+    "name": "結婚式場から出て行ってしまうなんて…。\\n 本当にひどいです。",
     "npc": "클로리스",
     "type": "AddCinematicTalk"
   },
   "84000015_WD__84000015_MAIN__3-Wedding-": {
-    "name": "STRINGTRIGGER_84000015_WD__84000015_MAIN__3_NAME:[F]Wedding",
+    "name": "結婚式はお二人がそろわないと進行できないんです。\\nひとまず進行を中断して、戻ってこられるまで待つことにしますね。",
     "npc": "클로리스",
     "type": "AddCinematicTalk"
   },
   "84000015_WD__84000015_MAIN__4-Wedding-": {
-    "name": "STRINGTRIGGER_84000015_WD__84000015_MAIN__4_NAME:[F]Wedding",
+    "name": "お二人とも…まだ心が通じ合っていないようです。\\n悩んでいらっしゃるのですか？",
     "npc": "클로리스",
     "type": "AddCinematicTalk"
   },
   "84000015_WD__84000015_MAIN__5-Wedding-": {
-    "name": "STRINGTRIGGER_84000015_WD__84000015_MAIN__5_NAME:[F]Wedding",
+    "name": "お二人の心が決まったなら、もう一度結婚式を始めましょうか？\\n誓うなら、相手の名前を書いて愛の誓約をしてください。",
     "npc": "클로리스",
     "type": "AddCinematicTalk"
   },
   "84000015_WD__84000015_MAIN__6-Wedding-": {
-    "name": "STRINGTRIGGER_84000015_WD__84000015_MAIN__6_NAME:[F]Wedding",
+    "name": "ここに、お二人が夫婦となったことを宣言します。",
     "npc": "클로리스",
     "type": "AddCinematicTalk"
   },
   "84000016_WD__84000016_MAIN__0-Wedding-": {
-    "name": "STRINGTRIGGER_84000016_WD__84000016_MAIN__0_NAME:[F]Wedding",
+    "name": "準備が終わったようですね！\\nでは～式を始めましょうか？",
     "npc": "데이데이",
     "type": "AddCinematicTalk"
   },
   "84000016_WD__84000016_MAIN__1-Wedding-": {
-    "name": "STRINGTRIGGER_84000016_WD__84000016_MAIN__1_NAME:[F]Wedding",
+    "name": "お二人は、互いに愛し合い仲良く暮らすことを誓いますか？\\n誓うなら、相手の名前を書いて愛の誓約をしてください！",
     "npc": "데이데이",
     "type": "AddCinematicTalk"
   },
   "84000016_WD__84000016_MAIN__2-Wedding-": {
-    "name": "STRINGTRIGGER_84000016_WD__84000016_MAIN__2_NAME:[F]Wedding",
+    "name": "あらら、結婚式場から出て行ってしまうなんて…。\\nがっかりです！",
     "npc": "데이데이",
     "type": "AddCinematicTalk"
   },
   "84000016_WD__84000016_MAIN__3-Wedding-": {
-    "name": "STRINGTRIGGER_84000016_WD__84000016_MAIN__3_NAME:[F]Wedding",
+    "name": "結婚式はお二人がそろわないと進行できないんです。\\nひとまず進行を中断して、戻ってくるまで待ってみますね。",
     "npc": "데이데이",
     "type": "AddCinematicTalk"
   },
   "84000016_WD__84000016_MAIN__4-Wedding-": {
-    "name": "STRINGTRIGGER_84000016_WD__84000016_MAIN__4_NAME:[F]Wedding",
+    "name": "あらら、お二人の心が通じ合っていないのですか？\\nまさかまだ心を決められずにいるのではないですよね？",
     "npc": "데이데이",
     "type": "AddCinematicTalk"
   },
   "84000016_WD__84000016_MAIN__5-Wedding-": {
-    "name": "STRINGTRIGGER_84000016_WD__84000016_MAIN__5_NAME:[F]Wedding",
+    "name": "お二人とも、心が決まったならもう一度始めましょうか？\\n誓うなら、相手の名前を書いて愛の誓約をしてください！",
     "npc": "데이데이",
     "type": "AddCinematicTalk"
   },
   "84000016_WD__84000016_MAIN__6-Wedding-": {
-    "name": "STRINGTRIGGER_84000016_WD__84000016_MAIN__6_NAME:[F]Wedding",
+    "name": "ここに、お二人が夫婦となったことを宣言します。",
     "npc": "데이데이",
     "type": "AddCinematicTalk"
   },
@@ -37423,87 +37423,87 @@
     "type": "AddCinematicTalk"
   },
   "84000021_WD__84000021_MAIN__5-Wedding-": {
-    "name": "STRINGTRIGGER_84000021_WD__84000021_MAIN__5_NAME:[F]Wedding",
+    "name": "落ち着いてもう一度入力してください。\\nひとまず進行を中断して、戻ってこられるまで待ってみますね。",
     "npc": "루아나",
     "type": "AddCinematicTalk"
   },
   "84000021_WD__84000021_MAIN__6-Wedding-": {
-    "name": "STRINGTRIGGER_84000021_WD__84000021_MAIN__6_NAME:[F]Wedding",
+    "name": "ここに、お二人が夫婦となったことを宣言します。",
     "npc": "루아나",
     "type": "AddCinematicTalk"
   },
   "84000022_WD__84000022_MAIN__0-Wedding-": {
-    "name": "STRINGTRIGGER_84000022_WD__84000022_MAIN__0_NAME:[F]Wedding",
+    "name": "二人とも、準備が整ったようだな。\\nでは結婚式を始めようか？",
     "npc": "마노비치",
     "type": "AddCinematicTalk"
   },
   "84000022_WD__84000022_MAIN__1-Wedding-": {
-    "name": "STRINGTRIGGER_84000022_WD__84000022_MAIN__1_NAME:[F]Wedding",
+    "name": "二人は、互いに愛し合い仲良く暮らすことを誓うか？\\n誓うなら、相手の名前を書いて愛の誓約をするのだ。",
     "npc": "마노비치",
     "type": "AddCinematicTalk"
   },
   "84000022_WD__84000022_MAIN__2-Wedding-": {
-    "name": "STRINGTRIGGER_84000022_WD__84000022_MAIN__2_NAME:[F]Wedding",
+    "name": "結婚式場から出て行ってしまうとは…。\\n なかなか無責任な者だな。",
     "npc": "마노비치",
     "type": "AddCinematicTalk"
   },
   "84000022_WD__84000022_MAIN__3-Wedding-": {
-    "name": "STRINGTRIGGER_84000022_WD__84000022_MAIN__3_NAME:[F]Wedding",
+    "name": "結婚式は二人がそろわなければ進行できないのだ。\\nひとまず進行を中断して、戻ってくるまで待つとしよう。",
     "npc": "마노비치",
     "type": "AddCinematicTalk"
   },
   "84000022_WD__84000022_MAIN__4-Wedding-": {
-    "name": "STRINGTRIGGER_84000022_WD__84000022_MAIN__4_NAME:[F]Wedding",
+    "name": "二人とも…まだ心が通じ合っていないようだな。\\n悩んでいるのか？",
     "npc": "마노비치",
     "type": "AddCinematicTalk"
   },
   "84000022_WD__84000022_MAIN__5-Wedding-": {
-    "name": "STRINGTRIGGER_84000022_WD__84000022_MAIN__5_NAME:[F]Wedding",
+    "name": "二人の心が決まったなら、もう一度結婚式を始めようか？\\n誓うなら、相手の名前を書いて愛の誓約をするのだ。",
     "npc": "마노비치",
     "type": "AddCinematicTalk"
   },
   "84000022_WD__84000022_MAIN__6-Wedding-": {
-    "name": "STRINGTRIGGER_84000022_WD__84000022_MAIN__6_NAME:[F]Wedding",
+    "name": "ここに、お二人が夫婦となったことを宣言します。",
     "npc": "마노비치",
     "type": "AddCinematicTalk"
   },
   "84000023_WD__84000023_MAIN__0-Wedding-": {
-    "name": "STRINGTRIGGER_84000023_WD__84000023_MAIN__0_NAME:[F]Wedding",
+    "name": "準備が終わったようだな。\\nでは式を始めようか？",
     "npc": "아시모프",
     "type": "AddCinematicTalk"
   },
   "84000023_WD__84000023_MAIN__1-Wedding-": {
-    "name": "STRINGTRIGGER_84000023_WD__84000023_MAIN__1_NAME:[F]Wedding",
+    "name": "二人は、互いに愛し合い仲良く暮らすことを誓うか？\\n誓うなら、相手の名前を書いて愛の誓約をするのだ。",
     "npc": "아시모프",
     "type": "AddCinematicTalk"
   },
   "84000023_WD__84000023_MAIN__2-Wedding-": {
-    "name": "STRINGTRIGGER_84000023_WD__84000023_MAIN__2_NAME:[F]Wedding",
+    "name": "おやおや、結婚式場から出て行ってしまうとは。\\n無責任な者め！",
     "npc": "아시모프",
     "type": "AddCinematicTalk"
   },
   "84000023_WD__84000023_MAIN__3-Wedding-": {
-    "name": "STRINGTRIGGER_84000023_WD__84000023_MAIN__3_NAME:[F]Wedding",
+    "name": "結婚式は二人がそろわなければ進行できないのだ。\\nひとまず進行を中断して、戻ってくるまで待つとしよう。",
     "npc": "아시모프",
     "type": "AddCinematicTalk"
   },
   "84000023_WD__84000023_MAIN__4-Wedding-": {
-    "name": "STRINGTRIGGER_84000023_WD__84000023_MAIN__4_NAME:[F]Wedding",
+    "name": "おやおや、二人の心はまだ通じ合っていないのか？\\nまさかまだ心を決められずにいるのではあるまいな？",
     "npc": "아시모프",
     "type": "AddCinematicTalk"
   },
   "84000023_WD__84000023_MAIN__5-Wedding-": {
-    "name": "STRINGTRIGGER_84000023_WD__84000023_MAIN__5_NAME:[F]Wedding",
+    "name": "二人とも、心が決まったならもう一度始めようか？\\n誓うなら、相手の名前を書いて愛の誓約をするのだ。",
     "npc": "아시모프",
     "type": "AddCinematicTalk"
   },
   "84000023_WD__84000023_MAIN__6-Wedding-": {
-    "name": "STRINGTRIGGER_84000023_WD__84000023_MAIN__6_NAME:[F]Wedding",
+    "name": "ここに、お二人が夫婦となったことを宣言します。",
     "npc": "아시모프",
     "type": "AddCinematicTalk"
   },
   "84000024_WD__84000024_MAIN__0-Wedding-": {
-    "name": "STRINGTRIGGER_84000024_WD__84000024_MAIN__0_NAME:[F]Wedding",
+    "name": "お二人とも、準備が整ったようですね。\\nでは結婚式を始めましょうか？",
     "npc": "나메드",
     "type": "AddCinematicTalk"
   },
@@ -37513,32 +37513,32 @@
     "type": "AddCinematicTalk"
   },
   "84000024_WD__84000024_MAIN__2-Wedding-": {
-    "name": "STRINGTRIGGER_84000024_WD__84000024_MAIN__2_NAME:[F]Wedding",
+    "name": "結婚式場から出て行ってしまうなんて…。\\n 失礼な方ですね。",
     "npc": "나메드",
     "type": "AddCinematicTalk"
   },
   "84000024_WD__84000024_MAIN__3-Wedding-": {
-    "name": "STRINGTRIGGER_84000024_WD__84000024_MAIN__3_NAME:[F]Wedding",
+    "name": "結婚式はお二人がそろわないと進行できません。\\nひとまず進行を中断して、戻ってこられるまで待つことにしましょう。",
     "npc": "나메드",
     "type": "AddCinematicTalk"
   },
   "84000024_WD__84000024_MAIN__4-Wedding-": {
-    "name": "STRINGTRIGGER_84000024_WD__84000024_MAIN__4_NAME:[F]Wedding",
+    "name": "お二人とも…まだ心が通じ合っていないようですね。\\n悩んでいるのですか？",
     "npc": "나메드",
     "type": "AddCinematicTalk"
   },
   "84000024_WD__84000024_MAIN__5-Wedding-": {
-    "name": "STRINGTRIGGER_84000024_WD__84000024_MAIN__5_NAME:[F]Wedding",
+    "name": "お二人の心が決まったなら、もう一度結婚式を始めましょうか？\\n誓うなら、相手の名前を書いて愛の誓約をしてください。",
     "npc": "나메드",
     "type": "AddCinematicTalk"
   },
   "84000024_WD__84000024_MAIN__6-Wedding-": {
-    "name": "STRINGTRIGGER_84000024_WD__84000024_MAIN__6_NAME:[F]Wedding",
+    "name": "ここに、お二人が夫婦となったことを宣言します。",
     "npc": "나메드",
     "type": "AddCinematicTalk"
   },
   "84000025_WD__84000025_MAIN__0-Wedding-": {
-    "name": "STRINGTRIGGER_84000025_WD__84000025_MAIN__0_NAME:[F]Wedding",
+    "name": "お二人とも、準備が整ったようですね～\\nでは結婚式を始めましょうか？",
     "npc": "클로리스",
     "type": "AddCinematicTalk"
   },
@@ -37548,62 +37548,62 @@
     "type": "AddCinematicTalk"
   },
   "84000025_WD__84000025_MAIN__2-Wedding-": {
-    "name": "STRINGTRIGGER_84000025_WD__84000025_MAIN__2_NAME:[F]Wedding",
+    "name": "結婚式場から出て行ってしまうなんて…。\\n 本当にひどいです。",
     "npc": "클로리스",
     "type": "AddCinematicTalk"
   },
   "84000025_WD__84000025_MAIN__3-Wedding-": {
-    "name": "STRINGTRIGGER_84000025_WD__84000025_MAIN__3_NAME:[F]Wedding",
+    "name": "結婚式はお二人がそろわないと進行できないんです。\\nひとまず進行を中断して、戻ってこられるまで待つことにしますね。",
     "npc": "클로리스",
     "type": "AddCinematicTalk"
   },
   "84000025_WD__84000025_MAIN__4-Wedding-": {
-    "name": "STRINGTRIGGER_84000025_WD__84000025_MAIN__4_NAME:[F]Wedding",
+    "name": "お二人とも…まだ心が通じ合っていないようです。\\n悩んでいらっしゃるのですか？",
     "npc": "클로리스",
     "type": "AddCinematicTalk"
   },
   "84000025_WD__84000025_MAIN__5-Wedding-": {
-    "name": "STRINGTRIGGER_84000025_WD__84000025_MAIN__5_NAME:[F]Wedding",
+    "name": "お二人の心が決まったなら、もう一度結婚式を始めましょうか？\\n誓うなら、相手の名前を書いて愛の誓約をしてください。",
     "npc": "클로리스",
     "type": "AddCinematicTalk"
   },
   "84000025_WD__84000025_MAIN__6-Wedding-": {
-    "name": "STRINGTRIGGER_84000025_WD__84000025_MAIN__6_NAME:[F]Wedding",
+    "name": "ここに、お二人が夫婦となったことを宣言します。",
     "npc": "클로리스",
     "type": "AddCinematicTalk"
   },
   "84000026_WD__84000026_MAIN__0-Wedding-": {
-    "name": "STRINGTRIGGER_84000026_WD__84000026_MAIN__0_NAME:[F]Wedding",
+    "name": "準備が終わったようですね！\\nでは～式を始めましょうか？",
     "npc": "데이데이",
     "type": "AddCinematicTalk"
   },
   "84000026_WD__84000026_MAIN__1-Wedding-": {
-    "name": "STRINGTRIGGER_84000026_WD__84000026_MAIN__1_NAME:[F]Wedding",
+    "name": "お二人は、互いに愛し合い仲良く暮らすことを誓いますか？\\n誓うなら、相手の名前を書いて愛の誓約をしてください！",
     "npc": "데이데이",
     "type": "AddCinematicTalk"
   },
   "84000026_WD__84000026_MAIN__2-Wedding-": {
-    "name": "STRINGTRIGGER_84000026_WD__84000026_MAIN__2_NAME:[F]Wedding",
+    "name": "あらら、結婚式場から出て行ってしまうなんて…。\\nがっかりです！",
     "npc": "데이데이",
     "type": "AddCinematicTalk"
   },
   "84000026_WD__84000026_MAIN__3-Wedding-": {
-    "name": "STRINGTRIGGER_84000026_WD__84000026_MAIN__3_NAME:[F]Wedding",
+    "name": "結婚式はお二人がそろわないと進行できないんです。\\nひとまず進行を中断して、戻ってくるまで待ってみますね。",
     "npc": "데이데이",
     "type": "AddCinematicTalk"
   },
   "84000026_WD__84000026_MAIN__4-Wedding-": {
-    "name": "STRINGTRIGGER_84000026_WD__84000026_MAIN__4_NAME:[F]Wedding",
+    "name": "あらら、お二人の心が通じ合っていないのですか？\\nまさかまだ心を決められずにいるのではないですよね？",
     "npc": "데이데이",
     "type": "AddCinematicTalk"
   },
   "84000026_WD__84000026_MAIN__5-Wedding-": {
-    "name": "STRINGTRIGGER_84000026_WD__84000026_MAIN__5_NAME:[F]Wedding",
+    "name": "お二人とも、心が決まったならもう一度始めましょうか？\\n誓うなら、相手の名前を書いて愛の誓約をしてください！",
     "npc": "데이데이",
     "type": "AddCinematicTalk"
   },
   "84000026_WD__84000026_MAIN__6-Wedding-": {
-    "name": "STRINGTRIGGER_84000026_WD__84000026_MAIN__6_NAME:[F]Wedding",
+    "name": "ここに、お二人が夫婦となったことを宣言します。",
     "npc": "데이데이",
     "type": "AddCinematicTalk"
   },

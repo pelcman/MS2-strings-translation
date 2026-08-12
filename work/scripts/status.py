@@ -6,7 +6,8 @@
 - 残り   = 未翻訳(プレースホルダー/ハングル残存)のうち KO/EN いずれかに実文があるもの
 - 残置   = 全言語プレースホルダーのみ(翻訳元が存在しない。方針により残す)
 - 対象外フィールド: comment/commend/commnet/isTutorial、addressname の *Kor、
-  stringcommon の desc、maidmanufacturemessage の npc(JMS2 でも韓国語のままの内部ラベル)
+  stringcommon の desc、maidmanufacturemessage の npc(JMS2 でも韓国語のままの内部ラベル)、
+  stringtrigger/scriptquest の npc・type(話者IDとトリガー関数名。JP・EN とも原文のまま)
 """
 import json, re, sys, io, glob, os
 
@@ -37,6 +38,8 @@ def main():
                 if fn == "stringcommon" and f == "desc":
                     continue
                 if fn == "maidmanufacturemessage" and f == "npc":
+                    continue
+                if fn in ("stringtrigger", "scriptquest") and f in ("npc", "type"):
                     continue
                 total += 1
                 if not (PH.search(s) or HG.search(s)):
