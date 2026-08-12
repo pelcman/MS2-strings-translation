@@ -7416,7 +7416,7 @@
     "type": "대화를설정한다"
   },
   "02010049_BF__MAIN01__0--": {
-    "name": "STRINGTRIGGER_02010049_BF__MAIN01__0_NAME",
+    "name": "虫のウォーターパーク：害虫退治大作戦",
     "npc": "NotUse"
   },
   "02010051_BF__PORTAL03__0--": {
@@ -7475,7 +7475,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02010052_BF__MAIN__0--": {
-    "name": "STRINGTRIGGER_02010052_BF__MAIN__0_NAME",
+    "name": "凍りついた神殿：少女の祈り",
     "npc": "NotUse"
   },
   "02010052_BF__MAIN__1--": {
@@ -7579,7 +7579,7 @@
     "type": "이벤트UI를설정한다"
   },
   "02010054_BF__MAIN__0--": {
-    "name": "STRINGTRIGGER_02010054_BF__MAIN__0_NAME",
+    "name": "ダンジョン目標：グラズナの退治",
     "npc": "NotUse"
   },
   "02010054_BF__MAIN__1--": {
@@ -26640,7 +26640,7 @@
     "type": "SideNpcTalk"
   },
   "02020020_BF__02020020_battle__1-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020020_BF__02020020_BATTLE__1_NAME:[F]FameChallengeDungeon",
+    "name": "今回は少し手強いんじゃないかと思いますけど？",
     "npc": "NotUse"
   },
   "02020020_BF__02020020_battle__2-FameChallengeDungeon-": {
@@ -27826,7 +27826,7 @@
     "npc": "NotUse"
   },
   "02020027_BF__stun_2__2-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_2__2_NAME:[F]FameChallengeDungeon",
+    "name": "神託の時が来た。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_2__3-FameChallengeDungeon-": {
@@ -27850,7 +27850,7 @@
     "npc": "NotUse"
   },
   "02020027_BF__stun_3__2-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_3__2_NAME:[F]FameChallengeDungeon",
+    "name": "神託の時が来た。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_3__3-FameChallengeDungeon-": {
@@ -27874,7 +27874,7 @@
     "npc": "NotUse"
   },
   "02020027_BF__stun_4__2-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_4__2_NAME:[F]FameChallengeDungeon",
+    "name": "神託の時が来た。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_4__3-FameChallengeDungeon-": {
@@ -27898,7 +27898,7 @@
     "npc": "NotUse"
   },
   "02020027_BF__stun_5__2-FameChallengeDungeon-": {
-    "name": "STRINGTRIGGER_02020027_BF__STUN_5__2_NAME:[F]FameChallengeDungeon",
+    "name": "神託の時が来た。",
     "npc": "NotUse"
   },
   "02020027_BF__stun_5__3-FameChallengeDungeon-": {
@@ -32008,92 +32008,92 @@
     "type": "AddCinematicTalk"
   },
   "02020006_BF__1000051_NPCTALK__0-Kritias_2018_12-": {
-    "name": "STRINGTRIGGER_02020006_BF__1000051_NPCTALK__0_NAME:[F]Kritias_2018_12",
+    "name": "チッ！！最近の若い連中は礼儀がなってない！！",
     "npc": "포잉",
     "type": "AddBalloonTalk"
   },
   "02020006_BF__1000052_NPCTALK__0-Kritias_2018_12-": {
-    "name": "STRINGTRIGGER_02020006_BF__1000052_NPCTALK__0_NAME:[F]Kritias_2018_12",
+    "name": "(なんだ…なんでじっと見てるんだ…伏せてさえいなければ…)",
     "npc": "포잉",
     "type": "AddBalloonTalk"
   },
   "02020009_BF__1000051_NPCTALK__0-Kritias_2018_12-": {
-    "name": "STRINGTRIGGER_02020009_BF__1000051_NPCTALK__0_NAME:[F]Kritias_2018_12",
+    "name": "チッ！！最近の若い連中は礼儀がなってない！！",
     "npc": "포잉",
     "type": "AddBalloonTalk"
   },
   "02020009_BF__1000052_NPCTALK__0-Kritias_2018_12-": {
-    "name": "STRINGTRIGGER_02020009_BF__1000052_NPCTALK__0_NAME:[F]Kritias_2018_12",
+    "name": "(なんだ…なんでじっと見てるんだ…伏せてさえいなければ…)",
     "npc": "포잉",
     "type": "AddBalloonTalk"
   },
   "02020031_BF__1000051_NPCTALK__0-Kritias_2018_12-": {
-    "name": "STRINGTRIGGER_02020031_BF__1000051_NPCTALK__0_NAME:[F]Kritias_2018_12",
+    "name": "チッ！！最近の若い連中は礼儀がなってない！！",
     "npc": "포잉",
     "type": "AddBalloonTalk"
   },
   "02020031_BF__1000052_NPCTALK__0-Kritias_2018_12-": {
-    "name": "STRINGTRIGGER_02020031_BF__1000052_NPCTALK__0_NAME:[F]Kritias_2018_12",
+    "name": "(なんだ…なんでじっと見てるんだ…伏せてさえいなければ…)",
     "npc": "포잉",
     "type": "AddBalloonTalk"
   },
   "02020061_BF__BATTLE_1__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__BATTLE_1__0_NAME:[F]Fieldwar01",
+    "name": "我が手下どもよ。動け！",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020061_BF__BATTLE_1__1-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__BATTLE_1__1_NAME:[F]Fieldwar01",
+    "name": "強大な魔力を感じるな。ネイリン、分析を頼む。",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020061_BF__BATTLE_1__2-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__BATTLE_1__2_NAME:[F]Fieldwar01",
+    "name": "え…とてつもない魔力を感知しました。データ分析を開始します。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020061_BF__BATTLE_2__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__BATTLE_2__0_NAME:[F]Fieldwar01",
+    "name": "なかなかやるな。ならば見せてやろう。強力な闇の力を！！",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020061_BF__BATTLE_2__1-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__BATTLE_2__1_NAME:[F]Fieldwar01",
+    "name": "データ分析完了！召喚されたエネルから強力な力を感知しました。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020061_BF__BATTLE_2__2-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__BATTLE_2__2_NAME:[F]Fieldwar01",
+    "name": "全隊員は闇の力が流れ出ているエネルを探せ！",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020061_BF__BATTLE_3__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__BATTLE_3__0_NAME:[F]Fieldwar01",
+    "name": "こいつらめ！軍団長よ、奴らを片付けろ！",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020061_BF__BATTLE_3__1-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__BATTLE_3__1_NAME:[F]Fieldwar01",
+    "name": "エネルを破壊して軍団長の防御膜を除去してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020061_BF__BATTLE_3__2-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__BATTLE_3__2_NAME:[F]Fieldwar01",
+    "name": "以前と同一の魔力パターンを検知しました。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020061_BF__BATTLE_3__3-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__BATTLE_3__3_NAME:[F]Fieldwar01",
+    "name": "同じ手口とは、単純だな。全ての祭壇を見つけて破壊せよ！",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020061_BF__BOSS_INVINCIBLE_OFF__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__BOSS_INVINCIBLE_OFF__0_NAME:[F]Fieldwar01",
+    "name": "軍団長の防御膜が破壊されました。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020061_BF__MAIN__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__MAIN__0_NAME:[F]Fieldwar01",
+    "name": "闇の軍団を召喚する召喚体を破壊しなければなりません。\\n召喚体はトゥルカの強力な魔法に守られています。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -32103,142 +32103,142 @@
     "type": "이벤트UI를설정한다"
   },
   "02020061_BF__MAIN__2-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__MAIN__2_NAME:[F]Fieldwar01",
+    "name": "闇の軍団の攻勢を防いでください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020061_BF__MAIN__3-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__MAIN__3_NAME:[F]Fieldwar01",
+    "name": "トゥルカがエネルの欠片を召喚しました。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020061_BF__MAIN__4-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__MAIN__4_NAME:[F]Fieldwar01",
+    "name": "トゥルカが召喚した闇の軍団の軍団長を退治してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020061_BF__MAIN__5-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__MAIN__5_NAME:[F]Fieldwar01",
+    "name": "チッ、やられたか。",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020061_BF__MAIN__6-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__MAIN__6_NAME:[F]Fieldwar01",
+    "name": "何度来ても結論は同じだ。いつでも撃退してやる。",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020061_BF__MAIN__7-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__MAIN__7_NAME:[F]Fieldwar01",
+    "name": "言った通りだろう。お前たちはまだまだだな！",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020061_BF__MAIN__8-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__MAIN__8_NAME:[F]Fieldwar01",
+    "name": "クッ…後退しろ、態勢を立て直す。",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020061_BF__MESSAGE__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__MESSAGE__0_NAME:[F]Fieldwar01",
+    "name": "入場を待っています。\\nまもなくゲームが始まります。\\n10人集まればすぐに開始されます。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020061_BF__OBJECT1__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__OBJECT1__0_NAME:[F]Fieldwar01",
+    "name": "トゥルカの黒い魔力を感知しました。\\n召喚されたエネルを破壊してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020061_BF__OBJECT1__1-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__OBJECT1__1_NAME:[F]Fieldwar01",
+    "name": "破壊したエネルから落ちた破片を拾って\\n闇の軍団召喚体に使用してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020061_BF__OBJECT2__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__OBJECT2__0_NAME:[F]Fieldwar01",
+    "name": "トゥルカの黒い魔力を感知しました。\\n召喚されたエネルを破壊してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020061_BF__OBJECT2__1-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__OBJECT2__1_NAME:[F]Fieldwar01",
+    "name": "破壊したエネルから落ちた破片を拾って\\n闇の軍団召喚体に使用してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020061_BF__OBJECT3__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__OBJECT3__0_NAME:[F]Fieldwar01",
+    "name": "トゥルカの黒い魔力を感知しました。\\n召喚されたエネルを破壊してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020061_BF__OBJECT3__1-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__OBJECT3__1_NAME:[F]Fieldwar01",
+    "name": "破壊したエネルから落ちた破片を拾って\\n闇の軍団召喚体に使用してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020061_BF__OBJECT4__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__OBJECT4__0_NAME:[F]Fieldwar01",
+    "name": "トゥルカの黒い魔力を感知しました。\\n召喚されたエネルを破壊してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020061_BF__OBJECT4__1-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020061_BF__OBJECT4__1_NAME:[F]Fieldwar01",
+    "name": "破壊したエネルから落ちた破片を拾って\\n闇の軍団召喚体に使用してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020062_BF__BATTLE_1__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__BATTLE_1__0_NAME:[F]Fieldwar01",
+    "name": "我が手下どもよ。動け！",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020062_BF__BATTLE_1__1-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__BATTLE_1__1_NAME:[F]Fieldwar01",
+    "name": "強大な魔力を感じるな。ネイリン、分析を頼む。",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020062_BF__BATTLE_1__2-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__BATTLE_1__2_NAME:[F]Fieldwar01",
+    "name": "え…とてつもない魔力を感知しました。データ分析を開始します。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020062_BF__BATTLE_2__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__BATTLE_2__0_NAME:[F]Fieldwar01",
+    "name": "なかなかやるな。ならば見せてやろう。強力な闇の力を！",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020062_BF__BATTLE_2__1-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__BATTLE_2__1_NAME:[F]Fieldwar01",
+    "name": "データ分析完了！召喚されたエネルから強力な力を感知しました。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020062_BF__BATTLE_2__2-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__BATTLE_2__2_NAME:[F]Fieldwar01",
+    "name": "全隊員は闇の力が流れ出ているエネルを探せ！",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020062_BF__BATTLE_3__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__BATTLE_3__0_NAME:[F]Fieldwar01",
+    "name": "こいつらめ！軍団長よ、奴らを片付けろ！",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020062_BF__BATTLE_3__1-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__BATTLE_3__1_NAME:[F]Fieldwar01",
+    "name": "以前と同一の魔力パターンを検知しました。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020062_BF__BATTLE_3__2-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__BATTLE_3__2_NAME:[F]Fieldwar01",
+    "name": "エネルを破壊して軍団長の防御膜を除去してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020062_BF__BATTLE_3__3-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__BATTLE_3__3_NAME:[F]Fieldwar01",
+    "name": "同じ手口とは、単純だな。全てのエネルを見つけて破壊せよ！",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020062_BF__BOSS_INVINCIBLE_OFF__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__BOSS_INVINCIBLE_OFF__0_NAME:[F]Fieldwar01",
+    "name": "軍団長の防御膜が破壊されました。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020062_BF__MAIN__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__MAIN__0_NAME:[F]Fieldwar01",
+    "name": "闇の軍団を召喚する召喚体を破壊しなければなりません。\\n召喚体はトゥルカの強力な魔法に守られています。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -32248,22 +32248,22 @@
     "type": "이벤트UI를설정한다"
   },
   "02020062_BF__MAIN__2-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__MAIN__2_NAME:[F]Fieldwar01",
+    "name": "闇の軍団の攻勢を防いでください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020062_BF__MAIN__3-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__MAIN__3_NAME:[F]Fieldwar01",
+    "name": "トゥルカがエネルの欠片を召喚しました。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020062_BF__MAIN__4-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__MAIN__4_NAME:[F]Fieldwar01",
+    "name": "トゥルカが召喚した闇の軍団の軍団長を退治してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020062_BF__MAIN__5-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__MAIN__5_NAME:[F]Fieldwar01",
+    "name": "チッ、やられたか。",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
@@ -32273,77 +32273,77 @@
     "type": "SideNpcTalk"
   },
   "02020062_BF__MAIN__7-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__MAIN__7_NAME:[F]Fieldwar01",
+    "name": "言った通りだろう。お前たちはまだまだだな！",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020062_BF__MAIN__8-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__MAIN__8_NAME:[F]Fieldwar01",
+    "name": "クッ…後退しろ、態勢を立て直す。",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020062_BF__MESSAGE__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__MESSAGE__0_NAME:[F]Fieldwar01",
+    "name": "入場を待っています。\\nまもなくゲームが始まります。\\n10人集まればすぐに開始されます。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020062_BF__OBJECT1__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__OBJECT1__0_NAME:[F]Fieldwar01",
+    "name": "トゥルカの黒い魔力を感知しました。\\n召喚されたエネルを破壊してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020062_BF__OBJECT1__1-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__OBJECT1__1_NAME:[F]Fieldwar01",
+    "name": "破壊したエネルから落ちた破片を拾って\\n闇の軍団召喚体に使用してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020062_BF__OBJECT2__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__OBJECT2__0_NAME:[F]Fieldwar01",
+    "name": "トゥルカの黒い魔力を感知しました。\\n召喚されたエネルを破壊してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020062_BF__OBJECT2__1-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__OBJECT2__1_NAME:[F]Fieldwar01",
+    "name": "破壊したエネルから落ちた破片を拾って\\n闇の軍団召喚体に使用してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020062_BF__OBJECT3__0-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__OBJECT3__0_NAME:[F]Fieldwar01",
+    "name": "トゥルカの黒い魔力を感知しました。\\n召喚されたエネルを破壊してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020062_BF__OBJECT3__1-Fieldwar01-": {
-    "name": "STRINGTRIGGER_02020062_BF__OBJECT3__1_NAME:[F]Fieldwar01",
+    "name": "破壊したエネルから落ちた破片を拾って\\n闇の軍団召喚体に使用してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020051_BF__101_MAIN__0-Gigantica01-": {
-    "name": "STRINGTRIGGER_02020051_BF__101_MAIN__0_NAME:[F]Gigantica01",
+    "name": "正体不明の機械がレーダーに捕捉されました！！こ…これはギガンティカ？！！",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020051_BF__101_MAIN__1-Gigantica01-": {
-    "name": "STRINGTRIGGER_02020051_BF__101_MAIN__1_NAME:[F]Gigantica01",
+    "name": "ギガンティカが現れました。追跡してください！！",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020051_BF__101_MAIN__2-Gigantica01-": {
-    "name": "STRINGTRIGGER_02020051_BF__101_MAIN__2_NAME:[F]Gigantica01",
+    "name": "ギガンティカを見つけて破壊してください！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020051_BF__102_TIMMER__0-Gigantica01-": {
-    "name": "STRINGTRIGGER_02020051_BF__102_TIMMER__0_NAME:[F]Gigantica01",
+    "name": "ギガンティカに逃げられてしまいましたね…。大丈夫です！次にまた追跡してみましょう。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020051_BF__104_END_1__0-Gigantica01-": {
-    "name": "STRINGTRIGGER_02020051_BF__104_END_1__0_NAME:[F]Gigantica01",
+    "name": "ギガンティカは時間が経つほど強力になります！これを阻止する方法を探してください！！",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020051_BF__107_TEXT__0-Gigantica01-": {
-    "name": "STRINGTRIGGER_02020051_BF__107_TEXT__0_NAME:[F]Gigantica01",
+    "name": "ギガンティカに連続でダメージを受けると危険です！！攻撃を受けたら周りのモンスターを退治して治療薬を獲得してください。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
@@ -33053,77 +33053,77 @@
     "type": "AddCinematicTalk"
   },
   "02020063_BF__BATTLE_1__0-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__BATTLE_1__0_NAME:[F]Fieldwar02",
+    "name": "紛失していたエネル分光装置の所在を把握した。今すぐ回収せよ！",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020063_BF__BATTLE_1__1-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__BATTLE_1__1_NAME:[F]Fieldwar02",
+    "name": "ククク、貴様らはもう手遅れだ。",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020063_BF__BATTLE_1__2-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__BATTLE_1__2_NAME:[F]Fieldwar02",
+    "name": "気をつけてください！ものすごい数の敵を検知しました。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020063_BF__BATTLE_2__0-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__BATTLE_2__0_NAME:[F]Fieldwar02",
+    "name": "しつこい奴らめ！闇の軍団の最新兵器を見せてやる！",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020063_BF__BATTLE_2__1-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__BATTLE_2__1_NAME:[F]Fieldwar02",
+    "name": "ミサイル砲台から強力な防御膜を検知しました。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020063_BF__BATTLE_2__2-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__BATTLE_2__2_NAME:[F]Fieldwar02",
+    "name": "今すぐ、要員たちに補給ボックスを支援せよ！",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020063_BF__BATTLE_2__3-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__BATTLE_2__3_NAME:[F]Fieldwar02",
+    "name": "スカイフォートレス補給ボックスを利用して\\n闇の軍団ミサイル砲台の防御膜を破壊してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020063_BF__BATTLE_2__4-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__BATTLE_2__4_NAME:[F]Fieldwar02",
+    "name": "ミサイル砲台を追加で検知しました！",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020063_BF__BATTLE_2__5-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__BATTLE_2__5_NAME:[F]Fieldwar02",
+    "name": "また別のミサイル砲台を検知しました！",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020063_BF__BATTLE_2__6-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__BATTLE_2__6_NAME:[F]Fieldwar02",
+    "name": "全てのミサイル砲台を破壊しました！",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020063_BF__BATTLE_3__0-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__BATTLE_3__0_NAME:[F]Fieldwar02",
+    "name": "トゥルカが召喚した闇の軍団の軍団長を退治してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020063_BF__BATTLE_3__1-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__BATTLE_3__1_NAME:[F]Fieldwar02",
+    "name": "補給ボックスから支援を得て闇の軍団の防御膜を破壊してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020063_BF__BATTLE_3__2-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__BATTLE_3__2_NAME:[F]Fieldwar02",
+    "name": "以前と同一の魔力パターンを検知しました。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020063_BF__BATTLE_3__3-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__BATTLE_3__3_NAME:[F]Fieldwar02",
+    "name": "学習能力というものがない奴だな。補給ボックスを支援せよ！",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020063_BF__MAIN__0-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__MAIN__0_NAME:[F]Fieldwar02",
+    "name": "ゲオルクが輸送していたエネル分光装置が発見されました。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -33133,12 +33133,12 @@
     "type": "이벤트UI를설정한다"
   },
   "02020063_BF__MAIN__2-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__MAIN__2_NAME:[F]Fieldwar02",
+    "name": "闇の軍団からエネル分光装置を保護してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020063_BF__MAIN__3-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__MAIN__3_NAME:[F]Fieldwar02",
+    "name": "トゥルカが闇の軍団ミサイル砲台を召喚しました。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -33148,7 +33148,7 @@
     "type": "SideNpcTalk"
   },
   "02020063_BF__MAIN__5-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__MAIN__5_NAME:[F]Fieldwar02",
+    "name": "チッ、やられたか。",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
@@ -33163,12 +33163,12 @@
     "type": "SideNpcTalk"
   },
   "02020063_BF__MAIN__8-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__MAIN__8_NAME:[F]Fieldwar02",
+    "name": "クッ…後退しろ、態勢を立て直す。",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020063_BF__MESSAGE__0-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020063_BF__MESSAGE__0_NAME:[F]Fieldwar02",
+    "name": "入場を待っています。\\nまもなくゲームが始まります。\\n10人集まればすぐに開始されます。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -33188,67 +33188,67 @@
     "type": "이벤트UI를설정한다"
   },
   "02020065_BF__BATTLE_1__0-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__BATTLE_1__0_NAME:[F]Fieldwar02",
+    "name": "紛失していたエネル分光装置の所在を把握した。今すぐ回収せよ！",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020065_BF__BATTLE_1__1-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__BATTLE_1__1_NAME:[F]Fieldwar02",
+    "name": "ククク、貴様らはもう手遅れだ。",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020065_BF__BATTLE_1__2-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__BATTLE_1__2_NAME:[F]Fieldwar02",
+    "name": "気をつけてください！ものすごい数の敵を検知しました。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020065_BF__BATTLE_2__0-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__BATTLE_2__0_NAME:[F]Fieldwar02",
+    "name": "しつこい奴らめ！闇の軍団の最新兵器を見せてやる！",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020065_BF__BATTLE_2__1-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__BATTLE_2__1_NAME:[F]Fieldwar02",
+    "name": "ミサイル砲台から強力な防御膜を検知しました。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020065_BF__BATTLE_2__2-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__BATTLE_2__2_NAME:[F]Fieldwar02",
+    "name": "今すぐ、要員たちに補給ボックスを支援せよ！",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020065_BF__BATTLE_2__3-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__BATTLE_2__3_NAME:[F]Fieldwar02",
+    "name": "スカイフォートレス補給ボックスを利用して\\n闇の軍団ミサイル砲台の防御膜を破壊してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020065_BF__BATTLE_2__4-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__BATTLE_2__4_NAME:[F]Fieldwar02",
+    "name": "ミサイル砲台を追加で検知しました！",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020065_BF__BATTLE_2__5-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__BATTLE_2__5_NAME:[F]Fieldwar02",
+    "name": "また別のミサイル砲台を検知しました！",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020065_BF__BATTLE_2__6-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__BATTLE_2__6_NAME:[F]Fieldwar02",
+    "name": "全てのミサイル砲台を破壊しました！",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
   "02020065_BF__BATTLE_3__0-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__BATTLE_3__0_NAME:[F]Fieldwar02",
+    "name": "トゥルカが召喚した闇の軍団の軍団長を退治してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020065_BF__BATTLE_3__1-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__BATTLE_3__1_NAME:[F]Fieldwar02",
+    "name": "補給ボックスから支援を得て闇の軍団の防御膜を破壊してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020065_BF__BATTLE_3__2-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__BATTLE_3__2_NAME:[F]Fieldwar02",
+    "name": "以前と同一の魔力パターンを検知しました。",
     "npc": "네이린",
     "type": "SideNpcTalk"
   },
@@ -33258,7 +33258,7 @@
     "type": "SideNpcTalk"
   },
   "02020065_BF__MAIN__0-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__MAIN__0_NAME:[F]Fieldwar02",
+    "name": "ゲオルクが輸送していたエネル分光装置が発見されました。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -33268,22 +33268,22 @@
     "type": "이벤트UI를설정한다"
   },
   "02020065_BF__MAIN__2-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__MAIN__2_NAME:[F]Fieldwar02",
+    "name": "闇の軍団からエネル分光装置を保護してください。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020065_BF__MAIN__3-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__MAIN__3_NAME:[F]Fieldwar02",
+    "name": "トゥルカが闇の軍団ミサイル砲台を召喚しました。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02020065_BF__MAIN__4-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__MAIN__4_NAME:[F]Fieldwar02",
+    "name": "こいつらめ！軍団長よ、奴らを片付けろ！",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
   "02020065_BF__MAIN__5-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__MAIN__5_NAME:[F]Fieldwar02",
+    "name": "チッ、やられたか。",
     "npc": "투르카",
     "type": "SideNpcTalk"
   },
@@ -33298,12 +33298,12 @@
     "type": "SideNpcTalk"
   },
   "02020065_BF__MAIN__8-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__MAIN__8_NAME:[F]Fieldwar02",
+    "name": "クッ…後退しろ、態勢を立て直す。",
     "npc": "블리체",
     "type": "SideNpcTalk"
   },
   "02020065_BF__MESSAGE__0-Fieldwar02-": {
-    "name": "STRINGTRIGGER_02020065_BF__MESSAGE__0_NAME:[F]Fieldwar02",
+    "name": "入場を待っています。\\nまもなくゲームが始まります。\\n10人集まればすぐに開始されます。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -36428,32 +36428,32 @@
     "type": "AddBalloonTalk"
   },
   "02000545_BF__MAIN__4-DarkTear-": {
-    "name": "STRINGTRIGGER_02000545_BF__MAIN__4_NAME:[F]DarkTear",
+    "name": "闇を呼んでいる。",
     "npc": "구속당한 영혼",
     "type": "AddBalloonTalk"
   },
   "02000545_BF__MAIN__5-DarkTear-": {
-    "name": "STRINGTRIGGER_02000545_BF__MAIN__5_NAME:[F]DarkTear",
+    "name": "闇に捕まったら終わりだ。",
     "npc": "구속당한 영혼",
     "type": "AddBalloonTalk"
   },
   "02000545_BF__MAIN__6-DarkTear-": {
-    "name": "STRINGTRIGGER_02000545_BF__MAIN__6_NAME:[F]DarkTear",
+    "name": "温かい命の匂い。あの者の命を我に持ってこい。",
     "npc": "어둠의 샘",
     "type": "AddCinematicTalk"
   },
   "02000545_BF__MAIN__7-DarkTear-": {
-    "name": "STRINGTRIGGER_02000545_BF__MAIN__7_NAME:[F]DarkTear",
+    "name": "闇の泉が地の底からモンスターを呼び出します。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "02000545_BF__MAIN__8-DarkTear-": {
-    "name": "STRINGTRIGGER_02000545_BF__MAIN__8_NAME:[F]DarkTear",
+    "name": "うわああああっ！また押し寄せてくるじゃないか！",
     "npc": "정체불명의 도굴꾼",
     "type": "SideNpcTalk"
   },
   "02000545_BF__MAIN__9-DarkTear-": {
-    "name": "STRINGTRIGGER_02000545_BF__MAIN__9_NAME:[F]DarkTear",
+    "name": "やっと片付いたな。どうにかして侵入者を始末しようとするはずだ。油断するなよ！",
     "npc": "정체불명의 도굴꾼",
     "type": "SideNpcTalk"
   },
@@ -36538,7 +36538,7 @@
     "type": "SideNpcTalk"
   },
   "02000551_BF__BOSSSPAWN__0-DungeonOpen70CH5-": {
-    "name": "STRINGTRIGGER_02000551_BF__BOSSSPAWN__0_NAME:[F]DungeonOpen70CH5",
+    "name": "僕の遊び場へようこそ、友よ！さあ、楽しく遊ぼうじゃないか～",
     "npc": "블랙빈",
     "type": "SideNpcTalk"
   },
