@@ -17558,7 +17558,7 @@
     "npc": "NotUse"
   },
   "61000004_ME__NOTICE__0--": {
-    "name": "STRINGTRIGGER_61000004_ME__NOTICE__0_NAME",
+    "name": "目的地に到着しました。\\nポータルに乗って報酬マップへ移動してください。",
     "npc": "NotUse"
   },
   "61000004_ME__TRIGGER_01__0--": {
@@ -18041,7 +18041,7 @@
     "npc": "File missing"
   },
   "61000010_ME__PVP__5--": {
-    "name": "STRINGTRIGGER_61000010_ME__PVP__5_NAME",
+    "name": "人数が足りないため進行できません。\\n試合を終了します。",
     "npc": "File missing"
   },
   "61000010_ME__WAIT__0--": {
@@ -18061,7 +18061,7 @@
     "npc": "File missing"
   },
   "61000011_ME__ENTER__3--": {
-    "name": "STRINGTRIGGER_61000011_ME__ENTER__3_NAME",
+    "name": "優勝者を祝うボーナス～オニキスが降り注ぎます！",
     "npc": "File missing"
   },
   "61000011_ME__ENTER__4--": {
@@ -19799,7 +19799,7 @@
     "npc": "NotUse"
   },
   "80000015_bonus__NOTICE__0--": {
-    "name": "STRINGTRIGGER_80000015_BONUS__NOTICE__0_NAME",
+    "name": "目的地に到着しました。\\nポータルに乗って報酬マップへ移動してください。",
     "npc": "File missing"
   },
   "80000015_bonus__TRIGGER_01__0--": {
@@ -19811,7 +19811,7 @@
     "npc": "File missing"
   },
   "80000015_bonus__TRIGGER_01__2--": {
-    "name": "STRINGTRIGGER_80000015_BONUS__TRIGGER_01__2_NAME",
+    "name": "時間があまり残っていません！\\n急いでください！！！",
     "npc": "File missing"
   },
   "99999884__SCENE01__0--": {
@@ -26235,7 +26235,7 @@
     "type": "이벤트UI를설정한다"
   },
   "61000010_ME__main__0-MassiveCrazyRunnersShanghai-": {
-    "name": "STRINGTRIGGER_61000010_ME__MAIN__0_NAME:[F]MassiveCrazyRunnersShanghai",
+    "name": "上海クレイジーランナーズは、制限時間内に\\nゴールへ到着すれば勝利となるゲームです。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -33373,232 +33373,232 @@
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND1__0-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND1__0_NAME:[F]Colosseum01",
+    "name": "最初の相手は血も涙もない騎士学校の教官ですよね？！ロベ選手の登場です！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND1__1-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND1__1_NAME:[F]Colosseum01",
+    "name": "試合の準備をしてください！",
     "npc": "systemMSG",
     "type": "ShowCountUI"
   },
   "83000002_COLOSSEUM__ROUND1__2-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND1__2_NAME:[F]Colosseum01",
+    "name": "お前の正義が何なのか確かめてやろう！",
     "npc": "로베",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND1__3-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND1__3_NAME:[F]Colosseum01",
+    "name": "お前のような若造に負けるとは…。",
     "npc": "로베",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND1__4-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND1__4_NAME:[F]Colosseum01",
+    "name": "残念ながら制限時間を超えてしまいましたね…。次回また挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND1__5-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND1__5_NAME:[F]Colosseum01",
+    "name": "あらら…。競技場から逃げ出してしまってはどうするんですか…！試合終了です。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND1__6-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND1__6_NAME:[F]Colosseum01",
+    "name": "相手が強すぎたようですね…。腕はいいのに装備が良くないせいでしょう？",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND1__7-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND1__7_NAME:[F]Colosseum01",
+    "name": "Round1 勝利！！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND1__8-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND1__8_NAME:[F]Colosseum01",
+    "name": "Round1 失敗。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND1__9-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND1__9_NAME:[F]Colosseum01",
+    "name": "試合に勝利しました。少々お待ちください！次の試合が待っています！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND2__0-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND2__0_NAME:[F]Colosseum01",
+    "name": "次は長年の調理で鍛えられた腕の筋肉がついに真価を発揮します！スターツ選手です！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND2__1-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND2__1_NAME:[F]Colosseum01",
+    "name": "試合の条件に合わない参加者ですね…。次回挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND2__2-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND2__2_NAME:[F]Colosseum01",
+    "name": "試合の準備をしてください！",
     "npc": "systemMSG",
     "type": "ShowCountUI"
   },
   "83000002_COLOSSEUM__ROUND2__3-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND2__3_NAME:[F]Colosseum01",
+    "name": "今日の料理の材料はお前だな！",
     "npc": "스타츠",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND2__4-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND2__4_NAME:[F]Colosseum01",
+    "name": "料理の研究にもっと集中しないとな…。",
     "npc": "스타츠",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND2__5-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND2__5_NAME:[F]Colosseum01",
+    "name": "残念ながら制限時間を超えてしまいましたね…。次回また挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND2__6-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND2__6_NAME:[F]Colosseum01",
+    "name": "あらら…。競技場から逃げ出してしまってはどうするんですか…！試合終了です。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND2__7-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND2__7_NAME:[F]Colosseum01",
+    "name": "相手が強すぎたようですね…。腕はいいのに装備が良くないせいでしょう？",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND2__8-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND2__8_NAME:[F]Colosseum01",
+    "name": "Round2 勝利！！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND2__9-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND2__9_NAME:[F]Colosseum01",
+    "name": "Round2 失敗。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND2__10-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND2__10_NAME:[F]Colosseum01",
+    "name": "試合に勝利しました。少々お待ちください！次の試合が待っています！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND4__0-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND4__0_NAME:[F]Colosseum01",
+    "name": "ついに登場です！女王様をお守りする名誉あるトライア騎士団のリーダー！アーロン選手です！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND4__1-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND4__1_NAME:[F]Colosseum01",
+    "name": "試合の条件に合わない参加者ですね…。次回挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND4__2-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND4__2_NAME:[F]Colosseum01",
+    "name": "試合の準備をしてください！",
     "npc": "systemMSG",
     "type": "ShowCountUI"
   },
   "83000002_COLOSSEUM__ROUND4__3-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND4__3_NAME:[F]Colosseum01",
+    "name": "騎士の気迫を味わえ。手加減はしないぞ！",
     "npc": "알론",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND4__4-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND4__4_NAME:[F]Colosseum01",
+    "name": "強すぎるな…。",
     "npc": "알론",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND4__5-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND4__5_NAME:[F]Colosseum01",
+    "name": "残念ながら制限時間を超えてしまいましたね…。次回また挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND4__6-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND4__6_NAME:[F]Colosseum01",
+    "name": "あらら…。競技場から逃げ出してしまってはどうするんですか…。試合終了です。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND4__7-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND4__7_NAME:[F]Colosseum01",
+    "name": "相手が強すぎたようですね…。腕はいいのに装備が良くないせいでしょう？",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND4__8-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND4__8_NAME:[F]Colosseum01",
+    "name": "Round4 勝利！！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND4__9-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND4__9_NAME:[F]Colosseum01",
+    "name": "Round4 失敗。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND4__10-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND4__10_NAME:[F]Colosseum01",
+    "name": "勝利しました。次のラウンドではもっと強い挑戦者が待っています。気を引き締めてください！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND6__0-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND6__0_NAME:[F]Colosseum01",
+    "name": "出場者たちが最も待っていた選手ですよね？天才鍛冶屋オフィリア選手です！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND6__1-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND6__1_NAME:[F]Colosseum01",
+    "name": "試合の条件に合わない参加者ですね…。次回挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND6__2-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND6__2_NAME:[F]Colosseum01",
+    "name": "試合の準備をしてください！",
     "npc": "systemMSG",
     "type": "ShowCountUI"
   },
   "83000002_COLOSSEUM__ROUND6__3-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND6__3_NAME:[F]Colosseum01",
+    "name": "お前もアイテムみたいに叩いてやろうか？",
     "npc": "오필리아",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND6__4-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND6__4_NAME:[F]Colosseum01",
+    "name": "強化さえうまくいっていれば…。",
     "npc": "오필리아",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND6__5-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND6__5_NAME:[F]Colosseum01",
+    "name": "残念ながら制限時間を超えてしまいましたね…。次回また挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND6__6-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND6__6_NAME:[F]Colosseum01",
+    "name": "あらら…。競技場から逃げ出してしまってはどうするんですか…！試合終了です。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND6__7-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND6__7_NAME:[F]Colosseum01",
+    "name": "相手が強すぎたようですね…。腕はいいのに装備が良くないせいでしょう？",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND6__8-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND6__8_NAME:[F]Colosseum01",
+    "name": "Round6 勝利！！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND6__9-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND6__9_NAME:[F]Colosseum01",
+    "name": "Round6 失敗。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND6__10-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND6__10_NAME:[F]Colosseum01",
+    "name": "勝利しました。次のラウンドではもっと強い挑戦者が待っています。気を引き締めてください！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND8__0-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND8__0_NAME:[F]Colosseum01",
+    "name": "うわあ、鳥肌が立ちます…。もう既に濃い闇の力を感じますね。闇のイノセント、パトス選手の登場です！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND8__1-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND8__1_NAME:[F]Colosseum01",
+    "name": "試合の条件に合わない参加者ですね…。次回挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND8__2-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND8__2_NAME:[F]Colosseum01",
+    "name": "試合の準備をしてください！",
     "npc": "systemMSG",
     "type": "ShowCountUI"
   },
@@ -33623,32 +33623,32 @@
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND8__7-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND8__7_NAME:[F]Colosseum01",
+    "name": "残念ながら制限時間を超えてしまいましたね…。次回また挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND8__8-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND8__8_NAME:[F]Colosseum01",
+    "name": "あらら…。競技場から逃げ出してしまってはどうするんですか…！試合終了です。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND8__9-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND8__9_NAME:[F]Colosseum01",
+    "name": "相手が強すぎたようですね…。腕はいいのに装備が良くないせいでしょう？",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND8__10-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND8__10_NAME:[F]Colosseum01",
+    "name": "Round8 勝利！！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND8__11-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND8__11_NAME:[F]Colosseum01",
+    "name": "Round8 失敗。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND8__12-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND8__12_NAME:[F]Colosseum01",
+    "name": "試合に勝利しました。これからは手強い相手が出てくるかもしれません。しっかり気を引き締めてくださいね！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
@@ -33658,12 +33658,12 @@
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND9__1-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND9__1_NAME:[F]Colosseum01",
+    "name": "試合の条件に合わない参加者ですね…。次回挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND9__2-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND9__2_NAME:[F]Colosseum01",
+    "name": "試合の準備をしてください！",
     "npc": "systemMSG",
     "type": "ShowCountUI"
   },
@@ -33678,12 +33678,12 @@
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND9__5-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND9__5_NAME:[F]Colosseum01",
+    "name": "残念ながら制限時間を超えてしまいましたね…。次回また挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND9__6-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND9__6_NAME:[F]Colosseum01",
+    "name": "あらら…。競技場から逃げ出してしまってはどうするんですか…！試合終了です。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
@@ -33693,7 +33693,7 @@
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND9__8-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND9__8_NAME:[F]Colosseum01",
+    "name": "相手が強すぎたようですね…。腕はいいのに装備が良くないせいでしょう？",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
@@ -33718,222 +33718,222 @@
     "type": "ShowCaption"
   },
   "83000002_COLOSSEUM__ROUND10__0-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND10__0_NAME:[F]Colosseum01",
+    "name": "さあ、待望の決勝戦！カルカルアイランド最高のアイドルですよね？しかし決して侮れない戦闘力の持ち主！ミカ選手です！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND10__1-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND10__1_NAME:[F]Colosseum01",
+    "name": "試合の条件に合わない参加者ですね…。次回挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND10__2-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND10__2_NAME:[F]Colosseum01",
+    "name": "試合の準備をしてください！",
     "npc": "systemMSG",
     "type": "ShowCountUI"
   },
   "83000002_COLOSSEUM__ROUND10__3-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND10__3_NAME:[F]Colosseum01",
+    "name": "私を甘く見ると困るよ。ビセット様から伝授された実力を見せてあげる！",
     "npc": "미카",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND10__4-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND10__4_NAME:[F]Colosseum01",
+    "name": "そんな…。一体どういうこと…。",
     "npc": "미카",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND10__5-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND10__5_NAME:[F]Colosseum01",
+    "name": "残念ながら制限時間を超えてしまいましたね…。次回また挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND10__6-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND10__6_NAME:[F]Colosseum01",
+    "name": "あらら…。競技場から逃げ出してしまってはどうするんですか…！試合終了です。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND10__7-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND10__7_NAME:[F]Colosseum01",
+    "name": "相手が強すぎたようですね…。腕はいいのに装備が良くないせいでしょう？",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND10__8-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND10__8_NAME:[F]Colosseum01",
+    "name": "Round10 勝利！！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND10__9-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND10__9_NAME:[F]Colosseum01",
+    "name": "Round10 失敗。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND10__10-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND10__10_NAME:[F]Colosseum01",
+    "name": "ついに勝者が決まりました！！！おめでとうございます！！！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND5__0-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND5__0_NAME:[F]Colosseum01",
+    "name": "来るべきものが来ました。魔法学院エリネルが輩出した魔法の天才！オルデ選手の登場です！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND5__1-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND5__1_NAME:[F]Colosseum01",
+    "name": "試合の条件に合わない参加者ですね…。次回挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND5__2-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND5__2_NAME:[F]Colosseum01",
+    "name": "まもなく試合が始まります！準備してください！",
     "npc": "systemMSG",
     "type": "ShowCountUI"
   },
   "83000002_COLOSSEUM__ROUND5__3-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND5__3_NAME:[F]Colosseum01",
+    "name": "強力な魔法の力を見せてやろう。",
     "npc": "오르데",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND5__4-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND5__4_NAME:[F]Colosseum01",
+    "name": "私の魔法が…。",
     "npc": "오르데",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND5__5-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND5__5_NAME:[F]Colosseum01",
+    "name": "残念ながら制限時間を超えてしまいましたね…。次回また挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND5__6-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND5__6_NAME:[F]Colosseum01",
+    "name": "あらら…。競技場から逃げ出してしまってはどうするんですか…。試合終了です。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND5__7-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND5__7_NAME:[F]Colosseum01",
+    "name": "相手が強すぎたようですね…。腕はいいのに装備が良くないせいでしょう？",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND5__8-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND5__8_NAME:[F]Colosseum01",
+    "name": "Round5 勝利！！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND5__9-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND5__9_NAME:[F]Colosseum01",
+    "name": "Round5 失敗。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND5__10-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND5__10_NAME:[F]Colosseum01",
+    "name": "勝利しました。次のラウンドではもっと強い挑戦者が待っています。気を引き締めてください！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND3__0-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND3__0_NAME:[F]Colosseum01",
+    "name": "今回の戦いはメイプルワールドの可愛い子ちゃんバニーガール！ミント選手の登場です！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND3__1-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND3__1_NAME:[F]Colosseum01",
+    "name": "試合の条件に合わない参加者ですね…。次回挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND3__2-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND3__2_NAME:[F]Colosseum01",
+    "name": "試合の準備をしてください！",
     "npc": "systemMSG",
     "type": "ShowCountUI"
   },
   "83000002_COLOSSEUM__ROUND3__3-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND3__3_NAME:[F]Colosseum01",
+    "name": "まさか私を叩いたりしないよね？",
     "npc": "민트",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND3__4-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND3__4_NAME:[F]Colosseum01",
+    "name": "ひどい…。",
     "npc": "민트",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND3__5-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND3__5_NAME:[F]Colosseum01",
+    "name": "残念ながら制限時間を超えてしまいましたね…。次回また挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND3__6-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND3__6_NAME:[F]Colosseum01",
+    "name": "あらら…。競技場から逃げ出してしまってはどうするんですか…！試合終了です。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND3__7-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND3__7_NAME:[F]Colosseum01",
+    "name": "相手が強すぎたようですね…。腕はいいのに装備が良くないせいでしょう？",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND3__8-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND3__8_NAME:[F]Colosseum01",
+    "name": "Round3 勝利！！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND3__9-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND3__9_NAME:[F]Colosseum01",
+    "name": "Round3 失敗。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND3__10-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND3__10_NAME:[F]Colosseum01",
+    "name": "うーん？なかなかやるね。",
     "npc": "퀸크빈",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND7__0-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND7__0_NAME:[F]Colosseum01",
+    "name": "ああ…。彼にここで会えるとは…！父の跡を継いだペリオンの族長！ゴロゴロ雷選手の登場です！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND7__1-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND7__1_NAME:[F]Colosseum01",
+    "name": "試合の条件に合わない参加者ですね…。次回挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND7__2-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND7__2_NAME:[F]Colosseum01",
+    "name": "試合の準備をしてください！",
     "npc": "systemMSG",
     "type": "ShowCountUI"
   },
   "83000002_COLOSSEUM__ROUND7__3-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND7__3_NAME:[F]Colosseum01",
+    "name": "ペリオン戦士の実力を見せてやる！期待しろよ！",
     "npc": "구르는 천둥",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND7__4-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND7__4_NAME:[F]Colosseum01",
+    "name": "世の中には強い相手が多いな…。",
     "npc": "구르는 천둥",
     "type": "AddBalloonTalk"
   },
   "83000002_COLOSSEUM__ROUND7__5-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND7__5_NAME:[F]Colosseum01",
+    "name": "残念ながら制限時間を超えてしまいましたね…。次回また挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND7__6-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND7__6_NAME:[F]Colosseum01",
+    "name": "あらら…。競技場から逃げ出してしまってはどうするんですか…！試合終了です。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND7__7-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND7__7_NAME:[F]Colosseum01",
+    "name": "相手が強すぎたようですね…。腕はいいのに装備が良くないせいでしょう？",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000002_COLOSSEUM__ROUND7__8-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND7__8_NAME:[F]Colosseum01",
+    "name": "Round7 勝利！！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND7__9-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND7__9_NAME:[F]Colosseum01",
+    "name": "Round7 失敗。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000002_COLOSSEUM__ROUND7__10-Colosseum01-": {
-    "name": "STRINGTRIGGER_83000002_COLOSSEUM__ROUND7__10_NAME:[F]Colosseum01",
+    "name": "なかなか楽しませてくれたな。退屈をしのぐには十分だった。",
     "npc": "퀸크빈",
     "type": "SideNpcTalk"
   },
@@ -36593,52 +36593,52 @@
     "type": "AddBalloonTalk"
   },
   "83000003_COLOSSEUM__ROUND10__0-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND10__0_NAME:[F]Colosseum02",
+    "name": "さあ、待望の決勝戦！カルカルアイランド最高のアイドルですよね？しかし決して侮れない戦闘力の持ち主！ミカ選手です！",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND10__1-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND10__1_NAME:[F]Colosseum02",
+    "name": "試合の条件に合わない参加者ですね…。次回挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND10__2-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND10__2_NAME:[F]Colosseum02",
+    "name": "試合の準備をしてください！",
     "npc": "systemMSG",
     "type": "ShowCountUI"
   },
   "83000003_COLOSSEUM__ROUND10__3-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND10__3_NAME:[F]Colosseum02",
+    "name": "私を甘く見ると困るよ。ビセット様から伝授された実力を見せてあげる！",
     "npc": "미카",
     "type": "AddBalloonTalk"
   },
   "83000003_COLOSSEUM__ROUND10__4-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND10__4_NAME:[F]Colosseum02",
+    "name": "そんな…。一体どういうこと…。",
     "npc": "미카",
     "type": "AddBalloonTalk"
   },
   "83000003_COLOSSEUM__ROUND10__5-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND10__5_NAME:[F]Colosseum02",
+    "name": "残念ながら制限時間を超えてしまいましたね…。次回また挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND10__6-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND10__6_NAME:[F]Colosseum02",
+    "name": "あらら…。競技場から逃げ出してしまってはどうするんですか…！試合終了です。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND10__7-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND10__7_NAME:[F]Colosseum02",
+    "name": "相手が強すぎたようですね…。腕はいいのに装備が良くないせいでしょう？",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND10__8-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND10__8_NAME:[F]Colosseum02",
+    "name": "Round10 勝利！！！",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
   "83000003_COLOSSEUM__ROUND10__9-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND10__9_NAME:[F]Colosseum02",
+    "name": "Round10 失敗。",
     "npc": "systemMSG",
     "type": "이벤트UI를설정한다"
   },
@@ -36653,12 +36653,12 @@
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND11__1-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND11__1_NAME:[F]Colosseum02",
+    "name": "試合の条件に合わない参加者ですね…。次回挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND11__2-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND11__2_NAME:[F]Colosseum02",
+    "name": "試合の準備をしてください！",
     "npc": "systemMSG",
     "type": "ShowCountUI"
   },
@@ -36673,12 +36673,12 @@
     "type": "AddBalloonTalk"
   },
   "83000003_COLOSSEUM__ROUND11__5-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND11__5_NAME:[F]Colosseum02",
+    "name": "残念ながら制限時間を超えてしまいましたね…。次回また挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND11__6-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND11__6_NAME:[F]Colosseum02",
+    "name": "あらら…。競技場から逃げ出してしまってはどうするんですか…！試合終了です。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
@@ -36688,7 +36688,7 @@
     "type": "이벤트UI를설정한다"
   },
   "83000003_COLOSSEUM__ROUND11__8-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND11__8_NAME:[F]Colosseum02",
+    "name": "相手が強すぎたようですね…。腕はいいのに装備が良くないせいでしょう？",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
@@ -36713,12 +36713,12 @@
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND12__1-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND12__1_NAME:[F]Colosseum02",
+    "name": "試合の条件に合わない参加者ですね…。次回挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND12__2-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND12__2_NAME:[F]Colosseum02",
+    "name": "試合の準備をしてください！",
     "npc": "systemMSG",
     "type": "ShowCountUI"
   },
@@ -36733,17 +36733,17 @@
     "type": "AddBalloonTalk"
   },
   "83000003_COLOSSEUM__ROUND12__5-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND12__5_NAME:[F]Colosseum02",
+    "name": "残念ながら制限時間を超えてしまいましたね…。次回また挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND12__6-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND12__6_NAME:[F]Colosseum02",
+    "name": "あらら…。競技場から逃げ出してしまってはどうするんですか…！試合終了です。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND12__7-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND12__7_NAME:[F]Colosseum02",
+    "name": "相手が強すぎたようですね…。腕はいいのに装備が良くないせいでしょう？",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
@@ -36768,12 +36768,12 @@
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND13__1-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND13__1_NAME:[F]Colosseum02",
+    "name": "試合の条件に合わない参加者ですね…。次回挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND13__2-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND13__2_NAME:[F]Colosseum02",
+    "name": "試合の準備をしてください！",
     "npc": "systemMSG",
     "type": "ShowCountUI"
   },
@@ -36788,17 +36788,17 @@
     "type": "AddBalloonTalk"
   },
   "83000003_COLOSSEUM__ROUND13__5-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND13__5_NAME:[F]Colosseum02",
+    "name": "残念ながら制限時間を超えてしまいましたね…。次回また挑戦してください。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND13__6-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND13__6_NAME:[F]Colosseum02",
+    "name": "あらら…。競技場から逃げ出してしまってはどうするんですか…！試合終了です。",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
   "83000003_COLOSSEUM__ROUND13__7-Colosseum02-": {
-    "name": "STRINGTRIGGER_83000003_COLOSSEUM__ROUND13__7_NAME:[F]Colosseum02",
+    "name": "相手が強すぎたようですね…。腕はいいのに装備が良くないせいでしょう？",
     "npc": "MC 나기",
     "type": "SideNpcTalk"
   },
