@@ -249,3 +249,6 @@ TELI_B	テレポッドB	2
 검은 결정	黒い結晶	kri
 흑화	黒化	kri
 신관 기사	神官騎士	kri
+추석/한가위	お盆(秋夕ではない)	sf
+달토끼	月ウサギ	sf
+별지기	星守り(koritemdescriptionは星の番人。同一クエスト連鎖ではquestdesc準拠の星守り)	sf
