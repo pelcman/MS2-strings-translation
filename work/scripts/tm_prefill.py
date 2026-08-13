@@ -70,7 +70,10 @@ for r in rows:
     ja = idx.get((field, kv))
     if ja:
         n_ko += 1
-    elif ev:
+    # EN 一致は KO・EN とも十分な長さがある場合のみ採用する。
+    # 短い語(1〜2文字の KO / 3文字以下の EN)は別アイテムでも偶然一致しやすく、
+    # 文字集めイベントの「쌀→Rice」のような無関係な訳が入る事故があった。
+    elif ev and len(kv.strip()) >= 3 and len(ev.strip()) >= 4:
         ja = en_idx.get((field, ev))
         if ja:
             n_en += 1
