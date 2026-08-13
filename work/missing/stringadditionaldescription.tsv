@@ -1,0 +1,340 @@
+90000836|1--NA	tooltipDescription	$map:63000060$에서만 사용 가능한 특별한 마그넷 미끼이다. $map:63000060$에서 낚시를 하면 일정 확률로 $item:30001344$$pp:를,을$ 획득할 수 있다.	A special magnetic lure that can only be used at the $map:63000060$. You may obtain a $item:30001344$ while fishing at the $map:63000060$.
+90000838|1-Event-CN	name	점핑 버닝 효과	
+90000838|1-Event-CN	tooltipDescription	60레벨에서 80레벨까지 1레벨업 시 \n보너스 +2레벨을 적용	
+90000859|1--KR	tooltipDescription	전투력 650 증가	
+90000946|1--CN	tooltipDescription	크리티컬 대미지 120 증가\n방어력 관통 4% 증가\n<font color='#00aaef'>전장 및 투기장에서 적용되지 않음</font>	
+90000947|1--CN	tooltipDescription	공격 속도 5% 증가\n물리/마법 대미지 5% 증가\n<font color='#00aaef'>전장 및 투기장에서 적용되지 않음</font>	
+90001150|1-Event-CN	tooltipDescription	$map:63000060$에서만 사용 가능한 특별한 마그넷 미끼이다. $map:63000060$에서 낚시를 하면 일정 확률로 $item:30001385$$pp:를,을$ 획득할 수 있다.	
+90001165|1-Event-CN	name	고독한 막대과자	
+90001165|1-Event-CN	tooltipDescription	HP가 50% 증가\nSP 100 회복	
+90001183|1-Event-NA	tooltipDescription	매 초마다 HP 280 회복	Restores 280 health every sec.
+90001202|1-Event-CN	name	블랙콩	
+90001204|1-Event-CN	tooltipDescription	$map:63000060$에서만 사용 가능한 특별한 마그넷 미끼이다. $map:63000060$에서 낚시를 하면 일정 확률로 $item:30001513$$pp:를,을$ 획득할 수 있다.	
+90051248|1-KREquipmentBalance_01-KR	tooltipDescription	전투력 372 증가	
+90051292-KREquipmentBalance_01-KR	tooltipDescription	전투력 1300 증가	
+90051653|1-Level70Item-CN	name	전투력 530 증가 (전장에서 미적용)	
+90051653|1-KREquipmentBalance_01-KR	name	전투력 1700 증가 (전장에서 미적용)	
+90051654|1-Level70Item-CN	name	전투력 330 증가 (전장에서 미적용)	
+90051654|1-KREquipmentBalance_01-KR	name	전투력 1050 증가 (전장에서 미적용)	
+90051670|1-Level70Item-CN	name	에네르 트리거	
+90051670|1-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051670|2-Level70Item-CN	name	에네르 트리거	
+90051670|2-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051670|3-Level70Item-CN	name	에네르 트리거	
+90051670|3-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051670|4-Level70Item-CN	name	에네르 트리거	
+90051670|4-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051670|5-Level70Item-CN	name	에네르 트리거	
+90051670|5-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051670|6-Level70Item-CN	name	에네르 트리거	
+90051670|6-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051670|7-Level70Item-CN	name	에네르 트리거	
+90051670|7-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051670|8-Level70Item-CN	name	에네르 트리거	
+90051670|8-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051670|9-Level70Item-CN	name	에네르 트리거	
+90051670|9-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051670|10-Level70Item-CN	name	에네르 트리거	
+90051670|10-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051670|11-Level70Item-CN	name	에네르 트리거	
+90051670|11-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051670|1-KREquipmentBalance_01-KR	name	에네르 트리거	
+90051670|1-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051670|2-KREquipmentBalance_01-KR	name	에네르 트리거	
+90051670|2-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051670|3-KREquipmentBalance_01-KR	name	에네르 트리거	
+90051670|3-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051670|4-KREquipmentBalance_01-KR	name	에네르 트리거	
+90051670|4-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051670|5-KREquipmentBalance_01-KR	name	에네르 트리거	
+90051670|5-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051670|6-KREquipmentBalance_01-KR	name	에네르 트리거	
+90051670|6-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051670|7-KREquipmentBalance_01-KR	name	에네르 트리거	
+90051670|7-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051670|8-KREquipmentBalance_01-KR	name	에네르 트리거	
+90051670|8-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051670|9-KREquipmentBalance_01-KR	name	에네르 트리거	
+90051670|9-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051670|10-KREquipmentBalance_01-KR	name	에네르 트리거	
+90051670|10-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051670|11-KREquipmentBalance_01-KR	name	에네르 트리거	
+90051670|11-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051688|1-Level70Item-CN	name	고대의 힘	
+90051688|1-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051688|2-Level70Item-CN	name	고대의 힘	
+90051688|2-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051688|3-Level70Item-CN	name	고대의 힘	
+90051688|3-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051688|4-Level70Item-CN	name	고대의 힘	
+90051688|4-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051688|5-Level70Item-CN	name	고대의 힘	
+90051688|5-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051688|6-Level70Item-CN	name	고대의 힘	
+90051688|6-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051688|7-Level70Item-CN	name	고대의 힘	
+90051688|7-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051688|8-Level70Item-CN	name	고대의 힘	
+90051688|8-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051688|9-Level70Item-CN	name	고대의 힘	
+90051688|9-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051688|10-Level70Item-CN	name	고대의 힘	
+90051688|10-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051688|11-Level70Item-CN	name	고대의 힘	
+90051688|11-Level70Item-CN	tooltipDescription	전투력 830 증가	
+90051688|1-KREquipmentBalance_01-KR	name	고대의 힘	
+90051688|1-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051688|2-KREquipmentBalance_01-KR	name	고대의 힘	
+90051688|2-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051688|3-KREquipmentBalance_01-KR	name	고대의 힘	
+90051688|3-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051688|4-KREquipmentBalance_01-KR	name	고대의 힘	
+90051688|4-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051688|5-KREquipmentBalance_01-KR	name	고대의 힘	
+90051688|5-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051688|6-KREquipmentBalance_01-KR	name	고대의 힘	
+90051688|6-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051688|7-KREquipmentBalance_01-KR	name	고대의 힘	
+90051688|7-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051688|8-KREquipmentBalance_01-KR	name	고대의 힘	
+90051688|8-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051688|9-KREquipmentBalance_01-KR	name	고대의 힘	
+90051688|9-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051688|10-KREquipmentBalance_01-KR	name	고대의 힘	
+90051688|10-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051688|11-KREquipmentBalance_01-KR	name	고대의 힘	
+90051688|11-KREquipmentBalance_01-KR	tooltipDescription	전투력 2700 증가	
+90051806|1-Level70Item-CN	name	환영 시공의 힘	
+90051806|1-Level70Item-CN	tooltipDescription	전투력, 공격속도, 명중 증가	
+90051806|1-KREquipmentBalance_01-KR	name	환영 시공의 힘	
+90051806|1-KREquipmentBalance_01-KR	tooltipDescription	전투력, 공격속도, 명중 증가	
+90051823|1-PvPRankingDuelMode02-	name	전장 및 투기장에서 HP 48000, 방어력 관통 15%, STR 200, 크리티컬 회피 100 증가	
+90051824|1-PvPRankingDuelMode02-	name	전장 및 투기장에서 HP 48000, 방어력 관통 15%, DEX 200, 크리티컬 회피 100 증가	
+90051825|1-PvPRankingDuelMode02-	name	전장 및 투기장에서 HP 48000, 방어력 관통 15%, INT 200, 크리티컬 회피 100 증가	
+90051826|1-PvPRankingDuelMode02-	name	전장 및 투기장에서 HP 48000, 방어력 관통 15%, LUK 200, 크리티컬 회피 100 증가	
+90051827|1-PvPRankingDuelMode02-	name	전장 및 투기장에서 HP 92000, 공격속도 15%, 명중 25, 행동 불가 시간 감소 50% 증가	
+100000043--NA	tooltipDescription	- 캐릭터 이동속도 및 지상탈것 이동속도 5% 증가 (PVP 지역 제외 / 파티 전체 적용)\n- 몬스터 사냥 경험치 및 메소 20% 증가\n- 오필리아 인챈트 비용 10% 할인\n- 1:1 메소 거래 수수료 50% 할인\n- 블랙마켓 아이템 거래 수수료 20% 할인\n- 언제 어디서나 은행 금고 즉시 소환 가능\n- 로터스 에어택시 무제한 이용 가능\n- 프리미엄 전용 던전 및 마크 사용 가능\n- 프리미엄 전용 아이템 매일 제공	- Increases movement and ground mount speeds by 5% (excluding PvP areas; applies to party)\n- Grants 20% extra experience and mesos when hunting\n- Reduces Ophelia enchant catalyst costs by 10%\n- Reduces meso handling fees for trade by 50%\n- Reduces item trade fees in the Black Market by 20%\n- Can summon the Bank Safe instantly at any place\n- Grants unlimited use of Rotors Air Taxi\n- Grants access to premium dungeons & insignia\n- Grants daily premium items
+100000043-MesoMarket-NA	tooltipDescription	- 캐릭터 이동속도 및 지상탈것 이동속도 5% 증가 (PVP 지역 제외 / 파티 전체 적용)\n- 몬스터 사냥 경험치 및 메소 20% 증가\n- 오필리아 인챈트 비용 10% 할인\n- 1:1 메소 거래 수수료 50% 할인\n- 블랙마켓 아이템 거래 수수료 20% 할인 (메소 구매 제외)\n- 언제 어디서나 은행 금고 즉시 소환 가능\n- 로터스 에어택시 무제한 이용 가능\n- 프리미엄 전용 던전 및 마크 사용 가능\n- 프리미엄 전용 아이템 매일 제공	- Increases movement and ground mount speeds by 5% (excluding PvP areas; applies to party)\n- Grants 20% extra experience and mesos when hunting\n- Reduces Ophelia enchant catalyst costs by 10%\n- Reduces meso handling fees for trade by 50%\n- Reduces item trade fees in the Black Market by 20% (excluding the Meso Market)\n- Can summon the Bank Safe instantly anywhere\n- Grants unlimited use of Rotors Air Taxi\n- Grants access to premium dungeons & insignia\n- Grants daily premium items
+100000046--NA	name	프리미엄 클럽 혜택(파티 보너스)	Premium Club Benefits (Party Bonus)
+100000046--NA	tooltipDescription	프리미엄 클럽 혜택을 받는 동료와 파티를 맺어 캐릭터 이동속도 및 지상탈것 이동속도가 5% 증가 (PVP 지역 제외 / 파티 전체 적용)	Increases movement and ground mount speeds by 5% for being in a party with a Premium Club member (excluding PvP areas; applies to party)
+11000101|1-CharacterBalance_Striker_01-KR	tooltipDescription	신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 10% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 5% 감소	
+11000101|2-CharacterBalance_Striker_01-KR	tooltipDescription	신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 12% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 10% 감소	
+11000101|3-CharacterBalance_Striker_01-KR	tooltipDescription	신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 14% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 15% 감소	
+11000101|4-CharacterBalance_Striker_01-KR	tooltipDescription	신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 16% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 20% 감소	
+11000101|5-CharacterBalance_Striker_01-KR	tooltipDescription	신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 18% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 25% 감소	
+11000101|6-CharacterBalance_Striker_01-KR	tooltipDescription	신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 20% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 30% 감소	
+11000101|7-CharacterBalance_Striker_01-KR	tooltipDescription	신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 22% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 35% 감소	
+11000101|8-CharacterBalance_Striker_01-KR	tooltipDescription	신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 24% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 40% 감소	
+11000101|9-CharacterBalance_Striker_01-KR	tooltipDescription	신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 26% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 45% 감소	
+11000101|10-CharacterBalance_Striker_01-KR	tooltipDescription	신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 28% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 50% 감소	
+11000101|11-CharacterBalance_Striker_01-KR	tooltipDescription	신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 30% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 55% 감소	
+11000101|12-CharacterBalance_Striker_01-KR	tooltipDescription	신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 32% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 60% 감소	
+10200064|9-CharacterBalance_01-KR	tooltipDescription	전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 33% 감소	
+10200064|10-CharacterBalance_01-KR	tooltipDescription	전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 36% 감소	
+10200064|11-CharacterBalance_01-KR	tooltipDescription	전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 39% 감소	
+10200064|12-CharacterBalance_01-KR	tooltipDescription	전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 42% 감소	
+10200131|1-CharacterBalance_01-KR	tooltipDescription	공격 속도, 물리 공격력, 마법 공격력 17% 증가\n모든 타격 명중 시 SP 1 회복	
+10200131|2-CharacterBalance_01-KR	tooltipDescription	공격 속도, 물리 공격력, 마법 공격력 19% 증가\n모든 타격 명중 시 SP 1 회복	
+10200131|3-CharacterBalance_01-KR	tooltipDescription	공격 속도, 물리 공격력, 마법 공격력 21% 증가\n모든 타격 명중 시 SP 1 회복	
+10200131|4-CharacterBalance_01-KR	tooltipDescription	공격 속도, 물리 공격력, 마법 공격력 23% 증가\n모든 타격 명중 시 SP 1 회복	
+10200131|5-CharacterBalance_01-KR	tooltipDescription	공격 속도, 물리 공격력, 마법 공격력 25% 증가\n모든 타격 명중 시 SP 1 회복	
+10200131|6-CharacterBalance_01-KR	tooltipDescription	공격 속도, 물리 공격력, 마법 공격력 27% 증가\n모든 타격 명중 시 SP 1 회복	
+10200131|7-CharacterBalance_01-KR	tooltipDescription	공격 속도, 물리 공격력, 마법 공격력 29% 증가\n모든 타격 명중 시 SP 1 회복	
+10200131|8-CharacterBalance_01-KR	tooltipDescription	공격 속도, 물리 공격력, 마법 공격력 31% 증가\n모든 타격 명중 시 SP 1 회복	
+10200131|9-CharacterBalance_01-KR	tooltipDescription	공격 속도, 물리 공격력, 마법 공격력 33% 증가\n모든 타격 명중 시 SP 1 회복	
+10200131|10-CharacterBalance_01-KR	tooltipDescription	공격 속도, 물리 공격력, 마법 공격력 35% 증가\n모든 타격 명중 시 SP 1 회복	
+10200131|11-CharacterBalance_01-KR	tooltipDescription	공격 속도, 물리 공격력, 마법 공격력 37% 증가\n모든 타격 명중 시 SP 1 회복	
+10200131|12-CharacterBalance_01-KR	tooltipDescription	공격 속도, 물리 공격력, 마법 공격력 39% 증가\n모든 타격 명중 시 SP 1 회복	
+10300021|1-CharacterBalance_01-KR	tooltipDescription	강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 19%  화염 대미지	
+10300031|1-CharacterBalance_01-KR	tooltipDescription	몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 317% 전격 대미지	
+10300031|2-CharacterBalance_01-KR	tooltipDescription	몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 340% 전격 대미지	
+10300031|3-CharacterBalance_01-KR	tooltipDescription	몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 363% 전격 대미지	
+10300031|4-CharacterBalance_01-KR	tooltipDescription	몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 386% 전격 대미지	
+10300031|5-CharacterBalance_01-KR	tooltipDescription	몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 409% 전격 대미지	
+10300031|6-CharacterBalance_01-KR	tooltipDescription	몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 432% 전격 대미지	
+10300031|7-CharacterBalance_01-KR	tooltipDescription	몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 455% 전격 대미지	
+10300031|8-CharacterBalance_01-KR	tooltipDescription	몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 478% 전격 대미지	
+10300031|9-CharacterBalance_01-KR	tooltipDescription	몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 501% 전격 대미지	
+10300031|10-CharacterBalance_01-KR	tooltipDescription	몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 524% 전격 대미지	
+10300031|11-CharacterBalance_01-KR	tooltipDescription	몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 547% 전격 대미지	
+10300031|12-CharacterBalance_01-KR	tooltipDescription	몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 570% 전격 대미지	
+10400041|1-CharacterBalance_01-KR	tooltipDescription	심판의 방패가 몸에 둘러졌습니다.\n물리 저항력, 마법 저항력 165 증가\n인접한 적에게 78% 의 신성 대미지	
+10400041|2-CharacterBalance_01-KR	tooltipDescription	심판의 방패가 몸에 둘러졌습니다.\n물리 저항력, 마법 저항력 220 증가\n인접한 적에게 83% 의 신성 대미지	
+10400041|3-CharacterBalance_01-KR	tooltipDescription	심판의 방패가 몸에 둘러졌습니다.\n물리 저항력, 마법 저항력 275 증가\n인접한 적에게 88% 의 신성 대미지	
+10400041|4-CharacterBalance_01-KR	tooltipDescription	심판의 방패가 몸에 둘러졌습니다.\n물리 저항력, 마법 저항력 330 증가\n인접한 적에게 93% 의 신성 대미지	
+10400041|5-CharacterBalance_01-KR	tooltipDescription	심판의 방패가 몸에 둘러졌습니다.\n물리 저항력, 마법 저항력 385 증가\n인접한 적에게 98% 의 신성 대미지	
+10400041|6-CharacterBalance_01-KR	tooltipDescription	심판의 방패가 몸에 둘러졌습니다.\n물리 저항력, 마법 저항력 440 증가\n인접한 적에게 103% 의 신성 대미지	
+10400041|7-CharacterBalance_01-KR	tooltipDescription	심판의 방패가 몸에 둘러졌습니다.\n물리 저항력, 마법 저항력 495 증가\n인접한 적에게 108% 의 신성 대미지	
+10400041|8-CharacterBalance_01-KR	tooltipDescription	심판의 방패가 몸에 둘러졌습니다.\n물리 저항력, 마법 저항력 550 증가\n인접한 적에게 113% 의 신성 대미지	
+10400041|9-CharacterBalance_01-KR	tooltipDescription	심판의 방패가 몸에 둘러졌습니다.\n물리 저항력, 마법 저항력 605 증가\n인접한 적에게 118% 의 신성 대미지	
+10400041|10-CharacterBalance_01-KR	tooltipDescription	심판의 방패가 몸에 둘러졌습니다.\n물리 저항력, 마법 저항력 660 증가\n인접한 적에게 123% 의 신성 대미지	
+10400041|11-CharacterBalance_01-KR	tooltipDescription	심판의 방패가 몸에 둘러졌습니다.\n물리 저항력, 마법 저항력 715 증가\n인접한 적에게 128% 의 신성 대미지	
+10400041|12-CharacterBalance_01-KR	tooltipDescription	심판의 방패가 몸에 둘러졌습니다.\n물리 저항력, 마법 저항력 770 증가\n인접한 적에게 133% 의 신성 대미지	
+10500081|1-CharacterBalance_01-KR	tooltipDescription	독수리의 발톱에 할퀴었습니다!\n매 초마다 58% 의 대미지\n이동 속도 30% 감소\n점프력 30% 감소	
+10500081|2-CharacterBalance_01-KR	tooltipDescription	독수리의 발톱에 할퀴었습니다!\n매 초마다 62% 의 대미지\n이동 속도 30% 감소\n점프력 30% 감소	
+10500081|3-CharacterBalance_01-KR	tooltipDescription	독수리의 발톱에 할퀴었습니다!\n매 초마다 66% 의 대미지\n이동 속도 30% 감소\n점프력 30% 감소	
+10500081|4-CharacterBalance_01-KR	tooltipDescription	독수리의 발톱에 할퀴었습니다!\n매 초마다 70% 의 대미지\n이동 속도 35% 감소\n점프력 35% 감소	
+10500081|5-CharacterBalance_01-KR	tooltipDescription	독수리의 발톱에 할퀴었습니다!\n매 초마다 74% 의 대미지\n이동 속도 35% 감소\n점프력 35% 감소	
+10500081|6-CharacterBalance_01-KR	tooltipDescription	독수리의 발톱에 할퀴었습니다!\n매 초마다 78% 의 대미지\n이동 속도 35% 감소\n점프력 35% 감소	
+10500081|7-CharacterBalance_01-KR	tooltipDescription	독수리의 발톱에 할퀴었습니다!\n매 초마다 82% 의 대미지\n이동 속도 40% 감소\n점프력 40% 감소	
+10500081|8-CharacterBalance_01-KR	tooltipDescription	독수리의 발톱에 할퀴었습니다!\n매 초마다 86% 의 대미지\n이동 속도 40% 감소\n점프력 40% 감소	
+10500081|9-CharacterBalance_01-KR	tooltipDescription	독수리의 발톱에 할퀴었습니다!\n매 초마다 90% 의 대미지\n이동 속도 40% 감소\n점프력 40% 감소	
+10500081|10-CharacterBalance_01-KR	tooltipDescription	독수리의 발톱에 할퀴었습니다!\n매 초마다 94% 의 대미지\n이동 속도 45% 감소\n점프력 45% 감소	
+10500081|11-CharacterBalance_01-KR	tooltipDescription	독수리의 발톱에 할퀴었습니다!\n매 초마다 98% 의 대미지\n이동 속도 45% 감소\n점프력 45% 감소	
+10500081|12-CharacterBalance_01-KR	tooltipDescription	독수리의 발톱에 할퀴었습니다!\n매 초마다 102% 의 대미지\n이동 속도 45% 감소\n점프력 45% 감소	
+10700111|3-CharacterBalance_01-KR	tooltipDescription	맹독에 중독되었습니다!\n매 초마다 42% 의 독 대미지	
+10700111|5-CharacterBalance_01-KR	tooltipDescription	맹독에 중독되었습니다!\n매 초마다 46% 의 독 대미지	
+10700111|6-CharacterBalance_01-KR	tooltipDescription	맹독에 중독되었습니다!\n매 초마다 48% 의 독 대미지	
+10700111|8-CharacterBalance_01-KR	tooltipDescription	맹독에 중독되었습니다!\n매 초마다 52% 의 독 대미지	
+10700111|9-CharacterBalance_01-KR	tooltipDescription	맹독에 중독되었습니다!\n매 초마다 54% 의 독 대미지	
+10700111|11-CharacterBalance_01-KR	tooltipDescription	맹독에 중독되었습니다!\n매 초마다 58% 의 독 대미지	
+10900001|1-CharacterBalance_01-KR	tooltipDescription	블레이드에 화염 속성이 깃듭니다.\n일부 스킬을 화염 속성 형태로 발동\n화염 속성 스킬 대미지 31% 증가	
+10900001|2-CharacterBalance_01-KR	tooltipDescription	블레이드에 화염 속성이 깃듭니다.\n일부 스킬을 화염 속성 형태로 발동\n화염 속성 스킬 대미지 33% 증가	
+10900001|3-CharacterBalance_01-KR	tooltipDescription	블레이드에 화염 속성이 깃듭니다.\n일부 스킬을 화염 속성 형태로 발동\n화염 속성 스킬 대미지 35% 증가	
+10900001|4-CharacterBalance_01-KR	tooltipDescription	블레이드에 화염 속성이 깃듭니다.\n일부 스킬을 화염 속성 형태로 발동\n화염 속성 스킬 대미지 37% 증가	
+10900001|5-CharacterBalance_01-KR	tooltipDescription	블레이드에 화염 속성이 깃듭니다.\n일부 스킬을 화염 속성 형태로 발동\n화염 속성 스킬 대미지 39% 증가	
+10900001|6-CharacterBalance_01-KR	tooltipDescription	블레이드에 화염 속성이 깃듭니다.\n일부 스킬을 화염 속성 형태로 발동\n화염 속성 스킬 대미지 41% 증가	
+10900001|7-CharacterBalance_01-KR	tooltipDescription	블레이드에 화염 속성이 깃듭니다.\n일부 스킬을 화염 속성 형태로 발동\n화염 속성 스킬 대미지 43% 증가	
+10900001|8-CharacterBalance_01-KR	tooltipDescription	블레이드에 화염 속성이 깃듭니다.\n일부 스킬을 화염 속성 형태로 발동\n화염 속성 스킬 대미지 45% 증가	
+10900001|9-CharacterBalance_01-KR	tooltipDescription	블레이드에 화염 속성이 깃듭니다.\n일부 스킬을 화염 속성 형태로 발동\n화염 속성 스킬 대미지 47% 증가	
+10900001|10-CharacterBalance_01-KR	tooltipDescription	블레이드에 화염 속성이 깃듭니다.\n일부 스킬을 화염 속성 형태로 발동\n화염 속성 스킬 대미지 49% 증가	
+10900001|11-CharacterBalance_01-KR	tooltipDescription	블레이드에 화염 속성이 깃듭니다.\n일부 스킬을 화염 속성 형태로 발동\n화염 속성 스킬 대미지 51% 증가	
+10900001|12-CharacterBalance_01-KR	tooltipDescription	블레이드에 화염 속성이 깃듭니다.\n일부 스킬을 화염 속성 형태로 발동\n화염 속성 스킬 대미지 53% 증가	
+10900011|1-CharacterBalance_01-KR	tooltipDescription	블레이드에 냉기 속성이 깃듭니다.\n일부 스킬을 냉기 속성 형태로 발동\n냉기 속성 스킬 대미지 31% 증가	
+10900011|2-CharacterBalance_01-KR	tooltipDescription	블레이드에 냉기 속성이 깃듭니다.\n일부 스킬을 냉기 속성 형태로 발동\n냉기 속성 스킬 대미지 33% 증가	
+10900011|3-CharacterBalance_01-KR	tooltipDescription	블레이드에 냉기 속성이 깃듭니다.\n일부 스킬을 냉기 속성 형태로 발동\n냉기 속성 스킬 대미지 35% 증가	
+10900011|4-CharacterBalance_01-KR	tooltipDescription	블레이드에 냉기 속성이 깃듭니다.\n일부 스킬을 냉기 속성 형태로 발동\n냉기 속성 스킬 대미지 37% 증가	
+10900011|5-CharacterBalance_01-KR	tooltipDescription	블레이드에 냉기 속성이 깃듭니다.\n일부 스킬을 냉기 속성 형태로 발동\n냉기 속성 스킬 대미지 39% 증가	
+10900011|6-CharacterBalance_01-KR	tooltipDescription	블레이드에 냉기 속성이 깃듭니다.\n일부 스킬을 냉기 속성 형태로 발동\n냉기 속성 스킬 대미지 41% 증가	
+10900011|7-CharacterBalance_01-KR	tooltipDescription	블레이드에 냉기 속성이 깃듭니다.\n일부 스킬을 냉기 속성 형태로 발동\n냉기 속성 스킬 대미지 43% 증가	
+10900011|8-CharacterBalance_01-KR	tooltipDescription	블레이드에 냉기 속성이 깃듭니다.\n일부 스킬을 냉기 속성 형태로 발동\n냉기 속성 스킬 대미지 45% 증가	
+10900011|9-CharacterBalance_01-KR	tooltipDescription	블레이드에 냉기 속성이 깃듭니다.\n일부 스킬을 냉기 속성 형태로 발동\n냉기 속성 스킬 대미지 47% 증가	
+10900011|10-CharacterBalance_01-KR	tooltipDescription	블레이드에 냉기 속성이 깃듭니다.\n일부 스킬을 냉기 속성 형태로 발동\n냉기 속성 스킬 대미지 49% 증가	
+10900011|11-CharacterBalance_01-KR	tooltipDescription	블레이드에 냉기 속성이 깃듭니다.\n일부 스킬을 냉기 속성 형태로 발동\n냉기 속성 스킬 대미지 51% 증가	
+10900011|12-CharacterBalance_01-KR	tooltipDescription	블레이드에 냉기 속성이 깃듭니다.\n일부 스킬을 냉기 속성 형태로 발동\n냉기 속성 스킬 대미지 53% 증가	
+10900021|1-CharacterBalance_01-KR	tooltipDescription	블레이드에 전격 속성이 깃듭니다.\n일부 스킬을 전격 속성 형태로 발동\n전격 속성 스킬 대미지 31% 증가	
+10900021|2-CharacterBalance_01-KR	tooltipDescription	블레이드에 전격 속성이 깃듭니다.\n일부 스킬을 전격 속성 형태로 발동\n전격 속성 스킬 대미지 33% 증가	
+10900021|3-CharacterBalance_01-KR	tooltipDescription	블레이드에 전격 속성이 깃듭니다.\n일부 스킬을 전격 속성 형태로 발동\n전격 속성 스킬 대미지 35% 증가	
+10900021|4-CharacterBalance_01-KR	tooltipDescription	블레이드에 전격 속성이 깃듭니다.\n일부 스킬을 전격 속성 형태로 발동\n전격 속성 스킬 대미지 37% 증가	
+10900021|5-CharacterBalance_01-KR	tooltipDescription	블레이드에 전격 속성이 깃듭니다.\n일부 스킬을 전격 속성 형태로 발동\n전격 속성 스킬 대미지 39% 증가	
+10900021|6-CharacterBalance_01-KR	tooltipDescription	블레이드에 전격 속성이 깃듭니다.\n일부 스킬을 전격 속성 형태로 발동\n전격 속성 스킬 대미지 41% 증가	
+10900021|7-CharacterBalance_01-KR	tooltipDescription	블레이드에 전격 속성이 깃듭니다.\n일부 스킬을 전격 속성 형태로 발동\n전격 속성 스킬 대미지 43% 증가	
+10900021|8-CharacterBalance_01-KR	tooltipDescription	블레이드에 전격 속성이 깃듭니다.\n일부 스킬을 전격 속성 형태로 발동\n전격 속성 스킬 대미지 45% 증가	
+10900021|9-CharacterBalance_01-KR	tooltipDescription	블레이드에 전격 속성이 깃듭니다.\n일부 스킬을 전격 속성 형태로 발동\n전격 속성 스킬 대미지 47% 증가	
+10900021|10-CharacterBalance_01-KR	tooltipDescription	블레이드에 전격 속성이 깃듭니다.\n일부 스킬을 전격 속성 형태로 발동\n전격 속성 스킬 대미지 49% 증가	
+10900021|11-CharacterBalance_01-KR	tooltipDescription	블레이드에 전격 속성이 깃듭니다.\n일부 스킬을 전격 속성 형태로 발동\n전격 속성 스킬 대미지 51% 증가	
+10900021|12-CharacterBalance_01-KR	tooltipDescription	블레이드에 전격 속성이 깃듭니다.\n일부 스킬을 전격 속성 형태로 발동\n전격 속성 스킬 대미지 53% 증가	
+10900062|1-CharacterBalance_01-KR	tooltipDescription	뜨거운 불꽃 검기가 온 몸을 휘감습니다!\n매 초마다 77% 의 화염 대미지	
+10900062|2-CharacterBalance_01-KR	tooltipDescription	뜨거운 불꽃 검기가 온 몸을 휘감습니다!\n매 초마다 83% 의 화염 대미지	
+10900062|3-CharacterBalance_01-KR	tooltipDescription	뜨거운 불꽃 검기가 온 몸을 휘감습니다!\n매 초마다 89% 의 화염 대미지	
+10900062|4-CharacterBalance_01-KR	tooltipDescription	뜨거운 불꽃 검기가 온 몸을 휘감습니다!\n매 초마다 95% 의 화염 대미지	
+10900062|5-CharacterBalance_01-KR	tooltipDescription	뜨거운 불꽃 검기가 온 몸을 휘감습니다!\n매 초마다 101% 의 화염 대미지	
+10900062|6-CharacterBalance_01-KR	tooltipDescription	뜨거운 불꽃 검기가 온 몸을 휘감습니다!\n매 초마다 107% 의 화염 대미지	
+10900062|7-CharacterBalance_01-KR	tooltipDescription	뜨거운 불꽃 검기가 온 몸을 휘감습니다!\n매 초마다 113% 의 화염 대미지	
+10900062|8-CharacterBalance_01-KR	tooltipDescription	뜨거운 불꽃 검기가 온 몸을 휘감습니다!\n매 초마다 119% 의 화염 대미지	
+10900062|9-CharacterBalance_01-KR	tooltipDescription	뜨거운 불꽃 검기가 온 몸을 휘감습니다!\n매 초마다 125% 의 화염 대미지	
+10900062|10-CharacterBalance_01-KR	tooltipDescription	뜨거운 불꽃 검기가 온 몸을 휘감습니다!\n매 초마다 131% 의 화염 대미지	
+10900062|11-CharacterBalance_01-KR	tooltipDescription	뜨거운 불꽃 검기가 온 몸을 휘감습니다!\n매 초마다 137% 의 화염 대미지	
+10900062|12-CharacterBalance_01-KR	tooltipDescription	뜨거운 불꽃 검기가 온 몸을 휘감습니다!\n매 초마다 143% 의 화염 대미지	
+10900092|1-CharacterBalance_01-KR	tooltipDescription	화염 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 10 증가\n적에게 받는 화염 대미지 1% 감소\n화염 고리 충돌 시 39% 의 화염 대미지	
+10900092|2-CharacterBalance_01-KR	tooltipDescription	화염 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 20 증가\n적에게 받는 화염 대미지 2% 감소\n화염 고리 충돌 시 41% 의 화염 대미지	
+10900092|3-CharacterBalance_01-KR	tooltipDescription	화염 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 30 증가\n적에게 받는 화염 대미지 3% 감소\n화염 고리 충돌 시 43% 의 화염 대미지	
+10900092|4-CharacterBalance_01-KR	tooltipDescription	화염 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 40 증가\n적에게 받는 화염 대미지 4% 감소\n화염 고리 충돌 시 45% 의 화염 대미지	
+10900092|5-CharacterBalance_01-KR	tooltipDescription	화염 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 50 증가\n적에게 받는 화염 대미지 5% 감소\n화염 고리 충돌 시 47% 의 화염 대미지	
+10900092|6-CharacterBalance_01-KR	tooltipDescription	화염 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 60 증가\n적에게 받는 화염 대미지 6% 감소\n화염 고리 충돌 시 49% 의 화염 대미지	
+10900092|7-CharacterBalance_01-KR	tooltipDescription	화염 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 70 증가\n적에게 받는 화염 대미지 7% 감소\n화염 고리 충돌 시 51% 의 화염 대미지	
+10900092|8-CharacterBalance_01-KR	tooltipDescription	화염 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 80 증가\n적에게 받는 화염 대미지 8% 감소\n화염 고리 충돌 시 53% 의 화염 대미지	
+10900092|9-CharacterBalance_01-KR	tooltipDescription	화염 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 90 증가\n적에게 받는 화염 대미지 9% 감소\n화염 고리 충돌 시 55% 의 화염 대미지	
+10900092|10-CharacterBalance_01-KR	tooltipDescription	화염 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 100 증가\n적에게 받는 화염 대미지 10% 감소\n화염 고리 충돌 시 57% 의 화염 대미지	
+10900092|11-CharacterBalance_01-KR	tooltipDescription	화염 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 110 증가\n적에게 받는 화염 대미지 11% 감소\n화염 고리 충돌 시 59% 의 화염 대미지	
+10900092|12-CharacterBalance_01-KR	tooltipDescription	화염 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 120 증가\n적에게 받는 화염 대미지 12% 감소\n화염 고리 충돌 시 61% 의 화염 대미지	
+10900095|1-CharacterBalance_01-KR	tooltipDescription	전격 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 10 증가\n적에게 받는 전격 대미지 1% 감소\n낙뢰 명중 시 109% 의 전격 대미지	
+10900095|2-CharacterBalance_01-KR	tooltipDescription	전격 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 20 증가\n적에게 받는 전격 대미지 2% 감소\n낙뢰 명중 시 117% 의 전격 대미지	
+10900095|3-CharacterBalance_01-KR	tooltipDescription	전격 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 30 증가\n적에게 받는 전격 대미지 3% 감소\n낙뢰 명중 시 125% 의 전격 대미지	
+10900095|4-CharacterBalance_01-KR	tooltipDescription	전격 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 40 증가\n적에게 받는 전격 대미지 4% 감소\n낙뢰 명중 시 133% 의 전격 대미지	
+10900095|5-CharacterBalance_01-KR	tooltipDescription	전격 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 50 증가\n적에게 받는 전격 대미지 5% 감소\n낙뢰 명중 시 141% 의 전격 대미지	
+10900095|6-CharacterBalance_01-KR	tooltipDescription	전격 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 60 증가\n적에게 받는 전격 대미지 6% 감소\n낙뢰 명중 시 149% 의 전격 대미지	
+10900095|7-CharacterBalance_01-KR	tooltipDescription	전격 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 70 증가\n적에게 받는 전격 대미지 7% 감소\n낙뢰 명중 시 157% 의 전격 대미지	
+10900095|8-CharacterBalance_01-KR	tooltipDescription	전격 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 80 증가\n적에게 받는 전격 대미지 8% 감소\n낙뢰 명중 시 165% 의 전격 대미지	
+10900095|9-CharacterBalance_01-KR	tooltipDescription	전격 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 90 증가\n적에게 받는 전격 대미지 9% 감소\n낙뢰 명중 시 173% 의 전격 대미지	
+10900095|10-CharacterBalance_01-KR	tooltipDescription	전격 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 100 증가\n적에게 받는 전격 대미지 10% 감소\n낙뢰 명중 시 181% 의 전격 대미지	
+10900095|11-CharacterBalance_01-KR	tooltipDescription	전격 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 110 증가\n적에게 받는 전격 대미지 11% 감소\n낙뢰 명중 시 189% 의 전격 대미지	
+10900095|12-CharacterBalance_01-KR	tooltipDescription	전격 마법진으로부터 보호받고 있습니다.\n물리 저항력과 마법 저항력 120 증가\n적에게 받는 전격 대미지 12% 감소\n낙뢰 명중 시 197% 의 전격 대미지	
+90000747|1--	name	던전 밸런스 테스트	
+90000747|1--	tooltipDescription	펫 : 34%	
+90000748|1--	name	던전 밸런스 테스트	
+90000748|1--	tooltipDescription	초월 : 35%	
+90000855|1--	name	던전 밸런스 테스트	
+90000855|1--	tooltipDescription	초월 : 15.7%	
+90000856|1--	name	던전 밸런스 테스트	
+90000856|1--	tooltipDescription	초월 : 21.4%	
+90000858|1--	name	던전 밸런스 테스트	
+90000858|1--	tooltipDescription	라펜샤드 : 14.4%	
+90000869|1--	name	던전 밸런스 테스트	
+90000869|1--	tooltipDescription	특제 전사+마법사 물약 대체	
+90000870|1--	name	던전 밸런스 테스트	
+90000870|1--	tooltipDescription	초월 : 42%	
+90000871|1--	name	던전 밸런스 테스트	
+90000871|1--	tooltipDescription	펫 전투력 : 1994	
+90000872|1--	name	던전 밸런스 테스트	
+90000872|1--	tooltipDescription	펫 옵션 : 12%	
+90000908|1--	name	던전 밸런스 테스트	
+90000908|1--	tooltipDescription	펫 전투력 : 1050\n(실 적용 414)\n50 엘리트	
+90000909|1--	name	던전 밸런스 테스트	
+90000909|1--	tooltipDescription	펫 전투력 : 1700\n(실 적용 670)\n50 엑설런트	
+90000920|1--	name	던전 밸런스 테스트	
+90000920|1--	tooltipDescription	크리티아스 필드70 레벨 : \n공격력 0%, 방어력 0%	
+90000921|1--	name	던전 밸런스 테스트	
+90000921|1--	tooltipDescription	크리티아스 필드71 레벨 : \n공격력 6%, 방어력 6%	
+90000922|1--	name	던전 밸런스 테스트	
+90000922|1--	tooltipDescription	크리티아스 필드72 레벨 : \n공격력 12.4%, 방어력 12.4%	
+90000923|1--	name	던전 밸런스 테스트	
+90000923|1--	tooltipDescription	크리티아스 필드73 레벨 : \n공격력 19.1%, 방어력 19.1%	
+90000924|1--	name	던전 밸런스 테스트	
+90000924|1--	tooltipDescription	크리티아스 필드74 레벨 : \n공격력 26.2%, 방어력 26.2%	
+90000925|1--	name	던전 밸런스 테스트	
+90000925|1--	tooltipDescription	크리티아스 필드75 레벨 : \n공격력 33.8%, 방어력 33.8%	
+90000926|1--	name	던전 밸런스 테스트	
+90000926|1--	tooltipDescription	크리티아스 필드76 레벨 : \n공격력 41.9%, 방어력 41.9%	
+90000927|1--	name	던전 밸런스 테스트	
+90000927|1--	tooltipDescription	크리티아스 필드77 레벨 : \n공격력 50.4%, 방어력 50.4%	
+90000928|1--	name	던전 밸런스 테스트	
+90000928|1--	tooltipDescription	크리티아스 필드78 레벨 : \n공격력 59.4%, 방어력 59.4%	
+90000929|1--	name	던전 밸런스 테스트	
+90000929|1--	tooltipDescription	크리티아스 필드79 레벨 : \n공격력 68.9%, 방어력 68.9%	
+90000930|1--	name	던전 밸런스 테스트	
+90000930|1--	tooltipDescription	크리티아스 필드80 레벨 : \n공격력 79.1%, 방어력 79.1%	
+90000936|1--	name	던전 밸런스 테스트	
+90000936|1--	tooltipDescription	펫 전투력 : 2750\n(실적용 1084)\nKR 70 엑설런트	
+90000937|1--	name	던전 밸런스 테스트	
+90000937|1--	tooltipDescription	펫 전투력 : 3150\n(실적용 1241)\n펫-CN 70 엑설런트	
+90000938|1--	name	던전 밸런스 테스트	
+90000938|1--	tooltipDescription	라펜샤드 : 06.0%	
+90000939|1--	name	던전 밸런스 테스트	
+90000939|1--	tooltipDescription	초월 : 24.4%	
+89000001|1--	name	던전 밸런스 테스트	
+89000001|1--	tooltipDescription	초월 : 36.7%	
+89000002|1--	name	던전 밸런스 테스트	
+89000002|1--	tooltipDescription	라펜샤드 : 25.2%	
+89000003|1--	name	던전 밸런스 테스트	
+89000003|1--	tooltipDescription	초월 : 49%	
+89000004|1--	name	던전 밸런스 테스트	
+89000004|1--	tooltipDescription	라펜샤드 : 36%	
+89000005|1--	name	던전 밸런스 테스트	
+89000005|1--	tooltipDescription	펫 전투력 : 2040\n(실적용 804)\nNA 60 엑설런트	
+89000006|1--	name	던전 밸런스 테스트	
+89000006|1--	tooltipDescription	펫 전투력 : 2750\n펫-KR 70 엑설런트\n장비-레전더리\n전투력 실적용 6500	
+89000007|1--	name	던전 밸런스 테스트	
+89000007|1--	tooltipDescription	펫 전투력 : 4100\n펫-KR 70 레전더리\n장비-레전더리\n전투력 실적용 9691	
+89000008|1--	name	던전 밸런스 테스트	
+89000008|1--	tooltipDescription	펫 전투력 : 3150\n펫-CN 70 엑설런트\n장비-레전더리\n전투력 실적용 7445	
+89000009|1--	name	던전 밸런스 테스트	
+89000009|1--	tooltipDescription	펫 전투력 : 4750\n펫-CN 70 레전더리\n장비-레전더리\n전투력 실적용 11227	
+89000010|1--	name	던전 밸런스 테스트	
+89000010|1--	tooltipDescription	펫 옵션 : 18%	
+89000011|1--	name	던전 밸런스 테스트	
+89000011|1--	tooltipDescription	펫 전투력 : 1994\n(실적용 785)\nNA 60 엑설런트	
+89000012|1--	name	던전 밸런스 테스트	
+89000012|1--	tooltipDescription	펫 전투력 : 4100\n( 실적용 1615)\n펫-KR 70 레전더리	
+89000013|1--	name	던전 밸런스 테스트	
+89000013|1--	tooltipDescription	펫 전투력 : 4750\n(실적용 1871)\n펫-CN 70 레전더리	

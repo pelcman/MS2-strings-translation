@@ -1,0 +1,58 @@
+s_admin_block_transfer_msgbox_title_kr--KR	value	取引制限のご案内
+s_buddy_confirm_del_somebody_from_homeblocklist--	value	{0}さんをブロックリストから削除しますか？
+s_home_block_memo_complete--	value	{0}さんに対するブロックメモを編集しました。
+s_home_block_err_no_user--	value	対象が間違っています。
+s_minimap_tooltip_quest_target_80000422--KR	value	<FONT color='#8aff00'>今日のフレンド</FONT>
+s_minimap_tooltip_quest_target_80000423--KR	value	<FONT color='#8aff00'>今日のフレンド</FONT>
+s_minimap_tooltip_quest_target_80000424--KR	value	<FONT color='#8aff00'>今日のフレンド</FONT>
+s_minimap_tooltip_quest_target_80000425--KR	value	<FONT color='#8aff00'>今日のフレンド</FONT>
+s_minimap_tooltip_quest_target_80000426--KR	value	<FONT color='#8aff00'>今日のフレンド</FONT>
+s_minimap_tooltip_quest_target_80000427--KR	value	<FONT color='#8aff00'>今日のフレンド</FONT>
+s_minimap_tooltip_quest_target_80000428--KR	value	<FONT color='#8aff00'>今日のフレンド</FONT>
+s_minimap_tooltip_quest_target_80000429--KR	value	<FONT color='#8aff00'>今日のフレンド</FONT>
+s_minimap_tooltip_quest_target_80000430--KR	value	<FONT color='#8aff00'>今日のフレンド</FONT>
+s_minimap_tooltip_quest_target_80000431--KR	value	<FONT color='#8aff00'>今日のフレンド</FONT>
+s_minimap_tooltip_quest_target_80000432--KR	value	<FONT color='#8aff00'>今日のフレンド</FONT>
+s_minimap_tooltip_quest_target_80000433--KR	value	<FONT color='#8aff00'>今日のフレンド</FONT>
+s_minimap_tooltip_quest_target_80000434--KR	value	<FONT color='#8aff00'>今日のフレンド</FONT>
+s_minimap_tooltip_quest_target_80000435--KR	value	<FONT color='#8aff00'>今日のフレンド</FONT>
+s_minimap_tooltip_quest_target_80000436--KR	value	<FONT color='#8aff00'>今日のフレンド</FONT>
+s_minimap_tooltip_quest_target_80000437--KR	value	<FONT color='#8aff00'>今日のフレンド</FONT>
+s_action_questUserFind_80000422--KR	value	今日のフレンド - {0}
+s_action_questUserFind_80000423--KR	value	今日のフレンド - {0}
+s_action_questUserFind_80000424--KR	value	今日のフレンド - {0}
+s_action_questUserFind_80000425--KR	value	今日のフレンド - {0}
+s_action_questUserFind_80000426--KR	value	今日のフレンド - {0}
+s_action_questUserFind_80000427--KR	value	今日のフレンド - {0}
+s_action_questUserFind_80000428--KR	value	今日のフレンド - {0}
+s_action_questUserFind_80000429--KR	value	今日のフレンド - {0}
+s_action_questUserFind_80000430--KR	value	今日のフレンド - {0}
+s_action_questUserFind_80000431--KR	value	今日のフレンド - {0}
+s_action_questUserFind_80000432--KR	value	今日のフレンド - {0}
+s_action_questUserFind_80000433--KR	value	今日のフレンド - {0}
+s_action_questUserFind_80000434--KR	value	今日のフレンド - {0}
+s_action_questUserFind_80000435--KR	value	今日のフレンド - {0}
+s_action_questUserFind_80000436--KR	value	今日のフレンド - {0}
+s_action_questUserFind_80000437--KR	value	今日のフレンド - {0}
+s_cashshop_gift_comfirm--KR	value	<FONT color='#FFD200'>{0}</FONT>さんにプレゼントしますか？
+s_itemsocketsystem_socket_swap_price-ItemSocketSystem-	value	{0}{1}個
+s_lullu_key_showwindow_title_codi_box--CN	value	以下のアイテムのうち1つを獲得できます。
+s_treewatering_watering-Event-NA	value	釜にカボチャを投げ入れる
+s_treewatering_emotion-Event-NA	value	釜を鑑賞する
+s_treewatering_watering_casting-Event-NA	value	釜沸騰中
+s_treewatering_emotion_casting-Event-NA	value	釜鑑賞中
+s_treewatering_wateringreward-Event-NA	value	釜にカボチャを入れました。({0}/{1})
+s_treewatering_emotionreward-Event-NA	value	釜を鑑賞しました。({0}/{1})
+s_treewatering_no_waterpot-Event-NA	value	腐ったカボチャがありません。
+s_treewatering_nomore_watering_reward-Event-NA	value	デイリー報酬を全て受け取りました。
+s_treewatering_nomore_emotion_reward-Event-NA	value	デイリー報酬を全て受け取りました。
+s_treewatering_no_waterpot-Event-CN	value	ダッキーエアーポンプがありません。
+s_treewatering_nomore_watering_reward-Event-CN	value	デイリー報酬を全て受け取りました。
+s_treewatering_nomore_emotion_reward-Event-CN	value	デイリー報酬を全て受け取りました。
+s_burning_levelup_event_set_character_popup_bottom--KR	value	\nジャンピング+バーニングイベントの内容を熟知して{0}キャラクターをバーニングキャラクターに指定するには<FONT size='3'></FONT>\n<FONT color='#FFD200'>｢確認｣</FONT>を押してください。
+s_longtermattendgift_dialog_invalid_event--	value	進行できないイベントです。
+s_personal_infomaion_agreement_sendlog_btn_allowed--	value	許可
+s_personal_infomaion_agreement_sendlog_btn_deny--	value	拒否
+s_personal_infomaion_agreement_sendlog_btn_detail--	value	詳細
+s_personal_infomaion_agreement_visit_myhome_btn_public--	value	公開
+s_personal_infomaion_agreement_visit_myhome_btn_private--	value	非公開

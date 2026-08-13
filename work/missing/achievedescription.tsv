@@ -1,0 +1,536 @@
+21100018-Season3-KR	desc	초보자로 50레벨까지 성장하기	Reach level 50 as a Beginner
+21100018-Season3-KR	complete	초보자로 50레벨까지 성장	Reached level 50 as a Beginner
+21100028-Season1-KR	desc	초보자로 30레벨까지 성장하기	Reach level 30 as a Beginner
+21100028-Season1-KR	complete	초보자로 30레벨까지 성장	Reached level 30 as a Beginner
+21100037-Season2-KR	desc	초보자로 40레벨까지 성장하기	Reach level 40 as a Beginner
+21100037-Season2-KR	complete	초보자로 40레벨까지 성장	Reached level 40 as a Beginner
+21230005-Season2-KR	desc	$npc:23000025$ {0}번 처치하기	Defeat $npc:23000025$ {0} times
+21230005-Season2-KR	complete	지금까지 $npc:23000025$ {0}번 처치!	Defeated $npc:23000025$ {0} times so far!
+21230008-Season1-KR	desc	$npc:23000100$ {0}번 처치하기	Defeat $npc:23000100$ {0} times
+21230008-Season1-KR	complete	지금까지 $npc:23000100$ {0}번 처치!	Defeated $npc:23000100$ {0} times so far!
+21230010-Season3-KR	desc	$npc:23000006$ {0}번 처치하기	Defeat $npc:23000006$ {0} times
+21230010-Season3-KR	complete	지금까지 $npc:23000006$ {0}번 처치!	Defeated $npc:23000006$ {0} times so far!
+21230011-Season2-KR	desc	$npc:23100021$ {0}번 처치하기	Defeat $npc:23100021$ {0} times
+21230011-Season2-KR	complete	지금까지 $npc:23100021$ {0}번 처치!	Defeated $npc:23100021$ {0} times so far!
+21230015-Season1-KR	desc	$npc:23000007$ {0}번 처치하기	Defeat $npc:23000007$ {0} times
+21230015-Season1-KR	complete	지금까지 $npc:23000007$ {0}번 처치!	Defeated $npc:23000007$ {0} times so far!
+21230017-Season3-KR	desc	$npc:23000056$ {0}번 처치하기	Defeat $npc:23000056$ {0} times
+21230017-Season3-KR	complete	지금까지 $npc:23000056$ {0}번 처치!	Defeated $npc:23000056$ {0} times so far!
+21230021-Season2-KR	desc	$npc:23000055$ {0}번 처치하기	Defeat $npc:23000055$ {0} times
+21230021-Season2-KR	complete	지금까지 $npc:23000055$ {0}번 처치!	Defeated $npc:23000055$ {0} times so far!
+21230022-Season2-KR	desc	밤 11시 59분에 나의 마지막 일격으로 $npc:23000017$ 처치하기	Defeat $npc:23000017$ with your final blow at 11:59 PM
+21230022-Season2-KR	complete	밤 11시 59분에 나의 마지막 일격으로 $npc:23000017$ 처치!	Defeated $npc:23000017$ with your final blow at 11:59 PM!
+21230024-Season1-KR	desc	$npc:23000039$ {0}번 처치하기	Defeat $npc:23000039$ {0} times
+21230024-Season1-KR	complete	지금까지 $npc:23000039$ {0}번 처치!	Defeated $npc:23000039$ {0} times so far!
+21230026-Season2-KR	desc	$npc:23000015$ {0}번 처치하기	Defeat $npc:23000015$ {0} times
+21230026-Season2-KR	complete	지금까지 $npc:23000015$ {0}번 처치!	Defeated $npc:23000015$ {0} times so far!
+21230027-Season2-KR	desc	$npc:23100077$ {0}번 처치하기	Defeat $npc:23100077$ {0} times
+21230027-Season2-KR	complete	지금까지 $npc:23100077$ {0}번 처치!	Defeated $npc:23100077$ {0} times so far!
+21230031-Season3-KR	desc	$npc:23000033$ {0}번 처치하기	Defeat $npc:23000033$ {0} times
+21230031-Season3-KR	complete	지금까지 $npc:23000033$ {0}번 처치!	Defeated $npc:23000033$ {0} times so far!
+21230032-Season2-KR	desc	$npc:23000041$ {0}번 처치하기	Defeat $npc:23000041$ {0} times
+21230032-Season2-KR	complete	지금까지 $npc:23000041$ {0}번 처치!	Defeated $npc:23000041$ {0} times so far!
+21230084-Zakum01-CN	desc	3차 테스트에서 $npc:23401071$ 제거하기	Remove $npc:23401071$ during the third test
+21230084-Zakum01-CN	complete	3차 테스트에서 $npc:23401071$ 제거!	Removed $npc:23401071$ during the third test!
+21230085-Zakum01-CN	desc	3차 테스트에서 $npc:23402071$ 제거하기	Remove $npc:23402071$ during the third test
+21230085-Zakum01-CN	complete	3차 테스트에서 $npc:23402071$ 제거!	Removed $npc:23402071$ during the third test!
+21230086-Zakum01-CN	desc	3차 테스트에서 $npc:23403071$ 제거하기	Remove $npc:23403071$ during the third test
+21230086-Zakum01-CN	complete	3차 테스트에서 $npc:23403071$ 제거!	Removed $npc:23403071$ during the third test!
+21230087-Zakum01-CN	desc	3차 테스트에서 $npc:23404071$ 제거하기	Remove $npc:23404071$ during the third test
+21230087-Zakum01-CN	complete	3차 테스트에서 $npc:23404071$ 제거!	Removed $npc:23404071$ during the third test!
+21230088-Zakum01-CN	desc	3차 테스트에서 $npc:23405071$ 제거하기	Remove $npc:23405071$ during the third test
+21230088-Zakum01-CN	complete	3차 테스트에서 $npc:23405071$ 제거!	Removed $npc:23405071$ during the third test!
+21230089-Zakum01-CN	desc	3차 테스트에서 $npc:23406071$ 제거하기	Remove $npc:23406071$ during the third test
+21230089-Zakum01-CN	complete	3차 테스트에서 $npc:23406071$ 제거!	Removed $npc:23406071$ during the third test!
+21230090-Zakum01-CN	desc	3차 테스트에서 $npc:23000071$의 모든 팔 제거하기	Remove all arms of $npc:23000071$ during the third test
+21230090-Zakum01-CN	complete	3차 테스트에서 $npc:23000071$의 모든 팔 제거!	Removed all arms of $npc:23000071$ during the third test!
+21230091-Zakum01-CN	desc	3차 테스트에서 $npc:23000071$ 처치하기	Defeat $npc:23000071$ during the third test
+21230091-Zakum01-CN	complete	3차 테스트에서 $npc:23000071$ 처치!	Defeated $npc:23000071$ during the third test!
+21230108-DungeonOS02-	desc	"$dungeonTitle:23023003$" 또는  "$dungeonTitle:23080003$", "$dungeonTitle:23081003$"에서 춤추기 효과에 {0}번 걸림	Be affected by Dancing {0} times in "$dungeonTitle:23023003$", "$dungeonTitle:23080003$", or "$dungeonTitle:23081003$"
+21230108-DungeonOS02-	complete	"$dungeonTitle:23023003$" 또는  "$dungeonTitle:23080003$", "$dungeonTitle:23081003$"에서 춤추기 효과에 {0}번 걸림	Affected by Dancing {0} times in "$dungeonTitle:23023003$", "$dungeonTitle:23080003$", or "$dungeonTitle:23081003$"
+21230132-DungeonOpen70CH7-	desc	카오스[일반] : "$dungeonTitle:23110001$"에서 $npc:23000084$ {0}번 처치하기	Chaos [Normal]: Defeat $npc:23000084$ {0} times in "$dungeonTitle:23110001$"
+21230132-DungeonOpen70CH7-	complete	지금까지 카오스[일반] : "$dungeonTitle:23110001$"에서 $npc:23000084$ {0}번 처치!	Chaos [Normal]: Defeated $npc:23000084$ {0} times in "$dungeonTitle:23110001$" so far!
+21231005-Season2-KR	desc	나의 마지막 일격으로 $npc:23000025$ {0}회 처치하기	Defeat $npc:23000025$ {0} times with your final blow
+21231005-Season2-KR	complete	나의 마지막 일격으로 $npc:23000025$ {0}회 처치	Defeated $npc:23000025$ {0} times with your final blow
+21231008-Season1-KR	desc	나의 마지막 일격으로 $npc:23000100$ {0}회 처치하기	Defeat $npc:23000100$ {0} times with your final blow
+21231008-Season1-KR	complete	나의 마지막 일격으로 $npc:23000100$ {0}회 처치	Defeated $npc:23000100$ {0} times with your final blow
+21231010-Season3-KR	desc	나의 마지막 일격으로 $npc:23000006$ {0}회 처치하기	Defeat $npc:23000006$ {0} times with your final blow
+21231010-Season3-KR	complete	나의 마지막 일격으로 $npc:23000006$ {0}회 처치	Defeated $npc:23000006$ {0} times with your final blow
+21231011-Season2-KR	desc	나의 마지막 일격으로 $npc:23100021$ {0}회 처치하기	Defeat $npc:23100021$ {0} times with your final blow
+21231011-Season2-KR	complete	나의 마지막 일격으로 $npc:23100021$ {0}회 처치	Defeated $npc:23100021$ {0} times with your final blow
+21231015-Season1-KR	desc	나의 마지막 일격으로 $npc:23000007$ {0}회 처치하기	Defeat $npc:23000007$ {0} times with your final blow
+21231015-Season1-KR	complete	나의 마지막 일격으로 $npc:23000007$ {0}회 처치	Defeated $npc:23000007$ {0} times with your final blow
+21231017-Season3-KR	desc	나의 마지막 일격으로 $npc:23000056$ {0}회 처치하기	Defeat $npc:23000056$ {0} times with your final blow
+21231017-Season3-KR	complete	나의 마지막 일격으로 $npc:23000056$ {0}회 처치	Defeated $npc:23000056$ {0} times with your final blow
+21231022-Season1-KR	desc	나의 마지막 일격으로 $npc:23000039$ {0}회 처치하기	Defeat $npc:23000039$ {0} times with your final blow
+21231022-Season1-KR	complete	나의 마지막 일격으로 $npc:23000039$ {0}회 처치	Defeated $npc:23000039$ {0} times with your final blow
+21231024-Season2-KR	desc	나의 마지막 일격으로 $npc:23000015$ {0}회 처치하기	Defeat $npc:23000015$ {0} times with your final blow
+21231024-Season2-KR	complete	나의 마지막 일격으로 $npc:23000015$ {0}회 처치	Defeated $npc:23000015$ {0} times with your final blow
+21231025-Season2-KR	desc	나의 마지막 일격으로 $npc:23000077$ {0}회 처치하기	Defeat $npc:23000077$ {0} times with your final blow
+21231025-Season2-KR	complete	나의 마지막 일격으로 $npc:23000077$ {0}회 처치	Defeated $npc:23000077$ {0} times with your final blow
+21231026-Season3-KR	desc	나의 마지막 일격으로 $npc:23000045$ {0}회 처치하기	Defeat $npc:23000045$ {0} times with your final blow
+21231026-Season3-KR	complete	나의 마지막 일격으로 $npc:23000045$ {0}회 처치	Defeated $npc:23000045$ {0} times with your final blow
+21231029-Season3-KR	desc	나의 마지막 일격으로 $npc:23000033$ {0}회 처치하기	Defeat $npc:23000033$ {0} times with your final blow
+21231029-Season3-KR	complete	나의 마지막 일격으로 $npc:23000033$ {0}회 처치	Defeated $npc:23000033$ {0} times with your final blow
+21231030-Season1-KR	desc	나의 마지막 일격으로 $npc:23000055$ {0}회 처치하기	Defeat $npc:23000055$ {0} times with your final blow
+21231030-Season1-KR	complete	나의 마지막 일격으로 $npc:23000055$ {0}회 처치	Defeated $npc:23000055$ {0} times with your final blow
+21231031-Season2-KR	desc	나의 마지막 일격으로 $npc:23000041$ {0}회 처치하기	Defeat $npc:23000041$ {0} times with your final blow
+21231031-Season2-KR	complete	나의 마지막 일격으로 $npc:23000041$ {0}회 처치	Defeated $npc:23000041$ {0} times with your final blow
+21233006-Season2-KR	desc	$npc:23100021$에 매달려 날기	Fly while hanging onto $npc:23100021$
+21233006-Season2-KR	complete	$npc:23100021$에 매달려 날기	Flew while hanging onto $npc:23100021$
+21233007-Season1-KR	desc	모험[일반] : "$dungeonTitle:20002001$"에서 $npc:23100100$$pp:가,이$ 일으킨 성난 회오리에 휩쓸려 비석에 {0}번 깔리기	Adventure [Normal]: Get swept up by the raging whirlwind caused by $npc:23100100$$pp:가,이$ and crushed by a tombstone {0} times in "$dungeonTitle:20002001$"
+21233007-Season1-KR	complete	지금까지 모험[일반] : "$dungeonTitle:20002001$"에서 $npc:23100100$$pp:가,이$ 일으킨 성난 회오리에 휩쓸려 비석에 {0}번 깔림	Adventure [Normal]: Swept up by the raging whirlwind caused by $npc:23100100$$pp:가,이$ and crushed by a tombstone {0} times in "$dungeonTitle:20002001$" so far
+21233008-Season3-KR	desc	모험[일반] : "$dungeonTitle:20001001$"에서 $npc:23100006$$pp:가,이$ 일으킨 냉기 회오리에 휩쓸려 비석에 {0}번 깔리기	Adventure [Normal]: Get swept up by the cold whirlwind caused by $npc:23100006$$pp:가,이$ and crushed by a tombstone {0} times in "$dungeonTitle:20001001$"
+21233008-Season3-KR	complete	지금까지 모험[일반] : "$dungeonTitle:20001001$"에서 $npc:23100006$$pp:가,이$ 일으킨 냉기 회오리에 휩쓸려 비석에 {0}번 깔림	Adventure [Normal]: Swept up by the cold whirlwind caused by $npc:23100006$$pp:가,이$ and crushed by a tombstone {0} times in "$dungeonTitle:20001001$" so far
+21233009-Season3-KR	desc	모험[일반] : "$dungeonTitle:20001001$"에서 $npc:23100006$의 고드름에 맞아 비석에 {0}번 깔리기	Adventure [Normal]: Get hit by $npc:23100006$'s icicle and crushed by a tombstone {0} times in "$dungeonTitle:20001001$"
+21233009-Season3-KR	complete	지금까지 모험[일반] : "$dungeonTitle:20001001$"에서 $npc:23100006$의 고드름에 맞아 비석에 {0}번 깔림	Adventure [Normal]: Hit by $npc:23100006$'s icicle and crushed by a tombstone {0} times in "$dungeonTitle:20001001$" so far
+21233010-Season1-KR	desc	모험[일반] : "$dungeonTitle:20009001$"에서 $npc:23100055$의 전기 공격에 감전 당하기	Adventure [Normal]: Get electrocuted by $npc:23100055$'s electric attack in "$dungeonTitle:20009001$"
+21233010-Season1-KR	complete	모험[일반] : "$dungeonTitle:20009001$"에서  $npc:23100055$의 전기 공격에 감전 당하기	Adventure [Normal]: Electrocuted by $npc:23100055$'s electric attack in "$dungeonTitle:20009001$"
+21233011-Season1-KR	desc	모험[일반] : "$dungeonTitle:20006001$"에서 $npc:23200007$의 회전 레이저 공격을 맞고 비석에 {0}번 깔리기	Adventure [Normal]: Get hit by $npc:23200007$'s spinning laser attack and crushed by a tombstone {0} times in "$dungeonTitle:20006001$"
+21233011-Season1-KR	complete	지금까지 모험[일반] : "$dungeonTitle:20006001$"에서 $npc:23200007$의 회전 레이저 공격을 맞고 비석에 {0}번 깔림	Adventure [Normal]: Hit by $npc:23200007$'s spinning laser attack and crushed by a tombstone {0} times in "$dungeonTitle:20006001$" so far
+21233014-Season3-KR	desc	모험[일반] : "$dungeonTitle:20015001$"에서 $npc:23100033$의 얼굴 마법진을 밟아 소인으로 변하기	Adventure [Normal]: Step on $npc:23100033$'s face magic circle and turn into a tiny person in "$dungeonTitle:20015001$"
+21233014-Season3-KR	complete	모험[일반] : "$dungeonTitle:20015001$"에서 $npc:23100033$의 얼굴 마법진을 밟아 소인으로 변하기	Adventure [Normal]: Stepped on $npc:23100033$'s face magic circle and turned into a tiny person in "$dungeonTitle:20015001$"
+21233015-Season3-KR	desc	$npc:23100056$의 지뢰 폭발에 당해 {0}번 기절하기	Get stunned {0} times by $npc:23100056$'s mine explosion
+21233015-Season3-KR	complete	지금까지 $npc:23100056$의 지뢰 폭발에 당해 {0}번 기절	Stunned {0} times by $npc:23100056$'s mine explosion so far
+21233016-Season2-KR	desc	$npc:23100041$의 고속 회전 망치에 한 대도 맞지 않고 {0}번 버티기	Survive {0} times without being hit once by $npc:23100041$'s high-speed spinning hammer
+21233016-Season2-KR	complete	지금까지 $npc:23100041$의 고속 회전 망치에 한 대도 맞지 않고 {0}번 버티기	Survived {0} times so far without being hit once by $npc:23100041$'s high-speed spinning hammer
+21250001-Season1-KR	desc	8분 안에 모험[일반] : $npc:23000100$ 처치하기	Defeat Adventure [Normal]: $npc:23000100$ within 8 minutes
+21250001-Season1-KR	complete	8분 안에 모험[일반] : $npc:23000100$ 처치!	Defeated Adventure [Normal]: $npc:23000100$ within 8 minutes!
+21250002-Season1-KR	desc	8분 안에 모험[일반] : $npc:23000055$ 처치하기	Defeat Adventure [Normal]: $npc:23000055$ within 8 minutes
+21250002-Season1-KR	complete	8분 안에 모험[일반] : $npc:23000055$ 처치!	Defeated Adventure [Normal]: $npc:23000055$ within 8 minutes!
+21250003-Season1-KR	desc	8분 안에 모험[일반] : $npc:23000007$ 처치하기	Defeat Adventure [Normal]: $npc:23000007$ within 8 minutes
+21250003-Season1-KR	complete	8분 안에 모험[일반] : $npc:23000007$ 처치!	Defeated Adventure [Normal]: $npc:23000007$ within 8 minutes!
+21300001-Season1-KR	desc	무법자의 언덕에서 다른 캐릭터를 {0}회 쓰러뜨리기	Defeat other characters {0} times in Outlaw's Hill
+21300001-Season1-KR	complete	지금까지 무법자의 언덕에서 다른 캐릭터를 {0}회 쓰러뜨림	Defeated other characters {0} times in Outlaw's Hill so far
+21300002-Season1-KR	desc	무법자의 언덕에서 다른 캐릭터에게 {0}회 쓰러지기	Be defeated by other characters {0} times in Outlaw's Hill
+21300002-Season1-KR	complete	지금까지 무법자의 언덕에서 다른 캐릭터에게 {0}회 쓰러짐	Defeated by other characters {0} times in Outlaw's Hill so far
+21300009-Season1-KR	desc	$map:64000001$에서 상대 길드원을 {0}회 쓰러뜨리기	Defeat opposing guild members {0} times in $map:64000001$
+21300009-Season1-KR	complete	지금까지 $map:64000001$에서 상대 길드원을 {0}회 쓰러뜨림	Defeated opposing guild members {0} times in $map:64000001$ so far
+21300010-Season1-KR	desc	$map:64000001$에서 상대 길드원에게 {0}회 쓰러지기	Be defeated by opposing guild members {0} times in $map:64000001$
+21300010-Season1-KR	complete	지금까지 $map:64000001$에서 상대 길드원에게 {0}회 쓰러짐	Defeated by opposing guild members {0} times in $map:64000001$ so far
+21300011-Season1-KR	desc	$map:64000001$에서 상대 길드를 물리치고 {0}회 승리하기	Defeat the opposing guild and win {0} times in $map:64000001$
+21300011-Season1-KR	complete	지금까지 $map:64000001$에서 상대 길드를 물리치고 {0}회 승리	Defeated the opposing guild and won {0} times in $map:64000001$ so far
+21300012-Season1-KR	desc	길드 챔피언십 {0}회 참가하기	Participate in Guild Championship {0} times
+21300012-Season1-KR	complete	지금까지 길드 챔피언십 {0}회 참가	Participated in Guild Championship {0} times so far
+21300013-Season1-KR	desc	길드 챔피언십에서 1위 달성하기 (정기 점검 시 달성)	Reach 1st place in Guild Championship (achieved during regular maintenance)
+21300013-Season1-KR	complete	길드 챔피언십에서 1위 달성	Reached 1st place in Guild Championship
+21300103-Season1-	desc	$map:61000035$ {0}회 참가하기	Participate in $map:61000035$ {0} times
+21300103-Season1-	complete	지금까지 $map:61000035$ {0}회 참가	Participated in $map:61000035$ {0} times so far
+21300104-Season1-	desc	$map:61000035$에서 다른 캐릭터를 {0}회 쓰러뜨리기	Defeat other characters in $map:61000035$ {0} times
+21300104-Season1-	complete	지금까지 $map:61000035$에서 다른 캐릭터를 {0}명 쓰러뜨림	Defeated {0} other characters in $map:61000035$ so far
+21300105-DungeonOS01-	desc	$npc:23000400$ {0}회 쓰러뜨리기	Defeat $npc:23000400$ {0} times
+21300105-DungeonOS01-	complete	$npc:23000400$ {0}회 쓰러뜨림	Defeated $npc:23000400$ {0} times
+21300106-DungeonOS01-	desc	"$dungeonTitle:23100001$"에서 나의 마지막 일격으로 $npc:23000400$ {0}회 처치하기	Defeat $npc:23000400$ {0} times with your final blow in "$dungeonTitle:23100001$"
+21300106-DungeonOS01-	complete	"$dungeonTitle:23100001$"에서 나의 마지막 일격으로 $npc:23000400$ {0}회 처치	Defeated $npc:23000400$ {0} times with your final blow in "$dungeonTitle:23100001$"
+21300107-DungeonOS01-	desc	"$dungeonTitle:23100001$"에서 $npc:23000400$의 "홀로 남은 자들은 모두 불타리라"를 맞고 비석에 깔리기	Be crushed by a tombstone after being hit by $npc:23000400$'s "All who stand alone shall burn" in "$dungeonTitle:23100001$"
+21300107-DungeonOS01-	complete	"$dungeonTitle:23100001$"에서 $npc:23000400$의 "홀로 남은 자들은 모두 불타리라"를 맞고 비석에 깔림	Was crushed by a tombstone after being hit by $npc:23000400$'s "All who stand alone shall burn" in "$dungeonTitle:23100001$"
+21300108-DungeonOS01-	desc	"$dungeonTitle:23100001$"에서 $npc:23000400$의 "함께하는 자들은 모두 불타리라"를 맞고 비석에 깔리기	Be crushed by a tombstone after being hit by $npc:23000400$'s "All who stand together shall burn" in "$dungeonTitle:23100001$"
+21300108-DungeonOS01-	complete	"$dungeonTitle:23100001$"에서 $npc:23000400$의 "함께하는 자들은 모두 불타리라"를 맞고 비석에 깔림	Was crushed by a tombstone after being hit by $npc:23000400$'s "All who stand together shall burn" in "$dungeonTitle:23100001$"
+21300109-DungeonOS01-	desc	$npc:23000401$ {0}회 쓰러뜨리기	Defeat $npc:23000401$ {0} times
+21300109-DungeonOS01-	complete	$npc:23000401$ {0}회 쓰러뜨림	Defeated $npc:23000401$ {0} times
+21300110-DungeonOS01-	desc	"$dungeonTitle:23101001$"에서 나의 마지막 일격으로 $npc:23000401$ {0}회 처치하기	Defeat $npc:23000401$ {0} times with your final blow in "$dungeonTitle:23101001$"
+21300110-DungeonOS01-	complete	"$dungeonTitle:23101001$"에서 나의 마지막 일격으로 $npc:23000401$ {0}회 처치	Defeated $npc:23000401$ {0} times with your final blow in "$dungeonTitle:23101001$"
+21300111-DungeonOS01-	desc	$item:20301436$ {0}개 맛보기	Taste $item:20301436$ {0} times
+21300111-DungeonOS01-	complete	지금까지 $item:20301436$ {0}개 맛봄	Tasted $item:20301436$ {0} times so far
+21300112-Season1-	desc	$map:61000035$에서 아이템 {0}개 획득하기	Obtain {0} items in $map:61000035$
+21300112-Season1-	complete	지금까지 $map:61000035$에서 아이템 {0}개 획득	Obtained {0} items in $map:61000035$ so far
+21300113-DungeonOS04-	desc	"$dungeonTitle:23120001$"에서 $npc:44100001$ {0}회 쓰러뜨리기	Defeat $npc:44100001$ {0} times in "$dungeonTitle:23120001$"
+21300113-DungeonOS04-	complete	"$dungeonTitle:23120001$"에서 $npc:44100001$ {0}회 쓰러뜨림	Defeated $npc:44100001$ {0} times in "$dungeonTitle:23120001$"
+21300114-DungeonOS04-	desc	"$dungeonTitle:23120001$"에서 나의 마지막 일격으로 $npc:44100001$ {0}회 처치하기	Defeat $npc:44100001$ {0} times with your final blow in "$dungeonTitle:23120001$"
+21300114-DungeonOS04-	complete	"$dungeonTitle:23120001$"에서 나의 마지막 일격으로 $npc:44100001$ {0}회 처치	Defeated $npc:44100001$ {0} times with your final blow in "$dungeonTitle:23120001$"
+21300115-DungeonOS04-	desc	"$dungeonTitle:23120001$"에서 $npc:44100002$ {0}회 처치하기	Defeat $npc:44100002$ {0} times in "$dungeonTitle:23120001$"
+21300115-DungeonOS04-	complete	"$dungeonTitle:23120001$"에서 $npc:44100002$ {0}회 처치	Defeated $npc:44100002$ {0} times in "$dungeonTitle:23120001$"
+21300116-DungeonOS04-	desc	"$dungeonTitle:23120001$"에서 $npc:44100001$의 "발성 연습"에 맞고 {0}회 기절하기	Be stunned {0} times after being hit by $npc:44100001$'s "Vocal Practice" in "$dungeonTitle:23120001$"
+21300116-DungeonOS04-	complete	"$dungeonTitle:23120001$"에서 $npc:44100001$의 "발성 연습"에 맞고 {0}회 기절	Stunned {0} times after being hit by $npc:44100001$'s "Vocal Practice" in "$dungeonTitle:23120001$"
+21300117-DungeonOS04-	desc	"$dungeonTitle:23120001$"에서 $npc:44100001$의 "아리아"에 맞고 {0}회 비석에 깔리기	Be crushed by a tombstone {0} times after being hit by $npc:44100001$'s "Aria" in "$dungeonTitle:23120001$"
+21300117-DungeonOS04-	complete	"$dungeonTitle:23120001$"에서 $npc:44100001$의 "아리아"에 맞고 {0}회 비석에 깔림	Was crushed by a tombstone {0} times after being hit by $npc:44100001$'s "Aria" in "$dungeonTitle:23120001$"
+22200019-Season1-KR	desc	$item:30000181$ {0}개를 $map:02000001$에 있는 $npcName:11000327$에게 전달하기	Deliver {0} $item:30000181$ to $npcName:11000327$ in $map:02000001$
+22200019-Season1-KR	complete	지금까지 $item:30000181$ {0}개를 $npcName:11000327$에게 전달	Delivered {0} $item:30000181$ to $npcName:11000327$ so far
+22300025-Season1-KR	desc	"$quest:90000000$" 퀘스트 완료하기	Complete the "$quest:90000000$" quest
+22300025-Season1-KR	complete	"$quest:90000000$" 퀘스트 완료	Completed the "$quest:90000000$" quest
+23100012-Season1-KR	desc	500 이상의 추락 대미지 {0}번 경험하기	Experience fall damage of 500 or more {0} times
+23100012-Season1-KR	complete	500 이상의 추락 대미지 {0}번 경험	Experienced fall damage of 500 or more {0} times
+23100061-Season1-KR	desc	$item:20000208$ {0}회 사용하기	Use $item:20000208$ {0} times
+23100061-Season1-KR	complete	지금까지 $item:20000208$ {0}회 사용	Used $item:20000208$ {0} times so far
+23100070-Season1-KR	desc	$item:20000217$ {0}회 맛보기	Taste $item:20000217$ {0} times
+23100070-Season1-KR	complete	지금까지 $item:20000217$ {0}회 맛봄	Tasted $item:20000217$ {0} times so far
+23100075-Season1-KR	desc	$item:20000222$ {0}회 마셔보기	Try drinking $item:20000222$ {0} times
+23100075-Season1-KR	complete	지금까지 $item:20000222$ {0}회 마셔봄	Tried drinking $item:20000222$ {0} times so far
+23100076-Season1-KR	desc	$item:20000223$ {0}회 사용하기	Use $item:20000223$ {0} times
+23100076-Season1-KR	complete	지금까지 $item:20000223$ {0}회 사용	Used $item:20000223$ {0} times so far
+23100081-Season1-KR	desc	$item:20000228$ {0}회 사용하기	Use $item:20000228$ {0} times
+23100081-Season1-KR	complete	지금까지 $item:20000228$ {0}회 사용	Used $item:20000228$ {0} times so far
+23100090-Season1-KR	desc	$item:20000238$ {0}회 마셔보기	Try drinking $item:20000238$ {0} times
+23100090-Season1-KR	complete	지금까지 $item:20000238$ {0}회 마셔봄	Tried drinking $item:20000238$ {0} times so far
+23100130-Season1-KR	desc	내 집 또는 다른 사람의 집에서 $item:50400112$ 동작시키기	Operate $item:50400112$ in your house or someone else's house
+23100130-Season1-KR	complete	내 집 또는 다른 사람의 집에서 $item:50400112$ 동작시키기 완료	Operated $item:50400112$ in your house or someone else's house
+23100131-Season1-KR	desc	내 집 또는 다른 사람의 집에서 $item:50400113$ 동작시키기	Operate $item:50400113$ in your house or someone else's house
+23100131-Season1-KR	complete	내 집 또는 다른 사람의 집에서 $item:50400113$ 동작시키기 완료	Operated $item:50400113$ in your house or someone else's house
+23100132-Season1-KR	desc	내 집 또는 다른 사람의 집에서 $item:50400114$ 동작시키기	Operate $item:50400114$ in your house or someone else's house
+23100132-Season1-KR	complete	내 집 또는 다른 사람의 집에서 $item:50400114$ 동작시키기 완료	Operated $item:50400114$ in your house or someone else's house
+23100174-Season1-KR	desc	내 집 또는 다른 사람의 집에서 $item:50400120$ 이용하기	Use $item:50400120$ in your house or someone else's house
+23100174-Season1-KR	complete	내 집 또는 다른 사람의 집에서 $item:50400120$ 이용	Used $item:50400120$ in your house or someone else's house
+23100175-Season1-KR	desc	내 집 또는 다른 사람의 집에서 $item:50400121$ 이용하기	Use $item:50400121$ in your house or someone else's house
+23100175-Season1-KR	complete	내 집 또는 다른 사람의 집에서 $item:50400121$ 이용	Used $item:50400121$ in your house or someone else's house
+23100222-Season1-CN	desc	후드티 디자인 콘테스트에서 우승	Win the hoodie design contest
+23100222-Season1-CN	complete	후드티 디자인 콘테스트에서 우승	Won the hoodie design contest
+23100280-Season1-CN	desc	TGP 실행으로 접속하기	Log in by launching TGP
+23100280-Season1-CN	complete	TGP 실행으로 접속하기	Logged in by launching TGP
+23100300--	desc	내 집 또는 다른 사람의 집에 있는 $item:50201169$ 켜기	Turn on $item:50201169$ in your house or someone else's house
+23100300--	complete	내 집 또는 다른 사람의 집에 있는 $item:50201169$ 켜기 완료	Turned on $item:50201169$ in your house or someone else's house
+23100426--	desc	마림바 연주로 숙련도 {0}까지 올리기	Gain {0} performance mastery by playing the marimba
+23100426--	complete	마림바 연주로 숙련도 {0}까지 올리기 완료	Gained {0} performance mastery by playing the marimba
+23100448--	desc	플루트 연주로 숙련도 {0}까지 올리기	Raise mastery to {0} by playing the flute
+23100448--	complete	플루트 연주로 숙련도 {0}까지 올리기 완료	Raised mastery to {0} by playing the flute
+23200015-Season1-KR	desc	한 달 동안 디자이너스샵 누적 판매 20만 메럿 달성하기 (정기 점검 시 달성)	Reach 200,000 Merets in cumulative Designer's Shop sales in one month (achieved during regular maintenance)
+23200015-Season1-KR	complete	한 달 동안 디자이너스샵 누적 판매 20만 메럿 달성!	Reached 200,000 Merets in cumulative Designer's Shop sales in one month!
+23200036-Season1-CN	desc	한 달 동안 디자이너스샵 누적 판매 100만 메럿 달성 (정기 점검 시 달성)	Reach 1,000,000 Merets in cumulative Designer's Shop sales in one month (achieved during regular maintenance)
+23200036-Season1-CN	complete	한 달 동안 디자이너스샵 누적 판매 100만 메럿 달성!	Reached 1,000,000 Merets in cumulative Designer's Shop sales in one month!
+23300060-Season1-CN	desc	단풍 세트 수집하기	Collect the maple leaf set
+23300060-Season1-CN	complete	단풍 세트 수집	Collected the maple leaf set
+23300067-Season1-	desc	[책] $item:39000043$ 수집하기	Collect [Book] $item:39000043$
+23300067-Season1-	complete	[책] $item:39000043$ 수집	Collected [Book] $item:39000043$
+23400038-MassiveCrazyRunnersShanghai-CN	desc	$map:61000010$에 {0}회 참가하기	Participate in $map:61000010$ {0} times
+23400038-MassiveCrazyRunnersShanghai-CN	complete	지금까지 $map:61000010$에 {0}회 참가	Participated in $map:61000010$ {0} times so far
+23400039-MassiveCrazyRunnersShanghai-CN	desc	$map:61000010$에서 결승점에 {0}회 도착하기	Reach the finish line in $map:61000010$ {0} times
+23400039-MassiveCrazyRunnersShanghai-CN	complete	지금까지 $map:61000010$ 결승점 {0}회 도착	Reached the finish line in $map:61000010$ {0} times so far
+23400040-MassiveCrazyRunnersShanghai-CN	desc	$map:61000010$에서 결승점에 가장 먼저 도착하기	Be the first to reach the finish line in $map:61000010$
+23400040-MassiveCrazyRunnersShanghai-CN	complete	$map:61000010$에서 결승점에 가장 먼저 도착	Was the first to reach the finish line in $map:61000010$
+23400041-MassiveCrazyRunnersShanghai-CN	desc	$map:61000010$에서 무작위 상자 {0}회 사용하기	Use random boxes in $map:61000010$ {0} times
+23400041-MassiveCrazyRunnersShanghai-CN	complete	지금까지 $map:61000010$에서 무작위 상자 {0}회 사용	Used random boxes in $map:61000010$ {0} times so far
+23400042--CN	desc	$item:20301443$ {0}회 사용하기	Use $item:20301443$ {0} times
+23400042--CN	complete	지금까지 $item:20301443$ {0}회 사용	Used $item:20301443$ {0} times so far
+23400043--CN	desc	$item:30001166$, $item:30001167$, $item:30001168$, $item:30001169$, $item:30001170$, $item:30001171$, $item:30001172$, $item:30001173$, $item:30001174$, $item:30001175$, $item:30001176$, $item:30001177$ 모으기	Collect $item:30001166$, $item:30001167$, $item:30001168$, $item:30001169$, $item:30001170$, $item:30001171$, $item:30001172$, $item:30001173$, $item:30001174$, $item:30001175$, $item:30001176$, $item:30001177$
+23400043--CN	complete	$item:30001166$, $item:30001167$, $item:30001168$, $item:30001169$, $item:30001170$, $item:30001171$, $item:30001172$, $item:30001173$, $item:30001174$, $item:30001175$, $item:30001176$, $item:30001177$ 모으기 완료	Collected $item:30001166$, $item:30001167$, $item:30001168$, $item:30001169$, $item:30001170$, $item:30001171$, $item:30001172$, $item:30001173$, $item:30001174$, $item:30001175$, $item:30001176$, $item:30001177$
+23400044--CN	desc	$item:20301602$ {0}회 사용하기	Use $item:20301602$ {0} times
+23400044--CN	complete	지금까지 $item:20301602$ {0}회 사용	Used $item:20301602$ {0} times so far
+23400045--CN	desc	$item:20301855$ {0}회 사용하기	Use $item:20301855$ {0} times
+23400045--CN	complete	$item:20301855$ {0}회 사용	Used $item:20301855$ {0} times
+23400046-WorldChampionMushroom-CN	desc	1주년 월드 레이드 참여해서 {0}회 보상 획득	Participate in the 1st Anniversary World Raid and receive rewards {0} times
+23400046-WorldChampionMushroom-CN	complete	1주년 월드 레이드 보상 {0}회 획득	Received 1st Anniversary World Raid rewards {0} times
+23400047--CN	desc	$item:20301889$ {0}회 사용하기	Use $item:20301889$ {0} times
+23400047--CN	complete	지금까지 $item:20301889$ {0}회 사용	Used $item:20301889$ {0} times so far
+23400049--CN	desc	$item:20302181$ {0}회 사용하기	Use $item:20302181$ {0} times
+23400049--CN	complete	지금까지 $item:20302181$ {0}회 사용	Used $item:20302181$ {0} times so far
+23400050--KR	desc	$item:20001150$ {0}회 획득하기	Obtain $item:20001150$ {0} times
+23400050--KR	complete	지금까지 $item:20001150$ {0}회 획득	Obtained $item:20001150$ {0} times so far
+23400051--CN	desc	$item:20001294$ {0}회 획득하기	Obtain $item:20001294$ {0} times
+23400051--CN	complete	지금까지 $item:20001294$ {0}회 획득	Obtained $item:20001294$ {0} times so far
+23400053-Blueprint-CN	desc	이벤트 기간 내 블루프린트 1회 제작해보기	Create a blueprint once during the event period
+23400053-Blueprint-CN	complete	이벤트 기간 내 블루프린트 1회 제작	Created a blueprint once during the event period
+23400054--CN	desc	$item:20302590$ {0}회 사용하기	Use $item:20302590$ {0} times
+23400054--CN	complete	지금까지 $item:20302590$ {0}회 사용	Used $item:20302590$ {0} times so far
+23400055--CN	desc	$item:20302816$ {0}회 사용하기	Use $item:20302816$ {0} times
+23400055--CN	complete	지금까지 $item:20302816$ {0}회 사용	Used $item:20302816$ {0} times so far
+23400056-MassiveHideAndSeek-KR	desc	숨바꼭질에 {0}회 참여하기	Participate in hide-and-seek {0} times
+23400056-MassiveHideAndSeek-KR	complete	숨바꼭질에 {0}회 참여	Participated in hide-and-seek {0} times
+23400057-MassiveHideAndSeek-KR	desc	숨바꼭질에서 {0}회 우승하기	Win hide-and-seek {0} times
+23400057-MassiveHideAndSeek-KR	complete	숨바꼭질에서 {0}회 우승	Won hide-and-seek {0} times
+23400058-Event-CN	desc	$item:20001769$ {0}회 획득하기	Obtain $item:20001769$ {0} times
+23400058-Event-CN	complete	지금까지 $item:20001769$ {0}회 획득	Obtained $item:20001769$ {0} times so far
+23500006-Season1-KR	desc	메이드 연금도구를 내 집에 설치해보기	Install maid alchemy tools in your house
+23500006-Season1-KR	complete	메이드 연금도구를 내 집에 설치 완료	Installed maid alchemy tools in your house
+23500009-Season1-KR	desc	반지 제작 전문 메이드로부터 $item:12000045$ {0}개 획득하기	Obtain $item:12000045$ {0} times from a ring-crafting maid
+23500009-Season1-KR	complete	반지 제작 전문 메이드로부터 $item:12000045$ {0}개 획득!	Obtained $item:12000045$ {0} times from a ring-crafting maid!
+23500010-Season1-KR	desc	목걸이 제작 전문 메이드로부터 $item:11900054$ {0}개 획득하기	Obtain $item:11900054$ {0} times from a necklace-crafting maid
+23500010-Season1-KR	complete	목걸이 제작 전문 메이드로부터 $item:11900054$ {0}개 획득!	Obtained $item:11900054$ {0} times from a necklace-crafting maid!
+23500013-Season1-KR	desc	연금술 전문 메이드로부터 $item:20000027$ {0}개 획득하기	Obtain $item:20000027$ {0} times from an alchemy maid
+23500013-Season1-KR	complete	연금술 전문 메이드로부터 $item:20000027$ {0}개 획득!	Obtained $item:20000027$ {0} times from an alchemy maid!
+23500026--	desc	$item:50201169$ 내 집에 설치해보기	Install $item:50201169$ in your house
+23500026--	complete	$item:50201169$ 내 집에 설치 완료	Installed $item:50201169$ in your house
+90000006-Season1-KR	desc	길드 챔피언십 시즌1 경기에 {0}회 참가하기	Participate in Guild Championship Season 1 matches {0} times
+90000006-Season1-KR	complete	길드 챔피언십 시즌1 경기에 총 {0}회 참가	Participated in Guild Championship Season 1 matches {0} times total
+90000010-Season1-KR	desc	길드 챔피언십 1시즌에 참가한 길드 중 1위 달성하기	Reach 1st place among guilds participating in Guild Championship Season 1
+90000010-Season1-KR	complete	길드 챔피언십 1시즌에 참가한 길드 중 1위 달성!	Reached 1st place among guilds participating in Guild Championship Season 1!
+90000011-Season1-KR	desc	길드 챔피언십 2시즌에 참가한 길드 중 1위 달성하기	Reach 1st place among guilds participating in Guild Championship Season 2
+90000011-Season1-KR	complete	길드 챔피언십 2시즌에 참가한 길드 중 1위 달성!	Reached 1st place among guilds participating in Guild Championship Season 2!
+90000012-Season1-KR	desc	길드 챔피언십 3시즌에 참가한 길드 중 1위 달성하기	Reach 1st place among guilds participating in Guild Championship Season 3
+90000012-Season1-KR	complete	길드 챔피언십 3시즌에 참가한 길드 중 1위 달성!	Reached 1st place among guilds participating in Guild Championship Season 3!
+90000013-Season1-KR	desc	길드 챔피언십 4시즌에 참가한 길드 중 1위 달성하기	Reach 1st place among guilds participating in Guild Championship Season 4
+90000013-Season1-KR	complete	길드 챔피언십 4시즌에 참가한 길드 중 1위 달성!	Reached 1st place among guilds participating in Guild Championship Season 4!
+90000014-Season1-KR	desc	길드 챔피언십 5시즌에 참가한 길드 중 1위 달성하기	Reach 1st place among guilds participating in Guild Championship Season 5
+90000014-Season1-KR	complete	길드 챔피언십 5시즌에 참가한 길드 중 1위 달성!	Reached 1st place among guilds participating in Guild Championship Season 5!
+90000015-Season1-KR	desc	길드 챔피언십 3-2시즌에 참가한 길드 중 1위 달성하기	Reach 1st place among guilds participating in Guild Championship Season 3-2
+90000015-Season1-KR	complete	길드 챔피언십 3-2시즌에 참가한 길드 중 1위 달성!	Reached 1st place among guilds participating in Guild Championship Season 3-2!
+90000016-Season1-KR	desc	봄맞이 길드 대전에 참가한 길드 중 1위 달성하기	Reach 1st place among guilds participating in the Spring Guild Battle
+90000016-Season1-KR	complete	봄맞이 길드 대전에 참가한 길드 중 1위 달성!	Reached 1st place among guilds participating in the Spring Guild Battle!
+90000017-Season1-KR	desc	가을맞이 길드 대전에 참가한 길드 중 1위 달성하기	Reach 1st place among guilds participating in the Autumn Guild Battle
+90000017-Season1-KR	complete	가을맞이 길드 대전에 참가한 길드 중 1위 달성!	Reached 1st place among guilds participating in the Autumn Guild Battle!
+91000001-Season1-KR	desc	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기	Reach 200,000 Merets in cumulative Designer's Shop sales once in one month
+91000001-Season1-KR	complete	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!	Reached 200,000 Merets in cumulative Designer's Shop sales once in one month!
+91000002-Season1-KR	desc	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기	Reach 200,000 Merets in cumulative Designer's Shop sales once in one month
+91000002-Season1-KR	complete	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!	Reached 200,000 Merets in cumulative Designer's Shop sales once in one month!
+91000003-Season1-KR	desc	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기	Reach 200,000 Merets in cumulative Designer's Shop sales once in one month
+91000003-Season1-KR	complete	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!	Reached 200,000 Merets in cumulative Designer's Shop sales once in one month!
+91000004-Season1-KR	desc	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기	Reach 200,000 Merets in cumulative Designer's Shop sales once in one month
+91000004-Season1-KR	complete	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!	Reached 200,000 Merets in cumulative Designer's Shop sales once in one month!
+91000005-Season1-KR	desc	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기	Reach 200,000 Merets in cumulative Designer's Shop sales once in one month
+91000005-Season1-KR	complete	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!	Reached 200,000 Merets in cumulative Designer's Shop sales once in one month!
+91000006-Season1-KR	desc	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기	Reach 200,000 Merets in cumulative Designer's Shop sales once in one month
+91000006-Season1-KR	complete	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!	Reached 200,000 Merets in cumulative Designer's Shop sales once in one month!
+91000007-Season1-KR	desc	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기	Reach 200,000 Merets in cumulative Designer's Shop sales once in one month
+91000007-Season1-KR	complete	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!	Reached 200,000 Merets in cumulative Designer's Shop sales once in one month!
+91000008-Season1-KR	desc	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기	Reach 200,000 Merets in cumulative Designer's Shop sales once in one month
+91000008-Season1-KR	complete	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!	Reached 200,000 Merets in cumulative Designer's Shop sales once in one month!
+91000009-Season1-KR	desc	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기	Reach 200,000 Merets in cumulative Designer's Shop sales once in one month
+91000009-Season1-KR	complete	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!	Reached 200,000 Merets in cumulative Designer's Shop sales once in one month!
+91000010-Season1-KR	desc	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기	Reach 200,000 Merets in cumulative Designer's Shop sales once in one month
+91000010-Season1-KR	complete	한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!	Reached 200,000 Merets in cumulative Designer's Shop sales once in one month!
+91001001-Season1-KR	desc	이달의 스타 건축가 되기	Become this month's star architect
+91001001-Season1-KR	complete	이달의 스타 건축가 등극!	Became this month's star architect!
+91001002-Season1-KR	desc	이달의 스타 건축가 되기	Become this month's star architect
+91001002-Season1-KR	complete	이달의 스타 건축가 등극!	Became this month's star architect!
+91001003-Season1-KR	desc	이달의 스타 건축가 되기	Become this month's star architect
+91001003-Season1-KR	complete	이달의 스타 건축가 등극!	Became this month's star architect!
+91001004-Season1-KR	desc	이달의 스타 건축가 되기	Become this month's star architect
+91001004-Season1-KR	complete	이달의 스타 건축가 등극!	Became this month's star architect!
+91001005-Season1-KR	desc	이달의 스타 건축가 되기	Become this month's star architect
+91001005-Season1-KR	complete	이달의 스타 건축가 등극!	Became this month's star architect!
+91001006-Season1-KR	desc	이달의 스타 건축가 되기	Become this month's star architect
+91001006-Season1-KR	complete	이달의 스타 건축가 등극!	Became this month's star architect!
+91001007-Season1-KR	desc	이달의 스타 건축가 되기	Become this month's star architect
+91001007-Season1-KR	complete	이달의 스타 건축가 등극!	Became this month's star architect!
+91001008-Season1-KR	desc	이달의 스타 건축가 되기	Become this month's star architect
+91001008-Season1-KR	complete	이달의 스타 건축가 등극!	Became this month's star architect!
+91001009-Season1-KR	desc	이달의 스타 건축가 되기	Become this month's star architect
+91001009-Season1-KR	complete	이달의 스타 건축가 등극!	Became this month's star architect!
+91001010-Season1-KR	desc	이달의 스타 건축가 되기	Become this month's star architect
+91001010-Season1-KR	complete	이달의 스타 건축가 등극!	Became this month's star architect!
+92000001-Season1-KR	desc	$item:30000406$로 $npc:11001120$$pp:를,을$ 돌려 선물 100번 받기	Spin $npc:11001120$$pp:를,을$ with $item:30000406$ and receive gifts 100 times
+92000001-Season1-KR	complete	$item:30000406$로 $npc:11001120$$pp:를,을$ 돌려 선물 100번 받기	Spun $npc:11001120$$pp:를,을$ with $item:30000406$ and received gifts 100 times
+92000002-Season1-KR	desc	메이플스토리2 명예 기자 되기	Become an honorary MapleStory 2 reporter
+92000002-Season1-KR	complete	메이플스토리2 명예 기자 되기	Became an honorary MapleStory 2 reporter
+92000003-Season1-KR	desc	메이플스토리2 정보통 리포터 되기	Become a MapleStory 2 news reporter
+92000003-Season1-KR	complete	메이플스토리2 정보통 리포터 되기	Became a MapleStory 2 news reporter
+92000004-Season1-KR	desc	메이플스토리2 캐릭터 $item:20000306$ 열어보기	Open MapleStory 2 character $item:20000306$
+92000004-Season1-KR	complete	메이플스토리2 캐릭터 $item:20000306$ 열어보기	Opened MapleStory 2 character $item:20000306$
+92000005-Season3-KR	desc	$item:20000318$ 열어보기	Open $item:20000318$
+92000005-Season3-KR	complete	$item:20000318$ 열어보기	Opened $item:20000318$
+92000006-Season1-KR	desc	$item:20000317$ {0}개 마시기	Drink $item:20000317$ {0} times
+92000006-Season1-KR	complete	$item:20000317$ {0}개 마시기	Drank $item:20000317$ {0} times
+92000007-Season1-KR	desc	$item:20300598$ {0}개 획득하기	Obtain $item:20300598$ {0} times
+92000007-Season1-KR	complete	$item:20300598$ {0}개 획득	Obtained $item:20300598$ {0} times
+92000008-Season1-KR	desc	$item:20300618$ 5개 획득하기	Obtain 5 $item:20300618$
+92000008-Season1-KR	complete	$item:20300618$ 5개 획득	Obtained 5 $item:20300618$
+92000011-Season1-KR	desc	$item:20300637$ 3개 획득하기	Obtain 3 $item:20300637$
+92000011-Season1-KR	complete	$item:20300637$ 3개 획득	Obtained 3 $item:20300637$
+92000012-Season1-KR	desc	$item:20300637$ 5개 획득하기	Obtain 5 $item:20300637$
+92000012-Season1-KR	complete	$item:20300637$ 5개 획득	Obtained 5 $item:20300637$
+92000013-Season1-KR	desc	$item:20300637$ 10개 획득하기	Obtain 10 $item:20300637$
+92000013-Season1-KR	complete	$item:20300637$ 10개 획득	Obtained 10 $item:20300637$
+92000014-Season1-CN	desc	OX 퀴즈에 가장 많이 참여한 사람 200위 안에 들기	Place in the top 200 for most OX Quiz participation
+92000014-Season1-CN	complete	OX 퀴즈에 가장 많이 참여한 사람 200위 안에 들기	Placed in the top 200 for most OX Quiz participation
+92000015-Season3-CN	desc	$item:20000471$ 열어보기	Open $item:20000471$
+92000015-Season3-CN	complete	$item:20000471$ 열어보기	Opened $item:20000471$
+92000018-Season1-CN	desc	3차 테스트 1개월 플레이 달성하기	Play for 1 month in the 3rd test
+92000018-Season1-CN	complete	3차 테스트 1개월 플레이 달성!	Played for 1 month in the 3rd test!
+92000019-Season1-CN	desc	3차 테스트에서 연주 모집 이벤트 참여하기	Participate in the performance recruitment event in the 3rd test
+92000019-Season1-CN	complete	3차 테스트에서 연주 모집 이벤트 참여	Participated in the performance recruitment event in the 3rd test
+92000020-Season1-CN	desc	3차 테스트에서 하우징 모집 이벤트 참여하기	Participate in the housing recruitment event in the 3rd test
+92000020-Season1-CN	complete	3차 테스트에서 하우징 모집 이벤트 참여	Participated in the housing recruitment event in the 3rd test
+92000021-Season1-CN	desc	3차 테스트에서 DIY의상 모집 이벤트 참여하기	Participate in the DIY outfit recruitment event in the 3rd test
+92000021-Season1-CN	complete	3차 테스트에서 DIY의상 모집 이벤트 참여	Participated in the DIY outfit recruitment event in the 3rd test
+92000026-Zakum01-KR	desc	$npc:23000071$의 팔 하나 제거하기	Remove one of $npc:23000071$'s arms
+92000026-Zakum01-KR	complete	$npc:23000071$의 팔 하나 제거!	Removed one of $npc:23000071$'s arms!
+92000031--CN	desc	3차 테스트에서 자쿰의 첫 번째 팔 제거	Remove Zakum's first arm in the 3rd test
+92000031--CN	complete	3차 테스트에서 자쿰의 첫 번째 팔 제거	Removed Zakum's first arm in the 3rd test
+92000032--CN	desc	3차 테스트에서 자쿰의 두 번째 팔 제거	Remove Zakum's second arm in the 3rd test
+92000032--CN	complete	3차 테스트에서 자쿰의 두 번째 팔 제거	Removed Zakum's second arm in the 3rd test
+92000033--CN	desc	3차 테스트에서 자쿰의 세 번째 팔 제거	Remove Zakum's third arm in the 3rd test
+92000033--CN	complete	3차 테스트에서 자쿰의 세 번째 팔 제거	Removed Zakum's third arm in the 3rd test
+92000034--CN	desc	3차 테스트에서 자쿰의 네 번째 팔 제거	Remove Zakum's fourth arm in the 3rd test
+92000034--CN	complete	3차 테스트에서 자쿰의 네 번째 팔 제거	Removed Zakum's fourth arm in the 3rd test
+92000035--CN	desc	3차 테스트에서 자쿰의 다섯 번째 팔 제거	Remove Zakum's fifth arm in the 3rd test
+92000035--CN	complete	3차 테스트에서 자쿰의 다섯 번째 팔 제거	Removed Zakum's fifth arm in the 3rd test
+92000036--CN	desc	3차 테스트에서 자쿰의 여섯 번째 팔 제거	Remove Zakum's sixth arm in the 3rd test
+92000036--CN	complete	3차 테스트에서 자쿰의 여섯 번째 팔 제거	Removed Zakum's sixth arm in the 3rd test
+92000037--CN	desc	3차 테스트에서 자쿰의 모든 팔 제거	Remove all of Zakum's arms in the 3rd test
+92000037--CN	complete	3차 테스트에서 자쿰의 모든 팔 제거	Removed all of Zakum's arms in the 3rd test
+92000038--CN	desc	3차 테스트에서 자쿰 처치	Defeat Zakum in the 3rd test
+92000038--CN	complete	3차 테스트에서 자쿰 처치	Defeated Zakum in the 3rd test
+92000047--CN	desc	$npc:11003471$의 일일퀘스트 15개 완료하기	Complete 15 daily quests from $npc:11003471$
+92000047--CN	complete	$npc:11003471$의 일일퀘스트 15개 완료하기	Completed 15 daily quests from $npc:11003471$
+92000048--CN	desc	$item:20301005$ 100개 획득하기	Obtain 100 $item:20301005$
+92000048--CN	complete	$item:20301005$ 100개 획득	Obtained 100 $item:20301005$
+92000049--CN	desc	$item:20301038$ 5개 획득하기	Obtain 5 $item:20301038$
+92000049--CN	complete	$item:20301038$ 5개 획득	Obtained 5 $item:20301038$
+92000050--CN	desc	$item:20301071$ 10개 획득하기	Obtain 10 $item:20301071$
+92000050--CN	complete	$item:20301071$ 10개 획득	Obtained 10 $item:20301071$
+92000051-Season1-KR	desc	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기	Be selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000051-Season1-KR	complete	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정	Selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000052-Season1-KR	desc	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기	Be selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000052-Season1-KR	complete	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정	Selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000053-Season1-KR	desc	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기	Be selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000053-Season1-KR	complete	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정	Selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000054-Season1-KR	desc	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기	Be selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000054-Season1-KR	complete	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정	Selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000055-Season1-KR	desc	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기	Be selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000055-Season1-KR	complete	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정	Selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000056-Season1-KR	desc	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기	Be selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000056-Season1-KR	complete	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정	Selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000057-Season1-KR	desc	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기	Be selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000057-Season1-KR	complete	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정	Selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000058-Season1-KR	desc	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기	Be selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000058-Season1-KR	complete	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정	Selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000059-Season1-KR	desc	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기	Be selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000059-Season1-KR	complete	핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정	Selected as a Hall of Fame top 10 party member for being among the first to defeat Pink Bean
+92000060--CN	desc	다크 스트림 1시즌 직업 별 랭크 TOP50에 선정	Be selected in the top 50 by class ranking for Dark Stream Season 1
+92000060--CN	complete	다크 스트림 1시즌 직업 별 랭크 TOP50에 선정	Selected in the top 50 by class ranking for Dark Stream Season 1
+92000064--CN	desc	[사랑은 초콜릿을 타고] 퀘스트 1회 완료하기	Complete the [Love Rides on Chocolate] quest once
+92000064--CN	complete	[사랑은 초콜릿을 타고] 퀘스트 1회 완료하기	Completed the [Love Rides on Chocolate] quest once
+92000065--CN	desc	[사랑은 초콜릿을 타고] 퀘스트 2회 완료하기	Complete the [Love Rides on Chocolate] quest 2 times
+92000065--CN	complete	[사랑은 초콜릿을 타고] 퀘스트 2회 완료하기	Completed the [Love Rides on Chocolate] quest 2 times
+92000066--CN	desc	[사랑은 초콜릿을 타고] 퀘스트 3회 완료하기	Complete the [Love Rides on Chocolate] quest 3 times
+92000066--CN	complete	[사랑은 초콜릿을 타고] 퀘스트 3회 완료하기	Completed the [Love Rides on Chocolate] quest 3 times
+92000067--CN	desc	[사랑은 초콜릿을 타고] 퀘스트 4회 완료하기	Complete the [Love Rides on Chocolate] quest 4 times
+92000067--CN	complete	[사랑은 초콜릿을 타고] 퀘스트 4회 완료하기	Completed the [Love Rides on Chocolate] quest 4 times
+92000068--CN	desc	[사랑은 초콜릿을 타고] 퀘스트 5회 완료하기	Complete the [Love Rides on Chocolate] quest 5 times
+92000068--CN	complete	[사랑은 초콜릿을 타고] 퀘스트 5회 완료하기	Completed the [Love Rides on Chocolate] quest 5 times
+92000069--CN	desc	[사랑은 초콜릿을 타고] 퀘스트 6회 완료하기	Complete the [Love Rides on Chocolate] quest 6 times
+92000069--CN	complete	[사랑은 초콜릿을 타고] 퀘스트 6회 완료하기	Completed the [Love Rides on Chocolate] quest 6 times
+92000070--CN	desc	[사랑은 초콜릿을 타고] 퀘스트 7회 완료하기	Complete the [Love Rides on Chocolate] quest 7 times
+92000070--CN	complete	[사랑은 초콜릿을 타고] 퀘스트 7회 완료하기	Completed the [Love Rides on Chocolate] quest 7 times
+92000071--CN	desc	[사랑은 초콜릿을 타고] 퀘스트 8회 완료하기	Complete the [Love Rides on Chocolate] quest 8 times
+92000071--CN	complete	[사랑은 초콜릿을 타고] 퀘스트 8회 완료하기	Completed the [Love Rides on Chocolate] quest 8 times
+92000072--CN	desc	[사랑은 초콜릿을 타고] 퀘스트 9회 완료하기	Complete the [Love Rides on Chocolate] quest 9 times
+92000072--CN	complete	[사랑은 초콜릿을 타고] 퀘스트 9회 완료하기	Completed the [Love Rides on Chocolate] quest 9 times
+92000073--CN	desc	[사랑은 초콜릿을 타고] 퀘스트 10회 완료하기	Complete the [Love Rides on Chocolate] quest 10 times
+92000073--CN	complete	[사랑은 초콜릿을 타고] 퀘스트 10회 완료하기	Completed the [Love Rides on Chocolate] quest 10 times
+92000074--CN	desc	[사랑은 초콜릿을 타고] 퀘스트 11회 완료하기	Complete the [Love Rides on Chocolate] quest 11 times
+92000074--CN	complete	[사랑은 초콜릿을 타고] 퀘스트 11회 완료하기	Completed the [Love Rides on Chocolate] quest 11 times
+92000075--CN	desc	[사랑은 초콜릿을 타고] 퀘스트 12회 완료하기	Complete the [Love Rides on Chocolate] quest 12 times
+92000075--CN	complete	[사랑은 초콜릿을 타고] 퀘스트 12회 완료하기	Completed the [Love Rides on Chocolate] quest 12 times
+92000076--CN	desc	[사랑은 초콜릿을 타고] 퀘스트 13회 완료하기	Complete the [Love Rides on Chocolate] quest 13 times
+92000076--CN	complete	[사랑은 초콜릿을 타고] 퀘스트 13회 완료하기	Completed the [Love Rides on Chocolate] quest 13 times
+92000077--CN	desc	[사랑은 초콜릿을 타고] 퀘스트 14회 완료하기	Complete the [Love Rides on Chocolate] quest 14 times
+92000077--CN	complete	[사랑은 초콜릿을 타고] 퀘스트 14회 완료하기	Completed the [Love Rides on Chocolate] quest 14 times
+92000078--CN	desc	[사랑은 초콜릿을 타고] 퀘스트 15회 완료하기	Complete the [Love Rides on Chocolate] quest 15 times
+92000078--CN	complete	[사랑은 초콜릿을 타고] 퀘스트 15회 완료하기	Completed the [Love Rides on Chocolate] quest 15 times
+92000079--CN	desc	가위바위보 이벤트에서 30회 승리하기	Win 30 times in the rock-paper-scissors event
+92000079--CN	complete	가위바위보 이벤트에서 30회 승리	Won 30 times in the rock-paper-scissors event
+92000083--CN	desc	솔로의 자격 퀘스트 완료하기	Complete the Solo Qualification quest
+92000083--CN	complete	솔로의 자격 퀘스트 완료	Completed the Solo Qualification quest
+92000084--CN	desc	솔로의 자격 퀘스트 완료하기	Complete the Solo Qualification quest
+92000084--CN	complete	솔로의 자격 퀘스트 완료	Completed the Solo Qualification quest
+92000085--CN	desc	커플의 자격 퀘스트 완료하기	Complete the Couple Qualification quest
+92000085--CN	complete	커플의 자격 퀘스트 완료	Completed the Couple Qualification quest
+92000086--CN	desc	커플의 자격 퀘스트 완료하기	Complete the Couple Qualification quest
+92000086--CN	complete	커플의 자격 퀘스트 완료	Completed the Couple Qualification quest
+92000087--CN	desc	솔로의 자격 퀘스트 완료하기	Complete the Solo Qualification quest
+92000087--CN	complete	솔로의 자격 퀘스트 완료	Completed the Solo Qualification quest
+92000088--CN	desc	솔로의 자격 퀘스트 완료하기	Complete the Solo Qualification quest
+92000088--CN	complete	솔로의 자격 퀘스트 완료	Completed the Solo Qualification quest
+92000089--CN	desc	커플의 자격 퀘스트 완료하기	Complete the Couple Qualification quest
+92000089--CN	complete	커플의 자격 퀘스트 완료	Completed the Couple Qualification quest
+92000090--CN	desc	커플의 자격 퀘스트 완료하기	Complete the Couple Qualification quest
+92000090--CN	complete	커플의 자격 퀘스트 완료	Completed the Couple Qualification quest
+92000092--KR	desc	메이플스토리2 1000일을 함께 맞이하기	Celebrate 1,000 days together with MapleStory 2
+92000092--KR	complete	메이플스토리2 1000일, 함께해 주셔서 고맙습니다!	Thank you for being with us for 1,000 days of MapleStory 2!
+92000093--KR	desc	메이플스토리2 1000일 맞이 전시회에 작품 전시하기	Exhibit artwork at the MapleStory 2 1,000-day exhibition
+92000093--KR	complete	메이플스토리2 1000일 맞이 전시회에 작품 전시	Exhibited artwork at the MapleStory 2 1,000-day exhibition
+92000098--KR	desc	$item:30001154$ {0}개 모으기	Collect $item:30001154$ {0} times
+92000098--KR	complete	$item:30001154$ {0}개 모으기 완료	Collected $item:30001154$ {0} times
+92000099--CN	desc	[썬샤인을 찾아라] 퀘스트 2회 완료하기	Complete the [Find Sunshine] quest 2 times
+92000099--CN	complete	[썬샤인을 찾아라] 퀘스트 2회 완료	Completed the [Find Sunshine] quest 2 times
+92000100--CN	desc	호화패키지 구매하기	Buy the Luxury Package
+92000100--CN	complete	호화패키지 구매	Bought the Luxury Package
+92000101--CN	desc	존향패키지 구매하기	Buy the Jonhyang Package
+92000101--CN	complete	존향패키지 구매	Bought the Jonhyang Package
+92000102--CN	desc	존귀패키지 구매하기	Buy the Jongwi Package
+92000102--CN	complete	존귀패키지 구매	Bought the Jongwi Package
+92000103--CN	desc	지존패키지 구매하기	Buy the Supreme Package
+92000103--CN	complete	지존패키지 구매	Bought the Supreme Package
+92000104--KR	desc	9월 풍성한 가을 첫번째 패키지 구매하기	Buy the September Abundant Autumn First Package
+92000104--KR	complete	9월 풍성한 가을 첫번째 패키지 구매	Bought the September Abundant Autumn First Package
+92000105--KR	desc	9월 풍성한 가을 두번째 패키지 구매하기	Buy the September Abundant Autumn Second Package
+92000105--KR	complete	9월 풍성한 가을 두번째 패키지 구매	Bought the September Abundant Autumn Second Package
+92000106--KR	desc	9월 풍성한 가을 세번째 패키지 구매하기	Buy the September Abundant Autumn Third Package
+92000106--KR	complete	9월 풍성한 가을 세번째 패키지 구매	Bought the September Abundant Autumn Third Package
+92000107--KR	desc	9월 풍성한 가을 네번째 패키지 구매하기	Buy the September Abundant Autumn Fourth Package
+92000107--KR	complete	9월 풍성한 가을 네번째 패키지 구매	Bought the September Abundant Autumn Fourth Package
+92000108--CN	desc	즐거운 1주년 파티 퀘스트를 3번 완료하고 $item:20301971$$pp:를,을$ 3번 받기	Complete the Happy 1st Anniversary Party quest 3 times and receive $item:20301971$$pp:를,을$ 3 times
+92000108--CN	complete	즐거운 1주년 파티 퀘스트를 3번 완료하고 $item:20301971$$pp:를,을$ 3번 받기	Completed the Happy 1st Anniversary Party quest 3 times and received $item:20301971$$pp:를,을$ 3 times
+92000112--KR	desc	10월 풍성한 가을 첫번째 패키지 구매하기	Buy the October Abundant Autumn First Package
+92000112--KR	complete	10월 풍성한 가을 첫번째 패키지 구매	Bought the October Abundant Autumn First Package
+92000113--KR	desc	10월 풍성한 가을 두번째 패키지 구매하기	Buy the October Abundant Autumn Second Package
+92000113--KR	complete	10월 풍성한 가을 두번째 패키지 구매	Bought the October Abundant Autumn Second Package
+92000114--KR	desc	10월 풍성한 가을 세번째 패키지 구매하기	Buy the October Abundant Autumn Third Package
+92000114--KR	complete	10월 풍성한 가을 세번째 패키지 구매	Bought the October Abundant Autumn Third Package
+92000115--KR	desc	10월 풍성한 가을 네번째 패키지 구매하기	Buy the October Abundant Autumn Fourth Package
+92000115--KR	complete	10월 풍성한 가을 네번째 패키지 구매	Bought the October Abundant Autumn Fourth Package
+92000124--CN	desc	가위바위보 이벤트에서 30회 승리하기	Win 30 times in the rock-paper-scissors event
+92000124--CN	complete	가위바위보 이벤트에서 30회 승리	Won 30 times in the rock-paper-scissors event
+92000125--CN	desc	[수습 루돌프는 어둠이 싫어요] 퀘스트 12회 완료하기	Complete the [Trainee Rudolph Hates the Dark] quest 12 times
+92000125--CN	complete	[수습 루돌프는 어둠이 싫어요] 퀘스트 12회 완료하기	Completed the [Trainee Rudolph Hates the Dark] quest 12 times
+92000126--CN	desc	[수습 루돌프와 크리스마스 트리를 꾸며요] 퀘스트 12회 완료하기	Complete the [Decorate the Christmas Tree with Trainee Rudolph] quest 12 times
+92000126--CN	complete	[수습 루돌프와 크리스마스 트리를 꾸며요] 퀘스트 12회 완료하기	Completed the [Decorate the Christmas Tree with Trainee Rudolph] quest 12 times
+92000129--CN	desc	"$quest:80010290$" 퀘스트 완료하고 $item:20302276$ 3개 받기	Complete the "$quest:80010290$" quest and receive 3 $item:20302276$
+92000129--CN	complete	"$quest:80010290$" 퀘스트 완료하고 $item:20302276$ 3개 받기 완료	Completed the "$quest:80010290$" quest and received 3 $item:20302276$
+92000135-Event-KR	desc	윈터 가위바위보 이벤트에서 승리 20회 달성하기	Win 20 times in the winter rock-paper-scissors event
+92000135-Event-KR	complete	윈터 가위바위보 이벤트에서 승리 20회 달성	Won 20 times in the winter rock-paper-scissors event
+92000136-Event-KR	desc	윈터 가위바위보 이벤트에서 무승부 20회 달성하기	Draw 20 times in the winter rock-paper-scissors event
+92000136-Event-KR	complete	윈터 가위바위보 이벤트에서 무승부 20회 달성	Drew 20 times in the winter rock-paper-scissors event
+92000137-Event-KR	desc	윈터 가위바위보 이벤트에서 패배 20회 달성하기	Lose 20 times in the winter rock-paper-scissors event
+92000137-Event-KR	complete	윈터 가위바위보 이벤트에서 패배 20회 달성	Lost 20 times in the winter rock-paper-scissors event
+92000138-Event-KR	desc	술래잡기 미션 : 오늘의 짝꿍 퀘스트 7회 완료하기	Complete the tag mission: Today's Partner quest 7 times
+92000138-Event-KR	complete	술래잡기 미션 : 오늘의 짝꿍 퀘스트 7회 완료	Completed the tag mission: Today's Partner quest 7 times
+92000139-Event-KR	desc	풍성한 가을 가위바위보 이벤트에서 승리 20회 달성하기	Win 20 times in the Abundant Autumn rock-paper-scissors event
+92000139-Event-KR	complete	풍성한 가을 가위바위보 이벤트에서 승리 20회 달성	Won 20 times in the Abundant Autumn rock-paper-scissors event
+92000140-Event-KR	desc	풍성한 가을 가위바위보 이벤트에서 무승부 20회 달성하기	Draw 20 times in the Abundant Autumn rock-paper-scissors event
+92000140-Event-KR	complete	풍성한 가을 가위바위보 이벤트에서 무승부 20회 달성	Drew 20 times in the Abundant Autumn rock-paper-scissors event
+92000141-Event-CN	desc	술래잡기 미션 : 오늘의 짝꿍 퀘스트 10회 완료하기	Complete the tag mission: Today's Partner quest 10 times
+92000141-Event-CN	complete	술래잡기 미션 : 오늘의 짝꿍 퀘스트 10회 완료	Completed the tag mission: Today's Partner quest 10 times
+92000142-Event-KR	desc	풍성한 가을 가위바위보 이벤트에서 패배 20회 달성하기	Lose 20 times in the Abundant Autumn rock-paper-scissors event
+92000142-Event-KR	complete	풍성한 가을 가위바위보 이벤트에서 패배 20회 달성	Lost 20 times in the Abundant Autumn rock-paper-scissors event
+92000143-Event-CN	desc	풍성한 가을 가위바위보 이벤트에서 승리 20회 달성하기	Win 20 times in the Abundant Autumn rock-paper-scissors event
+92000143-Event-CN	complete	풍성한 가을 가위바위보 이벤트에서 승리 20회 달성	Won 20 times in the Abundant Autumn rock-paper-scissors event
+92000145-Event-KR	desc	$item:50400335$을 작동하기	Operate $item:50400335$
+92000145-Event-KR	complete	$item:50400335$을 작동하기	Operated $item:50400335$
+92000147-Event-CN	desc	다른 집에서 $npc:50400341$$pp:와,과$ 3회 놀아 주기	Play with $npc:50400341$$pp:와,과$ 3 times in someone else's house
+92000147-Event-CN	complete	다른 집에서 $npc:50400341$$pp:와,과$ 3회 놀아 주기 완료	Played with $npc:50400341$$pp:와,과$ 3 times in someone else's house
+92000147-Event-KR	desc	다른 집에서 $npc:50400341$$pp:와,과$ 3회 놀아 주기	Play with $npc:50400341$$pp:와,과$ 3 times in someone else's house
+92000147-Event-KR	complete	다른 집에서 $npc:50400341$$pp:와,과$ 3회 놀아 주기 완료	Played with $npc:50400341$$pp:와,과$ 3 times in someone else's house
+92000148-Event-CN	desc	내 집에서 $npc:50400341$에게 15회 먹이 주기	Feed $npc:50400341$ 15 times in your house
+92000148-Event-CN	complete	내 집에서 $npc:50400341$에게 15회 먹이 주기 완료	Fed $npc:50400341$ 15 times in your house
+92000148-Event-KR	desc	내 집에서 $npc:50400341$에게 15회 먹이 주기	Feed $npc:50400341$ 15 times in your house
+92000148-Event-KR	complete	내 집에서 $npc:50400341$에게 15회 먹이 주기 완료	Fed $npc:50400341$ 15 times in your house
+92000150-Event-	desc	6주년 이벤트에 참여하여 기념 아이템 수집하기	Participate in the 6th anniversary event and collect commemorative items
+92000150-Event-	complete	6주년 이벤트에 참여하여 기념 아이템 수집	Participated in the 6th anniversary event and collected commemorative items
+92000150-Event-KR	desc	6주년 이벤트에 참여하여 기념 아이템 수집하기	Participate in the 6th anniversary event and collect commemorative items
+92000150-Event-KR	complete	6주년 이벤트에 참여하여 기념 아이템 수집	Participated in the 6th anniversary event and collected commemorative items
+92000151--KR	desc	올인원 패키지 구매하기	Buy the All-in-One Package
+92000151--KR	complete	올인원 패키지 구매하기	Bought the All-in-One Package
+92000151--CN	desc	올인원 패키지 구매하기	Buy the All-in-One Package
+92000151--CN	complete	올인원 패키지 구매하기	Bought the All-in-One Package
+92000152-Event-CN	desc	4주년 이벤트에 참여하여 기념 아이템 수집하기	Participate in the 4th anniversary event and collect commemorative items
+92000152-Event-CN	complete	4주년 이벤트에 참여하여 기념 아이템 수집	Participated in the 4th anniversary event and collected commemorative items
+92000154-Event-	desc	$item:20302694$로 바키 풀장에 100회 바람 넣기	Inflate Baki's pool with $item:20302694$ 100 times
+92000154-Event-	complete	$item:20302694$로 바키 풀장에 100회 바람 넣기 완료	Inflated Baki's pool with $item:20302694$ 100 times
+92000154-Event-CN	desc	$item:20302698$로 바키 풀장에 100회 바람 넣기	Inflate Baki's pool with $item:20302698$ 100 times
+92000154-Event-CN	complete	$item:20302698$로 바키 풀장에 100회 바람 넣기 완료	Inflated Baki's pool with $item:20302698$ 100 times
+92000155-Event-CN	desc	풍성한 가을 가위바위보 이벤트에서 무승부 20회 달성하기	Draw 20 times in the Abundant Autumn rock-paper-scissors event
+92000155-Event-CN	complete	풍성한 가을 가위바위보 이벤트에서 무승부 20회 달성	Drew 20 times in the Abundant Autumn rock-paper-scissors event
+92000156-Event-CN	desc	술래잡기 미션 : 오늘의 짝꿍 퀘스트 8회 완료하기	Complete the tag mission: Today's Partner quest 8 times
+92000156-Event-CN	complete	술래잡기 미션 : 오늘의 짝꿍 퀘스트 8회 완료	Completed the tag mission: Today's Partner quest 8 times
+92000157-Event-CN	desc	풍성한 가을 가위바위보 이벤트에서 패배 20회 달성하기	Lose 20 times in the Abundant Autumn rock-paper-scissors event
+92000157-Event-CN	complete	풍성한 가을 가위바위보 이벤트에서 패배 20회 달성	Lost 20 times in the Abundant Autumn rock-paper-scissors event
+92000158--	desc	7주년 이벤트에 참여하여 기념 아이템 수집하기	Participate in the 7th anniversary event and collect commemorative items
+92000158--	complete	7주년 이벤트에 참여하여 기념 아이템 수집	Participated in the 7th anniversary event and collected commemorative items
+92000159-Event-KR	desc	가위바위보 이벤트에서 승리 20회 달성하기	Win 20 times in the rock-paper-scissors event
+92000159-Event-KR	complete	가위바위보 이벤트에서 승리 20회 달성	Won 20 times in the rock-paper-scissors event
+92000160-Event-KR	desc	가위바위보 이벤트에서 무승부 20회 달성하기	Draw 20 times in the rock-paper-scissors event
+92000160-Event-KR	complete	가위바위보 이벤트에서 무승부 20회 달성	Drew 20 times in the rock-paper-scissors event
+92000161-Event-KR	desc	가위바위보 이벤트에서 패배 20회 달성하기	Lose 20 times in the rock-paper-scissors event
+92000161-Event-KR	complete	가위바위보 이벤트에서 패배 20회 달성	Lost 20 times in the rock-paper-scissors event
+92000162-Event-KR	desc	가위바위보 이벤트에서 승리 20회 달성하기	Win 20 times in the rock-paper-scissors event
+92000162-Event-KR	complete	가위바위보 이벤트에서 승리 20회 달성	Won 20 times in the rock-paper-scissors event
+92000163-Event-KR	desc	가위바위보 이벤트에서 무승부 20회 달성하기	Draw 20 times in the rock-paper-scissors event
+92000163-Event-KR	complete	가위바위보 이벤트에서 무승부 20회 달성	Drew 20 times in the rock-paper-scissors event
+92000164-Event-KR	desc	가위바위보 이벤트에서 패배 20회 달성하기	Lose 20 times in the rock-paper-scissors event
+92000164-Event-KR	complete	가위바위보 이벤트에서 패배 20회 달성	Lost 20 times in the rock-paper-scissors event
+92000165-Event-KR	desc	가위바위보 이벤트에서 승리 20회 달성하기	Win 20 times in the rock-paper-scissors event
+92000165-Event-KR	complete	가위바위보 이벤트에서 승리 20회 달성	Won 20 times in the rock-paper-scissors event
+92000166-Event-KR	desc	가위바위보 이벤트에서 무승부 20회 달성하기	Draw 20 times in the rock-paper-scissors event
+92000166-Event-KR	complete	가위바위보 이벤트에서 무승부 20회 달성	Drew 20 times in the rock-paper-scissors event
+92000167-Event-KR	desc	가위바위보 이벤트에서 승리 20회 달성하기	Win 20 times in the rock-paper-scissors event
+92000167-Event-KR	complete	가위바위보 이벤트에서 승리 20회 달성	Won 20 times in the rock-paper-scissors event

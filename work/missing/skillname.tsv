@@ -1,0 +1,570 @@
+10100171--	name	신념의 일격	Strike of Conviction
+10100191--	name	라이트 브링어	Light Bringer
+10100221--	name	헤븐스 저지먼트	Heaven's Judgment
+10100231--	name	듀얼 택틱스	Dual Tactics
+10100241--	name	소드 스탠스 트레이닝	Sword Stance Training
+10100251--	name	실드 스탠스 트레이닝	Shield Stance Training
+10100261--	name	신성한 연격	Holy Combo
+10100271--	name	서먼 소드	Summon Sword
+10100281--	name	실드 오라	Shield Aura
+10100291--	name	공격 태세 돌파	Offensive Stance Breakthrough
+10100294--	name	방어 태세 돌파	Defensive Stance Breakthrough
+10200181--	name	달 쳐내기	Moon Strike
+10200191--	name	무한한 어둠	Endless Darkness
+10200201--	name	두골 쪼개기	Skull Splitter
+10200230--	name	강화 돌개바람 투사체 패시브	Enhanced Whirlwind Projectile Passive
+10200231--	name	돌풍	Gust
+10200233--	name	돌개 바람	Whirlwind
+10200234--	name	강화 돌개 바람	Enhanced Whirlwind
+10200235--	name	강화 돌개 바람 2타	Enhanced Whirlwind 2nd Hit
+10200236--	name	핏빛 회오리	Bloodstained Tornado
+10200241--	name	상처 찢기	Wound Ripper
+10200251--	name	블러드 슬래쉬	Blood Slash
+10200255--	name	어둠 블러드 슬래쉬	Dark Blood Slash
+10200257--	name	블러드 슬래쉬 회전 공격	Blood Slash Spin Attack
+10200261--	name	고군분투	Last Stand
+10200271--	name	절단	Lacerate
+10200272--	name	절단 폭발	Lacerate: Burst
+10200281--	name	크리플	Cripple
+10200282--	name	크리플	Cripple
+10200283--	name	크리플	Cripple
+10200291--	name	더스크 폴	Dusk Fall
+10200292--	name	더스크 폴	Dusk Fall
+10300181--	name	듀얼 캐스트	Dual Cast
+10300182--	name	듀얼 캐스트	Dual Cast
+10300183--	name	듀얼 캐스트	Dual Cast
+10300191--	name	아이스크림 타임!	Ice Cream Time!
+10300193--	name	번개 센서	Lightning Sensor
+10300198--	name	아이스크림 타임! (파괴용)	Ice Cream Time! (Destruction)
+10300201--	name	마그네틱 필드	Magnetic Field
+10300203--	name	콜 라이트닝	Call Lightning
+10300211--	name	찌릿 치릿	Zap Zap
+10300216--	name	찌릿 치릿	Zap Zap
+10300217--	name	찌릿 치릿 3단계	Zap Zap: Stage 3
+10300223--	name	불씨 스플래쉬	Ember Splash
+10300224--	name	불씨 스플래쉬	Ember Splash
+10300231--	name	바베큐 파티	Barbecue Party
+10300232--	name	바베큐 파티	Barbecue Party
+10300233--	name	바베큐 파티	BBQ Party
+10300234--	name	바베큐 파티	BBQ Party
+10300235--	name	바베큐 파티	BBQ Party
+10300236--	name	바베큐 파티	BBQ Party
+10300241--	name	불장난	Playing with Fire
+10300251--	name	리틀 메테오	Little Meteor
+10300252--	name	리틀 메테오	Little Meteor
+10300253--	name	리틀 메테오	Little Meteor
+10300254--	name	리틀 메테오 스플래쉬	Little Meteor Splash
+10300255--	name	리틀 메테오 스플래쉬	Little Meteor Splash
+10300258--	name	리틀 메테오	Little Meteor
+10300259--	name	리틀 메테오	Little Meteor
+10300261--	name	빅폴	Big Fall
+10300262--	name	아이스 밤	Ice Bomb
+10300263--	name	아이스 밤	Ice Bomb
+10300264--	name	아이스 밤	Ice Bomb
+10300265--	name	아이스 밤	Ice Bomb
+10300266--	name	폴 스케이트	Pole Skate
+10300267--	name	폴 스케이트	Pole Skate
+10300271--	name	허리케인 경보	Hurricane Alert
+10300272--	name	허리케인 경보	Hurricane Alert
+10300273--	name	허리케인 경보	Hurricane Alert
+10300291--	name	와일드 파이어	Wildfire
+10300292--	name	와일드 파이어	Wildfire
+10300293--	name	와일드 파이어	Wildfire
+10300294--	name	와일드 파이어	Wildfire
+10300297--	name	와일드 파이어	Wildfire
+10300299--	name	와일드 파이어	Wildfire
+10400191--	name	빛의 창	Spear of Light
+10400192--	name	빛의 창	Spear of Light
+10400193--	name	빛의 검	Sword of Light
+10400194--	name	빛의 검	Sword of Light
+10400195--	name	빛의 검	Sword of Light
+10400211--	name	디바인 웨이브	Divine Wave
+10400243--	name	생명의 심판자	Arbiter of Life
+10400251--	name	홀리 포커스	Holy Focus
+10400281--	name	홀리 익스텐션	Holy Extension
+10400291--	name	홀리 플레이스	Holy Place
+10400294--	name	홀리 플레이스	Holy Place
+10500064--	name	향상된 샤프 아이즈	Enhanced Sharp Eyes
+10500145--	name	플래임 스크류 드라이브 샷	Flame Screw Drive Shot
+10500152--	name	강화 이글 글라이드	Reinforced Eagle Glide
+10500153--	name	캡틴 글라이드	Captain Glide
+10500171--	name	플래임 애로우 1단계	Flame Arrow Level 1
+10500172--	name	플래임 애로우 2단계	Flame Arrow Level 2
+10500173--	name	플래임 애로우 3단계	Flame Arrow Level 3
+10500174--	name	플래임 애로우 4단계	Flame Arrow Level 4
+10500175--	name	플래임 애로우 4단계	Flame Arrow Level 4
+10500191--	name	멀티 드라이브 샷 1단계	Multi-Drive Shot Level 1
+10500192--	name	멀티 드라이브 샷 2단계	Multi-Drive Shot Level 2
+10500193--	name	멀티 드라이브 샷 3단계	Multi-Drive Shot Level 3
+10500194--	name	멀티 드라이브 샷 3단계	Multi-Drive Shot Level 3
+10500195--	name	멀티 드라이브 샷 2단계	Multi-Drive Shot Level 2
+10500196--	name	멀티 드라이브 샷 1단계	Multi-Drive Shot Level 1
+10500201--	name	하스터의 가르침	Haster's Teachings
+10500211--	name	버티컬 애로우	Vertical Arrow
+10500221--	name	리볼빙 윈드 애로우	Revolving Wind Arrow
+10500241--	name	스파이럴 애로우	Spiral Arrow
+10500243--	name	강화 스파이럴 애로우	Enhanced Spiral Arrow
+10500251--	name	향상된 글라이딩	Enhanced Gliding
+10500261--	name	피닉스 스트라이크 샷	Phoenix Strike Shot
+10500262--	name	피닉스 스트라이크 샷	Phoenix Strike Shot
+10500281--	name	에이밍 애로우	Aiming Arrow
+10500282--	name	에이밍 애로우 스플래시	Aiming Arrow Splash
+10500293--	name	사거리 확보	Secure Range
+10500294--	name	사거리 확보 스플래시	Secure Range Splash
+10500296--	name	파티 내 이글 스쿼드 습득 레인저 효과	Eagle Squad - Ranger Party Effect
+10500298--	name	피닉스 폼 이글 스쿼드 효과	Phoenix Form: Eagle Squad Effect
+10600181--	name	집중 사격	Focused Fire
+10600191--	name	하이퍼 기가 런처	Hyper Giga Launcher
+10600231--	name	데몰리션 캐논	Demolition Cannon
+10600241--	name	플라즈마 제너레이터	Plasma Generator
+10600251--	name	아모 제너레이터	Ammo Generator
+10600261--	name	메슬라 코일	Tesla Coil
+10600291--	name	부비 트랩 MK2	Booby Trap MK2
+10700002--	name	포이즌 스탭	Poison Stab
+10700181--	name	크리티컬 스텝	Critical Step
+10700182--	name	스로잉 대거	Throwing Dagger
+10700191--	name	배틀 스텝	Battle Step
+10700200--	name	쉐도우 스텝	Shadow Step
+10700201--	name	쉐도우 스텝	Shadow Step
+10700202--	name	피니쉬 스텝	Finish Step
+10700203--	name	피니쉬 스텝	Finish Step
+10700211--	name	데들리 스텝	Deadly Step
+10700221--	name	세비지 블로우	Savage Blow
+10700222--	name	세비지 블로우(강화형)	Savage Blow (Enhanced)
+10700231--	name	압착 유리병	Compressed Glass Vial
+10700232--	name	압착 유리병	Compressed Glass Vial
+10700233--	name	압착 유리병	Compressed Glass Vial
+10700241--	name	포이즌 마스터	Poison Master
+10700252--	name	클라임 어택	Climb Attack
+10700271--	name	체이스 스로우	Chase Throw
+10700272--	name	체이스 스로우	Chase Throw
+10700273--	name	체이스 슬래쉬	Chase Slash
+10700274--	name	체이스 슬래쉬	Chase Slash
+10700275--	name	체이스 스로우	Chase Throw
+10700281--	name	임기응변	Improvisation
+10700282--	name	임기응변 2	Improvisation 2
+10700283--	name	임기응변 3	Improvisation 3
+10700291--	name	엑셀레이터	Accelerator
+10700301--	name	포이즌 플랜	Poison Plan
+10700302--	name	포이즌 플랜	Poison Plan
+10800163--	name	다크 블레이더 칼날표식 패시브	Dark Blader Blade Mark Passive
+10800164--	name	암살자의 진 칼날표식 패시브	Assassin's Truth Blade Mark Passive
+10800181--	name	형벌의 굴레	Shackles of Punishment
+10800191--	name	올인원	All-in-One
+10800203--	name	강화 다크 스왐프	Enhanced Dark Swamp
+10800221--	name	암살자의 진	Assassin's Truth
+10800229--	name	강화 암살자의 진	Enhanced Assassin's Truth
+10800231--	name	어둠의 처단자	Dark Executioner
+10800241--	name	표창 비술	Shuriken Technique
+10800251--	name	술법 비술	Sorcery Technique
+10800261--	name	비기 : 연쇄	Secret Art: Chain
+10800271--	name	비기 : 파괴	Secret Art: Destruction
+10800272--	name	비기 : 파괴 2차 피해	Secret Art: Destruction Secondary Damage
+10800273--	name	비기 : 파괴 스플레쉬	Secret Art: Destruction Splash
+10800274--	name	비기 : 파괴 스플레쉬(틱 피해용)	Secret Art: Destruction Splash (Tick Damage)
+10800281--	name	비술 : 낙인	Arcane Art: Brand
+10800282--	name	비술 : 낙인 2타	Arcane Art: Brand (Hit 2)
+10800283--	name	비술 : 낙인 3타	Arcane Art: Brand (Hit 3)
+10800284--	name	비술 : 낙인 스플레쉬	Arcane Art: Brand Splash
+10800291--	name	비술 : 붕괴	Arcane Art: Collapse
+10800292--	name	비술 : 붕괴 스플레쉬	Arcane Art: Collapse Splash
+10800293--	name	강화 비술 : 붕괴	Enhanced Arcane Art: Collapse
+10900171--	name	디멘션 블레이드	Dimension Blade
+10900173--	name	화염 디멘션 블레이드	Flame Dimension Blade
+10900177--	name	전격 디멘션 블레이드	Thunder Dimension Blade
+10900181--	name	판타즘 슬래쉬	Phantasm Slash
+10900191--	name	룬 이그니션	Rune Ignition
+10900193--	name	화염 룬 이그니션	Flame Rune Ignition
+10900196--	name	냉기 룬 이그니션	Ice Rune Ignition
+10900198--	name	전격 룬 이그니션	Thunder Rune Ignition
+10900201--	name	룬 트리거	Rune Trigger
+10900203--	name	화염 룬 트리거	Flame Rune Trigger
+10900205--	name	냉기 룬 트리거	Ice Rune Trigger
+10900207--	name	전격 룬 트리거	Thunder Rune Trigger
+10900211--	name	퀸터플 컷	Quintuple Cut
+10900212--	name	화염 퀸터플 컷	Flame Quintuple Cut
+10900213--	name	냉기 퀸터플 컷	Ice Quintuple Cut
+10900214--	name	전격 퀸터플 컷	Thunder Quintuple Cut
+10900221--	name	블레이드 윕	Blade Whip
+10900222--	name	화염 블레이드 윕	Flame Blade Whip
+10900223--	name	냉기 블레이드 윕	Ice Blade Whip
+10900225--	name	전격 블레이드 윕	Thunder Blade Whip
+10900241--	name	블레이드 엑스퍼트	Blade Expert
+10900251--	name	룬 엑스퍼트	Rune Expert
+10900261--	name	루나틱 플래쉬	Lunatic Flash
+10900281--	name	엘레멘트 룰렛	Element Roulette
+10900291--	name	게이트 오브 블레이드	Gate of Blades
+10900292--	name	화염 게이트 오브 블레이드	Flame Gate of Blades
+10900293--	name	냉기 게이트 오브 블레이드	Frost Gate of Blades
+10900294--	name	전격 게이트 오브 블레이드	Lightning Gate of Blades
+11000001--	name	마하 펀치	Mach Punch
+11000011--	name	펀치 콤비네이션	Punch Combination
+11000012--	name	펀치 콤비네이션 EX	Punch Combination EX
+11000021--	name	비트 다운	Beat Down
+11000026--	name	비트 다운 EX	Beat Down EX
+11000031--	name	라이징 킥	Rising Kick
+11000032--	name	라이징 킥 EX	Rising Kick EX
+11000042--	name	길로틴 EX	Guillotine EX
+11000061--	name	허리케인 커터	Hurricane Cutter
+11000071--	name	하드 펀처	Hard Puncher
+11000081--	name	미사일 너클	Missile Knuckle
+11000082--	name	연계 기능	Chain Combo
+11000091--	name	기간틱 버스트	Gigantic Burst
+11000111--	name	킥 테크니션	Kick Technician
+11000131--	name	드래곤 킥	Dragon Kick
+11000132--	name	화룡 폭열각	Blazing Dragon Kick
+11000133--	name	화룡 폭열각	Blazing Dragon Kick
+11000141--	name	매그넘 블로우	Magnum Blow
+11000144--	name	기간틱 블로우	Gigantic Blow
+11000171--	name	펀치 프레셔	Punch Pressure
+11000181--	name	폴 다운 스매쉬	Fall Down Smash
+11000182--	name	폴 다운 스매쉬 EX	Fall Down Smash EX
+11000183--	name	화룡 승천격	Fire Dragon Ascension Strike
+11000191--	name	발칸 펀치	Vulcan Punch
+11000192--	name	발칸 펀치 EX	Vulcan Punch EX
+11000214--	name	원 인치 펀치	One-Inch Punch
+11000241--	name	셋업 킥	Setup Kick
+11000261--	name	스파이럴 캐논	Spiral Cannon
+11000262--	name	스파이럴 캐논 EX	Spiral Cannon EX
+11000263--	name	스파이럴 캐논 EX 2타	Spiral Cannon EX 2nd Hit
+11000264--	name	스파이럴 캐논 EX 3타	Spiral Cannon EX 3rd Hit
+11000265--	name	토네이도 커터	Tornado Cutter
+11000266--	name	토네이도 커터EX	Tornado Cutter EX
+11000271--	name	스핀 킥	Spin Kick
+11000272--	name	스핀 킥 EX	Spin Kick EX
+11000281--	name	축퇴	Retreat
+11000286--	name	축 퇴 자신감 버프	Retreat Confidence Buff
+11000311--	name	넘치는 투지	Overwhelming Fighting Spirit
+11000315--	name	혈도 개방EX 1단계 디버프	Pressure Point Release EX Stage 1 Debuff
+11000316--	name	원 인치 펀치EX	One-Inch Punch EX
+11000317--	name	원 인치 펀치EX	One-Inch Punch EX
+11000319--	name	혈도 개방EX 2단계 디버프	Pressure Point Release EX Phase 2 Debuff
+11000321--	name	얼티밋 러쉬	Ultimate Rush
+11000322--	name	얼티밋 러쉬	Ultimate Rush
+11000323--	name	얼티밋 러쉬	Ultimate Rush
+11000331--	name	휘몰아치는 화염	Raging Flame
+11000341--	name	얼티밋 디스트로이 킥	Ultimate Destroy Kick
+11100001--	name	버블 패시브	Bubble Passive
+11100011--	name	체인 스피어	Chain Spear
+11100012--	name	체인 스피어 2타	Chain Spear 2nd Hit
+11100013--	name	체인 스피어 3타	Chain Spear 3rd Hit
+11100021--	name	슈팅 스타	Shooting Star
+11100022--	name	슈팅 스타 2단계	Shooting Star Phase 2
+11100023--	name	슈팅 스타 3단계	Shooting Star Phase 3
+11100024--	name	슈팅 스타 4단계	Shooting Star Phase 4
+11100025--	name	슈팅 스타 5단계	Shooting Star Phase 5
+11100031--	name	포커싱 애니마르	Focusing Animarl
+11100041--	name	레이 스톰	Ray Storm
+11100062--	name	각성 만트라 개방	Awakened Mantra Release
+11100082--	name	익스팬션 볼 2단계	Expansion Ball Phase 2
+11100083--	name	익스팬션 볼 3단계	Expansion Ball Phase 3
+11100084--	name	익스팬션 볼 4단계	Expansion Ball Phase 4
+11100085--	name	익스팬션 볼 5단계	Expansion Ball Phase 5
+11100089--	name	스피릿 익스팬션 볼	Spirit Expansion Ball
+11100101--	name	라이프 스트링	Life String
+11100102--	name	라이프 스트링 2단계	Life String Stage 2
+11100103--	name	라이프 스트링 3단계	Life String Stage 3
+11100104--	name	라이프 스트링 4단계	Life String Stage 4
+11100105--	name	라이프 스트링 5단계	Life String Stage 5
+11100111--	name	플래쉬 스트라이크	Flash Strike
+11100112--	name	비전 파동	Arcane Wave
+11100121--	name	체인 익스플로전	Chain Explosion
+11100151--	name	에너지 스트림	Energy Stream
+11100153--	name	에너지 스트림 2단계	Energy Stream Stage 2
+11100154--	name	에너지 스트림 3단계	Energy Stream Stage 3
+11100155--	name	에너지 스트림 4단계	Energy Stream Stage 4
+11100156--	name	에너지 스트림 5단계	Energy Stream Stage 5
+11100157--	name	에너지 스트림 5단계	Energy Stream Stage 5
+11100161--	name	오브 마스터리	Orb Mastery
+11100181--	name	스피릿 바운드	Spirit Bound
+11100184--	name	강화 스피릿 바운드	Enhanced Spirit Bound
+11100191--	name	스피릿 크러쉬	Spirit Crush
+11100192--	name	강화 스피릿 크러쉬	Enhanced Spirit Crush
+11100193--	name	비전 크러쉬	Arcane Crush
+11100204--	name	힘의 해방	Liberation of Power
+11100205--	name	힘의 해방	Liberation of Power
+11100211--	name	각성한 정신체	Awakened Spirit Entity
+11100221--	name	소울 버드	Soul Bird
+11100241--	name	하모니 오브 소울	Harmony of Soul
+11100242--	name	디서넌스 오브 소울	Dissonance of Soul
+11100244--	name	하모니 오브 소울	Harmony of Soul
+11100251--	name	트라이포스 링크	Triforce Link
+11100301--	name	힘의 해방	Liberation of Power
+11100311--	name	소울 크리스탈	Soul Crystal
+11100313--	name	소울 크리스탈	Soul Crystal
+11100314--	name	소울 크리스탈	Soul Crystal
+11100315--	name	소울 크리스탈	Soul Crystal
+11100316--	name	소울 크리스탈	Soul Crystal
+11100321--	name	완벽한 선율	Perfect Melody
+44110001-DungeonOS04-	name	부채 공격	Fan Attack
+44110002-DungeonOS04-	name	소프라노	Soprano
+44110003-DungeonOS04-	name	발성 연습	Vocal Training
+44110004-DungeonOS04-	name	장미 덩굴	Rose Vines
+44110005-DungeonOS04-	name	아리에타	Arietta
+44110006-DungeonOS04-	name	브라보!	Bravo!
+44110007-DungeonOS04-	name	악단 연주	Orchestra Performance
+44110008-DungeonOS04-	name	아리아!	Aria!
+44110009-DungeonOS04-	name	드럼롤 일반 공격	Drumroll Normal Attack
+44110010-DungeonOS04-	name	드럼롤 스킬 연주	Drumroll Skill Performance
+44110012-DungeonOS04-	name	드럼롤 회복 연주	Drumroll Recovery Performance
+44110014-DungeonOS04-	name	부채 날리기	Fan Toss
+44110015-DungeonOS04-	name	부채 날리기 대미지 스플래시	Fan Toss Damage Splash
+44110016-DungeonOS04-	name	발성연습-왼쪽	Vocal Warm-Up - Left
+44110017-DungeonOS04-	name	발성연습 오른쪽	Vocal Warm-Up - Right
+44110050-DungeonOS04-	name	아리에타 시전	Arietta Cast
+44110051-DungeonOS04-	name	아리에타 초근접_4레벨씩	Arietta Point-Blank (Every 4 Levels)
+44110052-DungeonOS04-	name	아리에타 근거리_4레벨씩	Arietta Close Range (Every 4 Levels)
+44110053-DungeonOS04-	name	아리에타 중거리_4레벨씩	Arietta Mid Range (Every 4 Levels)
+44110054-DungeonOS04-	name	아리에타 원거리_4레벨씩	Arietta Long Range (Every 4 Levels)
+44110055-DungeonOS04-	name	아리에타 원거리_2레벨만	Arietta Long Range (Lv.2 Only)
+44110061-DungeonOS04-	name	장미꽃 1단계 대미지 스플래시	Rose Phase 1 Damage Splash
+44110062-DungeonOS04-	name	장미꽃 2단계 대미지 스플래시	Rose Phase 2 Damage Splash
+44110063-DungeonOS04-	name	장미꽃 3단계 대미지 스플래시	Rose Phase 3 Damage Splash
+44110068-DungeonOS04-	name	브라보조명 - 단순스킬모션	Bravo Spotlight - Simple Skill Motion
+44110069-DungeonOS04-	name	브라보조명 경유 스플래시	Bravo Spotlight Relay Splash
+44110070-DungeonOS04-	name	브라보조명 스플래시	Bravo Spotlight Splash
+44110071-DungeonOS04-	name	브라보조명 근접 8레벨	Bravo Spotlight Close Range Lv.8
+44110072-DungeonOS04-	name	브라보조명 근접 16레벨	Bravo Spotlight Close Range Lv.16
+44110073-DungeonOS04-	name	브라보조명 근접 24레벨	Bravo Spotlight Close Range Lv.24
+44110074-DungeonOS04-	name	브라보조명 근접 32레벨	Bravo Spotlight Close Range Lv.32
+44110075-DungeonOS04-	name	브라보조명 보스 light	Bravo Spotlight Boss Light
+44110076-DungeonOS04-	name	브라보조명 보스 effect 8방향	Bravo Spotlight Boss Effect 8-Dir
+44110077-DungeonOS04-	name	브라보조명 보스 effect 8방향 스플래시	Bravo Spotlight Boss Effect 8-Dir Splash
+44110078-DungeonOS04-	name	브라보조명 전체 암전 디버프	Bravo Spotlight Full Blackout Debuff
+44110079-DungeonOS04-	name	브라보조명 광역 사망	Bravo Spotlight AoE Death
+44110080-DungeonOS04-	name	브라보조명 전체 암전 삭제	Bravo Spotlight Remove Full Blackout
+44110081-DungeonOS04-	name	브라보조명 조명 이모션 스플래시	Bravo Spotlight Emotion Splash
+44110104-DungeonOS04-	name	브라보 대미지 스플래시	Bravo Damage Splash
+44110106-DungeonOS04-	name	장미덩굴 대미지 스플래시	Rose Vine Damage Splash
+44110110-DungeonOS04-	name	소프라노 근접 유저 체크	Soprano Proximity Check
+44110111-DungeonOS04-	name	장미꽃 지뢰 스플래시	Rose Mine Splash
+44110120-DungeonOS04-	name	대시 공격 - 차징	Dash Attack - Charging
+44110121-DungeonOS04-	name	대시 공격 - 장미심기	Dash Attack - Rose Planting
+44110122-DungeonOS04-	name	대시 공격	Dash Attack
+44110130-DungeonOS04-	name	블링크 - 사라짐	Blink - Vanish
+44110131-DungeonOS04-	name	블링크 - 장판	Blink - AoE Field
+44110132-DungeonOS04-	name	블링크 - 중앙 대미지 스플래시	Blink - Center Damage Splash
+44110133-DungeonOS04-	name	블링크 - 나타남	Blink - Appear
+44110134-DungeonOS04-	name	블링크 - 이펙트 스플래시	Blink - Effect Splash
+44110135-DungeonOS04-	name	블링크 - 외곽 대미지 스플래시	Blink - Outer Damage Splash
+44110136-DungeonOS04-	name	분신 거리체크	Clone Distance Check
+44110137-DungeonOS04-	name	분신 거리체크 스플래시	Clone Distance Check Splash
+44110138-DungeonOS04-	name	좋아하기	Like Emote
+44110139-DungeonOS04-	name	화내기	Anger Emote
+44110140-DungeonOS04-	name	발성연습-왼쪽 90도	Vocal Warmup - Left 90°
+44110141-DungeonOS04-	name	발성연습-오른쪽 90도	Vocal Warmup - Right 90°
+44110142-DungeonOS04-	name	발성연습-왼쪽 180도	Vocal Warmup - Left 180°
+44110143-DungeonOS04-	name	발성연습-오른쪽 180도	Vocal Warmup - Right 180°
+44110152-DungeonOS04-	name	유저 회복 투사체	Player Heal Projectile
+44110153-DungeonOS04-	name	당기기 스플래시	Pull Splash
+44110154-DungeonOS04-	name	밀기 스플래시	Push Splash
+44110155-DungeonOS04-	name	주목	Spotlight
+44110156-DungeonOS04-	name	주목해제 스플래시	Spotlight Release Splash
+44110157-DungeonOS04-	name	주목 대미지 스플래시	Spotlight Damage Splash
+44110201-DungeonOS04-	name	프리마돈나 페이즈 전환	Prima Donna Phase Transition
+44111000-DungeonOS01-	name	블루 펀치	Blue Punch
+44111001-DungeonOS01-	name	블루 펀치 휘두르기 왼손	Blue Punch Swing (Left Hand)
+44111002-DungeonOS01-	name	블루 펀치 휘두르기 오른손	Blue Punch Swing (Right Hand)
+44111003-DungeonOS01-	name	블루 펀치 휘두르기 양손	Blue Punch Swing (Both Hands)
+44111010-DungeonOS01-	name	블루 플로우	Blue Flow
+44111020-DungeonOS01-	name	블루 페일	Blue Pale
+44111030-DungeonOS01-	name	블루 스톰	Blue Storm
+44111040-DungeonOS01-	name	블루 에이지	Blue Age
+44111050-DungeonOS01-	name	블루 에이지	Blue Age
+44111090-DungeonOS01-	name	괴성 지르기(디버프걸기)	Screech (Apply Debuff)
+44111230-DungeonOS01-	name	Crawl 일반	Crawl Normal
+44111231-DungeonOS01-	name	Crawl 일반 Gas 스플래시	Crawl Normal Gas Splash
+44111240-DungeonOS01-	name	Crawl 하드	Crawl Hard
+44111241-DungeonOS01-	name	Crawl 하드 Gas 스플래시	Crawl Hard Gas Splash
+44111242-DungeonOS01-	name	Crawl 하드 폭발 스플래시	Crawl Hard Explosion Splash
+44111250-DungeonOS01-	name	끌어당기기	Pull
+44111251-DungeonOS01-	name	끌어당기기 push스플래시	Pull Push Splash
+44111252-DungeonOS01-	name	끌어당기기 attack스플래시	Pull Attack Splash
+44111260-DungeonOS01-	name	밀어내기	Push
+44111261-DungeonOS01-	name	밀어내기 push스플래시	Push Splash
+50003000-DungeonOS01-	name	근접유저 체크스킬	Nearby Player Check Skill
+50003001-DungeonOS01-	name	블루 주먹 휘두르기 오른손	Blue Fist Swing (Right Hand)
+50003002-DungeonOS01-	name	블루 주먹 휘두르기 왼손	Blue Fist Swing (Left Hand)
+50003003-DungeonOS01-	name	블루 주먹 휘두르기 양손	Blue Fist Swing (Both Hands)
+50003010-DungeonOS01-	name	블루 바닥펀치 8방향 장판	Blue Ground Punch 8-Direction Area
+50003011-DungeonOS01-	name	8방향장판 스플래시	8-Direction Area Splash
+50003012-DungeonOS01-	name	8방향장판 스플래시	8-Direction Area Splash
+50003013-DungeonOS01-	name	8방향장판 스플래시	8-Direction Area Splash
+50003014-DungeonOS01-	name	8방향장판 스플래시	8-Direction Area Splash
+50003015-DungeonOS01-	name	블루 바닥펀치 8방향 장판(강화)	Blue Ground Punch 8-Direction Area (Enhanced)
+50003016-DungeonOS01-	name	8방향장판 스플래시(강화)	8-Direction Area Splash (Enhanced)
+50003017-DungeonOS01-	name	8방향장판 끝부분 스플래시(강화)	8-Direction AoE Edge Splash (Enhanced)
+50003020-DungeonOS01-	name	스몰 블루에이지	Small Blue Age
+50003030-DungeonOS01-	name	블루 스톰	Blue Storm
+50003031-DungeonOS01-	name	블루 스톰 반대	Blue Storm (Reverse)
+50003035-DungeonOS01-	name	블루 스톰(강화)	Blue Storm (Enhanced)
+50003036-DungeonOS01-	name	블루 스톰(강화) 반대	Blue Storm (Reverse, Enhanced)
+50003040-DungeonOS01-	name	블루 페일	Blue Pale
+50003045-DungeonOS01-	name	블루 페일(강화)	Blue Pale (Enhanced)
+50003046-DungeonOS01-	name	블루 페일 스플래시(강화)	Blue Pale Splash (Enhanced)
+50003050-DungeonOS01-	name	블루 플로우_스플래시	Blue Flow_Splash
+50003051-DungeonOS01-	name	블루 플로우_패턴1	Blue Flow_Pattern 1
+50003052-DungeonOS01-	name	블루 플로우_패턴2	Blue Flow_Pattern 2
+50003053-DungeonOS01-	name	블루 플로우_패턴3	Blue Flow_Pattern 3
+50003054-DungeonOS01-	name	블루 플로우_패턴4	Blue Flow_Pattern 4
+50003055-DungeonOS01-	name	블루 플로우_패턴5	Blue Flow_Pattern 5
+50003056-DungeonOS01-	name	블루 플로우_패턴6	Blue Flow_Pattern 6
+50003057-DungeonOS01-	name	블루 플로우_패턴7	Blue Flow_Pattern 7
+50003058-DungeonOS01-	name	블루 플로우_패턴8	Blue Flow_Pattern 8
+50003059-DungeonOS01-	name	블루 플로우_패턴9	Blue Flow_Pattern 9
+50003060-DungeonOS01-	name	블루 플로우_스플래시(강화)	Blue Flow_Splash (Enhanced)
+50003061-DungeonOS01-	name	블루 플로우_패턴1(강화)	Blue Flow_Pattern 1 (Enhanced)
+50003062-DungeonOS01-	name	블루 플로우_패턴2(강화)	Blue Flow_Pattern 2 (Enhanced)
+50003063-DungeonOS01-	name	블루 플로우_패턴3(강화)	Blue Flow_Pattern 3 (Enhanced)
+50003064-DungeonOS01-	name	블루 플로우_패턴4(강화)	Blue Flow_Pattern 4 (Enhanced)
+50003065-DungeonOS01-	name	블루 플로우_패턴5(강화)	Blue Flow_Pattern 5 (Enhanced)
+50003066-DungeonOS01-	name	블루 플로우_패턴6(강화)	Blue Flow_Pattern 6 (Enhanced)
+50003067-DungeonOS01-	name	블루 플로우_패턴7(강화)	Blue Flow_Pattern 7 (Enhanced)
+50003068-DungeonOS01-	name	블루 플로우_패턴8(강화)	Blue Flow_Pattern 8 (Enhanced)
+50003069-DungeonOS01-	name	블루 플로우_패턴9(강화)	Blue Flow_Pattern 9 (Enhanced)
+50003070-DungeonOS01-	name	라지 블루에이지 내리찍기	Large Blue Age Slam
+50003071-DungeonOS01-	name	라지 블루에이지 loop	Large Blue Age Loop
+50003072-DungeonOS01-	name	라지 블루에이지 완료	Large Blue Age Complete
+50003075-DungeonOS01-	name	지형 파괴	Terrain Destruction
+50003080-DungeonOS01-	name	흩어지기	Scatter
+50003081-DungeonOS01-	name	흩어지기대미지	Scatter Damage
+50003085-DungeonOS01-	name	뭉치기	Converge
+50003086-DungeonOS01-	name	뭉치기대미지	Converge Damage
+50003090-DungeonOS01-	name	Phase 전환1	Phase Transition 1
+50003091-DungeonOS01-	name	주니어 블루루크 징표	Junior Blue Rook Mark
+50003092-DungeonOS01-	name	주니어 그린루크 징표	Junior Green Rook Mark
+50003100-DungeonOS01-	name	물기	Bite
+50003110-DungeonOS01-	name	보스 체인공격버프	Boss Chain Attack Buff
+50003111-DungeonOS01-	name	보스 체인스플래시	Boss Chain Splash
+50003120-DungeonOS01-	name	밀어내기	Push
+50003121-DungeonOS01-	name	밀어내기 push스플래시	Push Splash
+50003122-DungeonOS01-	name	자폭	Self-Destruct
+50003200-DungeonOS01-	name	이동스킬	Movement Skill
+50003210-DungeonOS01-	name	이동스킬스플래시	Movement Skill Splash
+50003220-DungeonOS01-	name	자폭스플래시	Self-Destruct Splash
+50003230-DungeonOS01-	name	자폭	Self-Destruct
+50003240-DungeonOS01-	name	끌어당기기	Pull
+50003241-DungeonOS01-	name	끌어당기기 push스플래시	Pull Push Splash
+50003242-DungeonOS01-	name	끌어당기기 attack스플래시	Pull Attack Splash
+50003300-DungeonOS01-	name	자폭스플래시	Self-Destruct Splash
+50003310-DungeonOS01-	name	자폭	Self-Destruct
+50003400-DungeonOS01-	name	물기	Bite
+50003410-DungeonOS01-	name	유저공격버프	Player Attack Buff
+50003420-DungeonOS01-	name	자폭	Self-Destruct
+50003500-DungeonOS01-	name	큐브공격	Cube Attack
+50003510-DungeonOS01-	name	큐브공격 스플래시	Cube Attack Splash
+50003520-DungeonOS01-	name	공격허용 스플래시	Splash Attack
+50003530-DungeonOS01-	name	사망버프 공격	Death Buff Attack
+50003540-DungeonOS01-	name	보스에게 화살 이펙트	Arrow Effect on Boss
+50003541-DungeonOS01-	name	자폭	Self-Destruct
+90000676--	name	샤오롱빠오	Xiaolongbao
+90000677--	name	성젠바오	Shengjian Bao
+90000678--	name	주량원자	Juliang Wanzi
+90000679--	name	칭퇀	Qingtuan
+90000680--	name	누어미지	Nuomiji
+90001202-Event-	name	블랙콩	Black Bean
+90001205-Event-	name	스타 마그넷 미끼	Star Magnet Bait
+90200096--	name	특별한 생일	Special Birthday
+90200099--	name	달콤한 생일	Sweet Birthday
+90200116--	name	깔보기	Condescending Look
+90200117--	name	버섯 뿌리기	Mushroom Toss
+90200118--	name	푹신푹신 나태버섯	Squishy Sloth Mushroom
+90200146--	name	명상	Meditation
+90200147--	name	말랑 블랙빈	Squishy Black Bean
+90200148--	name	파닥파닥 댄스	Fluttering Dance
+90200149--	name	마비노기에선 죽지 않아	You Don't Die in Mabinogi
+90200150--	name	까딱까딱 마비노기 댄스	Nodding Mabinogi Dance
+90200151--	name	손들어! 마비노기 댄스	Hands Up! Mabinogi Dance
+90200152--	name	왔다갔다 마비노기 댄스	Back and Forth Mabinogi Dance
+90200153--	name	OK 댄스	OK Dance
+90200154--	name	비바 4주년!	Viva 4th Anniversary!
+90200155--	name	경례	Salute
+90200156--	name	거만한 한손인사	Arrogant One-Hand Wave
+90200157--	name	느끼한 인사	Smarmy Greeting
+90200158--	name	맨땅에 헤엄치기	Swimming on Dry Land
+90200159--	name	그물로 물고기 잡기	Catching Fish with a Net
+90200160--	name	찌르고 찌르고	Jab Jab
+90200161--	name	옆으로 눕기	Lying on Your Side
+90200162--	name	쑥쑥 자라라 춤	Grow Grow Dance
+90200163--	name	숲속의 연주	Forest Performance
+90200164--	name	호이호이 댄스	Hoi Hoi Dance
+90200165--	name	야르야르 댄스	Yar Yar Dance
+90200166--	name	앉아서 똑딱똑딱 댄스	Sitting Tick-Tock Dance
+90200167--	name	서서 똑딱똑딱 댄스	Standing Tick-Tock Dance
+90200168--	name	넙죽넙죽 절하기	Deep Bow
+90200169--	name	싹싹 빌기	Groveling
+90200170--	name	이 이글루가 아니야!	This Isn't the Igloo!
+90200171--	name	모닥불 앞에서 불멍	Campfire Gazing
+90200172--	name	램프의 지니	Genie of the Lamp
+90200173--	name	램프의 양	Lamp Sheep
+90200174--	name	앉아서 펑펑 울기	Sit and Sob
+90200175--	name	펍핑펍핑 댄스	Bop Bop Dance
+90200176--	name	제압당한 블루 루크	Subdued Blue Luke
+90200177--	name	사방치기	Hopscotch
+90200178--	name	제기차기	Jegi Kicking
+90200179--	name	팽이치기	Spinning Top
+90200180-22_04-	name	붉은 장미 극장의 주인공	Star of the Red Rose Theater
+90200181--	name	콩콩댄스	Bounce Bounce Dance
+90200182--	name	돋보기보기	Magnifying Glass Look
+90200183-22_04-	name	감성캠핑 쓸쓸	Mood Camping: Lonesome
+90200184-22_04-	name	감성캠핑 편안	Mood Camping: Relaxed
+90200185-22_02-	name	피겨점프	Figure Skate Jump
+90200186-22_02-	name	날아볼까	Shall We Fly?
+90200187-22_03-	name	피자 만들기	Pizza Making
+90200188-22_03-	name	햄버거 만들기	Burger Making
+90200189-22_04-	name	아장아장 댄스	Toddler Dance
+90200190--	name	파란색 큰 깃발 흔들기	Wave Blue Flag (Large)
+90200191--	name	흰색 큰 깃발 흔들기	Wave White Flag (Large)
+90200192--	name	파란색 작은 깃발 흔들기	Wave Blue Flag (Small)
+90200193--	name	흰색 작은 깃발 흔들기	Wave White Flag (Small)
+90200194--	name	백기 올려	Raise White Flag
+90200195--	name	청기 올려	Raise Blue Flag
+90200196--	name	청기 백기 올려	Raise Blue and White Flags
+90200197--	name	쪼아 춤	Peck Dance
+90200198--	name	돌아서 박수	Turn and Clap
+90200199--	name	서빙댄스	Serving Dance
+90200200--	name	엉거주춤	Awkward Crouch
+90210001--	name	박수치기	Clapping
+90210002--	name	야광봉 흔들기	Glow Stick Wave
+90220036--	name	여행 캐리어	Travel Suitcase
+90220037--	name	단둘이 바비큐	BBQ for Two
+90220038--	name	병아리와 손뼉춤	Chick Clapping Dance
+99910134--	name	105mm 곡사포 스플래쉬	105mm Howitzer Splash
+120020197--	name	멸망의 마법 : 블루 라펜샤드	Magic of Destruction: Blue Lapenshade
+120020198--	name	멸망의 마법 : 블루 라펜샤드	Ruination Magic: Blue Lapenshad
+120020220--	name	파멸의 날개 : 블루 라펜샤드	Wings of Doom: Blue Lapenshad
+130000001-LeadSkill-	name	초보자 리드스킬	Beginner Lead Skill
+130000010-LeadSkill-	name	유니온 오브 세인츠	Union of Saints
+130000020-LeadSkill-	name	버서크 이뮤니티	Berserk Immunity
+130000030-LeadSkill-	name	엘리멘탈 포스	Elemental Force
+130000040-LeadSkill-	name	블레싱 오브 프로텍션	Blessing of Protection
+130000050-LeadSkill-	name	레인지 어시스트	Range Assist
+130000060-LeadSkill-	name	미니 새틀라이트 어시스트	Mini Satellite Assist
+130000070-LeadSkill-	name	퓨리 오브 팬텀	Fury of Phantom
+130000080-LeadSkill-	name	페이탈 히트 오브 어쌔신	Fatal Hit of Assassin
+130000090-LeadSkill-	name	룬 오브 피지컬	Rune of Physical
+130000100-LeadSkill-	name	파워 오브 스트라이커	Power of Striker
+130000110-LeadSkill-	name	소울 커넥션	Soul Connection
+90000493--CN	name	香甜冒险家药水	Sweet Adventurer Potion
+90000504--CN	name	2倍经验券	2x EXP Voucher
+90000596--CN	name	自动钓鱼	Auto Fishing
+90000597--CN	name	自动钓鱼	Auto Fishing
+90000598--CN	name	自动钓鱼	Auto Fishing
+90000599--CN	name	自动演奏	Auto Play
+90000600--CN	name	自动演奏	Auto Play
+90000601--CN	name	自动演奏	Auto Play
+90000666--CN	name	甜蜜纸杯蛋糕	Sweet Cupcake
+90000670--CN	name	紫色糖果	Purple Candy
+90000676--CN	name	小笼包	Xiaolongbao
+90000677--CN	name	生煎包	Pan-Fried Bun
+90000678--CN	name	酒酿圆子	Fermented Rice Dumplings
+90000679--CN	name	青团	Qingtuan
+90000680--CN	name	糯米鸡	Sticky Rice Chicken
+90001150-Event-CN	name	彩虹磁力鱼饵	Rainbow Magnetic Fishing Bait
+90001157-Event-CN	name	生日蛋糕爆竹	Birthday Cake Firecracker
+90001202-Event-CN	name	黑豆	Black Bean
+90001204-Event-CN	name	彩虹磁力鱼饵	Rainbow Magnetic Fishing Bait
+90200096--CN	name	特别的生日	Special Birthday
+90200099--CN	name	甜蜜生日	Sweet Birthday
+90210001--CN	name	鼓掌	Applause
+90210002--CN	name	挥舞荧光棒	Wave Glow Stick
