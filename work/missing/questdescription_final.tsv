@@ -2,9 +2,6 @@
 80000323--	desc	아래 보스들을 처치하여 글자 '$item:30000752$', '$item:30000753$', '$item:30000752$', '$item:30000753$' 을 모아보자!⏎⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$	Defeat the bosses below to collect the letters '$item:30000752$', '$item:30000753$', '$item:30000752$', '$item:30000753$'!⏎⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$
 80000323--	manual	글자 '$item:30000752$' 획득하기|글자 '$item:30000753$' 획득하기	Obtain the letter '$item:30000752$'|Obtain the letter '$item:30000753$'
 80000323--	complete	$map:02000064$이나 $map:63000051$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000051$
-80000324--	desc	아래 보스들을 처치하여 글자 '$item:30000754$', '$item:30000755$', '$item:30000756$', '$item:30000757$' 을 모아보자!⏎⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$	Defeat the bosses below to collect the letters '$item:30000754$', '$item:30000755$', '$item:30000756$', '$item:30000757$'!⏎⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$
-80000324--	manual	글자 '$item:30000754$' 획득하기|글자 '$item:30000755$' 획득하기|글자 '$item:30000756$' 획득하기|글자 '$item:30000757$' 획득하기	Obtain the letter '$item:30000754$'|Obtain the letter '$item:30000755$'|Obtain the letter '$item:30000756$'|Obtain the letter '$item:30000757$'
-80000324--	complete	$map:02000064$이나 $map:63000051$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000051$
 80000325--	name	'메이플2' 글자를 모아봐요!	Collect the Letters for 'MapleStory2'!
 80000325--	desc	아래 보스들을 처치하여 글자 '$item:30000758$', '$item:30000759$', '$item:30000760$', '$item:30000761$' 를 모아보자!⏎⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$	Defeat the bosses below to collect the letters '$item:30000758$', '$item:30000759$', '$item:30000760$', '$item:30000761$'!⏎⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$
 80000325--	manual	글자 '$item:30000758$' 획득하기|글자 '$item:30000759$' 획득하기|글자 '$item:30000760$' 획득하기|글자 '$item:30000761$' 획득하기	Obtain the letter '$item:30000758$'|Obtain the letter '$item:30000759$'|Obtain the letter '$item:30000760$'|Obtain the letter '$item:30000761$'
@@ -13,111 +10,6 @@
 80000326--	desc	아래 보스들을 처치하여 글자 '$item:30000762$', '$item:30000763$', '$item:30000764$', '$item:30000765$' 를 모아보자!⏎⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$	Defeat the bosses below to collect the letters '$item:30000762$', '$item:30000763$', '$item:30000764$', '$item:30000765$'!⏎⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$
 80000326--	manual	글자 '$item:30000762$' 획득하기|글자 '$item:30000763$' 획득하기|글자 '$item:30000764$' 획득하기|글자 '$item:30000765$' 획득하기	Obtain the letter '$item:30000762$'|Obtain the letter '$item:30000763$'|Obtain the letter '$item:30000764$'|Obtain the letter '$item:30000765$'
 80000326--	complete	$map:02000064$이나 $map:63000051$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000051$
-80000327--	name	가디언즈 오브 메이플	Guardians of Maple
-80000327--	desc	던전 클리어 20회 미만의 도움이 필요한 모험가와 함께 이벤트 대상 던전 공략에 성공하면, '$item:30000778$'$pp:를,을$ 획득할 수 있다.⏎'$item:30000778$' 30개 획득 시, '히어로의 탄생' 엠블럼 달성과 함께 '히어로' 칭호도 받을 수 있다고 하니 꼭 도전해보자!⏎⏎이벤트 대상 던전:⏎- 레이드 던전: 루벨리스크, 룬의 성전, 비욘드 링크 트리스, 서릿발 신전, 마드라칸 첨탑⏎- 카오스 레이드 던전: 루벨리스크, 루디브리엄 시계탑, 룬의 성전, 비욘드 링크 트리스, 마드라칸 첨탑	Clear an event dungeon with an adventurer who has fewer than 20 dungeon clears and needs help to obtain '$item:30000778$'.⏎Collecting 30 '$item:30000778$' will unlock the 'Birth of a Hero' emblem along with the 'Hero' title, so be sure to give it a try!⏎⏎Event dungeons:⏎- Raid Dungeons: Lubelisk, Temple of Rune, Beyond Link Tris, Frost Temple, Madrakhan Spire⏎- Chaos Raid Dungeons: Lubelisk, Ludibrium Clock Tower, Temple of Rune, Beyond Link Tris, Madrakhan Spire
-80000327--	manual	$item:30000778$$pp:를,을$ 3개 모으기	Collect 3 $item:30000778$
-80000330--	name	마크52 알파를 처치해주세요!	Please Defeat Mark 52 Alpha!
-80000330--	desc	$map:02000145$에서 '$npc:23000054$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000054$' at $map:02000145$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000330--	manual	$npc:23000054$ 처치하기	Defeat $npc:23000054$
-80000331--	name	그리피나를 처치해주세요!	Please Defeat Griffina!
-80000331--	desc	$map:02000088$에서 '$npc:23000020$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000020$' at $map:02000088$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000331--	manual	$npc:23000020$ 처치하기	Defeat $npc:23000020$
-80000332--	name	바야르 수문장을 처치해주세요!	Please Defeat Gatekeeper Bayar!
-80000332--	desc	$map:02000021$에서 '$npc:23000099$'을 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000099$' at $map:02000021$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000332--	manual	$npc:23000099$ 처치하기	Defeat $npc:23000099$
-80000333--	name	레르노스를 처치해주세요!	Please Defeat Lernos!
-80000333--	desc	$map:02000214$에서 '$npc:23000047$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000047$' at $map:02000214$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000333--	manual	$npc:23000047$ 처치하기	Defeat $npc:23000047$
-80000334--	name	분노의 바포메트를 처치해주세요!	Please Defeat Baphomet of Rage!
-80000334--	desc	$map:02000181$에서 '$npc:23000024$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000024$' at $map:02000181$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000334--	manual	$npc:23000024$ 처치하기	Defeat $npc:23000024$
-80000335--	name	페카노스를 처치해주세요!	Please Defeat Pecanos!
-80000335--	desc	$map:02000044$에서 '$npc:23000045$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000045$' at $map:02000044$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000335--	manual	$npc:23000045$ 처치하기	Defeat $npc:23000045$
-80000336--	name	냉혈한 바포메트를 처치해주세요!	Please Defeat Cold-Blooded Baphomet!
-80000336--	desc	$map:02000260$에서 '$npc:23000026$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000026$' at $map:02000260$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000336--	manual	$npc:23000026$ 처치하기	Defeat $npc:23000026$
-80000337--	name	이카르 마드를 처치해주세요!	Please Defeat Ikar Mad!
-80000337--	desc	$map:02000176$에서 '$npc:23000012$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000012$' at $map:02000176$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000337--	manual	$npc:23000012$ 처치하기	Defeat $npc:23000012$
-80000338--	name	데블린 워리어를 처치해주세요!	Please Defeat Devlin Warrior!
-80000338--	desc	$map:02000115$에서 '$npc:23000001$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000001$' at $map:02000115$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000338--	manual	$npc:23000001$ 처치하기	Defeat $npc:23000001$
-80000339--	name	그리폰을 처치해주세요!	Please Defeat Griffon!
-80000339--	desc	$map:02000085$에서 '$npc:23000019$'을 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000019$' at $map:02000085$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000339--	manual	$npc:23000019$ 처치하기	Defeat $npc:23000019$
-80000340--	name	로로와 무무스를 처치해주세요!	Please Defeat Roro and Mumus!
-80000340--	desc	$map:02000103$에서 '$npc:23000035$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000035$' at $map:02000103$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000340--	manual	$npc:23000035$ 처치하기	Defeat $npc:23000035$
-80000341--	name	알파 터틀을 처치해주세요!	Please Defeat Alpha Turtle!
-80000341--	desc	$map:02000022$에서 '$npc:23000017$'을 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000017$' at $map:02000022$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000341--	manual	$npc:23000017$ 처치하기	Defeat $npc:23000017$
-80000342--	name	토토와 구구스를 처치해주세요!	Please Defeat Toto and Gugus!
-80000342--	desc	$map:02000169$에서 '$npc:23000034$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000034$' at $map:02000169$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000342--	manual	$npc:23000034$ 처치하기	Defeat $npc:23000034$
-80000343--	name	우레우스를 처치해주세요!	Please Defeat Ureus!
-80000343--	desc	$map:02010027$에서 '$npc:23000009$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000009$' at $map:02010027$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000343--	manual	$npc:23000009$ 처치하기	Defeat $npc:23000009$
-80000344--	name	아크레온을 처치해주세요!	Please Defeat Acreon!
-80000344--	desc	$map:02010022$에서 '$npc:23000029$'을 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000029$' at $map:02010022$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000344--	manual	$npc:23000029$ 처치하기	Defeat $npc:23000029$
-80000345--	name	아마돈을 처치해주세요!	Please Defeat Amadon!
-80000345--	desc	$map:02010020$에서 '$npc:23000057$'$pp:를,을$ 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000057$' at $map:02010020$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000345--	manual	$npc:23000057$ 처치하기	Defeat $npc:23000057$
-80000347--	name	위대한 최초의 기사	The Great First Knight
-80000347--	desc	던전 클리어 20회 미만의 도움이 필요한 모험가와 함께 이벤트 대상 던전 공략에 성공하면, '$item:30000784$'$pp:를,을$ 획득할 수 있다.⏎'$item:30000784$' 30개 획득 시, '메이플 월드 최초의 기사' 엠블럼 달성과 함께 '최초의 기사' 칭호도 받을 수 있다고 하니 꼭 도전해보자!⏎⏎이벤트 대상 던전:⏎- 레이드 던전: 루벨리스크, 룬의 성전, 비욘드 링크 트리스, 서릿발 신전, 마드라칸 첨탑⏎- 카오스 레이드 던전: 루벨리스크, 루디브리엄 시계탑, 룬의 성전, 비욘드 링크 트리스, 마드라칸 첨탑	Clear an event dungeon with an adventurer who has fewer than 20 dungeon clears and needs help to obtain '$item:30000784$'.⏎Collecting 30 '$item:30000784$' will unlock the 'First Knight of Maple World' emblem along with the 'First Knight' title, so be sure to give it a try!⏎⏎Event dungeons:⏎- Raid Dungeons: Lubelisk, Temple of Rune, Beyond Link Tris, Frost Temple, Madrakhan Spire⏎- Chaos Raid Dungeons: Lubelisk, Ludibrium Clock Tower, Temple of Rune, Beyond Link Tris, Madrakhan Spire
-80000347--	manual	$item:30000784$$pp:를,을$ 3개 모으기	Collect 3 $item:30000784$
-80000349--	name	마크52 알파를 처치해주세요!	Please Defeat Mark 52 Alpha!
-80000349--	desc	$map:02000145$에서 '$npc:23000054$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000054$' at $map:02000145$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000349--	manual	$npc:23000054$ 처치하기	Defeat $npc:23000054$
-80000350--	name	그리피나를 처치해주세요!	Please Defeat Griffina!
-80000350--	desc	$map:02000088$에서 '$npc:23000020$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000020$' at $map:02000088$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000350--	manual	$npc:23000020$ 처치하기	Defeat $npc:23000020$
-80000351--	name	바야르 수문장을 처치해주세요!	Please Defeat Gatekeeper Bayar!
-80000351--	desc	$map:02000021$에서 '$npc:23000099$'을 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000099$' at $map:02000021$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000351--	manual	$npc:23000099$ 처치하기	Defeat $npc:23000099$
-80000352--	name	레르노스를 처치해주세요!	Please Defeat Lernos!
-80000352--	desc	$map:02000214$에서 '$npc:23000047$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000047$' at $map:02000214$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000352--	manual	$npc:23000047$ 처치하기	Defeat $npc:23000047$
-80000353--	name	분노의 바포메트를 처치해주세요!	Please Defeat Baphomet of Rage!
-80000353--	desc	$map:02000181$에서 '$npc:23000024$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000024$' at $map:02000181$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000353--	manual	$npc:23000024$ 처치하기	Defeat $npc:23000024$
-80000354--	name	페카노스를 처치해주세요!	Please Defeat Pecanos!
-80000354--	desc	$map:02000044$에서 '$npc:23000045$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000045$' at $map:02000044$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000354--	manual	$npc:23000045$ 처치하기	Defeat $npc:23000045$
-80000355--	name	냉혈한 바포메트를 처치해주세요!	Please Defeat Cold-Blooded Baphomet!
-80000355--	desc	$map:02000260$에서 '$npc:23000026$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000026$' at $map:02000260$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000355--	manual	$npc:23000026$ 처치하기	Defeat $npc:23000026$
-80000356--	name	이카르 마드를 처치해주세요!	Please Defeat Ikar Mad!
-80000356--	desc	$map:02000176$에서 '$npc:23000012$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000012$' at $map:02000176$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000356--	manual	$npc:23000012$ 처치하기	Defeat $npc:23000012$
-80000357--	name	데블린 워리어를 처치해주세요!	Please Defeat Devlin Warrior!
-80000357--	desc	$map:02000115$에서 '$npc:23000001$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000001$' at $map:02000115$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000357--	manual	$npc:23000001$ 처치하기	Defeat $npc:23000001$
-80000358--	name	그리폰을 처치해주세요!	Please Defeat Griffon!
-80000358--	desc	$map:02000085$에서 '$npc:23000019$'을 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000019$' at $map:02000085$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000358--	manual	$npc:23000019$ 처치하기	Defeat $npc:23000019$
-80000359--	name	로로와 무무스를 처치해주세요!	Please Defeat Roro and Mumus!
-80000359--	desc	$map:02000103$에서 '$npc:23000035$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000035$' at $map:02000103$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000359--	manual	$npc:23000035$ 처치하기	Defeat $npc:23000035$
-80000360--	name	알파 터틀을 처치해주세요!	Please Defeat Alpha Turtle!
-80000360--	desc	$map:02000022$에서 '$npc:23000017$'을 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000017$' at $map:02000022$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000360--	manual	$npc:23000017$ 처치하기	Defeat $npc:23000017$
-80000361--	name	토토와 구구스를 처치해주세요!	Please Defeat Toto and Gugus!
-80000361--	desc	$map:02000169$에서 '$npc:23000034$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000034$' at $map:02000169$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000361--	manual	$npc:23000034$ 처치하기	Defeat $npc:23000034$
-80000362--	name	우레우스를 처치해주세요!	Please Defeat Ureus!
-80000362--	desc	$map:02010027$에서 '$npc:23000009$'를 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000009$' at $map:02010027$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000362--	manual	$npc:23000009$ 처치하기	Defeat $npc:23000009$
-80000363--	name	아크레온을 처치해주세요!	Please Defeat Acreon!
-80000363--	desc	$map:02010022$에서 '$npc:23000029$'을 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000029$' at $map:02010022$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000363--	manual	$npc:23000029$ 처치하기	Defeat $npc:23000029$
-80000364--	name	아마돈을 처치해주세요!	Please Defeat Amadon!
-80000364--	desc	$map:02010020$에서 '$npc:23000057$'$pp:를,을$ 처치하여⏎불멸의 힘의 기운을 지닐 자격을 증명해보자!⏎⏎다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!	Defeat '$npc:23000057$' at $map:02010020$ to prove your qualification to wield the power of immortality!⏎⏎With the help of other adventurers, it's definitely possible to clear, so take courage!
-80000364--	manual	$npc:23000057$ 처치하기	Defeat $npc:23000057$
-80000368--	name	위대한 던전 고수	Great Dungeon Master
-80000368--	desc	던전 클리어 20회 미만의 도움이 필요한 모험가와 함께 이벤트 대상 던전 공략에 성공하면, '$item:30000868$'$pp:를,을$ 획득할 수 있다.⏎⏎이벤트 대상 던전:⏎- 레이드 던전: 루벨리스크, 룬의 성전, 비욘드 링크 트리스, 서릿발 신전, 마드라칸 첨탑⏎- 카오스 레이드 던전: 루벨리스크, 루디브리엄 시계탑, 룬의 성전, 비욘드 링크 트리스, 마드라칸 첨탑	Clear an event dungeon together with an adventurer who has fewer than 20 dungeon clears and needs help to obtain '$item:30000868$'.⏎⏎Event Dungeons:⏎- Raid Dungeons: Lubelisk, Sanctuary of the Rune, Beyond Link Tris, Frost Pillar Temple, Madrakkan Spire⏎- Chaos Raid Dungeons: Lubelisk, Ludibrium Clock Tower, Sanctuary of the Rune, Beyond Link Tris, Madrakkan Spire
-80000368--	manual	$item:30000868$ 3개 모으기	Collect 3 $item:30000868$
 80000411--	name	초콜릿이 왜 거기서 나와?	Why Is Chocolate Coming from There?
 80000411--	desc	$map:02000014$, $map:02000092$, $map:02000017$의 몬스터를 처치하고 $item:30001052$ 10개를 모아 $npc:11000012$에게 전달해야 한다.	Defeat monsters in $map:02000014$, $map:02000092$, and $map:02000017$ to collect 10 $item:30001052$ and deliver them to $npc:11000012$.
 80000411--	manual	$item:30001052$ 10개 획득하기	Obtain 10 $item:30001052$
@@ -571,9 +463,6 @@
 80020151-Event-NA	desc	내 집에 $item:50400341$$pp:를,을$ 설치해 보자!⏎$item:50400341$$pp:는,은$ '건설 시작하기' 메뉴에서 왼쪽의 '깜짝 놀랐냥' 탭을 누르면 확인할 수 있다.⏎이미 설치한 경우에는 제거했다가 다시 설치하면 된다.	Place a $item:50400341$ in your home! You can find it in the Wampus tab of the furnishings menu. If you've already placed one, remove it and place it again.
 80020151-Event-NA	manual	내 집에 $item:50400341$$pp:를,을$ 설치하기	Place $item:50400341$ in your home
 80020151-Event-NA	complete	내 집에 $item:50400341$$pp:를,을$ 설치하기	Place $item:50400341$ in your home
-80020153-Event-NA	name	어둠에 물든 달토끼들	Bad Moon Bunnies
-80020153-Event-NA	desc	$npc:11001003$$pp:는,은$ $npc:11004717$에게서 메이플 월드 곳곳에 나타나는 괴이한 모습의 큰 토끼들이 보름달 방앗간을 떠났던 달토끼들이라는 이야기를 들었다고 한다. 달토끼 부족의 전설에 의하면 먼 옛날 몇몇 달토끼들이 이상한 기운에 물들어 방앗간을 헤집어 놓은 적이 있고, 그들을 제압해 기운을 빼놓고서야 일부 달토끼들이 정신을 차렸다는데... $map:02000043$에 나타난다는 $npc:27000034$$pp:를,을$ 제압하고 돌아오자.⏎⏎$npc:27000034$$pp:는,은$ 오후 19:30, 20:30, 21:30, 22:30에 $map:02000043$에 나타난다.	The big strange bunnies appearing all over Maple World are runaway moon bunnies! The only way to return these bunnies to their senses is defeating them in combat. Go to $map:02000043$ and defeat the $npc:27000034$.⏎⏎The $npc:27000034$ appears in $map:02000043$ at 19:30, 20:30, 21:30, and 22:30 UTC.
-80020153-Event-NA	manual	$map:02000043$에 나타나는 $npc:27000034$ 제압하기	Defeat $npcName:27000034$ in $map:02000043$
 80020154-Event-NA	name	검은 박쥐의 힘	Bat-Powered
 80020154-Event-NA	desc	$npc:11000304$$pp:는,은$ 이번 할로윈 주간에는 역대급으로 강력한 마녀의 스프를 끓여볼 계획이라고 한다. 과연 그녀의 계획대로 엄청난 힘을 가진 스프를 만들 수 있는 것일까? ⏎일단, 밑져야 본전이다. $npc:11000304$$pp:가,이$ 부탁한 재료들을 모아서 가져다주자.	$npcName:11000304$ plans to cook the most powerful witch stew ever. Help her by collecting delicious and safe-sounding ingredients.
 80020154-Event-NA	manual	필드 엘리트 몬스터를 처치하고 $item:30001434$ 모아오기	Defeat elite monsters to collect $itemPlural:30001434$
@@ -763,8 +652,6 @@
 89050029-Event-NA	name	펫 합성 5회	Pet Fusion
 89050029-Event-NA	manual	펫 합성 5회	Fuse pets
 89050029-Event-NA	complete	펫 합성 5회	Fuse pets
-89050030-Event-NA	manual	MC케이 이벤트 4회 참여	Play MC Kay's minigames
-89050030-Event-NA	complete	MC케이 이벤트 4회 참여	Play MC Kay's minigames
 89050033-Event-NA	name	신비한 운석 나무에서 '대지의 조각' 10개 획득	Earth Fragment Harvest
 89050033-Event-NA	manual	신비한 운석 나무에서 '대지의 조각' 10개 획득	Get Earth Fragments from Mysterious Meteorite Trees
 89050033-Event-NA	complete	신비한 운석 나무에서 '대지의 조각' 10개 획득	Get Earth Fragments from Mysterious Meteorite Trees
@@ -819,8 +706,6 @@
 89050066-Event-NA	name	동아리 1개 가입해보기	Club Activities
 89050066-Event-NA	manual	동아리 1개 가입해보기	Join a club
 89050066-Event-NA	complete	동아리 1개 가입해보기	Join a club
-89050067-Event-NA	manual	집 장식도 300점 달성	Raise Decoration Score
-89050067-Event-NA	complete	집 장식도 300점 달성	Raise Decoration Score
 89050072-Event-NA	name	UGC 1회 제작	UGC Creation
 89050072-Event-NA	manual	UGC 1회 제작	Create a UGC item
 89050072-Event-NA	complete	UGC 1회 제작	Create a UGC item
@@ -845,8 +730,6 @@
 89050084-Event-NA	name	젬스톤 업그레이드 1회 성공	Gemstone Upgrade
 89050084-Event-NA	manual	젬스톤 업그레이드 1회 성공	Upgrade gemstones
 89050084-Event-NA	complete	젬스톤 업그레이드 1회 성공	Upgrade gemstones
-89050085-Event-NA	manual	필드 보스 3회 처치	Defeat world bosses
-89050085-Event-NA	complete	필드 보스 3회 처치	Defeat world bosses
 89050086-Event-NA	name	$item:33000100$ 허브 30회 채집	$item:33000100$ Harvest
 89050086-Event-NA	manual	$item:33000100$ 허브 30회 채집	Forage $item:33000100$ Herbs
 89050086-Event-NA	complete	$item:33000100$ 허브 30회 채집	Forage $item:33000100$ Herbs
@@ -868,8 +751,6 @@
 89050096-Event-NA	name	동아리 1개 가입해보기	Club Activities
 89050096-Event-NA	manual	동아리 1개 가입해보기	Join a club
 89050096-Event-NA	complete	동아리 1개 가입해보기	Join a club
-89050097-Event-NA	manual	집 장식도 100점 달성	Raise Decoration Score
-89050097-Event-NA	complete	집 장식도 100점 달성	Raise Decoration Score
 89050102-Event-NA	name	UGC 1회 제작	UGC Creation
 89050102-Event-NA	manual	UGC 1회 제작	Create a UGC item
 89050102-Event-NA	complete	UGC 1회 제작	Create a UGC item
@@ -936,8 +817,6 @@
 89050127-Event-NA	name	아리까리 상단의 일일 퀘스트 2회 완료하기	Complete 2 Allicari daily quests
 89050127-Event-NA	manual	아리까리 상단의 일일 퀘스트 2회 완료하기	Complete 2 Allicari daily quests
 89050127-Event-NA	complete	아리까리 상단의 일일 퀘스트 2회 완료하기	Complete 2 Allicari daily quests
-89050128-Event-NA	manual	필드 보스 10회 처치하기	Defeat 10 world bosses
-89050128-Event-NA	complete	필드 보스 10회 처치하기	Defeat 10 world bosses
 89050129-Event-NA	name	낚시로 물고기 220마리 낚기	Catch 220 fish
 89050129-Event-NA	manual	낚시로 물고기 220마리 낚기	Catch 220 fish
 89050129-Event-NA	complete	낚시로 물고기 220마리 낚기	Catch 220 fish
@@ -953,8 +832,6 @@
 89050133-Event-NA	name	아이템 5개 분해하기	Dismantle 5 items
 89050133-Event-NA	manual	아이템 5개 분해하기	Dismantle 5 items
 89050133-Event-NA	complete	아이템 5개 분해하기	Dismantle 5 items
-89050134-Event-NA	manual	MC케이 이벤트 3회 참여하기	Play 3 MC Kay's minigames
-89050134-Event-NA	complete	MC케이 이벤트 3회 참여하기	Play 3 MC Kay's minigames
 89050135-Event-NA	name	바베니 세력 퀘스트 10회 완료하기 (주간 퀘스트 포함)	Complete 10 Safehold missions
 89050135-Event-NA	manual	바베니 세력 퀘스트 10회 완료하기 (주간 퀘스트 포함)	Complete 10 Safehold missions
 89050135-Event-NA	complete	바베니 세력 퀘스트 10회 완료하기 (주간 퀘스트 포함)	Complete 10 Safehold missions
@@ -976,8 +853,6 @@
 89050144-Event-NA	name	아리까리 상단의 일일 퀘스트 1회 완료하기	Complete 1 Allicari daily quest
 89050144-Event-NA	manual	아리까리 상단의 일일 퀘스트 1회 완료하기	Complete 1 Allicari daily quest
 89050144-Event-NA	complete	아리까리 상단의 일일 퀘스트 1회 완료하기	Complete 1 Allicari daily quest
-89050145-Event-NA	manual	필드 보스 5회 처치하기	Defeat 5 world bosses
-89050145-Event-NA	complete	필드 보스 5회 처치하기	Defeat 5 world bosses
 89050146-Event-NA	name	낚시로 물고기 22마리 낚기	Catch 22 fish
 89050146-Event-NA	manual	낚시로 물고기 22마리 낚기	Catch 22 fish
 89050146-Event-NA	complete	낚시로 물고기 22마리 낚기	Catch 22 fish
@@ -1187,18 +1062,6 @@
 80030001-Event-JP	desc	わぁ！10レベルになりましたね！おめでとうございます。⏎OBTを記念し、レベル10を達成した勇者の方々にプレゼントをお配りしています。⏎⏎$map:02000064$にいる$npc:11000711$を訪ねて[OBTおめでとう！] 記念プレゼントをもらってください！	Wow! You reached level 10! Congratulations.⏎To commemorate OBT, we're giving presents to heroes who reached level 10.⏎⏎Visit $npc:11000711$ in $map:02000064$ and get the [OBT Congratulations!] commemorative present!
 80030001-Event-JP	manual	$map:02000064$にいる$npc:11000711$を訪ねて[OBTおめでとう！] 記念プレゼントをもらう	Visit $npc:11000711$ in $map:02000064$ and get the [OBT Congratulations!] commemorative present
 80030001-Event-JP	complete	$map:02000064$にいる$npc:11000711$を訪ねて[OBTおめでとう！] 記念プレゼントをもらう	Visit $npc:11000711$ in $map:02000064$ and get the [OBT Congratulations!] commemorative present
-80030020-Event-JP	name	欠片を集めて「これから」を完成しましょう！	Collect the fragments to complete "From Now On"!
-80030020-Event-JP	desc	下記のボスを退治して欠片「$item:30001397$」、「$item:30001398$」、「$item:30001399$」、「$item:30001400$」を集めよう！⏎⏎$npc:23000013$、$npc:23000018$、$npc:23000001$、$npc:23000019$、⏎$npc:23000054$、$npc:23000020$、$npc:23000035$、$npc:23000099$、$npc:23000017$、$npc:23000047$、$npc:23000024$、$npc:23000034$、$npc:23000045$、$npc:23000057$、$npc:23000026$、$npc:23000012$、$npc:23000009$、$npc:23000029$	Defeat the bosses below to collect the fragments "$item:30001397$", "$item:30001398$", "$item:30001399$", and "$item:30001400$"!⏎⏎The $npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$,⏎$npc:23000054$, $npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, $npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, $npc:23000057$, $npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$
-80030020-Event-JP	manual	欠片「$item:30001397$」を獲得する|欠片「$item:30001398$」を獲得する|欠片「$item:30001399$」を獲得する|欠片「$item:30001400$」を獲得する	Obtain the fragment "$item:30001397$"|Obtain the fragment "$item:30001398$"|Obtain the fragment "$item:30001399$"|Obtain the fragment "$item:30001400$"
-80030030-Event-JP	name	欠片を集めて「暑い夏が」を完成しましょう！	Collect the fragments to complete "Hot Summer"!
-80030030-Event-JP	desc	下記のボスを退治して欠片「$item:30001401$」、「$item:30001402$」、「$item:30001403$」、「$item:30001404$」を集めよう！⏎⏎$npc:23000013$、$npc:23000018$、$npc:23000001$、$npc:23000019$、⏎$npc:23000054$、$npc:23000020$、$npc:23000035$、$npc:23000099$、$npc:23000017$、$npc:23000047$、$npc:23000024$、$npc:23000034$、$npc:23000045$、$npc:23000057$、$npc:23000026$、$npc:23000012$、$npc:23000009$、$npc:23000029$	Defeat the bosses below to collect the fragments "$item:30001401$", "$item:30001402$", "$item:30001403$", and "$item:30001404$"!⏎⏎The $npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$,⏎$npc:23000054$, $npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, $npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, $npc:23000057$, $npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$
-80030030-Event-JP	manual	欠片「$item:30001401$」を獲得する|欠片「$item:30001402$」を獲得する|欠片「$item:30001403$」を獲得する|欠片「$item:30001404$」を獲得する	Obtain the fragment "$item:30001401$"|Obtain the fragment "$item:30001402$"|Obtain the fragment "$item:30001403$"|Obtain the fragment "$item:30001404$"
-80030040-Event-JP	name	欠片を集めて「始まる！」を完成しましょう！	Collect the fragments to complete "It Begins!"!
-80030040-Event-JP	desc	下記のボスを退治して欠片「$item:30001405$」、「$item:30001406$」、「$item:30001407$」、「$item:30001408$」を集めよう！⏎⏎$npc:23000013$、$npc:23000018$、$npc:23000001$、$npc:23000019$、⏎$npc:23000054$、$npc:23000020$、$npc:23000035$、$npc:23000099$、$npc:23000017$、$npc:23000047$、$npc:23000024$、$npc:23000034$、$npc:23000045$、$npc:23000057$、$npc:23000026$、$npc:23000012$、$npc:23000009$、$npc:23000029$	Defeat the below bosses and collect the fragments「$item:30001405$」、「$item:30001406$」、「$item:30001407$」、「$item:30001408$」!⏎⏎$npc:23000013$、$npc:23000018$、$npc:23000001$、$npc:23000019$、⏎$npc:23000054$、$npc:23000020$、$npc:23000035$、$npc:23000099$、$npc:23000017$、$npc:23000047$、$npc:23000024$、$npc:23000034$、$npc:23000045$、$npc:23000057$、$npc:23000026$、$npc:23000012$、$npc:23000009$、$npc:23000029$
-80030040-Event-JP	manual	欠片「$item:30001405$」を獲得する|欠片「$item:30001406$」を獲得する|欠片「$item:30001407$」を獲得する|欠片「$item:30001408$」を獲得する	Obtain the fragment「$item:30001405$」|Obtain the fragment「$item:30001406$」|Obtain the fragment「$item:30001407$」|Obtain the fragment「$item:30001408$」
-80030013-Event-JP	name	冒険ダンジョン追加報酬獲得	Obtain Adventure Dungeon Bonus Rewards
-80030013-Event-JP	desc	冒険[ノーマル/ハード]ダンジョンをクリアして50レべル以上の時に獲得できるアイテム「$item:20302178$」を集めよう！	Clear Adventure [Normal/Hard] Dungeons and collect the item「$item:20302178$」that you can obtain when you are level 50 or above!
-80030013-Event-JP	manual	50レべル以上の時に獲得できるアイテム「$item:20302178$」を獲得する	Obtain the item「$item:20302178$」that you can get when you are level 50 or above
 80030060-Event-JP	desc	キュートな$npc:50400282$を育成してプレゼントをゲットしよう！	Raise a cute $npc:50400282$ and get a present!
 80030060-Event-JP	manual	$npc:50400282$の育て方を教えてもらう	Learn how to raise $npc:50400282$
 80030060-Event-JP	complete	$npc:50400282$の育て方を教えてもらう	Learn how to raise $npc:50400282$
@@ -1347,9 +1210,6 @@
 80030203-Event-JP	desc	ついに開放された愛の島！そこに住む不思議なカラス$npc:11004102$は、愛の奇跡を起こした者のために特別なプレゼントを用意したいという。⏎彼がプレゼントを用意する間、愛のダンスパーティを楽しんでこよう！	The island of love has finally been opened! The mysterious crow living there, $npc:11004102$, says he wants to prepare a special gift for those who have created a miracle of love.⏎While he prepares the gift, let's enjoy a love dance party!
 80030203-Event-JP	manual	$map:63000092$で愛のダンスパーティに参加する	Participate in the Love Dance Party at $map:63000092$
 80030203-Event-JP	complete	$map:63000092$で$npc:11004102$と会話する	Talk with $npc:11004102$ in $map:63000092$
-80030210-Event-JP	name	巨大七面鳥、襲来	The Giant Turkey Attacks
-80030210-Event-JP	desc	感謝祭になると冒険者たちの食卓に上がるハメになった七面鳥たちが暴動を起こし、感謝祭を台無しにするためにメイプルワールドを襲撃した！$map:02000092$に現れた$npc:27000051$を退治し、メイプルワールドの住民を守ろう！	The turkeys that end up on adventurers' tables every Thanksgiving have rioted, and invaded Maple World to ruin the festival! Defeat $npc:27000051$ that appeared in $map:02000092$ and protect the citizens of Maple World!
-80030210-Event-JP	manual	$map:02000092$で$npc:27000051$を退治する	Defeat $npc:27000051$ in $map:02000092$
 80030211-Event-JP	name	レッツ・クック！七面鳥焼きを作りましょう	Let's Cook! Let's make roast turkey
 80030211-Event-JP	desc	$npc:27000051$を調理すれば通常の七面鳥とは比べ物にならないほど美味しくなるという噂がある。$npc:11001002$は、感謝祭シーズンにお客さんのために$npc:27000051$で作った料理を振る舞いたいと言う。10日間、$map:02000092$に現れた$npc:27000051$を捕まえて届けてあげよう。	There is a rumor that cooking $npc:27000051$ makes it incomparably more delicious than a normal turkey. $npc:11001002$ says they want to serve dishes made from $npc:27000051$ to customers during the Thanksgiving season. For 10 days, catch the $npc:27000051$ that appear in $map:02000092$ and deliver them.
 80030211-Event-JP	manual	クエスト「$quest:80030210$」を10回完了する	Complete the quest "$quest:80030210$" 10 times
@@ -1358,15 +1218,6 @@
 80030220-Event-JP	desc	イベントダンジョン[$dungeonTitle:29006001$]を30回クリアし、報酬を30回獲得すれば、$item:20303079$をくれると言う。⏎$item:20303079$の中には[12段階レジェンダリー武器エンチャント呪文書]が入っている。	Clear the event dungeon [$dungeonTitle:29006001$] 30 times and collect the reward 30 times, and they say you'll get $item:20303079$.⏎Inside $item:20303079$ is a [12-step Legendary Weapon Enchantment Spell Book].
 80030220-Event-JP	manual	イベントダンジョン[$dungeonTitle:29006001$]を30回クリアし、報酬を30回獲得する	Clear the event dungeon [$dungeonTitle:29006001$] 30 times and collect the reward 30 times
 80030220-Event-JP	complete	イベントダンジョン[$dungeonTitle:29006001$]を30回クリアし、報酬を30回獲得する	Clear the event dungeon [$dungeonTitle:29006001$] 30 times and collect the reward 30 times
-80030230-Event-JP	name	欠片を集めて「新年おめでとう」を完成しましょう！	Collect the shards and complete "Happy New Year"!
-80030230-Event-JP	desc	2020年を迎えてメイプルワールドはワクワクムードだ。⏎しかし、新年を祝うメイプルワールドを邪魔しようと、モンスターが新年の欠片を盗んでいった。⏎メイプルワールドの各地に出現するエリートモンスター、ボスモンスターを退治し、「$item:30001450$、$item:30001451$、$item:30001452$、$item:30001453$、$item:30001454$、$item:30001455$、$item:30001456$」を集めよう。⏎欠片を集めたら$map:02000064$の$npc:11001002$を訪ねよう。	Welcoming 2020, Maple World is brimming with excitement.⏎But the monsters stole the New Year shards to ruin the celebration of Maple World.⏎Defeat the elite monsters and boss monsters appearing across Maple World and collect "$item:30001450$, $item:30001451$, $item:30001452$, $item:30001453$, $item:30001454$, $item:30001455$, $item:30001456$".⏎Once you collect the shards, visit $npc:11001002$ in $map:02000064$.
-80030230-Event-JP	manual	欠片「$item:30001450$」を獲得する|欠片「$item:30001451$」を獲得する|欠片「$item:30001452$」を獲得する|欠片「$item:30001453$」を獲得する|欠片「$item:30001454$」を獲得する|欠片「$item:30001455$」を獲得する|欠片「$item:30001456$」を獲得する	Obtain the fragment 「$item:30001450$」|Obtain the fragment 「$item:30001451$」|Obtain the fragment 「$item:30001452$」|Obtain the fragment 「$item:30001453$」|Obtain the fragment 「$item:30001454$」|Obtain the fragment 「$item:30001455$」|Obtain the fragment 「$item:30001456$」
-80030240-Event-JP	name	欠片を集めて「ございます！」を完成しましょう！	Collect the fragments and complete the 「ございます！」!
-80030240-Event-JP	desc	2020年を迎えてメイプルワールドはワクワクムードだ。⏎しかし、新年を祝うメイプルワールドを邪魔しようと、モンスターが新年の欠片を盗んでいった。⏎メイプルワールドの各地に出現するエリートモンスター、ボスモンスターを退治し、「$item:30001457$、$item:30001458$、$item:30001459$、$item:30001460$、$item:30001461$、$item:30001462$」を集めよう。⏎欠片を集めたら$map:02000064$の$npc:11001002$を訪ねよう。	As 2020 arrived, Maple World is in an exciting mood.⏎However, trying to disrupt the Maple World celebrating the new year, monsters stole the new year's fragments.⏎Defeat the elite monsters and boss monsters appearing across Maple World and collect 「$item:30001457$、$item:30001458$、$item:30001459$、$item:30001460$、$item:30001461$、$item:30001462$」.⏎Once you've collected the fragments, visit $npc:11001002$ at $map:02000064$.
-80030240-Event-JP	manual	欠片「$item:30001457$」を獲得する|欠片「$item:30001458$」をを獲得する|欠片「$item:30001459$」を獲得する|欠片「$item:30001460$」を獲得する|欠片「$item:30001461$」を獲得する|欠片「$item:30001462$」を獲得する	Obtain the fragment 「$item:30001457$」|Obtain the fragment 「$item:30001458$」|Obtain the fragment 「$item:30001459$」|Obtain the fragment 「$item:30001460$」|Obtain the fragment 「$item:30001461$」|Obtain the fragment 「$item:30001462$」
-80030250-Event-JP	name	気になるあの子、ピンクビーン	That intriguing kid, Pink Bean
-80030250-Event-JP	desc	メイプルワールドの各所でピンクビーン風船を調べよう！⏎[ピンクビーン風船を10回調査]し、$map:02000064$に行こう。⏎$npc:11001002$を訪れると[$item:20001771$ 10個]を獲得できる。⏎⏎*ピンクビーン風船は10分ごとにフィールドに現れ、5分間維持される。	Investigate Pink Bean Balloons throughout Maple World!⏎[Investigate Pink Bean Balloons 10 times], then go to $map:02000064$.⏎Visit $npc:11001002$ to receive [$item:20001771$ x10].⏎⏎*Pink Bean Balloons appear in the field every 10 minutes and remain for 5 minutes.
-80030250-Event-JP	manual	ピンクビーン風船を調べる	Examine the Pink Bean balloon
 80030260-Event-JP	name	今日の運命の人！	Today's destined one!
 80030260-Event-JP	desc	愛を告白するわくわくホワイトデー！⏎「コットンキャンディパジャマ全身服」を着用しているキャラクターを探そう。⏎⏎「コットンキャンディパジャマ全身服」獲得条件：$item:22001007$使用	Declare your love this exciting White Day!⏎Find a character wearing the 「Cotton Candy Pajama Full Outfit」.⏎⏎How to obtain the「Cotton Candy Pajama Full Outfit」: Use $item:22001007$
 80030260-Event-JP	manual	[コットンキャンディパジャマ全身服]を着用しているキャラクターを探せ	Find a character wearing the [Cotton Candy Pajama Full Outfit]
@@ -1423,12 +1274,6 @@
 80030273-Event-JP	desc	愛を告白するわくわくホワイトデー！⏎「何でもよく食べる」称号をつけているキャラクターを探そう。⏎⏎「何でもよく食べる」称号獲得条件：$dungeonTitle:23023003$ダンジョンの$npc:23000115$討伐時のトロフィー報酬	Thrilling White Day to confess your love!⏎Find a character equipped with the "Eats Anything" title.⏎⏎Conditions to earn the "Eats Anything" title: Trophy reward for defeating $npc:23000115$ in the $dungeonTitle:23023003$ dungeon
 80030273-Event-JP	manual	[何でもよく食べる]称号をつけているキャラクターを探せ	Find a character equipped with the [Eats Anything] title
 80030273-Event-JP	complete	$map:02000064$の$npc:11001002$と会話する	Talk to $npc:11001002$ at $map:02000064$
-80030275-Event-JP	name	$item:30001380$の材料	Materials for $item:30001380$
-80030275-Event-JP	desc	下記のボスを退治して$item:30001377$、$item:30001378$、$item:30001379$を集め、$item:30001380$を作ってみよう！⏎⏎$npc:23000013$、$npc:23000018$、$npc:23000001$、$npc:23000019$、⏎$npc:23000054$、$npc:23000020$、$npc:23000035$、$npc:23000099$、⏎$npc:23000017$、$npc:23000047$、$npc:23000024$、$npc:23000034$、⏎$npc:23000045$、$npc:23000057$、$npc:23000026$、$npc:23000012$、⏎$npc:23000009$、$npc:23000029$	Defeat the following bosses to collect $item:30001377$, $item:30001378$, and $item:30001379$, and craft $item:30001380$!⏎⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$,⏎$npc:23000054$, $npc:23000020$, $npc:23000035$, $npc:23000099$,⏎$npc:23000017$, $npc:23000047$, $npc:23000024$, $npc:23000034$,⏎$npc:23000045$, $npc:23000057$, $npc:23000026$, $npc:23000012$,⏎$npc:23000009$, $npc:23000029$
-80030275-Event-JP	manual	風車の材料「$item:30001377$」を獲得する|風車の材料「$item:30001378$」を獲得する|風車の材料「$item:30001379$」を獲得する	Obtain the windmill material "$item:30001377$"|Obtain the windmill material "$item:30001378$"|Obtain the windmill material "$item:30001379$"
-80030276-Event-JP	name	$item:30001380$をたくさん作ろう！	Let's craft lots of $item:30001380$!
-80030276-Event-JP	desc	$npc:11001002$の$quest:80030275$クエストを完了して$item:30001380$を15回作る	Complete the $quest:80030275$ quest from $npc:11001002$ and craft $item:30001380$ 15 times
-80030276-Event-JP	manual	$item:30001380$を15回作る	Craft $item:30001380$ 15 times
 89070000-Event-JP	name	10レベル達成	Reach level 10
 89070000-Event-JP	desc	10レベル達成	Reach level 10
 89070000-Event-JP	manual	10レベル達成	Reach level 10
@@ -2161,7 +2006,6 @@
 89080713-Event-JP	desc	ジェムストーンアップグレードを1回試みる	Attempt a gemstone upgrade once
 89080713-Event-JP	manual	ジェムストーンアップグレードを1回試みる	Attempt a gemstone upgrade once
 89080713-Event-JP	complete	ジェムストーンアップグレードを1回試みる	Attempt a gemstone upgrade once
-89080714-Event-JP	desc	ペットを1体捕獲する	Capture 1 pet
 89080715-Event-JP	name	ラベンダーハーブを10回採集する	Gather lavender herbs 10 times
 89080715-Event-JP	desc	ラベンダーハーブを10回採集する	Gather lavender herbs 10 times
 89080715-Event-JP	manual	ラベンダーハーブを10回採集する	Gather lavender herbs 10 times
@@ -2205,8 +2049,6 @@
 80010194--	name	아이돌은 아무나 하나	Anyone Can Be an Idol
 80010194--	desc	기적의 일곱 번째 달밤을 만들기 위해 이 세상을 사랑으로 가득 채우자!⏎$npc:11003139$$pp:는,은$ 누군가에게 사랑의 마음을 고백하는 것이야말로 사랑의 기적을 불러일으키는 지름길이라고 말하는데… ⏎메이플 월드의 인물들에게 직접 사랑을 고백하고 기적의 주인공이 되어보는 건 어떨까?⏎오늘은 $map:02000137$의 $npc:11000406$에게 사랑을 고백해보자.	Fill this world with love to create the miraculous seventh moonlit night!⏎$npc:11003139$ says confessing your love to someone is the shortcut to calling forth a miracle of love...⏎Why not confess your love directly to people in Maple World and become the star of a miracle?⏎Today, confess your love to $npc:11000406$ in $map:02000137$.
 80010194--	complete	$map:02000137$의 $npc:11000406$에게 사랑 고백하기	Confess your love to $npc:11000406$ in $map:02000137$
-80010195--	desc	기적의 일곱 번째 달밤을 만들기 위해 이 세상을 사랑으로 가득 채우자!⏎$npc:11003139$$pp:는,은$ 누군가에게 사랑의 마음을 고백하는 것이야말로 사랑의 기적을 불러일으키는 지름길이라고 말하는데… ⏎메이플 월드의 인물들에게 직접 사랑을 고백하고 기적의 주인공이 되어보는 건 어떨까?⏎오늘은 $map:02010047$의 $npc:11001430$에게 사랑을 고백해보자.	Fill this world with love to create the miraculous seventh moonlit night!⏎$npc:11003139$ says confessing your love to someone is the shortcut to calling forth a miracle of love...⏎Why not confess your love directly to people in Maple World and become the star of a miracle?⏎Today, confess your love to $npc:11001430$ in $map:02010047$.
-80010195--	complete	$map:02010047$의 $npc:11001430$에게 사랑을 고백하기	Confess your love to $npc:11001430$ in $map:02010047$
 80010196--	name	무슨 말을 해야 할까	What Should I Say
 80010196--	desc	기적의 일곱 번째 달밤을 만들기 위해 이 세상을 사랑으로 가득 채우자!⏎$npc:11003139$$pp:는,은$ 누군가에게 사랑의 마음을 고백하는 것이야말로 사랑의 기적을 불러일으키는 지름길이라고 말하는데… ⏎메이플 월드의 인물들에게 직접 사랑을 고백하고 기적의 주인공이 되어보는 건 어떨까?⏎오늘은 $map:02000118$의 $npc:11000617$에게 사랑을 고백해보자.	Fill this world with love to create the miraculous seventh moonlit night!⏎$npc:11003139$ says confessing your love to someone is the shortcut to calling forth a miracle of love...⏎Why not confess your love directly to people in Maple World and become the star of a miracle?⏎Today, confess your love to $npc:11000617$ in $map:02000118$.
 80010196--	complete	$map:02000118$의 $npc:11000617$에게 사랑 고백하기	Confess your love to $npc:11000617$ in $map:02000118$
@@ -2546,8 +2388,6 @@
 89010171--	name	도움 요청 혹은 초보 모험가와 던전 클리어 2회	Request Help or Clear Dungeons 2 Times with a Beginner Adventurer
 89010171--	manual	* 던전도움요청 기능을 사용하면 더 쉽게 달성할 수 있습니다.⏎⏎초보자와 숙련자가 함께 던전 클리어 2회	* This can be completed more easily by using the Dungeon Help Request feature.⏎⏎Clear dungeons with a novice and an expert 2 times
 89010171--	complete	* 던전도움요청 기능을 사용하면 더 쉽게 달성할 수 있습니다.⏎⏎초보자와 숙련자가 함께 던전 클리어 2회	* This can be completed more easily by using the Dungeon Help Request feature.⏎⏎Clear dungeons with a novice and an expert 2 times
-89010173--	manual	집 장식도 300점 달성	Raise Decoration Score
-89010173--	complete	집 장식도 300점 달성	Raise Decoration Score
 89010177--	name	UGC 1회 제작	Create UGC 1 Time
 89010177--	manual	UGC 1회 제작	Create UGC 1 time
 89010177--	complete	UGC 1회 제작	Create UGC 1 time
@@ -2575,8 +2415,6 @@
 89010201--	name	도움 요청으로 던전 클리어 1회	Clear a Dungeon 1 Time Through a Help Request
 89010201--	manual	* 던전도움요청 기능을 사용하면 더 쉽게 달성할 수 있습니다.⏎⏎도움 요청으로 던전 클리어 1회	* This can be completed more easily by using the Dungeon Help Request feature.⏎⏎Clear a dungeon through a help request 1 time
 89010201--	complete	* 던전도움요청 기능을 사용하면 더 쉽게 달성할 수 있습니다.⏎⏎도움 요청으로 던전 클리어 1회	* This can be completed more easily by using the Dungeon Help Request feature.⏎⏎Clear a dungeon through a help request 1 time
-89010203--	manual	집 장식도 100점 달성	Raise Decoration Score
-89010203--	complete	집 장식도 100점 달성	Raise Decoration Score
 89010207--	name	UGC 1회 제작	Create UGC 1 Time
 89010207--	manual	UGC 1회 제작	Create UGC 1 time
 89010207--	complete	UGC 1회 제작	Create UGC 1 time
@@ -2763,8 +2601,6 @@
 89010372-Event-CN	name	100분간 연주하기	Perform for 100 Minutes
 89010372-Event-CN	manual	악기 연주 100분간 하기	Play an instrument for 100 minutes
 89010372-Event-CN	complete	악기 연주 100분간 하기	Play an instrument for 100 minutes
-89010374-Event-CN	manual	* MC케이 이벤트는 매시간 5분, 35분에 참여할 수 있습니다.⏎⏎MC케이 이벤트 10회 참여하기	* The MC Kay event can be joined at 5 and 35 minutes past each hour.⏎⏎Participate in the MC Kay event 10 times
-89010374-Event-CN	complete	* MC케이 이벤트는 매시간 5분, 35분에 참여할 수 있습니다.⏎⏎MC케이 이벤트 10회 참여하기	* The MC Kay event can be joined at 5 and 35 minutes past each hour.⏎⏎Participate in the MC Kay event 10 times
 89010375-Event-CN	name	길드 퀘스트 3회 완료하기	Complete 3 Guild Quests
 89010375-Event-CN	manual	* 길드 퀘스트는 길드 하우스에 있는 길드 사무장 슈엔지로부터 수락 가능합니다.⏎* 길드 일일 퀘스트는 길드에 가입한 지 하루가 지나야 수락 가능합니다.⏎* 길드 주간 퀘스트는 길드에 가입한 지 일주일이 지나야 수락 가능합니다.⏎* 일일 퀘스트와 주간 퀘스트 모두 퀘스트 목표 달성 횟수에 포함됩니다.⏎⏎길드 퀘스트 3회 완료	* Guild quests can be accepted from Guild Manager Shuengji in the Guild House.⏎* Daily guild quests can only be accepted after you have been in the guild for one day.⏎* Weekly guild quests can only be accepted after you have been in the guild for one week.⏎* Both daily and weekly quests count toward the quest objective completion count.⏎⏎Complete 3 guild quests
 89010375-Event-CN	complete	* 길드 퀘스트는 길드 하우스에 있는 길드 사무장 슈엔지로부터 수락 가능합니다.⏎* 길드 일일 퀘스트는 길드에 가입한 지 하루가 지나야 수락 가능합니다.⏎* 길드 주간 퀘스트는 길드에 가입한 지 일주일이 지나야 수락 가능합니다.⏎* 일일 퀘스트와 주간 퀘스트 모두 퀘스트 목표 달성 횟수에 포함됩니다.⏎⏎길드 퀘스트 3회 완료	* Guild quests can be accepted from Guild Manager Shuengji in the Guild House.⏎* Daily guild quests can only be accepted after you have been in the guild for one day.⏎* Weekly guild quests can only be accepted after you have been in the guild for one week.⏎* Both daily and weekly quests count toward the quest objective completion count.⏎⏎Complete 3 guild quests
