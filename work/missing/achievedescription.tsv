@@ -212,7 +212,6 @@
 23400047--CN	complete	지금까지 $item:20301889$ {0}회 사용	Used $item:20301889$ {0} times so far
 23400049--CN	desc	$item:20302181$ {0}회 사용하기	Use $item:20302181$ {0} times
 23400049--CN	complete	지금까지 $item:20302181$ {0}회 사용	Used $item:20302181$ {0} times so far
-23400050--KR	desc	$item:20001150$ {0}회 획득하기	Obtain $item:20001150$ {0} times
 23400050--KR	complete	지금까지 $item:20001150$ {0}회 획득	Obtained $item:20001150$ {0} times so far
 23400051--CN	desc	$item:20001294$ {0}회 획득하기	Obtain $item:20001294$ {0} times
 23400051--CN	complete	지금까지 $item:20001294$ {0}회 획득	Obtained $item:20001294$ {0} times so far
@@ -222,10 +221,6 @@
 23400054--CN	complete	지금까지 $item:20302590$ {0}회 사용	Used $item:20302590$ {0} times so far
 23400055--CN	desc	$item:20302816$ {0}회 사용하기	Use $item:20302816$ {0} times
 23400055--CN	complete	지금까지 $item:20302816$ {0}회 사용	Used $item:20302816$ {0} times so far
-23400056-MassiveHideAndSeek-KR	desc	숨바꼭질에 {0}회 참여하기	Participate in hide-and-seek {0} times
-23400056-MassiveHideAndSeek-KR	complete	숨바꼭질에 {0}회 참여	Participated in hide-and-seek {0} times
-23400057-MassiveHideAndSeek-KR	desc	숨바꼭질에서 {0}회 우승하기	Win hide-and-seek {0} times
-23400057-MassiveHideAndSeek-KR	complete	숨바꼭질에서 {0}회 우승	Won hide-and-seek {0} times
 23400058-Event-CN	desc	$item:20001769$ {0}회 획득하기	Obtain $item:20001769$ {0} times
 23400058-Event-CN	complete	지금까지 $item:20001769$ {0}회 획득	Obtained $item:20001769$ {0} times so far
 23500006-Season1-KR	desc	메이드 연금도구를 내 집에 설치해보기	Install maid alchemy tools in your house

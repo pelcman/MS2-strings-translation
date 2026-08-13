@@ -386,7 +386,6 @@
 89010092--	name	초보자와 숙련자가 함께 던전 클리어 5회	Clear Dungeons 5 Times with Beginners and Veterans Together
 89010092--	manual	* 던전도움요청 기능을 사용하면 더 쉽게 달성할 수 있습니다.⏎⏎초보자와 숙련자가 함께 던전 클리어 5회	* Using the Dungeon Help Request feature makes this easier to achieve.⏎⏎Clear dungeons 5 times with beginners and veterans together
 89010092--	complete	* 던전도움요청 기능을 사용하면 더 쉽게 달성할 수 있습니다.⏎⏎초보자와 숙련자가 함께 던전 클리어 5회	* Using the Dungeon Help Request feature makes this easier to achieve.⏎⏎Clear dungeons 5 times with beginners and veterans together
-89010093--	name	30레벨 달성	Reach Level 30
 89010093--	manual	30레벨 달성	Reach level 30
 89010093--	complete	30레벨 달성	Reach level 30
 89010094--	name	탐험 목표 30개 달성	Complete 30 Exploration Goals
@@ -461,7 +460,6 @@
 89010118--	name	탈 것타고 1000m 달리기	Ride a Mount and Run 1,000m
 89010118--	manual	탈 것타고 1000m 달리기	Ride a mount and run 1,000m
 89010118--	complete	탈 것타고 1000m 달리기	Ride a mount and run 1,000m
-89020001--	name	10레벨 달성 하기	Reach Level 10
 89020001--	manual	10레벨 달성 하기	Reach Level 10
 89020001--	complete	10레벨 달성 하기	Reach Level 10
 89020002--	name	모험[일반/어려움] 보너스 상자 1개 획득하기	Complete today's Navigator mission 1 times
@@ -473,7 +471,6 @@
 89020004--	name	5명 친구 추가 하기	Add 5 friends
 89020004--	manual	5명 친구 추가 하기	Add 5 friends
 89020004--	complete	5명 친구 추가 하기	Add 5 friends
-89020006--	name	20레벨 달성 하기	Reach Level 20
 89020006--	manual	20레벨 달성 하기	Reach Level 20
 89020006--	complete	20레벨 달성 하기	Reach Level 20
 89020007--	name	모험[일반/어려움] 보너스 상자 2개 획득하기	Complete today's Navigator mission 3 times
@@ -488,7 +485,6 @@
 89020010--	name	MC케이 이벤트 5회 참여	Participate in MC Kay's Event 5 times
 89020010--	manual	MC케이 이벤트 5회 참여	Participate in MC Kay's Event 5 times
 89020010--	complete	MC케이 이벤트 5회 참여	Participate in MC Kay's Event 5 times
-89020011--	name	메이플 가이드 퀘스트 1개 완료	Reach Level 30
 89020011--	manual	메이플 가이드 퀘스트 1개 완료	Reach Level 30
 89020011--	complete	메이플 가이드 퀘스트 1개 완료	Reach Level 30
 89020012--	name	모험[일반/어려움] 보너스 상자 3개 획득하기	Complete today's Navigator mission 5 times
@@ -503,7 +499,6 @@
 89020015--	name	$map:02000001$에서 5분 머무르기	Stay in $map:02000001$ for 5 minutes
 89020015--	manual	$map:02000001$에서 5분 머무르기	Stay in $map:02000001$ for 5 minutes
 89020015--	complete	$map:02000001$에서 5분 머무르기	Stay in $map:02000001$ for 5 minutes
-89020016--	name	40레벨 달성	Reach Level 35
 89020016--	manual	40레벨 달성	Reach Level 35
 89020016--	complete	40레벨 달성	Reach Level 35
 89020017--	name	모험[일반/어려움] 보너스 상자 4개 획득하기	Complete today's Navigator mission 7 times
@@ -518,7 +513,6 @@
 89020020--	name	3곡 연주하기	Perform 3 songs at Queenstown
 89020020--	manual	3곡 연주하기	Perform 3 songs at Queenstown
 89020020--	complete	3곡 연주하기	Perform 3 songs at Queenstown
-89020021--	name	50레벨 달성	Reach Level 40
 89020021--	manual	40레벨 달성	Reach Level 40
 89020021--	complete	40레벨 달성	Reach Level 40
 89020022--	name	모험[일반/어려움] 보너스 상자 5개 획득하기	Complete today's Navigator mission 9 times
@@ -533,7 +527,6 @@
 89020025--	name	나무보물상자 10회 열기	Open a wooden treasure chest 10 times
 89020025--	manual	나무보물상자 10회 열기	Open a wooden treasure chest 10 times
 89020025--	complete	나무보물상자 10회 열기	Open a wooden treasure chest 10 times
-89020026--	name	모험레벨 2레벨 달성	Reach Level 45
 89020026--	manual	모험레벨 2레벨 달성	Reach Level 45
 89020026--	complete	모험레벨 2레벨 달성	Reach Level 45
 89020027--	name	모험[일반/어려움] 보너스 상자 6개 획득하기	Complete today's Navigator mission 11 times
@@ -548,7 +541,6 @@
 89020030--	name	추가 옵션 1회 변경하기	Obtain random dungeon bonuses 12 times
 89020030--	manual	추가 옵션 1회 변경	Obtain random dungeon bonuses 12 times
 89020030--	complete	추가 옵션 1회 변경	Obtain random dungeon bonuses 12 times
-89020031--	name	모험[어려움] 던전 보스 5회 처치	Reach Level 50
 89020031--	manual	모험[어려움] 던전 보스 5회 처치	Reach Level 50
 89020031--	complete	모험[어려움] 던전 보스 5회 처치	Reach Level 50
 89020032--	name	다크스트림 5라운드 클리어	Complete today's Navigator mission 13 times
@@ -873,7 +865,6 @@
 80000079--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000032$
 80000080--	name	튼튼하게 만나요	Meeting Strong
 80000080--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 1주년 특집 기사를 본 $npc:11001002$$pp:는,은$ 지난 1년간의 추억을 떠올리며 사람들을 만나고 다녀 보자고 제안한다. ⏎사람을 만날 때 자전거를 타고 다니고 싶지만 실력이 부족해 자전거 타기 연습을 하려고 홈쇼핑에서 $item:50400098$를 구매했다는 $npc:11001002$. 하지만 실내 운동 기구로는 자전거 타기 연습을 할 수 없을 거라는 오빠 $npc:11001003$의 말에 시무룩한 모습이다. $item:50400098$를 탑승해 보고, 자전거 연습에 이용할 수 있을지 후기를 들려 주자.	After reading Maple Daily's 1st anniversary special feature on notable people of Maple World, $npc:11001002$ suggests going out to meet people while reminiscing about the past year.⏎$npc:11001002$ wanted to ride a bicycle when meeting people but lacked the skill, so she bought $item:50400098$ from home shopping to practice. But her brother $npc:11001003$ says she can't practice cycling on indoor exercise equipment, making her sulk. Let's try riding $item:50400098$ and give her a review on whether it can be used for cycling practice.
-80000080--	manual	$item:50400098$ 이용하기	Use $item:50400098$
 80000080--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000032$
 80000081--	name	가볍게 만나요	Meeting Light
 80000081--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 1주년 특집 기사를 본 $npc:11001002$$pp:는,은$ 지난 1년간의 추억을 떠올리며 사람들을 만나고 다녀 보자고 제안한다. ⏎사람을 만날 때 눈 앞의 상대에게 집중하려면 가벼운 몸과 마음이 되어야 한다고 생각한다는 $npc:11001002$. $item:50400054$는 그런 의미에서 최고의 파트너라고 말하는데… 그녀의 말이 사실인지, $item:50400054$를 직접 이용해 보자.	After reading Maple Daily's 1st anniversary special feature on notable people of Maple World, $npc:11001002$ suggests going out to meet people while reminiscing about the past year.⏎$npc:11001002$ thinks you need a light body and mind to focus on the person in front of you. She says $item:50400054$ is the perfect partner in that regard... Let's try using $item:50400054$ to see if she's right.
@@ -1249,7 +1240,6 @@
 80000205--	complete	$map:02000064$이나, $map:63000049$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000049$
 80000206--	name	새마음 새 뜻으로 뛰어보자!	Run with a Fresh Start!
 80000206--	desc	새해를 맞아 $item:50400096$$pp:를,을$ 이용해 신나게 달려보자!	Celebrate the new year by running excitedly using $item:50400096$!
-80000206--	manual	$item:50400096$ 이용하기	Use $item:50400096$
 80000206--	complete	$map:02000064$이나, $map:63000049$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000049$
 80000208--	name	반짝반짝 구리광석!	Shiny Copper Ore!
 80000208--	desc	새해를 맞아 구리 광맥에서 $item:33000001$$pp:를,을$ 채광하여 획득해보자!	Celebrate the new year by mining $item:33000001$ from copper veins!
@@ -1281,11 +1271,9 @@
 80000214--	complete	$map:02000064$이나, $map:63000049$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000049$
 80000215--	name	닭 깃털 옷감이 부족해!	Not Enough Chicken Feather Fabric!
 80000215--	desc	새해를 맞아 $item:33000026$$pp:를,을$ 사용해 $item:33000076$$pp:를,을$ 만들어보자!	Celebrate the new year by using $item:33000026$ to craft $item:33000076$!
-80000215--	manual	$item:33000076$ 획득하기	Obtain $item:33000076$
 80000215--	complete	$map:02000064$이나, $map:63000049$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000049$
 80000216--	name	구리 주괴가 부족해!	Not Enough Copper Ingots!
 80000216--	desc	새해를 맞아 $item:33000001$$pp:를,을$ 사용해 $item:33000063$$pp:를,을$ 만들어보자!	Celebrate the new year by using $item:33000001$ to craft $item:33000063$!
-80000216--	manual	$item:33000063$ 획득하기	Obtain $item:33000063$
 80000216--	complete	$map:02000064$이나, $map:63000049$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000049$
 80000217--	name	새해에도 신나게 달려보자!	Let's Run Excitedly in the New Year!
 80000217--	desc	새해를 맞아 신나게 달려보자!	Celebrate the new year with an exciting run!
@@ -1340,7 +1328,6 @@
 80000237--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
 80000238--	name	오늘도 건강하게!	Stay Healthy Today!
 80000238--	desc	$item:50400096$$pp:를,을$ 이용해 신나게 달려보자!	Run excitedly using $item:50400096$!
-80000238--	manual	$item:50400096$ 이용하기	Use $item:50400096$
 80000238--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
 80000240--	name	반짝반짝 구리광석!	Shiny Copper Ore!
 80000240--	desc	구리 광맥에서 $item:33000001$$pp:를,을$ 채광하여 획득해보자!	Mine $item:33000001$ from copper veins!
@@ -1372,11 +1359,9 @@
 80000246--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
 80000247--	name	닭 깃털 옷감이 부족해!	Not Enough Chicken Feather Fabric!
 80000247--	desc	$item:33000026$$pp:를,을$ 사용해 $item:33000076$$pp:를,을$ 만들어보자!	Use $item:33000026$ to craft $item:33000076$!
-80000247--	manual	$item:33000076$ 획득하기	Obtain $item:33000076$
 80000247--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
 80000248--	name	구리 주괴가 부족해!	Not Enough Copper Ingots!
 80000248--	desc	$item:33000001$$pp:를,을$ 사용해 $item:33000063$$pp:를,을$ 만들어보자!	Use $item:33000001$ to craft $item:33000063$!
-80000248--	manual	$item:33000063$ 획득하기	Obtain $item:33000063$
 80000248--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
 80000249--	name	오늘도 신나게 달려보자!	Let's Run Excitedly Today!
 80000249--	desc	신나게 달려보자!	Let's run with excitement!
@@ -1552,7 +1537,6 @@
 80000306--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000032$
 80000307--	name	튼튼하게 만나요	Let's Meet Fit and Strong
 80000307--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. ⏎사람을 만날 때 자전거를 타고 다니고 싶지만 실력이 부족해 자전거 타기 연습을 하려고 홈쇼핑에서 $item:50400098$를 구매했다는 $npc:11001002$. 하지만 실내 운동 기구로는 자전거 타기 연습을 할 수 없을 거라는 오빠 $npc:11001003$의 말에 시무룩한 모습이다. $item:50400098$를 탑승해 보고, 자전거 연습에 이용할 수 있을지 후기를 들려 주자.	After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.⏎$npc:11001002$ wanted to ride a bicycle when meeting people but lacked the skill, so she bought $item:50400098$ from home shopping to practice. However, she looks dejected after her brother $npc:11001003$ said you can't practice cycling on an indoor exercise machine. Try riding $item:50400098$ and share your review on whether it can be used for bicycle practice.
-80000307--	manual	$item:50400098$ 이용하기	Use $item:50400098$
 80000307--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000032$
 80000308--	name	가볍게 만나요	Let's Meet Light and Easy
 80000308--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. ⏎사람을 만날 때 눈 앞의 상대에게 집중하려면 가벼운 몸과 마음이 되어야 한다고 생각한다는 $npc:11001002$. $item:50400054$는 그런 의미에서 최고의 파트너라고 말하는데… 그녀의 말이 사실인지, $item:50400054$를 직접 이용해 보자.	After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.⏎$npc:11001002$ believes you need a light body and mind to focus on the person in front of you. She says $item:50400054$ is the best partner for that purpose... Let's try using $item:50400054$ to see if she's right.
@@ -1965,7 +1949,6 @@
 89000002--	name	아이템점수	Gear Score
 89000002--	manual	아이템 점수 7000점 달성하기	Reach a gear score of 7000
 89000002--	complete	아이템 점수 7000점 달성하기	Reach a gear score of 7000
-89000003--	name	전문연주가	Master Musician
 89000003--	manual	전문연주가 달성하기	Achieve Master Musician
 89000003--	complete	전문연주가 달성하기	Achieve Master Musician
 89000004--	name	전문낚시꾼	Master Fisherman
@@ -1974,7 +1957,6 @@
 89000006--	name	응원하기	Cheer
 89000006--	manual	퀸즈타운에서 응원하기	Cheer in Queenstown
 89000006--	complete	퀸즈타운에서 응원하기	Cheer in Queenstown
-89000007--	name	길드하우스	Guild House
 89000007--	manual	길드하우스 방문하기	Visit a Guild House
 89000007--	complete	길드하우스 방문하기	Visit a Guild House
 89000008--	name	장식도	Decoration Score
@@ -2020,7 +2002,6 @@
 89000028--	name	강화	Enhancement
 89000028--	manual	강화 9단계 달성	Reach enhancement level 9
 89000028--	complete	강화 9단계 달성	Reach enhancement level 9
-89000029--	name	종이비행기	Paper Airplane
 89000029--	manual	$item:40400008$ 가져보기	Obtain $item:40400008$
 89000029--	complete	$item:40400008$ 가져보기	Obtain $item:40400008$
 89000281--	name	오늘의 미션 10회 완료	Complete 10 Daily Missions
@@ -2129,7 +2110,6 @@
 89000066--	name	두둥실 날아보기	Floating Flight
 89000066--	manual	비행 탈것 타고 1000m 비행하기	Fly 1000m on a flying mount
 89000066--	complete	비행 탈것 타고 1000m 비행하기	Fly 1000m on a flying mount
-89000067--	name	벽 타고 이동하기	Wall Climbing
 89000067--	manual	벽 타고 500m 이동하기	Travel 500m by wall climbing
 89000067--	complete	벽 타고 500m 이동하기	Travel 500m by wall climbing
 89000068--	name	인사	Greeting
@@ -2201,7 +2181,6 @@
 89000095--	name	두둥실 날아보기	Floating Flight
 89000095--	manual	비행 탈것 타고 1000m 비행하기	Fly 1000m on a flying mount
 89000095--	complete	비행 탈것 타고 1000m 비행하기	Fly 1000m on a flying mount
-89000096--	name	벽 타고 이동하기	Wall Climbing
 89000096--	manual	벽 타고 500m 이동하기	Travel 500m by wall climbing
 89000096--	complete	벽 타고 500m 이동하기	Travel 500m by wall climbing
 89000097--	name	몬스터 99마리 처치	Defeat 99 Monsters
@@ -2583,7 +2562,6 @@
 80020091--NA	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npcName:11001002$ in $map:02000064$
 80020092--NA	name	행운잡이 미션	New Year's Celebrations
 80020092--NA	desc	2019년을 맞이해 활기 넘치는 메이플 월드를 만들어보자는 $npc:11001002$가 주는 미션을 수행 후, $npcName:11001002$에게 돌아오면 새해 맞이 행운이 가득 담긴 $item:20302275$$pp:를,을$ 주겠다고 하는데…⏎메이플 월드에서 $npc:11001002$가 주는 행운잡이 미션을 완료해보자!	$npcName:11001002$ wants to ring in the new year with a bang! Complete her mission in return for a $item:20302275$.
-80020092--NA	manual	물고기 잡기	Catch fish
 80020092--NA	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npcName:11001002$ in $map:02000064$
 80020093--NA	name	행운잡이 미션	New Year's Celebrations
 80020093--NA	desc	2019년을 맞이해 활기 넘치는 메이플 월드를 만들어보자는 $npc:11001002$가 주는 미션을 수행 후, $npcName:11001002$에게 돌아오면 새해 맞이 행운이 가득 담긴 $item:20302275$$pp:를,을$ 주겠다고 하는데…⏎메이플 월드에서 $npc:11001002$가 주는 행운잡이 미션을 완료해보자!	$npcName:11001002$ wants to ring in the new year with a bang! Complete her mission in return for a $item:20302275$.
@@ -2804,7 +2782,6 @@
 89040003--	name	다른 사람에게 친구 요청하기	Send a friend request
 89040003--	manual	다른 사람에게 친구 요청하기	Send a friend request
 89040003--	complete	다른 사람에게 친구 요청하기	Send a friend request
-89040005--	name	20레벨 달성	Reach Level 20
 89040005--	manual	20레벨 달성	Reach Level 20
 89040005--	complete	20레벨 달성	Reach Level 20
 89040006--	name	MC 케이 이벤트 5회 참여	Participate in 5 MC Kay games
@@ -2813,17 +2790,13 @@
 89040008--	name	모험 던전 보스 3회 처치	Defeat 3 normal adventure dungeon bosses
 89040008--	manual	모험 던전 보스 3회 처치	Defeat 3 normal adventure dungeon bosses
 89040008--	complete	모험 던전 보스 3회 처치	Defeat 3 normal adventure dungeon bosses
-89040009--	name	길드 가입하기	Join a guild
 89040009--	manual	길드 가입하기	Join a guild
 89040009--	complete	길드 가입하기	Join a guild
-89040010--	name	30레벨 달성	Reach Level 30
 89040010--	manual	30레벨 달성	Reach Level 30
 89040010--	complete	30레벨 달성	Reach Level 30
 89040011--	name	나무 보물상자 30회 열기	Open 30 wooden treasures
 89040011--	manual	나무 보물상자 30회 열기	Open 30 wooden treasures
 89040011--	complete	나무 보물상자 30회 열기	Open 30 wooden treasures
-89040012--	name	필드보스 1회 처치하기	Defeat 1 world boss
-89040012--	manual	필드보스 1회 처치하기	Defeat 1 world boss
 89040012--	complete	필드보스 1회 처치하기	Defeat 1 world boss
 89040013--	name	UGC 1개 디자인	Design 1 UGC outfit
 89040013--	manual	UGC 1개 디자인	Design 1 UGC outfit
@@ -2831,7 +2804,6 @@
 89040014--	name	트라이아에서 3곡 연주	Perform 3 songs in Tria
 89040014--	manual	트라이아에서 3곡 연주	Perform 3 songs in Tria
 89040014--	complete	트라이아에서 3곡 연주	Perform 3 songs in Tria
-89040015--	name	35레벨 달성	Reach Level 35
 89040015--	manual	35레벨 달성	Reach Level 35
 89040015--	complete	35레벨 달성	Reach Level 35
 89040016--	name	게임 장비 아이템을 10개 분해하기	Dismantle 10 pieces of gear
@@ -2846,7 +2818,6 @@
 89040019--	name	월드 퀘스트 '불길한 물방울' 완료	Complete the world quest "$quest:20001640$"
 89040019--	manual	월드 퀘스트 '불길한 물방울' 완료	Complete the world quest "$quest:20001640$"
 89040019--	complete	월드 퀘스트 '불길한 물방울' 완료	Complete the world quest "$quest:20001640$"
-89040020--	name	40레벨 달성	Reach Level 40
 89040020--	manual	40레벨 달성	Reach Level 40
 89040020--	complete	40레벨 달성	Reach Level 40
 89040021--	name	길드 퀘스트 1회 완료	Complete 1 guild quest
@@ -2861,7 +2832,6 @@
 89040024--	name	황금 보물 상자 10회 열기	Open 10 golden treasure chests
 89040024--	manual	황금 보물 상자 10회 열기	Open 10 golden treasure chests
 89040024--	complete	황금 보물 상자 10회 열기	Open 10 golden treasure chests
-89040025--	name	45레벨 달성	Reach Level 45
 89040025--	manual	45레벨 달성	Reach Level 45
 89040025--	complete	45레벨 달성	Reach Level 45
 89040026--	name	$dungeonTitle:29004001$ 1회 클리어	Clear $dungeonTitle:29004001$ 1 time
@@ -2876,7 +2846,6 @@
 89040029--	name	$item:30000869$ 획득하기	Obtain $item:30000869$
 89040029--	manual	$item:30000869$ 획득하기	Obtain $item:30000869$
 89040029--	complete	$item:30000869$ 획득하기	Obtain $item:30000869$
-89040030--	name	50레벨 달성	Reach Level 50
 89040030--	manual	50레벨 달성	Reach Level 50
 89040030--	complete	50레벨 달성	Reach Level 50
 89040031--	name	펫 1회 포획하기	Capture 1 pet
@@ -2912,7 +2881,6 @@
 89050007--	name	필드 보스 4회 처치	Defeat World Bosses
 89050007--	manual	필드 보스 4회 처치	Defeat 4 world bosses
 89050007--	complete	필드 보스 4회 처치	Defeat 4 world bosses
-89050008--	name	[일일] 트릭 오어 트릿 1회 완료	Trick or Treat
 89050008--	manual	[일일] 트릭 오어 트릿 1회 완료하기	Complete the daily quest "Trick or Treat!" 1 time
 89050008--	complete	[일일] 트릭 오어 트릿 1회 완료하기	Complete the daily quest "Trick or Treat!" 1 time
 89050009--	name	[일일] 트릭 오어 트릿 3회 완료	Trick or Treat II
@@ -2945,7 +2913,6 @@
 89050020-Event-NA	name	함선 세력 퀘스트 10개 완료 (주간 퀘스트 포함)	Sky Fortress Missions
 89050020-Event-NA	manual	함선 세력 퀘스트 10개 완료 (주간 퀘스트 포함)	Complete Sky Fortress missions
 89050020-Event-NA	complete	함선 세력 퀘스트 10개 완료 (주간 퀘스트 포함)	Complete Sky Fortress missions
-89050021-Event-NA	name	메이플 아케이드 10회 참여	Maple Arcade
 89050021-Event-NA	manual	메이플 아케이드 10회 참여	Play Maple Arcade
 89050021-Event-NA	complete	메이플 아케이드 10회 참여	Play Maple Arcade
 89050022-Event-NA	name	모험[일반/어려움] 보너스 상자 10개 획득	Adventure Bonus Boxes
@@ -2976,10 +2943,8 @@
 89050030-Event-NA	manual	MC케이 이벤트 4회 참여	Play MC Kay's minigames
 89050030-Event-NA	complete	MC케이 이벤트 4회 참여	Play MC Kay's minigames
 89050031-Event-NA	name	몬스터 1111마리 처치	Defeat Enemies
-89050031-Event-NA	manual	몬스터 1111마리 처치	Defeat enemies
 89050031-Event-NA	complete	몬스터 1111마리 처치	Defeat enemies
 89050032-Event-NA	name	낚시로 물고기 200마리 낚기	Go Fishing
-89050032-Event-NA	manual	낚시로 물고기 200마리 낚기	Catch fish
 89050032-Event-NA	complete	낚시로 물고기 200마리 낚기	Catch fish
 89050033-Event-NA	name	신비한 운석 나무에서 '대지의 조각' 10개 획득	Earth Fragment Harvest
 89050033-Event-NA	manual	신비한 운석 나무에서 '대지의 조각' 10개 획득	Get Earth Fragments from Mysterious Meteorite Trees
@@ -2988,7 +2953,6 @@
 89050034-Event-NA	manual	송이버섯 더미에서 $item:33000121$ 30개 획득	Pick $itemPlural:33000121$
 89050034-Event-NA	complete	송이버섯 더미에서 $item:33000121$ 30개 획득	Pick $itemPlural:33000121$
 89050035-Event-NA	name	다른 친구들과 1회 합주하기	Ensemble Performance
-89050035-Event-NA	manual	다른 친구들과 1회 합주하기	Perform with friends
 89050035-Event-NA	complete	다른 친구들과 1회 합주하기	Perform with friends
 89050036-Event-NA	name	동아리 1개 가입해보기	Club Activities
 89050036-Event-NA	manual	동아리 1개 가입해보기	Join a club
@@ -2999,11 +2963,9 @@
 89050038-Event-NA	name	황금 보물 상자 10개 찾기	Golden Treasures
 89050038-Event-NA	manual	황금 보물 상자 10개 찾기	Find Golden Treasure Chests
 89050038-Event-NA	complete	황금 보물 상자 10개 찾기	Find Golden Treasure Chests
-89050039-Event-NA	name	$dungeonTitle:25008001$에 도전하여 5라운드 통과하기	$dungeonTitle:25008001$
 89050039-Event-NA	manual	$dungeonTitle:25008001$에 도전하여 5라운드 통과하기	Clear round 5 in $dungeonTitle:25008001$
 89050039-Event-NA	complete	$dungeonTitle:25008001$에 도전하여 5라운드 통과하기	Clear round 5 in $dungeonTitle:25008001$
 89050040-Event-NA	name	빙하집 내려찍어 몬스터 10회 공격하기	Igloo Attack
-89050040-Event-NA	manual	빙하집 내려찍어 몬스터 10회 공격하기	Attack with an igloo
 89050040-Event-NA	complete	빙하집 내려찍어 몬스터 10회 공격하기	Attack with an igloo
 89050041-Event-NA	name	$map:51000001$에서 1라운드 통과하기	$map:51000001$
 89050041-Event-NA	manual	$map:51000001$에서 1라운드 통과하기	Complete a round of $map:51000001$
@@ -3014,8 +2976,6 @@
 89050043-Event-NA	name	다른 사람 집에서 재배물 10회 수확	Harvest Tour
 89050043-Event-NA	manual	다른 사람 집에서 재배물 10회 수확	Harvest in someone else's home
 89050043-Event-NA	complete	다른 사람 집에서 재배물 10회 수확	Harvest in someone else's home
-89050044-Event-NA	name	인챈트 2회 성공하기	Enchant
-89050044-Event-NA	manual	인챈트 2회 성공하기	Enchant items
 89050044-Event-NA	complete	인챈트 2회 성공하기	Enchant items
 89050045-Event-NA	name	$map:02000064$에서 '안녕'으로 10회 인사하기	Hello $map:02000064$
 89050045-Event-NA	manual	$map:02000064$에서 '안녕'으로 10회 인사하기	Use the Greet emote in $map:02000064$
@@ -3026,16 +2986,13 @@
 89050047-Event-NA	name	택시 8회 이용	Taxi Ride
 89050047-Event-NA	manual	택시 8회 이용	Ride taxis
 89050047-Event-NA	complete	택시 8회 이용	Ride taxis
-89050048-Event-NA	name	쉐도우월드 비틀린 공간의 틈 1회 입장	Twisted Pocket Realm
 89050048-Event-NA	manual	쉐도우월드 비틀린 공간의 틈 1회 입장	Enter the Twisted Pocket Realm
 89050048-Event-NA	complete	쉐도우월드 비틀린 공간의 틈 1회 입장	Enter the Twisted Pocket Realm
-89050049-Event-NA	name	기어서 100m 이동하기	Crawl
 89050049-Event-NA	manual	기어서 100m 이동하기	Crawl 100 m
 89050049-Event-NA	complete	기어서 100m 이동하기	Crawl 100 m
 89050050-Event-NA	name	함선 세력 퀘스트 5개 완료 (주간 퀘스트 포함)	Sky Fortress Missions
 89050050-Event-NA	manual	함선 세력 퀘스트 5개 완료 (주간 퀘스트 포함)	Complete Sky Fortress missions
 89050050-Event-NA	complete	함선 세력 퀘스트 5개 완료 (주간 퀘스트 포함)	Complete Sky Fortress missions
-89050051-Event-NA	name	메이플 아케이드 8회 참여	Maple Arcade
 89050051-Event-NA	manual	메이플 아케이드 8회 참여	Play Maple Arcade
 89050051-Event-NA	complete	메이플 아케이드 8회 참여	Play Maple Arcade
 89050052-Event-NA	name	모험[일반/어려움] 보너스 상자 8개 획득	Adventure Bonus Boxes
@@ -3066,10 +3023,8 @@
 89050060-Event-NA	manual	MC케이 이벤트 3회 참여	Play MC Kay's minigames
 89050060-Event-NA	complete	MC케이 이벤트 3회 참여	Play MC Kay's minigames
 89050061-Event-NA	name	몬스터 111마리 처치	Defeat Enemies
-89050061-Event-NA	manual	몬스터 111마리 처치	Defeat enemies
 89050061-Event-NA	complete	몬스터 111마리 처치	Defeat enemies
 89050062-Event-NA	name	낚시로 물고기 100마리 낚기	Go Fishing
-89050062-Event-NA	manual	낚시로 물고기 100마리 낚기	Catch fish
 89050062-Event-NA	complete	낚시로 물고기 100마리 낚기	Catch fish
 89050063-Event-NA	name	신비한 운석 나무에서 '대지의 조각' 10개 획득	Earth Fragment Harvest
 89050063-Event-NA	manual	신비한 운석 나무에서 '대지의 조각' 10개 획득	Get Earth Fragments from Mysterious Meteorite Trees
@@ -3078,7 +3033,6 @@
 89050064-Event-NA	manual	사과나무에서 $item:33000119$ 30개 획득	Get $itemPlural:33000119$ from Apple Trees
 89050064-Event-NA	complete	사과나무에서 $item:33000119$ 30개 획득	Get $itemPlural:33000119$ from Apple Trees
 89050065-Event-NA	name	다른 친구들과 1회 합주하기	Ensemble Performance
-89050065-Event-NA	manual	다른 친구들과 1회 합주하기	Perform with friends
 89050065-Event-NA	complete	다른 친구들과 1회 합주하기	Perform with friends
 89050066-Event-NA	name	동아리 1개 가입해보기	Club Activities
 89050066-Event-NA	manual	동아리 1개 가입해보기	Join a club
@@ -3089,11 +3043,9 @@
 89050068-Event-NA	name	황금 보물 상자 5개 찾기	Golden Treasures
 89050068-Event-NA	manual	황금 보물 상자 5개 찾기	Find Golden Treasure Chests
 89050068-Event-NA	complete	황금 보물 상자 5개 찾기	Find Golden Treasure Chests
-89050069-Event-NA	name	$dungeonTitle:25004001$ 1회 클리어	$dungeonTitle:25004001$
 89050069-Event-NA	manual	$dungeonTitle:25004001$ 1회 클리어	Clear $dungeonTitle:25004001$
 89050069-Event-NA	complete	$dungeonTitle:25004001$ 1회 클리어	Clear $dungeonTitle:25004001$
 89050070-Event-NA	name	타이어 굴려 몬스터 10회 공격하기	Tire Attack
-89050070-Event-NA	manual	타이어 굴려 몬스터 10회 공격하기	Attack with a rolling tire
 89050070-Event-NA	complete	타이어 굴려 몬스터 10회 공격하기	Attack with a rolling tire
 89050071-Event-NA	name	$map:51000001$에서 1라운드 통과하기	$map:51000001$
 89050071-Event-NA	manual	$map:51000001$에서 1라운드 통과하기	Complete a round of $map:51000001$
@@ -3104,8 +3056,6 @@
 89050073-Event-NA	name	다른 사람 집에서 축산물 5회 수확	Ranching Tour
 89050073-Event-NA	manual	다른 사람 집에서 축산물 5회 수확	Ranch in someone else's home
 89050073-Event-NA	complete	다른 사람 집에서 축산물 5회 수확	Ranch in someone else's home
-89050074-Event-NA	name	인챈트 2회 성공하기	Enchant
-89050074-Event-NA	manual	인챈트 2회 성공하기	Enchant items
 89050074-Event-NA	complete	인챈트 2회 성공하기	Enchant items
 89050075-Event-NA	name	$map:02000064$에서 '안녕'으로 5회 인사하기	Hello $map:02000064$
 89050075-Event-NA	manual	$map:02000064$에서 '안녕'으로 5회 인사하기	Use the Greet emote in $map:02000064$
@@ -3117,7 +3067,6 @@
 89050077-Event-NA	manual	택시 5회 이용	Ride taxis
 89050077-Event-NA	complete	택시 5회 이용	Ride taxis
 89050078-Event-NA	name	쉐도우월드 1회 방문	Land of Darkness
-89050078-Event-NA	manual	쉐도우월드 1회 방문	Visit the Land of Darkness
 89050078-Event-NA	complete	쉐도우월드 1회 방문	Visit the Land of Darkness
 89050079-Event-NA	name	수영으로 1000m 헤엄치기	Swim
 89050079-Event-NA	manual	수영으로 1000m 헤엄치기	Swim
@@ -3125,7 +3074,6 @@
 89050080-Event-NA	name	펫 포획 5마리	Pet Taming
 89050080-Event-NA	manual	펫 포획 5마리	Tame pets
 89050080-Event-NA	complete	펫 포획 5마리	Tame pets
-89050081-Event-NA	name	메이플 아케이드 5회 참여	Maple Arcade
 89050081-Event-NA	manual	메이플 아케이드 5회 참여	Play Maple Arcade
 89050081-Event-NA	complete	메이플 아케이드 5회 참여	Play Maple Arcade
 89050082-Event-NA	name	모험[일반/어려움] 보너스 상자 5개 획득	Adventure Bonus Boxes
@@ -3156,10 +3104,8 @@
 89050090-Event-NA	manual	MC케이 이벤트 2회 참여	Play MC Kay's minigames
 89050090-Event-NA	complete	MC케이 이벤트 2회 참여	Play MC Kay's minigames
 89050091-Event-NA	name	몬스터 11마리 처치	Defeat Enemies
-89050091-Event-NA	manual	몬스터 11마리 처치	Defeat enemies
 89050091-Event-NA	complete	몬스터 11마리 처치	Defeat enemies
 89050092-Event-NA	name	낚시로 물고기 50마리 낚기	Go Fishing
-89050092-Event-NA	manual	낚시로 물고기 50마리 낚기	Catch fish
 89050092-Event-NA	complete	낚시로 물고기 50마리 낚기	Catch fish
 89050093-Event-NA	name	신비한 운석 나무에서 '대지의 조각' 10개 획득	Earth Fragment Harvest
 89050093-Event-NA	manual	신비한 운석 나무에서 '대지의 조각' 10개 획득	Get Earth Fragments from Mysterious Meteorite Trees
@@ -3168,7 +3114,6 @@
 89050094-Event-NA	manual	호박밭에서 $item:33000120$ 30개 획득	Pick $itemPlural:33000120$
 89050094-Event-NA	complete	호박밭에서 $item:33000120$ 30개 획득	Pick $itemPlural:33000120$
 89050095-Event-NA	name	다른 친구들과 1회 합주하기	Ensemble Performance
-89050095-Event-NA	manual	다른 친구들과 1회 합주하기	Perform with friends
 89050095-Event-NA	complete	다른 친구들과 1회 합주하기	Perform with friends
 89050096-Event-NA	name	동아리 1개 가입해보기	Club Activities
 89050096-Event-NA	manual	동아리 1개 가입해보기	Join a club
@@ -3179,7 +3124,6 @@
 89050098-Event-NA	name	황금 보물 상자 3개 찾기	Golden Treasures
 89050098-Event-NA	manual	황금 보물 상자 3개 찾기	Find Golden Treasure Chests
 89050098-Event-NA	complete	황금 보물 상자 3개 찾기	Find Golden Treasure Chests
-89050099-Event-NA	name	$dungeonTitle:21001001$ 1회 클리어	$dungeonTitle:21001001$
 89050099-Event-NA	manual	$dungeonTitle:21001001$ 1회 클리어	Clear $dungeonTitle:21001001$
 89050099-Event-NA	complete	$dungeonTitle:21001001$ 1회 클리어	Clear $dungeonTitle:21001001$
 89050101-Event-NA	name	$map:51000001$에서 1라운드 통과하기	$map:51000001$
@@ -3188,7 +3132,6 @@
 89050102-Event-NA	name	UGC 1회 제작	UGC Creation
 89050102-Event-NA	manual	UGC 1회 제작	Create a UGC item
 89050102-Event-NA	complete	UGC 1회 제작	Create a UGC item
-89050103-Event-NA	name	다른 사람 집 1회 방문하기	House Visit
 89050103-Event-NA	manual	다른 사람 집 1회 방문하기	Visit another player's house
 89050103-Event-NA	complete	다른 사람 집 1회 방문하기	Visit another player's house
 89050105-Event-NA	name	$map:02000064$에서 '안녕'으로 3회 인사하기	Hello $map:02000064$
@@ -3204,7 +3147,6 @@
 89050108-Event-NA	manual	망원경으로 풍경 감상하기	Enjoy the scenery through binoculars
 89050108-Event-NA	complete	망원경으로 풍경 감상하기	Enjoy the scenery through binoculars
 89050109-Event-NA	name	탈 것타고 1000m 달리기	Ride Mount
-89050109-Event-NA	manual	탈 것타고 1000m 달리기	Ride a mount
 89050109-Event-NA	complete	탈 것타고 1000m 달리기	Ride a mount
 89050110-Event-NA	name	$map:63000089$에서 /안녕 30번 하기	Use /hello to greet in $map:63000089$ 30 times
 89050110-Event-NA	manual	$map:63000089$에서 /안녕 30번 하기	Use /hello to greet in $map:63000089$ 30 times
@@ -3326,8 +3268,6 @@
 89050149-Event-NA	name	다른 사람 집에서 재배물 3회 수확하기	Harvest 3 times in someone's home
 89050149-Event-NA	manual	다른 사람 집에서 재배물 3회 수확하기	Harvest 3 times in someone's home
 89050149-Event-NA	complete	다른 사람 집에서 재배물 3회 수확하기	Harvest 3 times in someone's home
-89050150-Event-NA	name	아이템 1개 분해하기	Dismantle 1 item
-89050150-Event-NA	manual	아이템 1개 분해하기	Dismantle 1 item
 89050150-Event-NA	complete	아이템 1개 분해하기	Dismantle 1 item
 89050151-Event-NA	name	MC케이 이벤트 1회 참여하기	Play 1 MC Kay's minigame
 89050151-Event-NA	manual	MC케이 이벤트 1회 참여하기	Play 1 MC Kay's minigame
@@ -5279,7 +5219,6 @@
 89010177--	name	UGC 1회 제작	Create UGC 1 Time
 89010177--	manual	UGC 1회 제작	Create UGC 1 time
 89010177--	complete	UGC 1회 제작	Create UGC 1 time
-89010178--	name	쉐도우월드 비틀린 공간의 틈 1회 입장	Enter the Twisted Pocket Realm
 89010178--	manual	쉐도우월드 비틀린 공간의 틈에 입장	Enter the Twisted Space Gap in the Shadow World
 89010178--	complete	쉐도우월드 비틀린 공간의 틈에 입장	Enter the Twisted Space Gap in the Shadow World
 89010179--	name	다른 사람 집에 가서 축산물 수확하기 5회	Harvest Livestock Products at Someone Else's House 5 Times
@@ -5367,7 +5306,6 @@
 89010207--	manual	UGC 1회 제작	Create UGC 1 time
 89010207--	complete	UGC 1회 제작	Create UGC 1 time
 89010208--	name	쉐도우월드 1회 방문	Visit the Land of Darkness
-89010208--	manual	쉐도우월드 1회 방문	Visit the Land of Darkness
 89010208--	complete	쉐도우월드 1회 방문	Visit the Land of Darkness
 89010300--	name	향긋한 쑥 월병 10회 사용하기	Use Fragrant Mugwort Mooncakes 10 times
 89010300--	manual	향긋한 쑥 월병 10회 사용하기	Use Fragrant Mugwort Mooncakes 10 times

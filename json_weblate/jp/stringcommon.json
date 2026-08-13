@@ -19539,5 +19539,14 @@
   },
   "s_personal_infomaion_agreement_visit_myhome_btn_private--": {
     "value": "非公開"
+  },
+  "s_tooltip_gamemenu_gallery--NA": {
+    "value": "<FONT color='#FFD200' size='15' >シュヴァンダのクリスマスギャラリー{0}</FONT>\\n<FONT size='3'></FONT>\\nシュヴァンダのクリスマスギャラリーイベントのメニューを確認することができます。"
+  },
+  "s_mesoMarket_sale_per_price-MesoMarket-NA": {
+    "value": "価格"
+  },
+  "s_delete_account_terms_step_end_game_button--": {
+    "value": "ゲーム終了"
   }
 }

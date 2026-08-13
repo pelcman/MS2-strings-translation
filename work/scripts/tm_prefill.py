@@ -18,51 +18,67 @@ SKIP = {"npc", "type", "class", "regionID", "grade", "comment", "commnet", "isTu
 
 
 def build_index():
-    """全ファイルの (フィールド名, KO原文) -> JA訳 索引"""
+    """全ファイルの (フィールド名, KO原文) -> JA訳 索引と、(フィールド名, EN原文) -> JA訳 索引。
+    同じアイテム・台詞が別キー(他リージョン版など)で翻訳済みのことが多く、
+    KO が一致しなくても EN が一致すれば同一物と判定できるケースが多い。"""
     idx = {}
+    en_idx = {}
     for p in sorted(glob.glob(os.path.join(ROOT, "json_weblate", "jp", "*.json"))):
         fn = os.path.basename(p)[:-5]
         kp = os.path.join(ROOT, "json_weblate", "ko", fn + ".json")
         if not os.path.exists(kp):
             continue
+        ep = os.path.join(ROOT, "json_weblate", "en", fn + ".json")
         jp = json.load(open(p, encoding="utf-8"))
         ko = json.load(open(kp, encoding="utf-8"))
+        en = json.load(open(ep, encoding="utf-8")) if os.path.exists(ep) else {}
         for k, e in jp.items():
-            ke = ko.get(k)
-            if not isinstance(e, dict) or not isinstance(ke, dict):
+            ke, ee = ko.get(k), en.get(k)
+            if not isinstance(e, dict):
                 continue
             for f, v in e.items():
-                kv = ke.get(f)
                 if f in SKIP or f.endswith("Kor"):
                     continue
-                if not isinstance(v, str) or not isinstance(kv, str):
+                if not isinstance(v, str) or not v.strip() or PH.match(v.strip()):
                     continue
-                if not v.strip() or not kv.strip() or PH.match(v.strip()):
-                    continue
-                if not HAN.search(kv) or HAN.search(v):
-                    continue          # KO に実体があり JA にハングルが残っていないもののみ
-                idx.setdefault((f, kv), v)
-    return idx
+                if HAN.search(v):
+                    continue          # JA にハングルが残っているものは採用しない
+                kv = ke.get(f) if isinstance(ke, dict) else None
+                if isinstance(kv, str) and kv.strip() and HAN.search(kv):
+                    idx.setdefault((f, kv), v)
+                ev = ee.get(f) if isinstance(ee, dict) else None
+                if isinstance(ev, str) and ev.strip() and not PH.match(ev.strip()) and len(ev) > 2:
+                    en_idx.setdefault((f, ev), v)
+    return idx, en_idx
 
 
 fn = sys.argv[1]
-idx = build_index()
-print("翻訳メモリ索引: %d 件" % len(idx))
+idx, en_idx = build_index()
+print("翻訳メモリ索引: KO %d 件 / EN %d 件" % (len(idx), len(en_idx)))
 
 src = os.path.join(MIS, fn + ".tsv")
 rows = [l.rstrip("\n").split("\t") for l in open(src, encoding="utf-8") if l.strip()]
 
 hit, rest = [], []
+n_ko = n_en = 0
 for r in rows:
     if len(r) < 3:
         rest.append(r)
         continue
     key, field, kv = r[0], r[1], r[2].replace("⏎", "\n")
+    ev = r[3].replace("⏎", "\n") if len(r) > 3 else ""
     ja = idx.get((field, kv))
+    if ja:
+        n_ko += 1
+    elif ev:
+        ja = en_idx.get((field, ev))
+        if ja:
+            n_en += 1
     if ja:
         hit.append("%s\t%s\t%s" % (key, field, ja.replace("\n", "⏎")))
     else:
         rest.append(r)
+print("  内訳: KO一致 %d / EN一致 %d" % (n_ko, n_en))
 
 with open(os.path.join(MIS, fn + ".ja.auto.tsv"), "w", encoding="utf-8", newline="\n") as fh:
     fh.write("\n".join(hit) + ("\n" if hit else ""))

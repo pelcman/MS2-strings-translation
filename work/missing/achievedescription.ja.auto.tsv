@@ -1,8 +1,5 @@
-92000127--	desc	$map:61000022$に{0}回参加する
-92000127--	complete	$map:61000022$に{0}回参加する
-92000144-Event-CN	desc	桜の木に水を100回与える
-92000144-Event-CN	complete	桜の木に水を100回与える
-92000149-Event-KR	desc	$map:02000064$の釜に$item:30001431$を100回投げる
-92000149-Event-KR	complete	$map:02000064$の釜に$item:30001431$を100回投げる
-92000153-Event-CN	desc	$map:61000022$に{0}回参加する
-92000153-Event-CN	complete	$map:61000022$に{0}回参加する
+23400050--KR	desc	$item:20001150$を{0}回獲得する
+23400056-MassiveHideAndSeek-KR	desc	かくれんぼに{0}回参加する
+23400056-MassiveHideAndSeek-KR	complete	かくれんぼに{0}回参加する
+23400057-MassiveHideAndSeek-KR	desc	かくれんぼで{0}回優勝する
+23400057-MassiveHideAndSeek-KR	complete	かくれんぼで{0}回優勝する
