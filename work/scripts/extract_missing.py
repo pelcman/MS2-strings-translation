@@ -37,8 +37,15 @@ for k, e in ko.items():
         ev = en.get(k, {}).get(f) if isinstance(en.get(k), dict) else ""
         rows.append((k, f, v, ev if isinstance(ev, str) else ""))
 
+def flat(s):
+    """TSV の1行に収めるため、改行・復帰・タブをすべて記号化する。
+    原文に生の \\r が混ざっているデータがあり(koritemdescription 3件・scriptquest 1件)、
+    正規化しないと1レコードが複数の物理行に割れて後続処理が壊れる。"""
+    return s.replace("\r\n", "⏎").replace("\r", "⏎").replace("\n", "⏎").replace("\t", " ")
+
+
 p = os.path.join(OUT, fn + ".tsv")
 with open(p, "w", encoding="utf-8", newline="\n") as fh:
     for k, f, kv, ev in rows:
-        fh.write("%s\t%s\t%s\t%s\n" % (k, f, kv.replace("\n", "⏎"), ev.replace("\n", "⏎")))
+        fh.write("%s\t%s\t%s\t%s\n" % (k, f, flat(kv), flat(ev)))
 print("%s: %d 行 (キー %d 個)" % (p, len(rows), len({r[0] for r in rows})))

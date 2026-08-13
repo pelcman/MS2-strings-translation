@@ -34,21 +34,6 @@
 80010015--	desc	$npc:11003471$의 수수께끼!⏎그 주인공을 찾아가서 인사를 나누자!	$npc:11003471$'s riddle!⏎Go find the subject of the riddle and say hello!
 80010015--	manual	$map:02000064$에서 $npc:11000172$$pp:와,과$ 대화하기	Speak with $npcName:11000172$ in $map:02000064$
 80010015--	complete	$map:02000001$에서 $npc:11003471$$pp:와,과$ 대화하기	Speak with $npcName:11003471$ in $map:02000001$
-80010016--	name	식물형 몬스터 정보 모으기	Gather information on plant monsters
-80010016--	desc	몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 식물형 몬스터를 처치하여 정보를 모아주자.	Let's defeat plant monsters and gather information on them to help fulfill $npc:11003471$'s dream of creating a monster compendium.
-80010016--	complete	$map:02000001$에서 $npc:11003471$$pp:와,과$ 대화하기	Speak with $npcName:11003471$ in $map:02000001$
-80010017--	name	야수형 몬스터 정보 모으기	Gather information on beast monsters
-80010017--	desc	몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 야수형 몬스터를 처치하여 정보를 모아주자.	Let's defeat beast monsters and gather information on them to help fulfill $npc:11003471$'s dream of creating a monster compendium.
-80010017--	complete	$map:02000001$에서 $npc:11003471$$pp:와,과$ 대화하기	Speak with $npcName:11003471$ in $map:02000001$
-80010018--	name	요정형 몬스터 정보 모으기	Gather information on fairy monsters
-80010018--	desc	몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 요정형 몬스터를 처치하여 정보를 모아주자.	Let's defeat fairfolk monsters and gather information on them to help fulfill $npc:11003471$'s dream of creating a monster compendium.
-80010018--	complete	$map:02000001$에서 $npc:11003471$$pp:와,과$ 대화하기	Speak with $npcName:11003471$ in $map:02000001$
-80010019--	name	인간형 몬스터 정보 모으기	Gather information on humanoid foes
-80010019--	desc	몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 인간형 몬스터를 처치하여 정보를 모아주자.	Let's defeat humanoid monsters and gather information on them to help fulfill $npc:11003471$'s dream of creating a monster compendium.
-80010019--	complete	$map:02000001$에서 $npc:11003471$$pp:와,과$ 대화하기	Speak with $npcName:11003471$ in $map:02000001$
-80010020--	name	정령형 몬스터 정보 모으기	Gather information on spirit monsters
-80010020--	desc	몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 정령형 몬스터를 처치하여 정보를 모아주자.	Let's defeat spirit monsters and gather information on them to help fulfill $npc:11003471$'s dream of creating a monster compendium.
-80010020--	complete	$map:02000001$에서 $npc:11003471$$pp:와,과$ 대화하기	Speak with $npcName:11003471$ in $map:02000001$
 80010021--	name	신나게 달려보자!	Run like the Wind!
 80010021--	desc	$npc:11003471$의 취향을 공유하는 또 하나의 방법!⏎시원한 바람을 느끼며, 신나게 달려보자! 	Another way to share $npc:11003471$'s tastes!⏎Let's run without a care and enjoy the cool, refreshing wind! 
 80010021--	manual	300m 달리기	Run 300 m
@@ -113,21 +98,6 @@
 80010045--	desc	$npc:11003471$의 수수께끼!⏎그 주인공을 찾아가서 인사를 나누자!	$npc:11003471$'s riddle!⏎Find the person and go say hello!
 80010045--	manual	$map:02000064$에서 $npc:11000172$$pp:와,과$ 대화하기	Speak with $npc:11000172$ at $map:02000064$
 80010045--	complete	$map:02000001$에서 $npc:11003471$$pp:와,과$ 대화하기	Speak with $npc:11003471$ at $map:02000001$
-80010046--	name	식물형 몬스터 정보 모으기	Gathering Info on Plant-Type Monsters
-80010046--	desc	몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 식물형 몬스터를 처치하여 정보를 모아주자.	Defeat plant-type monsters and gather information for $npc:11003471$, who dreams of creating a monster encyclopedia.
-80010046--	complete	$map:02000001$에서 $npc:11003471$$pp:와,과$ 대화하기	Speak with $npc:11003471$ at $map:02000001$
-80010047--	name	야수형 몬스터 정보 모으기	Gathering Info on Beast-Type Monsters
-80010047--	desc	몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 야수형 몬스터를 처치하여 정보를 모아주자.	Defeat beast-type monsters and gather information for $npc:11003471$, who dreams of creating a monster encyclopedia.
-80010047--	complete	$map:02000001$에서 $npc:11003471$$pp:와,과$ 대화하기	Speak with $npc:11003471$ at $map:02000001$
-80010048--	name	요정형 몬스터 정보 모으기	Gathering Info on Fairy-Type Monsters
-80010048--	desc	몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 요정형 몬스터를 처치하여 정보를 모아주자.	Defeat fairy-type monsters and gather information for $npc:11003471$, who dreams of creating a monster encyclopedia.
-80010048--	complete	$map:02000001$에서 $npc:11003471$$pp:와,과$ 대화하기	Speak with $npc:11003471$ at $map:02000001$
-80010049--	name	인간형 몬스터 정보 모으기	Gathering Info on Humanoid-Type Monsters
-80010049--	desc	몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 인간형 몬스터를 처치하여 정보를 모아주자.	Defeat humanoid-type monsters and gather information for $npc:11003471$, who dreams of creating a monster encyclopedia.
-80010049--	complete	$map:02000001$에서 $npc:11003471$$pp:와,과$ 대화하기	Speak with $npc:11003471$ at $map:02000001$
-80010050--	name	정령형 몬스터 정보 모으기	Gathering Info on Spirit-Type Monsters
-80010050--	desc	몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 정령형 몬스터를 처치하여 정보를 모아주자.	Defeat spirit-type monsters and gather information for $npc:11003471$, who dreams of creating a monster encyclopedia.
-80010050--	complete	$map:02000001$에서 $npc:11003471$$pp:와,과$ 대화하기	Speak with $npc:11003471$ at $map:02000001$
 80010051--	name	신나게 달려보자!	Let's Run Excitedly!
 80010051--	desc	$npc:11003471$의 취향을 공유하는 또 하나의 방법!⏎시원한 바람을 느끼며, 신나게 달려보자! 	Another way to share $npc:11003471$'s interests!⏎Feel the cool breeze and run excitedly! 
 80010051--	manual	300m 달리기	Run 300m
@@ -269,7 +239,6 @@
 89010042--	name	펫 합성 1회	Fuse Pets 1 Time
 89010042--	manual	펫 합성 1회	Fuse pets 1 time
 89010042--	complete	펫 합성 1회	Fuse pets 1 time
-89010043--	complete	젬스톤 업그레이드 1회 성공하기	Successfully upgrade a gemstone 1 time
 89010044--	name	낚시로 물고기 200마리 낚기	Catch 200 Fish by Fishing
 89010044--	manual	낚시로 물고기 200마리 낚기	Catch 200 fish by fishing
 89010044--	complete	낚시로 물고기 200마리 낚기	Catch 200 fish by fishing
@@ -423,8 +392,6 @@
 89010094--	name	탐험 목표 30개 달성	Complete 30 Exploration Goals
 89010094--	manual	* 현재까지 달성한 탐험 목표는 월드맵에서 확인 가능합니다.⏎⏎탐험 목표 30개 달성	* Your current exploration progress can be checked on the World Map.⏎⏎Complete 30 exploration goals
 89010094--	complete	* 현재까지 달성한 탐험 목표는 월드맵에서 확인 가능합니다.⏎⏎탐험 목표 30개 달성	* Your current exploration progress can be checked on the World Map.⏎⏎Complete 30 exploration goals
-89010095--	manual	공략이 필요한 필드 보스:⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ ⏎⏎필드 보스 1회 처치하기	Field bosses to defeat:⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$,⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$,⏎$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$⏎⏎Defeat a field boss 1 time
-89010095--	complete	공략이 필요한 필드 보스:⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ ⏎⏎필드 보스 1회 처치하기	Field bosses to defeat:⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$,⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$,⏎$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$⏎⏎Defeat a field boss 1 time
 89010096--	name	APP 출석 1일 완료	Complete 1 Day of APP Attendance
 89010096--	manual	APP 출석 1일 완료	Complete 1 day of APP attendance
 89010096--	complete	APP 출석 1일 완료	Complete 1 day of APP attendance
@@ -494,8 +461,6 @@
 89010118--	name	탈 것타고 1000m 달리기	Ride a Mount and Run 1,000m
 89010118--	manual	탈 것타고 1000m 달리기	Ride a mount and run 1,000m
 89010118--	complete	탈 것타고 1000m 달리기	Ride a mount and run 1,000m
-89010119--	manual	다른 사람 집 방문하기	Visit another person's house
-89010119--	complete	다른 사람 집 방문하기	Visit another person's house
 89020001--	name	10레벨 달성 하기	Reach Level 10
 89020001--	manual	10레벨 달성 하기	Reach Level 10
 89020001--	complete	10레벨 달성 하기	Reach Level 10
@@ -508,8 +473,6 @@
 89020004--	name	5명 친구 추가 하기	Add 5 friends
 89020004--	manual	5명 친구 추가 하기	Add 5 friends
 89020004--	complete	5명 친구 추가 하기	Add 5 friends
-89020005--	manual	다른 사람 집 방문하기	Visit another player's house
-89020005--	complete	다른 사람 집 방문하기	Visit another player's house
 89020006--	name	20레벨 달성 하기	Reach Level 20
 89020006--	manual	20레벨 달성 하기	Reach Level 20
 89020006--	complete	20레벨 달성 하기	Reach Level 20
@@ -660,7 +623,6 @@
 89030020--	name	황금 보물 상자 10개 찾기	Find 10 Golden Treasure Chests
 89030020--	manual	필드에서 황금 보물 상자를 찾아 열어보기	Find and open golden treasure chests in the field
 89030020--	complete	필드에서 황금 보물 상자를 찾아 열어보기	Find and open golden treasure chests in the field
-89030021--	complete	부서지는 물건 10개 부수기	Break 10 destructible objects
 89030022--	name	필드 보스 5회 처치	Defeat Field Bosses 5 Times
 89030022--	manual	공략이 필요한 필드 보스:⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ ⏎⏎필드 보스 5회 처치하기	Field bosses to defeat:⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$,⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$,⏎$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$⏎⏎Defeat field bosses 5 times
 89030022--	complete	공략이 필요한 필드 보스:⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ ⏎⏎필드 보스 5회 처치하기	Field bosses to defeat:⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$,⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$,⏎$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$⏎⏎Defeat field bosses 5 times
@@ -692,9 +654,6 @@
 80000001--	desc	매일 접속 시 획득할 수 있는 $item:20300133$$pp:는,은$ $item:30000512$로 열어볼 수 있다고 한다. $item:30000512$$pp:가,이$ 부족하다면 필드에 등장하는 엘리트 몬스터를 처치해보라고 $npc:11001484$$pp:는,은$ 귀띔해주었다. 그뿐만 아니라 그녀는 $item:20300133$$pp:를,을$ 50번이나 열어본 이에게 줄 특별한 선물도 마련해 놓았다고 한다. 그러니 어서 상자를 열어보도록 하자.	$item:20300133$, which can be obtained daily upon login, can be opened with $item:30000512$. $npc:11001484$ hinted that if you're short on $item:30000512$, you should try defeating elite monsters that appear in fields. Not only that, she has also prepared a special gift for anyone who opens $item:20300133$ 50 times. So let's hurry and open some boxes.
 80000001--	manual	$item:30000512$로 $item:20300133$ 열기	Open $item:20300133$ with $item:30000512$
 80000001--	complete	$map:02000064$에서 $npc:11001484$$pp:와,과$ 대화하기	Speak with $npc:11001484$ at $map:02000064$
-80000002--	desc	발렌타인 데이를 기념하여 $npc:11000508$$pp:가,이$ 달콤한 초콜릿을 준비했다고 한다. $npc:11000508$$pp:를,을$ 찾아가보자.	In celebration of Valentine's Day, $npc:11000508$ has prepared some sweet chocolate. Let's go visit $npc:11000508$.
-80000002--	manual	$npc:11000508$$pp:를,을$ 찾아가기	Visit $npc:11000508$
-80000002--	complete	$npc:11000508$$pp:를,을$ 찾아가기	Visit $npc:11000508$
 80000003--	name	열어라 오색주머니	Open the Five-Color Pouch
 80000003--	desc	오색주머니를 모아서 30개 사용하자. 오색주머니는 매일 접속 시 3개씩 얻을 수 있으며, 설 연휴 기간에는 퀘스트를 통해서 추가로 얻을 수 있다.	Collect and use 30 Five-Color Pouches. You can receive 3 per day upon login, and additional ones can be earned through quests during the Lunar New Year holiday.
 80000003--	manual	$item:20300144$$pp:를,을$ 사용하기	Use $item:20300144$
@@ -727,16 +686,10 @@
 80000022--	desc	강아지의 귀여운 핑크색 발바닥으로 사람들에게 매력을 어필하기 위해서는 함께 폴짝폴짝 점프를 하는 것이 최고라고 말하는 $npc:11001002$. ⏎그녀의 제안대로, 산뜻한 마음으로 폴짝폴짝 점프를 해보자.	$npc:11001002$ says that the best way to show off a puppy's cute pink paw pads is to bounce and jump together.⏎As she suggests, let's jump with a fresh heart.
 80000022--	manual	50번 점프하기	Jump 50 times
 80000022--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000023--	name	동물과 교감하는 방법	How to Bond with Animals
-80000023--	desc	어떻게 하면 동물과 친해질 수 있을지 방법을 잘 모르겠다면, 잘 훈련되어 사람과 친한 동물을 만나보는 것이 도움이 될 거라고 한다. 내 집이나 남의 집에 설치된 $item:50400004$에 사는 고양이 칼리를 만나 함께 놀며 교감해 보자.	If you're not sure how to get close to animals, meeting a well-trained animal that's friendly with people would help. Visit Callie the cat living in a $item:50400004$ placed at your house or someone else's, and bond together through play.
-80000023--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
 80000024--	name	동물과 즐겁게 노는 방법	How to Have Fun with Animals
 80000024--	desc	동물과 어떻게 놀아주어야 할지 방법을 잘 모르겠다면, 사람과 잘 놀고 있는 동물을 만나보는 것이 도움이 될 거라고 한다. 내 집이나 남의 집에 설치된 $item:50400118$를 능숙하게 타며 놀고 있는 원숭이와 함께 놀며 교감해 보자.	If you're not sure how to play with animals, meeting one that's having fun with people would help. Bond with the monkey skillfully playing on a $item:50400118$ placed at your house or someone else's by riding the seesaw together.
 80000024--	manual	$item:50400118$에서 원숭이와 시소 타기	Ride the seesaw with the monkey at $item:50400118$
 80000024--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000025--	name	사람 많은 곳에서의 적응 훈련	Adaptation Training in Crowded Places
-80000025--	desc	강아지는 사람 많은 곳에 가면 적응을 못 하고 어려움을 느끼는 경우가 있다고 한다. 그럴수록 천천히 익숙해질 수 있도록 도와주어야 한다고 하는데…⏎MC $npc:11000787$$pp:가,이$ 이벤트 현장에는 사람이 많이 모여 적응 훈련을 하기 좋을 것 같다. 하지만 어린 강아지에게는 버거울 수 있다는 의견도 있다고 한다.⏎$map:61000001$, $map:61000002$, $map:61000007$,$map:61000006$, $map:61000004$, $map:61000003$, $map:61000008$ 중 한 군데에 직접 가서 어린 강아지의 적응 훈련을 진행해도 될지 확인해 보자.	Dogs can have trouble adapting to crowded places. When that happens, you need to help them get used to it slowly...⏎MC $npc:11000787$'s event venues gather lots of people, which would be great for adaptation training. However, some say it might be too much for a young puppy.⏎Visit one of $map:61000001$, $map:61000002$, $map:61000007$, $map:61000006$, $map:61000004$, $map:61000003$, or $map:61000008$ to check if it's suitable for the young puppy's adaptation training.
-80000025--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
 80000026--	name	강아지는 바다를 좋아해	Puppies Love the Sea
 80000026--	desc	요즘 강아지들이 $map:51000003$$pp:를,을$ 아주 좋아한다고 한다. 하지만 이유는 알 수 없다고 하는데… ⏎직접 방문해 보고, $npc:11001002$의 궁금증을 풀어 주자.	Puppies seem to really love $map:51000003$ these days. But no one knows why...⏎Let's visit in person and solve $npc:11001002$'s curiosity.
 80000026--	manual	$map:51000003$에서 게임 1번 해보기	Play a game once in $map:51000003$
@@ -745,9 +698,6 @@
 80000027--	desc	요즘 강아지들이 $map:51000001$$pp:를,을$ 아주 좋아한다고 한다. 하지만 이유는 알 수 없다고 하는데… ⏎직접 방문해 보고, $npc:11001002$의 궁금증을 풀어 주자.	Puppies seem to really love $map:51000001$ these days. But no one knows why...⏎Let's visit in person and solve $npc:11001002$'s curiosity.
 80000027--	manual	$map:51000001$에서 게임 1번 해보기	Play a game once in $map:51000001$
 80000027--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000028--	name	함께하면 좋은 낚시	Fishing Is Better Together
-80000028--	desc	퀸즈 동물 사랑 협회 사람들은 강아지와 함께 낚시를 즐긴다고 한다. 함께 시간을 보내며 놀 수 있는 것은 물론, 보호소에 있는 다른 동물들의 먹이를 마련할 수도 있기 때문이라고 하는데…⏎좋은 취지의 활동인 만큼 함께 참여해 보면 좋을 것 같다. 낚시를 해보자.	People at the Queen's Animal Love Association enjoy fishing with their dogs. Not only can they spend time together, but they can also provide food for other animals at the shelter...⏎Since it's for a good cause, let's participate. Let's go fishing.
-80000028--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
 80000029--	name	동물을 위한 치유의 멜로디	A Healing Melody for Animals
 80000029--	desc	사람들이 그렇듯, 동물들 역시 음악을 좋아한다고 한다. 음악은 언어를 초월해 세상의 모든 생명을 치유하는 힘을 가졌기 때문이 아닐까? ⏎동물들을 위해 아름다운 음악을 연주해 보자.	Just like people, animals also love music. Perhaps because music has the power to transcend language and heal all living things in the world?⏎Let's play beautiful music for the animals.
 80000029--	manual	120초 동안 악기 연주하기	Play an instrument for 120 seconds
@@ -759,11 +709,6 @@
 80000031--	name	요정의 낙원	Fairy Paradise
 80000031--	desc	한때 $map:02000023$ 요정들의 낙원이라 불렸던 아름다운 정원…⏎그곳에 심상찮은 일이 벌어지고 있다며 도움을 요청하는 $npcName:11000033$의 전갈을 받았다.⏎$map:02000180$$pp2:로,으로$ 가 보자.	A beautiful garden once called the paradise of $map:02000023$ fairies...⏎You've received word from $npcName:11000033$ requesting help with something unusual happening there.⏎Let's head to $map:02000180$.
 80000031--	complete	$map:02000023$의 $map:02000180$ 찾아가기⏎	Find $map:02000180$ of $map:02000023$⏎
-80000032--	name	돌풍의 소용돌이	Whirlwind Vortex
-80000032--	desc	$map:02000180$$pp:를,을$ 휩쓸고 다니는 소용돌이 돌풍의 배후 $npc:22000007$!!⏎녀석을 처치하고 돌풍을 잠재우자!	$npc:22000007$, the one behind the whirlwind vortexes sweeping through $map:02000180$!!⏎Let's defeat it and calm the gusts!
-80000032--	complete	$map:02000180$에서 $npcName:11000996$ 만나기	Meet $npcName:11000996$ in $map:02000180$
-80000033--	name	귀환의 길	Path of Return
-80000033--	desc	$map:02000001$에서 $npc:11000119$$pp:가,이$ 급히 찾고 있다는 소식을 전달 받았다. 무슨 일일까? ⏎$map:02000001$$pp2:로,으로$ 돌아가자.	Word has come that $npc:11000119$ is urgently looking for you at $map:02000001$. What could it be?⏎Let's head back to $map:02000001$.
 80000034--	name	구조 신호	Distress Signal
 80000034--	desc	후… 정신없이 바쁜데… ⏎저기 $map:02000231$에서 긴급 구조 신호가 왔다는데… ⏎무슨 일인지 가서 알아보고 해결 좀 해줬으면 해.	Phew... I'm swamped right now...⏎An emergency distress signal came from $map:02000231$...⏎Go find out what's going on and take care of it.
 80000034--	complete	$map:02000231$에서 $npc:11001068$ 만나기	Meet $npc:11001068$ at $map:02000231$
@@ -771,8 +716,6 @@
 80000035--	desc	관객들과 약속한 공연을 앞두고 무대 주변에서 날뛰는 몬스터들 때문에 곤란을 겪고 있다는 밴드!⏎관객들이 마음 놓고 안전하게 공연을 즐길 수 있도록 $map:02000231$의 몬스터들을 처치하자!	A band is having trouble with monsters rampaging near the stage ahead of their promised performance for the audience!⏎Let's defeat the monsters in $map:02000231$ so the audience can safely enjoy the show!
 80000035--	manual	$map:02000231$에서 몬스터 처치하기	Defeat monsters in $map:02000231$
 80000035--	complete	$map:02000231$에서 $npc:11001068$ 만나기	Meet $npc:11001068$ at $map:02000231$
-80000036--	name	임무 완수	Mission Complete
-80000036--	desc	$map:02000153$에서 서둘러 복귀하라는 소식이 전달됐다.⏎$map:02000153$$pp2:로,으로$ 돌아가서 $npc:11000215$$pp:를,을$ 만나보자.	Word has come from $map:02000153$ to return immediately.⏎Let's go back to $map:02000153$ and meet $npc:11000215$.
 80000037--	name	사라지는 시간	Disappearing Time
 80000037--	desc	$map:02000262$에서 시간을 주워먹는 녀석들이 있다는 제보가 들어왔다.⏎$map:02000262$$pp2:로,으로$ 가서 무슨 일인지 자세히 알아보자.	Reports have come in that there are creatures eating time in $map:02000262$.⏎Let's go to $map:02000262$ and find out what's happening.
 80000037--	complete	$map:02000262$에서 $npcName:11000783$ 만나기	Meet $npcName:11000783$ in $map:02000262$
@@ -780,8 +723,6 @@
 80000038--	desc	$map:02000262$의 $npcName:11000783$$pp:는,은$ 이곳에 살고 있는 몬스터들이 시간을 먹어버려서 여자친구 코린과 자신이 어른이 되지 못하고 어린 아이에서 멈춰 있다며, 빨리 멈춰버린 시간이 흘러갈 수 있도록 몬스터들을 처치해 달라고 부탁했다.	$npcName:11000783$ in $map:02000262$ says that the monsters living here have been eating time, causing him and his girlfriend Corin to be stuck as children, unable to grow up. He asks you to defeat the monsters so that their frozen time can flow again.
 80000038--	manual	$map:02000262$의 몬스터 처치하기	Defeat the monsters of $map:02000262$
 80000038--	complete	$map:02000262$에서 $npcName:11000783$ 만나기	Meet $npcName:11000783$ in $map:02000262$
-80000039--	name	돌아갈 시간	Time to Return
-80000039--	desc	$map:02000076$$pp2:로,으로$ 돌아가서 $npc:11000015$에게 $map:02000262$의 상황을 보고하자.	Let's return to $map:02000076$ and report the situation in $map:02000262$ to $npc:11000015$.
 80000040--	name	왕궁의 품격	Royal Elegance
 80000040--	desc	바비와 함께하는 '그곳에 가고 싶다' 이벤트! ⏎축복과 영광의 도시, $map:02000001$$pp:를,을$ 방문해보자.	The 'I Want to Go There' event with Barbie!⏎Visit $map:02000001$, the city of blessings and glory.
 80000040--	manual	$map:02000001$ 방문하기	Visit $map:02000001$
@@ -870,9 +811,6 @@
 80000061--	desc	바비와 함께하는 '그곳에 가고 싶다' 이벤트! ⏎로프에 매달려 메이플 월드를 구경해보자.	The 'I Want to Go There' event with Barbie!⏎Hang on a rope and enjoy the view of Maple World.
 80000061--	manual	로프에 120초 매달리기	Hang on a rope for 120 seconds
 80000061--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001003$$pp:와,과$ 대화하기	Speak with $npc:11001003$ at $map:02000064$ or $map:63000032$
-80000062--	name	미스 발렌타인을 찾아서	Finding Miss Valentine
-80000062--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 1주년 특집 기사를 본 $npc:11001002$$pp:는,은$ 지난 1년간의 추억을 떠올리며 사람들을 만나고 다녀 보자고 제안한다. ⏎모험가들로부터 초콜릿 받고 싶은 여자로 뽑힌 $map:02000117$의 지배자 $npc:22000022$. 부드러운 여자지만 야수의 본능을 감춘 그녀가 날뛰고 있는 건 아닌지 보고 오자.	After reading Maple Daily's 1st anniversary special feature on notable people of Maple World, $npc:11001002$ suggests going out to meet people while reminiscing about the past year.⏎$npc:22000022$, the ruler of $map:02000117$, was voted the woman adventurers most want to receive chocolate from. Let's go check if this gentle woman with hidden beast instincts is rampaging.
-80000062--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000032$
 80000063--	name	미스터 화이트를 찾아서	Finding Mister White
 80000063--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 1주년 특집 기사를 본 $npc:11001002$$pp:는,은$ 지난 1년간의 추억을 떠올리며 사람들을 만나고 다녀 보자고 제안한다. ⏎모험가들로부터 사탕 받고 싶은 남자로 뽑힌 적이 있다던, 포커페이스가 매력적인 남자 $npc:11000617$$pp:를,을$ $map:02000118$$pp2:로,으로$ 가서 만나보자.	After reading Maple Daily's 1st anniversary special feature on notable people of Maple World, $npc:11001002$ suggests going out to meet people while reminiscing about the past year.⏎Let's go to $map:02000118$ and meet $npc:11000617$, a man with an attractive poker face who was once voted the man adventurers most want to receive candy from.
 80000063--	manual	$map:02000118$에서 $npc:11000617$$pp:를,을$ 찾아가기	Visit $npc:11000617$ at $map:02000118$
@@ -881,9 +819,6 @@
 80000064--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 1주년 특집 기사를 본 $npc:11001002$$pp:는,은$ 지난 1년간의 추억을 떠올리며 사람들을 만나고 다녀 보자고 제안한다. ⏎$map:02000146$에서 $npcName:11000075$ 여제의 명을 수행하고 있는 훈훈한 남자 $npc:11000076$을 만나 $npc:11001002$의 인사를 전해 주자.⏎	After reading Maple Daily's 1st anniversary special feature on notable people of Maple World, $npc:11001002$ suggests going out to meet people while reminiscing about the past year.⏎Let's meet $npc:11000076$, a handsome man carrying out orders from Empress $npcName:11000075$ in $map:02000146$, and pass along $npc:11001002$'s greetings.⏎
 80000064--	manual	$map:02000146$에서 $npc:11000076$$pp:와,과$ 대화하기	Speak with $npc:11000076$ at $map:02000146$
 80000064--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000032$
-80000065--	name	과묵한 도시 남자	The Quiet City Man
-80000065--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 1주년 특집 기사를 본 $npc:11001002$$pp:는,은$ 지난 1년간의 추억을 떠올리며 사람들을 만나고 다녀 보자고 제안한다. ⏎깔끔한 옷차림의 차가운 도시 남자, $npc:11001374$를 만나러 $map:02010016$으로 가 보자.	After reading Maple Daily's 1st anniversary special feature on notable people of Maple World, $npc:11001002$ suggests going out to meet people while reminiscing about the past year.⏎Let's go to $map:02010016$ to meet $npc:11001374$, a cold city man with a neat appearance.
-80000065--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000032$
 80000066--	name	불타는 카리스마	Burning Charisma
 80000066--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 1주년 특집 기사를 본 $npc:11001002$$pp:는,은$ 지난 1년간의 추억을 떠올리며 사람들을 만나고 다녀 보자고 제안한다. ⏎$map:02000124$의 지배자, 카리스마가 넘치는 $npc:11000514$를 만나러 $map:02000124$으로 가 보자.	After reading Maple Daily's 1st anniversary special feature on notable people of Maple World, $npc:11001002$ suggests going out to meet people while reminiscing about the past year.⏎Let's go to $map:02000124$ to meet $npc:11000514$, the charismatic ruler of $map:02000124$.
 80000066--	manual	$map:02000124$에서 $npc:11000514$$pp:와,과$ 대화하기	Speak with $npc:11000514$ at $map:02000124$
@@ -900,9 +835,6 @@
 80000069--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 1주년 특집 기사를 본 $npc:11001002$$pp:는,은$ 지난 1년간의 추억을 떠올리며 사람들을 만나고 다녀 보자고 제안한다. ⏎평화로운 $map:02000076$를 지키는 자경단의 리더, $npc:11000015$을 만나 미모의 비결을 물어보자.	After reading Maple Daily's 1st anniversary special feature on notable people of Maple World, $npc:11001002$ suggests going out to meet people while reminiscing about the past year.⏎Let's meet $npc:11000015$, the leader of the vigilantes who protect peaceful $map:02000076$, and ask about her beauty secrets.
 80000069--	manual	$map:02000076$에서 $npc:11000015$$pp:와,과$ 대화하기	Speak with $npc:11000015$ at $map:02000076$
 80000069--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000032$
-80000070--	name	아름다운 아이돌	The Beautiful Idol
-80000070--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 1주년 특집 기사를 본 $npc:11001002$$pp:는,은$ 지난 1년간의 추억을 떠올리며 사람들을 만나고 다녀 보자고 제안한다. ⏎빅토리아 아일랜드 최고의 인기남이라는 $npc:11000406$의 팬미팅이 $map:02000137$에서 벌어지고 있다는데, 참석하러 가 보자.	After reading Maple Daily's 1st anniversary special feature on notable people of Maple World, $npc:11001002$ suggests going out to meet people while reminiscing about the past year.⏎A fan meeting for $npc:11000406$, said to be the most popular man on Victoria Island, is being held at $map:02000137$. Let's go attend.
-80000070--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000032$
 80000071--	name	네모진 남자	The Square-Headed Man
 80000071--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 1주년 특집 기사를 본 $npc:11001002$$pp:는,은$ 지난 1년간의 추억을 떠올리며 사람들을 만나고 다녀 보자고 제안한다. ⏎$map:02000001$를 지키는 늠름한 남자 $npc:11000119$의 머리가 납작해 주전자를 올릴 수 있을 정도라던데, 과연 소문이 사실인지 만나러 가 보자.	After reading Maple Daily's 1st anniversary special feature on notable people of Maple World, $npc:11001002$ suggests going out to meet people while reminiscing about the past year.⏎Rumor has it that $npc:11000119$, a valiant man who guards $map:02000001$, has such a flat head that you could place a kettle on it. Let's go see if the rumor is true.
 80000071--	manual	$map:02000001$에서 $npc:11000119$$pp:와,과$ 대화하기	Speak with $npc:11000119$ at $map:02000001$
@@ -1057,39 +989,6 @@
 80000109--	desc	아래 보스들을 처치하여 글자 '$item:30000589$', '$item:30000590$' 를 모아보자!⏎⏎'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', ⏎'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' 	Defeat the bosses below to collect the letters '$item:30000589$', '$item:30000590$'!⏎⏎'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', ⏎'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' 
 80000109--	manual	글자 '$item:30000589$' 획득하기|글자 '$item:30000590$' 획득하기	Obtain the letter '$item:30000589$'|Obtain the letter '$item:30000590$'
 80000109--	complete	$map:02000064$이나 $map:63000043$에서 $npc:11001003$$pp:와,과$ 대화하기	Speak with $npc:11001003$ at $map:02000064$ or $map:63000043$
-80000110--	name	기계형 몬스터 정보 모으기	Gather Machine Monster Information
-80000110--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 기계형 몬스터를 처치하여 정보를 모아주자.	Defeat machine-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000110--	complete	$map:02000064$이나 $map:63000043$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000043$
-80000111--	name	벌레형 몬스터 정보 모으기	Gather Insect Monster Information
-80000111--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 벌레형 몬스터를 처치하여 정보를 모아주자.	Defeat insect-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000111--	complete	$map:02000064$이나 $map:63000043$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000043$
-80000112--	name	사물형 몬스터 정보 모으기	Gather Object Monster Information
-80000112--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 사물형 몬스터를 처치하여 정보를 모아주자.	Defeat object-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000112--	complete	$map:02000064$이나 $map:63000043$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000043$
-80000113--	name	식물형 몬스터 정보 모으기	Gather Plant Monster Information
-80000113--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 식물형 몬스터를 처치하여 정보를 모아주자.	Defeat plant-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000113--	complete	$map:02000064$이나 $map:63000043$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000043$
-80000114--	name	신수형 몬스터 정보 모으기	Gather Divine Beast Monster Information
-80000114--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 신수형 몬스터를 처치하여 정보를 모아주자.	Defeat divine beast-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000114--	complete	$map:02000064$이나 $map:63000043$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000043$
-80000115--	name	악마형 몬스터 정보 모으기	Gather Demon Monster Information
-80000115--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 악마형 몬스터를 처치하여 정보를 모아주자.	Defeat demon-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000115--	complete	$map:02000064$이나 $map:63000043$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000043$
-80000116--	name	야수형 몬스터 정보 모으기	Gather Beast Monster Information
-80000116--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 야수형 몬스터를 처치하여 정보를 모아주자.	Defeat beast-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000116--	complete	$map:02000064$이나 $map:63000043$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000043$
-80000117--	name	언데드형 몬스터 정보 모으기	Gather Undead Monster Information
-80000117--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 언데드형 몬스터를 처치하여 정보를 모아주자.	Defeat undead-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000117--	complete	$map:02000064$이나 $map:63000043$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000043$
-80000118--	name	요정형 몬스터 정보 모으기	Gather Fairy Monster Information
-80000118--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 요정형 몬스터를 처치하여 정보를 모아주자.	Defeat fairy-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000118--	complete	$map:02000064$이나 $map:63000043$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000043$
-80000119--	name	인간형 몬스터 정보 모으기	Gather Humanoid Monster Information
-80000119--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 인간형 몬스터를 처치하여 정보를 모아주자.	Defeat humanoid-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000119--	complete	$map:02000064$이나 $map:63000043$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000043$
-80000120--	name	정령형 몬스터 정보 모으기	Gather Spirit Monster Information
-80000120--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 정령형 몬스터를 처치하여 정보를 모아주자.	Defeat spirit-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000120--	complete	$map:02000064$이나 $map:63000043$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000043$
 80000121--	name	신나게 달려보자!	Let's Run with Excitement!
 80000121--	desc	메이플 단풍 축제를 즐기는 또 하나의 방법!⏎시원한 가을바람을 느끼며, 신나게 달려보자! 	Another way to enjoy the Maple Autumn Festival!⏎Feel the refreshing autumn breeze and run with excitement! 
 80000121--	manual	300m 달리기	Run 300m
@@ -1102,9 +1001,6 @@
 80000123--	desc	메이플 단풍 축제를 즐기는 또 하나의 방법!⏎탈것에 몸을 싣고, 메이플 이곳저곳을 구경해보자!	Another way to enjoy the Maple Autumn Festival!⏎Hop on a mount and explore the sights of Maple World!
 80000123--	manual	탈것 타고 300m 달리기	Run 300m on a mount
 80000123--	complete	$map:02000064$이나 $map:63000043$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000043$
-80000124--	name	두둥실 날아보자!	Let's Float and Fly!
-80000124--	desc	메이플 단풍 축제를 즐기는 또 하나의 방법!⏎파란 하늘을 향해 두둥실 날아보자!	Another way to enjoy the Maple Autumn Festival!⏎Float gently toward the blue sky!
-80000124--	complete	$map:02000064$이나 $map:63000043$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000043$
 80000125--	name	어푸어푸 헤엄을 치자!	Splash Splash, Let's Swim!
 80000125--	desc	메이플 단풍 축제를 즐기는 또 하나의 방법!⏎파란 하늘만큼 파란 물속에서 어푸어푸 헤엄을 쳐보자!	Another way to enjoy the Maple Autumn Festival!⏎Swim through the waters as blue as the sky above!
 80000125--	manual	200m 수영하기	Swim 200m
@@ -1355,9 +1251,6 @@
 80000206--	desc	새해를 맞아 $item:50400096$$pp:를,을$ 이용해 신나게 달려보자!	Celebrate the new year by running excitedly using $item:50400096$!
 80000206--	manual	$item:50400096$ 이용하기	Use $item:50400096$
 80000206--	complete	$map:02000064$이나, $map:63000049$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000049$
-80000207--	name	닭과 함께 복닭복닭!	Cluck Cluck with Chickens!
-80000207--	desc	새해를 맞아 닭 축사에서 닭을 키워 $item:33000026$$pp:를,을$ 획득해보자!	Celebrate the new year by raising chickens in a chicken coop and obtaining $item:33000026$!
-80000207--	complete	$map:02000064$이나, $map:63000049$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000049$
 80000208--	name	반짝반짝 구리광석!	Shiny Copper Ore!
 80000208--	desc	새해를 맞아 구리 광맥에서 $item:33000001$$pp:를,을$ 채광하여 획득해보자!	Celebrate the new year by mining $item:33000001$ from copper veins!
 80000208--	manual	구리 광맥에서 $item:33000001$ 채광하기	Mine $item:33000001$ from copper veins
@@ -1433,9 +1326,6 @@
 80000233--	desc	모험 던전 보스를 처치해보자!⏎⏎공략이 필요한 던전 보스:⏎$npc:24000409$, $npc:22000047$, $npc:23100007$, $npc:23100025$, $npc:23100077$, $npc:24001601$, $npc:24001309$, $npc:24002201$, $npc:24001904$, $npc:24001807$, $npc:23100006$, 피리스, 셀린, 에르다, $npc:24003101$, $npc:24003214$, $npc:23190105$, $npc:23190106$ 등⏎ ⏎* 생명의 틈 던전은 제외입니다.⏎* 용맹의 시험장 던전은 제외입니다.⏎* 대양의 수호신 던전은 제외입니다.⏎* 카오스 레이드 던전은 제외입니다.	Defeat an adventure dungeon boss!⏎⏎Dungeon bosses to defeat:⏎$npc:24000409$, $npc:22000047$, $npc:23100007$, $npc:23100025$, $npc:23100077$, $npc:24001601$, $npc:24001309$, $npc:24002201$, $npc:24001904$, $npc:24001807$, $npc:23100006$, Piris, Seline, Erda, $npc:24003101$, $npc:24003214$, $npc:23190105$, $npc:23190106$, etc.⏎⏎* Rift of Life dungeon is excluded.⏎* Trial of Valor dungeon is excluded.⏎* Guardian of the Ocean dungeon is excluded.⏎* Chaos Raid dungeons are excluded.
 80000233--	manual	모험 던전 보스 처치하기	Defeat an adventure dungeon boss
 80000233--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000234--	desc	메이플 월드에 방문해 준 모험가님들을 위해 $npc:11001003$$pp:가,이$ 특별한 선물을 준비했다고 한다. $npc:11001003$$pp:를,을$ 찾아가보자.	$npc:11001003$ has prepared a special gift for adventurers who visited Maple World. Let's go find $npc:11001003$.
-80000234--	manual	$npc:11001003$$pp:를,을$ 찾아가기	Visit $npc:11001003$
-80000234--	complete	$npc:11001003$$pp:를,을$ 찾아가기	Visit $npc:11001003$
 80000235--	name	봄의 기운을 찾아라!	Find the Energy of Spring!
 80000235--	desc	따뜻한 봄을 시기하는 사악한 존재들이 봄의 기운을 빼앗아가고 있다고 한다. 필드 곳곳에 나타나는 엘리트 몬스터들을 해치우고 봄의 기운을 10개 모아서 루비에게 가져다 주자.	Evil beings who envy the warm spring are stealing the energy of spring. Defeat the elite monsters appearing throughout the fields and collect 10 Spring Energy to bring to Ruby.
 80000235--	manual	봄의 기운을 10개 모으기	Collect 10 Spring Energy
@@ -1452,9 +1342,6 @@
 80000238--	desc	$item:50400096$$pp:를,을$ 이용해 신나게 달려보자!	Run excitedly using $item:50400096$!
 80000238--	manual	$item:50400096$ 이용하기	Use $item:50400096$
 80000238--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000239--	name	닭과 함께 복닭복닭!	Cluck Cluck with Chickens!
-80000239--	desc	닭 축사에서 닭을 키워 $item:33000026$$pp:를,을$ 획득해보자!	Raise chickens in a chicken coop and obtain $item:33000026$!
-80000239--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
 80000240--	name	반짝반짝 구리광석!	Shiny Copper Ore!
 80000240--	desc	구리 광맥에서 $item:33000001$$pp:를,을$ 채광하여 획득해보자!	Mine $item:33000001$ from copper veins!
 80000240--	manual	구리 광맥에서 $item:33000001$ 채광하기	Mine $item:33000001$ from copper veins
@@ -1499,39 +1386,6 @@
 80000250--	desc	높이높이 점프해보자!	Jump high into the sky!
 80000250--	manual	50회 점프하기	Jump 50 times
 80000250--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000251--	name	기계형 몬스터 정보 모으기	Gather Machine Monster Information
-80000251--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 기계형 몬스터를 처치하여 정보를 모아주자.	Defeat machine-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000251--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000252--	name	벌레형 몬스터 정보 모으기	Gather Insect Monster Information
-80000252--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 벌레형 몬스터를 처치하여 정보를 모아주자.	Defeat insect-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000252--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000253--	name	사물형 몬스터 정보 모으기	Gather Object Monster Information
-80000253--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 사물형 몬스터를 처치하여 정보를 모아주자.	Defeat object-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000253--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000254--	name	식물형 몬스터 정보 모으기	Gather Plant Monster Information
-80000254--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 식물형 몬스터를 처치하여 정보를 모아주자.	Defeat plant-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000254--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000255--	name	신수형 몬스터 정보 모으기	Gather Divine Beast Monster Information
-80000255--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 신수형 몬스터를 처치하여 정보를 모아주자.	Defeat divine beast-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000255--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000256--	name	악마형 몬스터 정보 모으기	Gather Demon Monster Information
-80000256--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 악마형 몬스터를 처치하여 정보를 모아주자.	Defeat demon-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000256--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000257--	name	야수형 몬스터 정보 모으기	Gather Beast Monster Information
-80000257--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 야수형 몬스터를 처치하여 정보를 모아주자.	Defeat beast-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000257--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000258--	name	언데드형 몬스터 정보 모으기	Gather Undead Monster Information
-80000258--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 언데드형 몬스터를 처치하여 정보를 모아주자.	Defeat undead-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000258--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000259--	name	요정형 몬스터 정보 모으기	Gather Fairy Monster Information
-80000259--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 요정형 몬스터를 처치하여 정보를 모아주자.	Defeat fairy-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000259--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000260--	name	인간형 몬스터 정보 모으기	Gather Humanoid Monster Information
-80000260--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 인간형 몬스터를 처치하여 정보를 모아주자.	Defeat humanoid-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000260--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000261--	name	정령형 몬스터 정보 모으기	Gather Spirit Monster Information
-80000261--	desc	몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 정령형 몬스터를 처치하여 정보를 모아주자.	Defeat spirit-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.
-80000261--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
 80000262--	name	신나게 달려보자!	Let's Run with Excitement!
 80000262--	desc	메이플 단풍 축제를 즐기는 또 하나의 방법!⏎시원한 가을바람을 느끼며, 신나게 달려보자! 	Another way to enjoy the Maple Autumn Festival!⏎Feel the refreshing autumn breeze and run with excitement! 
 80000262--	manual	300m 달리기	Run 300m
@@ -1544,9 +1398,6 @@
 80000264--	desc	메이플 단풍 축제를 즐기는 또 하나의 방법!⏎탈것에 몸을 싣고, 메이플 이곳저곳을 구경해보자!	Another way to enjoy the Maple Autumn Festival!⏎Hop on a mount and explore the sights of Maple World!
 80000264--	manual	탈것 타고 300m 달리기	Run 300m on a mount
 80000264--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
-80000265--	name	두둥실 날아보자!	Let's Float and Fly!
-80000265--	desc	메이플 단풍 축제를 즐기는 또 하나의 방법!⏎파란 하늘을 향해 두둥실 날아보자!	Another way to enjoy the Maple Autumn Festival!⏎Float gently toward the blue sky!
-80000265--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
 80000266--	name	어푸어푸 헤엄을 치자!	Splash Splash, Let's Swim!
 80000266--	desc	메이플 단풍 축제를 즐기는 또 하나의 방법!⏎파란 하늘만큼 파란 물속에서 어푸어푸 헤엄을 쳐보자!	Another way to enjoy the Maple Autumn Festival!⏎Swim through the waters as blue as the sky above!
 80000266--	manual	200m 수영하기	Swim 200m
@@ -1639,9 +1490,6 @@
 80000288--	desc	바비와 함께하는 '그곳에 가고 싶다' 이벤트! ⏎로프에 매달려 메이플 월드를 구경해보자.	'I Want to Go There' event with Barbie!⏎Hang on a rope and see Maple World from above.
 80000288--	manual	로프에 120초 매달리기	Hang on a rope for 120 seconds
 80000288--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001003$$pp:와,과$ 대화하기	Speak with $npc:11001003$ at $map:02000064$ or $map:63000032$
-80000289--	name	미스 발렌타인을 찾아서	Finding Miss Valentine
-80000289--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. ⏎모험가들로부터 초콜릿 받고 싶은 여자로 뽑힌 $map:02000117$의 지배자 $npc:22000022$. 부드러운 여자지만 야수의 본능을 감춘 그녀가 날뛰고 있는 건 아닌지 보고 오자.	After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.⏎Voted by adventurers as the woman they most want to receive chocolate from, the ruler of $map:02000117$, $npc:22000022$. A soft woman who hides a beast's instincts — let's go check if she's rampaging again.
-80000289--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000032$
 80000290--	name	미스터 화이트를 찾아서	Finding Mr. White
 80000290--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. ⏎모험가들로부터 사탕 받고 싶은 남자로 뽑힌 적이 있다던, 포커페이스가 매력적인 남자 $npc:11000617$$pp:를,을$ $map:02000118$$pp2:로,으로$ 가서 만나보자.	After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.⏎Once voted as the man adventurers most want to give candy to, go to $map:02000118$ to meet the charming poker-faced man, $npc:11000617$.
 80000290--	manual	$map:02000118$에서 $npc:11000617$$pp:를,을$ 찾아가기	Visit $npc:11000617$ at $map:02000118$
@@ -1650,9 +1498,6 @@
 80000291--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. ⏎$map:02000146$에서 $npcName:11000075$ 여제의 명을 수행하고 있는 훈훈한 남자 $npc:11000076$을 만나 $npc:11001002$의 인사를 전해 주자.⏎	After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.⏎Meet the handsome man $npc:11000076$ who is carrying out the orders of Empress $npcName:11000075$ at $map:02000146$, and deliver $npc:11001002$'s greetings.⏎
 80000291--	manual	$map:02000146$에서 $npc:11000076$$pp:와,과$ 대화하기	Speak with $npc:11000076$ at $map:02000146$
 80000291--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000032$
-80000292--	name	과묵한 도시 남자	The Quiet City Man
-80000292--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. ⏎깔끔한 옷차림의 차가운 도시 남자, $npc:11001374$를 만나러 $map:02010016$으로 가 보자.	After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.⏎Go to $map:02010016$ to meet the cool city man with neat attire, $npc:11001374$.
-80000292--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000032$
 80000293--	name	불타는 카리스마	Blazing Charisma
 80000293--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. ⏎$map:02000124$의 지배자, 카리스마가 넘치는 $npc:11000514$를 만나러 $map:02000124$으로 가 보자.	After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.⏎Go to $map:02000124$ to meet the charismatic ruler of $map:02000124$, $npc:11000514$.
 80000293--	manual	$map:02000124$에서 $npc:11000514$$pp:와,과$ 대화하기	Speak with $npc:11000514$ at $map:02000124$
@@ -1669,9 +1514,6 @@
 80000296--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. ⏎평화로운 $map:02000076$를 지키는 자경단의 리더, $npc:11000015$을 만나 미모의 비결을 물어보자.	After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.⏎Meet the leader of the vigilantes who protects peaceful $map:02000076$, $npc:11000015$, and ask about the secret to their beauty.
 80000296--	manual	$map:02000076$에서 $npc:11000015$$pp:와,과$ 대화하기	Speak with $npc:11000015$ at $map:02000076$
 80000296--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000032$
-80000297--	name	아름다운 아이돌	A Beautiful Idol
-80000297--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. ⏎빅토리아 아일랜드 최고의 인기남이라는 $npc:11000406$의 팬미팅이 $map:02000137$에서 벌어지고 있다는데, 참석하러 가 보자.	After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.⏎Victoria Island's most popular man $npc:11000406$ is holding a fan meeting at $map:02000137$. Let's go attend it.
-80000297--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000032$
 80000298--	name	네모진 남자	The Square-Headed Man
 80000298--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. ⏎$map:02000001$를 지키는 늠름한 남자 $npc:11000119$의 머리가 납작해 주전자를 올릴 수 있을 정도라던데, 과연 소문이 사실인지 만나러 가 보자.	After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.⏎There's a rumor that the gallant man $npc:11000119$ who guards $map:02000001$ has a head so flat you could put a kettle on it. Let's go find out if the rumor is true.
 80000298--	manual	$map:02000001$에서 $npc:11000119$$pp:와,과$ 대화하기	Speak with $npc:11000119$ at $map:02000001$
@@ -1724,12 +1566,6 @@
 80000310--	desc	메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. ⏎어떤 사람들은 사람과의 만남보다도 우연히 만나는 황금 보물 상자를 더욱 반갑게 생각한다고 한다. 숨어 있는 황금 보물 상자를 찾아 그 즐거움에 동참해 보자. 	After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.⏎Some people are happier to encounter a golden treasure chest by chance than to meet other people. Find the hidden golden treasure chests and join in on the fun. 
 80000310--	manual	황금 보물 상자 3개 열어보기	Open 3 golden treasure chests
 80000310--	complete	$map:02000064$이나 $map:63000032$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000032$
-80000320--	desc	아래 커플 진영 필드 보스들을 처치하여 솔로부대의 자격을 증명해 보이자!⏎⏎커플 진영 필드 보스:⏎'$npc:23000001$', '$npc:23000019$', '$npc:23000035$', '$npc:23000017$',  '$npc:23000034$', '$npc:23000009$', '$npc:23000029$', '$npc:23000057$'	Defeat the couple faction field bosses below to prove your qualification for the Solo Squad!⏎⏎Couple faction field bosses:⏎'$npc:23000001$', '$npc:23000019$', '$npc:23000035$', '$npc:23000017$', '$npc:23000034$', '$npc:23000009$', '$npc:23000029$', '$npc:23000057$'
-80000320--	manual	커플 진영 필드 보스 처치하기	Defeat a couple faction field boss
-80000320--	complete	$map:02000064$에서 $npc:11001003$$pp:와,과$ 대화하기	Speak with $npc:11001003$ at $map:02000064$
-80000321--	desc	아래 솔로 진영 필드 보스들을 처치하여 커플부대의 자격을 증명해 보이자!⏎⏎솔로 진영 필드 보스:⏎'$npc:23000054$', '$npc:23000020$', '$npc:23000099$', '$npc:23000047$',  '$npc:23000024$', '$npc:23000045$', '$npc:23000026$', ⏎'$npc:23000012$'	Defeat the solo faction field bosses below to prove your qualification for the Couple Squad!⏎⏎Solo faction field bosses:⏎'$npc:23000054$', '$npc:23000020$', '$npc:23000099$', '$npc:23000047$', '$npc:23000024$', '$npc:23000045$', '$npc:23000026$', ⏎'$npc:23000012$'
-80000321--	manual	솔로 진영 필드 보스 처치하기	Defeat a solo faction field boss
-80000321--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
 80000322--	name	커플도 솔로도 함께해요!	Couples and Solos Together!
 80000322--	desc	20레벨 이상 필드 보스를 처치해보자!⏎⏎20레벨 이상 필드 보스:⏎$npc:23000001$, $npc:23000019$, $npc:23000054$, $npc:23000020$, ⏎$npc:23000035$, $npc:23000099$, $npc:23000017$, $npc:23000047$, ⏎$npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$	Defeat a Lv. 20+ field boss!⏎⏎Lv. 20+ field bosses:⏎$npc:23000001$, $npc:23000019$, $npc:23000054$, $npc:23000020$, ⏎$npc:23000035$, $npc:23000099$, $npc:23000017$, $npc:23000047$, ⏎$npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$
 80000322--	manual	20레벨 이상 필드 보스 처치하기	Defeat a Lv. 20+ field boss
@@ -1903,7 +1739,7 @@
 80000365--	manual	$item:30000785$ 100개 모으기	Collect 100 $item:30000785$
 80000365--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
 80000366--	name	자쿰 풍선을 찾아보자쿰	Let's Find the Zakum Balloon!
-80000366--	desc	메이플 월드 곳곳에서 자쿰 풍선을 찾아 조사해보자!⏎매일 10회 조사를 완료하면, $npc:11001002$에게서 ⏎'$item:20000596$' 10개를 받을 수 있다.⏎⏎$item:20000596$ 100개 획득 시, '자쿰자쿰 먹고싶어' 엠블럼이 자동으로 달성되며, 엠블럼 달성 보상으로 ⏎'말을 하자쿰' 말풍선 배지를 획득할 수 있다.	⏎⏎* 자쿰 풍선은 전 필드에 10분 단위로 출현해서 5분 동안 유지된다.	Search for Zakum Balloons throughout Maple World!⏎Complete 10 searches daily to receive 10 '$item:20000596$' from $npc:11001002$.⏎⏎Upon obtaining 100 $item:20000596$, the 'I Want to Eat Zakum' emblem will be automatically achieved, and you can obtain the 'Let's Talk Zakum' speech bubble badge as an emblem achievement reward.⏎⏎* Zakum Balloons appear in all fields every 10 minutes and last for 5 minutes.
+80000366--	desc	메이플 월드 곳곳에서 자쿰 풍선을 찾아 조사해보자!⏎매일 10회 조사를 완료하면, $npc:11001002$에게서 ⏎'$item:20000596$' 10개를 받을 수 있다.⏎⏎$item:20000596$ 100개 획득 시, '자쿰자쿰 먹고싶어' 엠블럼이 자동으로 달성되며, 엠블럼 달성 보상으로 ⏎'말을 하자쿰' 말풍선 배지를 획득할 수 있다. ⏎⏎* 자쿰 풍선은 전 필드에 10분 단위로 출현해서 5분 동안 유지된다.	Search for Zakum Balloons throughout Maple World!⏎Complete 10 searches daily to receive 10 '$item:20000596$' from $npc:11001002$.⏎⏎Upon obtaining 100 $item:20000596$, the 'I Want to Eat Zakum' emblem will be automatically achieved, and you can obtain the 'Let's Talk Zakum' speech bubble badge as an emblem achievement reward.⏎⏎* Zakum Balloons appear in all fields every 10 minutes and last for 5 minutes.
 80000366--	manual	자쿰 풍선 조사하기	Search Zakum Balloons
 80000366--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
 80000367--	name	2주년 기념 마크를 찾아봐요!	Find the 2nd Anniversary Marks!
@@ -1919,7 +1755,7 @@
 80000369--	manual	$item:30000868$ 3개 모으기	Collect 3 $item:30000868$
 80000369--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
 80000370--	name	부농부농 핑크빈이 아른거려!!	Pink Bean Keeps Appearing in My Mind!!
-80000370--	desc	메이플 월드 곳곳에서 핑크빈 풍선을 찾아 조사해보자!⏎매일 10회 조사를 완료하면, $npc:11001002$에게서 사용 즉시 경험치를 300,000 증가시키는 '$item:20000622$'을 받을 수 있다.⏎⏎$item:20000622$ 10개 획득 시, '핑크빈이 부농부농해!' 엠블럼이 자동으로 달성되며, 엠블럼 달성 보상으로 '핑크한 핑크빈' 말풍선 배지를 획득할 수 있다.	⏎⏎* 핑크빈 풍선은 전 필드에 10분 단위로 출현해서 5분 동안 유지된다.	Search for Pink Bean Balloons throughout Maple World!⏎Complete 10 searches daily to receive '$item:20000622$' from $npc:11001002$, which instantly grants 300,000 EXP upon use.⏎⏎Upon obtaining 10 $item:20000622$, the 'Pink Bean is Excited!' emblem will be automatically achieved, and you can obtain the 'Pink Pink Bean' speech bubble badge as an emblem achievement reward.⏎⏎* Pink Bean Balloons appear in all fields every 10 minutes and last for 5 minutes.
+80000370--	desc	메이플 월드 곳곳에서 핑크빈 풍선을 찾아 조사해보자!⏎매일 10회 조사를 완료하면, $npc:11001002$에게서 사용 즉시 경험치를 300,000 증가시키는 '$item:20000622$'을 받을 수 있다.⏎⏎$item:20000622$ 10개 획득 시, '핑크빈이 부농부농해!' 엠블럼이 자동으로 달성되며, 엠블럼 달성 보상으로 '핑크한 핑크빈' 말풍선 배지를 획득할 수 있다. ⏎⏎* 핑크빈 풍선은 전 필드에 10분 단위로 출현해서 5분 동안 유지된다.	Search for Pink Bean Balloons throughout Maple World!⏎Complete 10 searches daily to receive '$item:20000622$' from $npc:11001002$, which instantly grants 300,000 EXP upon use.⏎⏎Upon obtaining 10 $item:20000622$, the 'Pink Bean is Excited!' emblem will be automatically achieved, and you can obtain the 'Pink Pink Bean' speech bubble badge as an emblem achievement reward.⏎⏎* Pink Bean Balloons appear in all fields every 10 minutes and last for 5 minutes.
 80000370--	manual	핑크빈 풍선 조사하기	Search Pink Bean Balloons
 80000370--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$
 80000371--	name	GM촬리가 위험해!!	GM Chali is in Danger!!
@@ -2126,8 +1962,6 @@
 80000421--	desc	사탕 풍선에서 얻은 $item:30001098$를 $map:02000001$에⏎있는 $npc:11000327$에게 가져가면 특별한⏎사탕을 만들어 준다고 하는데 !	If you bring $item:30001098$ obtained from candy balloons to $npc:11000327$ at $map:02000001$, they say they'll make you a special candy!
 80000421--	manual	사탕 풍선을 조사해 $item:30001098$ 10개 획득하기	Search candy balloons to obtain 10 $item:30001098$
 80000421--	complete	$map:02000001$에 있는 $npc:11000327$에게 $item:30001098$ 전달하기	Deliver $item:30001098$ to $npc:11000327$ at $map:02000001$
-89000001--	manual	퀸즈타운에서 연주하기	Perform music in Queenstown
-89000001--	complete	퀸즈타운에서 연주하기	Perform music in Queenstown
 89000002--	name	아이템점수	Gear Score
 89000002--	manual	아이템 점수 7000점 달성하기	Reach a gear score of 7000
 89000002--	complete	아이템 점수 7000점 달성하기	Reach a gear score of 7000
@@ -2137,8 +1971,6 @@
 89000004--	name	전문낚시꾼	Master Fisherman
 89000004--	manual	전문낚시꾼 달성하기	Achieve Master Fisherman
 89000004--	complete	전문낚시꾼 달성하기	Achieve Master Fisherman
-89000005--	manual	동아리 2개 이상 가입	Join 2 or more clubs
-89000005--	complete	동아리 2개 이상 가입	Join 2 or more clubs
 89000006--	name	응원하기	Cheer
 89000006--	manual	퀸즈타운에서 응원하기	Cheer in Queenstown
 89000006--	complete	퀸즈타운에서 응원하기	Cheer in Queenstown
@@ -2152,28 +1984,18 @@
 89000009--	complete	UGC 5회 이상 제작	Create 5 or more UGC items
 89000010--	manual	다크스트림 15라운드 이상 통과	Clear Dark Stream round 15 or higher
 89000010--	complete	다크스트림 15라운드 이상 통과	Clear Dark Stream round 15 or higher
-89000011--	manual	MC 케이 이벤트에 참여하기	MC 케이 이벤트에 참여하기
-89000011--	complete	MC 케이 이벤트에 참여하기	MC 케이 이벤트에 참여하기
 89000012--	name	생활기술	Life Skill
 89000012--	manual	대장 숙련 9단계 달성하기|세공 숙련 9단계 달성하기|연금 숙련 9단계 달성하기|요리 숙련 9단계 달성하기	Reach Smithing mastery level 9|Reach Handicraft mastery level 9|Reach Alchemy mastery level 9|Reach Cooking mastery level 9
 89000012--	complete	대장 숙련 9단계 달성하기|세공 숙련 9단계 달성하기|연금 숙련 9단계 달성하기|요리 숙련 9단계 달성하기	Reach Smithing mastery level 9|Reach Handicraft mastery level 9|Reach Alchemy mastery level 9|Reach Cooking mastery level 9
 89000013--	name	신규 레이드 던전	New Raid Dungeons
 89000013--	manual	(레이드 모드) $npc:23090005$ 처치하기|(레이드 모드) $npc:23000080$ 처치하기|(레이드 모드) $npc:23000068$ 처치하기|(레이드 모드) $npc:23000082$ 처치하기	(Raid Mode) Defeat $npc:23090005$|(Raid Mode) Defeat $npc:23000080$|(Raid Mode) Defeat $npc:23000068$|(Raid Mode) Defeat $npc:23000082$
 89000013--	complete	(레이드 모드) $npc:23090005$ 처치하기|(레이드 모드) $npc:23000080$ 처치하기|(레이드 모드) $npc:23000068$ 처치하기|(레이드 모드) $npc:23000082$ 처치하기	(Raid Mode) Defeat $npc:23090005$|(Raid Mode) Defeat $npc:23000080$|(Raid Mode) Defeat $npc:23000068$|(Raid Mode) Defeat $npc:23000082$
-89000014--	manual	룬블레이더 50레벨 달성	Reach level 50 with Rune Blader
-89000014--	complete	룬블레이더 50레벨 달성	Reach level 50 with Rune Blader
-89000015--	manual	소울바인더 50레벨 달성	Reach level 50 with Soul Binder
-89000015--	complete	소울바인더 50레벨 달성	Reach level 50 with Soul Binder
 89000016--	name	스킨소켓	Skin Socket
 89000016--	manual	스킨 소켓에 젬스톤 넣어보기	Insert a gemstone into a skin socket
 89000016--	complete	스킨 소켓에 젬스톤 넣어보기	Insert a gemstone into a skin socket
 89000017--	name	장비소켓	Equipment Socket
 89000017--	manual	장비 소켓에 젬스톤 넣어보기	Insert a gemstone into an equipment socket
 89000017--	complete	장비 소켓에 젬스톤 넣어보기	Insert a gemstone into an equipment socket
-89000018--	manual	젬스톤 5단계 업그레이드	Upgrade a gemstone to level 5
-89000018--	complete	젬스톤 5단계 업그레이드	Upgrade a gemstone to level 5
-89000019--	manual	스트라이커 50레벨 달성	Reach level 50 with Striker
-89000019--	complete	스트라이커 50레벨 달성	Reach level 50 with Striker
 89000020--	name	자쿰 칭호	Zakum Title
 89000020--	manual	$npc:23400071$ 을 처치하고 자쿰 정복자 칭호 획득하기	Defeat $npc:23400071$ and obtain the Zakum Conqueror title
 89000020--	complete	$npc:23400071$ 을 처치하고 자쿰 정복자 칭호 획득하기	Defeat $npc:23400071$ and obtain the Zakum Conqueror title
@@ -2183,8 +2005,6 @@
 89000022--	name	자쿰 팔	Zakum's Arms
 89000022--	manual	자쿰의 첫 번째 팔 제거하기	Destroy Zakum's first arm
 89000022--	complete	자쿰의 첫 번째 팔 제거하기	Destroy Zakum's first arm
-89000023--	manual	인테리어 레벨 5 달성	Reach Interior level 5
-89000023--	complete	인테리어 레벨 5 달성	Reach Interior level 5
 89000024--	name	자쿰 만나기	Meet Zakum
 89000024--	manual	자쿰 만나기	Meet Zakum
 89000024--	complete	자쿰 만나기	Meet Zakum
@@ -2300,13 +2120,9 @@
 89000061--	name	택시 이용	Use Taxi
 89000061--	manual	택시 30회 이용하기	Use a taxi 30 times
 89000061--	complete	택시 30회 이용하기	Use a taxi 30 times
-89000062--	manual	1000m 달리기	Run 1000m
-89000062--	complete	1000m 달리기	Run 1000m
 89000063--	name	헤엄치기	Swimming
 89000063--	manual	1000m 헤엄쳐서 이동하기	Swim 1000m
 89000063--	complete	1000m 헤엄쳐서 이동하기	Swim 1000m
-89000064--	manual	100m 기어가기	Crawl 100m
-89000064--	complete	100m 기어가기	Crawl 100m
 89000065--	name	탈것 타고 달리기	Run on a Mount
 89000065--	manual	탈것 타고 신나게 1000m 달리기	Run 1000m on a mount
 89000065--	complete	탈것 타고 신나게 1000m 달리기	Run 1000m on a mount
@@ -2322,8 +2138,6 @@
 89000069--	name	MC케이 이벤트 5회 참여	Participate in MC Kay Event 5 Times
 89000069--	manual	MC케이 이벤트 5회 참여하기	Participate in MC Kay events 5 times
 89000069--	complete	MC케이 이벤트 5회 참여하기	Participate in MC Kay events 5 times
-89000070--	manual	부서지는 물건 100회 부수기	Break breakable objects 100 times
-89000070--	complete	부서지는 물건 100회 부수기	Break breakable objects 100 times
 89000071--	name	오늘의 미션 30번 완료	Complete Daily Missions 30 Times
 89000071--	manual	오늘의 미션 30번 완료하기	Complete daily missions 30 times
 89000071--	complete	오늘의 미션 30번 완료하기	Complete daily missions 30 times
@@ -2345,8 +2159,6 @@
 89000077--	name	모험 던전 '오염된 정원' 공략	Clear Adventure Dungeon 'Contaminated Garden'
 89000077--	manual	모험 던전 '오염된 정원' 공략에 5회 성공하기	Clear the adventure dungeon 'Contaminated Garden' 5 times
 89000077--	complete	모험 던전 '오염된 정원' 공략에 5회 성공하기	Clear the adventure dungeon 'Contaminated Garden' 5 times
-89000078--	manual	낚시로 물고기 100마리 낚기	Catch 100 fish
-89000078--	complete	낚시로 물고기 100마리 낚기	Catch 100 fish
 89000079--	name	구리 광맥 채광	Mine Copper Veins
 89000079--	manual	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎구리 광맥에서 $item:33000001$ 30회 채광하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Mine $item:33000001$ from copper veins 30 times
 89000079--	complete	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎구리 광맥에서 $item:33000001$ 30회 채광하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Mine $item:33000001$ from copper veins 30 times
@@ -2380,15 +2192,9 @@
 89000089--	name	길드원 2명과 몬스터 1000마리 처치	Defeat 1000 Monsters with 2 Guild Members
 89000089--	manual	* 나 자신과 길드원 2명을 포함한 3인 파티로 진행해야 합니다.⏎* 파티를 맺은 길드원과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎길드원 2명과 함께 몬스터 1000마리 처치하기	* Must be in a 3-person party including yourself and 2 guild members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 1000 monsters together with 2 guild members
 89000089--	complete	* 나 자신과 길드원 2명을 포함한 3인 파티로 진행해야 합니다.⏎* 파티를 맺은 길드원과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎길드원 2명과 함께 몬스터 1000마리 처치하기	* Must be in a 3-person party including yourself and 2 guild members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 1000 monsters together with 2 guild members
-89000090--	manual	탐험 달성도 300 달성하기	Reach an exploration score of 300
-89000090--	complete	탐험 달성도 300 달성하기	Reach an exploration score of 300
-89000091--	manual	1000m 달리기	Run 1000m
-89000091--	complete	1000m 달리기	Run 1000m
 89000092--	name	헤엄치기	Swimming
 89000092--	manual	1000m 헤엄쳐서 이동하기	Swim 1000m
 89000092--	complete	1000m 헤엄쳐서 이동하기	Swim 1000m
-89000093--	manual	100m 기어가기	Crawl 100m
-89000093--	complete	100m 기어가기	Crawl 100m
 89000094--	name	탈것 타고 달리기	Run on a Mount
 89000094--	manual	탈것 타고 신나게 1000m 달리기	Run 1000m on a mount
 89000094--	complete	탈것 타고 신나게 1000m 달리기	Run 1000m on a mount
@@ -2419,8 +2225,6 @@
 89000103--	name	이벤트 던전 입장	Enter Event Dungeon
 89000103--	manual	이벤트 던전 1회 입장하기	Enter an event dungeon 1 time
 89000103--	complete	이벤트 던전 1회 입장하기	Enter an event dungeon 1 time
-89000104--	manual	낚시로 물고기 100마리 낚기	Catch 100 fish
-89000104--	complete	낚시로 물고기 100마리 낚기	Catch 100 fish
 89000105--	name	구리 광맥 채광	Mine Copper Veins
 89000105--	manual	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎구리 광맥에서 $item:33000001$ 30회 채광하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Mine $item:33000001$ from copper veins 30 times
 89000105--	complete	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎구리 광맥에서 $item:33000001$ 30회 채광하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Mine $item:33000001$ from copper veins 30 times
@@ -2634,7 +2438,6 @@
 89000330--	name	황금 보물 상자 10개 찾기	Find 10 Golden Treasure Chests
 89000330--	manual	필드에서 황금 보물 상자를 찾아 열어보기	Find and open golden treasure chests in the field
 89000330--	complete	필드에서 황금 보물 상자를 찾아 열어보기	Find and open golden treasure chests in the field
-89000331--	complete	부서지는 물건 10개 부수기	Break 10 breakable objects
 89000332--	name	필드 보스 5회 처치	Defeat Field Bosses 5 Times
 89000332--	manual	공략이 필요한 필드 보스:⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$⏎⏎필드 보스 5회 처치하기	Field bosses to defeat:⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$,⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$,⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$⏎⏎Defeat field bosses 5 times
 89000332--	complete	공략이 필요한 필드 보스:⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$⏎⏎필드 보스 5회 처치하기	Field bosses to defeat:⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$,⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$,⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$⏎⏎Defeat field bosses 5 times
@@ -2948,9 +2751,6 @@
 80020170-Event-NA	desc	이번 크리스마스에는 크리티아스의 신비한 마법이 메이플 월드 전체에 깃든 것일까?⏎메이플 월드 곳곳에서 아름다운 크리스마스 풍경이 담긴 $item:30001465$이 발견되고 있다. ⏎$item:30001465$을 모아서 $npc:11001003$에게 가져다주자. ⏎⏎*$item:30001465$ 획득 방법⏎- [오늘도 메리 댄스 타임] 일일 퀘스트 보상으로 획득⏎- 이벤트맵 $map:63000093$에서 낚시, 연주 시 일정 확률로 획득 가능⏎- 모든 몬스터 사냥 시 일정 확률로 획득 가능⏎- MC케이 이벤트 우승 시 획득 가능 (PVP 제외)⏎- 70레벨 모험(어려움) 던전 클리어 시 획득 가능⏎- 크리티아스 지역 탐험 목표 완료 시 획득⏎- 크리티아스 지역 풍경 감상 시 획득 (최초 1회에 한함)⏎	Strange holiday magic has settled over Maple World, resulting in the appearance of $itemPlural:30001465$! Gather $itemPlural:30001465$ and take them to $npc:11001003$. ⏎⏎[How to Obtain $itemPlural:30001465$]⏎• Received from the daily quest "$quest:80020171$."⏎• Chance to receive for fishing and performing in event map $map:63000093$⏎• Chance to receive for defeating any enemy⏎• Received for winning MC Kay's mini-games (PvP excluded)⏎• Received for clearing Lv. 70 hard adventure dungeons⏎• Received for completing Kritias exploration goals⏎• Received for using the binoculars scattered throughout Kritias (once per pair of binoculars)⏎
 80020170-Event-NA	manual	$item:30001465$ 수집하기	Get $itemPlural:30001465$
 80020170-Event-NA	complete	$map:02000064$, $map:02020041$ 또는 $map:63000093$에서 $npc:11001003$와 대화하기	Speak with $npc:11001003$ in $map:02000064$, $map:02020041$, or $map:63000093$
-80020171-Event-NA	name	오늘도 메리 댄스 타임!	Dancing in the Snow
-80020171-Event-NA	desc	$npc:11001002$$pp:는,은$ 크리스마스를 맞아 아주 특별한 댄스 파티가 준비되었다는 소식을 전하며, 참여해 보는 게 어떻겠냐고 권유한다. ⏎하루에 1번, $map:61000022$에 참여하고 $npc:11001002$$pp:가,이$ 준비한 깜짝 선물을 받자.	$npc:11001002$ said there's a special holiday dance party in the works. Participate in $map:61000022$ once a day, and she'll give you a surprise gift!
-80020171-Event-NA	complete	$map:02000064$, $map:02020041$ 또는 $map:63000093$에서 $npc:11001002$와 대화하기	Speak with $npc:11001002$ in $map:02000064$, $map:02020041$, or $map:63000093$
 80020172-Event-NA	name	소망을 품은 해	New Year's Wishes
 80020172-Event-NA	desc	메이플 월드 전역을 밝히며 힘차게 떠오른 새해를 맞아 사람들은 각기 새해 소망을 새긴 썬샤인 조각을 넣고 새해 풍선을 날렸다. ⏎사람들의 소망을 품은 새해 풍선은 두둥실 날아올라 메이플 월드 곳곳에 흩뿌려졌고, 트라이아 왕실에서는 새해 풍선 속에 담긴 썬샤인 조각을 수거해서 사람들의 소망을 알아보기로 했다. 메이플 월드 곳곳에서 새해 풍선을 찾아, 그 속에 있는 $item:30001466$을 모아서 $npc:11001003$에게 가져다 주자.	As a new year dawns on Maple World, people write their hopes on Sunshine Fragments and release them into the sky within balloons. To augment their yearly census and better determine the will of the people, the royal court of Tria is collecting the balloons in the new year. Find the New Year's balloons scattered across Maple World, collect the $itemPlural:30001466$ inside, and take them to $npc:11001003$.
 80020172-Event-NA	manual	새해 풍선을 찾아 $item:30001466$ 수거하기	Find the New Year's balloons and retrieve $itemPlural:30001466$
@@ -2995,8 +2795,6 @@
 80020196-Event-NA	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find a new friend every day in Maple World to complete the Hide-and-Sweet mission!
 80020196-Event-NA	manual	메이플 월드에서 10레벨 이상의 '빵빠레 베이비 엔젤'을 착용한 친구 찾기	Find someone who is level 10+ and wearing $item:11850106$
 80020196-Event-NA	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:02020041$
-89040000--	manual	10레벨 달성하기	Reach Level 10
-89040000--	complete	10레벨 달성하기	Reach Level 10
 89040001--	name	맵 10개 방문하기	Visit 10 maps
 89040001--	manual	맵 10개 방문하기	Visit 10 maps
 89040001--	complete	맵 10개 방문하기	Visit 10 maps
@@ -3006,15 +2804,12 @@
 89040003--	name	다른 사람에게 친구 요청하기	Send a friend request
 89040003--	manual	다른 사람에게 친구 요청하기	Send a friend request
 89040003--	complete	다른 사람에게 친구 요청하기	Send a friend request
-89040004--	manual	다른 사람 집 방문하기	Visit another player's house
-89040004--	complete	다른 사람 집 방문하기	Visit another player's house
 89040005--	name	20레벨 달성	Reach Level 20
 89040005--	manual	20레벨 달성	Reach Level 20
 89040005--	complete	20레벨 달성	Reach Level 20
 89040006--	name	MC 케이 이벤트 5회 참여	Participate in 5 MC Kay games
 89040006--	manual	MC 케이 이벤트 5회 참여	Participate in 5 MC Kay games
 89040006--	complete	MC 케이 이벤트 5회 참여	Participate in 5 MC Kay games
-89040007--	complete	야수형 몬스터 처치하기	Battle beast monsters
 89040008--	name	모험 던전 보스 3회 처치	Defeat 3 normal adventure dungeon bosses
 89040008--	manual	모험 던전 보스 3회 처치	Defeat 3 normal adventure dungeon bosses
 89040008--	complete	모험 던전 보스 3회 처치	Defeat 3 normal adventure dungeon bosses
@@ -3387,7 +3182,6 @@
 89050099-Event-NA	name	$dungeonTitle:21001001$ 1회 클리어	$dungeonTitle:21001001$
 89050099-Event-NA	manual	$dungeonTitle:21001001$ 1회 클리어	Clear $dungeonTitle:21001001$
 89050099-Event-NA	complete	$dungeonTitle:21001001$ 1회 클리어	Clear $dungeonTitle:21001001$
-89050100-Event-NA	complete	부서지는 물건 10개 부수기	Break things
 89050101-Event-NA	name	$map:51000001$에서 1라운드 통과하기	$map:51000001$
 89050101-Event-NA	manual	$map:51000001$에서 1라운드 통과하기	Complete a round of $map:51000001$
 89050101-Event-NA	complete	$map:51000001$에서 1라운드 통과하기	Complete a round of $map:51000001$
@@ -3397,7 +3191,6 @@
 89050103-Event-NA	name	다른 사람 집 1회 방문하기	House Visit
 89050103-Event-NA	manual	다른 사람 집 1회 방문하기	Visit another player's house
 89050103-Event-NA	complete	다른 사람 집 1회 방문하기	Visit another player's house
-89050104-Event-NA	complete	인챈트 1회 성공하기	Enchant items
 89050105-Event-NA	name	$map:02000064$에서 '안녕'으로 3회 인사하기	Hello $map:02000064$
 89050105-Event-NA	manual	$map:02000064$에서 '안녕'으로 3회 인사하기	Use the Greet emote in $map:02000064$
 89050105-Event-NA	complete	$map:02000064$에서 '안녕'으로 3회 인사하기	Use the Greet emote in $map:02000064$
@@ -4766,18 +4559,6 @@
 89080717-Event-JP	desc	クエスト「$quest:80030250$」を1回完了する	Complete the 「$quest:80030250$」 quest once
 89080717-Event-JP	manual	クエスト「$quest:80030250$」を1回完了する	Complete the 「$quest:80030250$」 quest once
 89080717-Event-JP	complete	クエスト「$quest:80030250$」を1回完了する	Complete the 「$quest:80030250$」 quest once
-80010082--	desc	아래 커플 진영 필드 보스들을 처치하여 솔로부대의 자격을 증명해 보이자!⏎⏎커플 진영 필드 보스:⏎'$npc:23000001$', '$npc:23000019$', '$npc:23000035$', '$npc:23000017$',  '$npc:23000034$', '$npc:23000009$', '$npc:23000029$', '$npc:23000057$'	Defeat the Couple camp field bosses below to prove your worth as the Solo squad!⏎⏎Couple camp field bosses:⏎'$npc:23000001$', '$npc:23000019$', '$npc:23000035$', '$npc:23000017$',  '$npc:23000034$', '$npc:23000009$', '$npc:23000029$', '$npc:23000057$'
-80010082--	manual	커플 진영 필드 보스 처치하기	Defeat a couple faction field boss
-80010082--	complete	$map:02000064$에서 $npc:11003139$$pp:와,과$ 대화하기	Talk to $npc:11003139$ in $map:02000064$
-80010083--	desc	아래 솔로 진영 필드 보스들을 처치하여 커플부대의 자격을 증명해 보이자!⏎⏎솔로 진영 필드 보스:⏎'$npc:23000054$', '$npc:23000020$', '$npc:23000099$', '$npc:23000047$',  '$npc:23000024$', '$npc:23000045$', '$npc:23000026$', ⏎'$npc:23000012$'	Defeat the Solo camp field bosses below to prove your worth as the Couple squad!⏎⏎Solo camp field bosses:⏎'$npc:23000054$', '$npc:23000020$', '$npc:23000099$', '$npc:23000047$',  '$npc:23000024$', '$npc:23000045$', '$npc:23000026$', ⏎'$npc:23000012$'
-80010083--	manual	솔로 진영 필드 보스 처치하기	Defeat a solo faction field boss
-80010083--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$
-80010084--	desc	아래 커플 진영 필드 보스들을 처치하여 솔로부대의 자격을 증명해 보이자!⏎⏎커플 진영 필드 보스:⏎'$npc:23000001$', '$npc:23000019$', '$npc:23000035$', '$npc:23000017$',  '$npc:23000034$', '$npc:23000009$', '$npc:23000029$', '$npc:23000057$'	Defeat the Couple camp field bosses below to prove your worth as the Solo squad!⏎⏎Couple camp field bosses:⏎'$npc:23000001$', '$npc:23000019$', '$npc:23000035$', '$npc:23000017$',  '$npc:23000034$', '$npc:23000009$', '$npc:23000029$', '$npc:23000057$'
-80010084--	manual	커플 진영 필드 보스 처치하기	Defeat a couple faction field boss
-80010084--	complete	$map:02000064$에서 $npc:11003139$$pp:와,과$ 대화하기	Talk to $npc:11003139$ in $map:02000064$
-80010085--	desc	아래 솔로 진영 필드 보스들을 처치하여 커플부대의 자격을 증명해 보이자!⏎⏎솔로 진영 필드 보스:⏎'$npc:23000054$', '$npc:23000020$', '$npc:23000099$', '$npc:23000047$',  '$npc:23000024$', '$npc:23000045$', '$npc:23000026$', ⏎'$npc:23000012$'	Defeat the Solo camp field bosses below to prove your worth as the Couple squad!⏎⏎Solo camp field bosses:⏎'$npc:23000054$', '$npc:23000020$', '$npc:23000099$', '$npc:23000047$',  '$npc:23000024$', '$npc:23000045$', '$npc:23000026$', ⏎'$npc:23000012$'
-80010085--	manual	솔로 진영 필드 보스 처치하기	Defeat a solo faction field boss
-80010085--	complete	$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$
 80010090--	name	술래잡기 미션 : 오늘의 친구	A Friendly Game of Seek-and-Find
 80010090--	desc	싱그러운 바람이 코 끝을 간질이는 봄날, 술래잡기 놀이를 하며 즐거운 추억을 만들어보자고 말하는 $npc:11001002$. 매일매일 달라지는 술래, '오늘의 친구'를 찾아낸 후 $npcName:11001002$에게 돌아오면 자신의 이벤트 상점에서 아이템을 구입할 수 있는 $item:30001106$$pp:를,을$ 주겠다고 하는데…⏎메이플 월드에서 오늘의 친구를 찾아 술래잡기 미션을 완료해보자!	On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...⏎Find today's friend in Maple World and complete the tag mission!
 80010090--	manual	메이플 월드에서 $item:11300052$$pp:를,을$ 착용한 친구 찾기	Find someone wearing a $item:11300052$
@@ -5228,9 +5009,6 @@
 80010520-Event-CN	desc	처음 본 마녀에게서 $npc:50400341$$pp:를,을$ 선물 받았다. ⏎이거… 키워봐도 되는 걸까?	I received $npc:50400341$ as a gift from a witch I'd just met. Is it... okay to raise it?
 80010520-Event-CN	manual	$map:02000064$에서 $npc:11004717$에게 $npc:50400341$에 대해 들어보기	Ask $npc:11004717$ in $map:02000064$ about $npc:50400341$
 80010520-Event-CN	complete	$map:02000064$에서 $npc:11004717$에게 $npc:50400341$에 대해 들어보기	Ask $npc:11004717$ in $map:02000064$ about $npc:50400341$
-80010530-Event-CN	desc	$npc:11001899$$pp:가,이$ 새 이벤트를 진행한다고 한다.⏎숨바꼭질 형태의 놀이라는데…⏎화요일, 토요일, 일요일에만 열린다고 하니, 잘 기억해뒀다 참여해 보자.	I heard that $npc:11001899$ is hosting a new event.⏎It's a hide-and-seek type game...⏎They say it's only held on Tuesdays, Saturdays, and Sundays, so keep that in mind and join in.
-80010530-Event-CN	manual	$npc:11001899$의 숨바꼭질 이벤트에 참가하기	Participate in $npc:11001899$'s Hide-and-Seek event
-80010530-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010540-Event-CN	name	이기면 더 재밌어!	More Fun When You Win!
 80010540-Event-CN	desc	$npc:11001899$의 새 이벤트, 숨바꼭질에 참여해 승리 팀의 일원이 돼 보자.	Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.
 80010540-Event-CN	manual	$npc:11001899$의 숨바꼭질 이벤트에 참가해, 승리하기	Participate in $npc:11001899$'s Hide-and-Seek event and win
@@ -5267,9 +5045,6 @@
 80010560-Event-CN	desc	2019년 12월 31일과 2020년 1월 1일에 각각 80분 이상 접속을 유지하면 $item:30001467$$pp:가,이$ 10개씩 우편으로 전달된다고 한다.⏎⏎이틀간 $item:30001467$ 20개를 모아 $npcName:11001002$에게 가져다 주자.	If you stay logged in for at least 80 minutes on both December 31, 2019 and January 1, 2020, you'll receive 10 $item:30001467$ by mail each day.⏎Collect 20 $item:30001467$ over the two days and bring them to $npcName:11001002$.
 80010560-Event-CN	manual	$item:30001467$ 획득하기	Obtain $item:30001467$
 80010560-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
-80010570-Event-CN	name	댄스댄스, 신나게 흔들어!	Dance Dance, Shake It Joyfully!
-80010570-Event-CN	desc	$npc:11001002$$pp:는,은$ 이번 겨울 아주 특별한 댄스 파티가 준비되었다는 소식을 전하며, 참여해 보는 게 어떻겠냐고 권유한다. ⏎1주일에 3번, $map:61000022$에 참여하고 $npc:11001002$$pp:가,이$ 준비한 깜짝 선물을 받자.	$npc:11001002$ tells you that a very special dance party has been prepared this winter, and invites you to join in.⏎Participate in $map:61000022$ 3 times a week and receive the surprise gift that $npc:11001002$ has prepared.
-80010570-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010580-Event-CN	name	모험도희영신춘(冒险岛喜迎新春)	Adventure and Welcome the New Year
 80010580-Event-CN	desc	아래의 보스들을 처치하거나 $npcName:11001899$의 이벤트에서 우승해, 글자 '冒险岛喜迎新春'을 모두 모아보자!⏎⏎'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', ⏎'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'	Defeat the bosses listed below or win $npcName:11001899$'s event to collect all the '冒险岛喜迎新春' characters!⏎⏎'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', ⏎'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'
 80010580-Event-CN	manual	글자 '$item:30001493$' 획득하기|글자 '$item:30001494$' 획득하기|글자 '$item:30001495$' 획득하기|글자 '$item:30001496$' 획득하기|글자 '$item:30001497$' 획득하기|글자 '$item:30001498$' 획득하기|글자 '$item:30001499$' 획득하기	Obtain the letter '$item:30001493$'|Obtain the letter '$item:30001494$'|Obtain the letter '$item:30001495$'|Obtain the letter '$item:30001496$'|Obtain the letter '$item:30001497$'|Obtain the letter '$item:30001498$'|Obtain the letter '$item:30001499$'
@@ -5525,8 +5300,6 @@
 89010184--	name	탐험 목표 20개 달성	Achieve 20 exploration objectives
 89010184--	manual	탐험 목표 20개 달성	Achieve 20 exploration objectives
 89010184--	complete	탐험 목표 20개 달성	Achieve 20 exploration objectives
-89010185--	manual	공략이 필요한 필드 보스:⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ ⏎⏎필드 보스 1회 처치하기	Field bosses that need to be defeated:⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ ⏎⏎Defeat a field boss once
-89010185--	complete	공략이 필요한 필드 보스:⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ ⏎⏎필드 보스 1회 처치하기	Field bosses that need to be defeated:⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ ⏎⏎Defeat a field boss once
 89010186--	name	APP 출석 1일 완료	Complete 1 day of APP attendance
 89010186--	manual	APP 출석 1일 완료	Complete 1 day of APP attendance
 89010186--	complete	APP 출석 1일 완료	Complete 1 day of APP attendance
@@ -5596,8 +5369,6 @@
 89010208--	name	쉐도우월드 1회 방문	Visit the Land of Darkness
 89010208--	manual	쉐도우월드 1회 방문	Visit the Land of Darkness
 89010208--	complete	쉐도우월드 1회 방문	Visit the Land of Darkness
-89010209--	manual	다른 사람 집 1회 방문하기	Visit another player's house
-89010209--	complete	다른 사람 집 1회 방문하기	Visit another player's house
 89010300--	name	향긋한 쑥 월병 10회 사용하기	Use Fragrant Mugwort Mooncakes 10 times
 89010300--	manual	향긋한 쑥 월병 10회 사용하기	Use Fragrant Mugwort Mooncakes 10 times
 89010300--	complete	향긋한 쑥 월병 10회 사용하기	Use Fragrant Mugwort Mooncakes 10 times
@@ -5841,10 +5612,6 @@
 89010393-Event-CN	name	필드 보스 10회 처치하기	Defeat Field Bosses 10 Times
 89010393-Event-CN	manual	필드 보스 처치하기	Defeat a field boss
 89010393-Event-CN	complete	필드 보스 10회 처치	Defeat field bosses 10 times
-89010394-Event-CN	name	낚시로 물고기 220마리 낚기	Catch 220 Fish by Fishing
-89010394-Event-CN	complete	낚시로 물고기 220마리 낚기	Catch 220 fish by fishing
-89010395-Event-CN	name	몬스터 2020마리 처치하기	Defeat 2020 Monsters
-89010395-Event-CN	complete	몬스터 2020마리 처치	Defeat 2020 monsters
 89010396-Event-CN	name	황금 보물 상자 20개 열기	Open 20 Golden Treasure Chests
 89010396-Event-CN	manual	황금 보물 상자 열기	Open a Golden Treasure Chest
 89010396-Event-CN	complete	황금 보물 상자 20개 열기	Open 20 Golden Treasure Chests
@@ -5890,10 +5657,6 @@
 89010413-Event-CN	name	필드 보스 5회 처치하기	Defeat Field Bosses 5 Times
 89010413-Event-CN	manual	필드 보스 처치하기	Defeat a field boss
 89010413-Event-CN	complete	필드 보스 5회 처치	Defeat field bosses 5 times
-89010414-Event-CN	name	낚시로 물고기 22마리 낚기	Catch 22 Fish by Fishing
-89010414-Event-CN	complete	낚시로 물고기 22마리 낚기	Catch 22 fish by fishing
-89010415-Event-CN	name	몬스터 220마리 처치하기	Defeat 220 Monsters
-89010415-Event-CN	complete	몬스터 220마리 처치	Defeat 220 monsters
 89010416-Event-CN	name	황금 보물 상자 2개 열기	Open 2 Golden Treasure Chests
 89010416-Event-CN	manual	황금 보물 상자 열기	Open a Golden Treasure Chest
 89010416-Event-CN	complete	황금 보물 상자 2개 열기	Open 2 Golden Treasure Chests
