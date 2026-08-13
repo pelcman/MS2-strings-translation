@@ -26,6 +26,14 @@ REGEX_FIX = [
     (re.compile(r"(\$npc(?:Name)?:[^$]*\$)さん"), r"\1様"),
 ]
 
+# 本プロジェクトが訳した行にだけ適用する正規表現。
+# 公式原本は感嘆符・疑問符の約9割が全角(！5620/! 663、？4801/? 226)。
+# 欠落キー補完のバッチが半角に偏っていたため、英数字の直後以外を全角に揃える。
+OURS_ONLY_REGEX = [
+    (re.compile(r"(?<![A-Za-z0-9])!"), "！"),
+    (re.compile(r"(?<![A-Za-z0-9])\?"), "？"),
+]
+
 # 話者ごとの一人称。公式原本の用例に合わせる。
 # (話者名, 誤, 正) — その話者の name のみを置換する
 SPEAKER_FIX = [
@@ -43,6 +51,10 @@ jp_orig = json.load(open(os.path.join(BASE, "scriptquest.backup.json"), encoding
 PH_RE = re.compile(r"^[A-Z0-9$]+(_[A-Z0-9$]+)+")
 speaker_ko = {}      # 話者名 -> その話者の KO 原文集合(公式訳が無い行のみ)
 speaker_key = {}     # 話者名 -> その話者のキー集合(同上)
+is_official = {}     # キー -> JMS2 公式訳が存在するか
+for _k, _e in jp_orig.items():
+    _bv = _e.get("name")
+    is_official[_k] = isinstance(_bv, str) and bool(_bv) and not PH_RE.match(_bv)
 for _k, _e in ko_all.items():
     _npc = _e.get("npc")
     if not _npc:
@@ -72,6 +84,10 @@ for p in targets:
             nv = nv.replace(a, b)
         for rx, rep in REGEX_FIX:
             nv = rx.sub(rep, nv)
+        # 公式訳が存在しない行(=本PJ訳)のみ
+        if not isjp or not is_official.get(k):
+            for rx, rep in OURS_ONLY_REGEX:
+                nv = rx.sub(rep, nv)
         for spk, wrong, right in SPEAKER_FIX:
             hit = k in speaker_key.get(spk, ()) if isjp else k in speaker_ko.get(spk, ())
             if hit:
