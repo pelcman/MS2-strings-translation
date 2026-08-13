@@ -3,3 +3,8 @@ work/**/*.backup.json
 
 __pycache__/
 *.pyc
+# ワーカーの中間生成物(巨大になりうるので追跡しない)
+work/scriptquest/_*
+work/missing/*.ja.part*.tsv
+work/missing/*.ja.auto.tsv
+work/*/*.prev.json
