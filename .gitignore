@@ -8,3 +8,4 @@ work/scriptquest/_*
 work/missing/*.ja.part*.tsv
 work/missing/*.ja.auto.tsv
 work/*/*.prev.json
+work/missing/_*
