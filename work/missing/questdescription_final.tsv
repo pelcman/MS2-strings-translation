@@ -1,763 +1,20 @@
-80000323--	name	'두근두근' 글자를 모아봐요!	Collect the Letters for 'Heart-Pounding'!
-80000323--	desc	아래 보스들을 처치하여 글자 '$item:30000752$', '$item:30000753$', '$item:30000752$', '$item:30000753$' 을 모아보자!⏎⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$	Defeat the bosses below to collect the letters '$item:30000752$', '$item:30000753$', '$item:30000752$', '$item:30000753$'!⏎⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$
-80000323--	manual	글자 '$item:30000752$' 획득하기|글자 '$item:30000753$' 획득하기	Obtain the letter '$item:30000752$'|Obtain the letter '$item:30000753$'
-80000323--	complete	$map:02000064$이나 $map:63000051$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000051$
-80000325--	name	'메이플2' 글자를 모아봐요!	Collect the Letters for 'MapleStory2'!
-80000325--	desc	아래 보스들을 처치하여 글자 '$item:30000758$', '$item:30000759$', '$item:30000760$', '$item:30000761$' 를 모아보자!⏎⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$	Defeat the bosses below to collect the letters '$item:30000758$', '$item:30000759$', '$item:30000760$', '$item:30000761$'!⏎⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$
-80000325--	manual	글자 '$item:30000758$' 획득하기|글자 '$item:30000759$' 획득하기|글자 '$item:30000760$' 획득하기|글자 '$item:30000761$' 획득하기	Obtain the letter '$item:30000758$'|Obtain the letter '$item:30000759$'|Obtain the letter '$item:30000760$'|Obtain the letter '$item:30000761$'
-80000325--	complete	$map:02000064$이나 $map:63000051$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000051$
-80000326--	name	'사랑해요' 글자를 모아봐요!	Collect the Letters for 'I Love You'!
-80000326--	desc	아래 보스들을 처치하여 글자 '$item:30000762$', '$item:30000763$', '$item:30000764$', '$item:30000765$' 를 모아보자!⏎⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$	Defeat the bosses below to collect the letters '$item:30000762$', '$item:30000763$', '$item:30000764$', '$item:30000765$'!⏎⏎$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,⏎$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, ⏎$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, ⏎$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$
-80000326--	manual	글자 '$item:30000762$' 획득하기|글자 '$item:30000763$' 획득하기|글자 '$item:30000764$' 획득하기|글자 '$item:30000765$' 획득하기	Obtain the letter '$item:30000762$'|Obtain the letter '$item:30000763$'|Obtain the letter '$item:30000764$'|Obtain the letter '$item:30000765$'
-80000326--	complete	$map:02000064$이나 $map:63000051$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ at $map:02000064$ or $map:63000051$
-80000411--	name	초콜릿이 왜 거기서 나와?	Why Is Chocolate Coming from There?
-80000411--	desc	$map:02000014$, $map:02000092$, $map:02000017$의 몬스터를 처치하고 $item:30001052$ 10개를 모아 $npc:11000012$에게 전달해야 한다.	Defeat monsters in $map:02000014$, $map:02000092$, and $map:02000017$ to collect 10 $item:30001052$ and deliver them to $npc:11000012$.
-80000411--	manual	$item:30001052$ 10개 획득하기	Obtain 10 $item:30001052$
-80000411--	complete	$map:02000001$에 있는 $npc:11000012$에게 $item:30001052$ 전달하기	Deliver $item:30001052$ to $npc:11000012$ at $map:02000001$
-80000412--	name	초콜릿이 왜 거기서 나와?	Why Is Chocolate Coming from There?
-80000412--	desc	$map:02000014$, $map:02000092$, $map:02000017$의 몬스터를 처치하고 $item:30001052$ 10개를 모아 $npc:11000012$에게 전달해야 한다.	Defeat monsters in $map:02000014$, $map:02000092$, and $map:02000017$ to collect 10 $item:30001052$ and deliver them to $npc:11000012$.
-80000412--	manual	$item:30001052$ 10개 획득하기	Obtain 10 $item:30001052$
-80000412--	complete	$map:02000001$에 있는 $npc:11000012$에게 $item:30001052$ 전달하기	Deliver $item:30001052$ to $npc:11000012$ at $map:02000001$
-80000413--	name	초콜릿이 왜 거기서 나와?	Why Is Chocolate Coming from There?
-80000413--	desc	$map:02000014$, $map:02000092$, $map:02000017$의 몬스터를 처치하고 $item:30001052$ 10개를 모아 $npc:11000012$에게 전달해야 한다.	Defeat monsters in $map:02000014$, $map:02000092$, and $map:02000017$ to collect 10 $item:30001052$ and deliver them to $npc:11000012$.
-80000413--	manual	$item:30001052$ 10개 획득하기	Obtain 10 $item:30001052$
-80000413--	complete	$map:02000001$에 있는 $npc:11000012$에게 $item:30001052$ 전달하기	Deliver $item:30001052$ to $npc:11000012$ at $map:02000001$
-80000420--	name	메이슨의 사탕 인정? 인정!	Mason's Candy, Approved!
-80000420--	desc	사탕 풍선에서 얻은 $item:30001098$를 $map:02000001$에⏎있는 $npc:11000327$에게 가져가면 특별한⏎사탕을 만들어 준다고 하는데 !	If you bring $item:30001098$ obtained from candy balloons to $npc:11000327$ at $map:02000001$, they say they'll make you a special candy!
-80000420--	manual	사탕 풍선을 조사해 $item:30001098$ 10개 획득하기	Search candy balloons to obtain 10 $item:30001098$
-80000420--	complete	$map:02000001$에 있는 $npc:11000327$에게 $item:30001098$ 전달하기	Deliver $item:30001098$ to $npc:11000327$ at $map:02000001$
-80000421--	name	콘대르의 사탕 인정? 인정!	Condar's Candy, Approved!
-80000421--	desc	사탕 풍선에서 얻은 $item:30001098$를 $map:02000001$에⏎있는 $npc:11000327$에게 가져가면 특별한⏎사탕을 만들어 준다고 하는데 !	If you bring $item:30001098$ obtained from candy balloons to $npc:11000327$ at $map:02000001$, they say they'll make you a special candy!
-80000421--	manual	사탕 풍선을 조사해 $item:30001098$ 10개 획득하기	Search candy balloons to obtain 10 $item:30001098$
-80000421--	complete	$map:02000001$에 있는 $npc:11000327$에게 $item:30001098$ 전달하기	Deliver $item:30001098$ to $npc:11000327$ at $map:02000001$
-89000002--	name	아이템점수	Gear Score
-89000002--	manual	아이템 점수 7000점 달성하기	Reach a gear score of 7000
-89000002--	complete	아이템 점수 7000점 달성하기	Reach a gear score of 7000
-89000004--	name	전문낚시꾼	Master Fisherman
-89000004--	manual	전문낚시꾼 달성하기	Achieve Master Fisherman
-89000004--	complete	전문낚시꾼 달성하기	Achieve Master Fisherman
-89000008--	name	장식도	Decoration Score
-89000008--	manual	장식도 1000 달성	Reach a decoration score of 1000
-89000008--	complete	장식도 1000 달성	Reach a decoration score of 1000
-89000009--	manual	UGC 5회 이상 제작	Create 5 or more UGC items
-89000009--	complete	UGC 5회 이상 제작	Create 5 or more UGC items
-89000010--	manual	다크스트림 15라운드 이상 통과	Clear Dark Stream round 15 or higher
-89000010--	complete	다크스트림 15라운드 이상 통과	Clear Dark Stream round 15 or higher
-89000012--	name	생활기술	Life Skill
-89000012--	manual	대장 숙련 9단계 달성하기|세공 숙련 9단계 달성하기|연금 숙련 9단계 달성하기|요리 숙련 9단계 달성하기	Reach Smithing mastery level 9|Reach Handicraft mastery level 9|Reach Alchemy mastery level 9|Reach Cooking mastery level 9
-89000012--	complete	대장 숙련 9단계 달성하기|세공 숙련 9단계 달성하기|연금 숙련 9단계 달성하기|요리 숙련 9단계 달성하기	Reach Smithing mastery level 9|Reach Handicraft mastery level 9|Reach Alchemy mastery level 9|Reach Cooking mastery level 9
-89000013--	name	신규 레이드 던전	New Raid Dungeons
-89000013--	manual	(레이드 모드) $npc:23090005$ 처치하기|(레이드 모드) $npc:23000080$ 처치하기|(레이드 모드) $npc:23000068$ 처치하기|(레이드 모드) $npc:23000082$ 처치하기	(Raid Mode) Defeat $npc:23090005$|(Raid Mode) Defeat $npc:23000080$|(Raid Mode) Defeat $npc:23000068$|(Raid Mode) Defeat $npc:23000082$
-89000013--	complete	(레이드 모드) $npc:23090005$ 처치하기|(레이드 모드) $npc:23000080$ 처치하기|(레이드 모드) $npc:23000068$ 처치하기|(레이드 모드) $npc:23000082$ 처치하기	(Raid Mode) Defeat $npc:23090005$|(Raid Mode) Defeat $npc:23000080$|(Raid Mode) Defeat $npc:23000068$|(Raid Mode) Defeat $npc:23000082$
-89000016--	name	스킨소켓	Skin Socket
-89000016--	manual	스킨 소켓에 젬스톤 넣어보기	Insert a gemstone into a skin socket
-89000016--	complete	스킨 소켓에 젬스톤 넣어보기	Insert a gemstone into a skin socket
-89000017--	name	장비소켓	Equipment Socket
-89000017--	manual	장비 소켓에 젬스톤 넣어보기	Insert a gemstone into an equipment socket
-89000017--	complete	장비 소켓에 젬스톤 넣어보기	Insert a gemstone into an equipment socket
-89000020--	name	자쿰 칭호	Zakum Title
-89000020--	manual	$npc:23400071$ 을 처치하고 자쿰 정복자 칭호 획득하기	Defeat $npc:23400071$ and obtain the Zakum Conqueror title
-89000020--	complete	$npc:23400071$ 을 처치하고 자쿰 정복자 칭호 획득하기	Defeat $npc:23400071$ and obtain the Zakum Conqueror title
-89000021--	name	길드 파티	Guild Party
-89000021--	manual	같은 길드원으로 구성된 파티 (10인) 로 : ⏎자쿰의 첫 번째 팔 제거하기|자쿰의 두 번째 팔 제거하기|자쿰의 세 번째 팔 제거하기|자쿰의 네 번째 팔 제거하기|자쿰의 다섯 번째 팔 제거하기|자쿰의 여섯 번째 팔 제거하기|	With a party of 10 guild members:⏎Destroy Zakum's first arm|Destroy Zakum's second arm|Destroy Zakum's third arm|Destroy Zakum's fourth arm|Destroy Zakum's fifth arm|Destroy Zakum's sixth arm
-89000021--	complete	같은 길드원으로 구성된 파티 (10인) 로 : ⏎자쿰의 첫 번째 팔 제거하기|자쿰의 두 번째 팔 제거하기|자쿰의 세 번째 팔 제거하기|자쿰의 네 번째 팔 제거하기|자쿰의 다섯 번째 팔 제거하기|자쿰의 여섯 번째 팔 제거하기	With a party of 10 guild members:⏎Destroy Zakum's first arm|Destroy Zakum's second arm|Destroy Zakum's third arm|Destroy Zakum's fourth arm|Destroy Zakum's fifth arm|Destroy Zakum's sixth arm
-89000022--	name	자쿰 팔	Zakum's Arms
-89000022--	manual	자쿰의 첫 번째 팔 제거하기	Destroy Zakum's first arm
-89000022--	complete	자쿰의 첫 번째 팔 제거하기	Destroy Zakum's first arm
-89000024--	name	자쿰 만나기	Meet Zakum
-89000024--	manual	자쿰 만나기	Meet Zakum
-89000024--	complete	자쿰 만나기	Meet Zakum
-89000025--	name	오늘의미션	Daily Mission
-89000025--	manual	오늘의 미션 100회 달성	Complete 100 daily missions
-89000025--	complete	오늘의 미션 100회 달성	Complete 100 daily missions
-89000026--	name	탐험목표	Exploration Goals
-89000026--	manual	탐험 목표 500개 달성	Complete 500 exploration goals
-89000026--	complete	탐험 목표 500개 달성	Complete 500 exploration goals
-89000027--	name	보스 처치	Boss Defeats
-89000027--	manual	$npc:23000013$ 처치하기|$npc:23000018$ 처치하기|$npc:23000001$ 처치하기|$npc:23000019$ 처치하기|$npc:23000054$ 처치하기|$npc:23000020$ 처치하기|$npc:23000035$ 처치하기|$npc:23000099$ 처치하기|$npc:23000017$ 처치하기|$npc:23000024$ 처치하기|$npc:23000034$ 처치하기|$npc:23000045$ 처치하기|$npc:23000047$ 처치하기|$npc:23000012$ 처치하기|$npc:23000057$ 처치하기|$npc:23000009$ 처치하기|$npc:23000029$ 처치하기|$npc:23000026$ 처치하기	Defeat $npc:23000013$|Defeat $npc:23000018$|Defeat $npc:23000001$|Defeat $npc:23000019$|Defeat $npc:23000054$|Defeat $npc:23000020$|Defeat $npc:23000035$|Defeat $npc:23000099$|Defeat $npc:23000017$|Defeat $npc:23000024$|Defeat $npc:23000034$|Defeat $npc:23000045$|Defeat $npc:23000047$|Defeat $npc:23000012$|Defeat $npc:23000057$|Defeat $npc:23000009$|Defeat $npc:23000029$|Defeat $npc:23000026$
-89000027--	complete	$npc:23000013$ 처치하기|$npc:23000018$ 처치하기|$npc:23000001$ 처치하기|$npc:23000019$ 처치하기|$npc:23000054$ 처치하기|$npc:23000020$ 처치하기|$npc:23000035$ 처치하기|$npc:23000099$ 처치하기|$npc:23000017$ 처치하기|$npc:23000024$ 처치하기|$npc:23000034$ 처치하기|$npc:23000045$ 처치하기|$npc:23000047$ 처치하기|$npc:23000012$ 처치하기|$npc:23000057$ 처치하기|$npc:23000009$ 처치하기|$npc:23000029$ 처치하기|$npc:23000026$ 처치하기	Defeat $npc:23000013$|Defeat $npc:23000018$|Defeat $npc:23000001$|Defeat $npc:23000019$|Defeat $npc:23000054$|Defeat $npc:23000020$|Defeat $npc:23000035$|Defeat $npc:23000099$|Defeat $npc:23000017$|Defeat $npc:23000024$|Defeat $npc:23000034$|Defeat $npc:23000045$|Defeat $npc:23000047$|Defeat $npc:23000012$|Defeat $npc:23000057$|Defeat $npc:23000009$|Defeat $npc:23000029$|Defeat $npc:23000026$
-89000028--	name	강화	Enhancement
-89000028--	manual	강화 9단계 달성	Reach enhancement level 9
-89000028--	complete	강화 9단계 달성	Reach enhancement level 9
-89000282--	name	오늘의 미션 30회 완료	Complete 30 Daily Missions
-89000282--	manual	* 오늘의 미션 내용은 '모험 > 오늘의 미션'에서 확인할 수 있습니다.⏎⏎오늘의 미션 30회 완료하기	* Daily mission details can be found in 'Adventure > Daily Missions'.⏎⏎Complete 30 daily missions
-89000282--	complete	* 오늘의 미션 내용은 '모험 > 오늘의 미션'에서 확인할 수 있습니다.⏎⏎오늘의 미션 30회 완료하기	* Daily mission details can be found in 'Adventure > Daily Missions'.⏎⏎Complete 30 daily missions
-89000283--	name	오늘의 미션 50회 완료	Complete 50 Daily Missions
-89000283--	manual	* 오늘의 미션 내용은 '모험 > 오늘의 미션'에서 확인할 수 있습니다.⏎⏎오늘의 미션 50회 완료하기	* Daily mission details can be found in 'Adventure > Daily Missions'.⏎⏎Complete 50 daily missions
-89000283--	complete	* 오늘의 미션 내용은 '모험 > 오늘의 미션'에서 확인할 수 있습니다.⏎⏎오늘의 미션 50회 완료하기	* Daily mission details can be found in 'Adventure > Daily Missions'.⏎⏎Complete 50 daily missions
-89000284--	name	언데드형 몬스터 666마리 처치	Defeat 666 Undead-Type Monsters
-89000284--	manual	* 월드맵에서 '언데드형'이라고 검색하면 언데드형 몬스터를 쉽게 찾을 수 있습니다.⏎* 메이뷰 몬스터 사전에서도 유형 별 몬스터를 확인할 수 있습니다. ⏎⏎언데드형 몬스터 666마리 처치하기	* You can easily find Undead-type monsters by searching 'Undead' on the world map.⏎* You can also check monsters by type in the Maple Guide monster encyclopedia.⏎⏎Defeat 666 Undead-type monsters
-89000284--	complete	* 월드맵에서 '언데드형'이라고 검색하면 언데드형 몬스터를 쉽게 찾을 수 있습니다.⏎* 메이뷰 몬스터 사전에서도 유형 별 몬스터를 확인할 수 있습니다. ⏎⏎언데드형 몬스터 666마리 처치하기	* You can easily find Undead-type monsters by searching 'Undead' on the world map.⏎* You can also check monsters by type in the Maple Guide monster encyclopedia.⏎⏎Defeat 666 Undead-type monsters
-89000285--	name	몬스터 99마리 처치	Defeat 99 Monsters
-89000285--	manual	몬스터 99마리 처치하기	Defeat 99 monsters
-89000285--	complete	몬스터 99마리 처치하기	Defeat 99 monsters
-89000286--	name	몬스터 999마리 처치	Defeat 999 Monsters
-89000286--	manual	몬스터 999마리 처치하기	Defeat 999 monsters
-89000286--	complete	몬스터 999마리 처치하기	Defeat 999 monsters
-89000287--	name	몬스터 9999마리 처치	Defeat 9999 Monsters
-89000287--	manual	몬스터 9999마리 처치하기	Defeat 9999 monsters
-89000287--	complete	몬스터 9999마리 처치하기	Defeat 9999 monsters
-89000288--	name	다크 스트림 10라운드 통과	Clear Dark Stream Round 10
-89000288--	manual	* 다크 스트림은 1인 던전으로 ⏎'모험 > 던전 찾기 > 다크 스트림'에서 들어갈 수 있습니다.⏎⏎다크 스트림에 도전하여 10라운드 통과하기	* Dark Stream is a solo dungeon accessible from 'Adventure > Dungeon Finder > Dark Stream'.⏎⏎Challenge Dark Stream and clear round 10
-89000288--	complete	* 다크 스트림은 1인 던전으로 ⏎'모험 > 던전 찾기 > 다크 스트림'에서 들어갈 수 있습니다.⏎⏎다크 스트림에 도전하여 20라운드 통과하기	* Dark Stream is a solo dungeon accessible from 'Adventure > Dungeon Finder > Dark Stream'.⏎⏎Challenge Dark Stream and clear round 20
-89000289--	name	다크 스트림 20라운드 통과	Clear Dark Stream Round 20
-89000289--	manual	* 다크 스트림은 1인 던전으로 ⏎'모험 > 던전 찾기 > 다크 스트림'에서 들어갈 수 있습니다.⏎⏎다크 스트림에 도전하여 20라운드 통과하기	* Dark Stream is a solo dungeon accessible from 'Adventure > Dungeon Finder > Dark Stream'.⏎⏎Challenge Dark Stream and clear round 20
-89000289--	complete	* 다크 스트림은 1인 던전으로 ⏎'모험 > 던전 찾기 > 다크 스트림'에서 들어갈 수 있습니다.⏎⏎다크 스트림에 도전하여 20라운드 통과하기	* Dark Stream is a solo dungeon accessible from 'Adventure > Dungeon Finder > Dark Stream'.⏎⏎Challenge Dark Stream and clear round 20
-89000293--	name	이벤트 던전 코인 30개 수집	Collect 30 Event Dungeon Coins
-89000293--	manual	* '캐시마트 아르바이트'는 4인 던전으로 ⏎'모험 > 던전 찾기 > 이벤트 던전'에서 들어갈 수 있습니다.⏎⏎이벤트 던전 '캐시마트 아르바이트'에서 이벤트 던전 코인 30개 수집하기	* 'Cash Mart Part-Time Job' is a 4-player dungeon accessible from 'Adventure > Dungeon Finder > Event Dungeon'.⏎⏎Collect 30 event dungeon coins from the 'Cash Mart Part-Time Job' event dungeon
-89000293--	complete	* '캐시마트 아르바이트'는 4인 던전으로 ⏎'모험 > 던전 찾기 > 이벤트 던전'에서 들어갈 수 있습니다.⏎⏎이벤트 던전 '캐시마트 아르바이트'에서 이벤트 던전 코인 30개 수집하기	* 'Cash Mart Part-Time Job' is a 4-player dungeon accessible from 'Adventure > Dungeon Finder > Event Dungeon'.⏎⏎Collect 30 event dungeon coins from the 'Cash Mart Part-Time Job' event dungeon
-89000294--	name	다크셀 바이러스 센터에서 달리기	Run in Dark Cell Virus Center
-89000294--	manual	다크셀 바이러스 센터에서 1000m 달리기	Run 1000m in Dark Cell Virus Center
-89000294--	complete	다크셀 바이러스 센터에서 1000m 달리기	Run 1000m in Dark Cell Virus Center
-89000295--	name	뱀파이어 관에 누워보기	Lie in a Vampire Coffin
-89000295--	manual	건설 아이템 '뱀파이어 관' 1회 사용하기	Use the construction item 'Vampire Coffin' 1 time
-89000295--	complete	건설 아이템 '뱀파이어 관' 1회 사용하기	Use the construction item 'Vampire Coffin' 1 time
-89000296--	name	프랑케네뜨 처치	Defeat Frankenette
-89000296--	manual	프랑케네뜨 처치하기	Defeat Frankenette
-89000296--	complete	프랑케네뜨 처치하기	Defeat Frankenette
-89000297--	name	레버넌트 좀비 처치	Defeat Revenant Zombie
-89000297--	manual	레버넌트 좀비 처치하기	Defeat Revenant Zombie
-89000297--	complete	레버넌트 좀비 처치하기	Defeat Revenant Zombie
-89000298--	name	$map:61000010$ 결승점에 3회 도착	Reach the Finish Line 3 Times in $map:61000010$
-89000298--	manual	* 상해 크레이지 러너즈는 매시간 15분, 45분에 참여할 수 있습니다.⏎⏎$map:61000010$에서 결승점에 3회 도착하기	* Shanghai Crazy Runners are available at :15 and :45 every hour.⏎⏎Reach the finish line 3 times in $map:61000010$
-89000298--	complete	* 상해 크레이지 러너즈는 매시간 15분, 45분에 참여할 수 있습니다.⏎⏎$map:61000010$에서 결승점에 3회 도착하기	* Shanghai Crazy Runners are available at :15 and :45 every hour.⏎⏎Reach the finish line 3 times in $map:61000010$
-89000299--	name	미들턴에서 아연 광맥 30회 채광	Mine Zinc Veins in Middleton 30 Times
-89000299--	manual	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎미들턴 아연 광맥에서 $item:33000003$ 30회 채광하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Mine $item:33000003$ from zinc veins in Middleton 30 times
-89000299--	complete	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎미들턴 아연 광맥에서 $item:33000003$ 30회 채광하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Mine $item:33000003$ from zinc veins in Middleton 30 times
-89000300--	name	돼지 축사에서 30회 수확	Harvest from Pig Pen 30 Times
-89000300--	manual	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎내 집에 설치된 $item:50400161$에서 $item:33000028$ 30회 수확하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Harvest $item:33000028$ from $item:50400161$ installed in your home 30 times
-89000300--	complete	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎내 집에 설치된 $item:50400161$에서 $item:33000028$ 30회 수확하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Harvest $item:33000028$ from $item:50400161$ installed in your home 30 times
-89000301--	name	미들턴에서 로즈마리 허브 30회 채집	Gather Rosemary Herbs in Middleton 30 Times
-89000301--	manual	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎미들턴 로즈마리 허브에서 $item:33000108$ 30회 채집하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Gather $item:33000108$ from rosemary herbs in Middleton 30 times
-89000301--	complete	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎미들턴 로즈마리 허브에서 $item:33000108$ 30회 채집하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Gather $item:33000108$ from rosemary herbs in Middleton 30 times
-89000302--	name	호박 밭에서 호박 30회 수확	Harvest Pumpkins from Pumpkin Patch 30 Times
-89000302--	manual	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎내 집에 설치된 $item:50400192$에서 $item:33000120$ 30회 수확하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Harvest $item:33000120$ from $item:50400192$ installed in your home 30 times
-89000302--	complete	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎내 집에 설치된 $item:50400192$에서 $item:33000120$ 30회 수확하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Harvest $item:33000120$ from $item:50400192$ installed in your home 30 times
-89000304--	name	무법자의 언덕에서 다른 캐릭터에게 쓰러지기	Get Defeated by Another Character at Outlaw Hill
-89000304--	manual	무법자의 언덕에서 다른 캐릭터에게 5회 쓰러지기	Get defeated by another character 5 times at Outlaw Hill
-89000304--	complete	무법자의 언덕에서 다른 캐릭터에게 5회 쓰러지기	Get defeated by another character 5 times at Outlaw Hill
-89000305--	name	무법자의 언덕에서 다른 캐릭터 쓰러뜨리기	Defeat Another Character at Outlaw Hill
-89000305--	manual	무법자의 언덕에서 다른 캐릭터 쓰러뜨리기	Defeat another character at Outlaw Hill
-89000305--	complete	무법자의 언덕에서 다른 캐릭터 쓰러뜨리기	Defeat another character at Outlaw Hill
-89000306--	name	파티원 3명과 필드 보스 30마리 처치	Defeat 30 Field Bosses with 3 Party Members
-89000306--	manual	* 나 자신과 파티원 3명을 포함한 4인 파티로 진행해야 합니다.⏎* 파티원들과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎파티원 3명과 함께 필드 보스 30마리 처치하기	* Must be in a 4-person party including yourself and 3 party members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 30 field bosses together with 3 party members
-89000306--	complete	* 나 자신과 파티원 3명을 포함한 4인 파티로 진행해야 합니다.⏎* 파티원들과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎파티원 3명과 함께 필드 보스 30마리 처치하기	* Must be in a 4-person party including yourself and 3 party members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 30 field bosses together with 3 party members
-89000307--	name	파티원 3명과 언데드 몬스터 1000마리 처치	Defeat 1000 Undead Monsters with 3 Party Members
-89000307--	manual	* 나 자신과 파티원 3명을 포함한 4인 파티로 진행해야 합니다.⏎* 파티원들과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎파티원 3명과 함께 언데드 몬스터 1000마리 처치하기	* Must be in a 4-person party including yourself and 3 party members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 1000 Undead monsters together with 3 party members
-89000307--	complete	* 나 자신과 파티원 3명을 포함한 4인 파티로 진행해야 합니다.⏎* 파티원들과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎파티원 3명과 함께 언데드 몬스터 1000마리 처치하기	* Must be in a 4-person party including yourself and 3 party members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 1000 Undead monsters together with 3 party members
-89000308--	name	단호박 스프 10회 제작	Craft Kabocha Soup 10 Times
-89000308--	manual	* 단호박 스프는 '생활 > 생활 기술 > 제작 > 요리'에서 제작할 수 있습니다.⏎⏎단호박 스프 10회 제작하기	* Kabocha Soup can be crafted from 'Life > Life Skills > Crafting > Cooking'.⏎⏎Craft Kabocha Soup 10 times
-89000308--	complete	* 단호박 스프는 '생활 > 생활 기술 > 제작 > 요리'에서 제작할 수 있습니다.⏎⏎단호박 스프 10회 제작하기	* Kabocha Soup can be crafted from 'Life > Life Skills > Crafting > Cooking'.⏎⏎Craft Kabocha Soup 10 times
-89000060--	name	사용하지 마세요	Do Not Use
-89000060--	desc	사용 불가	Unavailable
-89000060--	manual	사용 불가	Unavailable
-89000060--	complete	사용 불가	Unavailable
-89000061--	name	택시 이용	Use Taxi
-89000061--	manual	택시 30회 이용하기	Use a taxi 30 times
-89000061--	complete	택시 30회 이용하기	Use a taxi 30 times
-89000063--	name	헤엄치기	Swimming
-89000063--	manual	1000m 헤엄쳐서 이동하기	Swim 1000m
-89000063--	complete	1000m 헤엄쳐서 이동하기	Swim 1000m
-89000065--	name	탈것 타고 달리기	Run on a Mount
-89000065--	manual	탈것 타고 신나게 1000m 달리기	Run 1000m on a mount
-89000065--	complete	탈것 타고 신나게 1000m 달리기	Run 1000m on a mount
-89000066--	name	두둥실 날아보기	Floating Flight
-89000066--	manual	비행 탈것 타고 1000m 비행하기	Fly 1000m on a flying mount
-89000066--	complete	비행 탈것 타고 1000m 비행하기	Fly 1000m on a flying mount
-89000068--	name	인사	Greeting
-89000068--	manual	인사하는 다이나믹 액션 30회 취하기	Perform a greeting emote 30 times
-89000068--	complete	인사하는 다이나믹 액션 30회 취하기	Perform a greeting emote 30 times
-89000071--	name	오늘의 미션 30번 완료	Complete Daily Missions 30 Times
-89000071--	manual	오늘의 미션 30번 완료하기	Complete daily missions 30 times
-89000071--	complete	오늘의 미션 30번 완료하기	Complete daily missions 30 times
-89000072--	name	몬스터 99마리 처치	Defeat 99 Monsters
-89000072--	manual	몬스터 99마리 처치하기	Defeat 99 monsters
-89000072--	complete	몬스터 99마리 처치하기	Defeat 99 monsters
-89000073--	name	몬스터 999마리 처치	Defeat 999 Monsters
-89000073--	manual	몬스터 999마리 처치하기	Defeat 999 monsters
-89000073--	complete	몬스터 999마리 처치하기	Defeat 999 monsters
-89000074--	name	둔둔 처치	Defeat Dundun
-89000074--	manual	$npc:23000013$ 5회 처치하기	Defeat $npc:23000013$ 5 times
-89000074--	complete	$npc:23000013$ 5회 처치하기	Defeat $npc:23000013$ 5 times
-89000075--	name	자이언트 터틀 처치	Defeat Giant Turtle
-89000075--	manual	$npc:23000018$ 5회 처치하기	Defeat $npc:23000018$ 5 times
-89000075--	complete	$npc:23000018$ 5회 처치하기	Defeat $npc:23000018$ 5 times
-89000076--	name	모험 던전 '벚꽃 숲의 비밀' 공략	Clear Adventure Dungeon 'Secret of the Cherry Blossom Forest'
-89000076--	manual	모험 던전 '벚꽃 숲의 비밀' 공략에 5회 성공하기	Clear the adventure dungeon 'Secret of the Cherry Blossom Forest' 5 times
-89000076--	complete	모험 던전 '벚꽃 숲의 비밀' 공략에 5회 성공하기	Clear the adventure dungeon 'Secret of the Cherry Blossom Forest' 5 times
-89000077--	name	모험 던전 '오염된 정원' 공략	Clear Adventure Dungeon 'Contaminated Garden'
-89000077--	manual	모험 던전 '오염된 정원' 공략에 5회 성공하기	Clear the adventure dungeon 'Contaminated Garden' 5 times
-89000077--	complete	모험 던전 '오염된 정원' 공략에 5회 성공하기	Clear the adventure dungeon 'Contaminated Garden' 5 times
-89000079--	name	구리 광맥 채광	Mine Copper Veins
-89000079--	manual	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎구리 광맥에서 $item:33000001$ 30회 채광하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Mine $item:33000001$ from copper veins 30 times
-89000079--	complete	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎구리 광맥에서 $item:33000001$ 30회 채광하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Mine $item:33000001$ from copper veins 30 times
-89000080--	name	닭 축사를 설치해 닭 깃털 획득	Install Chicken Coop and Obtain Chicken Feathers
-89000080--	manual	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎내 집에 설치된 $item:50400159$에서 $item:33000026$ 30회 수확 시도하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Harvest $item:33000026$ from $item:50400159$ installed in your home 30 times
-89000080--	complete	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎내 집에 설치된 $item:50400159$에서 $item:33000026$ 30회 수확 시도하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Harvest $item:33000026$ from $item:50400159$ installed in your home 30 times
-89000081--	name	마조람 허브 채집	Gather Marjoram Herbs
-89000081--	manual	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎마조람 허브에서 $item:33000099$ 30회 채집하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Gather $item:33000099$ from marjoram herbs 30 times
-89000081--	complete	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎마조람 허브에서 $item:33000099$ 30회 채집하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Gather $item:33000099$ from marjoram herbs 30 times
-89000082--	name	논을 설치해 쌀 획득	Install Rice Paddy and Obtain Rice
-89000082--	manual	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎내 집에 설치된 $item:50400191$에서 $item:33000118$ 30회 수확 시도하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Harvest $item:33000118$ from $item:50400191$ installed in your home 30 times
-89000082--	complete	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎내 집에 설치된 $item:50400191$에서 $item:33000118$ 30회 수확 시도하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Harvest $item:33000118$ from $item:50400191$ installed in your home 30 times
-89000083--	name	MC케이 1회 참여	Participate in MC Kay 1 Time
-89000083--	manual	MC케이 이벤트 1회 참여하기	Participate in MC Kay event 1 time
-89000083--	complete	MC케이 이벤트 1회 참여하기	Participate in MC Kay event 1 time
-89000085--	name	길드 가입	Join a Guild
-89000085--	manual	길드에 가입하기	Join a guild
-89000085--	complete	길드에 가입하기	Join a guild
-89000086--	name	길드원 2명과 몬스터 100마리 처치	Defeat 100 Monsters with 2 Guild Members
-89000086--	manual	* 나 자신과 길드원 2명을 포함한 3인 파티로 진행해야 합니다.⏎* 파티를 맺은 길드원과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎파티를 맺은 길드원 2명과 함께 몬스터 100마리 처치하기	* Must be in a 3-person party including yourself and 2 guild members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 100 monsters together with 2 guild members in your party
-89000086--	complete	* 나 자신과 길드원 2명을 포함한 3인 파티로 진행해야 합니다.⏎* 파티를 맺은 길드원과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎파티를 맺은 길드원 2명과 함께 몬스터 100마리 처치하기	* Must be in a 3-person party including yourself and 2 guild members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 100 monsters together with 2 guild members in your party
-89000088--	name	미니 게임 대전 참여	Participate in Mini Game Battle
-89000088--	manual	* 길드 이벤트인 미니 게임 대전 '댄스댄스스탑'은 ⏎토요일 19시~20시 길드 이벤트 창에서 대전 신청을 할 수 있습니다. ⏎* 부전승/부전패를 했을 경우에는 체크되지 않습니다. ⏎실제로 게임이 시작되어 대전을 즐겨야만 목표가 달성됩니다.⏎⏎미니 게임 대전 참여하기	* The guild event mini game battle 'Dance Dance Stop' can be entered from the guild event window on Saturdays from 7PM-8PM.⏎* Wins/losses by default (no-shows) do not count.⏎The game must actually start and be played for the goal to be achieved.⏎⏎Participate in a mini game battle
-89000088--	complete	* 길드 이벤트인 미니 게임 대전 '댄스댄스스탑'은 ⏎토요일 19시~20시 길드 이벤트 창에서 대전 신청을 할 수 있습니다. ⏎* 부전승/부전패를 했을 경우에는 체크되지 않습니다. ⏎실제로 게임이 시작되어 대전을 즐겨야만 목표가 달성됩니다.⏎⏎미니 게임 대전 참여하기	* The guild event mini game battle 'Dance Dance Stop' can be entered from the guild event window on Saturdays from 7PM-8PM.⏎* Wins/losses by default (no-shows) do not count.⏎The game must actually start and be played for the goal to be achieved.⏎⏎Participate in a mini game battle
-89000089--	name	길드원 2명과 몬스터 1000마리 처치	Defeat 1000 Monsters with 2 Guild Members
-89000089--	manual	* 나 자신과 길드원 2명을 포함한 3인 파티로 진행해야 합니다.⏎* 파티를 맺은 길드원과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎길드원 2명과 함께 몬스터 1000마리 처치하기	* Must be in a 3-person party including yourself and 2 guild members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 1000 monsters together with 2 guild members
-89000089--	complete	* 나 자신과 길드원 2명을 포함한 3인 파티로 진행해야 합니다.⏎* 파티를 맺은 길드원과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎길드원 2명과 함께 몬스터 1000마리 처치하기	* Must be in a 3-person party including yourself and 2 guild members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 1000 monsters together with 2 guild members
-89000092--	name	헤엄치기	Swimming
-89000092--	manual	1000m 헤엄쳐서 이동하기	Swim 1000m
-89000092--	complete	1000m 헤엄쳐서 이동하기	Swim 1000m
-89000094--	name	탈것 타고 달리기	Run on a Mount
-89000094--	manual	탈것 타고 신나게 1000m 달리기	Run 1000m on a mount
-89000094--	complete	탈것 타고 신나게 1000m 달리기	Run 1000m on a mount
-89000095--	name	두둥실 날아보기	Floating Flight
-89000095--	manual	비행 탈것 타고 1000m 비행하기	Fly 1000m on a flying mount
-89000095--	complete	비행 탈것 타고 1000m 비행하기	Fly 1000m on a flying mount
-89000097--	name	몬스터 99마리 처치	Defeat 99 Monsters
-89000097--	manual	몬스터 99마리 처치하기	Defeat 99 monsters
-89000097--	complete	몬스터 99마리 처치하기	Defeat 99 monsters
-89000098--	name	몬스터 999마리 처치	Defeat 999 Monsters
-89000098--	manual	몬스터 999마리 처치하기	Defeat 999 monsters
-89000098--	complete	몬스터 999마리 처치하기	Defeat 999 monsters
-89000099--	name	몬스터 9999마리 처치	Defeat 9999 Monsters
-89000099--	manual	몬스터 9999마리 처치하기	Defeat 9999 monsters
-89000099--	complete	몬스터 9999마리 처치하기	Defeat 9999 monsters
-89000102--	name	다크 스트림 10라운드 통과	Clear Dark Stream Round 10
-89000102--	manual	다크 스트림에 도전하여 10라운드 통과하기	Challenge Dark Stream and clear round 10
-89000102--	complete	다크 스트림에 도전하여 10라운드 통과하기	Challenge Dark Stream and clear round 10
-89000103--	name	이벤트 던전 입장	Enter Event Dungeon
-89000103--	manual	이벤트 던전 1회 입장하기	Enter an event dungeon 1 time
-89000103--	complete	이벤트 던전 1회 입장하기	Enter an event dungeon 1 time
-89000105--	name	구리 광맥 채광	Mine Copper Veins
-89000105--	manual	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎구리 광맥에서 $item:33000001$ 30회 채광하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Mine $item:33000001$ from copper veins 30 times
-89000105--	complete	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎구리 광맥에서 $item:33000001$ 30회 채광하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Mine $item:33000001$ from copper veins 30 times
-89000106--	name	닭 축사를 설치해 닭 깃털 획득	Install Chicken Coop and Obtain Chicken Feathers
-89000106--	manual	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎내 집에 설치된 $item:50400159$에서 $item:33000026$ 30회 수확 시도하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Harvest $item:33000026$ from $item:50400159$ installed in your home 30 times
-89000106--	complete	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎내 집에 설치된 $item:50400159$에서 $item:33000026$ 30회 수확 시도하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Harvest $item:33000026$ from $item:50400159$ installed in your home 30 times
-89000107--	name	마조람 허브 채집	Gather Marjoram Herbs
-89000107--	manual	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎마조람 허브에서 $item:33000099$ 30회 채집하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Gather $item:33000099$ from marjoram herbs 30 times
-89000107--	complete	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎마조람 허브에서 $item:33000099$ 30회 채집하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Gather $item:33000099$ from marjoram herbs 30 times
-89000108--	name	논을 설치해 쌀 획득	Install Rice Paddy and Obtain Rice
-89000108--	manual	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎내 집에 설치된 $item:50400191$에서 $item:33000118$ 30회 수확 시도하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Harvest $item:33000118$ from $item:50400191$ installed in your home 30 times
-89000108--	complete	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎내 집에 설치된 $item:50400191$에서 $item:33000118$ 30회 수확 시도하기	* Items obtained through Magic Production Coupons are excluded.⏎⏎Harvest $item:33000118$ from $item:50400191$ installed in your home 30 times
-89000111--	name	오늘의 미션 30번 완료	Complete Daily Missions 30 Times
-89000111--	manual	오늘의 미션 30번 완료하기	Complete daily missions 30 times
-89000111--	complete	오늘의 미션 30번 완료하기	Complete daily missions 30 times
-89000112--	name	MC케이 이벤트 1회 참여	Participate in MC Kay Event 1 Time
-89000112--	manual	MC케이 이벤트 1회 참여하기	Participate in MC Kay event 1 time
-89000112--	complete	MC케이 이벤트 1회 참여하기	Participate in MC Kay event 1 time
-89000115--	name	미니 게임 대전 참여	Participate in Mini Game Battle
-89000115--	manual	* 길드 이벤트인 미니 게임 대전 '댄스댄스스탑'은 ⏎토요일 19시~20시 길드 이벤트 창에서 대전 신청을 할 수 있습니다. ⏎* 부전승/부전패를 했을 경우에는 체크되지 않습니다. ⏎실제로 게임이 시작되어 대전을 즐겨야만 목표가 달성됩니다.⏎⏎미니 게임 대전 참여하기	* The guild event mini game battle 'Dance Dance Stop' can be entered from the guild event window on Saturdays from 7PM-8PM.⏎* Wins/losses by default (no-shows) do not count.⏎The game must actually start and be played for the goal to be achieved.⏎⏎Participate in a mini game battle
-89000115--	complete	* 길드 이벤트인 미니 게임 대전 '댄스댄스스탑'은 ⏎토요일 19시~20시 길드 이벤트 창에서 대전 신청을 할 수 있습니다. ⏎* 부전승/부전패를 했을 경우에는 체크되지 않습니다. ⏎실제로 게임이 시작되어 대전을 즐겨야만 목표가 달성됩니다.⏎⏎미니 게임 대전 참여하기	* The guild event mini game battle 'Dance Dance Stop' can be entered from the guild event window on Saturdays from 7PM-8PM.⏎* Wins/losses by default (no-shows) do not count.⏎The game must actually start and be played for the goal to be achieved.⏎⏎Participate in a mini game battle
-89000116--	name	길드 가입	Join a Guild
-89000116--	manual	길드에 가입하기	Join a guild
-89000116--	complete	길드에 가입하기	Join a guild
-89000117--	name	길드원 2명과 몬스터 100마리 처치	Defeat 100 Monsters with 2 Guild Members
-89000117--	manual	* 나 자신과 길드원 2명을 포함한 3인 파티로 진행해야 합니다.⏎* 파티를 맺은 길드원과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎파티를 맺은 길드원 2명과 함께 몬스터 100마리 처치하기	* Must be in a 3-person party including yourself and 2 guild members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 100 monsters together with 2 guild members in your party
-89000117--	complete	* 나 자신과 길드원 2명을 포함한 3인 파티로 진행해야 합니다.⏎* 파티를 맺은 길드원과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎파티를 맺은 길드원 2명과 함께 몬스터 100마리 처치하기	* Must be in a 3-person party including yourself and 2 guild members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 100 monsters together with 2 guild members in your party
-89000118--	name	길드원 2명과 모험 던전 보스 10마리 처치	Defeat 10 Adventure Dungeon Bosses with 2 Guild Members
-89000118--	manual	* 나 자신과 길드원 2명을 포함한 3인 파티로 진행해야 합니다.⏎* 파티를 맺은 길드원과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎파티를 맺은 길드원 2명과 함께 모험 던전 보스 10마리 처치하기	* Must be in a 3-person party including yourself and 2 guild members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 10 adventure dungeon bosses together with 2 guild members in your party
-89000118--	complete	* 나 자신과 길드원 2명을 포함한 3인 파티로 진행해야 합니다.⏎* 파티를 맺은 길드원과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎파티를 맺은 길드원 2명과 함께 모험 던전 보스 10마리 처치하기	* Must be in a 3-person party including yourself and 2 guild members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 10 adventure dungeon bosses together with 2 guild members in your party
-89000119--	name	길드원 2명과 필드 보스 10마리 처치	Defeat 10 Field Bosses with 2 Guild Members
-89000119--	manual	* 나 자신과 길드원 2명을 포함한 3인 파티로 진행해야 합니다.⏎* 파티를 맺은 길드원과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎파티를 맺은 길드원 2명과 함께 필드 보스 10마리 처치하기	* Must be in a 3-person party including yourself and 2 guild members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 10 field bosses together with 2 guild members in your party
-89000119--	complete	* 나 자신과 길드원 2명을 포함한 3인 파티로 진행해야 합니다.⏎* 파티를 맺은 길드원과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎파티를 맺은 길드원 2명과 함께 필드 보스 10마리 처치하기	* Must be in a 3-person party including yourself and 2 guild members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 10 field bosses together with 2 guild members in your party
-89000120--	name	길드원 2명과 몬스터 1000마리 처치	Defeat 1000 Monsters with 2 Guild Members
-89000120--	manual	* 나 자신과 길드원 2명을 포함한 3인 파티로 진행해야 합니다.⏎* 파티를 맺은 길드원과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎파티를 맺은 길드원 2명과 함께 몬스터 1000마리 처치하기	* Must be in a 3-person party including yourself and 2 guild members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 1000 monsters together with 2 guild members in your party
-89000120--	complete	* 나 자신과 길드원 2명을 포함한 3인 파티로 진행해야 합니다.⏎* 파티를 맺은 길드원과 함께 같은 필드에서 진행해야 인정됩니다.⏎⏎파티를 맺은 길드원 2명과 함께 몬스터 1000마리 처치하기	* Must be in a 3-person party including yourself and 2 guild members.⏎* All party members must be on the same field for it to count.⏎⏎Defeat 1000 monsters together with 2 guild members in your party
-89000246--	name	길라잡이 오늘의 미션 3회 완료	Complete 3 Guidebook Daily Missions
-89000246--	manual	길라잡이 오늘의 미션 3회 완료하기	Complete 3 Guidebook daily missions
-89000246--	complete	길라잡이 오늘의 미션 3회 완료하기	Complete 3 Guidebook daily missions
-89000247--	name	사물형 몬스터 50마리 처치	Defeat 50 Object-Type Monsters
-89000247--	manual	사물형 몬스터 50마리 처치하기	Defeat 50 Object-type monsters
-89000247--	complete	사물형 몬스터 50마리 처치하기	Defeat 50 Object-type monsters
-89000248--	name	별모래 낚시터에서 300m 수영하기	Swim 300m at Stardust Fishing Spot
-89000248--	manual	별모래 낚시터에서 300m 수영하기	Swim 300m at Stardust Fishing Spot
-89000248--	complete	별모래 낚시터에서 300m 수영하기	Swim 300m at Stardust Fishing Spot
-89000249--	name	물고기 500마리 낚기	Catch 500 Fish
-89000249--	manual	물고기 500마리 낚기	Catch 500 fish
-89000249--	complete	물고기 500마리 낚기	Catch 500 fish
-89000250--	name	다크 스트림 1라운드 통과	Clear Dark Stream Round 1
-89000250--	manual	다크 스트림 1라운드 통과하기	Clear Dark Stream round 1
-89000250--	complete	다크 스트림 1라운드 통과하기	Clear Dark Stream round 1
-89000251--	name	길라잡이 오늘의 미션 6회 완료	Complete 6 Guidebook Daily Missions
-89000251--	manual	길라잡이 오늘의 미션 6회 완료하기	Complete 6 Guidebook daily missions
-89000251--	complete	길라잡이 오늘의 미션 6회 완료하기	Complete 6 Guidebook daily missions
-89000253--	name	이벤트 던전 1회 입장	Enter Event Dungeon 1 Time
-89000253--	manual	이벤트 던전 1회 입장하기	Enter an event dungeon 1 time
-89000253--	complete	이벤트 던전 1회 입장하기	Enter an event dungeon 1 time
-89000254--	name	몬스터 500마리 처치	Defeat 500 Monsters
-89000254--	manual	몬스터 500마리 처치하기	Defeat 500 monsters
-89000254--	complete	몬스터 500마리 처치하기	Defeat 500 monsters
-89000255--	name	MC케이 이벤트 1회 참여	Participate in MC Kay Event 1 Time
-89000255--	manual	MC케이 이벤트 1회 참여하기	Participate in MC Kay event 1 time
-89000255--	complete	MC케이 이벤트 1회 참여하기	Participate in MC Kay event 1 time
-89000256--	name	길라잡이 오늘의 미션 9회 완료	Complete 9 Guidebook Daily Missions
-89000256--	manual	길라잡이 오늘의 미션 9회 완료하기	Complete 9 Guidebook daily missions
-89000256--	complete	길라잡이 오늘의 미션 9회 완료하기	Complete 9 Guidebook daily missions
-89000257--	name	언데드형 몬스터 50마리 처치	Defeat 50 Undead-Type Monsters
-89000257--	manual	언데드형 몬스터 50마리 처치하기	Defeat 50 Undead-type monsters
-89000257--	complete	언데드형 몬스터 50마리 처치하기	Defeat 50 Undead-type monsters
-89000258--	name	전통 나무 시소 건설 자재 1회 이용하기	Use Traditional Wooden Seesaw 1 Time
-89000258--	manual	전통 나무 시소 1회 이용하기	Use the traditional wooden seesaw 1 time
-89000258--	complete	전통 나무 시소 1회 이용하기	Use the traditional wooden seesaw 1 time
-89000259--	name	퀸즈 타운에서 라벤더 허브 50회 채집	Gather Lavender Herbs 50 Times in Queenstown
-89000259--	manual	퀸즈 타운에서 라벤더 허브 50회 채집하기	Gather lavender herbs 50 times in Queenstown
-89000259--	complete	퀸즈 타운에서 라벤더 허브 50회 채집하기	Gather lavender herbs 50 times in Queenstown
-89000260--	name	무작위 던전 보너스 3회 획득	Obtain Random Dungeon Bonus 3 Times
-89000260--	manual	무작위 던전 보너스 3회 획득하기	Obtain the random dungeon bonus 3 times
-89000260--	complete	무작위 던전 보너스 3회 획득하기	Obtain the random dungeon bonus 3 times
-89000261--	name	길라잡이 오늘의 미션 12회 완료	Complete 12 Guidebook Daily Missions
-89000261--	manual	길라잡이 오늘의 미션 12회 완료하기	Complete 12 Guidebook daily missions
-89000261--	complete	길라잡이 오늘의 미션 12회 완료하기	Complete 12 Guidebook daily missions
-89000262--	name	인간형 몬스터 50마리 처치	Defeat 50 Humanoid-Type Monsters
-89000262--	manual	인간형 몬스터 50마리 처치하기	Defeat 50 Humanoid-type monsters
-89000262--	complete	인간형 몬스터 50마리 처치하기	Defeat 50 Humanoid-type monsters
-89000263--	name	별모래 낚시터에서 300m 비행하기	Fly 300m at Stardust Fishing Spot
-89000263--	manual	별모래 낚시터에서 300m 비행하기	Fly 300m at Stardust Fishing Spot
-89000263--	complete	별모래 낚시터에서 300m 비행하기	Fly 300m at Stardust Fishing Spot
-89000265--	name	필드 보스 10마리 처치	Defeat 10 Field Bosses
-89000265--	manual	필드 보스 10마리 처치하기	Defeat 10 field bosses
-89000265--	complete	필드 보스 10마리 처치하기	Defeat 10 field bosses
-89000266--	name	길라잡이 오늘의 미션 15회 완료	Complete 15 Guidebook Daily Missions
-89000266--	manual	길라잡이 오늘의 미션 15회 완료하기	Complete 15 Guidebook daily missions
-89000266--	complete	길라잡이 오늘의 미션 15회 완료하기	Complete 15 Guidebook daily missions
-89000267--	name	기계형 몬스터 50마리 처치	Defeat 50 Machine-Type Monsters
-89000267--	manual	기계형 몬스터 50마리 처치하기	Defeat 50 Machine-type monsters
-89000267--	complete	기계형 몬스터 50마리 처치하기	Defeat 50 Machine-type monsters
-89000269--	name	퀸즈 타운에서 주석 광맥 50회 채광	Mine Tin Veins 50 Times in Queenstown
-89000269--	manual	퀸즈 타운에서 주석 광맥 50회 채광하기	Mine tin veins 50 times in Queenstown
-89000269--	complete	퀸즈 타운에서 주석 광맥 50회 채광하기	Mine tin veins 50 times in Queenstown
-89000271--	name	길라잡이 오늘의 미션 18회 완료	Complete 18 Guidebook Daily Missions
-89000271--	manual	길라잡이 오늘의 미션 18회 완료하기	Complete 18 Guidebook daily missions
-89000271--	complete	길라잡이 오늘의 미션 18회 완료하기	Complete 18 Guidebook daily missions
-89000272--	name	악마형 몬스터 50마리 처치	Defeat 50 Demon-Type Monsters
-89000272--	manual	악마형 몬스터 50마리 처치하기	Defeat 50 Demon-type monsters
-89000272--	complete	악마형 몬스터 50마리 처치하기	Defeat 50 Demon-type monsters
-89000273--	name	모험 던전 보스 10마리 처치	Defeat 10 Adventure Dungeon Bosses
-89000273--	manual	모험 던전 보스 10마리 처치하기	Defeat 10 adventure dungeon bosses
-89000273--	complete	모험 던전 보스 10마리 처치하기	Defeat 10 adventure dungeon bosses
-89000274--	name	당근당근 토끼 동산에서 달토끼 레비렛과 대화	Talk to Moon Bunny Leveret at Carrot Carrot Rabbit Hill
-89000274--	manual	당근당근 토끼 동산에서 달토끼 레비렛과 대화하기	Talk to Moon Bunny Leveret at Carrot Carrot Rabbit Hill
-89000274--	complete	당근당근 토끼 동산에서 달토끼 레비렛과 대화하기	Talk to Moon Bunny Leveret at Carrot Carrot Rabbit Hill
-89000276--	name	길라잡이 오늘의 미션 21회 완료	Complete 21 Guidebook Daily Missions
-89000276--	manual	길라잡이 오늘의 미션 21회 완료하기	Complete 21 Guidebook daily missions
-89000276--	complete	길라잡이 오늘의 미션 21회 완료하기	Complete 21 Guidebook daily missions
-89000278--	name	절구 건설 자재 1회 이용하기	Use Mortar Construction Item 1 Time
-89000278--	manual	절구 1회 이용하기	Use the mortar 1 time
-89000278--	complete	절구 1회 이용하기	Use the mortar 1 time
-89000280--	name	전투펫 3마리 포획하기	Capture 3 Combat Pets
-89000280--	manual	전투펫 3마리 포획하기	Capture 3 combat pets
-89000280--	complete	전투펫 3마리 포획하기	Capture 3 combat pets
-89000311--	name	화이트 스칼프에서 300m 비행하기	Fly 300m in White Scalp
-89000311--	manual	화이트 스칼프에서 300m 비행하기	Fly 300m in White Scalp
-89000311--	complete	화이트 스칼프에서 300m 비행하기	Fly 300m in White Scalp
-89000313--	name	산타파파와 대화하기	Talk to Santa Papa
-89000313--	manual	화이트 스칼프에서 산타파파와 대화하기	Talk to Santa Papa in White Scalp
-89000313--	complete	화이트 스칼프에서 산타파파와 대화하기	Talk to Santa Papa in White Scalp
-89000318--	name	다크 스트림 20라운드 통과하기	Clear Dark Stream Round 20
-89000318--	manual	* 다크 스트림은 1인 던전으로 ⏎'모험 > 던전 찾기 > 다크 스트림'에서 들어갈 수 있습니다.⏎⏎다크 스트림에 도전하여 20라운드 통과하기	* Dark Stream is a solo dungeon accessible from 'Adventure > Dungeon Finder > Dark Stream'.⏎⏎Challenge Dark Stream and clear round 20
-89000318--	complete	* 다크 스트림은 1인 던전으로 ⏎'모험 > 던전 찾기 > 다크 스트림'에서 들어갈 수 있습니다.⏎⏎다크 스트림에 도전하여 20라운드 통과하기	* Dark Stream is a solo dungeon accessible from 'Adventure > Dungeon Finder > Dark Stream'.⏎⏎Challenge Dark Stream and clear round 20
-89000322--	name	이카르 마드 5회 처치하기	Defeat Ikar Mad 5 Times
-89000322--	manual	* 이카르 마드는 매시간 5분 아이스 크라운에 등장합니다.⏎⏎아이스 크라운에서 이카르 마드 처치하기	* Ikar Mad appears in Ice Crown at :05 every hour.⏎⏎Defeat Ikar Mad in Ice Crown
-89000322--	complete	* 이카르 마드는 매시간 5분 아이스 크라운에 등장합니다.⏎⏎아이스 크라운에서 이카르 마드 처치하기	* Ikar Mad appears in Ice Crown at :05 every hour.⏎⏎Defeat Ikar Mad in Ice Crown
-89000328--	name	하얀 눈꽃 무늬 큐브 설치해보기	Install White Snowflake Pattern Cube
-89000328--	manual	집에 하얀 눈꽃 무늬 큐브 설치해보기	Install a white snowflake pattern cube in your home
-89000328--	complete	집에 하얀 눈꽃 무늬 큐브 설치해보기	Install a white snowflake pattern cube in your home
-89000337--	name	이글루스 힐에서 탈것 타고 500m 달리기	Run 500m on a Mount in Igloos Hill
-89000337--	manual	이글루스 힐에서 탈것 타고 달리기	Run on a mount in Igloos Hill
-89000337--	complete	이글루스 힐에서 탈것 타고 달리기	Run on a mount in Igloos Hill
-89000338--	name	필드에서 휴먼메럿 10회 찾기	Find Human Merets 10 Times in the Field
-89000338--	manual	* 휴먼메럿은 퀸즈타운에 있는 이벤트 도우미 루비에게 ⏎일일 퀘스트 '꼭꼭 숨어라 머리카락 보일라~'를 수락한 상태에서만 ⏎쓰다듬을 수 있습니다.⏎* '꼭꼭 숨어라 머리카락 보일라~' 퀘스트는 50레벨 이상 수락 가능합니다.⏎* 휴먼 메럿은 전 필드에 10분 단위로 출현하여 5분 동안 유지됩니다.⏎⏎필드에서 휴먼메럿 찾아 쓰다듬기	* Human Merets can only be petted while you have accepted the daily quest 'Hide and Seek, I See Your Hair~' from event helper Ruby in Queenstown.⏎* The 'Hide and Seek, I See Your Hair~' quest requires level 50 or above.⏎* Human Merets appear in all fields every 10 minutes and last for 5 minutes.⏎⏎Find and pet Human Merets in the field
-89000338--	complete	* 휴먼메럿은 퀸즈타운에 있는 이벤트 도우미 루비에게 ⏎일일 퀘스트 '꼭꼭 숨어라 머리카락 보일라~'를 수락한 상태에서만 ⏎쓰다듬을 수 있습니다.⏎* '꼭꼭 숨어라 머리카락 보일라~' 퀘스트는 50레벨 이상 수락 가능합니다.⏎* 휴먼 메럿은 전 필드에 10분 단위로 출현하여 5분 동안 유지됩니다.⏎⏎필드에서 휴먼메럿 찾아 쓰다듬기	* Human Merets can only be petted while you have accepted the daily quest 'Hide and Seek, I See Your Hair~' from event helper Ruby in Queenstown.⏎* The 'Hide and Seek, I See Your Hair~' quest requires level 50 or above.⏎* Human Merets appear in all fields every 10 minutes and last for 5 minutes.⏎⏎Find and pet Human Merets in the field
-89000339--	name	슈슈와 부부스 5회 처치하기	Defeat Shushu and Bubus 5 Times
-89000339--	manual	푸른 그림자 동굴에서 슈슈와 부부스 처치하기	Defeat Shushu and Bubus in Blue Shadow Cave
-89000339--	complete	푸른 그림자 동굴에서 슈슈와 부부스 처치하기	Defeat Shushu and Bubus in Blue Shadow Cave
-80020001--	name	레인보우 슬라임, 키워 보실래요?	Slimy Dealings
-80020001--	desc	귀여운 레인보우 슬라임을 키우고 선물도 받아 보자!	Raise a cute Rainbow Slime and get neat gifts!
-80020001--	manual	레인보우 슬라임을 키우는 방법 들어 보기	Learn how to raise a rainbow slime
-80020001--	complete	레인보우 슬라임을 키우는 방법 들어 보기	Learned how to raise a rainbow slime
-80020002--	name	레인보우 슬라임의 보금자리 짓기	My Very Own Slime
-80020002--	desc	내 집에 $item:50400282$$pp:를,을$ 설치해 보자!⏎$item:50400282$$pp:는,은$ '건설 시작하기' 메뉴에서 왼쪽의 '레인보우 슬라임' 탭을 누르면 확인할 수 있다.⏎이미 설치한 경우에는 제거했다가 다시 설치하면 된다.	Place a $item:50400282$ in your home! You can find a $item:50400282$ in the Rainbow Slime tab of the furnishings menu. If you've already placed one, remove it and place it again.
-80020002--	manual	내 집에 $item:50400282$$pp:를,을$ 설치하기	Place $item:50400282$ in your home
-80020002--	complete	내 집에 $item:50400282$$pp:를,을$ 설치하기	Placed $item:50400282$ in your home
-80020040--NA	name	펌키를 키워 주세요!	Raising Pumky!
-80020040--NA	desc	귀여운 호박 악마 펌키를 키우고 선물도 받아 보자!	Raise the adorable pumpkin devil Pumky and get some neat gifts!
-80020040--NA	manual	펌키를 키우는 방법 들어 보기	Learn how to raise Pumky.
-80020040--NA	complete	펌키를 키우는 방법 들어 보기	Learn how to raise Pumky
-80020041--NA	name	펌키의 보금자리 마련해 주기	A Nest for Pumky
-80020041--NA	desc	내 집에 $item:50400309$$pp:를,을$ 설치해 보자!⏎$item:50400309$$pp:는,은$ '건설 시작하기' 메뉴에서 왼쪽의 '호박 악마 펌키' 탭을 누르면 확인할 수 있다.⏎이미 설치한 경우에는 제거했다가 다시 설치하면 된다.	Place the $item:50400309$ in your home. You can find it in the Pumpkin Devil Pumky tab of the furnishings menu. If you've already placed one, remove it and place it again.
-80020041--NA	manual	내 집에 $item:50400309$$pp:를,을$ 설치하기	Place the $item:50400309$ in your home
-80020041--NA	complete	내 집에 $item:50400309$$pp:를,을$ 설치하기	Place $item:50400309$ in your home
-80020061--NA	name	맛있는 칠면조 구이를 만들어 볼까요?	Turkey Dinner
-80020061--NA	desc	$npc:27000051$$pp:를,을$ 요리하면 보통의 칠면조와는 비교조차 할 수 없을 만큼 훌륭한 진미가 된다는 소문이 있다. $npc:11001002$$pp:는,은$ 추수감사절 기간에 손님들을 대접하기 위해 $npc:27000051$$pp:로,으로$ 만든 요리를 올리고 싶다고 한다. $npc:11001002$에게 열흘 동안 $npc:27000051$$pp:를,을$ 잡아서 가져다 주면 많은 손님들을 대접할 만큼 충분할 것 같다.	People are saying that the taste of $npcName:27000051$ is incomparable. $npcName:11001002$ wants to serve a feast of $npcName:27000051$ for Thanksgiving and needs you to take care of the $npcNamePlural:27000051$ to make it happen.
-80020061--NA	manual	$quest:80020060$ 퀘스트 10회 완료하기	Complete the quest $quest:80020060$ 10 times
-80020061--NA	complete	$quest:80020060$ 퀘스트 10회 완료하기	Complete the quest $quest:80020060$ 10 times
-80020128-Event-NA	name	생일 촛불 대축제	Birthday Candle Festival
-80020128-Event-NA	desc	생일 축하합니다~ 생일 축하합니다~⏎사랑하는 메이플스토리2의 첫 생일을 축하하며 메이플 월드 곳곳에 환하게 생일 축하 촛불을 켜보자!	Happy birthday to us! Happy birthday to us! Light the birthday candles all over Maple World to celebrate MapleStory 2's first anniversary.
-80020128-Event-NA	manual	메이플 월드 곳곳에서 생일 촛불 켜기	Light birthday candles all over Maple World
-80020128-Event-NA	complete	$map:02000064$ 또는 $map:63000089$에서 $npc:11004248$$pp:와,과$ 대화하기	Speak with $npc:11004248$ in $map:02000064$ or $map:63000089$
-80020129-Event-NA	name	1주년 기념 정화 대작전	Fresh Start for Another Year
-80020129-Event-NA	desc	어느덧 첫 생일을 맞은 메이플스토리2… ⏎그동안 쉼없이 메이플 월드의 평화를 위해 달려왔건만 오늘도 곳곳에서 악랄한 몬스터들은 날뛰고 있다. 	It's already MapleStory 2's first anniversary. You have been busy keeping the peace in Maple World, but wicked monsters run amok even today. 
-80020129-Event-NA	manual	메이플 월드 곳곳에서 평화를 방해하는 몬스터 처치하기	Defeat monsters all over Maple World
-80020129-Event-NA	complete	$map:02000064$ 또는 $map:63000089$에서 $npc:11001003$$pp:와,과$ 대화하기	Speak with $npc:11001003$ in $map:02000064$ or $map:63000089$
-80020130-Event-NA	name	1주년 기념 특급 모험	Adventurous Celebration
-80020130-Event-NA	desc	어느덧 첫 생일을 맞은 메이플스토리2… ⏎진짜 모험은 이제부터 시작이다! ⏎더 신나고 즐겁게 던전을 즐겨보자!	It's already MapleStory 2's first anniversary. The real adventure starts now! Celebrate with fun dungeon runs!
-80020130-Event-NA	manual	모험[일반/어려움] 또는 카오스 레이드 던전 클리어	Clear Normal/Hard Adventure Dungeon or Chaos Raid
-80020130-Event-NA	complete	$map:02000064$ 또는 $map:63000089$에서 $npc:11001003$$pp:와,과$ 대화하기	Speak with $npc:11001003$ in $map:02000064$ or $map:63000089$
-80020131-Event-NA	name	1주년 기념 파티 초대장을 찾아라!	Anniversary Invitation Insanity
-80020131-Event-NA	desc	어느덧 첫 생일을 맞은 메이플스토리2… ⏎특별한 1주년 기념 파티를 준비하던 중 악랄한 몬스터 녀석들이 파티 초대장을 몽땅 훔쳐갔다.⏎메이플 월드 곳곳에 출현하는 엘리트 몬스터를 처치하고 $item:30001429$를 되찾자.	It's already MapleStory 2's first anniversary. Wicked monsters stole all of the party invitations for the anniversary gala. Defeat elite monsters all over Maple World and retrieve the $itemPlural:30001429$.
-80020131-Event-NA	manual	필드 엘리트 몬스터를 처치하고 $item:30001429$ 되찾아오기	Defeat elite monsters to retrieve $itemPlural:30001429$
-80020131-Event-NA	complete	$map:02000064$ 또는 $map:63000089$에서 $npc:11001003$$pp:와,과$ 대화하기	Speak with $npc:11001003$ in $map:02000064$ or $map:63000089$
-80020132-Event-NA	name	1주년 기념 선물 상자를 찾아라!	Anniversary Gift Box Gaff
-80020132-Event-NA	desc	어느덧 첫 생일을 맞은 메이플스토리2… ⏎특별한 1주년 기념 파티를 준비하던 중 악랄한 몬스터 녀석들이 파티에서 나눠줄 기념 선물을 몽땅 훔쳐갔다.⏎메이플 월드 곳곳에 출현하는 보스 몬스터를 처치하고 $item:30001430$를 되찾자.	It's already MapleStory 2's first anniversary. Wicked monsters stole all of the gifts for the party-goers. Defeat world bosses all over Maple World and retrieve the $itemPlural:30001430$.
-80020132-Event-NA	manual	필드 보스를 처치하고 $item:30001430$ 되찾아오기	Defeat world bosses and retrieve $item:30001430$
-80020132-Event-NA	complete	$map:02000064$ 또는 $map:63000089$에서 $npc:11001003$$pp:와,과$ 대화하기	Speak with $npc:11001003$ in $map:02000064$ or $map:63000089$
-80020133-Event-NA	name	1주년 기념 초토화 대작전	Anniversary Monster Clean-Up
-80020133-Event-NA	desc	어느덧 첫 생일을 맞은 메이플스토리2… ⏎그동안 쉼없이 메이플 월드의 평화를 위해 달려왔건만 오늘도 곳곳에서 악랄한 몬스터들은 날뛰고 있다. 	It's already MapleStory 2's first anniversary. You have been busy keeping the peace in Maple World, but wicked monsters run amok even today. 
-80020133-Event-NA	manual	메이플 월드 곳곳에서 평화를 방해하는 몬스터 처치하기	Defeat monsters all over Maple World
-80020133-Event-NA	complete	$map:02000064$ 또는 $map:63000089$에서 $npc:11001003$$pp:와,과$ 대화하기	Speak with $npc:11001003$ in $map:02000064$ or $map:63000089$
-80020134-Event-NA	name	1주년이니까 더 특별한 합주를!	Anniversary Music
-80020134-Event-NA	desc	메이플스토리2의 첫 생일을 그냥 넘길 수는 없다!⏎지난 1년 동안 갈고 닦은 연주 실력으로 다른 친구들과 축하 연주를 해볼까?	You can't let MapleStory 2's first anniversary pass by without doing anything! Why don't you celebrate by playing music with your friends?
-80020134-Event-NA	manual	$map:63000089$에서 다른 친구들과 합주하기	Perform with friends in $map:63000089$
-80020134-Event-NA	complete	$map:02000064$ 또는 $map:63000089$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:63000089$
-80020135-Event-NA	name	1주년에도 첨벙첨벙!	Anniversary Splashing
-80020135-Event-NA	desc	메이플스토리2의 첫 생일을 그냥 넘길 수는 없다!⏎지난 1년 동안 갈고 닦은 멋진 수영 솜씨를 뽐내볼까?	You can't let MapleStory 2's first anniversary pass by without doing anything! Why don't you celebrate by swimming a lap or two?
-80020135-Event-NA	manual	$map:63000089$에서 수영하기	Swim in $map:63000089$
-80020135-Event-NA	complete	$map:02000064$ 또는 $map:63000089$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:63000089$
-80020136-Event-NA	name	1주년 기념 MC케이의 초특급 이벤트?!	Anniversary Gaming
-80020136-Event-NA	desc	메이플스토리2의 첫 생일을 그냥 넘길 수는 없다!⏎지난 1년 동안 갈고 닦은 상식, 댄스, 생존 본능까지… 각종 잡기를 뽐내보자!	You can't let MapleStory 2's first anniversary pass by without doing anything! Why don't you celebrate with some rousing mini-games?
-80020136-Event-NA	manual	MC 케이의 이벤트 참가하기	Play MC Kay mini-games
-80020136-Event-NA	complete	$map:02000064$ 또는 $map:63000089$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:63000089$
-80020137-Event-NA	name	1주년 맞이 캐시마트는 더 바빠요	Anniversary Employment
-80020137-Event-NA	desc	메이플스토리2의 첫 생일을 그냥 넘길 수는 없다!⏎지난 1년 동안 내가 일한 날은 항상 캐시마트 매출이 역대급을 달성했다는 사실을 이제 증명해야 할 때가 왔다.	You can't let MapleStory 2's first anniversary pass by without doing anything! Why don't you celebrate by picking up a part-time job?!
-80020137-Event-NA	manual	캐시마트 아르바이트 참여하기	Play Cathy Mart Part-Time Job
-80020137-Event-NA	complete	$map:02000064$ 또는 $map:63000089$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:63000089$
-80020138-Event-NA	name	1주년 맞이 무념무상의 여유	Anniversary Relaxation
-80020138-Event-NA	desc	메이플스토리2의 첫 생일을 그냥 넘길 수는 없다!⏎아니다… 특별한 날이라고 꼭 특별한 무언가를 할 필요는 없다. ⏎쉼없이 달려온 지난 1년을 되돌아보며 잠시 여유를 즐겨볼까?	You can't let MapleStory 2's first anniversary pass by without doing anything! Why don't you celebrate by doing... nothing?
-80020138-Event-NA	manual	$map:63000089$에서 앉아서 여유 즐기기	Sit and relax in $map:63000089$
-80020138-Event-NA	complete	$map:02000064$ 또는 $map:63000089$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:63000089$
-80020139-Event-NA	name	1주년에는 더 특별한 독주를!	Anniversary Solo
-80020139-Event-NA	desc	메이플스토리2의 첫 생일을 그냥 넘길 수는 없다!⏎지난 1년 동안 갈고 닦은 연주 실력을 뽐내볼까?	You can't let MapleStory 2's first anniversary pass by without doing anything! Why don't you celebrate with a rad musical solo?
-80020139-Event-NA	manual	$map:63000089$에서 1곡 연주하기	Perform once in $map:63000089$
-80020139-Event-NA	complete	$map:02000064$ 또는 $map:63000089$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:63000089$
-80020140-Event-NA	name	1주년인데… 친구야 뭐하니?	Anniversary Friendship
-80020140-Event-NA	desc	메이플스토리2의 첫 생일을 그냥 넘길 수는 없다!⏎집 안에 틀어박혀 있는 친구들이 있다면 모두 찾아가서 함께 생일 기념 파티를 열자고 해볼까?	You can't let MapleStory 2's first anniversary pass by without doing anything! If you have any friends cooped up in their house, why don't you visit all of them and party?
-80020140-Event-NA	manual	다른 친구 집 방문하기	Visit a friend's house
-80020140-Event-NA	complete	$map:02000064$ 또는 $map:63000089$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:63000089$
-80020150-Event-NA	name	마녀의 선물	Witch's Gift
-80020150-Event-NA	desc	뜻하지 않게 처음 본 마녀에게서 분양을 제안받은 $npc:50400341$!! ⏎이거… 키워봐도 되는 걸까?	A witch gave you your very own $npc:50400341$! It's probably safe to keep as a pet, right? ...Right?!
-80020150-Event-NA	manual	$map:02000064$에서 $npc:11004717$에게 $npc:50400341$에 대해 들어보기	Learn about $npc:50400341$ from $npcName:11004717$ in $map:02000064$
-80020150-Event-NA	complete	$map:02000064$에서 $npc:11004717$에게 $npc:50400341$에 대해 들어보기	Learn about $npc:50400341$ from $npcName:11004717$ in $map:02000064$
-80020151-Event-NA	name	아이쿠! 깜짝이야!	A Terrible Fight
-80020151-Event-NA	desc	내 집에 $item:50400341$$pp:를,을$ 설치해 보자!⏎$item:50400341$$pp:는,은$ '건설 시작하기' 메뉴에서 왼쪽의 '깜짝 놀랐냥' 탭을 누르면 확인할 수 있다.⏎이미 설치한 경우에는 제거했다가 다시 설치하면 된다.	Place a $item:50400341$ in your home! You can find it in the Wampus tab of the furnishings menu. If you've already placed one, remove it and place it again.
-80020151-Event-NA	manual	내 집에 $item:50400341$$pp:를,을$ 설치하기	Place $item:50400341$ in your home
-80020151-Event-NA	complete	내 집에 $item:50400341$$pp:를,을$ 설치하기	Place $item:50400341$ in your home
-80020154-Event-NA	name	검은 박쥐의 힘	Bat-Powered
-80020154-Event-NA	desc	$npc:11000304$$pp:는,은$ 이번 할로윈 주간에는 역대급으로 강력한 마녀의 스프를 끓여볼 계획이라고 한다. 과연 그녀의 계획대로 엄청난 힘을 가진 스프를 만들 수 있는 것일까? ⏎일단, 밑져야 본전이다. $npc:11000304$$pp:가,이$ 부탁한 재료들을 모아서 가져다주자.	$npcName:11000304$ plans to cook the most powerful witch stew ever. Help her by collecting delicious and safe-sounding ingredients.
-80020154-Event-NA	manual	필드 엘리트 몬스터를 처치하고 $item:30001434$ 모아오기	Defeat elite monsters to collect $itemPlural:30001434$
-80020154-Event-NA	complete	$map:02000006$의 $map:02000073$에서 $npc:11000304$$pp:와,과$ 대화하기	Speak with $npcName:11000304$ at $map:02000073$ in $map:02000006$
-80020155-Event-NA	name	원혼의 아우성	Clamor of the Spirits
-80020155-Event-NA	desc	$npc:11000304$$pp:는,은$ 이번 할로윈 주간에는 역대급으로 강력한 마녀의 스프를 끓여볼 계획이라고 한다. 과연 그녀의 계획대로 엄청난 힘을 가진 스프를 만들 수 있는 것일까? ⏎일단, 밑져야 본전이다. $npc:11000304$$pp:가,이$ 부탁한 재료들을 모아서 가져다주자.	$npcName:11000304$ plans to cook the most powerful witch stew ever. Help her by collecting delicious and safe-sounding ingredients.
-80020155-Event-NA	manual	보스 몬스터를 처치하고 $item:30001435$ 모아오기	Defeat boss monsters to collect $itemPlural:30001435$
-80020155-Event-NA	complete	$map:02000006$의 $map:02000073$에서 $npc:11000304$$pp:와,과$ 대화하기	Speak with $npcName:11000304$ at $map:02000073$ in $map:02000006$
-80020156-Event-NA	name	독을 품은 사과	Poisonous Apples
-80020156-Event-NA	desc	$npc:11000304$$pp:는,은$ 이번 할로윈 주간에는 역대급으로 강력한 마녀의 스프를 끓여볼 계획이라고 한다. 과연 그녀의 계획대로 엄청난 힘을 가진 스프를 만들 수 있는 것일까? ⏎일단, 밑져야 본전이다. $npc:11000304$$pp:가,이$ 부탁한 재료들을 모아서 가져다주자.	$npcName:11000304$ plans to cook the most powerful witch stew ever. Help her by collecting delicious and safe-sounding ingredients.
-80020156-Event-NA	manual	$map:02000006$ 몬스터를 처치하고 $item:30001436$ 모아오기	Defeat monsters in $map:02000006$ to collect $itemPlural:30001436$
-80020156-Event-NA	complete	$map:02000006$의 $map:02000073$에서 $npc:11000304$$pp:와,과$ 대화하기	Speak with $npcName:11000304$ at $map:02000073$ in $map:02000006$
-80020170-Event-NA	name	크리스마스에는 마법을	Holiday Magic
-80020170-Event-NA	desc	이번 크리스마스에는 크리티아스의 신비한 마법이 메이플 월드 전체에 깃든 것일까?⏎메이플 월드 곳곳에서 아름다운 크리스마스 풍경이 담긴 $item:30001465$이 발견되고 있다. ⏎$item:30001465$을 모아서 $npc:11001003$에게 가져다주자. ⏎⏎*$item:30001465$ 획득 방법⏎- [오늘도 메리 댄스 타임] 일일 퀘스트 보상으로 획득⏎- 이벤트맵 $map:63000093$에서 낚시, 연주 시 일정 확률로 획득 가능⏎- 모든 몬스터 사냥 시 일정 확률로 획득 가능⏎- MC케이 이벤트 우승 시 획득 가능 (PVP 제외)⏎- 70레벨 모험(어려움) 던전 클리어 시 획득 가능⏎- 크리티아스 지역 탐험 목표 완료 시 획득⏎- 크리티아스 지역 풍경 감상 시 획득 (최초 1회에 한함)⏎	Strange holiday magic has settled over Maple World, resulting in the appearance of $itemPlural:30001465$! Gather $itemPlural:30001465$ and take them to $npc:11001003$. ⏎⏎[How to Obtain $itemPlural:30001465$]⏎• Received from the daily quest "$quest:80020171$."⏎• Chance to receive for fishing and performing in event map $map:63000093$⏎• Chance to receive for defeating any enemy⏎• Received for winning MC Kay's mini-games (PvP excluded)⏎• Received for clearing Lv. 70 hard adventure dungeons⏎• Received for completing Kritias exploration goals⏎• Received for using the binoculars scattered throughout Kritias (once per pair of binoculars)⏎
-80020170-Event-NA	manual	$item:30001465$ 수집하기	Get $itemPlural:30001465$
-80020170-Event-NA	complete	$map:02000064$, $map:02020041$ 또는 $map:63000093$에서 $npc:11001003$와 대화하기	Speak with $npc:11001003$ in $map:02000064$, $map:02020041$, or $map:63000093$
-80020172-Event-NA	name	소망을 품은 해	New Year's Wishes
-80020172-Event-NA	desc	메이플 월드 전역을 밝히며 힘차게 떠오른 새해를 맞아 사람들은 각기 새해 소망을 새긴 썬샤인 조각을 넣고 새해 풍선을 날렸다. ⏎사람들의 소망을 품은 새해 풍선은 두둥실 날아올라 메이플 월드 곳곳에 흩뿌려졌고, 트라이아 왕실에서는 새해 풍선 속에 담긴 썬샤인 조각을 수거해서 사람들의 소망을 알아보기로 했다. 메이플 월드 곳곳에서 새해 풍선을 찾아, 그 속에 있는 $item:30001466$을 모아서 $npc:11001003$에게 가져다 주자.	As a new year dawns on Maple World, people write their hopes on Sunshine Fragments and release them into the sky within balloons. To augment their yearly census and better determine the will of the people, the royal court of Tria is collecting the balloons in the new year. Find the New Year's balloons scattered across Maple World, collect the $itemPlural:30001466$ inside, and take them to $npc:11001003$.
-80020172-Event-NA	manual	새해 풍선을 찾아 $item:30001466$ 수거하기	Find the New Year's balloons and retrieve $itemPlural:30001466$
-80020172-Event-NA	complete	$map:02000064$ 또는 $map:02020041$에서 $npc:11001003$와 대화하기	Speak with $npc:11001003$ in $map:02000064$ or $map:02020041$
-80020173-Event-NA	name	글자를 모아 'HAPPY'를 완성해요!	Letter Collection: "HAPPY"
-80020173-Event-NA	desc	월드맵에서 이동할 수 있는 각 필드맵에 등장하는 보스, 엘리트 몬스터들을 처치하여 글자 '$item:30001468$', '$item:30001469$', '$item:30001470$', '$item:30001471$'를 모아보자!	Defeat world bosses and elite monsters in various maps to collect the letters $item:30001468$, $item:30001469$, $item:30001470$, and $item:30001471$!
-80020173-Event-NA	manual	글자 '$item:30001468$' 획득하기|글자 '$item:30001469$' 획득하기|글자 '$item:30001470$' 획득하기|글자 '$item:30001471$' 획득하기	Obtain letter $item:30001468$|Obtain letter $item:30001469$|Obtain letter $item:30001470$|Obtain letter $item:30001471$
-80020173-Event-NA	complete	$map:02000064$ 또는 $map:02020041$에서 $npc:11001002$와 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:02020041$
-80020174-Event-NA	name	글자를 모아 '2020!'를 완성해요!	Letter Collection: "2020!"
-80020174-Event-NA	desc	월드맵에서 이동할 수 있는 각 필드맵에 등장하는 보스, 엘리트 몬스터들을 처치하여 글자 '$item:30001472$', '$item:30001473$', '$item:30001474$'를 모아보자!	Defeat world bosses and elite monsters in various maps to collect the characters $item:30001472$, $item:30001473$, and $item:30001474$!
-80020174-Event-NA	manual	글자 '$item:30001472$' 획득하기|글자 '$item:30001473$' 획득하기|글자 '$item:30001474$' 획득하기	Obtain character $item:30001472$|Obtain character $item:30001473$|Obtain character $item:30001474$
-80020174-Event-NA	complete	$map:02000064$ 또는 $map:02020041$에서 $npc:11001002$와 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:02020041$
-80020180-Event-NA	name	사랑의 하트 날려 보내기	Release Hearts of Love
-80020180-Event-NA	desc	필드 곳곳에 등장한 보라보라 하트 풍선을 찾아 날려 보내자.⏎⏎* 보라보라 하트 풍선은 전 필드에 10분 단위로 출현해서 5분 동안 유지된다.	Find Purple Heart Balloons that appear all over the world and set them free!⏎⏎* The Purple Heart Balloons appear all over the world every 10 minutes and last for 5 minutes.
-80020180-Event-NA	manual	보라보라 하트 풍선 날려 보내기	Release Purple Heart Balloons
-80020180-Event-NA	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:02020041$
-80020190-Event-NA	name	술래잡기 미션 : 오늘의 짝꿍	Hide-and-Sweet Mission: Finding that Special Someone
-80020190-Event-NA	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find a new friend every day in Maple World to complete the Hide-and-Sweet mission!
-80020190-Event-NA	manual	메이플 월드에서 10레벨 이상의 '러블리 하트 리본'을 착용한 친구 찾기	Find someone who is level 10+ and wearing a $item:11300743$
-80020190-Event-NA	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:02020041$
-80020191-Event-NA	name	술래잡기 미션 : 오늘의 짝꿍	Hide-and-Sweet Mission: Finding that Special Someone
-80020191-Event-NA	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find a new friend every day in Maple World to complete the Hide-and-Sweet mission!
-80020191-Event-NA	manual	메이플 월드에서 10레벨 이상의 '러블리 하트 가방'을 착용한 친구 찾기	Find someone who is level 10+ and wearing a $item:11850080$
-80020191-Event-NA	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:02020041$
-80020192-Event-NA	name	술래잡기 미션 : 오늘의 짝꿍	Hide-and-Sweet Mission: Finding that Special Someone
-80020192-Event-NA	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find a new friend every day in Maple World to complete the Hide-and-Sweet mission!
-80020192-Event-NA	manual	메이플 월드에서 10레벨 이상의 '찾아라 나의 반쪽 티셔츠 LO'를 착용한 친구 찾기	Find someone who is level 10+ and wearing a $item:11401065$
-80020192-Event-NA	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:02020041$
-80020193-Event-NA	name	술래잡기 미션 : 오늘의 짝꿍	Hide-and-Sweet Mission: Finding that Special Someone
-80020193-Event-NA	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find a new friend every day in Maple World to complete the Hide-and-Sweet mission!
-80020193-Event-NA	manual	메이플 월드에서 10레벨 이상의 '찾아라 나의 반쪽 티셔츠 VE'를 착용한 친구 찾기	Find someone who is level 10+ and wearing a $item:11401066$
-80020193-Event-NA	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:02020041$
-80020194-Event-NA	name	술래잡기 미션 : 오늘의 짝꿍	Hide-and-Sweet Mission: Finding that Special Someone
-80020194-Event-NA	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find a new friend every day in Maple World to complete the Hide-and-Sweet mission!
-80020194-Event-NA	manual	메이플 월드에서 10레벨 이상의 '사랑은 방울방울'을 착용한 친구 찾기	Find someone who is level 10+ and wearing a $item:11304801$
-80020194-Event-NA	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:02020041$
-80020195-Event-NA	name	술래잡기 미션 : 오늘의 짝꿍	Hide-and-Sweet Mission: Finding that Special Someone
-80020195-Event-NA	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find a new friend every day in Maple World to complete the Hide-and-Sweet mission!
-80020195-Event-NA	manual	메이플 월드에서 10레벨 이상의 '춤추는 꽃'을 착용한 친구 찾기	Find someone who is level 10+ and wearing a $item:11304804$
-80020195-Event-NA	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:02020041$
-80020196-Event-NA	name	술래잡기 미션 : 오늘의 짝꿍	Hide-and-Sweet Mission: Finding that Special Someone
-80020196-Event-NA	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find a new friend every day in Maple World to complete the Hide-and-Sweet mission!
-80020196-Event-NA	manual	메이플 월드에서 10레벨 이상의 '빵빠레 베이비 엔젤'을 착용한 친구 찾기	Find someone who is level 10+ and wearing $item:11850106$
-80020196-Event-NA	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Speak with $npc:11001002$ in $map:02000064$ or $map:02020041$
-89040001--	name	맵 10개 방문하기	Visit 10 maps
-89040001--	manual	맵 10개 방문하기	Visit 10 maps
-89040001--	complete	맵 10개 방문하기	Visit 10 maps
-89040002--	name	내 집에 $item:50400096$ 설치하기	Place a $item:50400096$ in your home
-89040002--	manual	내 집에 $item:50400096$ 설치하기	Place a $item:50400096$ in your home
-89040002--	complete	내 집에 $item:50400096$ 설치하기	Place a $item:50400096$ in your home
-89040003--	name	다른 사람에게 친구 요청하기	Send a friend request
-89040003--	manual	다른 사람에게 친구 요청하기	Send a friend request
-89040003--	complete	다른 사람에게 친구 요청하기	Send a friend request
-89040006--	name	MC 케이 이벤트 5회 참여	Participate in 5 MC Kay games
-89040006--	manual	MC 케이 이벤트 5회 참여	Participate in 5 MC Kay games
-89040006--	complete	MC 케이 이벤트 5회 참여	Participate in 5 MC Kay games
-89040008--	name	모험 던전 보스 3회 처치	Defeat 3 normal adventure dungeon bosses
-89040008--	manual	모험 던전 보스 3회 처치	Defeat 3 normal adventure dungeon bosses
-89040008--	complete	모험 던전 보스 3회 처치	Defeat 3 normal adventure dungeon bosses
-89040011--	name	나무 보물상자 30회 열기	Open 30 wooden treasures
-89040011--	manual	나무 보물상자 30회 열기	Open 30 wooden treasures
-89040011--	complete	나무 보물상자 30회 열기	Open 30 wooden treasures
-89040013--	name	UGC 1개 디자인	Design 1 UGC outfit
-89040013--	manual	UGC 1개 디자인	Design 1 UGC outfit
-89040013--	complete	UGC 1개 디자인	Design 1 UGC outfit
-89040014--	name	트라이아에서 3곡 연주	Perform 3 songs in Tria
-89040014--	manual	트라이아에서 3곡 연주	Perform 3 songs in Tria
-89040014--	complete	트라이아에서 3곡 연주	Perform 3 songs in Tria
-89040016--	name	게임 장비 아이템을 10개 분해하기	Dismantle 10 pieces of gear
-89040016--	manual	게임 장비 아이템을 10개 분해하기	Dismantle 10 pieces of gear
-89040016--	complete	게임 장비 아이템을 10개 분해하기	Dismantle 10 pieces of gear
-89040017--	name	생활기술 1개 3레벨 달성	Reach Level 3 in 1 Life Skill
-89040017--	manual	생활기술 1개 3레벨 달성	Reach Level 3 in 1 Life Skill
-89040017--	complete	생활기술 1개 3레벨 달성	Reach Level 3 in 1 Life Skill
-89040018--	name	트로피 10개 달성	Obtain 10 trophies
-89040018--	manual	트로피 10개 달성	Obtain 10 trophies
-89040018--	complete	트로피 10개 달성	Obtain 10 trophies
-89040019--	name	월드 퀘스트 '불길한 물방울' 완료	Complete the world quest "$quest:20001640$"
-89040019--	manual	월드 퀘스트 '불길한 물방울' 완료	Complete the world quest "$quest:20001640$"
-89040019--	complete	월드 퀘스트 '불길한 물방울' 완료	Complete the world quest "$quest:20001640$"
-89040022--	name	코코섬에서 50m 수영하기	Swim 50 m in $map:02000377$
-89040022--	manual	코코섬에서 50m 수영하기	Swim 50 m in $map:02000377$
-89040022--	complete	코코섬에서 50m 수영하기	Swim 50 m in $map:02000377$
-89040026--	name	$dungeonTitle:29004001$ 1회 클리어	Clear $dungeonTitle:29004001$ 1 time
-89040026--	manual	보물던전 6회 클리어	Clear 6 treasure dungeons
-89040026--	complete	보물던전 6회 클리어	Clear 6 treasure dungeons
-89040027--	name	캐시마트 아르바이트 1회 참여	Participate in $map:02000387$ 1 time
-89040027--	manual	캐시마트 아르바이트 1회 참여	Participate in $map:02000387$ 1 time
-89040027--	complete	캐시마트 아르바이트 1회 참여	Participate in $map:02000387$ 1 time
-89040028--	name	헤어스타일 상담사 제인과 대화하기	Speak with $npcName:11000254$ at the hair salon
-89040028--	manual	헤어스타일 상담사 제인과 대화하기	Speak with $npcName:11000254$ at the hair salon
-89040028--	complete	헤어스타일 상담사 제인과 대화하기	Speak with $npcName:11000254$ at the hair salon
-89040029--	name	$item:30000869$ 획득하기	Obtain $item:30000869$
-89040029--	manual	$item:30000869$ 획득하기	Obtain $item:30000869$
-89040029--	complete	$item:30000869$ 획득하기	Obtain $item:30000869$
-89040033--	name	"$dungeonTitle:20014002$"에서 $npc:23000011$ 마주하기	Defeat $npc:23000011$ in $dungeonTitle:20014002$
-89040033--	manual	"$dungeonTitle:20014002$"에서 $npc:23000011$ 마주하기	Defeat $npc:23000011$ in $dungeonTitle:20014002$
-89040033--	complete	"$dungeonTitle:20014002$"에서 $npc:23000011$ 마주하기	Defeat $npc:23000011$ in $dungeonTitle:20014002$
-89040034--	name	$dungeonTitle:29005001$ 1회 참여	Participate in $dungeonTitle:29005001$ 1 time
-89040034--	manual	$dungeonTitle:29005001$ 1회 클리어	Clear $dungeonTitle:29005001$ 1 time
-89040034--	complete	$dungeonTitle:29005001$ 1회 클리어	Clear $dungeonTitle:29005001$ 1 time
-89050001--	name	내 집의 호박 밭에서 호박 10회 수확	Harvest Pumpkins
-89050001--	manual	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎내 집의 호박 밭에서 10회 수확하기	* Harvests using Instant Gathering Vouchers don't count⏎⏎Harvest from 10 pumpkin patches in your home
-89050001--	complete	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎내 집의 호박 밭에서 10회 수확하기	* Harvests using Instant Gathering Vouchers don't count⏎⏎Harvest from 10 pumpkin patches in your home
-89050002--	name	$map:63000067$에서 거미줄 4회 치우기	Clear the Cobwebs
-89050002--	manual	$map:63000067$에서 거미줄 4회 치우기	Remove 4 cobwebs from the $map:63000067$
-89050002--	complete	$map:63000067$에서 거미줄 4회 치우기	Remove 4 cobwebs from the $map:63000067$
-89050003--	name	$map:63000067$에서 $npc:27000043$ 6회 처치	Defeat $npcPlural:27000043$
-89050003--	manual	$map:63000067$에서 $npc:27000043$ 6회 처치하기	Defeat 6 $npcPlural:27000043$ in the $map:63000067$
-89050003--	complete	$map:63000067$에서 $npc:27000043$ 6회 처치하기	Defeat 6 $npcPlural:27000043$ in the $map:63000067$
-89050004--	name	$map:63000068$에 5회 입장	Enter the $map:63000068$
-89050004--	manual	$map:63000068$에 5회 입장하기	Enter the $map:63000068$ 5 times
-89050004--	complete	$map:63000068$에 5회 입장하기	Enter the $map:63000068$ 5 times
-89050005--	name	퀘스트 할로윈 파티의 초대장 완료	Attend the Gala
-89050005--	manual	퀘스트 할로윈 파티의 초대장 완료하기	Complete the quest "A Halloween Gala Invitation"
-89050005--	complete	퀘스트 할로윈 파티의 초대장 완료하기	Complete the quest "A Halloween Gala Invitation"
-89050006--	name	다른 사람에게 친구 요청 5번 하기	Send Friend Requests
-89050006--	manual	다른 사람에게 친구 요청 5번 하기	Send 5 friend requests
-89050006--	complete	다른 사람에게 친구 요청 5번 하기	Send 5 friend requests
-89050007--	name	필드 보스 4회 처치	Defeat World Bosses
-89050007--	manual	필드 보스 4회 처치	Defeat 4 world bosses
-89050007--	complete	필드 보스 4회 처치	Defeat 4 world bosses
-89050009--	name	[일일] 트릭 오어 트릿 3회 완료	Trick or Treat II
-89050009--	manual	[일일] 트릭 오어 트릿 3회 완료하기	Complete the daily quest "Trick or Treat!" 3 times
-89050009--	complete	[일일] 트릭 오어 트릿 3회 완료하기	Complete the daily quest "Trick or Treat!" 3 times
-89050010--	name	[일일] 트릭 오어 트릿 4회 완료	Trick or Treat III
-89050010--	manual	[일일] 트릭 오어 트릿 4회 완료하기	Complete the daily quest "Trick or Treat!" 4 times
-89050010--	complete	[일일] 트릭 오어 트릿 4회 완료하기	Complete the daily quest "Trick or Treat!" 4 times
-89050011--	name	[일일] 트릭 오어 트릿 5회 완료	Trick or Treat IV
-89050011--	manual	[일일] 트릭 오어 트릿 5회 완료하기	Complete the daily quest "Trick or Treat!" 5 times
-89050011--	complete	[일일] 트릭 오어 트릿 5회 완료하기	Complete the daily quest "Trick or Treat!" 5 times
-89050012--	name	퀘스트 몽슈 백작의 혼령 완료	Count Mon Chou Must Go
-89050012--	manual	퀘스트 몽슈 백작의 혼령 완료하기	Complete the quest "Count Mon Chou's Spirit"
-89050012--	complete	퀘스트 몽슈 백작의 혼령 완료하기	Complete the quest "Count Mon Chou's Spirit"
-89050013--	name	$map:63000069$에 3회 방문	Visit the $map:63000069$
-89050013--	manual	$map:63000069$에 3회 방문하기	Visit the $map:63000069$ 3 times
-89050013--	complete	$map:63000069$에 3회 방문하기	Visit the $map:63000069$ 3 times
-89050014--	name	[일일] 블러디 몽슈슈 할로윈 소동 2회 완료	Mon Bloody Chouchou Uproar
-89050014--	manual	[일일] 블러디 몽슈슈 할로윈 소동 2회 완료하기	Complete the daily quest "Mon Bloody Chouchou Uproar" 2 times
-89050014--	complete	[일일] 블러디 몽슈슈 할로윈 소동 2회 완료하기	Complete the daily quest "Mon Bloody Chouchou Uproar" 2 times
-89050015--	name	[일일] 블러디 몽슈슈 할로윈 소동 4회 완료	Mon Bloody Chouchou Uproar II
-89050015--	manual	[일일] 블러디 몽슈슈 할로윈 소동 4회 완료하기	Complete the daily quest "Mon Bloody Chouchou Uproar" 4 times
-89050015--	complete	[일일] 블러디 몽슈슈 할로윈 소동 4회 완료하기	Complete the daily quest "Mon Bloody Chouchou Uproar" 4 times
-89050016--	name	[일일] 블러디 몽슈슈 할로윈 소동 7회 완료	Mon Bloody Chouchou Uproar III
-89050016--	manual	[일일] 블러디 몽슈슈 할로윈 소동 7회 완료하기	Complete the daily quest "Mon Bloody Chouchou Uproar" 7 times
-89050016--	complete	[일일] 블러디 몽슈슈 할로윈 소동 7회 완료하기	Complete the daily quest "Mon Bloody Chouchou Uproar" 7 times
-89050017--	name	$map:63000065$에서 유령들과 /안녕 10회 하기	Greet the Staff
-89050017--	manual	$map:63000065$에서 유령들과 /안녕 10회 하기	Use /hello to greet $map:63000065$ staff 10 times
-89050017--	complete	$map:63000065$에서 유령들과 /안녕 10회 하기	Use /hello to greet $map:63000065$ staff 10 times
-89050020-Event-NA	name	함선 세력 퀘스트 10개 완료 (주간 퀘스트 포함)	Sky Fortress Missions
-89050020-Event-NA	manual	함선 세력 퀘스트 10개 완료 (주간 퀘스트 포함)	Complete Sky Fortress missions
-89050020-Event-NA	complete	함선 세력 퀘스트 10개 완료 (주간 퀘스트 포함)	Complete Sky Fortress missions
-89050022-Event-NA	name	모험[일반/어려움] 보너스 상자 10개 획득	Adventure Bonus Boxes
-89050022-Event-NA	manual	모험[일반/어려움] 보너스 상자 10개 획득	Get Normal/Hard Adventure Bonus Boxes
-89050022-Event-NA	complete	모험[일반/어려움] 보너스 상자 10개 획득	Get Normal/Hard Adventure Bonus Boxes
-89050023-Event-NA	name	$item:30000869$ 10개 획득	$itemPlural:30000869$
-89050023-Event-NA	manual	$item:30000869$ 10개 획득	Get $itemPlural:30000869$ from Cathy Mart Part-Time Job
-89050023-Event-NA	complete	$item:30000869$ 10개 획득	Get $itemPlural:30000869$ from Cathy Mart Part-Time Job
-89050024-Event-NA	name	젬스톤 업그레이드 3회 성공	Gemstone Upgrade
-89050024-Event-NA	manual	젬스톤 업그레이드 3회 성공	Upgrade gemstones
-89050024-Event-NA	complete	젬스톤 업그레이드 3회 성공	Upgrade gemstones
-89050026-Event-NA	name	$item:33000102$ 허브 30회 채집	$item:33000102$ Harvest
-89050026-Event-NA	manual	$item:33000102$ 허브 30회 채집	Forage $item:33000102$ Herbs
-89050026-Event-NA	complete	$item:33000102$ 허브 30회 채집	Forage $item:33000102$ Herbs
-89050027-Event-NA	name	던전 클리어 10회 (모험 / 카오스 레이드)	Clear Dungeons
-89050027-Event-NA	manual	던전 클리어 10회 (모험 / 카오스 레이드)	Clear adventure/raid/chaos dungeons
-89050027-Event-NA	complete	던전 클리어 10회 (모험 / 카오스 레이드)	Clear adventure/raid/chaos dungeons
-89050028-Event-NA	name	은 광맥 30회 채광	Silver Mining
-89050028-Event-NA	manual	은 광맥 30회 채광	Mine Silver Veins
-89050028-Event-NA	complete	은 광맥 30회 채광	Mine Silver Veins
-89050029-Event-NA	name	펫 합성 5회	Pet Fusion
-89050029-Event-NA	manual	펫 합성 5회	Fuse pets
-89050029-Event-NA	complete	펫 합성 5회	Fuse pets
-89050033-Event-NA	name	신비한 운석 나무에서 '대지의 조각' 10개 획득	Earth Fragment Harvest
-89050033-Event-NA	manual	신비한 운석 나무에서 '대지의 조각' 10개 획득	Get Earth Fragments from Mysterious Meteorite Trees
-89050033-Event-NA	complete	신비한 운석 나무에서 '대지의 조각' 10개 획득	Get Earth Fragments from Mysterious Meteorite Trees
-89050034-Event-NA	name	송이버섯 더미에서 $item:33000121$ 30개 획득	$item:33000121$ Harvest
-89050034-Event-NA	manual	송이버섯 더미에서 $item:33000121$ 30개 획득	Pick $itemPlural:33000121$
-89050034-Event-NA	complete	송이버섯 더미에서 $item:33000121$ 30개 획득	Pick $itemPlural:33000121$
-89050036-Event-NA	name	동아리 1개 가입해보기	Club Activities
-89050036-Event-NA	manual	동아리 1개 가입해보기	Join a club
-89050036-Event-NA	complete	동아리 1개 가입해보기	Join a club
-89050042-Event-NA	name	UGC 1회 제작	UGC Creation
-89050042-Event-NA	manual	UGC 1회 제작	Create a UGC item
-89050042-Event-NA	complete	UGC 1회 제작	Create a UGC item
-89050043-Event-NA	name	다른 사람 집에서 재배물 10회 수확	Harvest Tour
-89050043-Event-NA	manual	다른 사람 집에서 재배물 10회 수확	Harvest in someone else's home
-89050043-Event-NA	complete	다른 사람 집에서 재배물 10회 수확	Harvest in someone else's home
-89050045-Event-NA	name	$map:02000064$에서 '안녕'으로 10회 인사하기	Hello $map:02000064$
-89050045-Event-NA	manual	$map:02000064$에서 '안녕'으로 10회 인사하기	Use the Greet emote in $map:02000064$
-89050045-Event-NA	complete	$map:02000064$에서 '안녕'으로 10회 인사하기	Use the Greet emote in $map:02000064$
-89050046-Event-NA	name	30분 동안 연주하기	Play Music
-89050046-Event-NA	manual	30분 동안 연주하기	Play music for 30 min
-89050046-Event-NA	complete	30분 동안 연주하기	Play music for 30 min
-89050050-Event-NA	name	함선 세력 퀘스트 5개 완료 (주간 퀘스트 포함)	Sky Fortress Missions
-89050050-Event-NA	manual	함선 세력 퀘스트 5개 완료 (주간 퀘스트 포함)	Complete Sky Fortress missions
-89050050-Event-NA	complete	함선 세력 퀘스트 5개 완료 (주간 퀘스트 포함)	Complete Sky Fortress missions
-89050052-Event-NA	name	모험[일반/어려움] 보너스 상자 8개 획득	Adventure Bonus Boxes
-89050052-Event-NA	manual	모험[일반/어려움] 보너스 상자 8개 획득	Get Normal/Hard Adventure Bonus Boxes
-89050052-Event-NA	complete	모험[일반/어려움] 보너스 상자 8개 획득	Get Normal/Hard Adventure Bonus Boxes
-89050053-Event-NA	name	$item:30000869$ 8개 획득	$itemPlural:30000869$
-89050053-Event-NA	manual	$item:30000869$ 8개 획득	Get $itemPlural:30000869$ from Cathy Mart Part-Time Job
-89050053-Event-NA	complete	$item:30000869$ 8개 획득	Get $itemPlural:30000869$ from Cathy Mart Part-Time Job
-89050054-Event-NA	name	젬스톤 업그레이드 2회 성공	Gemstone Upgrade
-89050054-Event-NA	manual	젬스톤 업그레이드 2회 성공	Upgrade gemstones
-89050054-Event-NA	complete	젬스톤 업그레이드 2회 성공	Upgrade gemstones
-89050056-Event-NA	name	$item:33000108$ 허브 30회 채집	$item:33000108$ Harvest
-89050056-Event-NA	manual	$item:33000108$ 허브 30회 채집	Forage $item:33000108$ Herbs
-89050056-Event-NA	complete	$item:33000108$ 허브 30회 채집	Forage $item:33000108$ Herbs
-89050057-Event-NA	name	던전 클리어 8회 (모험 / 카오스 레이드)	Clear Dungeons
-89050057-Event-NA	manual	던전 클리어 8회 (모험 / 카오스 레이드)	Clear adventure/raid/chaos dungeons
-89050057-Event-NA	complete	던전 클리어 8회 (모험 / 카오스 레이드)	Clear adventure/raid/chaos dungeons
-89050058-Event-NA	name	아연 광맥 30회 채광	Zinc Mining
-89050058-Event-NA	manual	아연 광맥 30회 채광	Mine Zinc Veins
-89050058-Event-NA	complete	아연 광맥 30회 채광	Mine Zinc Veins
-89050059-Event-NA	name	펫 포획 5마리	Pet Taming
-89050059-Event-NA	manual	펫 포획 5마리	Tame pets
-89050059-Event-NA	complete	펫 포획 5마리	Tame pets
-89050063-Event-NA	name	신비한 운석 나무에서 '대지의 조각' 10개 획득	Earth Fragment Harvest
-89050063-Event-NA	manual	신비한 운석 나무에서 '대지의 조각' 10개 획득	Get Earth Fragments from Mysterious Meteorite Trees
-89050063-Event-NA	complete	신비한 운석 나무에서 '대지의 조각' 10개 획득	Get Earth Fragments from Mysterious Meteorite Trees
 89050064-Event-NA	name	사과나무에서 $item:33000119$ 30개 획득	$item:33000119$ Harvest
 89050064-Event-NA	manual	사과나무에서 $item:33000119$ 30개 획득	Get $itemPlural:33000119$ from Apple Trees
 89050064-Event-NA	complete	사과나무에서 $item:33000119$ 30개 획득	Get $itemPlural:33000119$ from Apple Trees
-89050066-Event-NA	name	동아리 1개 가입해보기	Club Activities
-89050066-Event-NA	manual	동아리 1개 가입해보기	Join a club
-89050066-Event-NA	complete	동아리 1개 가입해보기	Join a club
-89050072-Event-NA	name	UGC 1회 제작	UGC Creation
-89050072-Event-NA	manual	UGC 1회 제작	Create a UGC item
-89050072-Event-NA	complete	UGC 1회 제작	Create a UGC item
 89050073-Event-NA	name	다른 사람 집에서 축산물 5회 수확	Ranching Tour
 89050073-Event-NA	manual	다른 사람 집에서 축산물 5회 수확	Ranch in someone else's home
 89050073-Event-NA	complete	다른 사람 집에서 축산물 5회 수확	Ranch in someone else's home
-89050075-Event-NA	name	$map:02000064$에서 '안녕'으로 5회 인사하기	Hello $map:02000064$
-89050075-Event-NA	manual	$map:02000064$에서 '안녕'으로 5회 인사하기	Use the Greet emote in $map:02000064$
-89050075-Event-NA	complete	$map:02000064$에서 '안녕'으로 5회 인사하기	Use the Greet emote in $map:02000064$
-89050076-Event-NA	name	10분 동안 연주하기	Play Music
 89050076-Event-NA	manual	10분 동안 연주하기	Play music for 10 min
 89050076-Event-NA	complete	10분 동안 연주하기	Play music for 10 min
-89050080-Event-NA	name	펫 포획 5마리	Pet Taming
-89050080-Event-NA	manual	펫 포획 5마리	Tame pets
-89050080-Event-NA	complete	펫 포획 5마리	Tame pets
-89050082-Event-NA	name	모험[일반/어려움] 보너스 상자 5개 획득	Adventure Bonus Boxes
-89050082-Event-NA	manual	모험[일반/어려움] 보너스 상자 5개 획득	Get Normal/Hard Adventure Bonus Boxes
-89050082-Event-NA	complete	모험[일반/어려움] 보너스 상자 5개 획득	Get Normal/Hard Adventure Bonus Boxes
-89050083-Event-NA	name	$item:30000869$ 5개 획득	$itemPlural:30000869$
-89050083-Event-NA	manual	$item:30000869$ 5개 획득	Get $itemPlural:30000869$ from Cathy Mart Part-Time Job
-89050083-Event-NA	complete	$item:30000869$ 5개 획득	Get $itemPlural:30000869$ from Cathy Mart Part-Time Job
-89050084-Event-NA	name	젬스톤 업그레이드 1회 성공	Gemstone Upgrade
-89050084-Event-NA	manual	젬스톤 업그레이드 1회 성공	Upgrade gemstones
-89050084-Event-NA	complete	젬스톤 업그레이드 1회 성공	Upgrade gemstones
 89050086-Event-NA	name	$item:33000100$ 허브 30회 채집	$item:33000100$ Harvest
 89050086-Event-NA	manual	$item:33000100$ 허브 30회 채집	Forage $item:33000100$ Herbs
 89050086-Event-NA	complete	$item:33000100$ 허브 30회 채집	Forage $item:33000100$ Herbs
-89050087-Event-NA	name	던전 클리어 5회 (모험 / 카오스 레이드)	Clear Dungeons
-89050087-Event-NA	manual	던전 클리어 5회 (모험 / 카오스 레이드)	Clear adventure/raid/chaos dungeons
-89050087-Event-NA	complete	던전 클리어 5회 (모험 / 카오스 레이드)	Clear adventure/raid/chaos dungeons
 89050088-Event-NA	name	주석 광맥 30회 채광	Tin Mining
 89050088-Event-NA	manual	주석 광맥 30회 채광	Mine Tin Veins
 89050088-Event-NA	complete	주석 광맥 30회 채광	Mine Tin Veins
-89050089-Event-NA	name	펫 포획 3마리	Pet Taming
-89050089-Event-NA	manual	펫 포획 3마리	Tame pets
-89050089-Event-NA	complete	펫 포획 3마리	Tame pets
-89050093-Event-NA	name	신비한 운석 나무에서 '대지의 조각' 10개 획득	Earth Fragment Harvest
-89050093-Event-NA	manual	신비한 운석 나무에서 '대지의 조각' 10개 획득	Get Earth Fragments from Mysterious Meteorite Trees
-89050093-Event-NA	complete	신비한 운석 나무에서 '대지의 조각' 10개 획득	Get Earth Fragments from Mysterious Meteorite Trees
 89050094-Event-NA	name	호박밭에서 $item:33000120$ 30개 획득	$item:33000120$ Harvest
 89050094-Event-NA	manual	호박밭에서 $item:33000120$ 30개 획득	Pick $itemPlural:33000120$
 89050094-Event-NA	complete	호박밭에서 $item:33000120$ 30개 획득	Pick $itemPlural:33000120$
-89050096-Event-NA	name	동아리 1개 가입해보기	Club Activities
-89050096-Event-NA	manual	동아리 1개 가입해보기	Join a club
-89050096-Event-NA	complete	동아리 1개 가입해보기	Join a club
-89050102-Event-NA	name	UGC 1회 제작	UGC Creation
-89050102-Event-NA	manual	UGC 1회 제작	Create a UGC item
-89050102-Event-NA	complete	UGC 1회 제작	Create a UGC item
-89050105-Event-NA	name	$map:02000064$에서 '안녕'으로 3회 인사하기	Hello $map:02000064$
-89050105-Event-NA	manual	$map:02000064$에서 '안녕'으로 3회 인사하기	Use the Greet emote in $map:02000064$
-89050105-Event-NA	complete	$map:02000064$에서 '안녕'으로 3회 인사하기	Use the Greet emote in $map:02000064$
-89050106-Event-NA	name	1분 동안 연주하기	Play Music
 89050106-Event-NA	manual	1분 동안 연주하기	Play music for 1 min
 89050106-Event-NA	complete	1분 동안 연주하기	Play music for 1 min
 89050108-Event-NA	name	망원경으로 풍경 감상하기	Binoculars
@@ -866,8 +123,6 @@
 89050149-Event-NA	manual	다른 사람 집에서 재배물 3회 수확하기	Harvest 3 times in someone's home
 89050149-Event-NA	complete	다른 사람 집에서 재배물 3회 수확하기	Harvest 3 times in someone's home
 89050151-Event-NA	name	MC케이 이벤트 1회 참여하기	Play 1 MC Kay's minigame
-89050151-Event-NA	manual	MC케이 이벤트 1회 참여하기	Play 1 MC Kay's minigame
-89050151-Event-NA	complete	MC케이 이벤트 1회 참여하기	Play 1 MC Kay's minigame
 89050152-Event-NA	name	바베니 세력 퀘스트 2회 완료하기 (주간 퀘스트 포함)	Complete 2 Safehold missions
 89050152-Event-NA	manual	바베니 세력 퀘스트 2회 완료하기 (주간 퀘스트 포함)	Complete 2 Safehold missions
 89050152-Event-NA	complete	바베니 세력 퀘스트 2회 완료하기 (주간 퀘스트 포함)	Complete 2 Safehold missions
@@ -1504,8 +759,6 @@
 89080023-Event-JP	complete	シャドウワールドの歪んだ空間の隙間1回入場	Enter the shadow world's distorted spatial rift once
 89080024-Event-JP	name	クラブ1つに加入する	Join a club
 89080024-Event-JP	desc	クラブ1つに加入する	Join a club
-89080024-Event-JP	manual	クラブ1つに加入する	Join a club
-89080024-Event-JP	complete	クラブ1つに加入する	Join a club
 89080025-Event-JP	name	黄金宝箱を10個探す	Find 10 golden treasure chests
 89080025-Event-JP	desc	黄金宝箱を10個探す	Find 10 golden treasure chests
 89080025-Event-JP	manual	黄金宝箱を10個探す	Find 10 golden treasure chests
@@ -1620,8 +873,6 @@
 89080053-Event-JP	complete	望遠鏡で景色を観る	View the scenery with a telescope
 89080054-Event-JP	name	クラブ1つに加入する	Join a club
 89080054-Event-JP	desc	クラブ1つに加入する	Join a club
-89080054-Event-JP	manual	クラブ1つに加入する	Join a club
-89080054-Event-JP	complete	クラブ1つに加入する	Join a club
 89080055-Event-JP	name	黄金宝箱を2個探す	Find 2 golden treasure boxes
 89080055-Event-JP	desc	黄金宝箱を2個探す	Find 2 golden treasure boxes
 89080055-Event-JP	manual	黄金宝箱を2個探す	Find 2 golden treasure boxes
@@ -2026,14 +1277,7 @@
 80010123--	desc	머쉬킹의 습격을 받은 $map:02000423$에 가서 미션을 수행하자!	Go to $map:02000423$, which was attacked by Mushking, and carry out the mission!
 80010123--	manual	머쉬킹 1회 공격하기	Attack Mushking 1 Time
 80010123--	complete	$map:02000423$에서 $npc:11003882$$pp:와,과$ 대화하기	Talk to $npc:11003882$ at $map:02000423$
-80010175--	name	레인보우 슬라임, 키워 보실래요?	Slimy Dealings
-80010175--	desc	귀여운 레인보우 슬라임을 키우고 선물도 받아 보자!	Raise a cute Rainbow Slime and get neat gifts!
-80010175--	manual	레인보우 슬라임을 키우는 방법 들어 보기	Learn how to raise a rainbow slime
-80010175--	complete	레인보우 슬라임을 키우는 방법 들어 보기	Learn how to raise a rainbow slime
-80010176--	name	레인보우 슬라임의 보금자리 짓기	My Very Own Slime
 80010176--	desc	내 집에 $item:50400282$$pp:를,을$ 설치해 보자!⏎$item:50400282$$pp:는,은$ '건설 시작하기' 메뉴에서 왼쪽의 '레인보우 슬라임' 탭을 누르면 확인할 수 있다.	Try placing $item:50400282$ in your house!⏎You can find $item:50400282$ by opening the 'Start Building' menu and selecting the 'Rainbow Slime' tab on the left.
-80010176--	manual	내 집에 $item:50400282$$pp:를,을$ 설치하기	Place $item:50400282$ in your home
-80010176--	complete	내 집에 $item:50400282$$pp:를,을$ 설치하기	Place $item:50400282$ in your home
 80010190--	name	금슬의 비결	The Secret of Harmony
 80010190--	desc	기적의 일곱 번째 달밤을 만들기 위해 이 세상을 사랑으로 가득 채우자!⏎$npc:11003139$$pp:는,은$ 세상에 흩어진 사랑 이야기를 들어보면 도움이 될 것 같다고 말하는데… ⏎$npc:11003139$$pp:가,이$ 추천하는 것은 메이플 월드 최장수 커플의 사랑 이야기.⏎$map:02000129$에 가서 $npc:11000705$ 할머니의 이야기를 들어 보자.	Fill this world with love to create the miraculous seventh moonlit night!⏎$npc:11003139$ says it may help to hear love stories scattered throughout the world...⏎$npc:11003139$ recommends the love story of Maple World's longest-lasting couple.⏎Go to $map:02000129$ and listen to Grandma $npc:11000705$'s story.
 80010190--	complete	$map:02000129$에 가서 $npc:11000705$ 할머니의 이야기 들어보기	Go to $map:02000129$ and listen to Grandma $npc:11000705$'s story
@@ -2170,16 +1414,6 @@
 80010270--	desc	유령들이 날뛰는 할로윈 기간을 맞아, 던전에 득실대는 악령의 기운에 지지 않는 용기를 보여달라고 말하는 $npc:11001002$.⏎$item:20301427$$pp:를,을$ 받으면 할로윈의 용사를 위한 선물을 준다고 하니, 던전을 클리어해 주간 보상 획득 횟수 30회를 채운 후 $item:20301427$$pp:를,을$ 받고 $npc:11001002$$pp:가,이$ 준비한 선물도 받아 보자.	For the Halloween season when ghosts run wild, $npc:11001002$ asks you to show courage that will not lose to the evil spirit energy filling the dungeons.⏎They say they will give a gift for Halloween heroes if you receive $item:20301427$, so clear dungeons until you have earned weekly rewards 30 times, receive $item:20301427$, and get the gift prepared by $npc:11001002$.
 80010270--	manual	던전을 클리어해 주간 보상 획득 횟수 30회를 채운 후 $item:20301427$ 받기	Clear dungeons until you have obtained weekly rewards 30 times, then receive $item:20301427$
 80010270--	complete	$npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$
-80010271--	name	펌키를 키워 주세요!	Raising Pumky!
-80010271--	desc	귀여운 호박 악마 펌키를 키우고 선물도 받아 보자!	Raise the adorable pumpkin devil Pumky and get some neat gifts!
-80010271--	manual	펌키를 키우는 방법 들어 보기	Learn how to raise Pumky.
-80010271--	complete	펌키를 키우는 방법 들어 보기	Learn how to raise Pumky.
-80010272--	name	펌키의 보금자리 마련해 주기	A Nest for Pumky
-80010272--	desc	내 집에 $item:50400309$$pp:를,을$ 설치해 보자!⏎$item:50400309$$pp:는,은$ '건설 시작하기' 메뉴에서 왼쪽의 '호박 악마 펌키' 탭을 누르면 확인할 수 있다.⏎이미 설치한 경우에는 제거했다가 다시 설치하면 된다.	Try placing $item:50400309$ in your house!⏎You can find $item:50400309$ by opening the 'Start Building' menu and selecting the 'Pumpkin Demon Pumpky' tab on the left.⏎If it is already installed, remove it and install it again.
-80010272--	manual	내 집에 $item:50400309$$pp:를,을$ 설치하기	Place the $item:50400309$ in your home
-80010272--	complete	내 집에 $item:50400309$$pp:를,을$ 설치하기	Place the $item:50400309$ in your home
-80010281--	name	맛있는 칠면조 구이를 만들어 볼까요?	Turkey Dinner
-80010281--	desc	$npc:27000051$$pp:를,을$ 요리하면 보통의 칠면조와는 비교조차 할 수 없을 만큼 훌륭한 진미가 된다는 소문이 있다. $npc:11001002$$pp:는,은$ 추수감사절 기간에 손님들을 대접하기 위해 $npc:27000051$$pp:로,으로$ 만든 요리를 올리고 싶다고 한다. $npc:11001002$에게 열흘 동안 $npc:27000051$$pp:를,을$ 잡아서 가져다 주면 많은 손님들을 대접할 만큼 충분할 것 같다.	Rumor says that if you cook $npc:27000051$, it becomes a delicacy so excellent it cannot even be compared to ordinary turkey. $npc:11001002$ wants to serve a dish made with $npc:27000051$ to entertain guests during Thanksgiving. If you catch and bring $npc:27000051$ to $npc:11001002$ for ten days, it should be enough to serve many guests.
 80010281--	manual	$quest:80010280$ 퀘스트 10회 완료하기	Complete the $quest:80010280$ quest 10 times
 80010281--	complete	$quest:80010280$ 퀘스트 10회 완료하기	Complete the $quest:80010280$ quest 10 times
 80010310--	name	크리티아스 던전을 정복하라!	Conquer Kritias Dungeons!
@@ -2189,15 +1423,12 @@
 80010360-Event-CN	name	민트를 이겨라!	Defeat Mint!
 80010360-Event-CN	desc	퀸크빈 럼블 3라운드 상대인 $npcName:60000103$$pp:를,을$ 세번 이기면, $npcName:11001002$에게서 선물을 받을 수 있다고 한다.⏎⏎선물은 2019년 5월 22일부터 6월 14일 점검 전까지만 받을 수 있다고 하니, 서둘러 퀸크빈 럼블에 참가해 보자.	If you defeat $npcName:60000103$, the third-round opponent in Queenwin Rumble, three times, you can receive a gift from $npcName:11001002$.⏎⏎The gift can only be received from May 22, 2019 until before the June 14 maintenance, so hurry and join Queenwin Rumble!
 80010360-Event-CN	manual	퀸크빈 럼블에서 $npcName:60000103$$pp:와,과$ 대결해 승리하기	Face $npcName:60000103$ in Queen Bean Rumble and win
-80010360-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010370-Event-CN	name	바람개비의 재료	Pinwheel Materials
 80010370-Event-CN	desc	아래의 보스들을 처치하여 바람개비의 재료인 $item:30001386$, $item:30001387$, $item:30001388$을 모아보자!⏎⏎'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', ⏎'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'⏎⏎* 하루 한 번만 수행/완료 가능한 퀘스트로, 보상인 $item:30001389$ 역시 하루 한 번만 획득 가능하다.	Defeat the bosses below to collect $item:30001386$, $item:30001387$, and $item:30001388$, the materials needed for the windmill!⏎⏎'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', ⏎'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'⏎⏎* This quest can only be completed once per day, and the reward $item:30001389$ can also only be obtained once per day.
 80010370-Event-CN	manual	$item:30001386$ 획득하기|$item:30001387$ 획득하기|$item:30001388$ 획득하기	Obtain $item:30001386$|Obtain $item:30001387$|Obtain $item:30001388$
-80010370-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010380-Event-CN	name	바람개비 줄게 선물 다오	Give me a present for a pinwheel
 80010380-Event-CN	desc	$npc:11001002$$pp:가,이$ 주는 퀘스트를 완료하여 $item:30001389$를 20개 모으자!	Complete the quest from $npc:11001002$ and collect 20 $item:30001389$!
 80010380-Event-CN	manual	$item:30001389$ 모으기	Collect $item:30001389$
-80010380-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010390-Event-CN	name	위클리 미션 : 쾌속 성장	Weekly Mission: Rapid Growth
 80010390-Event-CN	desc	$npc:11001003$$pp:는,은$ 이벤트 기간 동안 열리는 특별한 던전에 대해 이야기해주며 이곳을 통해 빠르게 성장할 수 있다고 안내해준다.⏎한 주 동안 $dungeonTitle:29007001$, $dungeonTitle:29007002$$pp:를,을$ 30회 클리어하고 빠른 성장을 위한 아이템들을 받아 보자.⏎단, 두 던전의 일간/주간 보상 획득 횟수는 계정 단위로 공유된다.	$npc:11001003$ tells you about a special dungeon open during the event and explains that you can level up quickly through it.⏎Clear $dungeonTitle:29007001$ and $dungeonTitle:29007002$ a combined 30 times in one week to receive items for rapid growth.⏎Note that the daily/weekly reward limit for both dungeons is shared at the account level.
 80010390-Event-CN	manual	$dungeonTitle:29007001$ 또는 $dungeonTitle:29007002$ 30회 클리어하기	Clear $dungeonTitle:29007001$ or $dungeonTitle:29007002$ 30 times
@@ -2222,26 +1453,19 @@
 80010510-Event-CN	desc	$npcName:11001002$가 들려주는 흥미진진한 소문에 귀 기울여 보자.	Listen to the fascinating rumors that $npcName:11001002$ has to share.
 80010510-Event-CN	manual	$map:02000064$, 또는 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010510-Event-CN	complete	$map:02000064$, 또는 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
-80010520-Event-CN	name	마녀의 선물	Witch's Gift
 80010520-Event-CN	desc	처음 본 마녀에게서 $npc:50400341$$pp:를,을$ 선물 받았다. ⏎이거… 키워봐도 되는 걸까?	I received $npc:50400341$ as a gift from a witch I'd just met. Is it... okay to raise it?
-80010520-Event-CN	manual	$map:02000064$에서 $npc:11004717$에게 $npc:50400341$에 대해 들어보기	Ask $npc:11004717$ in $map:02000064$ about $npc:50400341$
-80010520-Event-CN	complete	$map:02000064$에서 $npc:11004717$에게 $npc:50400341$에 대해 들어보기	Ask $npc:11004717$ in $map:02000064$ about $npc:50400341$
 80010540-Event-CN	name	이기면 더 재밌어!	More Fun When You Win!
 80010540-Event-CN	desc	$npc:11001899$의 새 이벤트, 숨바꼭질에 참여해 승리 팀의 일원이 돼 보자.	Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.
 80010540-Event-CN	manual	$npc:11001899$의 숨바꼭질 이벤트에 참가해, 승리하기	Participate in $npc:11001899$'s Hide-and-Seek event and win
-80010540-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010541-Event-CN	name	숨바꼭질, 적응 완료!	Hide-and-Seek, Adaptation Complete!
 80010541-Event-CN	desc	$npc:11001899$의 새 이벤트, 숨바꼭질에 참여해 승리 팀의 일원이 돼 보자.	Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.
 80010541-Event-CN	manual	$npc:11001899$의 숨바꼭질 이벤트에 참가해, 승리하기	Participate in $npc:11001899$'s Hide-and-Seek event and win
-80010541-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010542-Event-CN	name	숨바꼭질의 승부사!	Hide-and-Seek Champion!
 80010542-Event-CN	desc	$npc:11001899$의 새 이벤트, 숨바꼭질에 참여해 승리 팀의 일원이 돼 보자.	Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.
 80010542-Event-CN	manual	$npc:11001899$의 숨바꼭질 이벤트에 참가해, 승리하기	Participate in $npc:11001899$'s Hide-and-Seek event and win
-80010542-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010543-Event-CN	name	숨바꼭질의 달인!	Hide-and-Seek Master!
 80010543-Event-CN	desc	$npc:11001899$의 새 이벤트, 숨바꼭질에 참여해 승리 팀의 일원이 돼 보자.	Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.
 80010543-Event-CN	manual	$npc:11001899$의 숨바꼭질 이벤트에 참가해, 승리하기	Participate in $npc:11001899$'s Hide-and-Seek event and win
-80010543-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010550-Event-CN	name	약해지지 말아야지!	Don't Get Weak!
 80010550-Event-CN	desc	$npcName:11000119$ 대장은 혼자라 외롭다는 생각이 굉장히 나약한 정신에서 오는 것이라며, 근위대의 특별 훈련에 참가해볼 것을 권한다. ⏎대체 왜 그래야 하는지 잘은 모르겠지만, 일단 뭔가 준다고 하니 훈련에 참가해 보자.⏎우선 메이플 월드의 다양한 필드 보스들 중 한 마리를 처치하고, $map:02000118$에 있는 $npc:11000158$$pp:를,을$ 찾아가 보자.⏎⏎메이플 월드의 다양한 필드 보스들:⏎'$npcName:23000013$', '$npcName:23000018$', '$npcName:23000001$', '$npcName:23000019$', ⏎'$npcName:23000054$', '$npcName:23000020$', '$npcName:23000035$', '$npcName:23000099$', '$npcName:23000017$', '$npcName:23000047$', '$npcName:23000024$', '$npcName:23000034$', '$npcName:23000045$', '$npcName:23000057$', '$npcName:23000026$', '$npcName:23000012$', '$npcName:23000009$', '$npcName:23000029$' 	$npcName:11000119$ the Captain says that feeling lonely is a sign of a weak spirit, and recommends you join the Royal Guard's special training.⏎I'm not quite sure why I should do this, but since there are rewards on offer, let's take part.⏎First, defeat one of the various Field Bosses in Maple World, then find $npc:11000158$ in $map:02000118$.⏎⏎Field Bosses in Maple World:⏎'$npcName:23000013$', '$npcName:23000018$', '$npcName:23000001$', '$npcName:23000019$', ⏎'$npcName:23000054$', '$npcName:23000020$', '$npcName:23000035$', '$npcName:23000099$', '$npcName:23000017$', '$npcName:23000047$', '$npcName:23000024$', '$npcName:23000034$', '$npcName:23000045$', '$npcName:23000057$', '$npcName:23000026$', '$npcName:23000012$', '$npcName:23000009$', '$npcName:23000029$' 
 80010550-Event-CN	manual	필드 보스 처치하기	Defeat a field boss
@@ -2261,67 +1485,37 @@
 80010560-Event-CN	name	행운을 배달하는 컵케이크	Lucky Cupcake Delivery
 80010560-Event-CN	desc	2019년 12월 31일과 2020년 1월 1일에 각각 80분 이상 접속을 유지하면 $item:30001467$$pp:가,이$ 10개씩 우편으로 전달된다고 한다.⏎⏎이틀간 $item:30001467$ 20개를 모아 $npcName:11001002$에게 가져다 주자.	If you stay logged in for at least 80 minutes on both December 31, 2019 and January 1, 2020, you'll receive 10 $item:30001467$ by mail each day.⏎Collect 20 $item:30001467$ over the two days and bring them to $npcName:11001002$.
 80010560-Event-CN	manual	$item:30001467$ 획득하기	Obtain $item:30001467$
-80010560-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010580-Event-CN	name	모험도희영신춘(冒险岛喜迎新春)	Adventure and Welcome the New Year
 80010580-Event-CN	desc	아래의 보스들을 처치하거나 $npcName:11001899$의 이벤트에서 우승해, 글자 '冒险岛喜迎新春'을 모두 모아보자!⏎⏎'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', ⏎'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'	Defeat the bosses listed below or win $npcName:11001899$'s event to collect all the '冒险岛喜迎新春' characters!⏎⏎'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', ⏎'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'
 80010580-Event-CN	manual	글자 '$item:30001493$' 획득하기|글자 '$item:30001494$' 획득하기|글자 '$item:30001495$' 획득하기|글자 '$item:30001496$' 획득하기|글자 '$item:30001497$' 획득하기|글자 '$item:30001498$' 획득하기|글자 '$item:30001499$' 획득하기	Obtain the letter '$item:30001493$'|Obtain the letter '$item:30001494$'|Obtain the letter '$item:30001495$'|Obtain the letter '$item:30001496$'|Obtain the letter '$item:30001497$'|Obtain the letter '$item:30001498$'|Obtain the letter '$item:30001499$'
 80010580-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001003$$pp:와,과$ 대화하기	Talk to $npc:11001003$ in $map:02000064$ or $map:02020041$
-80010590-Event-CN	name	사랑의 하트 날려 보내기	Send Off Hearts of Love
-80010590-Event-CN	desc	필드 곳곳에 등장한 보라보라 하트 풍선을 찾아 날려 보내자.⏎⏎* 보라보라 하트 풍선은 전 필드에 10분 단위로 출현해서 5분 동안 유지된다.	Find the Borabora heart balloons appearing throughout the fields and send them flying.⏎⏎* Borabora heart balloons appear across all fields every 10 minutes and last for 5 minutes.
-80010590-Event-CN	manual	보라보라 하트 풍선 날려 보내기	Release Purple Heart Balloons
-80010590-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010600-Event-CN	name	블랙빈을 닮은 풍선	Black Bean Balloon
 80010600-Event-CN	desc	필드 곳곳에 등장한 블랙빈을 닮은 풍선을 찾아 날려 보내자.⏎⏎* 블랙빈을 닮은 풍선은 전 필드에 10분 단위로 출현해서 5분 동안 유지된다.	Find the Black Bean-shaped balloons appearing throughout the fields and send them flying.⏎⏎* Black Bean-shaped balloons appear across all fields every 10 minutes and last for 5 minutes.
 80010600-Event-CN	manual	블랙빈을 닮은 풍선 날려 보내기	Release the Black Bean Balloon
-80010600-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010610-Event-CN	name	데일리 미션 : 오늘의 짝꿍	Daily Mission: Today's Partner
-80010610-Event-CN	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find today's partner in Maple World and complete the tag mission!
 80010610-Event-CN	manual	$item:11361396$$pp:를,을$ 착용한 짝꿍 찾기	Find a partner wearing $item:11361396$
-80010610-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010611-Event-CN	name	데일리 미션 : 오늘의 짝꿍	Daily Mission: Today's Partner
-80010611-Event-CN	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find today's partner in Maple World and complete the tag mission!
 80010611-Event-CN	manual	"집에만 있는" 칭호를 달고 있는 여자 짝꿍 찾기	Find a female partner wearing the "Homebody" title
-80010611-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010612-Event-CN	name	데일리 미션 : 오늘의 짝꿍	Daily Mission: Today's Partner
-80010612-Event-CN	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find today's partner in Maple World and complete the tag mission!
 80010612-Event-CN	manual	"집에만 있는" 칭호를 달고 있는 남자 짝꿍 찾기	Find a male partner wearing the "Homebody" title
-80010612-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010613-Event-CN	name	데일리 미션 : 오늘의 짝꿍	Daily Mission: Today's Partner
-80010613-Event-CN	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find today's partner in Maple World and complete the tag mission!
 80010613-Event-CN	manual	$item:11250042$$pp:를,을$ 착용한 짝꿍 찾기	Find a partner wearing $item:11250042$
-80010613-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010614-Event-CN	name	데일리 미션 : 오늘의 짝꿍	Daily Mission: Today's Partner
-80010614-Event-CN	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find today's partner in Maple World and complete the tag mission!
 80010614-Event-CN	manual	"마음을 훔치는" 칭호를 달고 있는 짝꿍 찾기	Find a partner wearing the "Heartstealer" title
-80010614-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010615-Event-CN	name	데일리 미션 : 오늘의 짝꿍	Daily Mission: Today's Partner
-80010615-Event-CN	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find today's partner in Maple World and complete the tag mission!
 80010615-Event-CN	manual	"전문 낚시꾼" 칭호를 달고 있는 짝꿍 찾기	Find a partner wearing the "Expert Angler" title
-80010615-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010616-Event-CN	name	데일리 미션 : 오늘의 짝꿍	Daily Mission: Today's Partner
-80010616-Event-CN	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find today's partner in Maple World and complete the tag mission!
 80010616-Event-CN	manual	50레벨 이상의 나이트 짝꿍 찾기	Find a Knight partner at Lv. 50 or higher
-80010616-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010617-Event-CN	name	데일리 미션 : 오늘의 짝꿍	Daily Mission: Today's Partner
-80010617-Event-CN	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find today's partner in Maple World and complete the tag mission!
 80010617-Event-CN	manual	50레벨 이상의 프리스트 짝꿍 찾기	Find a Priest partner at Lv. 50 or higher
-80010617-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010618-Event-CN	name	데일리 미션 : 오늘의 짝꿍	Daily Mission: Today's Partner
-80010618-Event-CN	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find today's partner in Maple World and complete the tag mission!
 80010618-Event-CN	manual	50레벨 이상의 레인저 짝꿍 찾기	Find a Ranger buddy Lv. 50 or higher
-80010618-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010619-Event-CN	name	데일리 미션 : 오늘의 짝꿍	Daily Mission: Today's Partner
-80010619-Event-CN	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find today's buddy in Maple World and complete the tag mission!
 80010619-Event-CN	manual	50레벨 이상의 시프 짝꿍 찾기	Find a Thief buddy Lv. 50 or higher
-80010619-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010620-Event-CN	name	데일리 미션 : 오늘의 짝꿍	Daily Mission: Today's Partner
-80010620-Event-CN	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find today's buddy in Maple World and complete the tag mission!
 80010620-Event-CN	manual	"흑묘" 칭호를 달고 있는 짝꿍 찾기	Find a partner wearing the "Black Cat" title
-80010620-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 80010621-Event-CN	name	데일리 미션 : 오늘의 짝꿍	Daily Mission: Today's Partner
-80010621-Event-CN	desc	메이플 월드에서 오늘의 짝꿍을 찾아 술래잡기 미션을 완료해보자!	Find today's buddy in Maple World and complete the tag mission!
 80010621-Event-CN	manual	"백묘" 칭호를 달고 있는 짝꿍 찾기	Find a partner wearing the "White Cat" title
-80010621-Event-CN	complete	$map:02000064$ 혹은 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기	Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$
 89010120--	name	함선 세력 퀘스트 10개 완료하기	Complete 10 Ship Faction Quests
 89010120--	manual	함선 세력 퀘스트 10개 완료	Complete 10 Ship Faction Quests
 89010120--	complete	함선 세력 퀘스트 10개 완료	Complete 10 Ship Faction Quests
@@ -2352,7 +1546,6 @@
 89010141--	name	초보 모험가와 던전 클리어 2회	Clear Dungeons 2 Times with a Beginner Adventurer
 89010141--	manual	* 던전도움요청 기능을 사용하면 더 쉽게 달성할 수 있습니다.⏎⏎초보 모험가와 함께 던전 클리어 2회	* This can be completed more easily by using the Dungeon Help Request feature.⏎⏎Clear dungeons with novice adventurers 2 times
 89010141--	complete	* 던전도움요청 기능을 사용하면 더 쉽게 달성할 수 있습니다.⏎⏎초보 모험가와 함께 던전 클리어 2회	* This can be completed more easily by using the Dungeon Help Request feature.⏎⏎Clear dungeons with novice adventurers 2 times
-89010147--	name	UGC 1회 제작	Create a UGC item
 89010147--	manual	UGC 1회 이상 제작	Create UGC at least 1 time
 89010147--	complete	UGC 1회 이상 제작	Create UGC at least 1 time
 89010150--	name	트라이아 침공, 그 후 퀘스트 완료	Complete the Quest Tria Invasion, Aftermath
@@ -2388,9 +1581,6 @@
 89010171--	name	도움 요청 혹은 초보 모험가와 던전 클리어 2회	Request Help or Clear Dungeons 2 Times with a Beginner Adventurer
 89010171--	manual	* 던전도움요청 기능을 사용하면 더 쉽게 달성할 수 있습니다.⏎⏎초보자와 숙련자가 함께 던전 클리어 2회	* This can be completed more easily by using the Dungeon Help Request feature.⏎⏎Clear dungeons with a novice and an expert 2 times
 89010171--	complete	* 던전도움요청 기능을 사용하면 더 쉽게 달성할 수 있습니다.⏎⏎초보자와 숙련자가 함께 던전 클리어 2회	* This can be completed more easily by using the Dungeon Help Request feature.⏎⏎Clear dungeons with a novice and an expert 2 times
-89010177--	name	UGC 1회 제작	Create UGC 1 Time
-89010177--	manual	UGC 1회 제작	Create UGC 1 time
-89010177--	complete	UGC 1회 제작	Create UGC 1 time
 89010181--	name	모험레벨 2단계 레벨업	Reach Adventure Rank 2
 89010181--	manual	모험레벨 2단계 레벨업	Reach Adventure Rank 2
 89010181--	complete	모험레벨 2단계 레벨업	Reach Adventure Rank 2
@@ -2415,9 +1605,6 @@
 89010201--	name	도움 요청으로 던전 클리어 1회	Clear a Dungeon 1 Time Through a Help Request
 89010201--	manual	* 던전도움요청 기능을 사용하면 더 쉽게 달성할 수 있습니다.⏎⏎도움 요청으로 던전 클리어 1회	* This can be completed more easily by using the Dungeon Help Request feature.⏎⏎Clear a dungeon through a help request 1 time
 89010201--	complete	* 던전도움요청 기능을 사용하면 더 쉽게 달성할 수 있습니다.⏎⏎도움 요청으로 던전 클리어 1회	* This can be completed more easily by using the Dungeon Help Request feature.⏎⏎Clear a dungeon through a help request 1 time
-89010207--	name	UGC 1회 제작	Create UGC 1 Time
-89010207--	manual	UGC 1회 제작	Create UGC 1 time
-89010207--	complete	UGC 1회 제작	Create UGC 1 time
 89010300--	name	향긋한 쑥 월병 10회 사용하기	Use Fragrant Mugwort Mooncakes 10 times
 89010300--	manual	향긋한 쑥 월병 10회 사용하기	Use Fragrant Mugwort Mooncakes 10 times
 89010300--	complete	향긋한 쑥 월병 10회 사용하기	Use Fragrant Mugwort Mooncakes 10 times
@@ -2466,24 +1653,6 @@
 89010320--	name	내 집의 호박밭에서 호박 10회 수확	Harvest pumpkins from the pumpkin patch at your house 10 times
 89010320--	manual	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎내 집의 호박밭에서 호박 10회 수확하기	* Excludes items obtained by using Magic Production Coupons.⏎⏎Harvest pumpkins from the Pumpkin Field in your house 10 times
 89010320--	complete	* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.⏎⏎내 집의 호박밭에서 호박 10회 수확하기	* Excludes items obtained by using Magic Production Coupons.⏎⏎Harvest pumpkins from the Pumpkin Field in your house 10 times
-89010321--	name	$map:63000067$에서 거미줄 4회 치우기	Remove 4 cobwebs from the $map:63000067$
-89010321--	manual	$map:63000067$에서 거미줄 4회 치우기	Remove 4 cobwebs from the $map:63000067$
-89010321--	complete	$map:63000067$에서 거미줄 4회 치우기	Remove 4 cobwebs from the $map:63000067$
-89010322--	name	$map:63000067$에서 $npc:27000043$ 6회 처치	Defeat $npcPlural:27000043$
-89010322--	manual	$map:63000067$에서 $npc:27000043$ 6회 처치하기	Defeat 6 $npcPlural:27000043$ in the $map:63000067$
-89010322--	complete	$map:63000067$에서 $npc:27000043$ 6회 처치하기	Defeat 6 $npcPlural:27000043$ in the $map:63000067$
-89010323--	name	$map:63000068$에 5회 입장	Enter the $map:63000068$
-89010323--	manual	$map:63000068$에 5회 입장하기	Enter the $map:63000068$ 5 times
-89010323--	complete	$map:63000068$에 5회 입장하기	Enter the $map:63000068$ 5 times
-89010324--	name	퀘스트 할로윈 파티의 초대장 완료	Complete the Quest Invitation to the Halloween Party
-89010324--	manual	퀘스트 할로윈 파티의 초대장 완료하기	Complete the quest Invitation to the Halloween Party
-89010324--	complete	퀘스트 할로윈 파티의 초대장 완료하기	Complete the quest Invitation to the Halloween Party
-89010325--	name	다른 사람에게 친구 요청 5번 하기	Send 5 friend requests
-89010325--	manual	다른 사람에게 친구 요청 5번 하기	Send 5 friend requests
-89010325--	complete	다른 사람에게 친구 요청 5번 하기	Send 5 friend requests
-89010327--	name	[일일] 트릭 오어 트릿 3회 완료	Trick or Treat II
-89010327--	manual	[일일] 트릭 오어 트릿 3회 완료하기	Complete the daily quest "Trick or Treat!" 3 times
-89010327--	complete	[일일] 트릭 오어 트릿 3회 완료하기	Complete the daily quest "Trick or Treat!" 3 times
 89010328--	name	[일일] 트릭 오어 트릿 6회 완료	[Daily] Complete Trick or Treat 6 times
 89010328--	manual	[일일] 트릭 오어 트릿 6회 완료하기	[Daily] Complete Trick or Treat 6 times
 89010328--	complete	[일일] 트릭 오어 트릿 6회 완료하기	[Daily] Complete Trick or Treat 6 times
@@ -2493,18 +1662,12 @@
 89010330--	name	[일일] 트릭 오어 트릿 12회 완료	[Daily] Complete Trick or Treat 12 times
 89010330--	manual	[일일] 트릭 오어 트릿 12회 완료하기	[Daily] Complete Trick or Treat 12 times
 89010330--	complete	[일일] 트릭 오어 트릿 12회 완료하기	[Daily] Complete Trick or Treat 12 times
-89010331--	name	퀘스트 몽슈 백작의 혼령 완료	Complete the Quest Spirit of Count Monshu
-89010331--	manual	퀘스트 몽슈 백작의 혼령 완료하기	Complete the quest Spirit of Count Monshu
-89010331--	complete	퀘스트 몽슈 백작의 혼령 완료하기	Complete the quest Spirit of Count Monshu
 89010332--	name	$map:63000069$에 5회 방문	Visit $map:63000069$ 5 times
 89010332--	manual	$map:63000069$에 5회 방문하기	Visit $map:63000069$ 5 times
 89010332--	complete	$map:63000069$에 5회 방문하기	Visit $map:63000069$ 5 times
 89010333--	name	[일일] 블러디 몽슈슈 할로윈 소동 5회 완료	[Daily] Complete Bloody Monsour Halloween Trouble 5 times
 89010333--	manual	[일일] 블러디 몽슈슈 할로윈 소동 5회 완료하기	[Daily] Complete Bloody Monsour Halloween Trouble 5 times
 89010333--	complete	[일일] 블러디 몽슈슈 할로윈 소동 5회 완료하기	[Daily] Complete Bloody Monsour Halloween Trouble 5 times
-89010334--	name	[일일] 블러디 몽슈슈 할로윈 소동 7회 완료	Mon Bloody Chouchou Uproar III
-89010334--	manual	[일일] 블러디 몽슈슈 할로윈 소동 7회 완료하기	Complete the daily quest "Mon Bloody Chouchou Uproar" 7 times
-89010334--	complete	[일일] 블러디 몽슈슈 할로윈 소동 7회 완료하기	Complete the daily quest "Mon Bloody Chouchou Uproar" 7 times
 89010335--	name	[일일] 블러디 몽슈슈 할로윈 소동 10회 완료	[Daily] Complete Bloody Monsour Halloween Trouble 10 times
 89010335--	manual	[일일] 블러디 몽슈슈 할로윈 소동 10회 완료하기	[Daily] Complete Bloody Monsour Halloween Trouble 10 times
 89010335--	complete	[일일] 블러디 몽슈슈 할로윈 소동 10회 완료하기	[Daily] Complete Bloody Monsour Halloween Trouble 10 times
