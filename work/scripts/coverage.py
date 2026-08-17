@@ -46,6 +46,9 @@ for fn, have, miss in rows:
     print("%-30s %10d %10d %8.1f%%" % (fn, have, miss, have * 100.0 / (have + miss)))
 H, M = sum(r[1] for r in rows), sum(r[2] for r in rows)
 print("-" * 63)
-print("%-30s %10d %10d %8.1f%%" % ("合計", H, M, H * 100.0 / (H + M)))
+if H + M == 0:
+    print("jp にキーが無い翻訳対象は 0 件(全ファイル 100%)")
+else:
+    print("%-30s %10d %10d %8.1f%%" % ("合計", H, M, H * 100.0 / (H + M)))
 print("\n※ jp にキーが無い分は Weblate 上に翻訳枠が存在しないため、")
 print("   キーを追加しない限り翻訳できない。")

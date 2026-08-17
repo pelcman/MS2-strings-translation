@@ -34148,5 +34148,384 @@
   "10900161|12-CharacterBalance_01-KR": {
     "name": "ルーンスクエア",
     "tooltipDescription": "不思議なルーンのオーラを受けました。\\nクリティカルダメージが24%増加"
+  },
+  "90000838|1-Event-CN": {
+    "name": "ジャンピングバーニング効果",
+    "tooltipDescription": "60レベルから80レベルまで1レベルアップ時に\\nボーナス+2レベルを適用"
+  },
+  "90001165|1-Event-CN": {
+    "name": "孤独なポッキー",
+    "tooltipDescription": "HPが50%増加\\nSP100回復"
+  },
+  "90051653|1-Level70Item-CN": {
+    "name": "戦闘力が530増加(戦場では未適用)"
+  },
+  "90051653|1-KREquipmentBalance_01-KR": {
+    "name": "戦闘力が1700増加(戦場では未適用)"
+  },
+  "90051654|1-Level70Item-CN": {
+    "name": "戦闘力が330増加(戦場では未適用)"
+  },
+  "90051654|1-KREquipmentBalance_01-KR": {
+    "name": "戦闘力が1050増加(戦場では未適用)"
+  },
+  "90051670|1-Level70Item-CN": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051670|2-Level70Item-CN": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051670|3-Level70Item-CN": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051670|4-Level70Item-CN": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051670|5-Level70Item-CN": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051670|6-Level70Item-CN": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051670|7-Level70Item-CN": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051670|8-Level70Item-CN": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051670|9-Level70Item-CN": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051670|10-Level70Item-CN": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051670|11-Level70Item-CN": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051670|1-KREquipmentBalance_01-KR": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051670|2-KREquipmentBalance_01-KR": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051670|3-KREquipmentBalance_01-KR": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051670|4-KREquipmentBalance_01-KR": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051670|5-KREquipmentBalance_01-KR": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051670|6-KREquipmentBalance_01-KR": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051670|7-KREquipmentBalance_01-KR": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051670|8-KREquipmentBalance_01-KR": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051670|9-KREquipmentBalance_01-KR": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051670|10-KREquipmentBalance_01-KR": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051670|11-KREquipmentBalance_01-KR": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051688|1-Level70Item-CN": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051688|2-Level70Item-CN": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051688|3-Level70Item-CN": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051688|4-Level70Item-CN": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051688|5-Level70Item-CN": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051688|6-Level70Item-CN": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051688|7-Level70Item-CN": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051688|8-Level70Item-CN": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051688|9-Level70Item-CN": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051688|10-Level70Item-CN": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051688|11-Level70Item-CN": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051688|1-KREquipmentBalance_01-KR": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051688|2-KREquipmentBalance_01-KR": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051688|3-KREquipmentBalance_01-KR": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051688|4-KREquipmentBalance_01-KR": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051688|5-KREquipmentBalance_01-KR": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051688|6-KREquipmentBalance_01-KR": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051688|7-KREquipmentBalance_01-KR": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051688|8-KREquipmentBalance_01-KR": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051688|9-KREquipmentBalance_01-KR": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051688|10-KREquipmentBalance_01-KR": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051688|11-KREquipmentBalance_01-KR": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051806|1-Level70Item-CN": {
+    "name": "幻影時空の力",
+    "tooltipDescription": "戦闘力、攻撃速度、命中増加"
+  },
+  "90051806|1-KREquipmentBalance_01-KR": {
+    "name": "幻影時空の力",
+    "tooltipDescription": "戦闘力、攻撃速度、命中増加"
+  },
+  "90051823|1-PvPRankingDuelMode02-": {
+    "name": "戦場および闘技場でHPが48000、防御力貫通が15%、STRが200、クリティカル回避が100増加"
+  },
+  "90051824|1-PvPRankingDuelMode02-": {
+    "name": "戦場および闘技場でHPが48000、防御力貫通が15%、DEXが200、クリティカル回避が100増加"
+  },
+  "90051825|1-PvPRankingDuelMode02-": {
+    "name": "戦場および闘技場でHPが48000、防御力貫通が15%、INTが200、クリティカル回避が100増加"
+  },
+  "90051826|1-PvPRankingDuelMode02-": {
+    "name": "戦場および闘技場でHPが48000、防御力貫通が15%、LUKが200、クリティカル回避が100増加"
+  },
+  "90051827|1-PvPRankingDuelMode02-": {
+    "name": "戦場および闘技場でHPが92000、攻撃速度が15%、命中が25、行動不能時間減少が50%増加"
+  },
+  "100000046--NA": {
+    "name": "プレミアムクラブ特典(パーティボーナス)",
+    "tooltipDescription": "プレミアムクラブ特典を受けている仲間とパーティを組むと、キャラクター移動速度および地上乗り物の移動速度が5%増加(PvP地域を除く / パーティ全体に適用)"
+  },
+  "90000747|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット：34%"
+  },
+  "90000748|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "超越：35%"
+  },
+  "90000855|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "超越：15.7%"
+  },
+  "90000856|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "超越：21.4%"
+  },
+  "90000858|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ラペンシャード：14.4%"
+  },
+  "90000869|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "特製戦士+魔法使いポーション代替"
+  },
+  "90000870|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "超越：42%"
+  },
+  "90000871|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：1994"
+  },
+  "90000872|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペットオプション：12%"
+  },
+  "90000908|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：1050\\n(実適用414)\\n50 エリート"
+  },
+  "90000909|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：1700\\n(実適用670)\\n50 エクセレント"
+  },
+  "90000920|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド70レベル：\\n攻撃力0%、防御力0%"
+  },
+  "90000921|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド71レベル：\\n攻撃力6%、防御力6%"
+  },
+  "90000922|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド72レベル：\\n攻撃力12.4%、防御力12.4%"
+  },
+  "90000923|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド73レベル：\\n攻撃力19.1%、防御力19.1%"
+  },
+  "90000924|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド74レベル：\\n攻撃力26.2%、防御力26.2%"
+  },
+  "90000925|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド75レベル：\\n攻撃力33.8%、防御力33.8%"
+  },
+  "90000926|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド76レベル：\\n攻撃力41.9%、防御力41.9%"
+  },
+  "90000927|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド77レベル：\\n攻撃力50.4%、防御力50.4%"
+  },
+  "90000928|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド78レベル：\\n攻撃力59.4%、防御力59.4%"
+  },
+  "90000929|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド79レベル：\\n攻撃力68.9%、防御力68.9%"
+  },
+  "90000930|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド80レベル：\\n攻撃力79.1%、防御力79.1%"
+  },
+  "90000936|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：2750\\n(実適用1084)\\nKR 70 エクセレント"
+  },
+  "90000937|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：3150\\n(実適用1241)\\nペット-CN 70 エクセレント"
+  },
+  "90000938|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ラペンシャード：06.0%"
+  },
+  "90000939|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "超越：24.4%"
+  },
+  "89000001|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "超越：36.7%"
+  },
+  "89000002|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ラペンシャード：25.2%"
+  },
+  "89000003|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "超越：49%"
+  },
+  "89000004|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ラペンシャード：36%"
+  },
+  "89000005|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：2040\\n(実適用804)\\nNA 60 エクセレント"
+  },
+  "89000006|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：2750\\nペット-KR 70 エクセレント\\n装備-レジェンダリー\\n戦闘力 実適用6500"
+  },
+  "89000007|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：4100\\nペット-KR 70 レジェンダリー\\n装備-レジェンダリー\\n戦闘力 実適用9691"
+  },
+  "89000008|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：3150\\nペット-CN 70 エクセレント\\n装備-レジェンダリー\\n戦闘力 実適用7445"
+  },
+  "89000009|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：4750\\nペット-CN 70 レジェンダリー\\n装備-レジェンダリー\\n戦闘力 実適用11227"
+  },
+  "89000010|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペットオプション：18%"
+  },
+  "89000011|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：1994\\n(実適用785)\\nNA 60 エクセレント"
+  },
+  "89000012|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：4100\\n(実適用1615)\\nペット-KR 70 レジェンダリー"
+  },
+  "89000013|1--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：4750\\n(実適用1871)\\nペット-CN 70 レジェンダリー"
   }
 }
