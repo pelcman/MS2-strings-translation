@@ -59,14 +59,22 @@ print("翻訳メモリ索引: KO %d 件 / EN %d 件" % (len(idx), len(en_idx)))
 src = os.path.join(MIS, fn + ".tsv")
 rows = [l.rstrip("\n").split("\t") for l in open(src, encoding="utf-8") if l.strip()]
 
+KANA = re.compile(r"[ぁ-んァ-ヶ]")
+
 hit, rest = [], []
-n_ko = n_en = 0
+n_ko = n_en = n_jp = 0
 for r in rows:
     if len(r) < 3:
         rest.append(r)
         continue
     key, field, kv = r[0], r[1], r[2].replace("⏎", "\n")
     ev = r[3].replace("⏎", "\n") if len(r) > 3 else ""
+    # -Event-JP などのキーは ko ファイルの値がそのまま日本語(JMS2公式テキスト)。
+    # かなを含むならハングルではないので、翻訳せずそのまま採用する。
+    if KANA.search(kv) and not HAN.search(kv):
+        hit.append("%s\t%s\t%s" % (key, field, kv.replace("\n", "⏎")))
+        n_jp += 1
+        continue
     ja = idx.get((field, kv))
     if ja:
         n_ko += 1
@@ -81,7 +89,7 @@ for r in rows:
         hit.append("%s\t%s\t%s" % (key, field, ja.replace("\n", "⏎")))
     else:
         rest.append(r)
-print("  内訳: KO一致 %d / EN一致 %d" % (n_ko, n_en))
+print("  内訳: KO一致 %d / EN一致 %d / 元から日本語 %d" % (n_ko, n_en, n_jp))
 
 with open(os.path.join(MIS, fn + ".ja.auto.tsv"), "w", encoding="utf-8", newline="\n") as fh:
     fh.write("\n".join(hit) + ("\n" if hit else ""))

@@ -212,7 +212,6 @@
 23400047--CN	complete	지금까지 $item:20301889$ {0}회 사용	Used $item:20301889$ {0} times so far
 23400049--CN	desc	$item:20302181$ {0}회 사용하기	Use $item:20302181$ {0} times
 23400049--CN	complete	지금까지 $item:20302181$ {0}회 사용	Used $item:20302181$ {0} times so far
-23400050--KR	complete	지금까지 $item:20001150$ {0}회 획득	Obtained $item:20001150$ {0} times so far
 23400051--CN	desc	$item:20001294$ {0}회 획득하기	Obtain $item:20001294$ {0} times
 23400051--CN	complete	지금까지 $item:20001294$ {0}회 획득	Obtained $item:20001294$ {0} times so far
 23400053-Blueprint-CN	desc	이벤트 기간 내 블루프린트 1회 제작해보기	Create a blueprint once during the event period
