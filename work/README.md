@@ -6,7 +6,16 @@
 work/
 ├── scripts/            # 汎用ツール
 │   ├── lookup.py       # 対訳コーパス検索 (python work/scripts/lookup.py <語>)
-│   └── build_corpus.py # dict/corpus/itemname-pairs.tsv の再生成
+│   ├── build_corpus.py # dict/corpus/itemname-pairs.tsv の再生成
+│   ├── status.py       # README の進捗表を再生成(残り/欠落キー/残置)
+│   ├── coverage.py     # jp にキーが無いものを含む実カバー率
+│   ├── audit.py        # 6種類の未訳パターンを検出
+│   ├── ph_report.py    # プレースホルダーのうち翻訳元があるものを抽出
+│   ├── audit_numbers.py # KO と JA で数値が食い違うエントリを検出
+│   ├── audit_en_tm.py  # 曖昧な英語名による自動補完を検出
+│   ├── extract_missing.py # jp に無いキーを ko/en から抽出
+│   ├── tm_prefill.py   # 翻訳メモリ(KO一致/EN一致/元から日本語)で自動補完
+│   └── apply_missing.py # 欠落キーの訳を jp へ追加(キー順・書式を検証)
 ├── npcname/            # 2026-08-11 NPC・モンスター名翻訳セッション
 │   ├── real_names.txt     # 実コンテンツ名1,184種の抽出(KO/EN対訳)
 │   ├── dev_names.txt      # 開発用324種(バランステスト等)
@@ -60,6 +69,23 @@ work/
     ├── apply_fish.py      # 魚名マップの適用(基本+景品98エントリ、フォーマット保全込み)
     ├── fishdesc_map.json  # 釣り魚詳細説明文46種 (koritemdescription 用、改行はリテラル\n)
     └── apply_fishdesc.py  # 説明文マップの適用(98エントリ)
+├── scriptquest/        # 2026-08-12〜17 ストーリー会話 18,339件の翻訳セッション
+│   ├── targets.json       # 未訳エントリの抽出 (キー -> [KO, EN])
+│   ├── todo.txt / todo_story.txt / todo_kritias.txt  # 未訳分の作業リスト(適用のたび再生成)
+│   ├── glossary.tsv       # KO->JA 固有名詞対訳(作業用。確定分は dict/ へ集約済み)
+│   ├── sq_map*.json       # バッチ001-105 (KO原文 -> JA訳)
+│   ├── sq_kri*.json       # クリティアス編バッチ001-019
+│   ├── sq_sto*.json       # ストーリー本編バッチ001-039
+│   ├── notes_*.md         # 各ワーカーの訳語メモ(確定分は dict/ へ集約済み)
+│   ├── apply_sq.py        # sq_*.json をまとめて適用(ラウンドトリップ検証付き)
+│   ├── unify.py           # 訳語統一(FIX表/正規表現/話者別)。公式訳の行には適用しない
+│   ├── check_map.py       # sq_*.json の検査(キー一致/ハングル残存/$pp残存/タグ整合)
+│   ├── extract_subset.py  # 未訳分から作業リストを再生成
+│   └── progress.py        # 進捗表示(読み取り専用)
+└── missing/            # 2026-08-13〜17 キー欠落44,276件の補完セッション
+    ├── <データ名>.tsv          # 欠落キーの抽出 (キー/フィールド/KO/EN)
+    ├── <データ名>.backup.json  # 補完直前のバックアップ
+    └── notes_*.md              # 各ワーカーの訳語メモ(確定分は dict/ へ集約済み)
 ```
 
 ## 注意
