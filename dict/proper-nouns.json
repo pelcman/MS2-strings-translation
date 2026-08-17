@@ -209,6 +209,163 @@
       "ja": "リス港口",
       "ko": "리스항구",
       "source": "jms2 (mapname/korflash)"
+    },
+    "Middleton": {
+      "ja": "ミードルタン",
+      "ko": "미들턴",
+      "source": "jms2 (mapname 02000119-CBT)",
+      "note": "ミドルトンではない。EN Middleton の音写に見えるがJMS2公式はミードルタン"
+    },
+    "Happy Village": {
+      "ja": "ハッピーヴィレッジ",
+      "ko": "해피 빌리지",
+      "source": "jms2 (mapname 63000072-Season1)",
+      "note": "ハッピービレッジではない。関連: 따뜻한 거실=暖かいリビング、우아한 식당=優雅なダイニングキッチン(食堂ではない)"
+    },
+    "Banniba Snow Park": {
+      "ja": "バニバスノーパーク",
+      "ko": "바니바 스노우 파크",
+      "source": "jms2 (mapname 02000258-Season3)",
+      "note": "バニーバではない。別語の 바니바니 공연단 は「バニーバニー公演団」"
+    },
+    "Christmas Dance Dance Stop": {
+      "ja": "クリスマス・ダンス・ストップ！",
+      "ko": "크리스마스 댄스댄스스탑",
+      "source": "jms2 (mapname 61000022)",
+      "note": "「ダンス」は1回・末尾に「！」が付く。素の 댄스댄스스탑 は「ダンス・ダンス・ストップ」(mapname 61000008)"
+    },
+    "Cassie Mart": {
+      "ja": "キャシーマート",
+      "ko": "캐시마트",
+      "source": "jms2 (mapname 02000209/02000210, itemname 30000327)",
+      "note": "キャッシュマートではない(캐시=NPC キャシー・カタリナ の名)。캐시 카탈리나=キャシー・カタリナ"
+    },
+    "Doll Mansion": {
+      "ja": "人形の邸宅",
+      "ko": "인형의 저택",
+      "source": "jms2 (mapname 61000035)",
+      "note": "「人形の館」ではない"
+    },
+    "Woodbury": {
+      "ja": "ウッドバリー",
+      "ko": "우드버리",
+      "source": "jms2 (mapname 02000138/02000144)",
+      "note": "ウッドベリーではない"
+    },
+    "Golden Tower": {
+      "ja": "ゴールデンタワー",
+      "ko": "골든타워",
+      "source": "jms2 (mapname 02000141/02000241)",
+      "note": "マップ名は「ゴールデンタワー8F/7F」。地の文の 층 は「8階/7階」"
+    },
+    "Rockefeller Tower": {
+      "ja": "ロックフェラータワー",
+      "ko": "록펠러 타워",
+      "source": "jms2 (mapname 02000136, itemname 30000043)"
+    },
+    "Momiji Mansion": {
+      "ja": "モミジマンション",
+      "ko": "단풍 아파트",
+      "source": "jms2 (itemname 30000145/30000253-30000255, korflash $s_realestate_item_tooltip)",
+      "note": "questdescription_final 90000060 の「もみじアパート」「入居権」は少数派。입주권=入居券"
+    },
+    "Yamarcha": {
+      "ja": "ヤマルチャ",
+      "ko": "야마르차",
+      "source": "jms2 (mapname 02000229 ヤマルチャ廃寺院, questdescription 10001415)"
+    },
+    "Bayar Mountains": {
+      "ja": "バヤール山脈",
+      "ko": "바야르 산맥",
+      "source": "jms2 (questdescription 10002441/10002460)"
+    },
+    "Kabriam Basin": {
+      "ja": "カブリアム盆地",
+      "ko": "카브리암 분지",
+      "source": "jms2 (mapname 03000014)",
+      "note": "闇の地の避難所がある"
+    },
+    "Pekadive": {
+      "ja": "ペカディブ",
+      "ko": "페카디브",
+      "source": "jms2 (mapname 03000146)"
+    },
+    "Cliff Cave": {
+      "ja": "崖の洞窟",
+      "ko": "벼랑굴",
+      "source": "jms2 (mapname 02000238)",
+      "note": "questdescription 10002061 の「崖窟」は少数派"
+    },
+    "Cursed Wasteland": {
+      "ja": "苦しみの荒れ地",
+      "ko": "고통받는 황무지",
+      "source": "jms2 (mapname 02000148)"
+    },
+    "Queenstown": {
+      "ja": "クイーンズタウン",
+      "ko": "퀸즈타운",
+      "source": "jms2 (mapname 02000064, koritemdescription 20001124)"
+    },
+    "Barbosa": {
+      "ja": "バルボサ",
+      "ko": "바르보사",
+      "source": "jms2 (mapname: バルボサ海岸)"
+    },
+    "Cerisca Bay": {
+      "ja": "チェリスカ湾",
+      "ko": "체리스카 만",
+      "source": "jms2 (mapname 02000063)"
+    },
+    "Trinian Road": {
+      "ja": "トリニアン街道",
+      "ko": "트리니안 가도",
+      "source": "jms2 (mapname)"
+    },
+    "Milky Way Garden": {
+      "ja": "天の川の庭園",
+      "ko": "은하수 정원",
+      "source": "jms2 (mapname 63000062)",
+      "note": "七夕イベントの舞台"
+    },
+    "Dreamnaze": {
+      "ja": "ドリームネイズ",
+      "ko": "드림네이즈",
+      "source": "jms2 (chapterdescription_guide 9040, itemname 20300301/30000263)",
+      "note": "人材開発センター。「ビクトリアドリーム」を掲げる社会的企業"
+    },
+    "Maple Festival": {
+      "ja": "メイプルフェスティバル",
+      "ko": "메이플 축제",
+      "source": "jms2 (mapname 63000043 メイプルフェスティバル会場)",
+      "note": "메이플 단풍 축제=メイプル紅葉フェスティバル"
+    },
+    "Outlaw Hill": {
+      "ja": "無法者の丘",
+      "ko": "무법자의 언덕",
+      "source": "jms2 (mapname 03000059-Season2)"
+    },
+    "Wave-light Mountain (narrative)": {
+      "ja": "波色の山",
+      "ko": "너울빛 산",
+      "source": "jms2 (scriptquest 7件 / stringtrigger 10件 / questdescription 90000449)",
+      "note": "地の文としての公式表記。マップ名系の「波色修行所/波色の雲跡」由来の 波色山 とは別に、本文中は「波色の山」"
+    },
+    "Prism Laboratory": {
+      "ja": "プリズム研究所",
+      "ko": "프리즘 연구소",
+      "source": "jms2 (mapname 52000196)",
+      "note": "ラネモネの研究所"
+    },
+    "Rift of Time and Space": {
+      "ja": "時空の亀裂",
+      "ko": "시공의 균열",
+      "source": "jms2 (mapname 02000554-EpicApocalypse01)"
+    },
+    "Beyond Link Center": {
+      "ja": "ビヨンドリンクセンター",
+      "ko": "비욘드 링크 센터",
+      "source": "session",
+      "note": "비욘드 링크=ビヨンドリンク(中黒なし)。mapname 52000039 ビヨンドリンク情報収集室"
     }
   },
   "bosses_monsters": {
@@ -458,6 +615,75 @@
       "ja": "ピギー",
       "ko": "꿀꿀이",
       "source": "jms2 (npcname: 不良ピギー/お腹空いたピギー)"
+    },
+    "Papulatus": {
+      "ja": "ビシャスプラント",
+      "ko": "파풀라투스",
+      "source": "jms2 (itemname/npcname/stringfieldenterance/koritemdescription: 時間の支配者ビシャスプラント)",
+      "note": "★最重要。JMS2独自リネームで音写ではない。「パプラトゥス」にしない。CN 帕普拉图斯 も同一"
+    },
+    "Dogury": {
+      "ja": "ゲッコーランサー",
+      "ko": "도구리",
+      "source": "jms2 (npcname)",
+      "note": "音写「ドグリ」ではない。JMS2独自名"
+    },
+    "Pink Ggumbtree": {
+      "ja": "ピンクニョロリン",
+      "ko": "분홍 꿈트리",
+      "source": "jms2 (npcname 11004556)",
+      "note": "同じ 꿈트리 でもモンスターの 꿈트리 は「グムツリー」(25021401 等)。NPCのピンク個体のみニョロリン"
+    },
+    "Hi-Stump": {
+      "ja": "ハイスタンプ",
+      "ko": "엑스텀프",
+      "source": "jms2 (npcname 21000045)",
+      "note": "questdescription 10001632 の「アックスタンプ」は少数派。스텀프=スタンプ(21000041)"
+    },
+    "Mufasa": {
+      "ja": "ムファサ",
+      "ko": "무파사",
+      "source": "jms2 (npcname 11000078)",
+      "note": "questdescription 10002171 の「ムパサ」は少数派"
+    },
+    "Kandura": {
+      "ja": "カンドゥラ",
+      "ko": "칸두라",
+      "source": "jms2 (npcname 11001559/23000081/23000082)",
+      "note": "questdescription 40002650 の「カンデュラ」は少数派"
+    },
+    "Kakalf": {
+      "ja": "カカルフ",
+      "ko": "카칼프",
+      "source": "jms2 (npcname 24001904)",
+      "note": "幻想ピラミッドの「狂った伯爵」"
+    },
+    "Proteus": {
+      "ja": "プロテウス",
+      "ko": "프로투스",
+      "source": "jms2 (npcname 24001309)"
+    },
+    "Spinger": {
+      "ja": "スピンガー",
+      "ko": "스핑거",
+      "source": "jms2 (npcname 23090066)"
+    },
+    "Cerberus tribe": {
+      "ja": "ケルベロス族",
+      "ko": "켈베로스족",
+      "source": "jms2 (questdescription 20001870)",
+      "note": "악마의 개=悪魔の犬、마왕의 하수인=魔王の手先"
+    },
+    "Devilin Warrior / Chief": {
+      "ja": "デブリンウォーリアー / デブリンチーフ",
+      "ko": "데블린 워리어 / 데블린 치프",
+      "source": "jms2 (npcname 23000001/23000008)",
+      "note": "CN 巨角怪 もこの一帯のデブリンを指す"
+    },
+    "Rune Giant Nutaman": {
+      "ja": "ルーンの巨神ヌタマン",
+      "ko": "룬의 거신 누타만",
+      "source": "jms2 (npcname 23000078)"
     }
   },
   "npcs_characters": {
@@ -562,7 +788,7 @@
       "source": "jms2 (npcname)"
     },
     "Named": {
-      "ja": "ナメド",
+      "ja": "ナメッド",
       "ko": "나메드",
       "source": "session"
     },
@@ -796,6 +1022,583 @@
       "ja": "マノ",
       "ko": "마노",
       "source": "jms2 (npcname)"
+    },
+    "Cheoyong": {
+      "ja": "カメスキオ",
+      "ko": "처용",
+      "source": "jms2 (npcname 11000874)",
+      "note": "★音写「チョヨン」ではない。韓国伝統の処容(疫病神を追い払う面)由来だがJMS2は完全独自名"
+    },
+    "Doongdoongi": {
+      "ja": "ウカウカ",
+      "ko": "둥둥이",
+      "source": "jms2 (scriptquest 14件, koritemdescription 30000486, questdescription 60001090)",
+      "note": "★カルカルアイランド行きの飛行船。音写「ドゥンドゥンイ」ではない"
+    },
+    "Crouching Bottom": {
+      "ja": "ほらふきじじぃ",
+      "ko": "웅크린 엉덩이",
+      "source": "jms2 (npcname 11000135/11000790)",
+      "note": "★直訳の「うずくまった尻」ではない。欲深く滑稽な老人NPC"
+    },
+    "Nollatnyang": {
+      "ja": "ビビりネコゴースト",
+      "ko": "놀랐냥",
+      "source": "jms2 (npcname)",
+      "note": "★音写ではない。語尾は「にゃ/にゃん」(냥/옹)"
+    },
+    "Mudduk": {
+      "ja": "グルフ",
+      "ko": "무뚝뚝",
+      "source": "jms2 (npcname)",
+      "note": "★直訳の「無愛想」ではない"
+    },
+    "Eomtori / Eomti": {
+      "ja": "カメタ / アムティ",
+      "ko": "엄톨이 / 엄티",
+      "source": "jms2 (npcname 11000712/11000713)",
+      "note": "★親子。子=カメタ(一人称ボク)、父=アムティ(一人称わし)。音写ではない"
+    },
+    "Founder's": {
+      "ja": "パウンダース",
+      "ko": "파운더스",
+      "source": "jms2 (itemname 70200112 吹き出しバッジ：パウンダース, nametagsymboldesc 33--NA)",
+      "note": "★通常 Founder's → ファウンダーズだがJMS2公式はパウンダース。파운더스 팩=パウンダースパック"
+    },
+    "Ashen Wolf": {
+      "ja": "灰色のオオカミ",
+      "ko": "잿빛의 이리",
+      "source": "jms2 (npcname 11001788/24002805, scriptquest 30件)",
+      "note": "questdescription_final の「灰色の狼」は少数派。黒星会に潜入した密偵"
+    },
+    "Humples": {
+      "ja": "ハンフルス",
+      "ko": "험플스",
+      "source": "jms2 (npcname 11000507/11001964, mapname 02000208 ハンフルスアジト)",
+      "note": "★questdescription_final の「ホムプルス」は誤り(unify.py で一括修正対象)。ブラックアイ率いる組織"
+    },
+    "Goldus": {
+      "ja": "ゴルドス",
+      "ko": "골두스",
+      "source": "jms2 (npcname 11000252 ゴルドス会長, mapname 02000134 ゴルドス製薬工場)",
+      "note": "questdescription の「ゴルドゥス」は少数派。ゴルドス製薬/建設会社/グループ/産業開発院/テレコム/銀行/開発"
+    },
+    "Wei Hong": {
+      "ja": "ウェイ・ホン",
+      "ko": "웨이 홍",
+      "source": "jms2 (npcname 11000251)",
+      "note": "黒星会のボス。中黒あり。笑いは「クックッ/クックック」"
+    },
+    "Mrs. Kim": {
+      "ja": "ミセス・キム",
+      "ko": "김여사",
+      "source": "jms2 (npcname 11000185)",
+      "note": "★「キム女史」ではない。仲介人"
+    },
+    "Mrs. Ivelin": {
+      "ja": "ミセス・イベリン",
+      "ko": "이벨린 여사",
+      "source": "jms2 (npcname 11000178)",
+      "note": "ネルフの母。目が不自由"
+    },
+    "Mrs. Toilette": {
+      "ja": "ミセス・トワレット",
+      "ko": "뚜왈렛 여사",
+      "source": "jms2 (npcname 11000244)"
+    },
+    "Charles Kim": {
+      "ja": "チャールス・キム",
+      "ko": "찰스 킴",
+      "source": "jms2 (npcname 11000600)",
+      "note": "「チャールズ」ではない"
+    },
+    "Aliyar": {
+      "ja": "アリヤール",
+      "ko": "알리야르",
+      "source": "jms2 (npcname, koritemdescription 20300448 アヤフヤ商団のアリヤール)",
+      "note": "口癖 얄라리요~ の公式訳は2系統: scriptquest 106232405001232=「おっほん！」/ 1016135801000578=「ヤラリヨ〜」。同一クエスト系列の表記に合わせる"
+    },
+    "Godar": {
+      "ja": "ゴダール",
+      "ko": "고다르",
+      "source": "jms2 (npcname)",
+      "note": "アヤフヤ商団の少年商人"
+    },
+    "Mayol": {
+      "ja": "マヨール",
+      "ko": "마요르",
+      "source": "jms2 (npcname 11001180)",
+      "note": "アヤフヤ商団員。好奇心旺盛な女性"
+    },
+    "Kondaire": {
+      "ja": "コンドール",
+      "ko": "콘대르",
+      "source": "jms2 (npcname 11003534/11004313/11004578)",
+      "note": "「コンデル」ではない。トライア近衛部長=「部長」。콘대르 특공대=コンドール特攻隊"
+    },
+    "Shaten": {
+      "ja": "シャテン",
+      "ko": "샤텐",
+      "source": "jms2 (npcname 11004314)",
+      "note": "ダークウィンドの諜報担当。スキルダミーの「샤텐_」のみ「シャッテン」表記だがNPC名はシャテン"
+    },
+    "Junta": {
+      "ja": "ジュンタ",
+      "ko": "준타",
+      "source": "jms2 (npcname 11001716/11001557)",
+      "note": "ガイダンスの大弟子"
+    },
+    "Tinchai": {
+      "ja": "ティンチャイ",
+      "ko": "틴차이",
+      "source": "jms2 (npcname 11001707/11001558)",
+      "note": "ガイダンスの姉弟子"
+    },
+    "Laoz": {
+      "ja": "ラオズ",
+      "ko": "라오즈",
+      "source": "jms2 (npcname 11001661/11001556)",
+      "note": "ガイダンスのマスター"
+    },
+    "Vision": {
+      "ja": "ヴィジョン",
+      "ko": "비전",
+      "source": "jms2 (npcname 11001723/11003954)",
+      "note": "「ビジョン」ではない"
+    },
+    "Nelf": {
+      "ja": "ネルフ",
+      "ko": "넬프",
+      "source": "jms2 (npcname 11000492)",
+      "note": "「ネルプ」ではない。王室管理人"
+    },
+    "Frey": {
+      "ja": "フレイ",
+      "ko": "프레이",
+      "source": "jms2 (npcname 11000119)",
+      "note": "近衛隊長"
+    },
+    "Kartvan": {
+      "ja": "カトヴァーン",
+      "ko": "카트반",
+      "source": "jms2 (npcname 11000044)",
+      "note": "ダークウィンドの隊長"
+    },
+    "Renon": {
+      "ja": "レノン",
+      "ko": "레논",
+      "source": "jms2 (npcname 11000064)",
+      "note": "小屋のおじいちゃんの孫"
+    },
+    "Rendubian": {
+      "ja": "レンデュビアン",
+      "ko": "렌듀비앙",
+      "source": "jms2 (npcname 11001230/11001567)",
+      "note": "星色遠征隊の団長代理"
+    },
+    "Yuperia": {
+      "ja": "ユペリア",
+      "ko": "유페리아",
+      "source": "jms2 (npcname 11001232)"
+    },
+    "Ishura": {
+      "ja": "イシュラ",
+      "ko": "이슈라",
+      "source": "jms2 (npcname 11001229)",
+      "note": "PCの師。스승님→「師」(師匠ではない)"
+    },
+    "Char": {
+      "ja": "チャール",
+      "ko": "차르",
+      "source": "jms2 (npcname 11000050)",
+      "note": "「チャル」ではない。シーフ教官"
+    },
+    "Rookie": {
+      "ja": "ルーキー",
+      "ko": "루키",
+      "source": "jms2 (npcname 11000051)",
+      "note": "アサシン教官"
+    },
+    "Jena": {
+      "ja": "ジェナ",
+      "ko": "제나",
+      "source": "jms2 (npcname 11000046)",
+      "note": "ヘビーガンナー教官。KO/EN とも性別不明なので性別に依存する終助詞を避ける"
+    },
+    "Ikas": {
+      "ja": "イカス",
+      "ko": "이카스",
+      "source": "jms2 (npcname 11000045)",
+      "note": "レンジャー教官(グリーンフッド)"
+    },
+    "Lek": {
+      "ja": "レク",
+      "ko": "레크",
+      "source": "jms2 (npcname 11000041)",
+      "note": "バーサーカー教官"
+    },
+    "Trini": {
+      "ja": "トリニ",
+      "ko": "트리니",
+      "source": "jms2 (npcname 11001578)",
+      "note": "プリースト教官"
+    },
+    "Beatrice": {
+      "ja": "ベアトリーチェ",
+      "ko": "베아트리체",
+      "source": "jms2 (npcname 11003883)",
+      "note": "フロンティア財団。PCを「私の眷属よ」(나의 반신이여)と呼ぶ ※EyeOfLapenta 系の多数派"
+    },
+    "Ranemone": {
+      "ja": "ラネモネ",
+      "ko": "라네모네",
+      "source": "jms2 (npcname 11004340/11004802, korflash)",
+      "note": "ラペンタ専門の物理学魔法使い"
+    },
+    "Odessa": {
+      "ja": "オデッサ",
+      "ko": "오데사",
+      "source": "jms2 (npcname 11001242)",
+      "note": "変わり者の科学者"
+    },
+    "Judaku": {
+      "ja": "ジュダク",
+      "ko": "주다쿠",
+      "source": "jms2 (npcname 11001212)",
+      "note": "闇商人(암상인)"
+    },
+    "Aliva Olivietta": {
+      "ja": "アリヴァ・オリビエッタ",
+      "ko": "알리바 올리비에타",
+      "source": "jms2 (npcname 11001350, itemname 30000480 アリヴァのブランクチェック)",
+      "note": "questdescription の「アリバ」は少数派"
+    },
+    "Ione": {
+      "ja": "イオーネ",
+      "ko": "이오네",
+      "source": "jms2 (npcname 11003599/11003760)",
+      "note": "クリティアスの王女(CN 公主)。単独の 公主 は「姫」、名前タグに続く場合は「王女」"
+    },
+    "Michael": {
+      "ja": "ミカエル",
+      "ko": "미카엘",
+      "source": "jms2 (npcname 11003597)",
+      "note": "守護騎士。PCを「アメーバくん」(변형충/变形虫)と呼ぶ"
+    },
+    "Ticktog": {
+      "ja": "チクトグ",
+      "ko": "틱토그",
+      "source": "jms2 (npcname 11003610 チクタクトク 系)",
+      "note": "壊れた機械人形"
+    },
+    "Kranz (Kritias)": {
+      "ja": "クランツ",
+      "ko": "크란츠",
+      "source": "jms2 (npcname 11003626-Timaion01)",
+      "note": "クリティアスの守護者。series_materials の Skald(크란츠=クランツ)とは別人物だが表記は同じ"
+    },
+    "Seriha": {
+      "ja": "セリハ",
+      "ko": "세리하",
+      "source": "jms2 (npcname 11003548)",
+      "note": "CN 战场厉风=「戦場の烈風」"
+    },
+    "Jayden": {
+      "ja": "ジェイドン",
+      "ko": "제이든",
+      "source": "jms2 (npcname 11003538/11003541)",
+      "note": "ラージンの助手。研究員"
+    },
+    "Arman": {
+      "ja": "アルマン",
+      "ko": "아르망",
+      "source": "jms2 (npcname)",
+      "note": "クリティアスの情報屋"
+    },
+    "Mashar": {
+      "ja": "マシャル",
+      "ko": "마샤르",
+      "source": "jms2 (npcname 11001258)",
+      "note": "盲目の神女"
+    },
+    "Temoro": {
+      "ja": "テモロ",
+      "ko": "테모로",
+      "source": "jms2 (npcname 11001314)",
+      "note": "モロパパ部族長"
+    },
+    "Kabo": {
+      "ja": "カボ",
+      "ko": "카보",
+      "source": "jms2 (npcname 11001224)",
+      "note": "ナズカル神殿の聖職者。正体はカルゴンの一員"
+    },
+    "Kargon": {
+      "ja": "カルゴン",
+      "ko": "카르곤",
+      "source": "jms2 (npcname 29000083)",
+      "note": "ドラケンハイムからラメストーンを狙う勢力"
+    },
+    "Mercas": {
+      "ja": "メルカス",
+      "ko": "메르카즈",
+      "source": "jms2 (npcname)",
+      "note": "闇の根の魔女"
+    },
+    "Yoanna": {
+      "ja": "ヨアンナ",
+      "ko": "요안나",
+      "source": "jms2 (npcname 11001191)",
+      "note": "メイプルTVのPD"
+    },
+    "Barbie": {
+      "ja": "バービー",
+      "ko": "바비",
+      "source": "jms2 (npcname 11001003/11500002)",
+      "note": "イベント案内NPC。바비 오빠→「バービーお兄さん」(お兄ちゃんではない)"
+    },
+    "Ruby": {
+      "ja": "ルビィ",
+      "ko": "루비",
+      "source": "jms2 (npcname 11001002/11500001)",
+      "note": "「ルビー」ではない。イベントガイド"
+    },
+    "GM Charlie": {
+      "ja": "GMチャーリー",
+      "ko": "GM 촬리",
+      "source": "jms2 (npcname 29000307)",
+      "note": "音写「チャルリ」ではない"
+    },
+    "GM Chunbae": {
+      "ja": "GMチュンベ",
+      "ko": "GM춘배",
+      "source": "jms2 (itemname 10300062)"
+    },
+    "MC Kay": {
+      "ja": "司会者ケイ",
+      "ko": "MC 케이",
+      "source": "jms2 (npcname 11001899/11002065)",
+      "note": "itemname の「MCケイ」表記もある。タグ内の 케이(11000787/11000168)は「ケイ」"
+    },
+    "Sudas": {
+      "ja": "スダス",
+      "ko": "수다스",
+      "source": "jms2 (npcname 11000607)",
+      "note": "行商人"
+    },
+    "Leonar": {
+      "ja": "レオナール",
+      "ko": "레오나르",
+      "source": "jms2 (npcname 11000318)",
+      "note": "自称情報通。一人称は「この俺様」(이 몸)"
+    },
+    "Levirette": {
+      "ja": "ラビレット",
+      "ko": "레비렛",
+      "source": "jms2 (npcname 11000885 月ウサギのラビレット)",
+      "note": "語尾 총/총총 →「チョン/チョンチョン」"
+    },
+    "Bosti": {
+      "ja": "ボスティ",
+      "ko": "보스티",
+      "source": "jms2 (npcname 11000873)",
+      "note": "一人称「オイラ」、語尾 다요→「〜だよ」"
+    },
+    "Kantata": {
+      "ja": "カンタータ",
+      "ko": "칸타타",
+      "source": "jms2 (npcname 11000324)",
+      "note": "ダイナミックアクション講師。맨~→「マン〜」、요우~맨→「ヨウ〜マン」"
+    },
+    "Ray": {
+      "ja": "レイ",
+      "ko": "레이",
+      "source": "jms2 (npcname 11000101, scriptquest 519030511005627)",
+      "note": "英語かぶれ。맨(呼びかけ)→「Yo」、맨(名詞)→「マン」、형씨→「ブラザー」、브로→「ブロ」"
+    },
+    "Yodano": {
+      "ja": "ヨダノ",
+      "ko": "요다노",
+      "source": "jms2 (npcname 11000996)",
+      "note": "ニワトリ。語尾 -닭 →「〜コケ」"
+    },
+    "Label": {
+      "ja": "ラベル",
+      "ko": "라벨",
+      "source": "jms2 (npcname 11000997)",
+      "note": "チリリンラビット側。語尾 -ㄴ가봉가 →「〜ピョン」"
+    },
+    "Jodi": {
+      "ja": "ジョディ",
+      "ko": "조디",
+      "source": "jms2 (scriptquest 313165412002210)",
+      "note": "見習い近衛隊員。一人称「僕」"
+    },
+    "Brin / Merin": {
+      "ja": "ブリン / メリン",
+      "ko": "브린 / 메린",
+      "source": "jms2 (npcname 11001167/11001166)",
+      "note": "エリニアの妖精の兄弟"
+    },
+    "Ting": {
+      "ja": "ティング",
+      "ko": "팅",
+      "source": "jms2 (npcname 11000596)",
+      "note": "ツンデレの妖精。KO/EN とも性別不明なので性別に依存する終助詞を避ける"
+    },
+    "Denver": {
+      "ja": "デンバー",
+      "ko": "덴버",
+      "source": "jms2 (npcname 11000373)",
+      "note": "チラシ配り"
+    },
+    "Kiru": {
+      "ja": "キル",
+      "ko": "키루",
+      "source": "jms2 (npcname 11000402)",
+      "note": "行商人"
+    },
+    "Grumong": {
+      "ja": "グルモン",
+      "ko": "그루몽",
+      "source": "jms2 (npcname 21000078)"
+    },
+    "Maggie / Madiel": {
+      "ja": "マギー / マディエル",
+      "ko": "매기 / 매디엘",
+      "source": "session",
+      "note": "ブロニエおばあちゃんの孫娘と、その名を付けられた人形(怪物化)。EN Maggie/Madiel"
+    },
+    "Bronier": {
+      "ja": "ブロニエおばあちゃん",
+      "ko": "브로니에 할머니",
+      "source": "jms2 (npcname 11000424)",
+      "note": "브로니(ブローニ 11000174)とは別人"
+    },
+    "Aeks (X)": {
+      "ja": "エックス",
+      "ko": "액스",
+      "source": "jms2 (npcname 11003651)",
+      "note": "近衛隊員(CN 近卫队员)"
+    },
+    "Kervin / Fabid": {
+      "ja": "カーヴィン / ファビッド",
+      "ko": "커빈 / 파비드",
+      "source": "jms2 (npcname 11001473/11001474)",
+      "note": "考古学者"
+    },
+    "Azor / Pardu / Kana": {
+      "ja": "アゾール / パルドゥ / カナ",
+      "ko": "아조르 / 파르두 / 카나",
+      "source": "jms2 (npcname 11001433/11001434/24001807)",
+      "note": "カルカルアイランドのユキヒョウ種族の話"
+    },
+    "Dudu / Riri / Yobo / Mumu": {
+      "ja": "ドゥドゥ / リリ / ヨボ / ムム",
+      "ko": "두두 / 리리 / 요보 / 무무",
+      "source": "jms2 (npcname 11001084/11001355/11001080/11001399)",
+      "note": "ミーアキャット偵察隊。ヨボが隊長。語尾 -다미/-융 は全て「〜ミー」、PCの呼称は「人間」"
+    },
+    "Trilton / Berlender": {
+      "ja": "トィルトン / バーレンダー",
+      "ko": "뒤르통 / 벌렌더",
+      "source": "jms2 (npcname 11001437/11001445/11001444)",
+      "note": "カルカル・リディスウォーターピアの村人"
+    },
+    "Doltof / Bolden": {
+      "ja": "ドルトフ / ボルドン",
+      "ko": "도르토프 / 볼든",
+      "source": "jms2 (npcname 11001374/11001375)",
+      "note": "アリヴァの個人秘書 / チューニングモータースの販売員"
+    },
+    "Pin": {
+      "ja": "ピン",
+      "ko": "핀",
+      "source": "jms2 (npcname 11001458)",
+      "note": "黒星会メンバー"
+    },
+    "Beauty": {
+      "ja": "ビューティ",
+      "ko": "뷰티",
+      "source": "jms2 (npcname 11003810)",
+      "note": "ジャクムペット製作の案内役"
+    },
+    "Nameless Vagabond": {
+      "ja": "名も無きさすらい人",
+      "ko": "이름 없는 부랑자",
+      "source": "jms2 (npcname 11000213)",
+      "note": "語尾を伸ばす泣き言 ~습니다아아 →「〜んですよぉぉ」"
+    },
+    "Chorori": {
+      "ja": "チョロリ",
+      "ko": "초로리 / 초롱아귀",
+      "source": "jms2 (npcname 11003082)",
+      "note": "チョウチンアンコウ。語尾 초롱 →「チョロ」。自分を三人称で呼ぶ癖も既訳どおり維持"
+    },
+    "Seolnuni / Seolmani / Seolmongi / Seolleongi": {
+      "ja": "ユキタロウ / ユキマロ / ユキム / ユキジロウ",
+      "ko": "설눈이 / 설만이 / 설몽이 / 설렁이",
+      "source": "jms2 (npcname 11003060/11003063/11000018/11001076)",
+      "note": "雪人族。語尾 다매/라매 は公式訳では再現せず素の常体にする"
+    },
+    "Marchi": {
+      "ja": "マルチ",
+      "ko": "마루치",
+      "source": "jms2 (npcname 11000995)",
+      "note": "一人称「僕」+丁寧語"
+    },
+    "Kama": {
+      "ja": "カマ",
+      "ko": "카마",
+      "source": "jms2 (npcname 11000610)",
+      "note": "黒星会の荒くれ。笑いは「ケケケ」(킬킬킬)"
+    },
+    "Jaebeth / Bravo": {
+      "ja": "ザベス / ブラボー",
+      "ko": "자베스 / 브라보",
+      "source": "jms2 (npcname 11001682/11001674)",
+      "note": "黒星会のごろつき。カマが「엘리자베스(エリザベス)」とボケるギャグは日本語でも成立する"
+    },
+    "Modrix": {
+      "ja": "モドリックス",
+      "ko": "모드릭스",
+      "source": "jms2 (npcname 11000534)",
+      "note": "検視官"
+    },
+    "Compton": {
+      "ja": "コンプトン",
+      "ko": "컴튼",
+      "source": "jms2 (npcname 11000533)"
+    },
+    "Cassie Catalina": {
+      "ja": "キャシー・カタリナ",
+      "ko": "캐시 카탈리나",
+      "source": "jms2 (npcname 11000491)",
+      "note": "キャシーマートの経営者"
+    },
+    "Hob / Tess": {
+      "ja": "ホブ / テス",
+      "ko": "호브 / 테스",
+      "source": "jms2 (npcname 11000869/11000868)",
+      "note": "時間工学者 / 見習い研究員"
+    },
+    "Rui / Mal / Kent / Malun": {
+      "ja": "ルイ / マル / ケント / マルン",
+      "ko": "루이 / 마르 / 켄트 / 마룬",
+      "source": "jms2 (npcname 11000613/11000614/11000615/11000616)",
+      "note": "ルミナ解放軍"
+    },
+    "Refen / Zinko / Hoji / Mosca": {
+      "ja": "レフェン / ジンコ / ホージー / モスカ",
+      "ko": "레펜 / 징코 / 호지 / 모스카",
+      "source": "jms2 (npcname 11000806/11000070/11000805/11000564)",
+      "note": "パパ粉(빠빠가루)事件の関係者"
+    },
+    "Named (correction)": {
+      "ja": "ナメッド",
+      "ko": "나메드",
+      "source": "jms2 (npcname 11000039)",
+      "note": "★既存エントリ Named の「ナメッド」は誤り。npcname 公式は「ナメッド」(祭司長)"
     }
   },
   "mascots_pets": {
@@ -978,6 +1781,130 @@
       "ja": "マッシュキングロイヤル",
       "ko": "무쉬킹 로얄",
       "source": "session (GMS2専用モード)"
+    },
+    "Prism Shard": {
+      "ja": "プリズムの欠片",
+      "ko": "프리즘 샤드",
+      "source": "jms2 (itemname 40100055)",
+      "note": "「プリズムシャード」ではない。프리즘 스톤=プリズムストーン(40100056)"
+    },
+    "Metacell": {
+      "ja": "メタセル",
+      "ko": "메타셀",
+      "source": "jms2 (itemname 40100026)",
+      "note": "메타 코어=メタコア、메타 배지=メタバッジ"
+    },
+    "Meradium": {
+      "ja": "メラディウム",
+      "ko": "메라디움",
+      "source": "jms2 (itemname 20001881 メラディウムの破片)",
+      "note": "鉱石由来なので 파편 は「破片」"
+    },
+    "Chaonix / Enix / Eragonix": {
+      "ja": "カオニキス / エニキス / エラゴニキス",
+      "ko": "카오닉스 / 에닉스 / 에라고닉스",
+      "source": "session (오닉스=オニキス に合わせた同系通貨)"
+    },
+    "Lucky Coin": {
+      "ja": "ラッキーコイン",
+      "ko": "럭코 (럭키 코인)",
+      "source": "jms2 (stringcolorpalette)",
+      "note": "韓国語の略語 럭코 は日本語では略さず全表記"
+    },
+    "Black Emperor": {
+      "ja": "ブラックエンペラー",
+      "ko": "블랙 엠퍼러",
+      "source": "session (EN Black Emperor)",
+      "note": "레전더리 블랙 엠퍼러=レジェンダリーブラックエンペラー"
+    },
+    "Crystal Shined": {
+      "ja": "クリスタルシャインド",
+      "ko": "크리스탈 샤인드",
+      "source": "session (EN Crystal Shine)",
+      "note": "액설런트 크리스탈 샤인드=エクセレントクリスタルシャインド"
+    },
+    "Operator": {
+      "ja": "オペレーター",
+      "ko": "오퍼레이터",
+      "source": "session"
+    },
+    "Seirenes": {
+      "ja": "セイレネス",
+      "ko": "세이레네스",
+      "source": "session (EN Seirenes)",
+      "note": "세이렌(セイレーン)とは別"
+    },
+    "Snow Flower": {
+      "ja": "スノーフラワー",
+      "ko": "눈꽃",
+      "source": "jms2 (itemname: 눈꽃뭉치→スノーフラワー)",
+      "note": "눈송이(겨울눈송이)は「雪の結晶」で区別。빛나는 눈꽃=光る/輝くスノーフラワー"
+    },
+    "Pumpkin Hollow": {
+      "ja": "パンプキンハロウ",
+      "ko": "펌킨 할로 / 펌킨 할로우",
+      "source": "jms2 (itemname)"
+    },
+    "Fall Rabbit": {
+      "ja": "フォールラビット",
+      "ko": "폴 래빗 / 폴 레빗",
+      "source": "session (EN Fall Rabbit)"
+    },
+    "Dark Moon Kitten": {
+      "ja": "ダークムーンキットン",
+      "ko": "다크문 키튼",
+      "source": "session",
+      "note": "키튼→キットン(corpus)"
+    },
+    "Geumsa Unryong": {
+      "ja": "金紗の雲龍",
+      "ko": "금사 운룡",
+      "source": "session",
+      "note": "corpus「금사 장식 귀고리→金紗の飾りのイヤリング」準拠。categoryname 側には「金糸雲龍」表記もある"
+    },
+    "Celestial Hermit / Maiden": {
+      "ja": "天界の仙人 / 天界の天女",
+      "ko": "천계의 선인 / 천계의 선녀",
+      "source": "jms2 (itemname 11250077 ほか)",
+      "note": "선녀→天女(corpus)"
+    },
+    "Wannabe": {
+      "ja": "ウォナビー",
+      "ko": "워너비",
+      "source": "jms2 (itemname: ウォナビースタイリングボックス)"
+    },
+    "Bean Bean Coin": {
+      "ja": "ビーンビーンコイン",
+      "ko": "빈빈 코인",
+      "source": "session (EN Bean Bean)"
+    },
+    "Papa Powder": {
+      "ja": "パパ粉",
+      "ko": "빠빠가루",
+      "source": "jms2 (itemname 20000046, mapname 03009021 パパ粉製造室)",
+      "note": "questdescription 10002307 の「パパガル」は少数派。빠빠 열매=パパの実"
+    },
+    "Sinodia Ore": {
+      "ja": "シノディア鉱石",
+      "ko": "시노디아 광석",
+      "source": "jms2 (itemname 30000421)"
+    },
+    "Unstable Power Crystal": {
+      "ja": "不安定な力の結晶",
+      "ko": "불안정한 힘의 결정",
+      "source": "jms2 (itemname 20301285)",
+      "note": "+9〜+12 不安定な力の装備ボックス。カオスビットコイン(카오스 비트코인)で完成"
+    },
+    "Soul Orb": {
+      "ja": "魂の玉",
+      "ko": "영혼의 구슬",
+      "source": "jms2 (mapname 52000013, questdescription 10002606)"
+    },
+    "Enchant Rune / Stabilizer Rune": {
+      "ja": "エンチャントルーン / 安定化ルーン",
+      "ko": "인챈트 룬 / 안정화 룬",
+      "source": "jms2 (itemname 20301558-69)",
+      "note": "인챈트 주문서 は「エンチャント呪文書」。CN 强化符文/稳固符文 は文脈で使い分ける"
     }
   },
   "organizations": {
@@ -1015,7 +1942,7 @@
       "note": "組織名は星色遠征隊が正。questdescription_final のみ公式訳が「星明かり遠征隊」(10件)と割れているが、命名系ファイルが一貫して星色遠征隊のためそちらを採用。일반語の 별빛 単体は「星明かり」でよい"
     },
     "Kwinko Grave Robbers": {
-      "ja": "クィンコ盗掘団",
+      "ja": "クウィンコ盗掘団",
       "ko": "크윙코 도굴단",
       "source": "session"
     },
@@ -1026,7 +1953,7 @@
       "note": "顎拳団=턱권단"
     },
     "Black Star Scavengers": {
-      "ja": "黒星スカベンジャー",
+      "ja": "黒星クリーナー",
       "ko": "흑성 청소부(CN:黑星清道夫)",
       "source": "session"
     },
@@ -1052,7 +1979,7 @@
       "source": "jms2 (questdescription)"
     },
     "Tius Core": {
-      "ja": "ティウスコア",
+      "ja": "ティアスコア",
       "ko": "티우스 코어(CN:提厄斯核心)",
       "source": "session",
       "note": "材料: 蒼穹の心/破滅の翼/神の目/魂の玉/知恵の輪"
@@ -1126,6 +2053,202 @@
       "ja": "ピニャータ",
       "ko": "피냐타",
       "source": "jms2 (itemname/mapname)"
+    },
+    "Black Star Society": {
+      "ja": "黒星会",
+      "ko": "흑성회",
+      "source": "jms2 (scriptquest/npcname/questdescription 多数)",
+      "note": "★EN の \"Dark Wind Society\" は誤り(다크윈드=ダークウィンドは別組織)。흑성회 조직원=黒星会メンバー(npcname 50件以上)。흑성회 대부=黒星会の顔役(questdescription 10002020)"
+    },
+    "Dark Wind": {
+      "ja": "ダークウィンド",
+      "ko": "다크윈드",
+      "source": "jms2 (npcname/glossary: ダークウィンド隊員)",
+      "note": "王室直属の諜報組織。CN 黑风 も同一"
+    },
+    "Kerbes (faction)": {
+      "ja": "ケルベス",
+      "ko": "케르베스",
+      "source": "jms2 (itemname/scriptquest 多数)",
+      "note": "クリティアスで闇の軍団と並ぶ敵勢力。series_materials の Kharon(EN Kharon=ケルベス)と同一語だが、こちらは勢力名としての用法。케르베스 야수=ケルベス野獣"
+    },
+    "Aricari Merchant Guild": {
+      "ja": "アヤフヤ商団",
+      "ko": "아리까리 상단",
+      "source": "jms2 (questdescription_final 70700001, npcname 11001182)",
+      "note": "★音写ではない。아리까리=「はっきりしない」の擬態語を意訳した公式名"
+    },
+    "Barota Merchant Guild": {
+      "ja": "バロタ商団",
+      "ko": "바로타 상단",
+      "source": "jms2 (itemname 30000037/30000114)"
+    },
+    "Luminights": {
+      "ja": "ルミナイツ",
+      "ko": "루미나이츠",
+      "source": "jms2 (scriptquest: ルミナイツの高位神官騎士)",
+      "note": "メイソンが属する神官騎士団。신관 기사=神官騎士"
+    },
+    "Greenhood": {
+      "ja": "グリーンフッド",
+      "ko": "그린후드",
+      "source": "jms2 (scriptquest/itemname)",
+      "note": "弓使いの勢力。그린후드 자경단=グリーンフッド自警団、독수리 정찰단=ワシ偵察団"
+    },
+    "Maple Alliance": {
+      "ja": "メイプル連合",
+      "ko": "메이플 연합",
+      "source": "jms2 (scriptquest 多数)"
+    },
+    "Shadow Expedition": {
+      "ja": "影の遠征隊",
+      "ko": "그림자 원정대",
+      "source": "jms2 (chapterdescription_epic/titlename/korflash/stringguide)",
+      "note": "그림자 군단=影軍団(組織)とは別。원정대 전용 특성=遠征隊専用の特性"
+    },
+    "Beyond Link": {
+      "ja": "ビヨンドリンク",
+      "ko": "비욘드 링크",
+      "source": "jms2 (mapname 52000039)",
+      "note": "中黒なし"
+    },
+    "Animar": {
+      "ja": "エニマル",
+      "ko": "애니마르",
+      "source": "jms2 (scriptquest 公式訳16件)",
+      "note": "★ガイダンスの気の呼称。questdescription_final には「アニマル」表記もあるが scriptquest が正"
+    },
+    "Runicta": {
+      "ja": "ルニックタ",
+      "ko": "루닉타",
+      "source": "jms2 (stringcolorpalette/stringtrigger 52000029/52000030)",
+      "note": "「ルニクタ」ではない"
+    },
+    "Rune Sanctum": {
+      "ja": "ルーンの聖殿",
+      "ko": "룬의 성전",
+      "source": "jms2 (scriptquest)",
+      "note": "성전 입구=聖殿の入口"
+    },
+    "Book of Runes": {
+      "ja": "ルーンの書",
+      "ko": "룬의 서",
+      "source": "jms2 (itemname 30000538)",
+      "note": "룬의 서 조각=ルーンの書の欠片"
+    },
+    "Jibritta": {
+      "ja": "ジブリッタ",
+      "ko": "지브릿타",
+      "source": "jms2 (loadingdescription 258 ルーン呪術の先駆者ジブリッタ)"
+    },
+    "Arajad": {
+      "ja": "アラジャド",
+      "ko": "아라자드",
+      "source": "jms2 (koritemdescription 11800074, questdescription 50100800)",
+      "note": "「アラザド」は少数派(jp全体で44件 vs 1件)"
+    },
+    "Teruncalib": {
+      "ja": "テルンカリブ",
+      "ko": "테룬칼리브",
+      "source": "jms2 (loadingdescription 258, koritemdescription 11800074)"
+    },
+    "Meerkat Scouts": {
+      "ja": "ミーアキャット偵察隊",
+      "ko": "미어캣 정찰대",
+      "source": "jms2 (npcname 11001086, questdescription 21014001)"
+    },
+    "Snow Leopard Tribe": {
+      "ja": "ユキヒョウ種族",
+      "ko": "설표 종족",
+      "source": "jms2 (questdescription 50001080/25010001)",
+      "note": "설표족 とも。神女(신녀)を擁する"
+    },
+    "Moran Tribe": {
+      "ja": "モラン族",
+      "ko": "모랑족",
+      "source": "jms2 (npcname/questdescription)",
+      "note": "族長カントゥラン。自称 모랑모랑=モランモラン。語尾 -다모/-라모/-냐모 →「〜モ」"
+    },
+    "Pigming Tribe": {
+      "ja": "ピグミング部族",
+      "ko": "피그밍그 부족",
+      "source": "jms2 (mapname 02000049, questdescription 10001580)",
+      "note": "부족제=部族祭"
+    },
+    "Bunny Bunny Troupe": {
+      "ja": "バニーバニー公演団",
+      "ko": "바니바니 공연단",
+      "source": "jms2 (questdescription)",
+      "note": "「バニバニ」ではない。별개の 바니바니단=バニーバニー団(イベント)"
+    },
+    "Maple TV": {
+      "ja": "メイプルTV",
+      "ko": "메이플 TV",
+      "source": "jms2 (questdescription 11001191 系)",
+      "note": "半角 TV。교양국=教養局、예능국=バラエティ局、국장=局長"
+    },
+    "Frontier Foundation": {
+      "ja": "フロンティア財団",
+      "ko": "프론티어 재단",
+      "source": "jms2 (itemname 20301836, mapname 02000487)"
+    },
+    "Seven Heroes": {
+      "ja": "7英雄",
+      "ko": "7영웅",
+      "source": "jms2 (scriptquest)",
+      "note": "別表記 일곱 영웅 は「7人の英雄」(koritemdescription 30001479)。既存 organizations の 七神将(칠신장)とは別"
+    },
+    "Illusion Dungeon": {
+      "ja": "幻影のダンジョン",
+      "ko": "환영의 던전",
+      "source": "jms2 (itemname 20303262, npcname 11004821-11004824)",
+      "note": "환영 X=幻影X(幻影のブブス/ホルス/バヤール/マーク52)"
+    },
+    "Red Lapenta / Green Lapenta": {
+      "ja": "レッドラペンタ / グリーンラペンタ",
+      "ko": "레드 라펜타 / 그린 라펜타",
+      "source": "jms2 (questdescription 10002350/10002598/10002200/10002430)",
+      "note": "既存 Blue Lapenta と同系列"
+    },
+    "Chaos Time Key": {
+      "ja": "カオスタイムキー",
+      "ko": "카오스 타임키",
+      "source": "jms2 (itemname 30000320, questdescription 10001853)",
+      "note": "타임 플로어=タイムフロア、타임 매트릭스=タイムマトリックス、우주 시간의 중심축=宇宙時間の中心軸"
+    },
+    "Mark 52": {
+      "ja": "マーク52",
+      "ko": "마크52",
+      "source": "jms2 (achievename 22300028, questdescription 30000020)",
+      "note": "카트로닉 박사=カトロニック博士。마크52 알파/베타/오메가=マーク52アルファ/ベータ/オメガ"
+    },
+    "Guidance (order)": {
+      "ja": "ガイダンス",
+      "ko": "가이던스",
+      "source": "jms2 (npcname 11001741 ガイダンスの印, itemname ガイダンス道服)",
+      "note": "既存 organizations の Guidance と同一。사형=先輩、대제자=大弟子、무나크라=ムナクラ"
+    },
+    "Spirit One": {
+      "ja": "スピリット・ワン",
+      "ko": "스피릿 원",
+      "source": "jms2 (itemname 11300639 スピリット・ワンフェザー)"
+    },
+    "Mantra Project": {
+      "ja": "マントラ(プロジェクト)",
+      "ko": "만트라 (프로젝트)",
+      "source": "jms2 (npcname 21402096 マントラソルジャー)",
+      "note": "환영 만트라 솔저 Code-A=幻影マントラソルジャーCode：A"
+    },
+    "Lost Child": {
+      "ja": "ロストチャイルド",
+      "ko": "로스트 차일드",
+      "source": "jms2 (npcname 11001781)"
+    },
+    "Meerkat / Karkar dialect": {
+      "ja": "カルカルアイランドのミーアキャット語尾",
+      "ko": "-다미 / -융",
+      "source": "jms2 (scriptquest 公式訳)",
+      "note": "★語尾 -다미/-융/-냐미/-다미융 はすべて「〜ミー」に統一"
     }
   },
   "lore_notes": {
@@ -1137,5 +2260,176 @@
       "https://www.h1g.jp/maplestory2/",
       "https://renote.net/articles/14038"
     ]
+  },
+  "speaker_voice": {
+    "_comment": "話者別の一人称・PC呼称・口調。JMS2公式原本(scriptquest)の用例から確定したもの。会話データ(scriptquest / questdescription_final)を訳すときは必ずこれに従う。note の「一人称/PC呼称/文体」の順で記載。",
+    "Mason": {
+      "ja": "メイソン",
+      "ko": "메이슨",
+      "source": "jms2 (scriptquest 原本 僕117件 / 私3件)",
+      "note": "一人称=僕。PC=あなた・$MyPCName$さん。丁寧語(です・ます)。★「私」は誤り(unify.py の SPEAKER_FIX で一括修正)"
+    },
+    "Blitze": {
+      "ja": "ブリーチェ",
+      "ko": "블리체",
+      "source": "jms2 (scriptquest 原本)",
+      "note": "一人称=私/本艦長。PC=貴官(귀관)・$MyPCName$隊員(대원)・君(자네)。常体の軍人口調「〜するように」。수고 많았다/고생 많았다→「ご苦労だった」。ゲオルク側(マルレーネ・シマン)には敬体"
+    },
+    "Ereve": {
+      "ja": "エレヴ",
+      "ko": "에레브",
+      "source": "jms2 (scriptquest 原本 201212802005935-005937)",
+      "note": "一人称=わたくし。PC=$MyPCName$さん(그대は「あなた」)。最上級の丁寧語。여제님→「女王様」(女帝は使わない)"
+    },
+    "Frey": {
+      "ja": "フレイ",
+      "ko": "프레이",
+      "source": "jms2 (scriptquest 原本 1018150725003357 ほか)",
+      "note": "一人称=俺。PC=君(자네)。常体「〜だ/〜てくれ/〜するように/〜たまえ」"
+    },
+    "Nairin": {
+      "ja": "ネイリン",
+      "ko": "네이린",
+      "source": "jms2 (scriptquest 原本 610件)",
+      "note": "一人称=私。PC=$MyPCName$さん。明るい丁寧語。어서 오세요→「いらっしゃいませ」。함장님→「艦長」(艦長様にしない)"
+    },
+    "Shaten": {
+      "ja": "シャテン",
+      "ko": "샤텐",
+      "source": "jms2 (scriptquest 原本 901件)",
+      "note": "一人称=あたし。PC=かわい子ちゃん(아기 고양이/귀염둥이)・あんた(자기)。砕けた女性口調「〜のよ/〜でしょ」。ネイリンを「ネイネイ」と呼ぶ"
+    },
+    "Kondaire": {
+      "ja": "コンドール",
+      "ko": "콘대르",
+      "source": "jms2 (scriptquest 原本 609件)",
+      "note": "一人称=俺。PC=お前。粗野な常体。役職 부장님→「部長」"
+    },
+    "Marlene": {
+      "ja": "マルレーネ",
+      "ko": "마를레네",
+      "source": "jms2 (scriptquest 原本)",
+      "note": "一人称=私。PC=$MyPCName$・あなた。丁寧語。수고 많았어요→「お疲れさまでした」/ 고생 많았어요→「ご苦労さまでした」と訳し分ける"
+    },
+    "Tessa": {
+      "ja": "テッサ",
+      "ko": "테사",
+      "source": "jms2 (scriptquest 原本 / questdescription Fame_Geo01)",
+      "note": "一人称=私(我々)。PC=異邦人(이방인)・お前。ぶっきらぼうな常体"
+    },
+    "Kanturang / Yorang": {
+      "ja": "カントゥラン / ヨラン",
+      "ko": "칸투랑 / 요랑",
+      "source": "session (モラン族の語尾)",
+      "note": "一人称=オレ。語尾 -다모/-라모/-냐모 →「〜モ」(例: 반갑다모!→よろしくだモ！)。自称 이 요랑님→「このヨラン様」"
+    },
+    "Asimov": {
+      "ja": "アシモフ",
+      "ko": "아시모프",
+      "source": "jms2 (stringtrigger 52000026 ほか)",
+      "note": "一人称=私/我々。PC=君(자네/그대)。老学者の常体「〜のだ/〜てくれ/〜たまえ/〜なさい」。허허→「ハッハッ/ははは」"
+    },
+    "Laoz": {
+      "ja": "ラオズ",
+      "ko": "라오즈",
+      "source": "jms2 (scriptquest 716001104000853)",
+      "note": "一人称=わし。相手=おぬし。「〜のじゃ/〜じゃろう」"
+    },
+    "Junta": {
+      "ja": "ジュンタ",
+      "ko": "준타",
+      "source": "jms2 (scriptquest 626234604000661-687)",
+      "note": "一人称=私。PC=お前。厳格な常体「〜だ/〜ならん/〜しろ」"
+    },
+    "Tinchai": {
+      "ja": "ティンチャイ",
+      "ko": "틴차이",
+      "source": "jms2 (scriptquest 626234604000650/716001104000818)",
+      "note": "一人称=私(自称 이몸→この私)。PC=あなた/君。気さくな女性口調「〜だよ/〜ね/〜の」、語尾に「～」を多用"
+    },
+    "Wei Hong": {
+      "ja": "ウェイ・ホン",
+      "ko": "웨이 홍",
+      "source": "jms2 (scriptquest 201212802006051 系)",
+      "note": "一人称=俺。PC=お前/貴様(네 놈)。冷徹なボス。笑いは「クックッ/クックック」"
+    },
+    "Jayce": {
+      "ja": "ジェイシー",
+      "ko": "제이시",
+      "source": "jms2 (scriptquest 530233004000496 系)",
+      "note": "一人称=私。PC=あなた。丁寧語+「フフ/フフフ」"
+    },
+    "Blackeye": {
+      "ja": "ブラックアイ",
+      "ko": "블랙아이",
+      "source": "jms2 (scriptquest 1118071205001781 系)",
+      "note": "一人称=俺。PC=お前。重い常体"
+    },
+    "Karl": {
+      "ja": "カール",
+      "ko": "칼",
+      "source": "jms2 (scriptquest 713175511006192 系)",
+      "note": "王室大臣。一人称=私。PC=君(자네)。하게体「〜だ/〜のだ/〜かね/〜てくれ」。PCを糾弾する場面では「貴様」"
+    },
+    "Kartvan": {
+      "ja": "カトヴァーン",
+      "ko": "카트반",
+      "source": "jms2 (scriptquest 330111912002331)",
+      "note": "一人称=私。PC=君。「〜だ/〜てくれないか/〜するように」"
+    },
+    "Allon": {
+      "ja": "アーロン",
+      "ko": "알론",
+      "source": "jms2 (scriptquest 201212802005941)",
+      "note": "一人称=俺。PC=君。「〜だ/〜てくれ/〜だろう」。※既存 npcs_characters の Allon と同一人物"
+    },
+    "Hut Grandpa": {
+      "ja": "小屋のおじいちゃん",
+      "ko": "오두막 할아범",
+      "source": "jms2 (npcname 11000407, scriptquest)",
+      "note": "一人称=わし。PC=お前。「〜じゃ/〜のう/〜てくれんか」。허허→「ほっほ」"
+    },
+    "Ranemone": {
+      "ja": "ラネモネ",
+      "ko": "라네모네",
+      "source": "jms2 (scriptquest 原本 163件)",
+      "note": "一人称=あたくし。PC=あんた。「〜わ/〜のよ/〜かしら」+「イヒヒッ」"
+    },
+    "Beatrice": {
+      "ja": "ベアトリーチェ",
+      "ko": "베아트리체",
+      "source": "jms2 (scriptquest 原本 172件)",
+      "note": "一人称=私。PC=$MyPCName$さん・「私の眷属よ」。丁寧語"
+    },
+    "Baron": {
+      "ja": "バロン",
+      "ko": "바론",
+      "source": "session (EpicApocalypse01)",
+      "note": "一人称=私。PC=お前・若造(애송이)。「〜だ/〜のだ/〜ぞ」。※공식の 애송이=「新入り」は近衛隊内の用例なので不採用"
+    },
+    "Taikun": {
+      "ja": "タイクン",
+      "ko": "어흥이",
+      "source": "jms2 (scriptquest 315202702004915)",
+      "note": "虎の獣人。一人称=俺/オレ。PC=お前。粗野な常体。笑いは「ガオフフフ/ウフフフ」(어흥흥흥/으흥흥흥)"
+    },
+    "Aliyar": {
+      "ja": "アリヤール",
+      "ko": "알리야르",
+      "source": "jms2 (scriptquest 原本 95件)",
+      "note": "一人称=私。PC=君。「〜のだ/〜かね/〜たまえ」+「ハハハ」"
+    },
+    "Mason's PC (Timaion arc)": {
+      "ja": "PC(ティマイオン編)",
+      "ko": "-",
+      "source": "session (sq_map001 以来の一貫方針)",
+      "note": "ティマイオン編(Timaion01/CN)の PC は一人称=僕+丁寧語。他章の pc 行は「〜と言う。/〜と尋ねる。」の地の文"
+    },
+    "Blitze's PC address": {
+      "ja": "PCへの呼称(スカイフォートレス系)",
+      "ko": "귀관 / 대원",
+      "source": "jms2 (scriptquest 原本)",
+      "note": "귀관→貴官、대원→隊員($MyPCName$隊員)、자네→君。KOの語をそのまま訳し分ける"
+    }
   }
 }
