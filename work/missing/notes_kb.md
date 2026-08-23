@@ -30,7 +30,7 @@
 | 무지갯빛 낚시터 | 虹色の釣り堀 | mapname |
 | 몽슈 백작 / 플루티노 / 마리엔 / 보마르셰 | モンシュ伯爵 / プルーティノ / マリエン / ボーマルシェ | npcname |
 | 슈반다 / 케이(MC) / 키키 | シュヴァンダ / ケイ / キキ | npcname |
-| 바베니 | バベニ | mapname |
+| 바베니 | バーベニー | mapname |
 | 초당 N | 1秒ごとにN | koritemdescription 既訳 |
 | 중첩 | 重複 | koritemdescription 既訳 |
 | 한계돌파 | 限界突破 | koritemdescription 既訳 |

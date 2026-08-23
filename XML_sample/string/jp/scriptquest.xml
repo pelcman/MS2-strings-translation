@@ -1641,9 +1641,9 @@
 	<key id="107211319010295" npc="블리체" name="&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11004395[gender:1]$&lt;/font&gt;様が送ってきた位置へ向かい、今すぐ&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090006[gender:0]$&lt;/font&gt;を制圧するように。" feature="Kritias_2018_12" />
 	<key id="107211319010296" npc="PC" name="聞こえますか？&#xA;艦長？" feature="Kritias_2018_12" />
 	<key id="107211319010297" npc="PC" name="しまった、無線機が使い物にならないじゃないか？&#xA;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090006[gender:0]$&lt;/font&gt;と戦った時に壊れたのか？" feature="Kritias_2018_12" />
-	<key id="107211319010298" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;(バベニへ戻って直接報告しないとな。)&lt;/font&gt;" feature="Kritias_2018_12" />
-	<key id="107211319010299" npc="PC" name="バベニへ直接行って報告しないとな。" feature="Kritias_2018_12" />
-	<key id="107211319010300" npc="PC" name="バベニへ直接行って報告しないとな。" feature="Kritias_2018_12" />
+	<key id="107211319010298" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;(バーベニーへ戻って直接報告しないとな。)&lt;/font&gt;" feature="Kritias_2018_12" />
+	<key id="107211319010299" npc="PC" name="バーベニーへ直接行って報告しないとな。" feature="Kritias_2018_12" />
+	<key id="107211319010300" npc="PC" name="バーベニーへ直接行って報告しないとな。" feature="Kritias_2018_12" />
 	<key id="107211319010301" npc="블리체" name="連絡が途絶えて心配した。&#xA;幸い無事だな。" feature="Kritias_2018_12" />
 	<key id="107211319010302" npc="PC" name="(無線機が壊れて報告できなかったと言う。)" feature="Kritias_2018_12" />
 	<key id="107211319010303" npc="블리체" name="交戦中に破損したのか？ &#xA;研究隊員に耐久度を上げるよう命じねばならんな。&#xA;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:23090006[gender:0]$&lt;/font&gt;は制圧したか？" feature="Kritias_2018_12" />

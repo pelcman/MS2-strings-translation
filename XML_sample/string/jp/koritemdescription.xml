@@ -17044,7 +17044,7 @@
 	<key id="30001205" tooltipDescription="オニキスの結晶が入っているボックス。" guideDescription="インベントリでアイテムをダブルクリックするとアイテムを獲得できる。" />
 	<key id="30001206" tooltipDescription="カラーのあるクリスタルのうち1つを獲得できるボックス。" guideDescription="インベントリでアイテムをダブルクリックするとアイテムを獲得できる。" />
 	<key id="30001214" tooltipDescription="ハロウィンムード作りに欠かせないカボチャの飾り。" locale="JP" />
-	<key id="30001216" tooltipDescription="精製してエネルにできるエネルの源。小さな欠片のため、これ自体では力を使うことができない。「バベニ」にいるエネル収集家「ノーマン」を訪ねてみよう。" guideDescription="クリティアスでのモンスター狩り/軍団戦/黄金の宝箱から一定確率で獲得できる。" feature="Kritias_2018_12" />
+	<key id="30001216" tooltipDescription="精製してエネルにできるエネルの源。小さな欠片のため、これ自体では力を使うことができない。「バーベニー」にいるエネル収集家「ノーマン」を訪ねてみよう。" guideDescription="クリティアスでのモンスター狩り/軍団戦/黄金の宝箱から一定確率で獲得できる。" feature="Kritias_2018_12" />
 	<key id="30001218" tooltipDescription="$npcName:25020201$から獲得した部品。\n見た目は単純な部品のようだが、この部品を分析すればクリティアスの機械兵士の力の源を突き止められそうだ。 " feature="Kritias_2018_12" />
 	<key id="30001219" tooltipDescription="$npcName:25020003$の背中から獲得した大きな水晶。\nクリティアスのエネルギー源であるエネルと見た目は似ているが、色が違う。もしかすると別のエネルギー源である可能性があり、精密な分析が必要だ。" feature="Kritias_2018_12" />
 	<key id="30001220" tooltipDescription="$npcName:25020203$から獲得した部品。\n$npcName:11001813$がクリティアスの兵士たちをどうやってハッキングしたのかを分析できる貴重な部品だ。 " feature="Kritias_2018_12" />
