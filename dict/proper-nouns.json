@@ -382,6 +382,12 @@
       "ko": "보름달 방앗간",
       "source": "session (2026-11 resync)",
       "note": "koritemdescription 既訳"
+    },
+    "Arcana Plateau": {
+      "ja": "アルカナ高原",
+      "ko": "알케이나 고원",
+      "source": "user decision (2026-11)",
+      "note": "★알케이나 系はすべて「アルカナ」(アルカナデルファイオン、アルカナタレット)。「アルケイナ」は不採用"
     }
   },
   "bosses_monsters": {
