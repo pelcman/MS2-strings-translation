@@ -1851,13 +1851,13 @@
     "name": "Happy"
   },
   "11004223-SurvivalContents03-": {
-    "name": ""
+    "name": "NPCTITLE_11004223_NAME:[F]In Development (SurvivalContents03)"
   },
   "11004224-SurvivalContents03-": {
-    "name": ""
+    "name": "NPCTITLE_11004224_NAME:[F]In Development (SurvivalContents03)"
   },
   "11004225-SurvivalContents03-": {
-    "name": ""
+    "name": "NPCTITLE_11004225_NAME:[F]In Development (SurvivalContents03)"
   },
   "11004252--NA": {
     "name": ""
@@ -2073,7 +2073,7 @@
     "name": "NPCTITLE_11004663_NAME:[F]Event"
   },
   "11004666-Event-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11004668-Event-": {
     "name": "Archaeologist"
@@ -3108,76 +3108,76 @@
     "name": "Glutton"
   },
   "11001557-SoulBinder-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001657-SoulBinder-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001659-SoulBinder-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001671-SoulBinder-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001672-SoulBinder-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001715-SoulBinder-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001716-SoulBinder-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001717-SoulBinder-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001718-SoulBinder-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001719-SoulBinder-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001720-SoulBinder-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001721-SoulBinder-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001722-SoulBinder-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001742-SoulBinder-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001762-DoubleImpactStory-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001763-DoubleImpactStory-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001771-DoubleImpactStory-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001772-ShrineOfGuidance-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001773-ShrineOfGuidance-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001774-ShrineOfGuidance-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001790-DoubleImpactStory-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001791-DoubleImpactStory-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001792-DoubleImpactStory-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001806-DoubleImpactStory-": {
-    "name": "NPCTITLE_11004666_NAME:[F]Event"
+    "name": "High Disciple"
   },
   "11001665-Season1-": {
     "name": "Chancellor of the Kingdom"
@@ -3886,5 +3886,50 @@
   },
   "11004732-Event-JP": {
     "name": "Happy"
+  },
+  "11004069-GlobalNpc-": {
+    "name": "NPCTITLE_11004069_NAME:[F]In Development (GlobalNpc)"
+  },
+  "11004079-GlobalNpc-": {
+    "name": "NPCTITLE_11004079_NAME:[F]In Development (GlobalNpc)"
+  },
+  "11004253-GlobalNpc-": {
+    "name": "NPCTITLE_11004253_NAME:[F]In Development (GlobalNpc)"
+  },
+  "11004265-GlobalNpc-": {
+    "name": "NPCTITLE_11004265_NAME:[F]In Development (GlobalNpc)"
+  },
+  "11004252-GlobalNpc-": {
+    "name": "NPCTITLE_11004252_NAME:[F]In Development (GlobalNpc)"
+  },
+  "11004258-GlobalNpc-": {
+    "name": "NPCTITLE_11004258_NAME:[F]In Development (GlobalNpc)"
+  },
+  "11004083-GlobalNpc-": {
+    "name": "NPCTITLE_11004083_NAME:[F]In Development (GlobalNpc)"
+  },
+  "11004729-GlobalNpc-": {
+    "name": "NPCTITLE_11004729_NAME:[F]In Development (GlobalNpc)"
+  },
+  "11004270-GlobalNpc-": {
+    "name": "NPCTITLE_11004270_NAME:[F]In Development (GlobalNpc)"
+  },
+  "11004267-GlobalNpc-": {
+    "name": "NPCTITLE_11004267_NAME:[F]In Development (GlobalNpc)"
+  },
+  "11004274-GlobalNpc-": {
+    "name": "NPCTITLE_11004274_NAME:[F]In Development (GlobalNpc)"
+  },
+  "11004266-GlobalNpc-": {
+    "name": "NPCTITLE_11004266_NAME:[F]In Development (GlobalNpc)"
+  },
+  "11004732-GlobalNpc-": {
+    "name": "NPCTITLE_11004732_NAME:[F]In Development (GlobalNpc)"
+  },
+  "11004730-GlobalNpc-": {
+    "name": "NPCTITLE_11004730_NAME:[F]In Development (GlobalNpc)"
+  },
+  "11004731-GlobalNpc-": {
+    "name": "NPCTITLE_11004731_NAME:[F]In Development (GlobalNpc)"
   }
 }

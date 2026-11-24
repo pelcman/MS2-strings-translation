@@ -1570,7 +1570,7 @@
     "regionID": ""
   },
   "4093-Develop-": {
-    "name": "新対応項目 4000~",
+    "name": "CHAPTERDESCRIPTION_4093_NAME:[F]Develop",
     "isTutorial": "OK",
     "regionID": ""
   },
@@ -1615,11 +1615,8 @@
     "regionID": ""
   },
   "9997-Develop-": {
-    "name": "対応項目分離",
+    "name": "CHAPTERDESCRIPTION_9997_NAME:[F]Develop",
     "isTutorial": "OK",
     "regionID": ""
-  },
-  "5025--": {
-    "name": "初心者支援"
   }
 }

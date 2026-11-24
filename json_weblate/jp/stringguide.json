@@ -3869,23 +3869,5 @@
   },
   "91001010-Fame_Geo01-": {
     "name": "<font size=\"25\"><font color=\"#ffd200\">ゲオルク勢力任務</font></font>を遂行できます。\n<font color=\"#ffd200\">ゲオルク勢力任務</font><font color=\"#909090\">は</font> <font color=\"#ffd200\">$npcName:11004614$</font><font color=\"#909090\">に確認できます。 </font> \nゲオルク勢力任務<font color=\"#909090\">を遂行して</font> 様々な経験<font color=\"#909090\">を楽しみましょう。</font>\n"
-  },
-  "81042-FameContents-NA": {
-    "name": "[[icon:fame_icon_greenhood]]勢力マークが表示されている地域で、該当する勢力の現場任務を遂行できる"
-  },
-  "81042-FameContents-TH": {
-    "name": "[[icon:fame_icon_greenhood]]勢力マークが表示されている地域で、該当する勢力の現場任務を遂行できる"
-  },
-  "81042-FameContents-TW": {
-    "name": "[[icon:fame_icon_greenhood]]勢力マークが表示されている地域で、該当する勢力の現場任務を遂行できる"
-  },
-  "81042-FameContents-CN": {
-    "name": "[[icon:fame_icon_darkwind]]勢力マークが表示されている地域で、該当する勢力の現場任務を遂行できる"
-  },
-  "81042-FameContents-KR": {
-    "name": "[[icon:fame_icon_darkwind]]勢力マークが表示されている地域で、該当する勢力の現場任務を遂行できる"
-  },
-  "26300735-Event-NA": {
-    "name": "扉が開きました。出口にいる$item:30001477$を拾った後、[[icon:portal]]<font color=\"#00a2ed\">ポータル</font>に移動してください。"
   }
 }
