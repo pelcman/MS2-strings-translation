@@ -1,0 +1,2095 @@
+[
+ {
+  "id": "setitemname#0001",
+  "field": "name",
+  "ko": "克里蒂亚斯魔方水晶饰品套装",
+  "en": "Kritias Lapenshard Accessory Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0002",
+  "field": "name",
+  "ko": "时空之首饰套装",
+  "en": "Time and Space Accessory Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0003",
+  "field": "name",
+  "ko": "塔兰指挥官勇士骑士套装",
+  "en": "Tairen Officer Knight Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0004",
+  "field": "name",
+  "ko": "塔兰指挥官勇士狂战士套装",
+  "en": "Tairen Officer Berserker Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0005",
+  "field": "name",
+  "ko": "塔兰指挥官勇士魔法师套装",
+  "en": "Tairen Officer Wizard Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0006",
+  "field": "name",
+  "ko": "塔兰指挥官勇士牧师套装",
+  "en": "Tairen Officer Priest Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0007",
+  "field": "name",
+  "ko": "塔兰指挥官勇士弓箭手套装",
+  "en": "Tairen Officer Archer Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0008",
+  "field": "name",
+  "ko": "塔兰指挥官勇士重炮手套装",
+  "en": "Tairen Officer Heavy Gunner Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0009",
+  "field": "name",
+  "ko": "塔兰指挥官勇士侠盗套装",
+  "en": "Tairen Officer Thief Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0010",
+  "field": "name",
+  "ko": "塔兰指挥官战斗刺客套装",
+  "en": "Tairen Officer Assassin Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0011",
+  "field": "name",
+  "ko": "塔兰指挥官勇士符文剑士套装",
+  "en": "Tairen Officer Runeblade Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0012",
+  "field": "name",
+  "ko": "塔兰指挥官勇士街霸套装",
+  "en": "Tairen Officer Striker Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0013",
+  "field": "name",
+  "ko": "塔兰指挥官勇士启灵师套装",
+  "en": "Tairen Officer Soul Binder Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0014",
+  "field": "name",
+  "ko": "古代地狱君主骑士套装",
+  "en": "Knight's Antique Infernuke Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0015",
+  "field": "name",
+  "ko": "古代地狱君主狂战士套装",
+  "en": "Berserker's Antique Infernuke Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0016",
+  "field": "name",
+  "ko": "古代地狱君主魔法师套装",
+  "en": "Wizard's Antique Infernuke Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0017",
+  "field": "name",
+  "ko": "古代地狱君主牧师套装",
+  "en": "Priest's Antique Infernuke Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0018",
+  "field": "name",
+  "ko": "古代地狱君主弓箭手套装",
+  "en": "Archer's Antique Infernuke Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0019",
+  "field": "name",
+  "ko": "古代地狱君主重炮手套装",
+  "en": "Heavy Gunner's Antique Infernuke Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0020",
+  "field": "name",
+  "ko": "古代地狱君主侠盗套装",
+  "en": "Thief's Antique Infernuke Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0021",
+  "field": "name",
+  "ko": "古代地狱君主刺客套装",
+  "en": "Assassin's Antique Infernuke Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0022",
+  "field": "name",
+  "ko": "古代地狱君主符文剑士套装",
+  "en": "Runeblade's Antique Infernuke Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0023",
+  "field": "name",
+  "ko": "古代地狱君主街霸套装",
+  "en": "Striker's Antique Infernuke Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0024",
+  "field": "name",
+  "ko": "古代地狱君主启灵师套装",
+  "en": "Soul Binder's Antique Infernuke Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0025",
+  "field": "name",
+  "ko": "塔兰战斗骑士套装",
+  "en": "Knight's Tairen Combat Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0026",
+  "field": "name",
+  "ko": "塔兰战斗狂战士套装",
+  "en": "Berserker's Tairen Combat Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0027",
+  "field": "name",
+  "ko": "塔兰战斗魔法师套装",
+  "en": "Wizard's Tairen Combat Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0028",
+  "field": "name",
+  "ko": "塔兰战斗牧师套装",
+  "en": "Priest's Tairen Combat Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0029",
+  "field": "name",
+  "ko": "塔兰战斗弓箭手套装",
+  "en": "Archer's Tairen Combat Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0030",
+  "field": "name",
+  "ko": "塔兰战斗重炮手套装",
+  "en": "Heavy Gunner's Tairen Combat Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0031",
+  "field": "name",
+  "ko": "塔兰战斗侠盗套装",
+  "en": "Thief's Tairen Combat Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0032",
+  "field": "name",
+  "ko": "塔兰战斗刺客套装",
+  "en": "Assassin's Tairen Combat Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0033",
+  "field": "name",
+  "ko": "塔兰战斗符文剑士套装",
+  "en": "Runeblade's Tairen Combat Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0034",
+  "field": "name",
+  "ko": "塔兰战斗街霸套装",
+  "en": "Striker's Tairen Combat Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0035",
+  "field": "name",
+  "ko": "塔兰战斗启灵师套装",
+  "en": "Soul Binder's Tairen Combat Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0036",
+  "field": "name",
+  "ko": "古代神龙骑士套装",
+  "en": "Knight's Antique Arigon Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0037",
+  "field": "name",
+  "ko": "古代神龙狂战士套装",
+  "en": "Berserker's Antique Arigon Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0038",
+  "field": "name",
+  "ko": "古代神龙魔法师套装",
+  "en": "Wizard's Antique Arigon Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0039",
+  "field": "name",
+  "ko": "古代神龙牧师套装",
+  "en": "Priest's Antique Arigon Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0040",
+  "field": "name",
+  "ko": "古代神龙弓箭手套装",
+  "en": "Archer's Antique Arigon Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0041",
+  "field": "name",
+  "ko": "古代神龙重炮手套装",
+  "en": "Heavy Gunner's Antique Arigon Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0042",
+  "field": "name",
+  "ko": "古代神龙侠盗套装",
+  "en": "Thief's Antique Arigon Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0043",
+  "field": "name",
+  "ko": "古代神龙刺客套装",
+  "en": "Assassin's Antique Arigon Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0044",
+  "field": "name",
+  "ko": "古代神龙符文剑士套装",
+  "en": "Runeblade's Antique Arigon Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0045",
+  "field": "name",
+  "ko": "古代神龙街霸套装",
+  "en": "Striker's Antique Arigon Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0046",
+  "field": "name",
+  "ko": "古代神龙启灵师套装",
+  "en": "Soul Binder's Antique Arigon Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0047",
+  "field": "name",
+  "ko": "格奥克·凯伊饰品套装",
+  "en": "Humanitas Field Accessory Set",
+  "n": 4
+ },
+ {
+  "id": "setitemname#0048",
+  "field": "name",
+  "ko": "塔兰皇家饰品套装",
+  "en": "Tairen Royal Accessory Set",
+  "n": 4
+ },
+ {
+  "id": "setitemname#0049",
+  "field": "name",
+  "ko": "塔兰皇家骑士套装",
+  "en": "Knight's Tairen Royal Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0050",
+  "field": "name",
+  "ko": "塔兰皇家狂战士套装",
+  "en": "Berserker's Tairen Royal Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0051",
+  "field": "name",
+  "ko": "塔兰皇家魔法师套装",
+  "en": "Wizard's Tairen Royal Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0052",
+  "field": "name",
+  "ko": "塔兰皇家牧师套装",
+  "en": "Priest's Tairen Royal Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0053",
+  "field": "name",
+  "ko": "塔兰皇家弓箭手套装",
+  "en": "Archer's Tairen Royal Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0054",
+  "field": "name",
+  "ko": "塔兰皇家重炮手套装",
+  "en": "Heavy Gunner's Tairen Royal Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0055",
+  "field": "name",
+  "ko": "塔兰皇家侠盗套装",
+  "en": "Thief's Tairen Royal Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0056",
+  "field": "name",
+  "ko": "塔兰皇家刺客套装",
+  "en": "Assassin's Tairen Royal Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0057",
+  "field": "name",
+  "ko": "塔兰皇家符文剑士套装",
+  "en": "Runeblade's Tairen Royal Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0058",
+  "field": "name",
+  "ko": "塔兰皇家街霸套装",
+  "en": "Striker's Tairen Royal Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0059",
+  "field": "name",
+  "ko": "塔兰皇家启灵师套装",
+  "en": "Soul Binder's Tairen Royal Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0060",
+  "field": "name",
+  "ko": "精致婚礼套装",
+  "en": "Exquisite Wedding Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0061",
+  "field": "name",
+  "ko": "幽翼绯影饰品套装",
+  "en": "Fire Prism Accessory Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0062",
+  "field": "name",
+  "ko": "성실한 모험가의 세트",
+  "en": "Diligent Adventurer's Set"
+ },
+ {
+  "id": "setitemname#0063",
+  "field": "name",
+  "ko": "베히모스 나이트 세트",
+  "en": "Behemoth Knight Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0064",
+  "field": "name",
+  "ko": "베히모스 버서커 세트",
+  "en": "Behemoth Berserker Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0065",
+  "field": "name",
+  "ko": "베히모스 위자드 세트",
+  "en": "Behemoth Wizard Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0066",
+  "field": "name",
+  "ko": "베히모스 프리스트 세트",
+  "en": "Behemoth Priest Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0067",
+  "field": "name",
+  "ko": "베히모스 레인저 세트",
+  "en": "Behemoth Ranger Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0068",
+  "field": "name",
+  "ko": "베히모스 헤비거너 세트",
+  "en": "Behemoth Heavy Gunner Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0069",
+  "field": "name",
+  "ko": "베히모스 시프 세트",
+  "en": "Behemoth Thief Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0070",
+  "field": "name",
+  "ko": "베히모스 어쌔신 세트",
+  "en": "Behemoth Assassin Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0071",
+  "field": "name",
+  "ko": "베히모스 룬블레이더 세트",
+  "en": "Behemoth Runeblade Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0072",
+  "field": "name",
+  "ko": "베히모스 스트라이커 세트",
+  "en": "Behemoth Striker Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0073",
+  "field": "name",
+  "ko": "베히모스 소울바인더 세트",
+  "en": "Behemoth Soul Binder Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0074",
+  "field": "name",
+  "ko": "에일리온 나이트 세트",
+  "en": "Ailion Knight Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0075",
+  "field": "name",
+  "ko": "에일리온 버서커 세트",
+  "en": "Ailion Berserker Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0076",
+  "field": "name",
+  "ko": "에일리온 위자드 세트",
+  "en": "Ailion Wizard Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0077",
+  "field": "name",
+  "ko": "에일리온 프리스트 세트",
+  "en": "Ailion Priest Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0078",
+  "field": "name",
+  "ko": "에일리온 레인저 세트",
+  "en": "Ailion Ranger Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0079",
+  "field": "name",
+  "ko": "에일리온 헤비거너 세트",
+  "en": "Ailion Heavy Gunner Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0080",
+  "field": "name",
+  "ko": "에일리온 시프 세트",
+  "en": "Ailion Thief Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0081",
+  "field": "name",
+  "ko": "에일리온 어쌔신 세트",
+  "en": "Ailion Assassin Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0082",
+  "field": "name",
+  "ko": "에일리온 룬블레이더 세트",
+  "en": "Ailion Runeblade Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0083",
+  "field": "name",
+  "ko": "에일리온 스트라이커 세트",
+  "en": "Ailion Striker Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0084",
+  "field": "name",
+  "ko": "에일리온 소울바인더 세트",
+  "en": "Ailion Soul Binder Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0085",
+  "field": "name",
+  "ko": "블랙 뱅가드 나이트 세트",
+  "en": "Black Vanguard Knight Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0086",
+  "field": "name",
+  "ko": "블랙 뱅가드 버서커 세트",
+  "en": "Black Vanguard Berserker Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0087",
+  "field": "name",
+  "ko": "블랙 뱅가드 위자드 세트",
+  "en": "Black Vanguard Wizard Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0088",
+  "field": "name",
+  "ko": "블랙 뱅가드 프리스트 세트",
+  "en": "Black Vanguard Priest Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0089",
+  "field": "name",
+  "ko": "블랙 뱅가드 레인저 세트",
+  "en": "Black Vanguard Ranger Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0090",
+  "field": "name",
+  "ko": "블랙 뱅가드 헤비거너 세트",
+  "en": "Black Vanguard Heavy Gunner Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0091",
+  "field": "name",
+  "ko": "블랙 뱅가드 시프 세트",
+  "en": "Black Vanguard Thief Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0092",
+  "field": "name",
+  "ko": "블랙 뱅가드 어쌔신 세트",
+  "en": "Black Vanguard Assassin Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0093",
+  "field": "name",
+  "ko": "블랙 뱅가드 룬블레이더 세트",
+  "en": "Black Vanguard Runeblade Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0094",
+  "field": "name",
+  "ko": "블랙 뱅가드 스트라이커 세트",
+  "en": "Black Vanguard Striker Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0095",
+  "field": "name",
+  "ko": "블랙 뱅가드 소울바인더 세트",
+  "en": "Black Vanguard Soul Binder Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0096",
+  "field": "name",
+  "ko": "블랙퓨리티 나이트 세트",
+  "en": "Black Purity Knight Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0097",
+  "field": "name",
+  "ko": "블랙퓨리티 버서커 세트",
+  "en": "Black Purity Berserker Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0098",
+  "field": "name",
+  "ko": "블랙퓨리티 위자드 세트",
+  "en": "Black Purity Wizard Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0099",
+  "field": "name",
+  "ko": "블랙퓨리티 프리스트 세트",
+  "en": "Black Purity Priest Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0100",
+  "field": "name",
+  "ko": "블랙퓨리티 레인저 세트",
+  "en": "Black Purity Ranger Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0101",
+  "field": "name",
+  "ko": "블랙퓨리티 헤비거너 세트",
+  "en": "Black Purity Heavy Gunner Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0102",
+  "field": "name",
+  "ko": "블랙퓨리티 시프 세트",
+  "en": "Black Purity Thief Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0103",
+  "field": "name",
+  "ko": "블랙퓨리티 어쌔신 세트",
+  "en": "Black Purity Assassin Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0104",
+  "field": "name",
+  "ko": "블랙퓨리티 룬블레이더 세트",
+  "en": "Black Purity Runeblade Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0105",
+  "field": "name",
+  "ko": "블랙퓨리티 스트라이커 세트",
+  "en": "Black Purity Striker Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0106",
+  "field": "name",
+  "ko": "블랙퓨리티 소울바인더 세트",
+  "en": "Black Purity Soul Binder Set",
+  "n": 3
+ },
+ {
+  "id": "setitemname#0107",
+  "field": "name",
+  "ko": "60레벨 에픽 2 나이트 세트",
+  "en": "Level 60 Epic 2 Knight Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0108",
+  "field": "name",
+  "ko": "60레벨 에픽 2 버서커 세트",
+  "en": "Level 60 Epic 2 Berserker Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0109",
+  "field": "name",
+  "ko": "60레벨 에픽 2 위자드 세트",
+  "en": "Level 60 Epic 2 Wizard Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0110",
+  "field": "name",
+  "ko": "60레벨 에픽 2 프리스트 세트",
+  "en": "Level 60 Epic 2 Priest Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0111",
+  "field": "name",
+  "ko": "60레벨 에픽 2 레인저 세트",
+  "en": "Level 60 Epic 2 Ranger Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0112",
+  "field": "name",
+  "ko": "60레벨 에픽 2 헤비거너 세트",
+  "en": "Level 60 Epic 2 Heavy Gunner Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0113",
+  "field": "name",
+  "ko": "60레벨 에픽 2 시프 세트",
+  "en": "Level 60 Epic 2 Thief Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0114",
+  "field": "name",
+  "ko": "60레벨 에픽 2 어쌔신 세트",
+  "en": "Level 60 Epic 2 Assassin Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0115",
+  "field": "name",
+  "ko": "60레벨 에픽 2 룬블레이더 세트",
+  "en": "Level 60 Epic 2 Runeblade Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0116",
+  "field": "name",
+  "ko": "60레벨 에픽 2 스트라이커 세트",
+  "en": "Level 60 Epic 2 Striker Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0117",
+  "field": "name",
+  "ko": "60레벨 에픽 2 소울바인더 세트",
+  "en": "Level 60 Epic 2 Soul Binder Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0118",
+  "field": "name",
+  "ko": "블랙퓨리티 액세서리 세트",
+  "en": "Black Purity Accessory Set",
+  "n": 6
+ },
+ {
+  "id": "setitemname#0119",
+  "field": "name",
+  "ko": "60레벨 에픽 악세서리 2 귀고리, 목걸이, 반지 세트",
+  "en": "Level 60 Epic 2 Earring, Necklace, and Ring Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0120",
+  "field": "name",
+  "ko": "60레벨 에픽 악세서리 2 망토, 벨트 세트",
+  "en": "Level 60 Epic 2 Cape and Belt Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0121",
+  "field": "name",
+  "ko": "센츄리온 세트",
+  "en": "Centurion Set",
+  "n": 6
+ },
+ {
+  "id": "setitemname#0122",
+  "field": "name",
+  "ko": "극한의 전투 세트",
+  "en": "Extreme Combat Set"
+ },
+ {
+  "id": "setitemname#0123",
+  "field": "name",
+  "ko": "극한의 광란 세트",
+  "en": "Extreme Frenzy Set"
+ },
+ {
+  "id": "setitemname#0124",
+  "field": "name",
+  "ko": "극한의 마법 세트",
+  "en": "Extreme Magic Set"
+ },
+ {
+  "id": "setitemname#0125",
+  "field": "name",
+  "ko": "극한의 신성 세트",
+  "en": "Extreme Holy Set"
+ },
+ {
+  "id": "setitemname#0126",
+  "field": "name",
+  "ko": "극한의 집중 세트",
+  "en": "Extreme Focus Set"
+ },
+ {
+  "id": "setitemname#0127",
+  "field": "name",
+  "ko": "극한의 포격 세트",
+  "en": "Extreme Bombardment Set"
+ },
+ {
+  "id": "setitemname#0128",
+  "field": "name",
+  "ko": "극한의 혼란 세트",
+  "en": "Extreme Chaos Set"
+ },
+ {
+  "id": "setitemname#0129",
+  "field": "name",
+  "ko": "극한의 암살 세트",
+  "en": "Extreme Assassination Set"
+ },
+ {
+  "id": "setitemname#0130",
+  "field": "name",
+  "ko": "극한의 주술 세트",
+  "en": "Extreme Sorcery Set"
+ },
+ {
+  "id": "setitemname#0131",
+  "field": "name",
+  "ko": "극한의 난투 세트",
+  "en": "Extreme Brawl Set"
+ },
+ {
+  "id": "setitemname#0132",
+  "field": "name",
+  "ko": "극한의 의식 세트",
+  "en": "Extreme Ritual Set"
+ },
+ {
+  "id": "setitemname#0133",
+  "field": "name",
+  "ko": "난폭한 전투 세트",
+  "en": "Savage Combat Set"
+ },
+ {
+  "id": "setitemname#0134",
+  "field": "name",
+  "ko": "난폭한 광란 세트",
+  "en": "Savage Frenzy Set"
+ },
+ {
+  "id": "setitemname#0135",
+  "field": "name",
+  "ko": "난폭한 마법 세트",
+  "en": "Savage Magic Set"
+ },
+ {
+  "id": "setitemname#0136",
+  "field": "name",
+  "ko": "난폭한 신성 세트",
+  "en": "Savage Holy Set"
+ },
+ {
+  "id": "setitemname#0137",
+  "field": "name",
+  "ko": "난폭한 집중 세트",
+  "en": "Savage Focus Set"
+ },
+ {
+  "id": "setitemname#0138",
+  "field": "name",
+  "ko": "난폭한 포격 세트",
+  "en": "Savage Bombardment Set"
+ },
+ {
+  "id": "setitemname#0139",
+  "field": "name",
+  "ko": "난폭한 혼란 세트",
+  "en": "Savage Chaos Set"
+ },
+ {
+  "id": "setitemname#0140",
+  "field": "name",
+  "ko": "난폭한 암살 세트",
+  "en": "Savage Assassination Set"
+ },
+ {
+  "id": "setitemname#0141",
+  "field": "name",
+  "ko": "난폭한 주술 세트",
+  "en": "Savage Sorcery Set"
+ },
+ {
+  "id": "setitemname#0142",
+  "field": "name",
+  "ko": "난폭한 난투 세트",
+  "en": "Savage Brawl Set"
+ },
+ {
+  "id": "setitemname#0143",
+  "field": "name",
+  "ko": "난폭한 의식 세트",
+  "en": "Savage Ritual Set"
+ },
+ {
+  "id": "setitemname#0144",
+  "field": "name",
+  "ko": "품위의 전투 세트",
+  "en": "Dignity Combat Set"
+ },
+ {
+  "id": "setitemname#0145",
+  "field": "name",
+  "ko": "품위의 광란 세트",
+  "en": "Dignity Frenzy Set"
+ },
+ {
+  "id": "setitemname#0146",
+  "field": "name",
+  "ko": "품위의 마법 세트",
+  "en": "Dignity Magic Set"
+ },
+ {
+  "id": "setitemname#0147",
+  "field": "name",
+  "ko": "품위의 신성 세트",
+  "en": "Dignity Holy Set"
+ },
+ {
+  "id": "setitemname#0148",
+  "field": "name",
+  "ko": "품위의 집중 세트",
+  "en": "Dignity Focus Set"
+ },
+ {
+  "id": "setitemname#0149",
+  "field": "name",
+  "ko": "품위의 포격 세트",
+  "en": "Dignity Bombardment Set"
+ },
+ {
+  "id": "setitemname#0150",
+  "field": "name",
+  "ko": "품위의 혼란 세트",
+  "en": "Dignity Chaos Set"
+ },
+ {
+  "id": "setitemname#0151",
+  "field": "name",
+  "ko": "품위의 암살 세트",
+  "en": "Dignity Assassination Set"
+ },
+ {
+  "id": "setitemname#0152",
+  "field": "name",
+  "ko": "품위의 주술 세트",
+  "en": "Dignity Sorcery Set"
+ },
+ {
+  "id": "setitemname#0153",
+  "field": "name",
+  "ko": "품위의 난투 세트",
+  "en": "Dignity Brawl Set"
+ },
+ {
+  "id": "setitemname#0154",
+  "field": "name",
+  "ko": "품위의 의식 세트",
+  "en": "Dignity Ritual Set"
+ },
+ {
+  "id": "setitemname#0155",
+  "field": "name",
+  "ko": "품위의 액세서리 세트",
+  "en": "Dignity Accessory Set"
+ },
+ {
+  "id": "setitemname#0156",
+  "field": "name",
+  "ko": "강화된 품위의 전투 세트",
+  "en": "Enhanced Dignity Combat Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0157",
+  "field": "name",
+  "ko": "강화된 품위의 광란 세트",
+  "en": "Enhanced Dignity Frenzy Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0158",
+  "field": "name",
+  "ko": "강화된 품위의 마법 세트",
+  "en": "Enhanced Dignity Magic Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0159",
+  "field": "name",
+  "ko": "강화된 품위의 신성 세트",
+  "en": "Enhanced Dignity Holy Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0160",
+  "field": "name",
+  "ko": "강화된 품위의 집중 세트",
+  "en": "Enhanced Dignity Focus Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0161",
+  "field": "name",
+  "ko": "강화된 품위의 포격 세트",
+  "en": "Enhanced Dignity Bombardment Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0162",
+  "field": "name",
+  "ko": "강화된 품위의 혼란 세트",
+  "en": "Enhanced Dignity Chaos Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0163",
+  "field": "name",
+  "ko": "강화된 품위의 암살 세트",
+  "en": "Enhanced Dignity Assassination Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0164",
+  "field": "name",
+  "ko": "강화된 품위의 주술 세트",
+  "en": "Enhanced Dignity Sorcery Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0165",
+  "field": "name",
+  "ko": "강화된 품위의 난투 세트",
+  "en": "Enhanced Dignity Brawl Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0166",
+  "field": "name",
+  "ko": "강화된 품위의 의식 세트",
+  "en": "Enhanced Dignity Ritual Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0167",
+  "field": "name",
+  "ko": "강화된 품위의 액세서리 세트",
+  "en": "Enhanced Dignity Accessory Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0168",
+  "field": "name",
+  "ko": "크리티아스 라펜샤드 액세서리 세트",
+  "en": "Kritias Lapenshard Accessory Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0169",
+  "field": "name",
+  "ko": "시공의 힘 액세서리 세트",
+  "en": "Power of Time Accessory Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0170",
+  "field": "name",
+  "ko": "타이렌 커맨더 컴뱃 나이트 세트",
+  "en": "Tairen Commander Combat Knight Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0171",
+  "field": "name",
+  "ko": "타이렌 커맨더 컴뱃 버서커 세트",
+  "en": "Tairen Commander Combat Berserker Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0172",
+  "field": "name",
+  "ko": "타이렌 커맨더 컴뱃 위자드 세트",
+  "en": "Tairen Commander Combat Wizard Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0173",
+  "field": "name",
+  "ko": "타이렌 커맨더 컴뱃 프리스트 세트",
+  "en": "Tairen Commander Combat Priest Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0174",
+  "field": "name",
+  "ko": "타이렌 커맨더 컴뱃 레인저 세트",
+  "en": "Tairen Commander Combat Ranger Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0175",
+  "field": "name",
+  "ko": "타이렌 커맨더 컴뱃 헤비거너 세트",
+  "en": "Tairen Commander Combat Heavy Gunner Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0176",
+  "field": "name",
+  "ko": "타이렌 커맨더 컴뱃 시프 세트",
+  "en": "Tairen Commander Combat Thief Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0177",
+  "field": "name",
+  "ko": "타이렌 커맨더 컴뱃 어쌔신 세트",
+  "en": "Tairen Commander Combat Assassin Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0178",
+  "field": "name",
+  "ko": "타이렌 커맨더 컴뱃 룬블레이더 세트",
+  "en": "Tairen Commander Combat Runeblade Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0179",
+  "field": "name",
+  "ko": "타이렌 커맨더 컴뱃 스트라이커 세트",
+  "en": "Tairen Commander Combat Striker Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0180",
+  "field": "name",
+  "ko": "타이렌 커맨더 컴뱃 소울바인더 세트",
+  "en": "Tairen Commander Combat Soul Binder Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0181",
+  "field": "name",
+  "ko": "안티크 인페누크 나이트 세트",
+  "en": "Antique Infernog Knight Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0182",
+  "field": "name",
+  "ko": "안티크 인페누크 버서커 세트",
+  "en": "Antique Infernog Berserker Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0183",
+  "field": "name",
+  "ko": "안티크 인페누크 위자드 세트",
+  "en": "Antique Infernog Wizard Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0184",
+  "field": "name",
+  "ko": "안티크 인페누크 프리스트 세트",
+  "en": "Antique Infernog Priest Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0185",
+  "field": "name",
+  "ko": "안티크 인페누크 레인저 세트",
+  "en": "Antique Infernog Ranger Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0186",
+  "field": "name",
+  "ko": "안티크 인페누크 헤비거너 세트",
+  "en": "Antique Infernog Heavy Gunner Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0187",
+  "field": "name",
+  "ko": "안티크 인페누크 시프 세트",
+  "en": "Antique Infernog Thief Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0188",
+  "field": "name",
+  "ko": "안티크 인페누크 어쌔신 세트",
+  "en": "Antique Infernog Assassin Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0189",
+  "field": "name",
+  "ko": "안티크 인페누크 룬블레이더 세트",
+  "en": "Antique Infernog Runeblade Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0190",
+  "field": "name",
+  "ko": "안티크 인페누크 스트라이커 세트",
+  "en": "Antique Infernog Striker Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0191",
+  "field": "name",
+  "ko": "안티크 인페누크 소울바인더 세트",
+  "en": "Antique Infernog Soul Binder Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0192",
+  "field": "name",
+  "ko": "타이렌 컴뱃 나이트 세트",
+  "en": "Tairen Combat Knight Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0193",
+  "field": "name",
+  "ko": "타이렌 컴뱃 버서커 세트",
+  "en": "Tairen Combat Berserker Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0194",
+  "field": "name",
+  "ko": "타이렌 컴뱃 위자드 세트",
+  "en": "Tairen Combat Wizard Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0195",
+  "field": "name",
+  "ko": "타이렌 컴뱃 프리스트 세트",
+  "en": "Tairen Combat Priest Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0196",
+  "field": "name",
+  "ko": "타이렌 컴뱃 레인저 세트",
+  "en": "Tairen Combat Ranger Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0197",
+  "field": "name",
+  "ko": "타이렌 컴뱃 헤비거너 세트",
+  "en": "Tairen Combat Heavy Gunner Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0198",
+  "field": "name",
+  "ko": "타이렌 컴뱃 시프 세트",
+  "en": "Tairen Combat Thief Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0199",
+  "field": "name",
+  "ko": "타이렌 컴뱃 어쌔신 세트",
+  "en": "Tairen Combat Assassin Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0200",
+  "field": "name",
+  "ko": "타이렌 컴뱃 룬블레이더 세트",
+  "en": "Tairen Combat Runeblade Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0201",
+  "field": "name",
+  "ko": "타이렌 컴뱃 스트라이커 세트",
+  "en": "Tairen Combat Striker Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0202",
+  "field": "name",
+  "ko": "타이렌 컴뱃 소울바인더 세트",
+  "en": "Tairen Combat Soul Binder Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0203",
+  "field": "name",
+  "ko": "안티크 에라곤 나이트 세트",
+  "en": "Antique Eragon Knight Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0204",
+  "field": "name",
+  "ko": "안티크 에라곤 버서커 세트",
+  "en": "Antique Eragon Berserker Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0205",
+  "field": "name",
+  "ko": "안티크 에라곤 위자드 세트",
+  "en": "Antique Eragon Wizard Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0206",
+  "field": "name",
+  "ko": "안티크 에라곤 프리스트 세트",
+  "en": "Antique Eragon Priest Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0207",
+  "field": "name",
+  "ko": "안티크 에라곤 레인저 세트",
+  "en": "Antique Eragon Ranger Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0208",
+  "field": "name",
+  "ko": "안티크 에라곤 헤비거너 세트",
+  "en": "Antique Eragon Heavy Gunner Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0209",
+  "field": "name",
+  "ko": "안티크 에라곤 시프 세트",
+  "en": "Antique Eragon Thief Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0210",
+  "field": "name",
+  "ko": "안티크 에라곤 어쌔신 세트",
+  "en": "Antique Eragon Assassin Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0211",
+  "field": "name",
+  "ko": "안티크 에라곤 룬블레이더 세트",
+  "en": "Antique Eragon Runeblade Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0212",
+  "field": "name",
+  "ko": "안티크 에라곤 스트라이커 세트",
+  "en": "Antique Eragon Striker Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0213",
+  "field": "name",
+  "ko": "안티크 에라곤 소울바인더 세트",
+  "en": "Antique Eragon Soul Binder Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0214",
+  "field": "name",
+  "ko": "게오르크 카이 액세서리 세트",
+  "en": "Geork Kai Accessory Set",
+  "n": 4
+ },
+ {
+  "id": "setitemname#0215",
+  "field": "name",
+  "ko": "타이렌 로열 액세서리 세트",
+  "en": "Tairen Royal Accessory Set",
+  "n": 4
+ },
+ {
+  "id": "setitemname#0216",
+  "field": "name",
+  "ko": "타이렌 로열 나이트 세트",
+  "en": "Tairen Royal Knight Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0217",
+  "field": "name",
+  "ko": "타이렌 로열 버서커 세트",
+  "en": "Tairen Royal Berserker Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0218",
+  "field": "name",
+  "ko": "타이렌 로열 위자드 세트",
+  "en": "Tairen Royal Wizard Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0219",
+  "field": "name",
+  "ko": "타이렌 로열 프리스트 세트",
+  "en": "Tairen Royal Priest Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0220",
+  "field": "name",
+  "ko": "타이렌 로열 레인저 세트",
+  "en": "Tairen Royal Ranger Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0221",
+  "field": "name",
+  "ko": "타이렌 로열 헤비거너 세트",
+  "en": "Tairen Royal Heavy Gunner Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0222",
+  "field": "name",
+  "ko": "타이렌 로열 시프 세트",
+  "en": "Tairen Royal Thief Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0223",
+  "field": "name",
+  "ko": "타이렌 로열 어쌔신 세트",
+  "en": "Tairen Royal Assassin Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0224",
+  "field": "name",
+  "ko": "타이렌 로열 룬블레이더 세트",
+  "en": "Tairen Royal Runeblade Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0225",
+  "field": "name",
+  "ko": "타이렌 로열 스트라이커 세트",
+  "en": "Tairen Royal Striker Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0226",
+  "field": "name",
+  "ko": "타이렌 로열 소울바인더 세트",
+  "en": "Tairen Royal Soul Binder Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0227",
+  "field": "name",
+  "ko": "스페셜 웨딩 세트",
+  "en": "Special Wedding Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0228",
+  "field": "name",
+  "ko": "파이어 프리즘 액세서리 세트",
+  "en": "Fire Prism Accessory Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0229",
+  "field": "name",
+  "ko": "크리스탈 샤인드 액세서리 세트",
+  "en": "Crystal Shined Accessory Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0230",
+  "field": "name",
+  "ko": "낡은 투기장의 방어구 세트",
+  "en": "Old Arena Armor Set",
+  "n": 11
+ },
+ {
+  "id": "setitemname#0231",
+  "field": "name",
+  "ko": "낡은 투기장의 액세서리 세트",
+  "en": "Old Arena Accessory Set"
+ },
+ {
+  "id": "setitemname#0232",
+  "field": "name",
+  "ko": "오퍼레이터 세트 (남)",
+  "en": "Operator Set (M)"
+ },
+ {
+  "id": "setitemname#0233",
+  "field": "name",
+  "ko": "오퍼레이터 세트 (여)",
+  "en": "Operator Set (F)"
+ },
+ {
+  "id": "setitemname#0234",
+  "field": "name",
+  "ko": "상큼 레몬 세트 (남)",
+  "en": "Fresh Lemon Set (M)"
+ },
+ {
+  "id": "setitemname#0235",
+  "field": "name",
+  "ko": "상큼 레몬 세트 (여)",
+  "en": "Fresh Lemon Set (F)"
+ },
+ {
+  "id": "setitemname#0236",
+  "field": "name",
+  "ko": "러블리 츄츄 세트 (남)",
+  "en": "Lovely Chuchu Set (M)"
+ },
+ {
+  "id": "setitemname#0237",
+  "field": "name",
+  "ko": "러블리 츄츄 세트 (여)",
+  "en": "Lovely Chuchu Set (F)"
+ },
+ {
+  "id": "setitemname#0238",
+  "field": "name",
+  "ko": "검은 고양이 세트 (남)",
+  "en": "Black Cat Set (M)"
+ },
+ {
+  "id": "setitemname#0239",
+  "field": "name",
+  "ko": "검은 고양이 세트 (여)",
+  "en": "Black Cat Set (F)"
+ },
+ {
+  "id": "setitemname#0240",
+  "field": "name",
+  "ko": "천계의 선녀 세트",
+  "en": "Celestial Fairy Set"
+ },
+ {
+  "id": "setitemname#0241",
+  "field": "name",
+  "ko": "밀리터리 세트",
+  "en": "Military Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0242",
+  "field": "name",
+  "ko": "커닝시티 역무원 세트",
+  "en": "Kerning City Station Attendant Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0243",
+  "field": "name",
+  "ko": "쿰바왕카 세트",
+  "en": "Kumbawangka Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0244",
+  "field": "name",
+  "ko": "포근한 솜뭉치 세트",
+  "en": "Cozy Cotton Ball Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0245",
+  "field": "name",
+  "ko": "펑키 네온 캣 옵션 룩 세트",
+  "en": "Funky Neon Cat Option Look Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0246",
+  "field": "name",
+  "ko": "금사 운룡 세트",
+  "en": "Golden Cloud Dragon Set",
+  "n": 2
+ },
+ {
+  "id": "setitemname#0247",
+  "field": "name",
+  "ko": "깨어난 더키볼 세트",
+  "en": "Awakened Ducky Ball Set"
+ },
+ {
+  "id": "setitemname#0248",
+  "field": "name",
+  "ko": "용감한 더키 소방대원 세트",
+  "en": "Brave Ducky Firefighter Set",
+  "n": 2
+ },
+ {
+  "id": "stringadditionaldescription#0001",
+  "field": "tooltipDescription",
+  "ko": "함성 소리에 사기가 올라갔습니다!\\n물리 공격력과 마법 공격력 {0}% 증가",
+  "en": "The rallying cry raises your morale!\\nPhysical and magic attack increased by {0}%."
+ },
+ {
+  "id": "stringadditionaldescription#0002",
+  "field": "tooltipDescription",
+  "ko": "방패로 방어 자세를 갖춥니다.\\n적에게 받는 모든 대미지 {0}% 감소",
+  "en": "You take a defensive stance with your shield.\\nDamage taken from enemies reduced by {0}%."
+ },
+ {
+  "id": "stringadditionaldescription#0003",
+  "field": "tooltipDescription",
+  "ko": "전의를 상실하여 온몸에 힘이 빠집니다...\\n공격력 {0}% 감소\\n점프력, 이동속도 {1}% 감소",
+  "en": "Your fighting spirit fades, leaving you weak...\\nAttack reduced by {0}%\\nJump and Movement Speed reduced by {1}%."
+ },
+ {
+  "id": "stringadditionaldescription#0004",
+  "field": "tooltipDescription",
+  "ko": "전의를 상실하여 온몸에 힘이 빠집니다...\\n공격력 {0}% 감소",
+  "en": "Your fighting spirit fades, leaving you weak...\\nAttack reduced by {0}%."
+ },
+ {
+  "id": "stringadditionaldescription#0005",
+  "field": "tooltipDescription",
+  "ko": "불굴의 의지로 극한의 상황을 견뎌냅니다.\\n물리 저항력과 마법 저항력 {0} 증가",
+  "en": "Indomitable will helps you endure extreme conditions.\\nPhysical and magic resistance increased by {0}."
+ },
+ {
+  "id": "stringadditionaldescription#0006",
+  "field": "tooltipDescription",
+  "ko": "깊은 상처를 입어 피를 흘립니다.\\n매 초마다 {0}% 의 대미지",
+  "en": "A deep wound causes bleeding.\\nTake {0}% damage every second."
+ },
+ {
+  "id": "stringadditionaldescription#0007",
+  "field": "tooltipDescription",
+  "ko": "공격 속도, 물리 공격력, 마법 공격력 {0}% 증가\\n모든 타격 명중 시 SP 1 회복",
+  "en": "Attack Speed, physical attack, and magic attack increased by {0}%.\\nRestore 1 SP on every hit."
+ },
+ {
+  "id": "stringadditionaldescription#0008",
+  "field": "tooltipDescription",
+  "ko": "강렬한 화염이 몸을 휘감고 있습니다!\\n매 초마다 {0}%  화염 대미지",
+  "en": "Intense flames engulf your body!\\nTake {0}% fire damage every second."
+ },
+ {
+  "id": "stringadditionaldescription#0009",
+  "field": "tooltipDescription",
+  "ko": "마법의 기운이 온 몸을 감쌉니다.\\n자신의 최대 HP의 {0}% 만큼 대미지 흡수",
+  "en": "Magic energy surrounds you.\\nAbsorbs damage equal to {0}% of your maximum HP."
+ },
+ {
+  "id": "stringadditionaldescription#0010",
+  "field": "tooltipDescription",
+  "ko": "신성한 빛에 의해 정화되고 있습니다!\\n매 초마다 {0}% 의 신성 대미지",
+  "en": "Holy light purifies you!\\nTake {0}% holy damage every second."
+ },
+ {
+  "id": "stringadditionaldescription#0011",
+  "field": "tooltipDescription",
+  "ko": "심판의 방패가 몸에 둘러졌습니다.\\n물리 저항력, 마법 저항력 {0} 증가\\n인접한 적에게 {1}% 의 신성 대미지",
+  "en": "A shield of judgment surrounds you.\\nPhysical and magic resistance increased by {0}.\\nDeal {1}% holy damage to nearby enemies."
+ },
+ {
+  "id": "stringadditionaldescription#0012",
+  "field": "tooltipDescription",
+  "ko": "신성한 정화로 정신이 맑아졌습니다.\\n물리 대미지와 마법 대미지 {0}% 증가\\n공격속도 {1}% 증가\\n명중 {2} 증가",
+  "en": "Holy purification clears your mind.\\nPhysical and magic damage increased by {0}%.\\nAttack Speed increased by {1}%.\\nAccuracy increased by {2}."
+ },
+ {
+  "id": "stringadditionaldescription#0013",
+  "field": "tooltipDescription",
+  "ko": "엔젤이 성스러운 힘을 줍니다\\n마법 공격력 {0}% 증가",
+  "en": "An angel grants you sacred power.\\nMagic attack increased by {0}%."
+ },
+ {
+  "id": "stringadditionaldescription#0014",
+  "field": "tooltipDescription",
+  "ko": "엔젤의 축복이 내려졌습니다.\\n물리 공격력과 마법 공격력이 {0}% 증가\\n물리 저항력과 마법 저항력이 {1} 증가",
+  "en": "You have received an angel's blessing.\\nPhysical and magic attack increased by {0}%.\\nPhysical and magic resistance increased by {1}."
+ },
+ {
+  "id": "stringadditionaldescription#0015",
+  "field": "tooltipDescription",
+  "ko": "강렬한 빛에 노출되었습니다!\\n적이 받는 모든 대미지 {0}% 증가",
+  "en": "You are exposed to intense light!\\nAll damage taken increased by {0}%."
+ },
+ {
+  "id": "stringadditionaldescription#0016",
+  "field": "tooltipDescription",
+  "ko": "골든 이글이 원호하고 있습니다.\\nDEX {0}% 증가",
+  "en": "Golden Eagle supports you.\\nDEX increased by {0}%."
+ },
+ {
+  "id": "stringadditionaldescription#0017",
+  "field": "tooltipDescription",
+  "ko": "독수리의 발톱에 할퀴었습니다!\\n매 초마다 {0}% 의 대미지\\n이동 속도 {1}% 감소\\n점프력 {2}% 감소",
+  "en": "An eagle's talons have scratched you!\\nTake {0}% damage every second.\\nMovement Speed reduced by {1}%.\\nJump reduced by {2}%."
+ },
+ {
+  "id": "stringadditionaldescription#0018",
+  "field": "tooltipDescription",
+  "ko": "독수리의 정기가 온 몸에 흐릅니다.\\n매 초마다 SP {0} 회복\\n공격 명중 시 독수리 지원공격 발동",
+  "en": "The eagle's spirit flows through you.\\nRestore {0} SP every second.\\nThe eagle makes a support attack when you hit an enemy."
+ },
+ {
+  "id": "stringadditionaldescription#0019",
+  "field": "tooltipDescription",
+  "ko": "유연한 움직임으로 적의 공격을 피해냅니다.\\n적의 공격을 {0}% 확률로 회피",
+  "en": "Your agile movements help you avoid attacks.\\n{0}% chance to evade enemy attacks."
+ },
+ {
+  "id": "stringadditionaldescription#0020",
+  "field": "tooltipDescription",
+  "ko": "강력한 발차기에 몸을 제대로 가눌 수 없습니다!\\n이동속도 {0}% 감소\\n점프력 {1}% 감소",
+  "en": "A powerful kick leaves you unsteady!\\nMovement Speed reduced by {0}%.\\nJump reduced by {1}%."
+ },
+ {
+  "id": "stringadditionaldescription#0021",
+  "field": "tooltipDescription",
+  "ko": "온 몸이 거미줄에 휘감겼습니다!\\n매 초마다 {0}%의 암흑 대미지\\n이동속도 {1}% 감소\\n점프력 {2}% 감소",
+  "en": "Webs wrap around your body!\\nTake {0}% dark damage every second.\\nMovement Speed reduced by {1}%.\\nJump reduced by {2}%."
+ },
+ {
+  "id": "stringadditionaldescription#0022",
+  "field": "tooltipDescription",
+  "ko": "죽음의 표식이 새겨졌습니다!\\n적에게 받는 모든 대미지 {0}% 증가",
+  "en": "You have been marked for death!\\nDamage taken from enemies increased by {0}%.",
+  "n": 2
+ },
+ {
+  "id": "stringadditionaldescription#0023",
+  "field": "tooltipDescription",
+  "ko": "낙인이 새겨졌습니다!\\n명중 {0} 감소",
+  "en": "You have been branded!\\nAccuracy reduced by {0}."
+ },
+ {
+  "id": "stringadditionaldescription#0024",
+  "field": "tooltipDescription",
+  "ko": "블레이드에 화염 속성이 깃듭니다.\\n일부 스킬을 화염 속성 형태로 발동\\n화염 속성 스킬 대미지 {0}% 증가",
+  "en": "Your blade gains the fire element.\\nSome skills become fire skills.\\nFire skill damage increased by {0}%."
+ },
+ {
+  "id": "stringadditionaldescription#0025",
+  "field": "tooltipDescription",
+  "ko": "블레이드에 냉기 속성이 깃듭니다.\\n일부 스킬을 냉기 속성 형태로 발동\\n냉기 속성 스킬 대미지 {0}% 증가",
+  "en": "Your blade gains the ice element.\\nSome skills become ice skills.\\nIce skill damage increased by {0}%."
+ },
+ {
+  "id": "stringadditionaldescription#0026",
+  "field": "tooltipDescription",
+  "ko": "블레이드에 전격 속성이 깃듭니다.\\n일부 스킬을 전격 속성 형태로 발동\\n전격 속성 스킬 대미지 {0}% 증가",
+  "en": "Your blade gains the lightning element.\\nSome skills become lightning skills.\\nLightning skill damage increased by {0}%."
+ },
+ {
+  "id": "stringadditionaldescription#0027",
+  "field": "tooltipDescription",
+  "ko": "룬의 힘을 극한으로 끌어올립니다!\\n화염, 냉기, 전격 속성 대미지 {0}% 증가",
+  "en": "Draw out the full power of the runes!\\nFire, ice, and lightning damage increased by {0}%."
+ },
+ {
+  "id": "stringadditionaldescription#0028",
+  "field": "tooltipDescription",
+  "ko": "신체의 한계를 넘어선 능력을 발휘합니다!\\n공격속도와 이동속도 30% 증가\\n물리/마법 대미지 {0}% 증가\\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 {1}% 감소",
+  "en": "Push beyond your physical limits!\\nAttack Speed and Movement Speed increased by 30%.\\nPhysical and magic damage increased by {0}%.\\nCooldown of enhanced skills used in Change Stance reduced by {1}%."
+ },
+ {
+  "id": "stringadditionaldescription#0029",
+  "field": "tooltipDescription",
+  "ko": "기의 흐름이 뒤틀렸습니다!\\n명중과 회피 {0} 감소",
+  "en": "Your energy flow is disrupted!\\nAccuracy and Evasion reduced by {0}."
+ },
+ {
+  "id": "stringadditionaldescription#0030",
+  "field": "tooltipDescription",
+  "ko": "자연으로부터 생명의 기운을 받고 있습니다!\\n주기적으로 HP 회복\\n물리, 마법 저항력 {0} 증가\\n피격 시 밀려나지 않음",
+  "en": "You receive life energy from nature!\\nRestore HP periodically.\\nPhysical and magic resistance increased by {0}.\\nYou cannot be knocked back when hit."
+ },
+ {
+  "id": "stringadditionaldescription#0031",
+  "field": "tooltipDescription",
+  "ko": "$map:63000060$에서만 사용 가능한 특별한 마그넷 미끼이다. $map:63000060$에서 낚시를 하면 일정 확률로 $item:30001344$$pp:를,을$ 획득할 수 있다.",
+  "en": "A special magnetic lure that can only be used at the $map:63000060$. You may obtain a $item:30001344$ while fishing at the $map:63000060$."
+ },
+ {
+  "id": "stringadditionaldescription#0032",
+  "field": "tooltipDescription",
+  "ko": "전투력 650 증가",
+  "en": "Combat Power +650",
+  "n": 2
+ },
+ {
+  "id": "stringadditionaldescription#0033",
+  "field": "tooltipDescription",
+  "ko": "크리티컬 대미지 120 증가\\n방어력 관통 4% 증가\\n<font color='#00aaef'>전장 및 투기장에서 적용되지 않음</font>",
+  "en": "Critical Damage +120\\nDefense Penetration +4%\\n<font color='#00aaef'>Does not apply in battlegrounds or arenas.</font>"
+ },
+ {
+  "id": "stringadditionaldescription#0034",
+  "field": "tooltipDescription",
+  "ko": "공격 속도 5% 증가\\n물리/마법 대미지 5% 증가\\n<font color='#00aaef'>전장 및 투기장에서 적용되지 않음</font>",
+  "en": "Attack Speed +5%\\nPhysical and magic damage +5%\\n<font color='#00aaef'>Does not apply in battlegrounds or arenas.</font>"
+ },
+ {
+  "id": "stringadditionaldescription#0035",
+  "field": "tooltipDescription",
+  "ko": "$map:63000060$에서만 사용 가능한 특별한 마그넷 미끼이다. $map:63000060$에서 낚시를 하면 일정 확률로 $item:30001385$$pp:를,을$ 획득할 수 있다.",
+  "en": "Special magnetic bait usable only in $map:63000060$. Fishing in $map:63000060$ gives you a chance to obtain $item:30001385$."
+ },
+ {
+  "id": "stringadditionaldescription#0036",
+  "field": "tooltipDescription",
+  "ko": "매 초마다 HP 280 회복",
+  "en": "Restores 280 health every sec."
+ },
+ {
+  "id": "stringadditionaldescription#0037",
+  "field": "tooltipDescription",
+  "ko": "$map:63000060$에서만 사용 가능한 특별한 마그넷 미끼이다. $map:63000060$에서 낚시를 하면 일정 확률로 $item:30001513$$pp:를,을$ 획득할 수 있다.",
+  "en": "Special magnetic bait usable only in $map:63000060$. Fishing in $map:63000060$ gives you a chance to obtain $item:30001513$."
+ },
+ {
+  "id": "stringadditionaldescription#0038",
+  "field": "tooltipDescription",
+  "ko": "전투력 1300 증가",
+  "en": "Combat Power +1,300"
+ },
+ {
+  "id": "stringadditionaldescription#0039",
+  "field": "tooltipDescription",
+  "ko": "- 캐릭터 이동속도 및 지상탈것 이동속도 5% 증가 (PVP 지역 제외 / 파티 전체 적용)\\n- 몬스터 사냥 경험치 및 메소 20% 증가\\n- 오필리아 인챈트 비용 10% 할인\\n- 1:1 메소 거래 수수료 50% 할인\\n- 블랙마켓 아이템 거래 수수료 20% 할인\\n- 언제 어디서나 은행 금고 즉시 소환 가능\\n- 로터스 에어택시 무제한 이용 가능\\n- 프리미엄 전용 던전 및 마크 사용 가능\\n- 프리미엄 전용 아이템 매일 제공",
+  "en": "- Increases movement and ground mount speeds by 5% (excluding PvP areas; applies to party)\\n- Grants 20% extra experience and mesos when hunting\\n- Reduces Ophelia enchant catalyst costs by 10%\\n- Reduces meso handling fees for trade by 50%\\n- Reduces item trade fees in the Black Market by 20%\\n- Can summon the Bank Safe instantly at any place\\n- Grants unlimited use of Rotors Air Taxi\\n- Grants access to premium dungeons & insignia\\n- Grants daily premium items"
+ },
+ {
+  "id": "stringadditionaldescription#0040",
+  "field": "tooltipDescription",
+  "ko": "- 캐릭터 이동속도 및 지상탈것 이동속도 5% 증가 (PVP 지역 제외 / 파티 전체 적용)\\n- 몬스터 사냥 경험치 및 메소 20% 증가\\n- 오필리아 인챈트 비용 10% 할인\\n- 1:1 메소 거래 수수료 50% 할인\\n- 블랙마켓 아이템 거래 수수료 20% 할인 (메소 구매 제외)\\n- 언제 어디서나 은행 금고 즉시 소환 가능\\n- 로터스 에어택시 무제한 이용 가능\\n- 프리미엄 전용 던전 및 마크 사용 가능\\n- 프리미엄 전용 아이템 매일 제공",
+  "en": "- Increases movement and ground mount speeds by 5% (excluding PvP areas; applies to party)\\n- Grants 20% extra experience and mesos when hunting\\n- Reduces Ophelia enchant catalyst costs by 10%\\n- Reduces meso handling fees for trade by 50%\\n- Reduces item trade fees in the Black Market by 20% (excluding the Meso Market)\\n- Can summon the Bank Safe instantly anywhere\\n- Grants unlimited use of Rotors Air Taxi\\n- Grants access to premium dungeons & insignia\\n- Grants daily premium items"
+ },
+ {
+  "id": "koritemdescription#0001",
+  "field": "tooltipDescription",
+  "ko": "\"도와줘! 던전\" 서로 돕고 살아가는 따뜻한 메이플 월드를 만들어가기 위한 상부상조 캠페인 이벤트 기념 주화. $map:02000064$ 또는 $map:02000557$의 $npc:11004243$에게 가져가면 다양한 아이템으로 교환할 수 있다.",
+  "en": "\"Help Me! Dungeon\" A commemorative coin for the mutual aid campaign event to create a warm Maple World where everyone helps each other. If you take it to $npc:11004243$ in $map:02000064$ or $map:02000557$, you can exchange it for various items."
+ },
+ {
+  "id": "koritemdescription#0002",
+  "field": "tooltipDescription",
+  "ko": "알키미 가든 관리인 마니가 봄맞이 이벤트로 준비한 씨앗 주머니이다. '트리니안 가도에서 심어주세요'라고 적혀있다.",
+  "en": "A seed pouch that Alkimi Garden's caretaker, Mani, prepared for the Spring event. It says 'Please plant it in Trinian Street.'"
+ },
+ {
+  "id": "koritemdescription#0003",
+  "field": "tooltipDescription",
+  "ko": "알키미 가든 관리인 마니가 봄맞이 이벤트로 준비한 씨앗 주머니이다. '바움나무에서 심어주세요'라고 적혀있다.",
+  "en": "A seed pouch that Alkimi Garden's caretaker, Mani, prepared for the Spring event. It says 'Please plant it by the Baum Tree.'"
+ },
+ {
+  "id": "koritemdescription#0004",
+  "field": "guideDescription",
+  "ko": "\\n$item:30001527$ 획득 방법<font color='#FFFFFF'>\\n - 이벤트 참여 시\\n - 게임 내 다양한 활동 시",
+  "en": "\\nHow to obtain the $item:30001527$<font color='#FFFFFF'>\\n - When participating in events\\n - During various in-game activities"
+ },
+ {
+  "id": "koritemdescription#0005",
+  "field": "guideDescription",
+  "ko": "\\n$item:30001529$ 획득 방법<font color='#FFFFFF'>\\n - 이벤트 참여 시\\n - 게임 내 다양한 활동 시",
+  "en": "\\nHow to obtain the $item:30001529$<font color='#FFFFFF'>\\n - When participating in events\\n - During various in-game activities"
+ },
+ {
+  "id": "koritemdescription#0006",
+  "field": "guideDescription",
+  "ko": "\\n$item:30001531$ 획득 방법<font color='#FFFFFF'>\\n - 이벤트 참여 시\\n - 게임 내 다양한 활동 시",
+  "en": "\\nHow to obtain the $item:30001531$<font color='#FFFFFF'>\\n - When participating in events\\n - During various in-game activities"
+ },
+ {
+  "id": "koritemdescription#0007",
+  "field": "guideDescription",
+  "ko": "\\n$item:30001532$ 획득 방법<font color='#FFFFFF'>\\n - 이벤트 참여 시\\n - 게임 내 다양한 활동 시",
+  "en": "\\n$item:30001532$ How to Obtain<font color='#FFFFFF'>\\n - Participate in events\\n - Engage in various activities in-game"
+ },
+ {
+  "id": "koritemdescription#0008",
+  "field": "guideDescription",
+  "ko": "\\n$item:30001533$ 획득 방법<font color='#FFFFFF'>\\n - 이벤트 참여 시\\n - 게임 내 다양한 활동 시",
+  "en": "\\n$item:30001533$ How to Obtain<font color='#FFFFFF'>\\n - Participate in events\\n - Engage in various activities in-game",
+  "n": 3
+ },
+ {
+  "id": "koritemdescription#0009",
+  "field": "guideDescription",
+  "ko": "\\n$item:30001534$ 획득 방법<font color='#FFFFFF'>\\n - 이벤트 참여 시\\n - 게임 내 다양한 활동 시",
+  "en": "\\n$item:30001534$ How to Obtain<font color='#FFFFFF'>\\n - Participate in events\\n - Engage in various activities in-game"
+ },
+ {
+  "id": "koritemdescription#0010",
+  "field": "tooltipDescription",
+  "ko": "5단계 인챈트 된 자신의 직업에 맞는 파이어프리즘 무기가 들어있다.",
+  "en": "Contains a Fire Prisma weapon for your job, enchanted to +5."
+ },
+ {
+  "id": "koritemdescription#0011",
+  "field": "guideDescription",
+  "ko": "소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다\\n\\n<font color=\"#FFFFFF\">획득 가능한 주요 아이템</font>\\n<font color=\"#FFFFFF\">- $item:30000970$\\n- $item:30000969$\\n- $item:30000968$\\n- $item:30000967$\\n- $item:30000971$\\n- $item:30000972$</font>\\n\\n<font color=\"#FF5F5F\">※ 주요 아이템은 추후 변경될 수 있으니 획득 후 바로 개봉해주시기 바랍니다.</font>",
+  "en": "Double-click the item in your inventory to get what's inside.\\n\\n<font color=\"#FFFFFF\">Possible Contents:</font>\\n<font color=\"#FFFFFF\">- $item:30000970$\\n- $item:30000969$\\n- $item:30000968$\\n- $item:30000967$\\n- $item:30000971$\\n- $item:30000972$</font>\\n\\n<font color=\"#FF5F5F\">These items may change in the future. If you want an item from the above list, open this right away.</font>"
+ },
+ {
+  "id": "koritemdescription#0012",
+  "field": "guideDescription",
+  "ko": "소지품 창에서 아이템을 더블클릭하면 아이템을 획득할 수 있다\\n\\n<font color=\"#FFFFFF\">획득 가능한 주요 아이템</font>\\n<font color=\"#FFFFFF\">- $item:30000952$\\n- $item:20301100$\\n- $item:20301104$\\n- $item:20301148$\\n- $item:20301150$\\n- $item:20301149$\\n- $item:35100034$\n</font>\\n\\n<font color=\"#FF5F5F\">※ 주요 아이템은 추후 변경될 수 있으니 획득 후 바로 개봉해주시기 바랍니다.</font>",
+  "en": "Double-click the item in your inventory to get what's inside.\\n\\n<font color=\"#FFFFFF\">Possible Contents:</font>\\n<font color=\"#FFFFFF\">- $item:30000952$\\n- $item:20301100$\\n- $item:20301104$\\n- $item:20301148$\\n- $item:20301150$\\n- $item:20301149$\\n- $item:35100034$\n</font>\\n\\n<font color=\"#FF5F5F\">These items may change in the future. If you want an item from the above list, open this right away.</font>"
+ },
+ {
+  "id": "koritemdescription#0013",
+  "field": "guideDescription",
+  "ko": "\\n$item:30001217$ 획득 방법<font color='#FFFFFF'>\\n-$item:20302065$를 소지하고 퀸즈타운에 심어진 단풍나무에 비료 주기 시 획득 가능 \\n-$item:20302065$는 우편, 낚시, 연주, MC 케이 이벤트(PvP 이벤트 제외)를 통해 획득할 수 있습니다.",
+  "en": "\\nHow to Obtain:<font color='#FFFFFF'>\\n- Receive by using $item:20302065$ on the Maple Tree in Queenstown. \\n- $item:20302065$ can be obtained through mail, fishing, performing, and MC Kay events (PvP events excluded)."
+ },
+ {
+  "id": "koritemdescription#0014",
+  "field": "guideDescription",
+  "ko": "\\n이벤트 참여 방법<font color='#FFFFFF'>\\n- 접속 시 우편을 통해 발렌타인 초콜릿 상자와 하트 데코 스프링클을 획득한다.\\n- 퀸즈 타운에서 초콜릿 상자를 더블클릭하여 설치한다.\\n- 다른 캐릭터가 하트 데코 스프링클로 장식해준다. \\n- 30초 후 초콜릿이 완성되면 '달콤 쌉싸름한 초콜릿'을 획득한다.\\n- 이벤트 기간 동안 40번 획득 시 트로피를 달성하고 보상을 획득한다.</font>",
+  "en": "\\nEvent Guide<font color='#FFFFFF'>\\n- Collect Valentine's Chocolate Box and Heart Sprinkles via mail after logging in.\\n- Double-click the chocolate box in Queenstown to place it.\\n- Another character decorates it with Heart Sprinkles. \\n- After 30 seconds, the chocolate transformed into \"Bittersweet Chocolate.\"\\n- Collect 40 of them during the event to unlock a trophy for rewards.</font>",
+  "n": 2
+ },
+ {
+  "id": "koritemdescription#0015",
+  "field": "guideDescription",
+  "ko": "\\n$item:30001432$ 획득 방법<font color='#FFFFFF'>\\n- 퀸즈타운 마녀의 솥단지를 끓이면 획득 가능\\n- '놀랐냥'이 성장할 때 마다 보상으로 획득 가능\\n- $map:02000043$에 등장하는 달아난 $npc:27000034$ 처치 시 획득 가능\\n- $item:20301895$에서 $npc:27000036$ 처치 시 획득 가능\\n- $npc:11001002$, $npc:11001003$, $npc:11000304$의 이벤트 일일 퀘스트 완료 시 획득 가능</font>",
+  "en": "\\nHow to Obtain $item:30001432$<font color='#FFFFFF'>\\n- Use the Witch's Cauldron in Queenstown\\n- Grow Kittywampus\\n- Defeat $npcPlural:27000034$ in $map:02000043$\\n- Defeat $npcPlural:27000036$ in $item:20301895$\\n- Complete daily quests for $npc:11001002$, $npc:11001003$, and $npc:11000304$</font>"
+ },
+ {
+  "id": "koritemdescription#0016",
+  "field": "tooltipDescription",
+  "ko": "<font color='#ff8ae5' size='14'>[환영 시공의 힘]\\n타격 시 10%의 확률로 15초 동안 전투력 3200, 공격속도 9%, 명중 9 증가한다. 이 효과는 양손에 동일한 장비를 착용해야 활성화 되며 전장 및 투기장에서 발동하지 않는다. 특정 던전에서는 환영 시공의 힘 효과가 2배 증가한다.</font>",
+  "en": "<font color='#ff8ae5' size='14'>[Power of Phantasmal Space-Time]\\nOn hit, 10% chance to increase Combat Power by 3,200, attack speed by 9%, and Accuracy by 9 for 15 seconds. This effect activates only when identical equipment is equipped in both hands. This effect does not activate on battlefields or in arenas. In certain dungeons, the Power of Phantasmal Space-Time effect is doubled.</font>",
+  "n": 2
+ },
+ {
+  "id": "koritemdescription#0017",
+  "field": "tooltipDescription",
+  "ko": "<font color='#ff8ae5' size='14'>[환영 시공의 힘]\\n타격 시 10%의 확률로 15초 동안 전투력 3200, 공격속도 9%, 명중 9 증가한다. 이 효과는 파이어 프리즘 쉴드를 함께 사용해야 활성화 되며 전장 및 투기장에서 발동하지 않는다. 특정 던전에서는 환영 시공의 힘 효과가 2배 증가한다.</font>",
+  "en": "<font color='#ff8ae5' size='14'>[Power of Phantasmal Space-Time]\\nOn hit, 10% chance to increase Combat Power by 3,200, attack speed by 9%, and Accuracy by 9 for 15 seconds. This effect activates only when used together with a Fire Prism Shield. This effect does not activate on battlefields or in arenas. In certain dungeons, the Power of Phantasmal Space-Time effect is doubled.</font>"
+ },
+ {
+  "id": "koritemdescription#0018",
+  "field": "tooltipDescription",
+  "ko": "<font color='#ff8ae5' size='14'>[환영 시공의 힘]\\n타격 시 10%의 확률로 15초 동안 전투력 3200, 공격속도 9%, 명중 9 증가한다. 이 효과는 파이어 프리즘 법전을 함께 사용해야 활성화 되며 전장 및 투기장에서 발동하지 않는다. 특정 던전에서는 환영 시공의 힘 효과가 2배 증가한다.</font>",
+  "en": "<font color='#ff8ae5' size='14'>[Power of Phantasmal Space-Time]\\nOn hit, 10% chance to increase Combat Power by 3,200, attack speed by 9%, and Accuracy by 9 for 15 seconds. This effect activates only when used together with a Fire Prism Codex. This effect does not activate on battlefields or in arenas. In certain dungeons, the Power of Phantasmal Space-Time effect is doubled.</font>"
+ },
+ {
+  "id": "koritemdescription#0019",
+  "field": "tooltipDescription",
+  "ko": "<font color='#ff8ae5' size='14'>[환영 시공의 힘]\\n타격 시 10%의 확률로 15초 동안 전투력 3200, 공격속도 9%, 명중 9 증가한다. 이 효과는 전장 및 투기장에서 발동하지 않는다. 특정 던전에서는 환영 시공의 힘 효과가 2배 증가한다.</font>",
+  "en": "<font color='#ff8ae5' size='14'>[Illusory Space-Time Power]\\nOn hit, has a 10% chance to increase Combat Power by 3,200, Attack Speed by 9%, and Accuracy by 9 for 15 seconds. Does not activate in battlegrounds or arenas. In certain dungeons, this effect is doubled.</font>",
+  "n": 7
+ },
+ {
+  "id": "koritemdescription#0020",
+  "field": "guideDescription",
+  "ko": "소지품 창에서 아이템을 더블클릭하면 보스 고유 장비를 랜덤하게 획득할 수 있다.",
+  "en": "Double-click the item in your inventory to obtain a random piece of boss equipment."
+ },
+ {
+  "id": "koritemdescription#0021",
+  "field": "guideDescription",
+  "ko": "\\n$item:30001217$ 획득 방법<font color='#FFFFFF'>\\n-$item:20302065$를 소지하고 퀸즈타운에 심어진 단풍나무에 비료 주기 시 획득 가능 \\n-$item:20302065$는 우편, 낚시, 연주, MC 케이 이벤트(PvP 이벤트 제외)를 통해 획득할 수 있습니다.",
+  "en": "\\nHow to Obtain $item:30001217$<font color='#FFFFFF'>\\n- Fertilize the maple trees planted in Queenstown while carrying $item:20302065$ \\n- Get $item:20302065$ through mail, fishing, performing, or MC Kay events (except PvP events)."
+ },
+ {
+  "id": "koritemdescription#0022",
+  "field": "guideDescription",
+  "ko": "\\n$item:30001342$ 획득 방법<font color='#FFFFFF'>\\n- $map:51000004$ 참여 보상\\n- $map:80000021$ 참여 보상\\n- 출석 보상</font>",
+  "en": "\\nHow to obtain $item:30001342$<font color='#FFFFFF'>\\n- Participation reward from $map:51000004$\\n- Participation reward from $map:80000021$\\n- Attendance reward</font>"
+ },
+ {
+  "id": "koritemdescription#0023",
+  "field": "guideDescription",
+  "ko": "\\n이벤트 참여 방법<font color='#FFFFFF'>\\n- 접속 시 우편을 통해 발렌타인 초콜릿 상자와 하트 데코 스프링클을 획득한다.\\n- 퀸즈 타운에서 초콜릿 상자를 더블클릭하여 설치한다.\\n- 다른 성별의 캐릭터가 하트 데코 스프링클로 장식해준다. \\n- 30초 후 초콜릿이 완성되면 '달콤 쌉싸름한 초콜릿'을 획득한다.\\n- 이벤트 기간 동안 30번 획득 시 트로피를 달성하고 보상을 획득한다.</font>",
+  "en": "\\nHow to Participate<font color='#FFFFFF'>\\n- Receive a Valentine's Chocolate Box and Heart Decoration Sprinkles by mail when you log in.\\n- Double-click the chocolate box in Queenstown to place it.\\n- A character of another gender decorates it with the sprinkles. \\n- After 30 seconds, receive 'Bittersweet Chocolate'.\\n- Obtain it 30 times during the event to earn a trophy and reward.</font>",
+  "n": 2
+ },
+ {
+  "id": "koritemdescription#0024",
+  "field": "tooltipDescription",
+  "ko": "사랑의 쇼콜라티에가 되어 초콜릿을 꾸며줄 수 있는 데코 아이템.\\n퀸즈 타운에서 초콜릿 상자를 발견하면 데코를 뿌려주자. \\n<font color='#FFFFFF'>※ 여자 캐릭터가 설치한 초콜릿 상자에만 사용할 수 있습니다.</font>",
+  "en": "A decoration item for becoming a chocolatier of love and decorating chocolates.\\nWhen you find a chocolate box in Queenstown, sprinkle it with decorations. \\n<font color='#FFFFFF'>※ Only works on chocolate boxes placed by female characters.</font>"
+ },
+ {
+  "id": "koritemdescription#0025",
+  "field": "tooltipDescription",
+  "ko": "사랑의 쇼콜라티에가 되어 초콜릿을 꾸며줄 수 있는 데코 아이템.\\n퀸즈 타운에서 초콜릿 상자를 발견하면 데코를 뿌려주자. \\n<font color='#FFFFFF'>※ 남자 캐릭터가 설치한 초콜릿 상자에만 사용할 수 있습니다.</font>",
+  "en": "A decoration item for becoming a chocolatier of love and decorating chocolates.\\nWhen you find a chocolate box in Queenstown, sprinkle it with decorations. \\n<font color='#FFFFFF'>※ Only works on chocolate boxes placed by male characters.</font>"
+ },
+ {
+  "id": "achievedescription#0001",
+  "field": "complete",
+  "ko": "지금까지 $item:20001150$ {0}회 획득",
+  "en": "Obtained $item:20001150$ {0} times so far"
+ }
+]

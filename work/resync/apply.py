@@ -62,7 +62,10 @@ for fn, tr in maps.items():
         jp[k] = {f: tr[k][f] for f in fields}
         add += sum(1 for _ in fields)
     notin = [k for k in tr if k not in jp]
-    assert list(jp)[:len(before)] == before
+    # 追加キー(取り込み時に無かったキー)は複数回の適用をまたいでも ko の並び順に揃える
+    added_keys = [k for k in ko if k in jp and k not in orig]
+    jp = {**{k: jp[k] for k in orig}, **{k: jp[k] for k in added_keys}}
+    assert list(jp)[:len(orig)] == list(orig)
     open(JP, "wb").write(json.dumps(jp, ensure_ascii=False, indent=2).encode("utf-8") + tail)
     print("%-30s 更新 %5d / 追加 %5d 文字列 (キー %d -> %d)%s%s" % (fn, upd, add, len(before), len(jp),
           " / 対象外 %d" % skipped if skipped else "", " / ko に無いキー %d" % len(notin) if notin else ""))

@@ -581,6 +581,28 @@
     "Mail": {
       "ja": "郵便",
       "ko": "우편"
+    },
+    "Dragon Breath": {
+      "ja": "ドラゴンの息吹",
+      "ko": "용의 숨결",
+      "source": "session (2026-11 resync)"
+    },
+    "Mystic weapon": {
+      "ja": "ミスティック武器",
+      "ko": "미스틱 무기",
+      "source": "session (2026-11 resync)"
+    },
+    "Punching skills": {
+      "ja": "パンチ系",
+      "ko": "펀치계열",
+      "source": "session (2026-11 resync)",
+      "note": "stringadditionaldescription「パンチ系スキル」準拠"
+    },
+    "Combat Rush (mode)": {
+      "ja": "戦闘モード",
+      "ko": "전투 모드",
+      "source": "session (2026-11 resync)",
+      "note": "既訳 견제 모드=牽制モード に合わせる"
     }
   },
   "wedding": {
@@ -1199,6 +1221,12 @@
       "ja": "実績",
       "ko": "업적",
       "note": "koritemdescription 11900038"
+    },
+    "Anti-magic Resistance": {
+      "ja": "反魔法抵抗軍",
+      "ko": "반마법 저항군",
+      "source": "session (2026-11 resync)",
+      "note": "stringtrigger 既訳。公式に「反魔法レジスタンス」3件の揺れあり"
     }
   },
   "monster_types": {
@@ -1399,6 +1427,49 @@
       "ja": "冒険[ノーマル/ハード] ボーナスボックス",
       "ko": "모험[일반/어려움] 보너스 상자",
       "note": "★`]` の後に半角スペース1つ(itemname 20301412 / questdescription 89080002-Event-JP)"
+    }
+  },
+  "event_names": {
+    "_comment": "イベント・ミニゲーム名(2026-11 resync で新規決定したもの)",
+    "Help Me! Dungeon": {
+      "ja": "「助けて！ダンジョン」",
+      "ko": "도와줘! 던전",
+      "source": "session (2026-11 resync)"
+    },
+    "Mushking Coins": {
+      "ja": "マッシュキングコイン",
+      "ko": "머쉬킹 주화",
+      "source": "session (2026-11 resync)"
+    },
+    "Mushking Championship": {
+      "ja": "マッシュキングチャンピオンシップ",
+      "ko": "머쉬킹 챔피언십",
+      "source": "session (2026-11 resync)"
+    },
+    "Star Pop Party": {
+      "ja": "パンパン星風船フェスティバル",
+      "ko": "팡팡 별풍선 축제",
+      "source": "session (2026-11 resync)"
+    },
+    "New Year's Celebrations": {
+      "ja": "幸運つかみミッション",
+      "ko": "행운잡이 미션",
+      "source": "session (2026-11 resync)"
+    },
+    "Lucky Piglets": {
+      "ja": "赤ちゃん福豚",
+      "ko": "아기 복돼지",
+      "source": "session (2026-11 resync)"
+    },
+    "Songpyeon": {
+      "ja": "松餅",
+      "ko": "송편",
+      "source": "session (2026-11 resync)"
+    },
+    "Rainbow Pinata": {
+      "ja": "レインボーピニャータ",
+      "ko": "레인보우 피냐타",
+      "source": "session (2026-11 resync)"
     }
   }
 }

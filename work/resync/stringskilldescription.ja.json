@@ -1,0 +1,1046 @@
+{
+ "10100041|*-CharacterBalance_01-KR": {
+  "uiDescription": "士気を高める雄叫びを上げ、発動者および周りの味方の物理攻撃力と魔法攻撃力を増加させる。\n\n<font color='#ffd400'>[詳細]</font>\n10秒間、味方<font color='#00aaef'>{0}体</font>の物理攻撃力と魔法攻撃力が<font color='#00aaef'>{1}%</font>増加する。"
+ },
+ "10100261|*-JobChange_02-": {
+  "uiDescription": "神聖なオーラを剣に付与した後、連続で4回振るう。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると1〜3打目は<font color='#00aaef'>{0}%</font>のダメージ、4打目は<font color='#00aaef'>{1}%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「騎士団員なら剣をうまく扱えるのは当然のことだ。だが、光の力を剣に宿らせることは？それは光の神に選ばれし者にしかできないことだ。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- トライア新刊『光とともに歩む騎士の道』より抜粋</p></i></font>"
+ },
+ "10100271|*-JobChange_02-": {
+  "uiDescription": "<font color='#f06d45'>信念の一撃</font>と<font color='#f06d45'>ディヴァインカット</font>スキルの攻撃を受けた対象の位置に<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n\n<font color='#ffd400'>[詳細]</font>\n<font color='#f06d45'>信念の一撃</font>スキルの攻撃、または<font color='#f06d45'>ディヴァインカット</font>スキルの最後の攻撃を受けた対象の位置に<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。(発動後5秒間は再召喚不可)\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>聖剣ファルシオン</font>：攻撃が命中すると<font color='#00aaef'>{0}%</font>の神聖ダメージを与える。"
+ },
+ "10100281|1-JobChange_02-": {
+  "uiDescription": "盾に神聖なエネルギーを集めた後、盾の形にして放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>267%</font>のダメージを与える。(3回)\n攻撃を受けた対象を貫通する。(8回)"
+ },
+ "10100281|2-JobChange_02-": {
+  "uiDescription": "盾に神聖なエネルギーを集めた後、盾の形にして放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>297%</font>のダメージを与える。(3回)\n攻撃を受けた対象を貫通する。(8回)"
+ },
+ "10100281|3-JobChange_02-": {
+  "uiDescription": "盾に神聖なエネルギーを集めた後、盾の形にして放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>327%</font>のダメージを与える。(3回)\n攻撃を受けた対象を貫通する。(8回)"
+ },
+ "10100281|4-JobChange_02-": {
+  "uiDescription": "盾に神聖なエネルギーを集めた後、盾の形にして放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>357%</font>のダメージを与える。(3回)\n攻撃を受けた対象を貫通する。(8回)"
+ },
+ "10100281|5-JobChange_02-": {
+  "uiDescription": "盾に神聖なエネルギーを集めた後、盾の形にして放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>387%</font>のダメージを与える。(3回)\n攻撃を受けた対象を貫通する。(8回)"
+ },
+ "10100281|6-JobChange_02-": {
+  "uiDescription": "盾に神聖なエネルギーを集めた後、盾の形にして放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>417%</font>のダメージを与える。(3回)\n攻撃を受けた対象を貫通する。(8回)"
+ },
+ "10100281|7-JobChange_02-": {
+  "uiDescription": "盾に神聖なエネルギーを集めた後、盾の形にして放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>447%</font>のダメージを与える。(3回)\n攻撃を受けた対象を貫通する。(8回)"
+ },
+ "10100281|8-JobChange_02-": {
+  "uiDescription": "盾に神聖なエネルギーを集めた後、盾の形にして放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>477%</font>のダメージを与える。(3回)\n攻撃を受けた対象を貫通する。(8回)"
+ },
+ "10100281|9-JobChange_02-": {
+  "uiDescription": "盾に神聖なエネルギーを集めた後、盾の形にして放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>507%</font>のダメージを与える。(3回)\n攻撃を受けた対象を貫通する。(8回)"
+ },
+ "10100281|10-JobChange_02-": {
+  "uiDescription": "盾に神聖なエネルギーを集めた後、盾の形にして放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>537%</font>のダメージを与える。(3回)\n攻撃を受けた対象を貫通する。(8回)"
+ },
+ "10100281|11-JobChange_02-": {
+  "uiDescription": "盾に神聖なエネルギーを集めた後、盾の形にして放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>567%</font>のダメージを与える。(3回)\n攻撃を受けた対象を貫通する。(8回)"
+ },
+ "10100281|12-JobChange_02-": {
+  "uiDescription": "盾に神聖なエネルギーを集めた後、盾の形にして放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>597%</font>のダメージを与える。(3回)\n攻撃を受けた対象を貫通する。(8回)"
+ },
+ "10100291|1-JobChange_02-": {
+  "uiDescription": "盾を前に構え、跳躍するたびに、1.5m突進しながら攻撃を加える。突進が止まると前方にジャンプしながら剣を強く振り下ろし、その地点に衝撃波とともに<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n\n<font color='#ffd400'>[詳細]</font>\n盾が衝突するたびに<font color='#00aaef'>61%</font>のダメージを与える。\n衝撃波が命中すると<font color='#00aaef'>205%</font>のダメージを与える。\n2次衝撃波が命中するたびに<font color='#00aaef'>144%</font>のダメージを与える。\n<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n<font color='#f06d45'>デュエルタクティクス防御態勢</font>時、スキルが変換される。\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>聖剣ファルシオン</font>：攻撃が命中すると<font color='#00aaef'>711%</font>の神聖ダメージを与える。\n\n<font color='#aaaaaa'><i>「自ら進まなければ、誰も守ることはできない。」</font></i>\n<font color='#aaaaaa'><p align='right'><i>- 元騎士団長ゼニア</font></p></i>"
+ },
+ "10100291|2-JobChange_02-": {
+  "uiDescription": "盾を前に構え、跳躍するたびに、1.5m突進しながら攻撃を加える。突進が止まると前方にジャンプしながら剣を強く振り下ろし、その地点に衝撃波とともに<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n\n<font color='#ffd400'>[詳細]</font>\n盾が衝突するたびに<font color='#00aaef'>68%</font>のダメージを与える。\n衝撃波が命中すると<font color='#00aaef'>228%</font>のダメージを与える。\n2次衝撃波が命中するたびに<font color='#00aaef'>160%</font>のダメージを与える。\n<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n<font color='#f06d45'>デュエルタクティクス防御態勢</font>時、スキルが変換される。\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>聖剣ファルシオン</font>：攻撃が命中すると<font color='#00aaef'>793%</font>の神聖ダメージを与える。\n\n<font color='#aaaaaa'><i>「自ら進まなければ、誰も守ることはできない。」</font></i>\n<font color='#aaaaaa'><p align='right'><i>- 元騎士団長ゼニア</font></p></i>"
+ },
+ "10100291|3-JobChange_02-": {
+  "uiDescription": "盾を前に構え、跳躍するたびに、1.5m突進しながら攻撃を加える。突進が止まると前方にジャンプしながら剣を強く振り下ろし、その地点に衝撃波とともに<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n\n<font color='#ffd400'>[詳細]</font>\n盾が衝突するたびに<font color='#00aaef'>75%</font>のダメージを与える。\n衝撃波が命中すると<font color='#00aaef'>251%</font>のダメージを与える。\n2次衝撃波が命中するたびに<font color='#00aaef'>176%</font>のダメージを与える。\n<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n<font color='#f06d45'>デュエルタクティクス防御態勢</font>時、スキルが変換される。\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>聖剣ファルシオン</font>：攻撃が命中すると<font color='#00aaef'>875%</font>の神聖ダメージを与える。\n\n<font color='#aaaaaa'><i>「自ら進まなければ、誰も守ることはできない。」</font></i>\n<font color='#aaaaaa'><p align='right'><i>- 元騎士団長ゼニア</font></p></i>"
+ },
+ "10100291|4-JobChange_02-": {
+  "uiDescription": "盾を前に構え、跳躍するたびに、1.5m突進しながら攻撃を加える。突進が止まると前方にジャンプしながら剣を強く振り下ろし、その地点に衝撃波とともに<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n\n<font color='#ffd400'>[詳細]</font>\n盾が衝突するたびに<font color='#00aaef'>82%</font>のダメージを与える。\n衝撃波が命中すると<font color='#00aaef'>274%</font>のダメージを与える。\n2次衝撃波が命中するたびに<font color='#00aaef'>192%</font>のダメージを与える。\n<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n<font color='#f06d45'>デュエルタクティクス防御態勢</font>時、スキルが変換される。\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>聖剣ファルシオン</font>：攻撃が命中すると<font color='#00aaef'>957%</font>の神聖ダメージを与える。\n\n<font color='#aaaaaa'><i>「自ら進まなければ、誰も守ることはできない。」</font></i>\n<font color='#aaaaaa'><p align='right'><i>- 元騎士団長ゼニア</font></p></i>"
+ },
+ "10100291|5-JobChange_02-": {
+  "uiDescription": "盾を前に構え、跳躍するたびに、1.5m突進しながら攻撃を加える。突進が止まると前方にジャンプしながら剣を強く振り下ろし、その地点に衝撃波とともに<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n\n<font color='#ffd400'>[詳細]</font>\n盾が衝突するたびに<font color='#00aaef'>89%</font>のダメージを与える。\n衝撃波が命中すると<font color='#00aaef'>297%</font>のダメージを与える。\n2次衝撃波が命中するたびに<font color='#00aaef'>208%</font>のダメージを与える。\n<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n<font color='#f06d45'>デュエルタクティクス防御態勢</font>時、スキルが変換される。\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>聖剣ファルシオン</font>：攻撃が命中すると<font color='#00aaef'>1039%</font>の神聖ダメージを与える。\n\n<font color='#aaaaaa'><i>「自ら進まなければ、誰も守ることはできない。」</font></i>\n<font color='#aaaaaa'><p align='right'><i>- 元騎士団長ゼニア</font></p></i>"
+ },
+ "10100291|6-JobChange_02-": {
+  "uiDescription": "盾を前に構え、跳躍するたびに、1.5m突進しながら攻撃を加える。突進が止まると前方にジャンプしながら剣を強く振り下ろし、その地点に衝撃波とともに<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n\n<font color='#ffd400'>[詳細]</font>\n盾が衝突するたびに<font color='#00aaef'>96%</font>のダメージを与える。\n衝撃波が命中すると<font color='#00aaef'>320%</font>のダメージを与える。\n2次衝撃波が命中するたびに<font color='#00aaef'>224%</font>のダメージを与える。\n<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n<font color='#f06d45'>デュエルタクティクス防御態勢</font>時、スキルが変換される。\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>聖剣ファルシオン</font>：攻撃が命中すると<font color='#00aaef'>1121%</font>の神聖ダメージを与える。\n\n<font color='#aaaaaa'><i>「自ら進まなければ、誰も守ることはできない。」</font></i>\n<font color='#aaaaaa'><p align='right'><i>- 元騎士団長ゼニア</font></p></i>"
+ },
+ "10100291|7-JobChange_02-": {
+  "uiDescription": "盾を前に構え、跳躍するたびに、1.5m突進しながら攻撃を加える。突進が止まると前方にジャンプしながら剣を強く振り下ろし、その地点に衝撃波とともに<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n\n<font color='#ffd400'>[詳細]</font>\n盾が衝突するたびに<font color='#00aaef'>103%</font>のダメージを与える。\n衝撃波が命中すると<font color='#00aaef'>343%</font>のダメージを与える。\n2次衝撃波が命中するたびに<font color='#00aaef'>240%</font>のダメージを与える。\n<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n<font color='#f06d45'>デュエルタクティクス防御態勢</font>時、スキルが変換される。\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>聖剣ファルシオン</font>：攻撃が命中すると<font color='#00aaef'>1203%</font>の神聖ダメージを与える。\n\n<font color='#aaaaaa'><i>「自ら進まなければ、誰も守ることはできない。」</font></i>\n<font color='#aaaaaa'><p align='right'><i>- 元騎士団長ゼニア</font></p></i>"
+ },
+ "10100291|8-JobChange_02-": {
+  "uiDescription": "盾を前に構え、跳躍するたびに、1.5m突進しながら攻撃を加える。突進が止まると前方にジャンプしながら剣を強く振り下ろし、その地点に衝撃波とともに<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n\n<font color='#ffd400'>[詳細]</font>\n盾が衝突するたびに<font color='#00aaef'>110%</font>のダメージを与える。\n衝撃波が命中すると<font color='#00aaef'>366%</font>のダメージを与える。\n2次衝撃波が命中するたびに<font color='#00aaef'>256%</font>のダメージを与える。\n<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n<font color='#f06d45'>デュエルタクティクス防御態勢</font>時、スキルが変換される。\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>聖剣ファルシオン</font>：攻撃が命中すると<font color='#00aaef'>1285%</font>の神聖ダメージを与える。\n\n<font color='#aaaaaa'><i>「自ら進まなければ、誰も守ることはできない。」</font></i>\n<font color='#aaaaaa'><p align='right'><i>- 元騎士団長ゼニア</font></p></i>"
+ },
+ "10100291|9-JobChange_02-": {
+  "uiDescription": "盾を前に構え、跳躍するたびに、1.5m突進しながら攻撃を加える。突進が止まると前方にジャンプしながら剣を強く振り下ろし、その地点に衝撃波とともに<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n\n<font color='#ffd400'>[詳細]</font>\n盾が衝突するたびに<font color='#00aaef'>117%</font>のダメージを与える。\n衝撃波が命中すると<font color='#00aaef'>389%</font>のダメージを与える。\n2次衝撃波が命中するたびに<font color='#00aaef'>272%</font>のダメージを与える。\n<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n<font color='#f06d45'>デュエルタクティクス防御態勢</font>時、スキルが変換される。\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>聖剣ファルシオン</font>：攻撃が命中すると<font color='#00aaef'>1367%</font>の神聖ダメージを与える。\n\n<font color='#aaaaaa'><i>「自ら進まなければ、誰も守ることはできない。」</font></i>\n<font color='#aaaaaa'><p align='right'><i>- 元騎士団長ゼニア</font></p></i>"
+ },
+ "10100291|10-JobChange_02-": {
+  "uiDescription": "盾を前に構え、跳躍するたびに、1.5m突進しながら攻撃を加える。突進が止まると前方にジャンプしながら剣を強く振り下ろし、その地点に衝撃波とともに<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n\n<font color='#ffd400'>[詳細]</font>\n盾が衝突するたびに<font color='#00aaef'>124%</font>のダメージを与える。\n衝撃波が命中すると<font color='#00aaef'>412%</font>のダメージを与える。\n2次衝撃波が命中するたびに<font color='#00aaef'>288%</font>のダメージを与える。\n<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n<font color='#f06d45'>デュエルタクティクス防御態勢</font>時、スキルが変換される。\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>聖剣ファルシオン</font>：攻撃が命中すると<font color='#00aaef'>1449%</font>の神聖ダメージを与える。\n\n<font color='#aaaaaa'><i>「自ら進まなければ、誰も守ることはできない。」</font></i>\n<font color='#aaaaaa'><p align='right'><i>- 元騎士団長ゼニア</font></p></i>"
+ },
+ "10100291|11-JobChange_02-": {
+  "uiDescription": "盾を前に構え、跳躍するたびに、1.5m突進しながら攻撃を加える。突進が止まると前方にジャンプしながら剣を強く振り下ろし、その地点に衝撃波とともに<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n\n<font color='#ffd400'>[詳細]</font>\n盾が衝突するたびに<font color='#00aaef'>131%</font>のダメージを与える。\n衝撃波が命中すると<font color='#00aaef'>435%</font>のダメージを与える。\n2次衝撃波が命中するたびに<font color='#00aaef'>304%</font>のダメージを与える。\n<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n<font color='#f06d45'>デュエルタクティクス防御態勢</font>時、スキルが変換される。\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>聖剣ファルシオン</font>：攻撃が命中すると<font color='#00aaef'>1531%</font>の神聖ダメージを与える。\n\n<font color='#aaaaaa'><i>「自ら進まなければ、誰も守ることはできない。」</font></i>\n<font color='#aaaaaa'><p align='right'><i>- 元騎士団長ゼニア</font></p></i>"
+ },
+ "10100291|12-JobChange_02-": {
+  "uiDescription": "盾を前に構え、跳躍するたびに、1.5m突進しながら攻撃を加える。突進が止まると前方にジャンプしながら剣を強く振り下ろし、その地点に衝撃波とともに<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n\n<font color='#ffd400'>[詳細]</font>\n盾が衝突するたびに<font color='#00aaef'>138%</font>のダメージを与える。\n衝撃波が命中すると<font color='#00aaef'>458%</font>のダメージを与える。\n2次衝撃波が命中するたびに<font color='#00aaef'>320%</font>のダメージを与える。\n<font color='#f06d45'>聖剣ファルシオン</font>を召喚する。\n<font color='#f06d45'>デュエルタクティクス防御態勢</font>時、スキルが変換される。\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>聖剣ファルシオン</font>：攻撃が命中すると<font color='#00aaef'>1613%</font>の神聖ダメージを与える。\n\n<font color='#aaaaaa'><i>「自ら進まなければ、誰も守ることはできない。」</font></i>\n<font color='#aaaaaa'><p align='right'><i>- 元騎士団長ゼニア</font></p></i>"
+ },
+ "10100294|*-JobChange_02-": {
+  "uiDescription": "盾を前に構え、跳躍するたびに2m突進しながら攻撃を加える。突進が止まると前方にジャンプしながら剣を強く振り下ろし、その地点に衝撃波を起こす。\n\n<font color='#ffd400'>[詳細]</font>\n盾が衝突するたびに<font color='#00aaef'>{0}%</font>のダメージを与える。\n衝撃波が命中すると<font color='#00aaef'>{1}%</font>のダメージを与える。\n<font color='#f06d45'>デュエルタクティクス防御態勢</font>解除時、スキルが変換される。\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\n\n<font color='#aaaaaa'><i>「自ら進まなければ、誰も守ることはできない。」</font></i>\n<font color='#aaaaaa'><i><p align='right'>- 元騎士団長ゼニア</font></i></p>"
+ },
+ "10200131|*-CharacterBalance_01-KR": {
+  "uiDescription": "闇のオーラを一時的に増幅させ、発動者を強化する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>闇のオーラ</font>が10回重複する必要がある。\\nスキルを使用すると<font color='#f06d45'>闇の支配者</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>闇の支配者</font>：12秒間、攻撃速度、物理攻撃力、魔法攻撃力が<font color='#00aaef'>{0}%</font>増加する。攻撃が命中するとSPを1回復する。"
+ },
+ "10200261|*-JobChange_02-": {
+  "uiDescription": "戦闘が長引いたり不利な状況になると、より強い力を発揮する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n次の条件のうち1つを満たすと<font color='#f06d45'>孤軍奮闘</font>効果が発動する。\\n<font color='#f06d45'>闇のオーラ</font>が10回重複した状態で使用した時、周辺の敵が<font color='#00aaef'>{0}体</font>以上の時に攻撃した時、攻撃を受けた後に自分のHPが<font color='#00aaef'>{1}%</font>以下の時\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>孤軍奮闘</font>：最大5段階まで上昇し、段階ごとに防御力が2%、物理攻撃力が3.5%ずつ増加する。<font color='#00aaef'>{2}秒</font>に1回発動する。\\n\\n<i><font color='#c8c8c8'>「多数を相手にする方法？ふん、一度に何人も斬ればいいだろう。」\\n<p align=\"right\">- 無名</p></font></i>"
+ },
+ "10200271|*-JobChange_02-": {
+  "uiDescription": "巨大な剣気を作り出して敵を突き、地面に叩きつけて攻撃する。割れた地面が爆発し、追加ダメージを与える。\\n\\n<font color='#ffd400'>[詳細]</font>\\n突きが命中すると<font color='#00aaef'>{0}%</font>のダメージを与え、<font color='#f06d45'>急所打撃</font>効果が発動する。\\n振り下ろしが命中すると<font color='#00aaef'>{1}%</font>のダメージ、爆発時に<font color='#00aaef'>{2}%</font>のダメージを与える。\\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>急所打撃</font>：気絶させる。気絶に免疫がある場合は<font color='#00aaef'>{3}%</font>のダメージを与える。"
+ },
+ "10200281|1-JobChange_02-": {
+  "uiDescription": "回転力を利用して攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>ガスト</font>スキルの<font color='#f06d45'>つむじ風</font>状態の時に使用でき、自分に<font color='#f06d45'>血の嵐</font>効果が発動する。\\n攻撃が命中すると<font color='#00aaef'>391%、784%、1175%</font>のダメージを与える。必ずクリティカルで発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>血の嵐</font>：スキルを連続で使用すると竜巻を起こし、<font color='#00aaef'>445%</font>のダメージを与える。"
+ },
+ "10200281|2-JobChange_02-": {
+  "uiDescription": "回転力を利用して攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>ガスト</font>スキルの<font color='#f06d45'>つむじ風</font>状態の時に使用でき、自分に<font color='#f06d45'>血の嵐</font>効果が発動する。\\n攻撃が命中すると<font color='#00aaef'>436%、874%、1311%</font>のダメージを与える。必ずクリティカルで発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>血の嵐</font>：スキルを連続で使用すると竜巻を起こし、<font color='#00aaef'>495%</font>のダメージを与える。"
+ },
+ "10200281|3-JobChange_02-": {
+  "uiDescription": "回転力を利用して攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>ガスト</font>スキルの<font color='#f06d45'>つむじ風</font>状態の時に使用でき、自分に<font color='#f06d45'>血の嵐</font>効果が発動する。\\n攻撃が命中すると<font color='#00aaef'>481%、964%、1447%</font>のダメージを与える。必ずクリティカルで発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>血の嵐</font>：スキルを連続で使用すると竜巻を起こし、<font color='#00aaef'>545%</font>のダメージを与える。"
+ },
+ "10200281|4-JobChange_02-": {
+  "uiDescription": "回転力を利用して攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>ガスト</font>スキルの<font color='#f06d45'>つむじ風</font>状態の時に使用でき、自分に<font color='#f06d45'>血の嵐</font>効果が発動する。\\n攻撃が命中すると<font color='#00aaef'>526%、1054%、1583%</font>のダメージを与える。必ずクリティカルで発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>血の嵐</font>：スキルを連続で使用すると竜巻を起こし、<font color='#00aaef'>595%</font>のダメージを与える。"
+ },
+ "10200281|5-JobChange_02-": {
+  "uiDescription": "回転力を利用して攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>ガスト</font>スキルの<font color='#f06d45'>つむじ風</font>状態の時に使用でき、自分に<font color='#f06d45'>血の嵐</font>効果が発動する。\\n攻撃が命中すると<font color='#00aaef'>571%、1144%、1719%</font>のダメージを与える。必ずクリティカルで発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>血の嵐</font>：スキルを連続で使用すると竜巻を起こし、<font color='#00aaef'>645%</font>のダメージを与える。"
+ },
+ "10200281|6-JobChange_02-": {
+  "uiDescription": "回転力を利用して攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>ガスト</font>スキルの<font color='#f06d45'>つむじ風</font>状態の時に使用でき、自分に<font color='#f06d45'>血の嵐</font>効果が発動する。\\n攻撃が命中すると<font color='#00aaef'>616%、1234%、1855%</font>のダメージを与える。必ずクリティカルで発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>血の嵐</font>：スキルを連続で使用すると竜巻を起こし、<font color='#00aaef'>695%</font>のダメージを与える。"
+ },
+ "10200281|7-JobChange_02-": {
+  "uiDescription": "回転力を利用して攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>ガスト</font>スキルの<font color='#f06d45'>つむじ風</font>状態の時に使用でき、自分に<font color='#f06d45'>血の嵐</font>効果が発動する。\\n攻撃が命中すると<font color='#00aaef'>661%、1324%、1991%</font>のダメージを与える。必ずクリティカルで発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>血の嵐</font>：スキルを連続で使用すると竜巻を起こし、<font color='#00aaef'>745%</font>のダメージを与える。"
+ },
+ "10200281|8-JobChange_02-": {
+  "uiDescription": "回転力を利用して攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>ガスト</font>スキルの<font color='#f06d45'>つむじ風</font>状態の時に使用でき、自分に<font color='#f06d45'>血の嵐</font>効果が発動する。\\n攻撃が命中すると<font color='#00aaef'>706%、1414%、2127%</font>のダメージを与える。必ずクリティカルで発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>血の嵐</font>：スキルを連続で使用すると竜巻を起こし、<font color='#00aaef'>795%</font>のダメージを与える。"
+ },
+ "10200281|9-JobChange_02-": {
+  "uiDescription": "回転力を利用して攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>ガスト</font>スキルの<font color='#f06d45'>つむじ風</font>状態の時に使用でき、自分に<font color='#f06d45'>血の嵐</font>効果が発動する。\\n攻撃が命中すると<font color='#00aaef'>751%、1504%、2263%</font>のダメージを与える。必ずクリティカルで発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>血の嵐</font>：スキルを連続で使用すると竜巻を起こし、<font color='#00aaef'>845%</font>のダメージを与える。"
+ },
+ "10200281|10-JobChange_02-": {
+  "uiDescription": "回転力を利用して攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>ガスト</font>スキルの<font color='#f06d45'>つむじ風</font>状態の時に使用でき、自分に<font color='#f06d45'>血の嵐</font>効果が発動する。\\n攻撃が命中すると<font color='#00aaef'>796%、1594%、2399%</font>のダメージを与える。必ずクリティカルで発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>血の嵐</font>：スキルを連続で使用すると竜巻を起こし、<font color='#00aaef'>895%</font>のダメージを与える。"
+ },
+ "10200281|11-JobChange_02-": {
+  "uiDescription": "回転力を利用して攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>ガスト</font>スキルの<font color='#f06d45'>つむじ風</font>状態の時に使用でき、自分に<font color='#f06d45'>血の嵐</font>効果が発動する。\\n攻撃が命中すると<font color='#00aaef'>841%、1684%、2535%</font>のダメージを与える。必ずクリティカルで発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>血の嵐</font>：スキルを連続で使用すると竜巻を起こし、<font color='#00aaef'>945%</font>のダメージを与える。"
+ },
+ "10200281|12-JobChange_02-": {
+  "uiDescription": "回転力を利用して攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>ガスト</font>スキルの<font color='#f06d45'>つむじ風</font>状態の時に使用でき、自分に<font color='#f06d45'>血の嵐</font>効果が発動する。\\n攻撃が命中すると<font color='#00aaef'>886%、1774%、2671%</font>のダメージを与える。必ずクリティカルで発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>血の嵐</font>：スキルを連続で使用すると竜巻を起こし、<font color='#00aaef'>995%</font>のダメージを与える。"
+ },
+ "10200291|*-JobChange_02-": {
+  "uiDescription": "自らを闇に染め、素早く斬りつける。\\n\\n<font color='#ffd400'>[詳細]</font>\\n自分に<font color='#f06d45'>暗黒の狂気</font>効果が発動する。\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与え、<font color='#f06d45'>侵食された魂</font>効果が発動する。\\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n<font color='#f06d45'>威嚇</font>とクールタイムを共有する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>暗黒の狂気</font>：物理攻撃力が<font color='#00aaef'>{1}%</font>増加する。攻撃するたびに魂を放出し、<font color='#00aaef'>{2}%</font>のダメージを与える。\\n<font color='#f06d45'>侵食された魂</font>：物理攻撃力と魔法攻撃力が<font color='#00aaef'>{3}%</font>減少する。\\n\\n<i><font color='#c8c8c8'>「おじいちゃんが言ってました。闇には絶対に近づいちゃいけないって。闇に染まると自分を見失ってしまうって。…そうですよね？」\\n<p align=\"right\">- トライアの見習い司祭</p></font></i>"
+ },
+ "10300261|*-JobChange_02-": {
+  "uiDescription": "氷の精霊を召喚し、戦闘を手伝わせる。氷の精霊は一部のアイス魔法を強化する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>デュエルキャスト</font>の<font color='#f06d45'>アイスショット</font>が命中すると氷の精霊を召喚する。\\n<font color='#f06d45'>アイススピア</font>の代わりに<font color='#f06d45'>アイスボム</font>を使用できる。氷の精霊が1体必要。\\n<font color='#f06d45'>パーフェクトストーム</font>の代わりに<font color='#f06d45'>フォールスケート</font>を使用できる。氷の精霊が5体必要。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>アイスボム</font>：攻撃が命中すると<font color='#f06d45'>アイススピア</font>より<font color='#00aaef'>{0}%</font>増加したダメージを与える。\\n<font color='#f06d45'>フォールスケート</font>：氷の道を生成して移動速度を減少させる。攻撃が命中すると<font color='#f06d45'>パーフェクトストーム</font>より<font color='#00aaef'>{1}%</font>増加したダメージを与え、<font color='#f06d45'>凍結</font>効果が発動する。<font color='#f06d45'>凍結</font>に免疫がある場合は<font color='#00aaef'>{2}%</font>の追加ダメージを与える。<font color='#f06d45'>スーパーアーマー</font>効果が発動する。"
+ },
+ "10300262|1-JobChange_02-": {
+  "uiDescription": "1体の氷の精霊を飛ばして爆発を起こす。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>174%</font>の範囲ダメージを与える。\\n<font color='#f06d45'>氷の精霊</font>のレベルが高いほどダメージが増加する。"
+ },
+ "10300262|2-JobChange_02-": {
+  "uiDescription": "1体の氷の精霊を飛ばして爆発を起こす。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>187%</font>の範囲ダメージを与える。\\n<font color='#f06d45'>氷の精霊</font>のレベルが高いほどダメージが増加する。"
+ },
+ "10300262|3-JobChange_02-": {
+  "uiDescription": "1体の氷の精霊を飛ばして爆発を起こす。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>200%</font>の範囲ダメージを与える。\\n<font color='#f06d45'>氷の精霊</font>のレベルが高いほどダメージが増加する。"
+ },
+ "10300262|4-JobChange_02-": {
+  "uiDescription": "1体の氷の精霊を飛ばして爆発を起こす。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>213%</font>の範囲ダメージを与える。\\n<font color='#f06d45'>氷の精霊</font>のレベルが高いほどダメージが増加する。"
+ },
+ "10300262|5-JobChange_02-": {
+  "uiDescription": "1体の氷の精霊を飛ばして爆発を起こす。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>226%</font>の範囲ダメージを与える。\\n<font color='#f06d45'>氷の精霊</font>のレベルが高いほどダメージが増加する。"
+ },
+ "10300262|6-JobChange_02-": {
+  "uiDescription": "1体の氷の精霊を飛ばして爆発を起こす。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>239%</font>の範囲ダメージを与える。\\n<font color='#f06d45'>氷の精霊</font>のレベルが高いほどダメージが増加する。"
+ },
+ "10300262|7-JobChange_02-": {
+  "uiDescription": "1体の氷の精霊を飛ばして爆発を起こす。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>252%</font>の範囲ダメージを与える。\\n<font color='#f06d45'>氷の精霊</font>のレベルが高いほどダメージが増加する。"
+ },
+ "10300262|8-JobChange_02-": {
+  "uiDescription": "1体の氷の精霊を飛ばして爆発を起こす。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>265%</font>の範囲ダメージを与える。\\n<font color='#f06d45'>氷の精霊</font>のレベルが高いほどダメージが増加する。"
+ },
+ "10300262|9-JobChange_02-": {
+  "uiDescription": "1体の氷の精霊を飛ばして爆発を起こす。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>278%</font>の範囲ダメージを与える。\\n<font color='#f06d45'>氷の精霊</font>のレベルが高いほどダメージが増加する。"
+ },
+ "10300262|10-JobChange_02-": {
+  "uiDescription": "1体の氷の精霊を飛ばして爆発を起こす。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>291%</font>の範囲ダメージを与える。\\n<font color='#f06d45'>氷の精霊</font>のレベルが高いほどダメージが増加する。"
+ },
+ "10300262|11-JobChange_02-": {
+  "uiDescription": "1体の氷の精霊を飛ばして爆発を起こす。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>304%</font>の範囲ダメージを与える。\\n<font color='#f06d45'>氷の精霊</font>のレベルが高いほどダメージが増加する。"
+ },
+ "10300262|12-JobChange_02-": {
+  "uiDescription": "1体の氷の精霊を飛ばして爆発を起こす。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>317%</font>の範囲ダメージを与える。\\n<font color='#f06d45'>氷の精霊</font>のレベルが高いほどダメージが増加する。"
+ },
+ "10300266|*-JobChange_02-": {
+  "uiDescription": "氷の道を生成して移動速度を低下させ、氷の精霊5体を融合させて飛ばす。\\n\\n<font color='#ffd400'>[詳細]</font>\\n氷の道が命中すると<font color='#f06d45'>寒気</font>3回重複効果が発動する。\\n氷の精霊が命中すると<font color='#00aaef'>{0}%</font>のダメージ、爆発時に<font color='#00aaef'>{1}%</font>のダメージを与え、<font color='#f06d45'>凍結</font>効果が発動する。\\n<font color='#f06d45'>氷の精霊</font>のレベルが高いほどダメージが増加する。\\n<font color='#f06d45'>パーフェクトストーム</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>凍結</font>：行動不可。効果に免疫がある対象には代わりに<font color='#00aaef'>{2}%</font>のダメージを与える。"
+ },
+ "10300271|*-JobChange_02-": {
+  "uiDescription": "ハリケーンを召喚して攻撃する。ハリケーンは周囲の水気を吸収し、さらに大きく成長する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与え、<font color='#f06d45'>ハリケーン北上中！</font>効果が発動する。\\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ハリケーン北上中！</font>：1秒ごとに<font color='#00aaef'>{1}%</font>の範囲ダメージを与える。<font color='#f06d45'>霜</font>効果を獲得すると重複し、1秒ごとに重複1回あたり<font color='#00aaef'>{2}%</font>のダメージを与える。10回重複すると<font color='#f06d45'>竜巻</font>効果が発動する。\\n<font color='#f06d45'>竜巻</font>：ハリケーンが昇天し、0.5秒ごとに<font color='#00aaef'>{3}%</font>の範囲ダメージを与える。\\n\\n<i><font color='#c8c8c8'>「あの子が本当に嫌いでした。私の好きなそよ風を毎回恐ろしいものに変えてしまうんですもの。\\n<p align=\"right\">- 魔法学院エリネルの卒業生</p></font></i>"
+ },
+ "10300281|*-JobChange_02-": {
+  "uiDescription": "短時間に複数の火炎魔法を使用すると強化効果を得る。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>フレイムウェーブ、火種、バーベキューパーティ</font>が5秒以内に命中すると<font color='#f06d45'>完全燃焼</font>効果が発動する。\\n<font color='#f06d45'>完全燃焼</font>終了時に<font color='#f06d45'>消火</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>完全燃焼</font>：火炎攻撃力が<font color='#00aaef'>{0}%</font>増加する。<font color='#f06d45'>エネルギーエクスプロージョン</font>使用時にダメージが2倍になる。<font color='#f06d45'>消火</font>効果が発動する。\\n<font color='#f06d45'>消火</font>：<font color='#00aaef'>{1}秒</font>間、<font color='#f06d45'>完全燃焼</font>不可"
+ },
+ "10300291|*-JobChange_02-": {
+  "uiDescription": "瞬間移動で接近し、円形に熱い炎を放出して悠々と離脱する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nキーを押すと前方に瞬間移動する。\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与え、<font color='#f06d45'>荒れ狂う炎</font>効果が発動する。\\nスキルを再使用すると<font color='#00aaef'>{1}%</font>のダメージを与え、後方に瞬間移動する。\\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>荒れ狂う炎</font>：1秒ごとに<font color='#00aaef'>{2}%</font>のダメージを与える。10%の確率で爆発し、<font color='#00aaef'>{3}%</font>のダメージを与える。\\n\\n<i><font color='#c8c8c8'>「申し上げたじゃないですか。山では使わないでくださいって。お願いしますよ！\\n<p align=\"right\">- 虹の山の山火事監視員</p></font></i>"
+ },
+ "10400011|*-CharacterBalance_01-KR": {
+  "uiDescription": "神聖なオーラを噴出させて対象にダメージを与え、0.5m押しのける。\n\n<font color='#ffd400'>[詳細]</font>\n半径<font color='#00aaef'>{0}m</font>内の対象に<font color='#00aaef'>{1}%</font>の神聖ダメージを与える。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>天上の光</font>効果が発動する。対象の周辺に<font color='#00aaef'>{2}%</font>の追加神聖ダメージを与える。"
+ },
+ "10400101|*-CharacterBalance_01-KR": {
+  "uiDescription": "神聖なオーラを流し込み、対象にダメージを与える。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>{0}%</font>の神聖ダメージを与える。\nキーを押している間、連続発動する。"
+ },
+ "10400271|*-JobChange_02-": {
+  "uiDescription": "神の権能を得て巨大な十字架を召喚し、対象にダメージを与える。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のクリティカルダメージを与える。\n\n<font color='#ffd400'>[追加効果]</font>\n発動者は7秒間、攻撃速度が<font color='#00aaef'>{1}%</font>、魔法攻撃力が<font color='#00aaef'>{2}%</font>増加する。"
+ },
+ "10400281|*-JobChange_02-": {
+  "uiDescription": "<font color='#f06d45'>ヘブンズエクスプロージョン</font>の神聖エネルギーの残留時間が増加し、持続ダメージを与える。\n\n<font color='#ffd400'>[詳細]</font>\n神聖エネルギーの残留持続時間が5秒増加する。\n神聖エネルギー残留地域に<font color='#00aaef'>{0}%</font>の持続ダメージを与える。\n\n<font color='#ffd400'>[追加効果]</font>\n神聖エネルギー残留地域で<font color='#f06d45'>スーパーアーマー</font>効果が発動する。"
+ },
+ "10400291|*-JobChange_02-": {
+  "uiDescription": "前方に正方形の領域を指定した後、<font color='#f06d45'>ヒール</font>使用時に同じ効果を発生させる。\n\n<font color='#ffd400'>[詳細]</font>\n最大生成数は2個\n領域維持時間<font color='#00aaef'>{0}秒\n</font>神聖ダメージが<font color='#00aaef'>{1}%</font>増加する。\n生成された領域の回復量は、味方10体に<font color='#f06d45'>ヒール</font>スキルの50%が適用される。\n\n<font color='#aaaaaa'><i>「光の神はどこでも共にいらっしゃいます。」</i></font><font color='#aaaaaa'><i><p align='right'>\n- 守護司祭ルアーナ</p></i></font>"
+ },
+ "10400301|*-JobChange_02-": {
+  "uiDescription": "<font color='#f06d45'>ディヴァインウェーブ</font>と<font color='#f06d45'>グレーターヒール</font>による即時回復量が増加し、<font color='#f06d45'>ディヴァインウェーブ</font>のダメージが増加する。\n\n<font color='#ffd400'>[詳細]</font>\n即時回復の回復量が<font color='#00aaef'>{0}%</font>増加する。\n<font color='#f06d45'>ディヴァインウェーブ</font>のダメージが<font color='#00aaef'>{1}%</font>増加する。\n\n<font color='#ffd400'>[追加効果]</font>\n即時回復を受けた対象は5秒間、移動速度が<font color='#00aaef'>{2}%</font>、攻撃速度が<font color='#00aaef'>{3}%</font>、物理抵抗力と魔法抵抗力が<font color='#00aaef'>{4}</font>増加する。"
+ },
+ "10500021|*-CharacterBalance_01-KR": {
+  "uiDescription": "火の矢を素早く連射し、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを3回与える。\\n貫通効果が発動する。\\n追加キーを押すと連続使用できる。"
+ },
+ "10500051|1-CharacterBalance_01-KR": {
+  "uiDescription": "弓を振り回し、近くの敵を攻撃する。\\n\\n <font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>260%</font>のダメージを与える。\\n敵に<font color='#f06d45'>氷結</font>効果がかかっているときに攻撃が命中すると<font color='#f06d45'>ブレイキング</font>効果が発動する。\\nスタン効果\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイキング</font>：<font color='#f06d45'>氷結</font>効果が10回重複している敵に<font color='#00aaef'>199%</font>の追加冷気ダメージを与え、効果を削除する。"
+ },
+ "10500051|2-CharacterBalance_01-KR": {
+  "uiDescription": "弓を振り回し、近くの敵を攻撃する。\\n\\n <font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>279%</font>のダメージを与える。\\n敵に<font color='#f06d45'>氷結</font>効果がかかっているときに攻撃が命中すると<font color='#f06d45'>ブレイキング</font>効果が発動する。\\nスタン効果\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイキング</font>：<font color='#f06d45'>氷結</font>効果がかかっている敵に<font color='#00aaef'>213%</font>の追加冷気ダメージを与え、効果を削除する。"
+ },
+ "10500051|3-CharacterBalance_01-KR": {
+  "uiDescription": "弓を振り回し、近くの敵を攻撃する。\\n\\n <font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>298%</font>のダメージを与える。\\n敵に<font color='#f06d45'>氷結</font>効果がかかっているときに攻撃が命中すると<font color='#f06d45'>ブレイキング</font>効果が発動する。\\nスタン効果\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイキング</font>：<font color='#f06d45'>氷結</font>効果がかかっている敵に<font color='#00aaef'>227%</font>の追加冷気ダメージを与え、効果を削除する。"
+ },
+ "10500051|4-CharacterBalance_01-KR": {
+  "uiDescription": "弓を振り回し、近くの敵を攻撃する。\\n\\n <font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>317%</font>のダメージを与える。\\n敵に<font color='#f06d45'>氷結</font>効果がかかっているときに攻撃が命中すると<font color='#f06d45'>ブレイキング</font>効果が発動する。\\nスタン効果\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイキング</font>：<font color='#f06d45'>氷結</font>効果がかかっている敵に<font color='#00aaef'>241%</font>の追加冷気ダメージを与え、効果を削除する。"
+ },
+ "10500051|5-CharacterBalance_01-KR": {
+  "uiDescription": "弓を振り回し、近くの敵を攻撃する。\\n\\n <font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>336%</font>のダメージを与える。\\n敵に<font color='#f06d45'>氷結</font>効果がかかっているときに攻撃が命中すると<font color='#f06d45'>ブレイキング</font>効果が発動する。\\nスタン効果\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイキング</font>：<font color='#f06d45'>氷結</font>効果がかかっている敵に<font color='#00aaef'>255%</font>の追加冷気ダメージを与え、効果を削除する。"
+ },
+ "10500051|6-CharacterBalance_01-KR": {
+  "uiDescription": "弓を振り回し、近くの敵を攻撃する。\\n\\n <font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>355%</font>のダメージを与える。\\n敵に<font color='#f06d45'>氷結</font>効果がかかっているときに攻撃が命中すると<font color='#f06d45'>ブレイキング</font>効果が発動する。\\nスタン効果\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイキング</font>：<font color='#f06d45'>氷結</font>効果がかかっている敵に<font color='#00aaef'>269%</font>の追加冷気ダメージを与え、効果を削除する。"
+ },
+ "10500051|7-CharacterBalance_01-KR": {
+  "uiDescription": "弓を振り回し、近くの敵を攻撃する。\\n\\n <font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>374%</font>のダメージを与える。\\n敵に<font color='#f06d45'>氷結</font>効果がかかっているときに攻撃が命中すると<font color='#f06d45'>ブレイキング</font>効果が発動する。\\nスタン効果\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイキング</font>：<font color='#f06d45'>氷結</font>効果がかかっている敵に<font color='#00aaef'>283%</font>の追加冷気ダメージを与え、効果を削除する。"
+ },
+ "10500051|8-CharacterBalance_01-KR": {
+  "uiDescription": "弓を振り回し、近くの敵を攻撃する。\\n\\n <font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>393%</font>のダメージを与える。\\n敵に<font color='#f06d45'>氷結</font>効果がかかっているときに攻撃が命中すると<font color='#f06d45'>ブレイキング</font>効果が発動する。\\nスタン効果\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイキング</font>：<font color='#f06d45'>氷結</font>効果がかかっている敵に<font color='#00aaef'>297%</font>の追加冷気ダメージを与え、効果を削除する。"
+ },
+ "10500051|9-CharacterBalance_01-KR": {
+  "uiDescription": "弓を振り回し、近くの敵を攻撃する。\\n\\n <font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>412%</font>のダメージを与える。\\n敵に<font color='#f06d45'>氷結</font>効果がかかっているときに攻撃が命中すると<font color='#f06d45'>ブレイキング</font>効果が発動する。\\nスタン効果\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイキング</font>：<font color='#f06d45'>氷結</font>効果がかかっている敵に<font color='#00aaef'>311%</font>の追加冷気ダメージを与え、効果を削除する。"
+ },
+ "10500051|10-CharacterBalance_01-KR": {
+  "uiDescription": "弓を振り回し、近くの敵を攻撃する。\\n\\n <font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>431%</font>のダメージを与える。\\n敵に<font color='#f06d45'>氷結</font>効果がかかっているときに攻撃が命中すると<font color='#f06d45'>ブレイキング</font>効果が発動する。\\nスタン効果\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイキング</font>：<font color='#f06d45'>氷結</font>効果がかかっている敵に<font color='#00aaef'>325%</font>の追加冷気ダメージを与え、効果を削除する。"
+ },
+ "10500051|11-CharacterBalance_01-KR": {
+  "uiDescription": "弓を振り回し、近くの敵を攻撃する。\\n\\n <font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>450%</font>のダメージを与える。\\n敵に<font color='#f06d45'>氷結</font>効果がかかっているときに攻撃が命中すると<font color='#f06d45'>ブレイキング</font>効果が発動する。\\nスタン効果\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイキング</font>：<font color='#f06d45'>氷結</font>効果がかかっている敵に<font color='#00aaef'>339%</font>の追加冷気ダメージを与え、効果を削除する。"
+ },
+ "10500051|12-CharacterBalance_01-KR": {
+  "uiDescription": "弓を振り回し、近くの敵を攻撃する。\\n\\n <font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>469%</font>のダメージを与える。\\n敵に<font color='#f06d45'>氷結</font>効果がかかっているときに攻撃が命中すると<font color='#f06d45'>ブレイキング</font>効果が発動する。\\nスタン効果\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイキング</font>：<font color='#f06d45'>氷結</font>効果がかかっている敵に<font color='#00aaef'>353%</font>の追加冷気ダメージを与え、効果を削除する。"
+ },
+ "10500091|*-CharacterBalance_01-KR": {
+  "uiDescription": "ワシの精気を受け、戦闘能力が一時的に向上する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n30秒間、1秒ごとにSPを<font color='#00aaef'>{0}</font>回復する。\\n一定間隔で効果活性化状態で攻撃が命中すると<font color='#00aaef'>{1}%</font>の追加ダメージを与える。"
+ },
+ "10500093|*-JobChange_02-": {
+  "uiDescription": "神獣フェニックスの精気で戦闘能力が向上する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n1秒ごとにSPを<font color='#00aaef'>{0}</font>回復する。\\n活性化状態で攻撃が命中すると<font color='#00aaef'>{1}%</font>のダメージを与える。\\n攻撃後3秒間は再攻撃不可"
+ },
+ "10500153|*-JobChange_02-": {
+  "uiDescription": "キャプテンイーグルに乗って素早く移動する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nキーを押し続けると全方向に移動できる。\\n使用時にEPが<font color='#00aaef'>60</font>減少し、キーを押し続けると追加で減少する。\\n<font color='#f06d45'>キャプテンイーグル</font>終了時に<font color='#f06d45'>強化イーグルグライド</font>に変更される。"
+ },
+ "10500261|1-JobChange_02-": {
+  "uiDescription": "フェニックスが荒々しい鳴き声とともに前方の敵を炎で薙ぎ払う。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>1224%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>1360%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>焦熱の炎</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>焦熱の炎</font>：10秒間、毎秒<font color='#00aaef'>202%</font>の持続ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「いつだったか…一度だけ見たことがあります。炎の鳥が火炎をなびかせ、敵を一瞬で焦土にするのを…」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-オスカル</font></p>"
+ },
+ "10500261|2-JobChange_02-": {
+  "uiDescription": "フェニックスが荒々しい鳴き声とともに前方の敵を炎で薙ぎ払う。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>1348%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>1499%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>焦熱の炎</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>焦熱の炎</font>：10秒間、毎秒<font color='#00aaef'>222%</font>の持続ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「いつだったか…一度だけ見たことがあります。炎の鳥が火炎をなびかせ、敵を一瞬で焦土にするのを…」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-オスカル</font></p>"
+ },
+ "10500261|3-JobChange_02-": {
+  "uiDescription": "フェニックスが荒々しい鳴き声とともに前方の敵を炎で薙ぎ払う。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>1472%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>1638%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>焦熱の炎</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>焦熱の炎</font>：10秒間、毎秒<font color='#00aaef'>242%</font>の持続ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「いつだったか…一度だけ見たことがあります。炎の鳥が火炎をなびかせ、敵を一瞬で焦土にするのを…」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-オスカル</font></p>"
+ },
+ "10500261|4-JobChange_02-": {
+  "uiDescription": "フェニックスが荒々しい鳴き声とともに前方の敵を炎で薙ぎ払う。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>1596%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>1777%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>焦熱の炎</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>焦熱の炎</font>：10秒間、毎秒<font color='#00aaef'>262%</font>の持続ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「いつだったか…一度だけ見たことがあります。炎の鳥が火炎をなびかせ、敵を一瞬で焦土にするのを…」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-オスカル</font></p>"
+ },
+ "10500261|5-JobChange_02-": {
+  "uiDescription": "フェニックスが荒々しい鳴き声とともに前方の敵を炎で薙ぎ払う。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>1720%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>1916%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>焦熱の炎</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>焦熱の炎</font>：10秒間、毎秒<font color='#00aaef'>282%</font>の持続ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「いつだったか…一度だけ見たことがあります。炎の鳥が火炎をなびかせ、敵を一瞬で焦土にするのを…」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-オスカル</font></p>"
+ },
+ "10500261|6-JobChange_02-": {
+  "uiDescription": "フェニックスが荒々しい鳴き声とともに前方の敵を炎で薙ぎ払う。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>1844%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>2055%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>焦熱の炎</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>焦熱の炎</font>：10秒間、毎秒<font color='#00aaef'>302%</font>の持続ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「いつだったか…一度だけ見たことがあります。炎の鳥が火炎をなびかせ、敵を一瞬で焦土にするのを…」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-オスカル</font></p>"
+ },
+ "10500261|7-JobChange_02-": {
+  "uiDescription": "フェニックスが荒々しい鳴き声とともに前方の敵を炎で薙ぎ払う。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>1968%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>2194%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>焦熱の炎</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>焦熱の炎</font>：10秒間、毎秒<font color='#00aaef'>322%</font>の持続ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「いつだったか…一度だけ見たことがあります。炎の鳥が火炎をなびかせ、敵を一瞬で焦土にするのを…」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-オスカル</font></p>"
+ },
+ "10500261|8-JobChange_02-": {
+  "uiDescription": "フェニックスが荒々しい鳴き声とともに前方の敵を炎で薙ぎ払う。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>2092%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>2333%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>焦熱の炎</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>焦熱の炎</font>：10秒間、毎秒<font color='#00aaef'>342%</font>の持続ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「いつだったか…一度だけ見たことがあります。炎の鳥が火炎をなびかせ、敵を一瞬で焦土にするのを…」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-オスカル</font></p>"
+ },
+ "10500261|9-JobChange_02-": {
+  "uiDescription": "フェニックスが荒々しい鳴き声とともに前方の敵を炎で薙ぎ払う。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>2216%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>2472%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>焦熱の炎</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>焦熱の炎</font>：10秒間、毎秒<font color='#00aaef'>362%</font>の持続ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「いつだったか…一度だけ見たことがあります。炎の鳥が火炎をなびかせ、敵を一瞬で焦土にするのを…」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-オスカル</font></p>"
+ },
+ "10500261|10-JobChange_02-": {
+  "uiDescription": "フェニックスが荒々しい鳴き声とともに前方の敵を炎で薙ぎ払う。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>2340%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>2611%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>焦熱の炎</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>焦熱の炎</font>：10秒間、毎秒<font color='#00aaef'>382%</font>の持続ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「いつだったか…一度だけ見たことがあります。炎の鳥が火炎をなびかせ、敵を一瞬で焦土にするのを…」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-オスカル</font></p>"
+ },
+ "10500261|11-JobChange_02-": {
+  "uiDescription": "フェニックスが荒々しい鳴き声とともに前方の敵を炎で薙ぎ払う。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>2464%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>2750%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>焦熱の炎</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>焦熱の炎</font>：10秒間、毎秒<font color='#00aaef'>402%</font>の持続ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「いつだったか…一度だけ見たことがあります。炎の鳥が火炎をなびかせ、敵を一瞬で焦土にするのを…」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-オスカル</font></p>"
+ },
+ "10500261|12-JobChange_02-": {
+  "uiDescription": "フェニックスが荒々しい鳴き声とともに前方の敵を炎で薙ぎ払う。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>2588%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>2889%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>焦熱の炎</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>焦熱の炎</font>：10秒間、毎秒<font color='#00aaef'>422%</font>の持続ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「いつだったか…一度だけ見たことがあります。炎の鳥が火炎をなびかせ、敵を一瞬で焦土にするのを…」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-オスカル</font></p>"
+ },
+ "10500271|1-JobChange_02-": {
+  "uiDescription": "ゴールデンイーグルがレンジャーと共にした経験と歳月をもとに、伝説の神獣フェニックスへと進化する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nクリティカル発生時、30秒間フェニックスを召喚する。\\nフェニックスの維持時間中、クリティカルヒットが<font color='#00aaef'>10</font>、物理ダメージが<font color='#00aaef'>7%</font>、DEXが<font color='#00aaef'>3%</font>増加する。\\nスキル習得時、<font color='#f06d45'>ゴールデンイーグル</font>使用不可\\n\\n<font color='#ffd400'>[追加効果]</font>\\nスキル習得時、<font color='#f06d45'>イーグルスピリット</font>が<font color='#f06d45'>フェニックススピリット</font>に強化される。\\n\\n<font color='#00aaef'></font><i><font color='#aaaaaa'>「知ってる？ゴールデンイーグルが伝説の神獣フェニックスになるって噂！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-グリーンフッド自警団の誰か</font></p><font color='#00aaef'></font>"
+ },
+ "10500271|2-JobChange_02-": {
+  "uiDescription": "ゴールデンイーグルがレンジャーと共にした経験と歳月をもとに、伝説の神獣フェニックスへと進化する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nクリティカル発生時、30秒間フェニックスを召喚する。\\nフェニックスの維持時間中、クリティカルヒットが<font color='#00aaef'>20</font>、物理ダメージが<font color='#00aaef'>9%</font>、DEXが<font color='#00aaef'>4.5%</font>増加する。\\nスキル習得時、<font color='#f06d45'>ゴールデンイーグル</font>使用不可\\n\\n<font color='#ffd400'>[追加効果]</font>\\nスキル習得時、<font color='#f06d45'>イーグルスピリット</font>が<font color='#f06d45'>フェニックススピリット</font>に強化される。\\n\\n<font color='#00aaef'></font><i><font color='#aaaaaa'>「知ってる？ゴールデンイーグルが伝説の神獣フェニックスになるって噂！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-グリーンフッド自警団の誰か</font></p><font color='#00aaef'></font>"
+ },
+ "10500271|3-JobChange_02-": {
+  "uiDescription": "ゴールデンイーグルがレンジャーと共にした経験と歳月をもとに、伝説の神獣フェニックスへと進化する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nクリティカル発生時、30秒間フェニックスを召喚する。\\nフェニックスの維持時間中、クリティカルヒットが<font color='#00aaef'>30</font>、物理ダメージが<font color='#00aaef'>11%</font>、DEXが<font color='#00aaef'>6%</font>増加する。\\nスキル習得時、<font color='#f06d45'>ゴールデンイーグル</font>使用不可\\n\\n<font color='#ffd400'>[追加効果]</font>\\nスキル習得時、<font color='#f06d45'>イーグルスピリット</font>が<font color='#f06d45'>フェニックススピリット</font>に強化される。\\n\\n<font color='#00aaef'></font><i><font color='#aaaaaa'>「知ってる？ゴールデンイーグルが伝説の神獣フェニックスになるって噂！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-グリーンフッド自警団の誰か</font></p><font color='#00aaef'></font>"
+ },
+ "10500271|4-JobChange_02-": {
+  "uiDescription": "ゴールデンイーグルがレンジャーと共にした経験と歳月をもとに、伝説の神獣フェニックスへと進化する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nクリティカル発生時、30秒間フェニックスを召喚する。\\nフェニックスの維持時間中、クリティカルヒットが<font color='#00aaef'>40</font>、物理ダメージが<font color='#00aaef'>13%</font>、DEXが<font color='#00aaef'>7.5%</font>増加する。\\nスキル習得時、<font color='#f06d45'>ゴールデンイーグル</font>使用不可\\n\\n<font color='#ffd400'>[追加効果]</font>\\nスキル習得時、<font color='#f06d45'>イーグルスピリット</font>が<font color='#f06d45'>フェニックススピリット</font>に強化される。\\n\\n<font color='#00aaef'></font><i><font color='#aaaaaa'>「知ってる？ゴールデンイーグルが伝説の神獣フェニックスになるって噂！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-グリーンフッド自警団の誰か</font></p><font color='#00aaef'></font>"
+ },
+ "10500271|5-JobChange_02-": {
+  "uiDescription": "ゴールデンイーグルがレンジャーと共にした経験と歳月をもとに、伝説の神獣フェニックスへと進化する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nクリティカル発生時、30秒間フェニックスを召喚する。\\nフェニックスの維持時間中、クリティカルヒットが<font color='#00aaef'>50</font>、物理ダメージが<font color='#00aaef'>15%</font>、DEXが<font color='#00aaef'>9%</font>増加する。\\nスキル習得時、<font color='#f06d45'>ゴールデンイーグル</font>使用不可\\n\\n<font color='#ffd400'>[追加効果]</font>\\nスキル習得時、<font color='#f06d45'>イーグルスピリット</font>が<font color='#f06d45'>フェニックススピリット</font>に強化される。\\n\\n<font color='#00aaef'></font><i><font color='#aaaaaa'>「知ってる？ゴールデンイーグルが伝説の神獣フェニックスになるって噂！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-グリーンフッド自警団の誰か</font></p><font color='#00aaef'></font>"
+ },
+ "10500271|6-JobChange_02-": {
+  "uiDescription": "ゴールデンイーグルがレンジャーと共にした経験と歳月をもとに、伝説の神獣フェニックスへと進化する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nクリティカル発生時、30秒間フェニックスを召喚する。\\nフェニックスの維持時間中、クリティカルヒットが<font color='#00aaef'>60</font>、物理ダメージが<font color='#00aaef'>17%</font>、DEXが<font color='#00aaef'>10.5%</font>増加する。\\nスキル習得時、<font color='#f06d45'>ゴールデンイーグル</font>使用不可\\n\\n<font color='#ffd400'>[追加効果]</font>\\nスキル習得時、<font color='#f06d45'>イーグルスピリット</font>が<font color='#f06d45'>フェニックススピリット</font>に強化される。\\n\\n<font color='#00aaef'></font><i><font color='#aaaaaa'>「知ってる？ゴールデンイーグルが伝説の神獣フェニックスになるって噂！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-グリーンフッド自警団の誰か</font></p><font color='#00aaef'></font>"
+ },
+ "10500271|7-JobChange_02-": {
+  "uiDescription": "ゴールデンイーグルがレンジャーと共にした経験と歳月をもとに、伝説の神獣フェニックスへと進化する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nクリティカル発生時、30秒間フェニックスを召喚する。\\nフェニックスの維持時間中、クリティカルヒットが<font color='#00aaef'>70</font>、物理ダメージが<font color='#00aaef'>19%</font>、DEXが<font color='#00aaef'>12%</font>増加する。\\nスキル習得時、<font color='#f06d45'>ゴールデンイーグル</font>使用不可\\n\\n<font color='#ffd400'>[追加効果]</font>\\nスキル習得時、<font color='#f06d45'>イーグルスピリット</font>が<font color='#f06d45'>フェニックススピリット</font>に強化される。\\n\\n<font color='#00aaef'></font><i><font color='#aaaaaa'>「知ってる？ゴールデンイーグルが伝説の神獣フェニックスになるって噂！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-グリーンフッド自警団の誰か</font></p><font color='#00aaef'></font>"
+ },
+ "10500271|8-JobChange_02-": {
+  "uiDescription": "ゴールデンイーグルがレンジャーと共にした経験と歳月をもとに、伝説の神獣フェニックスへと進化する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nクリティカル発生時、30秒間フェニックスを召喚する。\\nフェニックスの維持時間中、クリティカルヒットが<font color='#00aaef'>80</font>、物理ダメージが<font color='#00aaef'>21%</font>、DEXが<font color='#00aaef'>13.5%</font>増加する。\\nスキル習得時、<font color='#f06d45'>ゴールデンイーグル</font>使用不可\\n\\n<font color='#ffd400'>[追加効果]</font>\\nスキル習得時、<font color='#f06d45'>イーグルスピリット</font>が<font color='#f06d45'>フェニックススピリット</font>に強化される。\\n\\n<font color='#00aaef'></font><i><font color='#aaaaaa'>「知ってる？ゴールデンイーグルが伝説の神獣フェニックスになるって噂！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-グリーンフッド自警団の誰か</font></p><font color='#00aaef'></font>"
+ },
+ "10500271|9-JobChange_02-": {
+  "uiDescription": "ゴールデンイーグルがレンジャーと共にした経験と歳月をもとに、伝説の神獣フェニックスへと進化する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nクリティカル発生時、30秒間フェニックスを召喚する。\\nフェニックスの維持時間中、クリティカルヒットが<font color='#00aaef'>90</font>、物理ダメージが<font color='#00aaef'>23%</font>、DEXが<font color='#00aaef'>15%</font>増加する。\\nスキル習得時、<font color='#f06d45'>ゴールデンイーグル</font>使用不可\\n\\n<font color='#ffd400'>[追加効果]</font>\\nスキル習得時、<font color='#f06d45'>イーグルスピリット</font>が<font color='#f06d45'>フェニックススピリット</font>に強化される。\\n\\n<font color='#00aaef'></font><i><font color='#aaaaaa'>「知ってる？ゴールデンイーグルが伝説の神獣フェニックスになるって噂！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-グリーンフッド自警団の誰か</font></p><font color='#00aaef'></font>"
+ },
+ "10500271|10-JobChange_02-": {
+  "uiDescription": "ゴールデンイーグルがレンジャーと共にした経験と歳月をもとに、伝説の神獣フェニックスへと進化する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nクリティカル発生時、30秒間フェニックスを召喚する。\\nフェニックスの維持時間中、クリティカルヒットが<font color='#00aaef'>100</font>、物理ダメージが<font color='#00aaef'>25%</font>、DEXが<font color='#00aaef'>16.5%</font>増加する。\\nスキル習得時、<font color='#f06d45'>ゴールデンイーグル</font>使用不可\\n\\n<font color='#ffd400'>[追加効果]</font>\\nスキル習得時、<font color='#f06d45'>イーグルスピリット</font>が<font color='#f06d45'>フェニックススピリット</font>に強化される。\\n\\n<font color='#00aaef'></font><i><font color='#aaaaaa'>「知ってる？ゴールデンイーグルが伝説の神獣フェニックスになるって噂！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-グリーンフッド自警団の誰か</font></p><font color='#00aaef'></font>"
+ },
+ "10500271|11-JobChange_02-": {
+  "uiDescription": "ゴールデンイーグルがレンジャーと共にした経験と歳月をもとに、伝説の神獣フェニックスへと進化する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nクリティカル発生時、30秒間フェニックスを召喚する。\\nフェニックスの維持時間中、クリティカルヒットが<font color='#00aaef'>110</font>、物理ダメージが<font color='#00aaef'>27%</font>、DEXが<font color='#00aaef'>18%</font>増加する。\\nスキル習得時、<font color='#f06d45'>ゴールデンイーグル</font>使用不可\\n\\n<font color='#ffd400'>[追加効果]</font>\\nスキル習得時、<font color='#f06d45'>イーグルスピリット</font>が<font color='#f06d45'>フェニックススピリット</font>に強化される。\\n\\n<font color='#00aaef'></font><i><font color='#aaaaaa'>「知ってる？ゴールデンイーグルが伝説の神獣フェニックスになるって噂！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-グリーンフッド自警団の誰か</font></p><font color='#00aaef'></font>"
+ },
+ "10500271|12-JobChange_02-": {
+  "uiDescription": "ゴールデンイーグルがレンジャーと共にした経験と歳月をもとに、伝説の神獣フェニックスへと進化する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nクリティカル発生時、30秒間フェニックスを召喚する。\\nフェニックスの維持時間中、クリティカルヒットが<font color='#00aaef'>120</font>、物理ダメージが<font color='#00aaef'>29%</font>、DEXが<font color='#00aaef'>19.5%</font>増加する。\\nスキル習得時、<font color='#f06d45'>ゴールデンイーグル</font>使用不可\\n\\n<font color='#ffd400'>[追加効果]</font>\\nスキル習得時、<font color='#f06d45'>イーグルスピリット</font>が<font color='#f06d45'>フェニックススピリット</font>に強化される。\\n\\n<font color='#00aaef'></font><i><font color='#aaaaaa'>「知ってる？ゴールデンイーグルが伝説の神獣フェニックスになるって噂！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-グリーンフッド自警団の誰か</font></p><font color='#00aaef'></font>"
+ },
+ "10500281|1-JobChange_02-": {
+  "uiDescription": "敵を正確に狙い、鋭い一撃で致命的な攻撃を加える。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>990%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>1431%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>弱点看破</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>弱点看破</font>：10秒間、発動者が敵に攻撃を命中させると<font color='#00aaef'>456%</font>の追加ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「慎重に敵の動きを見て、たった一発を鋭く撃てたなら…それはもう単なる矢じゃないだろう？」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-ハスター</font></p>"
+ },
+ "10500281|2-JobChange_02-": {
+  "uiDescription": "敵を正確に狙い、鋭い一撃で致命的な攻撃を加える。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>1093%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>1585%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>弱点看破</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>弱点看破</font>：10秒間、発動者が敵に攻撃を命中させると<font color='#00aaef'>497%</font>の追加ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「慎重に敵の動きを見て、たった一発を鋭く撃てたなら…それはもう単なる矢じゃないだろう？」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-ハスター</font></p>"
+ },
+ "10500281|3-JobChange_02-": {
+  "uiDescription": "敵を正確に狙い、鋭い一撃で致命的な攻撃を加える。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>1196%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>1739%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>弱点看破</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>弱点看破</font>：10秒間、発動者が敵に攻撃を命中させると<font color='#00aaef'>538%</font>の追加ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「慎重に敵の動きを見て、たった一発を鋭く撃てたなら…それはもう単なる矢じゃないだろう？」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-ハスター</font></p>"
+ },
+ "10500281|4-JobChange_02-": {
+  "uiDescription": "敵を正確に狙い、鋭い一撃で致命的な攻撃を加える。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>1299%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>1893%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>弱点看破</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>弱点看破</font>：10秒間、発動者が敵に攻撃を命中させると<font color='#00aaef'>579%</font>の追加ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「慎重に敵の動きを見て、たった一発を鋭く撃てたなら…それはもう単なる矢じゃないだろう？」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-ハスター</font></p>"
+ },
+ "10500281|5-JobChange_02-": {
+  "uiDescription": "敵を正確に狙い、鋭い一撃で致命的な攻撃を加える。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>1402%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>2047%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>弱点看破</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>弱点看破</font>：10秒間、発動者が敵に攻撃を命中させると<font color='#00aaef'>620%</font>の追加ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「慎重に敵の動きを見て、たった一発を鋭く撃てたなら…それはもう単なる矢じゃないだろう？」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-ハスター</font></p>"
+ },
+ "10500281|6-JobChange_02-": {
+  "uiDescription": "敵を正確に狙い、鋭い一撃で致命的な攻撃を加える。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>1505%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>2201%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>弱点看破</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>弱点看破</font>：10秒間、発動者が敵に攻撃を命中させると<font color='#00aaef'>661%</font>の追加ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「慎重に敵の動きを見て、たった一発を鋭く撃てたなら…それはもう単なる矢じゃないだろう？」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-ハスター</font></p>"
+ },
+ "10500281|7-JobChange_02-": {
+  "uiDescription": "敵を正確に狙い、鋭い一撃で致命的な攻撃を加える。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>1608%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>2355%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>弱点看破</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>弱点看破</font>：10秒間、発動者が敵に攻撃を命中させると<font color='#00aaef'>702%</font>の追加ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「慎重に敵の動きを見て、たった一発を鋭く撃てたなら…それはもう単なる矢じゃないだろう？」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-ハスター</font></p>"
+ },
+ "10500281|8-JobChange_02-": {
+  "uiDescription": "敵を正確に狙い、鋭い一撃で致命的な攻撃を加える。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>1711%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>2509%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>弱点看破</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>弱点看破</font>：10秒間、発動者が敵に攻撃を命中させると<font color='#00aaef'>743%</font>の追加ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「慎重に敵の動きを見て、たった一発を鋭く撃てたなら…それはもう単なる矢じゃないだろう？」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-ハスター</font></p>"
+ },
+ "10500281|9-JobChange_02-": {
+  "uiDescription": "敵を正確に狙い、鋭い一撃で致命的な攻撃を加える。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>1814%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>2663%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>弱点看破</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>弱点看破</font>：10秒間、発動者が敵に攻撃を命中させると<font color='#00aaef'>784%</font>の追加ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「慎重に敵の動きを見て、たった一発を鋭く撃てたなら…それはもう単なる矢じゃないだろう？」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-ハスター</font></p>"
+ },
+ "10500281|10-JobChange_02-": {
+  "uiDescription": "敵を正確に狙い、鋭い一撃で致命的な攻撃を加える。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>1917%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>2817%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>弱点看破</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>弱点看破</font>：10秒間、発動者が敵に攻撃を命中させると<font color='#00aaef'>825%</font>の追加ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「慎重に敵の動きを見て、たった一発を鋭く撃てたなら…それはもう単なる矢じゃないだろう？」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-ハスター</font></p>"
+ },
+ "10500281|11-JobChange_02-": {
+  "uiDescription": "敵を正確に狙い、鋭い一撃で致命的な攻撃を加える。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>2020%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>2971%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>弱点看破</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>弱点看破</font>：10秒間、発動者が敵に攻撃を命中させると<font color='#00aaef'>866%</font>の追加ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「慎重に敵の動きを見て、たった一発を鋭く撃てたなら…それはもう単なる矢じゃないだろう？」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-ハスター</font></p>"
+ },
+ "10500281|12-JobChange_02-": {
+  "uiDescription": "敵を正確に狙い、鋭い一撃で致命的な攻撃を加える。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>2123%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で領域内に<font color='#00aaef'>3125%</font>の追加ダメージを与える。(1回)\\n命中した敵に<font color='#f06d45'>弱点看破</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>弱点看破</font>：10秒間、発動者が敵に攻撃を命中させると<font color='#00aaef'>907%</font>の追加ダメージを与える。\\n\\n<i><font color='#aaaaaa'>「慎重に敵の動きを見て、たった一発を鋭く撃てたなら…それはもう単なる矢じゃないだろう？」</font>\\n<font color='#00aaef'></font><p align=\"right\"><font color='#aaaaaa'>-ハスター</font></p>"
+ },
+ "10500291|1-JobChange_02-": {
+  "uiDescription": "キャプテンイーグルが隊長を務める特殊戦隊イーグルスクワッドを呼び出す。\\n\\n<font color='#ffd400'>[詳細]</font>\\n領域内の自分と<font color='#f06d45'>イーグルスクワッド</font>を習得したレンジャーに<font color='#f06d45'>キャプテンイーグル</font>効果が発動する。\\n領域内のパーティーメンバーに<font color='#f06d45'>イーグルスクワッド</font>効果が発動する。\\n<font color='#f06d45'>キャプテンイーグル</font>：40秒間、物理攻撃力が<font color='#00aaef'>16%</font>増加し、<font color='#f06d45'>強化イーグルグライド</font>が<font color='#f06d45'>キャプテングライド</font>に強化される。終了時、100秒間は同じ効果に免疫\\nスキル使用中に<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>イーグルスクワッド</font>：40秒間、物理攻撃力と魔法攻撃力が<font color='#00aaef'>2%</font>増加する。終了時、100秒間は同じ効果に免疫\\n\\n<i><font color='#aaaaaa'>「蒼空の守護者！無敵〜！イーグルスクワッド！今日もヘネシスを守る〜！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-ヘネシスの子供たちが歌う歌の一節より…</font></p>"
+ },
+ "10500291|2-JobChange_02-": {
+  "uiDescription": "キャプテンイーグルが隊長を務める特殊戦隊イーグルスクワッドを呼び出す。\\n\\n<font color='#ffd400'>[詳細]</font>\\n領域内の自分と<font color='#f06d45'>イーグルスクワッド</font>を習得したレンジャーに<font color='#f06d45'>キャプテンイーグル</font>効果が発動する。\\n領域内のパーティーメンバーに<font color='#f06d45'>イーグルスクワッド</font>効果が発動する。\\n<font color='#f06d45'>キャプテンイーグル</font>：40秒間、物理攻撃力が<font color='#00aaef'>22%</font>増加し、<font color='#f06d45'>強化イーグルグライド</font>が<font color='#f06d45'>キャプテングライド</font>に強化される。終了時、100秒間は同じ効果に免疫\\nスキル使用中に<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>イーグルスクワッド</font>：40秒間、物理攻撃力と魔法攻撃力が<font color='#00aaef'>4%</font>増加する。終了時、100秒間は同じ効果に免疫\\n\\n<i><font color='#aaaaaa'>「蒼空の守護者！無敵〜！イーグルスクワッド！今日もヘネシスを守る〜！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-ヘネシスの子供たちが歌う歌の一節より…</font></p>"
+ },
+ "10500291|3-JobChange_02-": {
+  "uiDescription": "キャプテンイーグルが隊長を務める特殊戦隊イーグルスクワッドを呼び出す。\\n\\n<font color='#ffd400'>[詳細]</font>\\n領域内の自分と<font color='#f06d45'>イーグルスクワッド</font>を習得したレンジャーに<font color='#f06d45'>キャプテンイーグル</font>効果が発動する。\\n領域内のパーティーメンバーに<font color='#f06d45'>イーグルスクワッド</font>効果が発動する。\\n<font color='#f06d45'>キャプテンイーグル</font>：40秒間、物理攻撃力が<font color='#00aaef'>28%</font>増加し、<font color='#f06d45'>強化イーグルグライド</font>が<font color='#f06d45'>キャプテングライド</font>に強化される。終了時、100秒間は同じ効果に免疫\\nスキル使用中に<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>イーグルスクワッド</font>：40秒間、物理攻撃力と魔法攻撃力が<font color='#00aaef'>6%</font>増加する。終了時、100秒間は同じ効果に免疫\\n\\n<i><font color='#aaaaaa'>「蒼空の守護者！無敵〜！イーグルスクワッド！今日もヘネシスを守る〜！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-ヘネシスの子供たちが歌う歌の一節より…</font></p>"
+ },
+ "10500291|4-JobChange_02-": {
+  "uiDescription": "キャプテンイーグルが隊長を務める特殊戦隊イーグルスクワッドを呼び出す。\\n\\n<font color='#ffd400'>[詳細]</font>\\n領域内の自分と<font color='#f06d45'>イーグルスクワッド</font>を習得したレンジャーに<font color='#f06d45'>キャプテンイーグル</font>効果が発動する。\\n領域内のパーティーメンバーに<font color='#f06d45'>イーグルスクワッド</font>効果が発動する。\\n<font color='#f06d45'>キャプテンイーグル</font>：40秒間、物理攻撃力が<font color='#00aaef'>34%</font>増加し、<font color='#f06d45'>強化イーグルグライド</font>が<font color='#f06d45'>キャプテングライド</font>に強化される。終了時、100秒間は同じ効果に免疫\\nスキル使用中に<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>イーグルスクワッド</font>：40秒間、物理攻撃力と魔法攻撃力が<font color='#00aaef'>8%</font>増加する。終了時、100秒間は同じ効果に免疫\\n\\n<i><font color='#aaaaaa'>「蒼空の守護者！無敵〜！イーグルスクワッド！今日もヘネシスを守る〜！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-ヘネシスの子供たちが歌う歌の一節より…</font></p>"
+ },
+ "10500291|5-JobChange_02-": {
+  "uiDescription": "キャプテンイーグルが隊長を務める特殊戦隊イーグルスクワッドを呼び出す。\\n\\n<font color='#ffd400'>[詳細]</font>\\n領域内の自分と<font color='#f06d45'>イーグルスクワッド</font>を習得したレンジャーに<font color='#f06d45'>キャプテンイーグル</font>効果が発動する。\\n領域内のパーティーメンバーに<font color='#f06d45'>イーグルスクワッド</font>効果が発動する。\\n<font color='#f06d45'>キャプテンイーグル</font>：40秒間、物理攻撃力が<font color='#00aaef'>40%</font>増加し、<font color='#f06d45'>強化イーグルグライド</font>が<font color='#f06d45'>キャプテングライド</font>に強化される。終了時、100秒間は同じ効果に免疫\\nスキル使用中に<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>イーグルスクワッド</font>：40秒間、物理攻撃力と魔法攻撃力が<font color='#00aaef'>10%</font>増加する。終了時、100秒間は同じ効果に免疫\\n\\n<i><font color='#aaaaaa'>「蒼空の守護者！無敵〜！イーグルスクワッド！今日もヘネシスを守る〜！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-ヘネシスの子供たちが歌う歌の一節より…</font></p>"
+ },
+ "10500291|6-JobChange_02-": {
+  "uiDescription": "キャプテンイーグルが隊長を務める特殊戦隊イーグルスクワッドを呼び出す。\\n\\n<font color='#ffd400'>[詳細]</font>\\n領域内の自分と<font color='#f06d45'>イーグルスクワッド</font>を習得したレンジャーに<font color='#f06d45'>キャプテンイーグル</font>効果が発動する。\\n領域内のパーティーメンバーに<font color='#f06d45'>イーグルスクワッド</font>効果が発動する。\\n<font color='#f06d45'>キャプテンイーグル</font>：40秒間、物理攻撃力が<font color='#00aaef'>46%</font>増加し、<font color='#f06d45'>強化イーグルグライド</font>が<font color='#f06d45'>キャプテングライド</font>に強化される。終了時、100秒間は同じ効果に免疫\\nスキル使用中に<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>イーグルスクワッド</font>：40秒間、物理攻撃力と魔法攻撃力が<font color='#00aaef'>12%</font>増加する。終了時、100秒間は同じ効果に免疫\\n\\n<i><font color='#aaaaaa'>「蒼空の守護者！無敵〜！イーグルスクワッド！今日もヘネシスを守る〜！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-ヘネシスの子供たちが歌う歌の一節より…</font></p>"
+ },
+ "10500291|7-JobChange_02-": {
+  "uiDescription": "キャプテンイーグルが隊長を務める特殊戦隊イーグルスクワッドを呼び出す。\\n\\n<font color='#ffd400'>[詳細]</font>\\n領域内の自分と<font color='#f06d45'>イーグルスクワッド</font>を習得したレンジャーに<font color='#f06d45'>キャプテンイーグル</font>効果が発動する。\\n領域内のパーティーメンバーに<font color='#f06d45'>イーグルスクワッド</font>効果が発動する。\\n<font color='#f06d45'>キャプテンイーグル</font>：40秒間、物理攻撃力が<font color='#00aaef'>52%</font>増加し、<font color='#f06d45'>強化イーグルグライド</font>が<font color='#f06d45'>キャプテングライド</font>に強化される。終了時、100秒間は同じ効果に免疫\\nスキル使用中に<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>イーグルスクワッド</font>：40秒間、物理攻撃力と魔法攻撃力が<font color='#00aaef'>14%</font>増加する。終了時、100秒間は同じ効果に免疫\\n\\n<i><font color='#aaaaaa'>「蒼空の守護者！無敵〜！イーグルスクワッド！今日もヘネシスを守る〜！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-ヘネシスの子供たちが歌う歌の一節より…</font></p>"
+ },
+ "10500291|8-JobChange_02-": {
+  "uiDescription": "キャプテンイーグルが隊長を務める特殊戦隊イーグルスクワッドを呼び出す。\\n\\n<font color='#ffd400'>[詳細]</font>\\n領域内の自分と<font color='#f06d45'>イーグルスクワッド</font>を習得したレンジャーに<font color='#f06d45'>キャプテンイーグル</font>効果が発動する。\\n領域内のパーティーメンバーに<font color='#f06d45'>イーグルスクワッド</font>効果が発動する。\\n<font color='#f06d45'>キャプテンイーグル</font>：40秒間、物理攻撃力が<font color='#00aaef'>58%</font>増加し、<font color='#f06d45'>強化イーグルグライド</font>が<font color='#f06d45'>キャプテングライド</font>に強化される。終了時、100秒間は同じ効果に免疫\\nスキル使用中に<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>イーグルスクワッド</font>：40秒間、物理攻撃力と魔法攻撃力が<font color='#00aaef'>16%</font>増加する。終了時、100秒間は同じ効果に免疫\\n\\n<i><font color='#aaaaaa'>「蒼空の守護者！無敵〜！イーグルスクワッド！今日もヘネシスを守る〜！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-ヘネシスの子供たちが歌う歌の一節より…</font></p>"
+ },
+ "10500291|9-JobChange_02-": {
+  "uiDescription": "キャプテンイーグルが隊長を務める特殊戦隊イーグルスクワッドを呼び出す。\\n\\n<font color='#ffd400'>[詳細]</font>\\n領域内の自分と<font color='#f06d45'>イーグルスクワッド</font>を習得したレンジャーに<font color='#f06d45'>キャプテンイーグル</font>効果が発動する。\\n領域内のパーティーメンバーに<font color='#f06d45'>イーグルスクワッド</font>効果が発動する。\\n<font color='#f06d45'>キャプテンイーグル</font>：40秒間、物理攻撃力が<font color='#00aaef'>64%</font>増加し、<font color='#f06d45'>強化イーグルグライド</font>が<font color='#f06d45'>キャプテングライド</font>に強化される。終了時、100秒間は同じ効果に免疫\\nスキル使用中に<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>イーグルスクワッド</font>：40秒間、物理攻撃力と魔法攻撃力が<font color='#00aaef'>18%</font>増加する。終了時、100秒間は同じ効果に免疫\\n\\n<i><font color='#aaaaaa'>「蒼空の守護者！無敵〜！イーグルスクワッド！今日もヘネシスを守る〜！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-ヘネシスの子供たちが歌う歌の一節より…</font></p>"
+ },
+ "10500291|10-JobChange_02-": {
+  "uiDescription": "キャプテンイーグルが隊長を務める特殊戦隊イーグルスクワッドを呼び出す。\\n\\n<font color='#ffd400'>[詳細]</font>\\n領域内の自分と<font color='#f06d45'>イーグルスクワッド</font>を習得したレンジャーに<font color='#f06d45'>キャプテンイーグル</font>効果が発動する。\\n領域内のパーティーメンバーに<font color='#f06d45'>イーグルスクワッド</font>効果が発動する。\\n<font color='#f06d45'>キャプテンイーグル</font>：40秒間、物理攻撃力が<font color='#00aaef'>70%</font>増加し、<font color='#f06d45'>強化イーグルグライド</font>が<font color='#f06d45'>キャプテングライド</font>に強化される。終了時、100秒間は同じ効果に免疫\\nスキル使用中に<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>イーグルスクワッド</font>：40秒間、物理攻撃力と魔法攻撃力が<font color='#00aaef'>20%</font>増加する。終了時、100秒間は同じ効果に免疫\\n\\n<i><font color='#aaaaaa'>「蒼空の守護者！無敵〜！イーグルスクワッド！今日もヘネシスを守る〜！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-ヘネシスの子供たちが歌う歌の一節より…</font></p>"
+ },
+ "10500291|11-JobChange_02-": {
+  "uiDescription": "キャプテンイーグルが隊長を務める特殊戦隊イーグルスクワッドを呼び出す。\\n\\n<font color='#ffd400'>[詳細]</font>\\n領域内の自分と<font color='#f06d45'>イーグルスクワッド</font>を習得したレンジャーに<font color='#f06d45'>キャプテンイーグル</font>効果が発動する。\\n領域内のパーティーメンバーに<font color='#f06d45'>イーグルスクワッド</font>効果が発動する。\\n<font color='#f06d45'>キャプテンイーグル</font>：40秒間、物理攻撃力が<font color='#00aaef'>76%</font>増加し、<font color='#f06d45'>強化イーグルグライド</font>が<font color='#f06d45'>キャプテングライド</font>に強化される。終了時、100秒間は同じ効果に免疫\\nスキル使用中に<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>イーグルスクワッド</font>：40秒間、物理攻撃力と魔法攻撃力が<font color='#00aaef'>22%</font>増加する。終了時、100秒間は同じ効果に免疫\\n\\n<i><font color='#aaaaaa'>「蒼空の守護者！無敵〜！イーグルスクワッド！今日もヘネシスを守る〜！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-ヘネシスの子供たちが歌う歌の一節より…</font></p>"
+ },
+ "10500291|12-JobChange_02-": {
+  "uiDescription": "キャプテンイーグルが隊長を務める特殊戦隊イーグルスクワッドを呼び出す。\\n\\n<font color='#ffd400'>[詳細]</font>\\n領域内の自分と<font color='#f06d45'>イーグルスクワッド</font>を習得したレンジャーに<font color='#f06d45'>キャプテンイーグル</font>効果が発動する。\\n領域内のパーティーメンバーに<font color='#f06d45'>イーグルスクワッド</font>効果が発動する。\\n<font color='#f06d45'>キャプテンイーグル</font>：40秒間、物理攻撃力が<font color='#00aaef'>82%</font>増加し、<font color='#f06d45'>強化イーグルグライド</font>が<font color='#f06d45'>キャプテングライド</font>に強化される。終了時、100秒間は同じ効果に免疫\\nスキル使用中に<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>イーグルスクワッド</font>：40秒間、物理攻撃力と魔法攻撃力が<font color='#00aaef'>24%</font>増加する。終了時、100秒間は同じ効果に免疫\\n\\n<i><font color='#aaaaaa'>「蒼空の守護者！無敵〜！イーグルスクワッド！今日もヘネシスを守る〜！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-ヘネシスの子供たちが歌う歌の一節より…</font></p>"
+ },
+ "10600051|*-CharacterBalance_01-KR": {
+  "uiDescription": "高性能手榴弾2個を前方に投げる。\n\n<font color='#ffd400'>[詳細]</font>\n爆発攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与える。<font color='#00aaef'>{1}%</font>の確率で<font color='#f06d45'>気絶</font>させる。\n爆発ダメージ半径<font color='#00aaef'>{2}m</font>\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>気絶</font>：1.5秒間、行動不可"
+ },
+ "10600071|*-CharacterBalance_01-KR": {
+  "uiDescription": "キャノンの弾倉を交換する。\n\n<font color='#ffd400'>[詳細]</font>\nSPを50回復する。(2回)\nEPを20回復する。"
+ },
+ "10600081|*-CharacterBalance_01-KR": {
+  "uiDescription": "ブーツに装着されたジェット機関で周辺にガスを噴出して衝撃波を発生させ、前方に素早く飛んでいく。\n\n<font color='#ffd400'>[詳細]</font>\n衝撃波攻撃が命中すると124%のダメージを与える。"
+ },
+ "10600261|*-JobChange_02-": {
+  "uiDescription": "強力な電気エネルギーを生成する装置、メスラコイルを設置し、感知した周囲の対象に誘導性の電気球体を発射する。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与える。\n10秒間作動する。\n\n<font color='#aaaaaa'><i>「科学の力を侮る者に未来はない。」</i></font>\n<font color='#aaaaaa'><p align='right'><i>- エーデルシュタイン工科学校長メカコーラ・メスラ</font></i></p>"
+ },
+ "10600271|*-JobChange_02-": {
+  "uiDescription": "簡易型フュージョンコア原子炉を携帯用に改良した装備を着用する。一般的なフュージョンコアより高い出力を誇り、プラズマ系スキルを強化する。\n\n<font color='#ffd400'>[詳細]</font>\n1秒ごとにSPを20回復する。\n10秒間作動する。\nプラズマチェーン、スカイハンター、ハイパーギガランチャー、メスラコイルのスキルダメージが<font color='#00aaef'>{0}%</font>増加する。\n即時発動可能\n\n<font color='#aaaaaa'><i>「携帯できるフュージョンコア原子炉？こんな天才的だけどイカれた発想だなんて、さすがマスターです！」</i></font>\n<font color='#aaaaaa'><p align='right'><i>- アイシャ</font></i></p>"
+ },
+ "10600281|1-JobChange_02-": {
+  "uiDescription": "多機能連動粘着爆弾を発射し、粘着した対象に付加的なダメージを与える。\n\n<font color='#ffd400'>[詳細]</font>\n<font color='#f06d45'>集中射撃、ファイアボンバー、デモリッションキャノン</font>スキルの追加効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>集中射撃</font>：攻撃が命中すると<font color='#00aaef'>42%</font>の追加ダメージを与える。\n<font color='#f06d45'>ファイアボンバー</font>：攻撃が命中すると火傷ダメージ効果が火炎放射効果に変更される。10秒間、0.5秒ごとに周囲の隣接した対象に<font color='#00aaef'>233%</font>の火炎ダメージを与える。\n<font color='#f06d45'>デモリッションキャノン</font>：攻撃が命中すると追加爆発が発生し、追加爆発の領域内の対象に<font color='#00aaef'>712%</font>のダメージを与える。(発動後、5秒間は再発動不可)"
+ },
+ "10600281|2-JobChange_02-": {
+  "uiDescription": "多機能連動粘着爆弾を発射し、粘着した対象に付加的なダメージを与える。\n\n<font color='#ffd400'>[詳細]</font>\n<font color='#f06d45'>集中射撃、ファイアボンバー、デモリッションキャノン</font>スキルの追加効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>集中射撃</font>：攻撃が命中すると<font color='#00aaef'>48%</font>の追加ダメージを与える。\n<font color='#f06d45'>ファイアボンバー</font>：攻撃が命中すると火傷ダメージ効果が火炎放射効果に変更される。10秒間、0.5秒ごとに周囲の隣接した対象に<font color='#00aaef'>260%</font>の火炎ダメージを与える。\n<font color='#f06d45'>デモリッションキャノン</font>：攻撃が命中すると追加爆発が発生し、追加爆発の領域内の対象に<font color='#00aaef'>753%</font>のダメージを与える。(発動後、5秒間は再発動不可)"
+ },
+ "10600281|3-JobChange_02-": {
+  "uiDescription": "多機能連動粘着爆弾を発射し、粘着した対象に付加的なダメージを与える。\n\n<font color='#ffd400'>[詳細]</font>\n<font color='#f06d45'>集中射撃、ファイアボンバー、デモリッションキャノン</font>スキルの追加効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>集中射撃</font>：攻撃が命中すると<font color='#00aaef'>54%</font>の追加ダメージを与える。\n<font color='#f06d45'>ファイアボンバー</font>：攻撃が命中すると火傷ダメージ効果が火炎放射効果に変更される。10秒間、0.5秒ごとに周囲の隣接した対象に<font color='#00aaef'>287%</font>の火炎ダメージを与える。\n<font color='#f06d45'>デモリッションキャノン</font>：攻撃が命中すると追加爆発が発生し、追加爆発の領域内の対象に<font color='#00aaef'>794%</font>のダメージを与える。(発動後、5秒間は再発動不可)"
+ },
+ "10600281|4-JobChange_02-": {
+  "uiDescription": "多機能連動粘着爆弾を発射し、粘着した対象に付加的なダメージを与える。\n\n<font color='#ffd400'>[詳細]</font>\n<font color='#f06d45'>集中射撃、ファイアボンバー、デモリッションキャノン</font>スキルの追加効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>集中射撃</font>：攻撃が命中すると<font color='#00aaef'>60%</font>の追加ダメージを与える。\n<font color='#f06d45'>ファイアボンバー</font>：攻撃が命中すると火傷ダメージ効果が火炎放射効果に変更される。10秒間、0.5秒ごとに周囲の隣接した対象に<font color='#00aaef'>314%</font>の火炎ダメージを与える。\n<font color='#f06d45'>デモリッションキャノン</font>：攻撃が命中すると追加爆発が発生し、追加爆発の領域内の対象に<font color='#00aaef'>835%</font>のダメージを与える。(発動後、5秒間は再発動不可)"
+ },
+ "10600281|5-JobChange_02-": {
+  "uiDescription": "多機能連動粘着爆弾を発射し、粘着した対象に付加的なダメージを与える。\n\n<font color='#ffd400'>[詳細]</font>\n<font color='#f06d45'>集中射撃、ファイアボンバー、デモリッションキャノン</font>スキルの追加効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>集中射撃</font>：攻撃が命中すると<font color='#00aaef'>66%</font>の追加ダメージを与える。\n<font color='#f06d45'>ファイアボンバー</font>：攻撃が命中すると火傷ダメージ効果が火炎放射効果に変更される。10秒間、0.5秒ごとに周囲の隣接した対象に<font color='#00aaef'>341%</font>の火炎ダメージを与える。\n<font color='#f06d45'>デモリッションキャノン</font>：攻撃が命中すると追加爆発が発生し、追加爆発の領域内の対象に<font color='#00aaef'>876%</font>のダメージを与える。(発動後、5秒間は再発動不可)"
+ },
+ "10600281|6-JobChange_02-": {
+  "uiDescription": "多機能連動粘着爆弾を発射し、粘着した対象に付加的なダメージを与える。\n\n<font color='#ffd400'>[詳細]</font>\n<font color='#f06d45'>集中射撃、ファイアボンバー、デモリッションキャノン</font>スキルの追加効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>集中射撃</font>：攻撃が命中すると<font color='#00aaef'>72%</font>の追加ダメージを与える。\n<font color='#f06d45'>ファイアボンバー</font>：攻撃が命中すると火傷ダメージ効果が火炎放射効果に変更される。10秒間、0.5秒ごとに周囲の隣接した対象に<font color='#00aaef'>368%</font>の火炎ダメージを与える。\n<font color='#f06d45'>デモリッションキャノン</font>：攻撃が命中すると追加爆発が発生し、追加爆発の領域内の対象に<font color='#00aaef'>917%</font>のダメージを与える。(発動後、5秒間は再発動不可)"
+ },
+ "10600281|7-JobChange_02-": {
+  "uiDescription": "多機能連動粘着爆弾を発射し、粘着した対象に付加的なダメージを与える。\n\n<font color='#ffd400'>[詳細]</font>\n<font color='#f06d45'>集中射撃、ファイアボンバー、デモリッションキャノン</font>スキルの追加効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>集中射撃</font>：攻撃が命中すると<font color='#00aaef'>78%</font>の追加ダメージを与える。\n<font color='#f06d45'>ファイアボンバー</font>：攻撃が命中すると火傷ダメージ効果が火炎放射効果に変更される。10秒間、0.5秒ごとに周囲の隣接した対象に<font color='#00aaef'>395%</font>の火炎ダメージを与える。\n<font color='#f06d45'>デモリッションキャノン</font>：攻撃が命中すると追加爆発が発生し、追加爆発の領域内の対象に<font color='#00aaef'>958%</font>のダメージを与える。(発動後、5秒間は再発動不可)"
+ },
+ "10600281|8-JobChange_02-": {
+  "uiDescription": "多機能連動粘着爆弾を発射し、粘着した対象に付加的なダメージを与える。\n\n<font color='#ffd400'>[詳細]</font>\n<font color='#f06d45'>集中射撃、ファイアボンバー、デモリッションキャノン</font>スキルの追加効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>集中射撃</font>：攻撃が命中すると<font color='#00aaef'>84%</font>の追加ダメージを与える。\n<font color='#f06d45'>ファイアボンバー</font>：攻撃が命中すると火傷ダメージ効果が火炎放射効果に変更される。10秒間、0.5秒ごとに周囲の隣接した対象に<font color='#00aaef'>422%</font>の火炎ダメージを与える。\n<font color='#f06d45'>デモリッションキャノン</font>：攻撃が命中すると追加爆発が発生し、追加爆発の領域内の対象に<font color='#00aaef'>999%</font>のダメージを与える。(発動後、5秒間は再発動不可)"
+ },
+ "10600281|9-JobChange_02-": {
+  "uiDescription": "多機能連動粘着爆弾を発射し、粘着した対象に付加的なダメージを与える。\n\n<font color='#ffd400'>[詳細]</font>\n<font color='#f06d45'>集中射撃、ファイアボンバー、デモリッションキャノン</font>スキルの追加効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>集中射撃</font>：攻撃が命中すると<font color='#00aaef'>90%</font>の追加ダメージを与える。\n<font color='#f06d45'>ファイアボンバー</font>：攻撃が命中すると火傷ダメージ効果が火炎放射効果に変更される。10秒間、0.5秒ごとに周囲の隣接した対象に<font color='#00aaef'>449%</font>の火炎ダメージを与える。\n<font color='#f06d45'>デモリッションキャノン</font>：攻撃が命中すると追加爆発が発生し、追加爆発の領域内の対象に<font color='#00aaef'>1040%</font>のダメージを与える。(発動後、5秒間は再発動不可)"
+ },
+ "10600281|10-JobChange_02-": {
+  "uiDescription": "多機能連動粘着爆弾を発射し、粘着した対象に付加的なダメージを与える。\n\n<font color='#ffd400'>[詳細]</font>\n<font color='#f06d45'>集中射撃、ファイアボンバー、デモリッションキャノン</font>スキルの追加効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>集中射撃</font>：攻撃が命中すると<font color='#00aaef'>96%</font>の追加ダメージを与える。\n<font color='#f06d45'>ファイアボンバー</font>：攻撃が命中すると火傷ダメージ効果が火炎放射効果に変更される。10秒間、0.5秒ごとに周囲の隣接した対象に<font color='#00aaef'>476%</font>の火炎ダメージを与える。\n<font color='#f06d45'>デモリッションキャノン</font>：攻撃が命中すると追加爆発が発生し、追加爆発の領域内の対象に<font color='#00aaef'>1081%</font>のダメージを与える。(発動後、5秒間は再発動不可)"
+ },
+ "10600281|11-JobChange_02-": {
+  "uiDescription": "多機能連動粘着爆弾を発射し、粘着した対象に付加的なダメージを与える。\n\n<font color='#ffd400'>[詳細]</font>\n<font color='#f06d45'>集中射撃、ファイアボンバー、デモリッションキャノン</font>スキルの追加効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>集中射撃</font>：攻撃が命中すると<font color='#00aaef'>102%</font>の追加ダメージを与える。\n<font color='#f06d45'>ファイアボンバー</font>：攻撃が命中すると火傷ダメージ効果が火炎放射効果に変更される。10秒間、0.5秒ごとに周囲の隣接した対象に<font color='#00aaef'>503%</font>の火炎ダメージを与える。\n<font color='#f06d45'>デモリッションキャノン</font>：攻撃が命中すると追加爆発が発生し、追加爆発の領域内の対象に<font color='#00aaef'>1122%</font>のダメージを与える。(発動後、5秒間は再発動不可)"
+ },
+ "10600281|12-JobChange_02-": {
+  "uiDescription": "多機能連動粘着爆弾を発射し、粘着した対象に付加的なダメージを与える。\n\n<font color='#ffd400'>[詳細]</font>\n<font color='#f06d45'>集中射撃、ファイアボンバー、デモリッションキャノン</font>スキルの追加効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>集中射撃</font>：攻撃が命中すると<font color='#00aaef'>108%</font>の追加ダメージを与える。\n<font color='#f06d45'>ファイアボンバー</font>：攻撃が命中すると火傷ダメージ効果が火炎放射効果に変更される。10秒間、0.5秒ごとに周囲の隣接した対象に<font color='#00aaef'>530%</font>の火炎ダメージを与える。\n<font color='#f06d45'>デモリッションキャノン</font>：攻撃が命中すると追加爆発が発生し、追加爆発の領域内の対象に<font color='#00aaef'>1163%</font>のダメージを与える。(発動後、5秒間は再発動不可)"
+ },
+ "10600291|*-JobChange_02-": {
+  "uiDescription": "濃縮毒性溶液が入ったブービートラップを前方に投げて設置する。設置されたブービートラップは20秒間維持され、周辺で対象を感知すると毒ガスを散布して解体される。\n\n<font color='#ffd400'>[詳細]</font>\n毒ガスにさらされると<font color='#f06d45'>中毒</font>状態になる。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>中毒</font>：10秒間、1秒ごとに<font color='#00aaef'>{0}%</font>の毒ダメージを与える。\n\n<font color='#aaaaaa'><i>「優れた爆発性能にもかかわらず、難解な活用法のせいで人々にそっぽを向かれた悲運の力作、ブービートラップ。果たして今回の改良版はどのような結果を見せるのか、その成り行きが注目される。」</font></i>\n<font color='#aaaaaa'><p align='right'><i>- 人気マガジン『エーデルタイムズ』の「今月の発明品」コーナーより抜粋</font></i></p>"
+ },
+ "10700002|*-JobChange_02-": {
+  "uiDescription": "致命的な猛毒を塗った短剣を両手に持ち、素早く交差させて敵を斬る。 \\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与える。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n攻撃が命中すると16%の確率で5秒間、邪悪状態が発動する。"
+ },
+ "10700016|*-CharacterBalance_01-KR": {
+  "uiDescription": "両手に装備した短剣に特殊な猛毒を塗って振り回す。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与える。<font color='#f06d45'>ポイズンブロー</font>効果が発動する。\\nキーを押し続けると連続攻撃し、連続攻撃時、5回目の攻撃は<font color='#00aaef'>{1}%</font>のダメージを与える。方向キーを押すと移動しながら攻撃できる。\\n<font color='#f06d45'>邪悪</font>解除\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ポイズンブロー</font>：1秒ごとに<font color='#00aaef'>{2}%</font>のダメージを与える。最大5回まで重複できる。"
+ },
+ "10700032|1-CharacterBalance_01-KR": {
+  "uiDescription": "両手に短剣を携えて体を素早く回転させて攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>41%、41%、56%</font>のダメージを与える。<font color='#f06d45'>ブレイドダンス</font>効果が発動する。\\n<font color='#f06d45'>邪悪</font>解除\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイドダンス</font>：対象の命中力を無視し、対象の攻撃を<font color='#00aaef'>81%</font>の確率で回避する。<font color='#f06d45'>報復</font>発動時、持続時間が<font color='#00aaef'>5%</font>増加する。\n"
+ },
+ "10700032|2-CharacterBalance_01-KR": {
+  "uiDescription": "両手に短剣を携えて体を素早く回転させて攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>44%、44%、59%</font>のダメージを与える。<font color='#f06d45'>ブレイドダンス</font>効果が発動する。\\n<font color='#f06d45'>邪悪</font>解除\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイドダンス</font>：対象の命中力を無視し、対象の攻撃を<font color='#00aaef'>83%</font>の確率で回避する。<font color='#f06d45'>報復</font>発動時、持続時間が<font color='#00aaef'>10%</font>増加する。\n"
+ },
+ "10700032|3-CharacterBalance_01-KR": {
+  "uiDescription": "両手に短剣を携えて体を素早く回転させて攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>47%、47%、62%</font>のダメージを与える。<font color='#f06d45'>ブレイドダンス</font>効果が発動する。\\n<font color='#f06d45'>邪悪</font>解除\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイドダンス</font>：対象の命中力を無視し、対象の攻撃を<font color='#00aaef'>85%</font>の確率で回避する。<font color='#f06d45'>報復</font>発動時、持続時間が<font color='#00aaef'>15%</font>増加する。\n"
+ },
+ "10700032|4-CharacterBalance_01-KR": {
+  "uiDescription": "両手に短剣を携えて体を素早く回転させて攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>50%、50%、65%</font>のダメージを与える。<font color='#f06d45'>ブレイドダンス</font>効果が発動する。\\n<font color='#f06d45'>邪悪</font>解除\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイドダンス</font>：対象の命中力を無視し、対象の攻撃を<font color='#00aaef'>87%</font>の確率で回避する。<font color='#f06d45'>報復</font>発動時、持続時間が<font color='#00aaef'>20%</font>増加する。\n"
+ },
+ "10700032|5-CharacterBalance_01-KR": {
+  "uiDescription": "両手に短剣を携えて体を素早く回転させて攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>53%、53%、68%</font>のダメージを与える。<font color='#f06d45'>ブレイドダンス</font>効果が発動する。\\n<font color='#f06d45'>邪悪</font>解除\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイドダンス</font>：対象の命中力を無視し、対象の攻撃を<font color='#00aaef'>89%</font>の確率で回避する。<font color='#f06d45'>報復</font>発動時、持続時間が<font color='#00aaef'>25%</font>増加する。\n"
+ },
+ "10700032|6-CharacterBalance_01-KR": {
+  "uiDescription": "両手に短剣を携えて体を素早く回転させて攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>56%、56%、71%</font>のダメージを与える。<font color='#f06d45'>ブレイドダンス</font>効果が発動する。\\n<font color='#f06d45'>邪悪</font>解除\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイドダンス</font>：対象の命中力を無視し、対象の攻撃を<font color='#00aaef'>91%</font>の確率で回避する。<font color='#f06d45'>報復</font>発動時、持続時間が<font color='#00aaef'>30%</font>増加する。\n"
+ },
+ "10700032|7-CharacterBalance_01-KR": {
+  "uiDescription": "両手に短剣を携えて体を素早く回転させて攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>59%、59%、74%</font>のダメージを与える。<font color='#f06d45'>ブレイドダンス</font>効果が発動する。\\n<font color='#f06d45'>邪悪</font>解除\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイドダンス</font>：対象の命中力を無視し、対象の攻撃を<font color='#00aaef'>93%</font>の確率で回避する。<font color='#f06d45'>報復</font>発動時、持続時間が<font color='#00aaef'>35%</font>増加する。\n"
+ },
+ "10700032|8-CharacterBalance_01-KR": {
+  "uiDescription": "両手に短剣を携えて体を素早く回転させて攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>62%、62%、77%</font>のダメージを与える。<font color='#f06d45'>ブレイドダンス</font>効果が発動する。\\n<font color='#f06d45'>邪悪</font>解除\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイドダンス</font>：対象の命中力を無視し、対象の攻撃を<font color='#00aaef'>95%</font>の確率で回避する。<font color='#f06d45'>報復</font>発動時、持続時間が<font color='#00aaef'>40%</font>増加する。\n"
+ },
+ "10700032|9-CharacterBalance_01-KR": {
+  "uiDescription": "両手に短剣を携えて体を素早く回転させて攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>65%、65%、80%</font>のダメージを与える。<font color='#f06d45'>ブレイドダンス</font>効果が発動する。\\n<font color='#f06d45'>邪悪</font>解除\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイドダンス</font>：対象の命中力を無視し、対象の攻撃を<font color='#00aaef'>97%</font>の確率で回避する。<font color='#f06d45'>報復</font>発動時、持続時間が<font color='#00aaef'>45%</font>増加する。\n"
+ },
+ "10700032|10-CharacterBalance_01-KR": {
+  "uiDescription": "両手に短剣を携えて体を素早く回転させて攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>68%、68%、83%</font>のダメージを与える。<font color='#f06d45'>ブレイドダンス</font>効果が発動する。\\n<font color='#f06d45'>邪悪</font>解除\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイドダンス</font>：対象の命中力を無視し、対象の攻撃を<font color='#00aaef'>99%</font>の確率で回避する。<font color='#f06d45'>報復</font>発動時、持続時間が<font color='#00aaef'>50%</font>増加する。\n"
+ },
+ "10700032|11-CharacterBalance_01-KR": {
+  "uiDescription": "両手に短剣を携えて体を素早く回転させて攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>71%、71%、86%</font>のダメージを与える。<font color='#f06d45'>ブレイドダンス</font>効果が発動する。\\n<font color='#f06d45'>邪悪</font>解除\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイドダンス</font>：対象の命中力を無視し、対象の攻撃を<font color='#00aaef'>99%</font>の確率で回避する。<font color='#f06d45'>報復</font>発動時、持続時間が<font color='#00aaef'>55%</font>増加する。\n"
+ },
+ "10700032|12-CharacterBalance_01-KR": {
+  "uiDescription": "両手に短剣を携えて体を素早く回転させて攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>74%、74%、89%</font>のダメージを与える。<font color='#f06d45'>ブレイドダンス</font>効果が発動する。\\n<font color='#f06d45'>邪悪</font>解除\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ブレイドダンス</font>：対象の命中力を無視し、対象の攻撃を<font color='#00aaef'>99%</font>の確率で回避する。<font color='#f06d45'>報復</font>発動時、持続時間が<font color='#00aaef'>60%</font>増加する。"
+ },
+ "10700162|*-CharacterBalance_01-KR": {
+  "uiDescription": "メルを利用して攻撃をガードし、武器を強化する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n使用すると<font color='#f06d45'>メルガードプラスEX</font>効果が発動する。\n<font color='#f06d45'>邪悪</font>解除\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>メルガードプラスEX</font>：12秒間持続、物理攻撃力が<font color='#00aaef'>{0}%</font>増加する。受けるダメージが<font color='#00aaef'>{1}%</font>減少する。"
+ },
+ "10700271|*-JobChange_02-": {
+  "uiDescription": "影のエネルギーが凝縮された短剣2本を右手で投げる。キーを連続で押すと左手で短剣を繰り返し投げる。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与え、<font color='#f06d45'>影の爆発</font>が発生する。\\n最大8回まで自動チャージされる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>影の爆発</font>：攻撃が命中すると周辺に<font color='#00aaef'>{1}%</font>の追加ダメージを与える。\\n戦闘モード状態で<font color='#f06d45'>影の追撃</font>に変換される。"
+ },
+ "10700273|*-JobChange_02-": {
+  "uiDescription": "前方に4m移動し、通過した範囲にいる敵を斬る。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを2回与え、2回目の攻撃はクリティカルで発動する。\\n最大8回まで自動チャージされる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n牽制モード状態で<font color='#f06d45'>追跡投擲</font>に変換される。"
+ },
+ "10700281|*-JobChange_02-": {
+  "uiDescription": "影の中に隠れて態勢を立て直した後、状況に応じて必要な能力を発揮する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nスキル使用中に回避が<font color='#00aaef'>{0}</font>増加し、<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n状態効果に応じて能力値が増加する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>牽制モード</font>：45秒間、移動速度が<font color='#00aaef'>{1}%</font>、攻撃速度が<font color='#00aaef'>{2}%</font>増加する。\\n<font color='#f06d45'>戦闘モード</font>：30秒間、物理攻撃力と魔法攻撃力が<font color='#00aaef'>{3}%</font>、物理抵抗力と魔法抵抗力が<font color='#00aaef'>{4}</font>増加する。\\n<font color='#f06d45'>邪悪状態</font>：60秒間、報復状態で武器攻撃力が<font color='#00aaef'>{5}%</font>、回避が<font color='#00aaef'>{6}</font>増加する。"
+ },
+ "10700291|*-JobChange_02-": {
+  "uiDescription": "攻撃速度を中心に戦闘能力を鍛える。\\n\\n<font color='#ffd400'>[詳細]</font>\\n基本攻撃速度を16%超えるごとに物理攻撃力が<font color='#00aaef'>{0}</font>、回避が<font color='#00aaef'>{1}</font>増加する。(最大3回まで増加)"
+ },
+ "10700301|*-JobChange_02-": {
+  "uiDescription": "致命的な猛毒を巧みにコントロールし、戦闘に活用する。 \\n\\n<font color='#ffd400'>[詳細]</font><font color='#f06d45'>\\n圧着ガラス瓶</font>の猛毒効果にかかった対象を攻撃すると一定確率で<font color='#f06d45'>猛毒爆発</font>が発生する。\\n<font color='#f06d45'>ダブルスタップ</font>が<font color='#f06d45'>ポイズンスタブ</font>に強化される。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>猛毒爆発</font>：一定範囲内に<font color='#00aaef'>{0}%</font>の毒爆発ダメージを与える。 \\n<font color='#f06d45'>猛毒爆発</font>効果と<font color='#f06d45'>弱肉強食</font>効果は重複して適用されない。"
+ },
+ "10800061|*-CharacterBalance_01-KR": {
+  "uiDescription": "闇の術で影分身を作り出しながら後方に回避する。影分身は少し後に爆発して周辺の敵にダメージを与え、移動速度を減少させる。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与える。\\n4秒間、一定の周期で<font color='#00aaef'>{1}%</font>の追加ダメージを与える。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n対象は4秒間、移動速度が<font color='#00aaef'>{2}%</font>減少する。\\n即時使用可能"
+ },
+ "10800081|*-CharacterBalance_01-KR": {
+  "uiDescription": "闇の術を使用してダメージを与え、対象に暗殺者の焼印を刻む。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると92%のダメージを与える。\\n攻撃が命中すると30秒間、<font color='#f06d45'>暗殺者の焼印</font>状態を付与する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>暗殺者の焼印</font>：0.1秒ごとに発動者のSPを1回復する。"
+ },
+ "10800229|*-JobChange_02-": {
+  "uiDescription": "前方に3段階にわたって暗殺者の陣を展開する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n1段階：<font color='#00aaef'>{0}%</font>\\n2段階：<font color='#00aaef'>{1}%</font>\\n3段階：<font color='#00aaef'>{2}%</font>\\n暗殺者の陣の持続時間10秒\\n敵に10秒間<font color='#f06d45'>刃の印</font>を生成する。\\n敵に0.5秒ごとに<font color='#f06d45'>暗殺者の印</font>を生成する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>刃の印</font>：命中が29減少する。攻撃を受けると一定確率で<font color='#00aaef'>{3}%</font>の追加ダメージを4回与える。\\n<font color='#f06d45'>暗殺者の印</font>：18回重複すると<font color='#00aaef'>{4}%</font>のダメージを与える。\\n<font color='#f06d45'>分身：ダークブレイダー</font>と同時に適用されない。\\n"
+ },
+ "10800261|*-JobChange_02-": {
+  "uiDescription": "改良された手裏剣を前方に両手で交互に投げる。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与える。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n攻撃が命中すると他の対象に弾く。(4回まで)"
+ },
+ "10800271|*-JobChange_02-": {
+  "uiDescription": "無数の手裏剣を投げる。手裏剣は少し後に強力な爆発を起こし、パニッシュメントと連鎖作用を起こす。この攻撃は右手に装備した武器の影響を受ける。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与える。\\n3回爆発し、爆発1回あたり<font color='#00aaef'>{1}%</font>のダメージを与える。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>パニッシュメント</font>がかかっている敵に爆発ダメージを与えると、パニッシュメントを破壊して<font color='#00aaef'>{2}%</font>の追加ダメージを与え、SPを40回復する。\\n\\n<i><font color='#aaaaaa'>「お前の才能…試させてもらおう。」\\n<p align=\"right\">-シャドウクロウ</p></i></font>"
+ },
+ "10800281|*-JobChange_02-": {
+  "uiDescription": "闇の術を投げる。使用すると自分は闇の力を集めて秘術を完成させ、攻撃を受けた敵は烙印が蓄積されて腐食する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与える。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n敵に3回命中すると<font color='#00aaef'>{1}%</font>の追加ダメージを与えた後、5秒間、物理抵抗力と魔法抵抗力が60減少する。\\n3回使用すると、5秒間、次に使用する<font color='#f06d45'>ダークスワンプ、暗殺者の陣、秘術：崩壊</font>が1回強化される。\\n<font color='#f06d45'>ダークスワンプ</font>：SPを消費せずに使用できる。\\n<font color='#f06d45'>暗殺者の陣</font>：陣を生成するたびに<font color='#00aaef'>{2}%、{3}%、{4}%</font>のダメージを与える。\\n<font color='#f06d45'>秘術：崩壊</font>：詠唱動作なしでスキルを発動する。\\n"
+ },
+ "10800291|*-JobChange_02-": {
+  "uiDescription": "闇の術を結んだ後、地面に闇の力を注入して敵の足元で爆発させる。\\n\\n<font color='#ffd400'>[詳細]</font>\\n5回攻撃し、命中するとそれぞれ<font color='#00aaef'>{0}%</font>のダメージを与える。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n\\n<i><font color='#aaaaaa'>「残酷な技だが、お前なら…その技で世界を救えるかもしれんな。」\\n<p align=\"right\">-ブラックアイ</p></font></i>"
+ },
+ "10800293|*-JobChange_02-": {
+  "uiDescription": "秘術を使用し、すぐに地面に闇の力を注入して敵の足元で爆発させる。\\n\\n<font color='#ffd400'>[詳細]</font>\\n5回攻撃し、命中するとそれぞれ<font color='#00aaef'>{0}%</font>のダメージを与える。\\n\\n<i><font color='#aaaaaa'>「残酷な技だが、お前なら…その技で世界を救えるかもしれんな。」\\n<p align=\"right\">-ブラックアイ</p></font></i>"
+ },
+ "10900001|*-CharacterBalance_01-KR": {
+  "uiDescription": "ルーン魔法を使用してブレイドに火炎属性を付与する。\n\n<font color='#ffd400'>[詳細]</font>\n火炎属性ダメージが<font color='#00aaef'>{0}%</font>増加する。\n属性変換スキルが火炎属性で発動する。"
+ },
+ "10900011|*-CharacterBalance_01-KR": {
+  "uiDescription": "ルーン魔法を使用してブレイドに冷気属性を付与する。\n\n<font color='#ffd400'>[詳細]</font>\n冷気属性ダメージが<font color='#00aaef'>{0}%</font>増加する。\n属性変換スキルが冷気属性で発動する。"
+ },
+ "10900021|*-CharacterBalance_01-KR": {
+  "uiDescription": "ルーン魔法を使用してブレイドに電撃属性を付与する。\n\n<font color='#ffd400'>[詳細]</font>\n電撃属性ダメージが<font color='#00aaef'>{0}%</font>増加する。\n属性変換スキルが電撃属性で発動する。"
+ },
+ "10900261|*-JobChange_02-": {
+  "uiDescription": "体内のすべてのエネルギーをブレイドに集中させて剣気を作り出し、敵を斬りつけながら吸収させる。吸収された剣気は敵の体内で爆発し、周囲にダメージ領域を生成する。\n\n<font color='#ffd400'>[詳細]</font>\n1段階：攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージ、剣気の爆発が命中すると<font color='#00aaef'>{1}%</font>のダメージを4回与える。\n2段階：攻撃が命中すると<font color='#00aaef'>{2}%</font>のダメージ、剣気の爆発が命中すると<font color='#00aaef'>{3}%</font>のダメージを4回与える。\n3段階：攻撃が命中すると<font color='#00aaef'>{4}%</font>のダメージ、剣気の爆発が命中すると<font color='#00aaef'>{5}%</font>のダメージを4回与える。\n方向キーを押すと前方に6m移動する。\n\n<font color='#aaaaaa'><i>「鋭く、それでいて美しい…良い剣気だ。慢心せず、さらに修練に励むがよい。」</font></i>\n<font color='#aaaaaa'><i><p align='right'>- イシュラ</font></i></p>"
+ },
+ "10900271|*-JobChange_02-": {
+  "uiDescription": "周囲の敵を感知し、半径6m以内に敵が存在する場合、体内のルーン魔力を利用して武器攻撃力を強化し、機動力を上昇させる。\n\n<font color='#ffd400'>[詳細]</font>\n敵を感知すると武器攻撃力が<font color='#00aaef'>{0}%</font>上昇する。\n敵を感知すると移動速度が<font color='#00aaef'>{1}%</font>上昇する。"
+ },
+ "10900281|1-JobChange_02-": {
+  "uiDescription": "魔力の流れに身を任せ、特定の属性を瞬間的に増幅させる。増幅された属性のドライブが同時に発動する。\n\n<font color='#ffd400'>[詳細]</font>\n火炎、冷気、電撃属性のうち、増幅された属性のダメージが<font color='#00aaef'>13%</font>増加する。\n\n<font color='#aaaaaa'><i>なんで術法に縛られるんだ？そんなに堅苦しくしないで、属性の流れに自然に身を任せてみなって！</font></i></p>\n<font color='#aaaaaa'><i><p align='right'>- レンデュビアン</font></i></p>"
+ },
+ "10900281|2-JobChange_02-": {
+  "uiDescription": "魔力の流れに身を任せ、特定の属性を瞬間的に増幅させる。増幅された属性のドライブが同時に発動する。\n\n<font color='#ffd400'>[詳細]</font>\n火炎、冷気、電撃属性のうち、増幅された属性のダメージが<font color='#00aaef'>21%</font>増加する。\n\n<font color='#aaaaaa'><i>なんで術法に縛られるんだ？そんなに堅苦しくしないで、属性の流れに自然に身を任せてみなって！</font></i></p>\n<font color='#aaaaaa'><i><p align='right'>- レンデュビアン</font></i></p>"
+ },
+ "10900281|3-JobChange_02-": {
+  "uiDescription": "魔力の流れに身を任せ、特定の属性を瞬間的に増幅させる。増幅された属性のドライブが同時に発動する。\n\n<font color='#ffd400'>[詳細]</font>\n火炎、冷気、電撃属性のうち、増幅された属性のダメージが<font color='#00aaef'>29%</font>増加する。\n\n<font color='#aaaaaa'><i>なんで術法に縛られるんだ？そんなに堅苦しくしないで、属性の流れに自然に身を任せてみなって！</font></i></p>\n<font color='#aaaaaa'><i><p align='right'>- レンデュビアン</font></i></p>"
+ },
+ "10900281|4-JobChange_02-": {
+  "uiDescription": "魔力の流れに身を任せ、特定の属性を瞬間的に増幅させる。増幅された属性のドライブが同時に発動する。\n\n<font color='#ffd400'>[詳細]</font>\n火炎、冷気、電撃属性のうち、増幅された属性のダメージが<font color='#00aaef'>37%</font>増加する。\n\n<font color='#aaaaaa'><i>なんで術法に縛られるんだ？そんなに堅苦しくしないで、属性の流れに自然に身を任せてみなって！</font></i></p>\n<font color='#aaaaaa'><i><p align='right'>- レンデュビアン</font></i></p>"
+ },
+ "10900281|5-JobChange_02-": {
+  "uiDescription": "魔力の流れに身を任せ、特定の属性を瞬間的に増幅させる。増幅された属性のドライブが同時に発動する。\n\n<font color='#ffd400'>[詳細]</font>\n火炎、冷気、電撃属性のうち、増幅された属性のダメージが<font color='#00aaef'>45%</font>増加する。\n\n<font color='#aaaaaa'><i>なんで術法に縛られるんだ？そんなに堅苦しくしないで、属性の流れに自然に身を任せてみなって！</font></i></p>\n<font color='#aaaaaa'><i><p align='right'>- レンデュビアン</font></i></p>"
+ },
+ "10900281|6-JobChange_02-": {
+  "uiDescription": "魔力の流れに身を任せ、特定の属性を瞬間的に増幅させる。増幅された属性のドライブが同時に発動する。\n\n<font color='#ffd400'>[詳細]</font>\n火炎、冷気、電撃属性のうち、増幅された属性のダメージが<font color='#00aaef'>53%</font>増加する。\n\n<font color='#aaaaaa'><i>なんで術法に縛られるんだ？そんなに堅苦しくしないで、属性の流れに自然に身を任せてみなって！</font></i></p>\n<font color='#aaaaaa'><i><p align='right'>- レンデュビアン</font></i></p>"
+ },
+ "10900281|7-JobChange_02-": {
+  "uiDescription": "魔力の流れに身を任せ、特定の属性を瞬間的に増幅させる。増幅された属性のドライブが同時に発動する。\n\n<font color='#ffd400'>[詳細]</font>\n火炎、冷気、電撃属性のうち、増幅された属性のダメージが<font color='#00aaef'>61%</font>増加する。\n\n<font color='#aaaaaa'><i>なんで術法に縛られるんだ？そんなに堅苦しくしないで、属性の流れに自然に身を任せてみなって！</font></i></p>\n<font color='#aaaaaa'><i><p align='right'>- レンデュビアン</font></i></p>"
+ },
+ "10900281|8-JobChange_02-": {
+  "uiDescription": "魔力の流れに身を任せ、特定の属性を瞬間的に増幅させる。増幅された属性のドライブが同時に発動する。\n\n<font color='#ffd400'>[詳細]</font>\n火炎、冷気、電撃属性のうち、増幅された属性のダメージが<font color='#00aaef'>69%</font>増加する。\n\n<font color='#aaaaaa'><i>なんで術法に縛られるんだ？そんなに堅苦しくしないで、属性の流れに自然に身を任せてみなって！</font></i></p>\n<font color='#aaaaaa'><i><p align='right'>- レンデュビアン</font></i></p>"
+ },
+ "10900281|9-JobChange_02-": {
+  "uiDescription": "魔力の流れに身を任せ、特定の属性を瞬間的に増幅させる。増幅された属性のドライブが同時に発動する。\n\n<font color='#ffd400'>[詳細]</font>\n火炎、冷気、電撃属性のうち、増幅された属性のダメージが<font color='#00aaef'>77%</font>増加する。\n\n<font color='#aaaaaa'><i>なんで術法に縛られるんだ？そんなに堅苦しくしないで、属性の流れに自然に身を任せてみなって！</font></i></p>\n<font color='#aaaaaa'><i><p align='right'>- レンデュビアン</font></i></p>"
+ },
+ "10900281|10-JobChange_02-": {
+  "uiDescription": "魔力の流れに身を任せ、特定の属性を瞬間的に増幅させる。増幅された属性のドライブが同時に発動する。\n\n<font color='#ffd400'>[詳細]</font>\n火炎、冷気、電撃属性のうち、増幅された属性のダメージが<font color='#00aaef'>85%</font>増加する。\n\n<font color='#aaaaaa'><i>なんで術法に縛られるんだ？そんなに堅苦しくしないで、属性の流れに自然に身を任せてみなって！</font></i></p>\n<font color='#aaaaaa'><i><p align='right'>- レンデュビアン</font></i></p>"
+ },
+ "10900281|11-JobChange_02-": {
+  "uiDescription": "魔力の流れに身を任せ、特定の属性を瞬間的に増幅させる。増幅された属性のドライブが同時に発動する。\n\n<font color='#ffd400'>[詳細]</font>\n火炎、冷気、電撃属性のうち、増幅された属性のダメージが<font color='#00aaef'>93%</font>増加する。\n\n<font color='#aaaaaa'><i>なんで術法に縛られるんだ？そんなに堅苦しくしないで、属性の流れに自然に身を任せてみなって！</font></i></p>\n<font color='#aaaaaa'><i><p align='right'>- レンデュビアン</font></i></p>"
+ },
+ "10900281|12-JobChange_02-": {
+  "uiDescription": "魔力の流れに身を任せ、特定の属性を瞬間的に増幅させる。増幅された属性のドライブが同時に発動する。\n\n<font color='#ffd400'>[詳細]</font>\n火炎、冷気、電撃属性のうち、増幅された属性のダメージが<font color='#00aaef'>101%</font>増加する。\n\n<font color='#aaaaaa'><i>なんで術法に縛られるんだ？そんなに堅苦しくしないで、属性の流れに自然に身を任せてみなって！</font></i></p>\n<font color='#aaaaaa'><i><p align='right'>- レンデュビアン</font></i></p>"
+ },
+ "10900291|1-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>992%</font>のダメージを与える。\nドライブスキル活性化時、属性変換の形で発動する。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900291|2-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1095%</font>のダメージを与える。\nドライブスキル活性化時、属性変換の形で発動する。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900291|3-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1198%</font>のダメージを与える。\nドライブスキル活性化時、属性変換の形で発動する。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900291|4-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1301%</font>のダメージを与える。\nドライブスキル活性化時、属性変換の形で発動する。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900291|5-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1404%</font>のダメージを与える。\nドライブスキル活性化時、属性変換の形で発動する。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900291|6-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1507%</font>のダメージを与える。\nドライブスキル活性化時、属性変換の形で発動する。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900291|7-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1610%</font>のダメージを与える。\nドライブスキル活性化時、属性変換の形で発動する。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900291|8-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1713%</font>のダメージを与える。\nドライブスキル活性化時、属性変換の形で発動する。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900291|9-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1816%</font>のダメージを与える。\nドライブスキル活性化時、属性変換の形で発動する。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900291|10-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1919%</font>のダメージを与える。\nドライブスキル活性化時、属性変換の形で発動する。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900291|11-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>2022%</font>のダメージを与える。\nドライブスキル活性化時、属性変換の形で発動する。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900291|12-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>2125%</font>のダメージを与える。\nドライブスキル活性化時、属性変換の形で発動する。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900292|1-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の火炎のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>992%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900292|2-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の火炎のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1095%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900292|3-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の火炎のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1198%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900292|4-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の火炎のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1301%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900292|5-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の火炎のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1404%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900292|6-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の火炎のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1507%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900292|7-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の火炎のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1610%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900292|8-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の火炎のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1713%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900292|9-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の火炎のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1816%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900292|10-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の火炎のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1919%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900292|11-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の火炎のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>2022%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900292|12-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の火炎のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>2125%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900293|1-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の冷気のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>992%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900293|2-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の冷気のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1095%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900293|3-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の冷気のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1198%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900293|4-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の冷気のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1301%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900293|5-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の冷気のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1404%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900293|6-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の冷気のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1507%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900293|7-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の冷気のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1610%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900293|8-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の冷気のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1713%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900293|9-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の冷気のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1816%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900293|10-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の冷気のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1919%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900293|11-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の冷気のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>2022%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900293|12-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の冷気のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>2125%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900294|1-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の電撃のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>992%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900294|2-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の電撃のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1095%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900294|3-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の電撃のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1198%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900294|4-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の電撃のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1301%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900294|5-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の電撃のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1404%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900294|6-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の電撃のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1507%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900294|7-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の電撃のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1610%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900294|8-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の電撃のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1713%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900294|9-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の電撃のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1816%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900294|10-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の電撃のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>1919%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900294|11-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の電撃のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>2022%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "10900294|12-JobChange_02-": {
+  "uiDescription": "ルーンの呪術で次元の門を開き、巨神の電撃のルーンの剣を召喚して敵に向けて放つ。\n\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>2125%</font>のダメージを与える。\n\n<font color='#aaaaaa'><i>「ルーンの継承者よ、その資格を証明するならば、我が力を許そう。」</i></font>\n<font color='#aaaaaa'><i><p align='right'>- ルーンの巨神ヌタマン</font></i></p>"
+ },
+ "11000012|1-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "体を回転させながらパンチを食らわし、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nスキル使用中に<font color='#f06d45'>スタンスチェンジ</font>を維持する。\\n2打攻撃中に方向キーを押すと移動可能\\n攻撃が命中すると<font color='#00aaef'>105%</font>のダメージを1回、追加で<font color='#00aaef'>109%</font>のダメージを与える。"
+ },
+ "11000012|2-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "体を回転させながらパンチを食らわし、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nスキル使用中に<font color='#f06d45'>スタンスチェンジ</font>を維持する。\\n2打攻撃中に方向キーを押すと移動可能\\n攻撃が命中すると<font color='#00aaef'>113%</font>のダメージ(1回)、追加で<font color='#00aaef'>117%</font>のダメージ(1回)を与える。"
+ },
+ "11000012|3-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "体を回転させながらパンチを食らわし、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nスキル使用中に<font color='#f06d45'>スタンスチェンジ</font>を維持する。\\n2打攻撃中に方向キーを押すと移動可能\\n攻撃が命中すると<font color='#00aaef'>121%</font>のダメージ(1回)、追加で<font color='#00aaef'>125%</font>のダメージ(1回)を与える。"
+ },
+ "11000012|4-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "体を回転させながらパンチを食らわし、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nスキル使用中に<font color='#f06d45'>スタンスチェンジ</font>を維持する。\\n2打攻撃中に方向キーを押すと移動可能\\n攻撃が命中すると<font color='#00aaef'>129%</font>のダメージ(1回)、追加で<font color='#00aaef'>133%</font>のダメージ(1回)を与える。"
+ },
+ "11000012|5-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "体を回転させながらパンチを食らわし、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nスキル使用中に<font color='#f06d45'>スタンスチェンジ</font>を維持する。\\n2打攻撃中に方向キーを押すと移動可能\\n攻撃が命中すると<font color='#00aaef'>137%</font>のダメージ(1回)、追加で<font color='#00aaef'>141%</font>のダメージ(1回)を与える。"
+ },
+ "11000012|6-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "体を回転させながらパンチを食らわし、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nスキル使用中に<font color='#f06d45'>スタンスチェンジ</font>を維持する。\\n2打攻撃中に方向キーを押すと移動可能\\n攻撃が命中すると<font color='#00aaef'>145%</font>のダメージ(1回)、追加で<font color='#00aaef'>149%</font>のダメージ(1回)を与える。"
+ },
+ "11000012|7-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "体を回転させながらパンチを食らわし、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nスキル使用中に<font color='#f06d45'>スタンスチェンジ</font>を維持する。\\n2打攻撃中に方向キーを押すと移動可能\\n攻撃が命中すると<font color='#00aaef'>153%</font>のダメージ(1回)、追加で<font color='#00aaef'>157%</font>のダメージ(1回)を与える。"
+ },
+ "11000012|8-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "体を回転させながらパンチを食らわし、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nスキル使用中に<font color='#f06d45'>スタンスチェンジ</font>を維持する。\\n2打攻撃中に方向キーを押すと移動可能\\n攻撃が命中すると<font color='#00aaef'>161%</font>のダメージ(1回)、追加で<font color='#00aaef'>165%</font>のダメージ(1回)を与える。"
+ },
+ "11000012|9-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "体を回転させながらパンチを食らわし、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nスキル使用中に<font color='#f06d45'>スタンスチェンジ</font>を維持する。\\n2打攻撃中に方向キーを押すと移動可能\\n攻撃が命中すると<font color='#00aaef'>169%</font>のダメージ(1回)、追加で<font color='#00aaef'>173%</font>のダメージ(1回)を与える。"
+ },
+ "11000012|10-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "体を回転させながらパンチを食らわし、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nスキル使用中に<font color='#f06d45'>スタンスチェンジ</font>を維持する。\\n2打攻撃中に方向キーを押すと移動可能\\n攻撃が命中すると<font color='#00aaef'>177%</font>のダメージ(1回)、追加で<font color='#00aaef'>181%</font>のダメージ(1回)を与える。"
+ },
+ "11000012|11-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "体を回転させながらパンチを食らわし、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nスキル使用中に<font color='#f06d45'>スタンスチェンジ</font>を維持する。\\n2打攻撃中に方向キーを押すと移動可能\\n攻撃が命中すると<font color='#00aaef'>185%</font>のダメージ(1回)、追加で<font color='#00aaef'>189%</font>のダメージ(1回)を与える。"
+ },
+ "11000012|12-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "体を回転させながらパンチを食らわし、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nスキル使用中に<font color='#f06d45'>スタンスチェンジ</font>を維持する。\\n2打攻撃中に方向キーを押すと移動可能\\n攻撃が命中すると<font color='#00aaef'>193%</font>のダメージを1回、追加で<font color='#00aaef'>197%</font>のダメージを1回与える。"
+ },
+ "11000031|1-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "下段、上段、中段キックを連続で繰り出し、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ライジングキックEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>71%</font>のダメージを与える。(3回)"
+ },
+ "11000031|2-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "下段、上段、中段キックを連続で繰り出し、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ライジングキックEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>76%</font>のダメージを与える。(3回)"
+ },
+ "11000031|12-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "下段、上段、中段キックを連続で繰り出し、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ライジングキックEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>126%</font>のダメージを与える。(3回)"
+ },
+ "11000031|10-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "下段、上段、中段キックを連続で繰り出し、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ライジングキックEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>116%</font>のダメージを与える。(3回)\\n"
+ },
+ "11000031|11-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "下段、上段、中段キックを連続で繰り出し、敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ライジングキックEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>121%</font>のダメージを与える。(3回)\\n"
+ },
+ "11000041|1-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "空中で左右連続キックを放って敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ギロチンEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>90%</font>のダメージを2回、<font color='#00aaef'>123%</font>のダメージを1回与える。"
+ },
+ "11000041|2-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "空中で火炎の力を込めた回転蹴りで敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ギロチンEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>97%</font>のダメージ(2回)、<font color='#00aaef'>132%</font>のダメージ(1回)を与える。"
+ },
+ "11000041|3-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "空中で火炎の力を込めた回転蹴りで敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ギロチンEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>104%</font>のダメージ(2回)、<font color='#00aaef'>141%</font>のダメージ(1回)を与える。"
+ },
+ "11000041|4-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "空中で火炎の力を込めた回転蹴りで敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ギロチンEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>111%</font>のダメージ(2回)、<font color='#00aaef'>150%</font>のダメージ(1回)を与える。"
+ },
+ "11000041|5-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "空中で火炎の力を込めた回転蹴りで敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ギロチンEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>118%</font>のダメージ(2回)、<font color='#00aaef'>159%</font>のダメージ(1回)を与える。"
+ },
+ "11000041|6-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "空中で火炎の力を込めた回転蹴りで敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ギロチンEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>125%</font>のダメージ(2回)、<font color='#00aaef'>168%</font>のダメージ(1回)を与える。"
+ },
+ "11000041|7-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "空中で火炎の力を込めた回転蹴りで敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ギロチンEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>132%</font>のダメージ(2回)、<font color='#00aaef'>177%</font>のダメージ(1回)を与える。"
+ },
+ "11000041|8-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "空中で火炎の力を込めた回転蹴りで敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ギロチンEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>139%</font>のダメージ(2回)、<font color='#00aaef'>186%</font>のダメージ(1回)を与える。"
+ },
+ "11000041|9-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "空中で火炎の力を込めた回転蹴りで敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ギロチンEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>146%</font>のダメージ(2回)、<font color='#00aaef'>195%</font>のダメージ(1回)を与える。"
+ },
+ "11000041|10-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "空中で火炎の力を込めた回転蹴りで敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ギロチンEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>153%</font>のダメージ(2回)、<font color='#00aaef'>204%</font>のダメージ(1回)を与える。"
+ },
+ "11000041|11-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "空中で火炎の力を込めた回転蹴りで敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ギロチンEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>160%</font>のダメージ(2回)、<font color='#00aaef'>213%</font>のダメージ(1回)を与える。"
+ },
+ "11000041|12-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "空中で火炎の力を込めた回転蹴りで敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#f06d45'>スタンスチェンジ</font>状態で<font color='#f06d45'>ギロチンEX</font>使用可能\\n攻撃が命中すると<font color='#00aaef'>167%</font>のダメージ(2回)、<font color='#00aaef'>222%</font>のダメージ(1回)を与える。"
+ },
+ "11000161|*-CharacterBalance_Striker_01-KR": {
+  "uiDescription": "集中力を引き上げ、敵の動きを看破する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n<font color='#00aaef'>{0}</font>秒間、命中が<font color='#00aaef'>{1}</font>増加する。\\n攻撃が命中すると敵の回避が3秒間4減少する。"
+ },
+ "11000265|*-JobChange_02-": {
+  "uiDescription": "体を素早く回転させ、その反動で敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを8回与える。\nキックチェンジスタンス状態の時にトルネードカッターEXを使用できる。\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n方向キーを押すと自由に移動できる。"
+ },
+ "11000266|*-JobChange_02-": {
+  "uiDescription": "トルネードカッターに火炎の力を応用し、爆発的な力で敵を圧倒する。\\n\\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを9回与える。\n敵に9回攻撃が命中すると<font color='#f06d45'>連続爆発</font>効果が発動する。\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>連続爆発</font>：<font color='#f06d45'>トルネードカッターEX</font>で9回フルヒットすると<font color='#00aaef'>{1}%</font>の追加ダメージを与える。"
+ },
+ "11000311|*-JobChange_02-": {
+  "uiDescription": "ストライカーの怪物じみた闘志で身体能力が強化され、限界を乗り越える。\\n\\n<font color='#ffd400'>[詳細]</font>\n<font color='#f06d45'>パンチ系</font>のダメージが<font color='#00aaef'>{0}%</font>増加する。\n<font color='#f06d45'>穴道開放</font>が<font color='#f06d45'>穴道開放EX</font>に永久強化される。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>パンチ系</font>：バルカンパンチ、バルカンパンチEX、フォールダウンスマッシュ、フォールダウンスマッシュEX、火龍昇天撃、ギガンティックブロー、ワンインチパンチEX\\n\\n<i><font color='#aaaaaa'>「すごい闘志だ…！倒れない強靭さ！ちっ…次は必ず雪辱してやる！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-鋭い拳</font></p>"
+ },
+ "11000312|*-JobChange_02-": {
+  "uiDescription": "修練の末に穴道開放の限界をもう一度超え、身体能力がさらに強化される。\\n\\n<font color='#ffd400'>[詳細]</font>\n<font color='#00aaef'>45</font>秒間、攻撃速度が<font color='#00aaef'>15%</font>、物理攻撃力が<font color='#00aaef'>{0}%</font>、物理抵抗力と魔法抵抗力が<font color='#00aaef'>150</font>増加する。\nSP回復力が1秒あたり<font color='#00aaef'>10</font>増加する。\nスキル発動中に再使用すると2段階を使用できる。\n自然終了時に<font color='#f06d45'>歪み</font>効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>歪み</font>：30秒間、穴道開放EX、穴道開放、闘魂、パターンブレイク、限界突破使用不可"
+ },
+ "11000313|*-JobChange_02-": {
+  "uiDescription": "修練の末に穴道開放の限界をもう一度超え、身体能力が最高の状態まで強化される。\\n\\n<font color='#ffd400'>[詳細]</font>\n<font color='#00aaef'>30</font>秒間、攻撃速度が<font color='#00aaef'>20%</font>、物理攻撃力が<font color='#00aaef'>{0}%</font>、物理抵抗力と魔法抵抗力が<font color='#00aaef'>225</font>増加する。\nSP回復力が1秒あたり<font color='#00aaef'>20</font>増加する。\nスキル発動中に再使用するとワンインチパンチEXを使用できる。\n自然終了時に<font color='#f06d45'>歪み</font>効果が発動する。\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\n\n<font color='#ffd400'>[追加効果]</font>\n<font color='#f06d45'>歪み</font>：40秒間、穴道開放EX、穴道開放、闘魂、パターンブレイク、限界突破使用不可"
+ },
+ "11000316|*-JobChange_02-": {
+  "uiDescription": "穴道開放EX状態で限界を超越し、さらに強化されたワンインチパンチを使用する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n穴道開放EX 2段階状態の時に使用できる。\\n攻撃が命中すると前方に<font color='#00aaef'>{0}%</font>のダメージを与え、<font color='#f06d45'>凝縮爆発EX</font>効果が発動する。\\n発動と同時に<font color='#f06d45'>穴道開放EX 2段階</font>が終了する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>凝縮爆発EX</font>：領域内の多数の敵に<font color='#00aaef'>{1}%</font>のダメージを与える。"
+ },
+ "11000321|*-JobChange_02-": {
+  "uiDescription": "バサラ・チェンが使っていた技をストライカー本来の技として吸収し、目の前の敵を焼き尽くす火炎の力で敵を圧倒する連打を加える。\\n\\n<font color='#ffd400'>[詳細]</font>\nキーを連続で押すと最大3回まで使用できる。\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを2回与える。方向キーを押すと3m移動する。\n追加でキーを押すと<font color='#00aaef'>{1}%</font>のダメージを2回与える。方向キーを押すと3m移動する。\n追加でキーを押すと<font color='#00aaef'>{2}%</font>のダメージを10回、<font color='#00aaef'>{3}%</font>のダメージを1回与える。\\n<font color='#f06d45'>スーパーアーマー</font>効果が発動する。\\n\\n<i><font color='#aaaaaa'>「連打というのはな…一発一発に重い闘志と殺意を込めて攻撃するものだ！相手を確実に打ち倒せるように…そう、こんなふうにな！！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-デュエルスクエアでバサラ・チェンと対決中…</font></p>"
+ },
+ "11000331|*-JobChange_02-": {
+  "uiDescription": "火炎の力を有効に使うため、スパイラルキャノンの構えを変形させ、さらに向上した攻撃を使えるようになる。\\n\\n<font color='#ffd400'>[詳細]</font>\n<font color='#f06d45'>スパイラルキャノン</font>が<font color='#f06d45'>トルネードカッター</font>に永久強化される。\nスキルレベルアップ時、<font color='#f06d45'>トルネードカッター</font>、<font color='#f06d45'>トルネードカッターEX</font>のダメージが<font color='#00aaef'>{0}%</font>増加する。\\n\\n<i><font color='#aaaaaa'>「それが新技？かっこいい！ネズミ花火みたい！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-カニングシティの路地裏の子供たちがトルネードカッターを見て…</font></p>"
+ },
+ "11000341|*-JobChange_02-": {
+  "uiDescription": "足に火炎のオーラを凝縮させ、蹴りの力だけで大地から火柱を引き出し、前方の敵を圧倒する。\\n\\n<font color='#ffd400'>[詳細]</font>\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを2回与える。\nさらに火柱を5本作り出し、火柱1本につき<font color='#00aaef'>{1}%</font>のダメージを与える。\\n\\n<i><font color='#aaaaaa'>「それほどの火炎の力を足に凝縮させて攻撃するとは…一段と成長したようだな…」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-デュエルスクエアでバサラ・チェンと対決中…</font></p>"
+ },
+ "11100062|*-JobChange_02-": {
+  "uiDescription": "マントラコアを扱う能力が上昇し、より強力で純粋なマントラコアを生成する。\\n\\n<font color='#ffd400'>[詳細]</font>\\nINTが40増加する。\\n2個まで生成できる。\\n使用すると<font color='#f06d45'>覚醒マントラコア</font>を生成し、SPが50回復する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>覚醒マントラコア</font>：使用すると<font color='#f06d45'>エクスパンションボール、スピリットクラッシュ、ソウルスクエア、ハーモニーオブソウル、スピリットバーン、ソウルクリスタル</font>が強化される。"
+ },
+ "11100202|*-JobChange_02-": {
+  "uiDescription": "ヴィジョンとの結束力を引き上げ、実体化させる。\\n\\n<font color='#ffd400'>[詳細]</font>\\n25秒間、魔法攻撃力が<font color='#00aaef'>{0}%</font>増加する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>スピリットクラッシュ</font>が<font color='#f06d45'>ヴィジョンスピリットクラッシュ</font>に強化される。\\n<font color='#f06d45'>フラッシュストライク</font>が<font color='#f06d45'>ヴィジョン波動</font>に強化される。\\n<font color='#f06d45'>スピリットバーン</font>が<font color='#f06d45'>ビジョンスピリットバーン</font>に強化される。"
+ },
+ "11100204|*-JobChange_02-": {
+  "uiDescription": "実体化したヴィジョンが前方の敵を殲滅する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与え、貫通効果が発動する。\\n消滅地点で<font color='#f06d45'>気の爆発</font>効果が発動する。\\nスキル使用時に<font color='#f06d45'>ヴィジョン激流</font>が即時終了する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>気の爆発</font>：攻撃が命中すると周辺に<font color='#00aaef'>{1}%</font>のダメージを10回与える。"
+ },
+ "11100244|1-JobChange_02-": {
+  "uiDescription": "体内の魂のエネルギーを陽の生命エネルギーに転換し、周辺の味方のHPを回復させる。\\n\\n<font color='#ffd400'>[詳細]</font>\\nキーを押し続けると持続使用できる。\\n使用中に移動可能\\n周辺の味方(5体)に1回あたり魔法攻撃力の<font color='#00aaef'>145%</font>分、HPを回復させる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>覚醒マントラコア</font>使用時に<font color='#f06d45'>ディソナンスオブソウル</font>を使用できる。"
+ },
+ "11100244|2-JobChange_02-": {
+  "uiDescription": "体内の魂のエネルギーを陽の生命エネルギーに転換し、周辺の味方のHPを回復させる。\\n\\n<font color='#ffd400'>[詳細]</font>\\nキーを押している間、発動する。\\n使用中に移動可能\\n周辺の味方(5体)に1回あたり魔法攻撃力の<font color='#00aaef'>157%</font>分、HPを回復させる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>覚醒マントラコア</font>使用時に<font color='#f06d45'>ディソナンスオブソウル</font>を使用できる。"
+ },
+ "11100244|3-JobChange_02-": {
+  "uiDescription": "体内の魂のエネルギーを陽の生命エネルギーに転換し、周辺の味方のHPを回復させる。\\n\\n<font color='#ffd400'>[詳細]</font>\\nキーを押している間、発動する。\\n使用中に移動可能\\n周辺の味方(5体)に1回あたり魔法攻撃力の<font color='#00aaef'>169%</font>分、HPを回復させる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>覚醒マントラコア</font>使用時に<font color='#f06d45'>ディソナンスオブソウル</font>を使用できる。"
+ },
+ "11100244|4-JobChange_02-": {
+  "uiDescription": "体内の魂のエネルギーを陽の生命エネルギーに転換し、周辺の味方のHPを回復させる。\\n\\n<font color='#ffd400'>[詳細]</font>\\nキーを押している間、発動する。\\n使用中に移動可能\\n周辺の味方(5体)に1回あたり魔法攻撃力の<font color='#00aaef'>181%</font>分、HPを回復させる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>覚醒マントラコア</font>使用時に<font color='#f06d45'>ディソナンスオブソウル</font>を使用できる。"
+ },
+ "11100244|5-JobChange_02-": {
+  "uiDescription": "体内の魂のエネルギーを陽の生命エネルギーに転換し、周辺の味方のHPを回復させる。\\n\\n<font color='#ffd400'>[詳細]</font>\\nキーを押している間、発動する。\\n使用中に移動可能\\n周辺の味方(5体)に1回あたり魔法攻撃力の<font color='#00aaef'>193%</font>分、HPを回復させる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>覚醒マントラコア</font>使用時に<font color='#f06d45'>ディソナンスオブソウル</font>を使用できる。"
+ },
+ "11100244|6-JobChange_02-": {
+  "uiDescription": "体内の魂のエネルギーを陽の生命エネルギーに転換し、周辺の味方のHPを回復させる。\\n\\n<font color='#ffd400'>[詳細]</font>\\nキーを押している間、発動する。\\n使用中に移動可能\\n周辺の味方(5体)に1回あたり魔法攻撃力の<font color='#00aaef'>205%</font>分、HPを回復させる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>覚醒マントラコア</font>使用時に<font color='#f06d45'>ディソナンスオブソウル</font>を使用できる。"
+ },
+ "11100244|7-JobChange_02-": {
+  "uiDescription": "体内の魂のエネルギーを陽の生命エネルギーに転換し、周辺の味方のHPを回復させる。\\n\\n<font color='#ffd400'>[詳細]</font>\\nキーを押している間、発動する。\\n使用中に移動可能\\n周辺の味方(5体)に1回あたり魔法攻撃力の<font color='#00aaef'>217%</font>分、HPを回復させる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>覚醒マントラコア</font>使用時に<font color='#f06d45'>ディソナンスオブソウル</font>を使用できる。"
+ },
+ "11100244|8-JobChange_02-": {
+  "uiDescription": "体内の魂のエネルギーを陽の生命エネルギーに転換し、周辺の味方のHPを回復させる。\\n\\n<font color='#ffd400'>[詳細]</font>\\nキーを押している間、発動する。\\n使用中に移動可能\\n周辺の味方(5体)に1回あたり魔法攻撃力の<font color='#00aaef'>229%</font>分、HPを回復させる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>覚醒マントラコア</font>使用時に<font color='#f06d45'>ディソナンスオブソウル</font>を使用できる。"
+ },
+ "11100244|9-JobChange_02-": {
+  "uiDescription": "体内の魂のエネルギーを陽の生命エネルギーに転換し、周辺の味方のHPを回復させる。\\n\\n<font color='#ffd400'>[詳細]</font>\\nキーを押している間、発動する。\\n使用中に移動可能\\n周辺の味方(5体)に1回あたり魔法攻撃力の<font color='#00aaef'>241%</font>分、HPを回復させる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>覚醒マントラコア</font>使用時に<font color='#f06d45'>ディソナンスオブソウル</font>を使用できる。"
+ },
+ "11100244|10-JobChange_02-": {
+  "uiDescription": "体内の魂のエネルギーを陽の生命エネルギーに転換し、周辺の味方のHPを回復させる。\\n\\n<font color='#ffd400'>[詳細]</font>\\nキーを押している間、発動する。\\n使用中に移動可能\\n周辺の味方(5体)に1回あたり魔法攻撃力の<font color='#00aaef'>253%</font>分、HPを回復させる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>覚醒マントラコア</font>使用時に<font color='#f06d45'>ディソナンスオブソウル</font>を使用できる。"
+ },
+ "11100244|11-JobChange_02-": {
+  "uiDescription": "体内の魂のエネルギーを陽の生命エネルギーに転換し、周辺の味方のHPを回復させる。\\n\\n<font color='#ffd400'>[詳細]</font>\\nキーを押している間、発動する。\\n使用中に移動可能\\n周辺の味方(5体)に1回あたり魔法攻撃力の<font color='#00aaef'>265%</font>分、HPを回復させる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>覚醒マントラコア</font>使用時に<font color='#f06d45'>ディソナンスオブソウル</font>を使用できる。"
+ },
+ "11100244|12-JobChange_02-": {
+  "uiDescription": "体内の魂のエネルギーを陽の生命エネルギーに転換し、周辺の味方のHPを回復させる。\\n\\n<font color='#ffd400'>[詳細]</font>\\nキーを押している間、発動する。\\n使用中に移動可能\\n周辺の味方(5体)に1回あたり魔法攻撃力の<font color='#00aaef'>277%</font>分、HPを回復させる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>覚醒マントラコア</font>使用時に<font color='#f06d45'>ディソナンスオブソウル</font>を使用できる。"
+ },
+ "11100261|*-JobChange_02-": {
+  "uiDescription": "体内のチャクラを実体化させて球の形にし、敵に向けて発射する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与える。\\n最大5個までチャージできる。\\n攻撃が命中すると2回弾く。\\nスピリットバーン終了時に<font color='#f06d45'>魂の消耗</font>効果が発動する。\\n<font color='#f06d45'>ヴィジョン増幅</font>効果が発動する。\\n他のスキルと同時に使用できる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>覚醒マントラコア</font>を1個消費すると5個の状態ですぐに使用できる。\\n<font color='#f06d45'>ヴィジョン激流</font>使用時に<font color='#f06d45'>ビジョンスピリットバーン</font>に強化される。\\n<font color='#f06d45'>魂の消耗</font>：10秒間、スピリットバーン再使用不可\\n<font color='#f06d45'>ヴィジョン増幅</font>：<font color='#f06d45'>ヴィジョン激流</font>活性化時に魔法ダメージが12%増加する。\\n\\n<i><font color='#aaaaaa'>「ガイダンスの攻撃方式を内なる力と組み合わせて新しい技を使うなんて、信じられない発想だ！」</font>\\n<font color='#ff5f5f'></font><p align=\"right\"><font color='#aaaaaa'>-ティンチャイ</font></p>"
+ },
+ "11100271|*-JobChange_02-": {
+  "uiDescription": "体内のチャクラを実体化させて球の形にし、敵に向けて発射する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与える。\\n最大5個までチャージできる。\\n攻撃が命中すると2回弾く。\\nスピリットバーン終了時に<font color='#f06d45'>魂の消耗</font>効果が発動する。\\n<font color='#f06d45'>ヴィジョン増幅</font>効果が発動する。\\n他のスキルと同時に使用できる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>覚醒マントラコア</font>を1個消費すると5個の状態ですぐに使用できる。\\n<font color='#f06d45'>ヴィジョン激流</font>使用時に<font color='#f06d45'>ビジョンスピリットバーン</font>に強化される。\\n<font color='#f06d45'>魂の消耗</font>：10秒間、スピリットバーン再使用不可\\n<font color='#f06d45'>ヴィジョン増幅</font>：<font color='#f06d45'>ヴィジョン激流</font>活性化時に魔法ダメージが12%増加する。\\n\\n<i><font color='#aaaaaa'>「ガイダンスの攻撃方式を内なる力と組み合わせて新しい技を使うなんて、信じられない発想だ！」</font>\\n<font color='#ff5f5f'></font><p align=\"right\"><font color='#aaaaaa'>-ティンチャイ</font></p>"
+ },
+ "11100281|*-JobChange_02-": {
+  "uiDescription": "体内のチャクラを実体化させて球の形にし、敵に向けて発射する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与える。\\n最大5個までチャージできる。\\n攻撃が命中すると2回弾く。\\nスピリットバーン終了時に<font color='#f06d45'>魂の消耗</font>効果が発動する。\\n<font color='#f06d45'>ヴィジョン増幅</font>効果が発動する。\\n他のスキルと同時に使用できる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>覚醒マントラコア</font>を1個消費すると5個の状態ですぐに使用できる。\\n<font color='#f06d45'>ヴィジョン激流</font>使用時に<font color='#f06d45'>ビジョンスピリットバーン</font>に強化される。\\n<font color='#f06d45'>魂の消耗</font>：10秒間、スピリットバーン再使用不可\\n<font color='#f06d45'>ヴィジョン増幅</font>：<font color='#f06d45'>ヴィジョン激流</font>活性化時に魔法ダメージが12%増加する。\\n\\n<i><font color='#aaaaaa'>「ガイダンスの攻撃方式を内なる力と組み合わせて新しい技を使うなんて、信じられない発想だ！」</font>\\n<font color='#ff5f5f'></font><p align=\"right\"><font color='#aaaaaa'>-ティンチャイ</font></p>"
+ },
+ "11100292|*-JobChange_02-": {
+  "uiDescription": "体内のチャクラとヴィジョンのエネルギーが融合し、新たなエネルギーの形となって敵を攻撃する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与える。\\n最大5個まで自動チャージされる。\\n攻撃が命中すると2回弾き、<font color='#f06d45'>スピリットエクスプロージョン</font>が発生する。\\n他のスキルと同時に使用できる。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>スピリットエクスプロージョン</font>：攻撃が命中すると周辺に<font color='#00aaef'>{1}%</font>の追加ダメージを与える。\\n<font color='#f06d45'>魂の消耗</font>：10秒間、スピリットバーン再使用不可<font color='#ff5f5f'></font>"
+ },
+ "11100301|*-JobChange_02-": {
+  "uiDescription": "ヴィジョンの精神エネルギーをすべて解放し、戦闘能力が向上する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n武器ダメージが<font color='#00aaef'>{0}%</font>増加する。\\n<font color='#f06d45'>覚醒マントラ解放</font>のクールタイムが4秒減少する。\\n\\n<font color='#00aaef'></font><font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ヴィジョン激流</font>使用時に<font color='#f06d45'>力の解放</font>を使用できる。\\n\\n<i><font color='#aaaaaa'>「僕が君と共にいられる時、初めて本当の力が発現するんだ…」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-ヴィジョン</font></p>"
+ },
+ "11100311|*-JobChange_02-": {
+  "uiDescription": "魂の結晶にナルバシャンのチャクラエネルギーを込めて敵に向けて発射する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n1段階：攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与える。\\n2段階：攻撃が命中すると<font color='#00aaef'>{1}%</font>のダメージを与え、貫通効果が追加される。\\n3段階：攻撃が命中すると<font color='#00aaef'>{2}%</font>のダメージを与え、貫通効果が追加される。消滅地点で<font color='#f06d45'>魂の渦</font>が発生する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>魂の渦</font>：攻撃が命中すると周辺に<font color='#00aaef'>{3}%</font>の追加ダメージを10回与え、攻撃を受けた敵に<font color='#f06d45'>ソウルブレイク</font>効果が発動する。\\n<font color='#f06d45'>ソウルブレイク</font>：20秒間、攻撃した対象のスキルの物理・魔法タイプに応じて<font color='#00aaef'>{4}%</font>の追加ダメージを与える。\\n<font color='#f06d45'>覚醒マントラ玉</font>を1個消費すると3段階をすぐに使用できる。\\n\\n<i><font color='#aaaaaa'>「我が力を使うだと…？笑わせる！ここから脱出した瞬間、まずは貴様から噛み砕いてやる！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-ナルバシャンのささやき</font></p>"
+ },
+ "11100315|*-JobChange_02-": {
+  "uiDescription": "魂の結晶にナルバシャンのチャクラエネルギーを込めて敵に向けて発射する。\\n\\n<font color='#ffd400'>[詳細]</font>\\n1段階：攻撃が命中すると<font color='#00aaef'>{0}%</font>のダメージを与える。\\n2段階：攻撃が命中すると<font color='#00aaef'>{1}%</font>のダメージを与え、貫通効果が追加される。\\n3段階：攻撃が命中すると<font color='#00aaef'>{2}%</font>のダメージを与え、貫通効果が追加される。消滅地点で<font color='#f06d45'>魂の渦</font>が発生する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>魂の渦</font>：攻撃が命中すると周辺に<font color='#00aaef'>{3}%</font>の追加ダメージを10回与え、攻撃を受けた敵に<font color='#f06d45'>ソウルブレイク</font>効果が発動する。\\n<font color='#f06d45'>ソウルブレイク</font>：20秒間、攻撃した対象のスキルの物理・魔法タイプに応じて<font color='#00aaef'>{4}%</font>の追加ダメージを与える。\\n<font color='#f06d45'>覚醒マントラ玉</font>を1個消費すると3段階をすぐに使用できる。\\n\\n<i><font color='#aaaaaa'>「我が力を使うだと…？笑わせる！ここから脱出した瞬間、まずは貴様から噛み砕いてやる！」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-ナルバシャンのささやき</font></p>"
+ },
+ "11100321|*-JobChange_02-": {
+  "uiDescription": "霊的エネルギーの完璧なハーモニーを成し遂げ、ソウルバインダーの能力が強化される。\\n\\n<font color='#ffd400'>[詳細]</font>\\n魔法攻撃力が<font color='#00aaef'>{0}</font>増加する。\\n<font color='#00aaef'></font><font color='#f06d45'>ハーモニーオブソウル強化</font>効果が発動する。\\n\\n<font color='#ffd400'>[追加効果]</font>\\n<font color='#f06d45'>ハーモニーオブソウル強化</font>：最大回復範囲と人数が増加し、移動しながら使用できる。\\n\\n<i><font color='#aaaaaa'>「いつまでも幼いと思っていたが、これで一安心だ。だが、油断は禁物だぞ。」</font>\\n<p align=\"right\"><font color='#aaaaaa'>-ジュンタ</font></p>"
+ },
+ "70003001|*-Kritias_2018_12-": {
+  "uiDescription": "このスキルでのみオブジェクトを破壊できます。"
+ },
+ "70003011|*-Kritias_2018_12-": {
+  "uiDescription": "このスキルでのみオブジェクトを破壊できます。"
+ },
+ "70003021|*-Kritias_2018_12-": {
+  "uiDescription": "このスキルでのみオブジェクトを破壊できます。"
+ },
+ "70003031|*-Kritias_2018_12-": {
+  "uiDescription": "このスキルでのみオブジェクトを破壊できます。"
+ },
+ "70003041|*-Kritias_2018_12-": {
+  "uiDescription": "このスキルでのみボスのシールドを破壊できます。"
+ },
+ "70003051|*-Kritias_2018_12-": {
+  "uiDescription": "このスキルでのみボスのシールドを破壊できます。"
+ },
+ "70003061|*-Kritias_2018_12-": {
+  "uiDescription": "このスキルでのみボスのシールドを破壊できます。"
+ },
+ "70003071|*-Kritias_2018_12-": {
+  "uiDescription": "このスキルでのみボスのシールドを破壊できます。"
+ },
+ "70003091|*-Fieldwar02-": {
+  "uiDescription": "強力なパンチを繰り出します。"
+ },
+ "70003101|*-Fieldwar02-": {
+  "uiDescription": "周囲に衝撃波を放ちます。"
+ },
+ "70003121|*-Fieldwar02-": {
+  "uiDescription": "機関銃で敵を攻撃します。"
+ },
+ "70003122|*-Fieldwar02-": {
+  "uiDescription": "ドリルを起動して突進します。"
+ },
+ "70003123|*-Fieldwar02-": {
+  "uiDescription": "強力なキャノンを発射します。"
+ },
+ "70003131|*-Fieldwar02-": {
+  "uiDescription": "支給されたポーションです。\\n即座にHPを1200回復させます。"
+ },
+ "90000949|*-Wedding-": {
+  "uiDescription": "結婚式を祝うための祝福のクラッカーで、アフターパーティー中に思う存分使用できる。"
+ },
+ "90000950|*-Wedding-": {
+  "uiDescription": "結婚式を祝うためのピンクの花びらクラッカーで、アフターパーティー中に思う存分使用できる。"
+ },
+ "90000951|*-Wedding-": {
+  "uiDescription": "結婚式を祝うためのハートクラッカーで、アフターパーティー中に思う存分使用できる。"
+ },
+ "90000952|*-Wedding-": {
+  "uiDescription": "結婚式を祝うためのきらりクラッカーで、アフターパーティー中に思う存分使用できる。"
+ },
+ "90001166|*-Wedding-": {
+  "uiDescription": "虹色のデンデンを投げて悪霊を退治できます。"
+ },
+ "90001179|*-Wedding-": {
+  "uiDescription": "虹色のデンデンを投げて悪霊を退治できます。"
+ },
+ "90001181|*-Wedding-": {
+  "uiDescription": "虹色のデンデンを投げて悪霊を退治できます。"
+ },
+ "90200109|*-WorldChampionMushroom-": {
+  "uiDescription": "マッシュキングの駕籠かきと一緒に踊ります。"
+ },
+ "90200121|*-Fishing02-": {
+  "uiDescription": "大きなサメの前でポーズをとります。"
+ },
+ "90200124|*-Kritias_2018_12-": {
+  "uiDescription": "メイソンがよくとるポーズをまねします。"
+ },
+ "90200146|*--": {
+  "uiDescription": "精神を集中して瞑想します。"
+ },
+ "90210001|*--CN": {
+  "uiDescription": "拍手をします。"
+ },
+ "90210002|*--CN": {
+  "uiDescription": "ライトスティックを振ります。"
+ },
+ "90220032|*-Wedding-": {
+  "uiDescription": "配偶者と一緒に「私たち結婚しました」アクションをとります。\\n<font color='#7A7A7A'>相手キャラクターの性別によって一部の動作が異なる場合があります。</font>"
+ },
+ "99910371|*-Kritias_2018_12-": {
+  "uiDescription": "魔力弾を連続で素早く発射します。"
+ },
+ "99910401|*-Gigantica01-": {
+  "uiDescription": "前方の対象をドリルで攻撃します。"
+ },
+ "99910402|*-Gigantica01-": {
+  "uiDescription": "突進して貫きます。"
+ },
+ "99910403|*-Gigantica01-": {
+  "uiDescription": "高くジャンプして叩きつけ、地震波を放ちます。\\nこの攻撃で強化されたギガンティカのバフを無力化できます。"
+ },
+ "99910501|*-Kritias_Turka01-": {
+  "uiDescription": "右手で強力なパンチを繰り出します。\\n移動キーを前に入力しながら使用すると、移動しながら攻撃できます。\\nアルケオンのオーバーパワーバフの数値を1減少させます。"
+ },
+ "99910502|*-Kritias_Turka01-": {
+  "uiDescription": "左手で強力なパンチを繰り出します。\\n移動キーを前に入力しながら使用すると、移動しながら攻撃できます。\\nアルケオンのオーバーパワーバフの数値を1減少させます。"
+ },
+ "99910503|*-Kritias_Turka01-": {
+  "uiDescription": "前方に強力なエネルギービームを発射します。\\nアルケオンのオーバーパワーバフの数値をダメージごとに2減少させます。"
+ },
+ "99910504|*-Kritias_Turka01-": {
+  "uiDescription": "気を集めて突進攻撃を繰り出します。\\nアルケオンのオーバーパワーバフの数値をダメージごとに2減少させます。"
+ },
+ "99910510|*-Kritias_Turka02-": {
+  "uiDescription": "右手で強力なパンチを繰り出します。\\n移動キーを前に入力しながら使用すると、移動しながら攻撃できます。"
+ },
+ "99911501|*-Kritias_Turka01-": {
+  "uiDescription": "右手で強力なパンチを繰り出します。\\n移動キーを前に入力しながら使用すると、移動しながら攻撃できます。"
+ },
+ "99910511|*-Kritias_Turka02-": {
+  "uiDescription": "左手で強力なパンチを繰り出します。\\n移動キーを前に入力しながら使用すると、移動しながら攻撃できます。"
+ },
+ "99911502|*-Kritias_Turka01-": {
+  "uiDescription": "左手で強力なパンチを繰り出します。\\n移動キーを前に入力しながら使用すると、移動しながら攻撃できます。"
+ },
+ "99910512|*-Kritias_Turka02-": {
+  "uiDescription": "前方に強力なエネルギービームを発射します。"
+ },
+ "99911503|*-Kritias_Turka01-": {
+  "uiDescription": "前方に強力なエネルギービームを発射します。"
+ },
+ "99910513|*-Kritias_Turka02-": {
+  "uiDescription": "気を集めて突進攻撃を繰り出します。"
+ },
+ "99911504|*-Kritias_Turka01-": {
+  "uiDescription": "気を集めて突進攻撃を繰り出します。"
+ }
+}

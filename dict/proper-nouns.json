@@ -366,6 +366,22 @@
       "ko": "비욘드 링크 센터",
       "source": "session",
       "note": "비욘드 링크=ビヨンドリンク(中黒なし)。mapname 52000039 ビヨンドリンク情報収集室"
+    },
+    "Ultra-sweet Banquet Hall": {
+      "ja": "ウルトラスイート宴会場",
+      "ko": "울트라스윗 연회장",
+      "source": "session (2026-11 resync)"
+    },
+    "Wedding Deck": {
+      "ja": "式典デッキ",
+      "ko": "예식갑판",
+      "source": "session (2026-11 resync)"
+    },
+    "Full Moon Mill": {
+      "ja": "満月製粉所",
+      "ko": "보름달 방앗간",
+      "source": "session (2026-11 resync)",
+      "note": "koritemdescription 既訳"
     }
   },
   "bosses_monsters": {
@@ -1599,6 +1615,30 @@
       "ko": "나메드",
       "source": "jms2 (npcname 11000039)",
       "note": "★既存エントリ Named の「ナメッド」は誤り。npcname 公式は「ナメッド」(祭司長)"
+    },
+    "Bastet": {
+      "ja": "バステト",
+      "ko": "바스테트",
+      "source": "session (2026-11 resync)",
+      "note": "天空要塞の探査衛星(scriptnpc)"
+    },
+    "Emilia": {
+      "ja": "エミリア",
+      "ko": "에밀리아",
+      "source": "session (2026-11 resync)",
+      "note": "クラウディアの母(scriptnpc)"
+    },
+    "Lari": {
+      "ja": "ラリ",
+      "ko": "라리",
+      "source": "session (2026-11 resync)",
+      "note": "ヨランの妖精(scriptnpc)"
+    },
+    "Mechacola Mesla": {
+      "ja": "メカコーラ・メスラ",
+      "ko": "메카콜라 메슬라",
+      "source": "session (2026-11 resync)",
+      "note": "エーデルシュタイン工科学校長(stringskilldescription)"
     }
   },
   "mascots_pets": {
@@ -1905,6 +1945,18 @@
       "ko": "인챈트 룬 / 안정화 룬",
       "source": "jms2 (itemname 20301558-69)",
       "note": "인챈트 주문서 は「エンチャント呪文書」。CN 强化符文/稳固符文 は文脈で使い分ける"
+    },
+    "Kritias Lapenshard Accessory Set": {
+      "ja": "クリティアシスラペンシャードアクセサリセット",
+      "ko": "크리티아스 라펜샤드 액세서리 세트",
+      "source": "session (2026-11 resync)",
+      "note": "★アクセサリ系列の既訳は「クリティアシス〜」(itemname)。地名はクリティアス"
+    },
+    "Time and Space Accessory Set": {
+      "ja": "時空の力アクセサリセット",
+      "ko": "시공의 힘 액세서리 세트",
+      "source": "session (2026-11 resync)",
+      "note": "セット名の「アクセサリ」は長音なし(既訳)"
     }
   },
   "organizations": {
@@ -2249,6 +2301,29 @@
       "ko": "-다미 / -융",
       "source": "jms2 (scriptquest 公式訳)",
       "note": "★語尾 -다미/-융/-냐미/-다미융 はすべて「〜ミー」に統一"
+    },
+    "Royal Knights (Tria)": {
+      "ja": "トライア騎士団員",
+      "ko": "트라이아 기사단원",
+      "source": "session (2026-11 resync)",
+      "note": "既訳トライア騎士団に準拠"
+    },
+    "Dark Dragons": {
+      "ja": "闇の竜族",
+      "ko": "어둠의 용족",
+      "source": "session (2026-11 resync)",
+      "note": "既訳「闇の竜」に準拠"
+    },
+    "Children of the Dragon": {
+      "ja": "竜の子どもたち",
+      "ko": "용의 아이들",
+      "source": "session (2026-11 resync)"
+    },
+    "Edel Times": {
+      "ja": "エーデルタイムズ",
+      "ko": "에델타임즈",
+      "source": "session (2026-11 resync)",
+      "note": "雑誌名。本文中は『』で囲む"
     }
   },
   "lore_notes": {

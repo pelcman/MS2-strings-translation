@@ -1,0 +1,3421 @@
+[
+ {
+  "id": "scriptnpc#0624",
+  "field": "name",
+  "ko": "나도 용의 흔적을 찾는 것에 뭔가 도움이 되고 싶은데, 너무 무서워서…",
+  "en": "I want to be of help tracking down traces of the dragons, but I'm just so anxious. I should've just stayed home.",
+  "npc": "둔바",
+  "npc_ja": "ドゥンバ"
+ },
+ {
+  "id": "scriptnpc#0625",
+  "field": "name",
+  "ko": "(분명 보탬이 될 수 있을 것이라고 말한다.)",
+  "en": "That's crazy! I'm sure your friends are glad to have you here.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0626",
+  "field": "name",
+  "ko": "그렇게 말해줘서 정말 고마워.\n나도 용기를 내볼게…!",
+  "en": "You really think so? Thanks... That means a lot. I'm sure I can muster up the courage to keep going.",
+  "npc": "둔바",
+  "npc_ja": "ドゥンバ"
+ },
+ {
+  "id": "scriptnpc#0627",
+  "field": "name",
+  "ko": "휴우…걱정이네.",
+  "en": "This won't do...",
+  "npc": "타라",
+  "npc_ja": "ターラ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0628",
+  "field": "name",
+  "ko": "앗! 너!!!\n그때 그렇게 헤어지고 어떻게 지내나 궁금했는데. 잘 지냈어?",
+  "en": "Ah! It's you! How have you been?",
+  "npc": "타라",
+  "npc_ja": "ターラ"
+ },
+ {
+  "id": "scriptnpc#0629",
+  "field": "name",
+  "ko": "(잘 지냈다고 말한다.)",
+  "en": "I'm doing pretty well, thanks.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0630",
+  "field": "name",
+  "ko": "듣던 중 반가운 소식이네.\n여긴 어쩐일이야?",
+  "en": "That's good to hear. So what brings you here?",
+  "npc": "타라",
+  "npc_ja": "ターラ"
+ },
+ {
+  "id": "scriptnpc#0631",
+  "field": "name",
+  "ko": "(조사할 것이 있다고 말한다.)",
+  "en": "I came here on an investigation.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0632",
+  "field": "name",
+  "ko": "그렇구나, 너도…하아.",
+  "en": "I see, you too... Sigh.",
+  "npc": "타라",
+  "npc_ja": "ターラ"
+ },
+ {
+  "id": "scriptnpc#0633",
+  "field": "name",
+  "ko": "우린 $npcName:11004319[gender:1]$$pp:가,이$ 과거 비셋님께 들었다던 <font color=\"#ffd200\">어둠의 용족</font>.\n그들에 대해 알아보고 있어.",
+  "en": "We're here researching the dark dragons that Biset used to talk about.",
+  "npc": "타라",
+  "npc_ja": "ターラ"
+ },
+ {
+  "id": "scriptnpc#0634",
+  "field": "name",
+  "ko": "(여긴 어떻게 올 수 있었냐고 묻는다.)",
+  "en": "How did you get here?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0635",
+  "field": "name",
+  "ko": "$npcName:11004319[gender:1]$$pp:가,이$ 가지고 있는 드래곤의 힘을 통해 올 수 있었어.\n루미에라곤의 세상에서 꽤 강력한 힘을 얻은 모양이더라고.",
+  "en": "$npcName:11004319[gender:1]$ brought us here with her dragon power. It seems she's come a long way.",
+  "npc": "타라",
+  "npc_ja": "ターラ"
+ },
+ {
+  "id": "scriptnpc#0636",
+  "field": "name",
+  "ko": "이것저것 흥미로운 일이 많은 곳인 것 같지만,\n$npcName:11004320[gender:0]$$pp:가,이$ 너무 겁에 질린 것 같아서 걱정이야.\n네가 위로의 말 좀 해줄래?",
+  "en": "So far this new land seems like an amazing place, but some of us are having a harder time adjusting than others. $npcName:11004320[gender:0]$'s not acting like himself. Do you think you could offer him some words of encouragement?",
+  "npc": "타라",
+  "npc_ja": "ターラ"
+ },
+ {
+  "id": "scriptnpc#0637",
+  "field": "name",
+  "ko": "고마워! 너만 믿을게!",
+  "en": "Thanks! I'm counting on you!",
+  "npc": "타라",
+  "npc_ja": "ターラ"
+ },
+ {
+  "id": "scriptnpc#0638",
+  "field": "name",
+  "ko": "흐으음?",
+  "en": "Hmm?",
+  "npc": "스타츠",
+  "npc_ja": "スターツ"
+ },
+ {
+  "id": "scriptnpc#0639",
+  "field": "name",
+  "ko": "(오랜만에 봐서 반갑다고 말한다.)",
+  "en": "Good to see you! It's been a while.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0640",
+  "field": "name",
+  "ko": "그것참 놀랍네.\n나는 하나도 반갑지가 않아서 말이야.",
+  "en": "Yeah, whatever.",
+  "npc": "스타츠",
+  "npc_ja": "スターツ"
+ },
+ {
+  "id": "scriptnpc#0641",
+  "field": "name",
+  "ko": "(…네게 반가운 게 있기는 한 거냐고 묻는다.)",
+  "en": "What are you doing here?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0642",
+  "field": "name",
+  "ko": "물론이지.\n$npcName:11004319[gender:1]$$pp:를,을$ 따라 이곳에서 용의 흔적을 찾는 도중 발견한…",
+  "en": "$npcName:11004319[gender:1]$ dragged us here to search for dark dragons.",
+  "npc": "스타츠",
+  "npc_ja": "スターツ"
+ },
+ {
+  "id": "scriptnpc#0643",
+  "field": "name",
+  "ko": "(뭔가 중요한 단서라도 찾은 거냐고 묻는다.)",
+  "en": "Really? Have you found anything?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0644",
+  "field": "name",
+  "ko": "<font size=\"40\">새로운 식자재들.</fond>",
+  "en": "I have actually. <b>New ingredients.</b>",
+  "npc": "스타츠",
+  "npc_ja": "スターツ"
+ },
+ {
+  "id": "scriptnpc#0645",
+  "field": "name",
+  "ko": "새로운 대륙인 만큼, 난생 처음 보는 식자재가 지천으로 널려있단 말씀이야!",
+  "en": "This place is littered with ingredients Maple World has never seen before!",
+  "npc": "스타츠",
+  "npc_ja": "スターツ"
+ },
+ {
+  "id": "scriptnpc#0646",
+  "field": "name",
+  "ko": "이번 신메뉴는 기대해도 좋아.\n꼭 한번 들르라고.",
+  "en": "When I integrate them into my menu, it'll blow people's minds. You should stop by my restaurant some time.",
+  "npc": "스타츠",
+  "npc_ja": "スターツ"
+ },
+ {
+  "id": "scriptnpc#0647",
+  "field": "name",
+  "ko": "여긴 무슨 일이야? \n혹시… 너도 날 데려가려고 찾아온 거야?",
+  "en": "What are you doing here? Have you come to try and convince me to go home too?",
+  "npc": "이브",
+  "npc_ja": "イヴ"
+ },
+ {
+  "id": "scriptnpc#0648",
+  "field": "name",
+  "ko": "(아니라고 말한다.)",
+  "en": "Nothing like that.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0649",
+  "field": "name",
+  "ko": "...정말이지?",
+  "en": "...Really?",
+  "npc": "이브",
+  "npc_ja": "イヴ"
+ },
+ {
+  "id": "scriptnpc#0650",
+  "field": "name",
+  "ko": "다른 사람 눈에도 그렇게 보이는구나.",
+  "en": "You're not the first person to say that.",
+  "npc": "이브",
+  "npc_ja": "イヴ"
+ },
+ {
+  "id": "scriptnpc#0651",
+  "field": "name",
+  "ko": "사실, $npcName:11000044[gender:0]$에게 들었던 이야기 중 신경 쓰이는 게 있었는데.\n이곳과 관련이 있지는 않을까 하는 생각에 오게 됐어.",
+  "en": "Something $npcName:11000044[gender:0]$ said was bothering me. I came here hoping to find answers.",
+  "npc": "이브",
+  "npc_ja": "イヴ"
+ },
+ {
+  "id": "scriptnpc#0652",
+  "field": "name",
+  "ko": "혼자 몰래 알아볼 생각이었는데… \n$npcName:11004324[gender:0]$$pp:가,이$ 어떻게 알았는지 금방 뒤쫓아 왔지 뭐야.",
+  "en": "Somehow $npcName:11004324[gender:0]$ figured out where I was going and came after me.",
+  "npc": "이브",
+  "npc_ja": "イヴ"
+ },
+ {
+  "id": "scriptnpc#0653",
+  "field": "name",
+  "ko": "옆에서 돌아가자며 툴툴대기만 할 거면서. 하아.",
+  "en": "All he's done since is nag, sigh.",
+  "npc": "이브",
+  "npc_ja": "イヴ"
+ },
+ {
+  "id": "scriptnpc#0654",
+  "field": "name",
+  "ko": "이번에야말로 $npcName:11000044[gender:0]$$pp:가,이$ 말했던 진실에 대해 꼭 알아내고 말 거야!",
+  "en": "I'm not going to let anyone stop me from finding out what $npcName:11000044[gender:0]$ told me was true.",
+  "npc": "이브",
+  "npc_ja": "イヴ"
+ },
+ {
+  "id": "scriptnpc#0655",
+  "field": "name",
+  "ko": "도대체 무슨 생각인건지…",
+  "en": "What is she thinking?!",
+  "npc": "레논",
+  "npc_ja": "レノン"
+ },
+ {
+  "id": "scriptnpc#0656",
+  "field": "name",
+  "ko": "$npcName:11004323[gender:1]$$pp:는,은$ 정말 막무가내라니까.",
+  "en": "Sigh. Once $npcName:11004323[gender:1]$ sets her mind to something, there's little hope of changing it.",
+  "npc": "레논",
+  "npc_ja": "レノン"
+ },
+ {
+  "id": "scriptnpc#0657",
+  "field": "name",
+  "ko": "(왜 그렇게 불안해하고 있냐고 묻는다.)",
+  "en": "What's the matter?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0658",
+  "field": "name",
+  "ko": "엇, 넌…\n너도 여기 있었구나?",
+  "en": "Oh, $MyPCName$. Fancy meeting you here.",
+  "npc": "레논",
+  "npc_ja": "レノン"
+ },
+ {
+  "id": "scriptnpc#0659",
+  "field": "name",
+  "ko": "얼마 전부터 $npcName:11004323[gender:1]$$pp:가,이$ 보이지 않아서 수소문하던 중에,\n혼자 이곳에 와있다는 걸 알게 됐지 뭐야.\n그래서 바로 뒤따라온 거지.",
+  "en": "After not seeing $npcName:11004323[gender:1]$ for a few days I got worried. I asked around and found out she came here all alone. So, I dropped everything and followed her here.",
+  "npc": "레논",
+  "npc_ja": "レノン"
+ },
+ {
+  "id": "scriptnpc#0660",
+  "field": "name",
+  "ko": "무슨 일이냐고 물어봐도 아무런 말도 해주지 않더라고.\n내가 그렇게 못 미더운 건지…",
+  "en": "I asked her what's going on, but she won't tell me anything. Maybe she doesn't think she can depend on me...",
+  "npc": "레논",
+  "npc_ja": "レノン"
+ },
+ {
+  "id": "scriptnpc#0661",
+  "field": "name",
+  "ko": "아무튼! 난 $npcName:11004323[gender:1]$$pp:가,이$ 여기 있는 건 반대야.\n너무 위험한 환경이라고!",
+  "en": "In any case, this is no place for her to be running off to alone! She needs to go home.",
+  "npc": "레논",
+  "npc_ja": "レノン"
+ },
+ {
+  "id": "scriptnpc#0662",
+  "field": "name",
+  "ko": "믿을 수가 없어.",
+  "en": "Breathtaking!",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#0663",
+  "field": "name",
+  "ko": "아아…아름다워.",
+  "en": "Ahh... It's too beautiful.",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#0664",
+  "field": "name",
+  "ko": "지금까지 잃어왔던 영감이 한 번에 회복 되는 기분이야.\n아름다운 오로라와 신비로운 동식물들…",
+  "en": "Can't you feel it? The stunning aurora in the sky... The alien wildlife... This place is filling me with creative energy!",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#0665",
+  "field": "name",
+  "ko": "바로 이거야. \n드디어 제대로 된 곡을 쓸 수 있겠어!",
+  "en": "I feel it brewing inside. I'm ready to write a smash hit song!",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#0666",
+  "field": "name",
+  "ko": "(지금까지 곡을 쓴 적은 없지 않냐고 묻는다.)",
+  "en": "Since when do you write your own songs?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0667",
+  "field": "name",
+  "ko": "지금까지의 나는 잊는 게 좋을 거야.\n오늘부로 나, $npcName:11004325[gender:0]$$pp:는,은$ 다시 태어나는 거라고!",
+  "en": "Forget the $npcName:11004325[gender:0]$ you used to know. From this day on, I'm reborn as a guy who totally writes his own songs!",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#0668",
+  "field": "name",
+  "ko": "앞으로의 나, 앞으로의 곡을 기대해줘!",
+  "en": "You just wait. The new and improved $npcName:11004325[gender:0]$ is going to take the world by storm!",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#0669",
+  "field": "name",
+  "ko": "이런 곳으로 발령이 날 줄이야.",
+  "en": "Never thought I'd wind up in a place like this...",
+  "npc": "매니저",
+  "npc_ja": "マネージャー"
+ },
+ {
+  "id": "scriptnpc#0670",
+  "field": "name",
+  "ko": "거기, 물러나세요.",
+  "en": "Keep your distance, chump!",
+  "npc": "매니저",
+  "npc_ja": "マネージャー"
+ },
+ {
+  "id": "scriptnpc#0671",
+  "field": "name",
+  "ko": "음? 스카이 포트리스 대원 중 한 분이셨군요.\n죄송합니다.",
+  "en": "Hold on. You're one of those Sky Fortress people. Sorry, I thought you were another stalker.",
+  "npc": "매니저",
+  "npc_ja": "マネージャー"
+ },
+ {
+  "id": "scriptnpc#0672",
+  "field": "name",
+  "ko": "(아이돌 $npcName:11004325[gender:0]$$pp:가,이$ 이곳에는 무슨 일이냐고 묻는다.)",
+  "en": "Why is $npcName:11004325[gender:0]$ here, anyway?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0673",
+  "field": "name",
+  "ko": "아, 그건… 잠시 귀 좀 빌려주시겠습니까?",
+  "en": "About that... Come closer, okay? I don't want to exactly shout this out.",
+  "npc": "매니저",
+  "npc_ja": "マネージャー"
+ },
+ {
+  "id": "scriptnpc#0674",
+  "field": "name",
+  "ko": "$npcName:11004325[gender:0]$ 씨의 인기가 이젠 좀 시들해져서 말이죠…\n솔직히 요즘 아이돌들은 다재다능한 게 대세이지 않습니까?",
+  "en": "$npcName:11004325[gender:0]$ isn't so popular these days. He's getting a little old for the gig, and there's lots of hot young talent in the idol game.",
+  "npc": "매니저",
+  "npc_ja": "マネージャー"
+ },
+ {
+  "id": "scriptnpc#0675",
+  "field": "name",
+  "ko": "그런데 우리 $npcName:11004325[gender:0]$ 씨는 작곡은 고사하고 작사도…크흠흠.",
+  "en": "Some stars are able to keep working into their old age. But these stars can compose and write their own songs. $npcName:11004325[gender:0]$ can't do neither.",
+  "npc": "매니저",
+  "npc_ja": "マネージャー"
+ },
+ {
+  "id": "scriptnpc#0676",
+  "field": "name",
+  "ko": "아무튼 그러던 때. 이 미지의 땅이 떠오른 것이죠.\n이 신비로운 땅에 $npcName:11004325[gender:0]$ 씨는 완전히 반해버렸어요.",
+  "en": "But my boy here heard about this strange new land and thought he might take a vacation to find his muse.",
+  "npc": "매니저",
+  "npc_ja": "マネージャー"
+ },
+ {
+  "id": "scriptnpc#0677",
+  "field": "name",
+  "ko": "이곳에서라면 영감을 받을 수 있다고 고집을 피우시는 바람에...\n팬클럽 회장님의 도움을 받아 스카이 포트리스에 탑승할 수 있었던 거랍니다.",
+  "en": "He wouldn't take no for an answer. Lucky for us, the president of his fan club has an in with Sky Fortress and we were able to hitch a ride.",
+  "npc": "매니저",
+  "npc_ja": "マネージャー"
+ },
+ {
+  "id": "scriptnpc#0678",
+  "field": "name",
+  "ko": "(팬클럽 회장이 누구냐고 묻는다.)",
+  "en": "Who's this fan club president?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0679",
+  "field": "name",
+  "ko": "그, 그건… 말씀드릴 수 없고요.\n스카이 포트리스의 교관님들 중 한 분이라고만 이야기 해두죠.",
+  "en": "I can't exactly say. Confidentiality, you see. But between you and me, she's pretty high up in the Sky Fortress food chain, if you catch my drift.",
+  "npc": "매니저",
+  "npc_ja": "マネージャー"
+ },
+ {
+  "id": "scriptnpc#0680",
+  "field": "name",
+  "ko": "확실히 이상해.\n이상한 느낌이 든다고.",
+  "en": "This place is... strange.",
+  "npc": "구르는 천둥",
+  "npc_ja": "ゴロゴロ雷"
+ },
+ {
+  "id": "scriptnpc#0681",
+  "field": "name",
+  "ko": "(네가 여기 있는 것이 더 의외라고 말한다.)",
+  "en": "I didn't expect to see you here.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0682",
+  "field": "name",
+  "ko": "뭐어? 하하.\n신대륙이 떠올랐다는 소식에 $map:02000051$의 대표로서 방문한 것뿐인걸.",
+  "en": "Hey! Didn't see you there. I'm here to represent $map:02000051$.",
+  "npc": "구르는 천둥",
+  "npc_ja": "ゴロゴロ雷"
+ },
+ {
+  "id": "scriptnpc#0683",
+  "field": "name",
+  "ko": "(정말 그 이유뿐이냐고 묻는다.)",
+  "en": "Couldn't you have sent a diplomat?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0684",
+  "field": "name",
+  "ko": "…넌 눈치 하나는 예전부터 빨랐다니까.",
+  "en": "...There were things I had to see for myself.",
+  "npc": "구르는 천둥",
+  "npc_ja": "ゴロゴロ雷"
+ },
+ {
+  "id": "scriptnpc#0685",
+  "field": "name",
+  "ko": "사실, 얼마 전 아버지가 꿈에 나타나셨거든.\n$map:02000051$에 위기가 닥칠지도 모른다는 이야길 하셨는데…",
+  "en": "My father appeared to me in a dream. He said that $map:02000051$ would soon face a grave danger...",
+  "npc": "구르는 천둥",
+  "npc_ja": "ゴロゴロ雷"
+ },
+ {
+  "id": "scriptnpc#0686",
+  "field": "name",
+  "ko": "그 꿈을 꾼 지 며칠 되지 않아서 이곳이 모습을 나타냈어.\n아무리 봐도 심상치 않아서 말이지.",
+  "en": "And then this place showed up. It couldn't be a coincidence, right?",
+  "npc": "구르는 천둥",
+  "npc_ja": "ゴロゴロ雷"
+ },
+ {
+  "id": "scriptnpc#0687",
+  "field": "name",
+  "ko": "$npcName:11004328[gender:1]$도 신경 쓰이는 게 있다고 하고…\n좀 더 알아보는 게 좋을 것 같아.",
+  "en": "More importantly, $npcName:11004328[gender:1]$ has a bad feeling about all this, and I trust her instincts.",
+  "npc": "구르는 천둥",
+  "npc_ja": "ゴロゴロ雷"
+ },
+ {
+  "id": "scriptnpc#0688",
+  "field": "name",
+  "ko": "이 울음소리들은 대체…",
+  "en": "I've never heard such a call...",
+  "npc": "티나",
+  "npc_ja": "ティナ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0689",
+  "field": "name",
+  "ko": "아, 너구나?",
+  "en": "Hey! Fancy meeting you there.",
+  "npc": "티나",
+  "npc_ja": "ティナ"
+ },
+ {
+  "id": "scriptnpc#0690",
+  "field": "name",
+  "ko": "저기, 나 뭔가 물어볼 게 있는데.\n혹시 너도 이 소리… 안 들리는 거니?",
+  "en": "Quick question. You hear that noise?",
+  "npc": "티나",
+  "npc_ja": "ティナ"
+ },
+ {
+  "id": "scriptnpc#0691",
+  "field": "name",
+  "ko": "(어떤 소리를 말하는 거냐고 묻는다.)",
+  "en": "What noise?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0692",
+  "field": "name",
+  "ko": "역시 안 들리는구나. \n하아…",
+  "en": "So, you can't hear it, either. That figures.",
+  "npc": "티나",
+  "npc_ja": "ティナ"
+ },
+ {
+  "id": "scriptnpc#0693",
+  "field": "name",
+  "ko": "얼마 전부터 알 수 없는 생명체의 울부짖음이 들려와서 말이야.\n굉장히 괴로워하고 있는 듯한… 처음 들어보는 울음소리가.",
+  "en": "I keep hearing this crying sound. It's like a hurt animal... but it's no animal I've ever seen.",
+  "npc": "티나",
+  "npc_ja": "ティナ"
+ },
+ {
+  "id": "scriptnpc#0694",
+  "field": "name",
+  "ko": "새로운 대륙이 떠올랐다는 사실을 듣고 $npcName:11004327[gender:0]$과 함께 부리나케 와보았는데…\n이곳의 몬스터에게 들리는 소리는 아니었어.",
+  "en": "$npcName:11004327[gender:0]$ and I are new to this land, but I'm sure the crying isn't from a monster.",
+  "npc": "티나",
+  "npc_ja": "ティナ"
+ },
+ {
+  "id": "scriptnpc#0695",
+  "field": "name",
+  "ko": "뭔가가 숨겨져 있는 걸까?\n아직 많은 것이 밝혀지지 않은 이 대륙에 말이야.",
+  "en": "What could it be? There are so many secrets here.",
+  "npc": "티나",
+  "npc_ja": "ティナ"
+ },
+ {
+  "id": "scriptnpc#0696",
+  "field": "name",
+  "ko": "오호…이런 원리란 말이지? 정말 흥미로워.",
+  "en": "I see... What a novel approach.",
+  "npc": "호르헤",
+  "npc_ja": "ホルヘ",
+  "n": 4
+ },
+ {
+  "id": "scriptnpc#0697",
+  "field": "name",
+  "ko": "(또 무슨 연구를 하고 있는 것이냐고 묻는다.)",
+  "en": "What are you working on there?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0698",
+  "field": "name",
+  "ko": "음? 무슨 연구냐니?\n그거야 물론, 이 대륙의 마법연구지!",
+  "en": "Hm? Oh, I'm doing research on the magic of this continent!",
+  "npc": "호르헤",
+  "npc_ja": "ホルヘ"
+ },
+ {
+  "id": "scriptnpc#0699",
+  "field": "name",
+  "ko": "새롭게 떠오른 신대륙에서 새로운 마법을 운용하고 있다는 소문은\n이미 $map:02000023$ 전체에 퍼져있다고.",
+  "en": "The rumors have already spread as far as $map:02000023$ that the people of this continent practice a form of magic we've never seen.",
+  "npc": "호르헤",
+  "npc_ja": "ホルヘ"
+ },
+ {
+  "id": "scriptnpc#0700",
+  "field": "name",
+  "ko": "이런 흥미로운 기회를 내가 놓칠 리 없잖아?",
+  "en": "There's no way that I would miss such a tantalizing opportunity for self-edification.",
+  "npc": "호르헤",
+  "npc_ja": "ホルヘ"
+ },
+ {
+  "id": "scriptnpc#0701",
+  "field": "name",
+  "ko": "두고 보라고.\n$map:02000023$ 역사에 기록될 획기적인 마법을 발견하고 말 테니까!",
+  "en": "Just you wait! I'm on the verge of a groundbreaking discovery, one for the history books!",
+  "npc": "호르헤",
+  "npc_ja": "ホルヘ"
+ },
+ {
+  "id": "scriptnpc#0702",
+  "field": "name",
+  "ko": "으응…?\n이런 곳에서까지 너랑 마주치는구나.",
+  "en": "$MyPCName$? It seems like I can't go anywhere without bumping into you.",
+  "npc": "케이틀린",
+  "npc_ja": "ケイトリン"
+ },
+ {
+  "id": "scriptnpc#0703",
+  "field": "name",
+  "ko": "새로운 마법을 쓰고 있다는 대륙이 있다고 해서 달려왔는데,\n난 별로 알아낸 게 없어.",
+  "en": "When I heard about the discovery of a new continent from somewhere else, I rushed over in order to study their unique magical practices. But I'm afraid I haven't learned much.",
+  "npc": "케이틀린",
+  "npc_ja": "ケイトリン"
+ },
+ {
+  "id": "scriptnpc#0704",
+  "field": "name",
+  "ko": "옆에 있는 $npcName:11004329[gender:0]$ 씨는 벌써 이것저것 연구하고 있는 것 같은데 말이야.",
+  "en": "It seems $npcName:11004329[gender:0]$ is, to the contrary, already deep into his research.",
+  "npc": "케이틀린",
+  "npc_ja": "ケイトリン"
+ },
+ {
+  "id": "scriptnpc#0705",
+  "field": "name",
+  "ko": "$npcName:11000032[gender:0]$ 선생님의 상태를 호전시킬 수 있을 만한…\n무언가를 찾을 수 있을 줄 알았는데.",
+  "en": "I was hoping to find something that would improve Professor $npcName:11000032[gender:0]$'s condition.",
+  "npc": "케이틀린",
+  "npc_ja": "ケイトリン"
+ },
+ {
+  "id": "scriptnpc#0706",
+  "field": "name",
+  "ko": "(분명 알아낼 수 있을 것이라고 말한다.)",
+  "en": "I believe in you.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0707",
+  "field": "name",
+  "ko": "크흠흠! 됐어!\n방해되니까 멀리 좀 가줄래?!\n나는 혼자서도 잘하는 엘리넬 최고 우등생이라구!",
+  "en": "Ahem! W-well I'm not going to make any progress sitting around talking to you! Excuse me.",
+  "npc": "케이틀린",
+  "npc_ja": "ケイトリン"
+ },
+ {
+  "id": "scriptnpc#0708",
+  "field": "name",
+  "ko": "마지막 용의 아이들이라고?!",
+  "en": "Those four... It can't be...",
+  "npc": "오르데",
+  "npc_ja": "オルデ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0709",
+  "field": "name",
+  "ko": "용의 아이들이라니…이게 꿈이야 생시야!",
+  "en": "Children of the dragon... here? Am I dreaming?",
+  "npc": "오르데",
+  "npc_ja": "オルデ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0710",
+  "field": "name",
+  "ko": "(어깨를 가볍게 툭툭 친다.)",
+  "en": "(Tap her gently on the shoulder.)",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0711",
+  "field": "name",
+  "ko": "으아앗!!! 깜짝이야!!!",
+  "en": "Ahh! Don't sneak up on a girl like that!",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#0712",
+  "field": "name",
+  "ko": "휴우, 너였구나? 별일이네~ 널 여기서 다 만나고.",
+  "en": "Oh, it's you. I didn't expect to run into you here.",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#0713",
+  "field": "name",
+  "ko": "그런데 나 지금 바쁘니까.\n나중에 다시 대화하면 안 될까?",
+  "en": "I'm busy right now. Can we talk later?",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#0714",
+  "field": "name",
+  "ko": "(무엇을 하고 있냐고 묻는다.)",
+  "en": "What are you doing?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0715",
+  "field": "name",
+  "ko": "그, 그건…크흠.\n이건 비밀인데.",
+  "en": "It's top-secret!",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#0716",
+  "field": "name",
+  "ko": "사실 지금 여기에... \n<font size=\"40\">마지막 루미에라곤이 보살피던 아이들이 와있다는 거 있지!!!</font>",
+  "en": "Actually, you'll never believe it. Those kids raised by the last dragon master? They're <b>here</b>!",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#0717",
+  "field": "name",
+  "ko": "그래서 $npcName:11004332[gender:1]$, 저 녀석을 따라 여기까지 온 거라고.\n사실인지 아닌지 긴가민가했는데… 진짜였지 뭐야!!!",
+  "en": "I heard the rumors. That's the only reason I was willing to come schlep all the way here with $npcName:11004332[gender:1]$. But it turns out they were true!",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#0718",
+  "field": "name",
+  "ko": "특히 저 금발 여자아이!\n뭔가 드래곤의 힘이 팍팍 느껴지는 것만 같아!!! 착각일까?!",
+  "en": "See that girl with the blonde hair, way over there? I can smell her dragon juju from here. Unless I'm imagining things...",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#0719",
+  "field": "name",
+  "ko": "가서 인터뷰 한 번만 해봤으면…\n아니 아니, 루미에라곤의 이야기를 1분이라도 좋으니 들려줬으면…!",
+  "en": "What I would give for an interview with them! Just to hear them talk about the lumarigons...",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#0720",
+  "field": "name",
+  "ko": "얘, 너!",
+  "en": "Hey, you!",
+  "npc": "라네모네",
+  "npc_ja": "ラネモネ"
+ },
+ {
+  "id": "scriptnpc#0721",
+  "field": "name",
+  "ko": "그래. 너.\n오랜만이다?",
+  "en": "Long time no see.",
+  "npc": "라네모네",
+  "npc_ja": "ラネモネ"
+ },
+ {
+  "id": "scriptnpc#0722",
+  "field": "name",
+  "ko": "혹시나 했는데... 진짜로 너도 이곳에 와있을 줄은 몰랐네.",
+  "en": "I wasn't expecting to run into you here.",
+  "npc": "라네모네",
+  "npc_ja": "ラネモネ"
+ },
+ {
+  "id": "scriptnpc#0723",
+  "field": "name",
+  "ko": "(여기는 무슨 일이냐고 묻는다.)",
+  "en": "What brings you here?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0724",
+  "field": "name",
+  "ko": "글쎄 말이지, $npcName:11004233[gender:0]$ 그 영감탱…크흠흠!\n$npcName:11004233[gender:0]$씨가 나를 파견 보냈지 뭐야.",
+  "en": "Well, that geezer—erm, Mr. $npcName:11004233[gender:0]$ sent me here.",
+  "npc": "라네모네",
+  "npc_ja": "ラネモネ"
+ },
+ {
+  "id": "scriptnpc#0725",
+  "field": "name",
+  "ko": "프론티어 재단도 뭔가 냄새를 맡은 거겠지.\n이 대륙에서 강력하게 느껴지는…",
+  "en": "The Frontier Foundation caught wind of something quite unexpected here on this continent that warranted investigation.",
+  "npc": "라네모네",
+  "npc_ja": "ラネモネ"
+ },
+ {
+  "id": "scriptnpc#0726",
+  "field": "name",
+  "ko": "라펜타의 힘에 대해서 말이야.",
+  "en": "Traces of lapenta energy!",
+  "npc": "라네모네",
+  "npc_ja": "ラネモネ"
+ },
+ {
+  "id": "scriptnpc#0727",
+  "field": "name",
+  "ko": "뭐, 그건 이미 너도 알고 있는 사실인가?\n오호호호~",
+  "en": "But I suppose you already knew that.",
+  "npc": "라네모네",
+  "npc_ja": "ラネモネ"
+ },
+ {
+  "id": "scriptnpc#0728",
+  "field": "name",
+  "ko": "바보를 하나 달고 와서 그런지 생각보다 긴장되지는 않네.\n너도 몸조심하라고.",
+  "en": "You should be careful. There's no telling what kinds of dangers lurk in this land.",
+  "npc": "라네모네",
+  "npc_ja": "ラネモネ"
+ },
+ {
+  "id": "scriptnpc#0729",
+  "field": "name",
+  "ko": "반가워. \n뭔가 오랜만이네.",
+  "en": "My friend. It is pleasant to see your face.",
+  "npc": "미엘",
+  "npc_ja": "ミエル"
+ },
+ {
+  "id": "scriptnpc#0730",
+  "field": "name",
+  "ko": "이곳…정말 아름다운 곳이지?",
+  "en": "This place is beautiful, is it not?",
+  "npc": "미엘",
+  "npc_ja": "ミエル"
+ },
+ {
+  "id": "scriptnpc#0731",
+  "field": "name",
+  "ko": "난생 처음 보는 듯한 하늘과 땅이지만… \n왠지 모르게 그리운 기분이 들어.",
+  "en": "I have never before walked such a land, under such a sky... and yet it strikes me as familiar, all the same.",
+  "npc": "미엘",
+  "npc_ja": "ミエル"
+ },
+ {
+  "id": "scriptnpc#0732",
+  "field": "name",
+  "ko": "드디어 내 존재에 대한 답을 얻을 수 있는 걸까?",
+  "en": "Perhaps I am drawing nearer to the answers I seek.",
+  "npc": "미엘",
+  "npc_ja": "ミエル"
+ },
+ {
+  "id": "scriptnpc#0733",
+  "field": "name",
+  "ko": "(꼭 알아낼 수 있을 것이라고 말한다.)",
+  "en": "I'm sure you are!",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0734",
+  "field": "name",
+  "ko": "고마워.\n뭔가 용기가 샘솟는 기분이야.",
+  "en": "Thank you. Your enthusiasm always lifts my spirits.",
+  "npc": "미엘",
+  "npc_ja": "ミエル"
+ },
+ {
+  "id": "scriptnpc#0735",
+  "field": "name",
+  "ko": "($npcName:11001431[gender:0]$$pp:는,은$ 어디있냐고 묻는다.)",
+  "en": "Is $npcName:11001431[gender:0]$ with you?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0736",
+  "field": "name",
+  "ko": "$npcName:11001431[gender:0]$에게 같이 와달라고 부탁했는데, 거절당했지 뭐야.\n$npcName:11001431[gender:0]$$pp:가,이$ 있었다면 좀 더 많은 걸 알아낼 수 있을지도 모르는데.",
+  "en": "I asked him to accompany me, but I fear our vulpine friend declined my invitation. Oh, what I might have learned if he was here to aid me...",
+  "npc": "미엘",
+  "npc_ja": "ミエル"
+ },
+ {
+  "id": "scriptnpc#0737",
+  "field": "name",
+  "ko": "난 $npcName:11001431[gender:0]$만큼 똑똑하지 않거든…",
+  "en": "A lack his cutting insight...",
+  "npc": "미엘",
+  "npc_ja": "ミエル"
+ },
+ {
+  "id": "scriptnpc#0738",
+  "field": "name",
+  "ko": "호오…",
+  "en": "Wow...",
+  "npc": "지그문트",
+  "npc_ja": "ジグムント"
+ },
+ {
+  "id": "scriptnpc#0739",
+  "field": "name",
+  "ko": "정말 알아낼수록 굉장한걸?",
+  "en": "This place has exceeded my every expectation.",
+  "npc": "지그문트",
+  "npc_ja": "ジグムント"
+ },
+ {
+  "id": "scriptnpc#0740",
+  "field": "name",
+  "ko": "마법과 과학이 공존하고 있는 대륙이 떠올랐다더니…\n그 말이 사실이었을 줄이야.\n역시 오래 살고 볼일이라니까?",
+  "en": "To think, we're standing in a land where magic has been made to serve technology. It's almost too good to be true!",
+  "npc": "지그문트",
+  "npc_ja": "ジグムント"
+ },
+ {
+  "id": "scriptnpc#0741",
+  "field": "name",
+  "ko": "톱니바퀴를 가동하고 있는 마법석이라니…흥미롭지 않을 수가 없잖아.",
+  "en": "See how these magic stones have been reduced to mere tools, like the cogwheel and the level?",
+  "npc": "지그문트",
+  "npc_ja": "ジグムント"
+ },
+ {
+  "id": "scriptnpc#0742",
+  "field": "name",
+  "ko": "이곳의 마법사와 과학자에 대해 자세히 조사해 보는 게 좋겠어.",
+  "en": "I must learn everything about this place...",
+  "npc": "지그문트",
+  "npc_ja": "ジグムント"
+ },
+ {
+  "id": "scriptnpc#0743",
+  "field": "name",
+  "ko": "그리고 우리 반마법 저항군의 기술력을 더욱 높이는 거야!",
+  "en": "Soon, the Resistance will dominate Maple World using the technology of Kritias!",
+  "npc": "지그문트",
+  "npc_ja": "ジグムント"
+ },
+ {
+  "id": "scriptnpc#0744",
+  "field": "name",
+  "ko": "믿을 수가 없는걸.",
+  "en": "Now, isn't this something?",
+  "npc": "헨리테",
+  "npc_ja": "ヘンリテ"
+ },
+ {
+  "id": "scriptnpc#0745",
+  "field": "name",
+  "ko": "정말 대단해… 믿을 수가 없군.",
+  "en": "I've gotta admit, I'm impressed.",
+  "npc": "헨리테",
+  "npc_ja": "ヘンリテ"
+ },
+ {
+  "id": "scriptnpc#0746",
+  "field": "name",
+  "ko": "우리와 완벽히 반대되는 대륙이 떠오르다니.\n이건 조사해보지 않는 게 이상할 정도야.",
+  "en": "This whole place is, like, the opposite of Maple World. No wonder the boss was so eager to check it out.",
+  "npc": "헨리테",
+  "npc_ja": "ヘンリテ"
+ },
+ {
+  "id": "scriptnpc#0747",
+  "field": "name",
+  "ko": "$npcName:11004334[gender:1]$의 말을 듣고는, 솔직히 말도 안 된다고 생각했는데 말이야…\n실제로 보니 놀라워.",
+  "en": "I didn't believe a word of it, of course. But $npcName:11004334[gender:1]$ insisted, and... Wow. Just wow.",
+  "npc": "헨리테",
+  "npc_ja": "ヘンリテ"
+ },
+ {
+  "id": "scriptnpc#0748",
+  "field": "name",
+  "ko": "$npcName:11003191[gender:0]$ 그 녀석이 이 광경을 직접 봤어야 하는 건데.",
+  "en": "$npcName:11003191[gender:0]$ doesn't know what he's missing!",
+  "npc": "헨리테",
+  "npc_ja": "ヘンリテ"
+ },
+ {
+  "id": "scriptnpc#0749",
+  "field": "name",
+  "ko": "에너지가 뿜어져 나오고 있어!",
+  "en": "These readings are off the chart!",
+  "npc": "아이샤",
+  "npc_ja": "アイシャ"
+ },
+ {
+  "id": "scriptnpc#0750",
+  "field": "name",
+  "ko": "정말 놀라워요!!!",
+  "en": "Is this for real?!",
+  "npc": "아이샤",
+  "npc_ja": "アイシャ"
+ },
+ {
+  "id": "scriptnpc#0751",
+  "field": "name",
+  "ko": "그거야 당연히 이 대륙의 기술력이죠!\n메이플 월드에서는 보지도 못했던 마법과 과학의 조합이라니…",
+  "en": "Nothing <i>happened.</i> It's just... this place! I've never seen magic and science mashed together like this!",
+  "npc": "아이샤",
+  "npc_ja": "アイシャ"
+ },
+ {
+  "id": "scriptnpc#0752",
+  "field": "name",
+  "ko": "특히 저 마법석을 연구할 생각에 벌써부터 심장이 두근대고 있어요.\n저 작은 돌조각 하나에서 나오는 에너지량은 대체…!",
+  "en": "I need to get my hands on some of this aetherine stuff. If my calculations are right, the energy content of each of these little stones is... Well, it's explosive!",
+  "npc": "아이샤",
+  "npc_ja": "アイシャ"
+ },
+ {
+  "id": "scriptnpc#0753",
+  "field": "name",
+  "ko": "이 대륙에 숨겨진 에너지가 얼마나 더 많을지 너무 기대돼요.",
+  "en": "This could totally change how we think about energy!",
+  "npc": "아이샤",
+  "npc_ja": "アイシャ"
+ },
+ {
+  "id": "scriptnpc#0754",
+  "field": "name",
+  "ko": "(새로운 에너지가 그렇게 좋냐고 묻는다.)",
+  "en": "A bit of an energy nut, aren't you?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0755",
+  "field": "name",
+  "ko": "물론이죠!\n새로운 코어의 발명이 이루어질지도 모른다고요!",
+  "en": "Why wouldn't I be? This gives me an idea for a new reactor design...",
+  "npc": "아이샤",
+  "npc_ja": "アイシャ"
+ },
+ {
+  "id": "scriptnpc#0756",
+  "field": "name",
+  "ko": "새로운 단서를 찾을 수 있도록 너도 기도해줘!",
+  "en": "Now I'm just waiting for my next big clue.",
+  "npc": "미카",
+  "npc_ja": "ミカ"
+ },
+ {
+  "id": "scriptnpc#0757",
+  "field": "name",
+  "ko": "어?!",
+  "en": "You—?!",
+  "npc": "아이샤",
+  "npc_ja": "アイシャ"
+ },
+ {
+  "id": "scriptnpc#0758",
+  "field": "name",
+  "ko": "$npcName:11004336[gender:1]$?!",
+  "en": "$npcName:11004336[gender:1]$?!",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0759",
+  "field": "name",
+  "ko": "쉿…!\n도청장치는 두고 왔지만, \n저쪽에 $npcName:11004334[gender:1]$ 일행이 있으니 목소리 좀 낮추세요.",
+  "en": "Keep your voice down, Boss! $npcName:11004334[gender:1]$ is right around the corner.",
+  "npc": "아이샤",
+  "npc_ja": "アイシャ"
+ },
+ {
+  "id": "scriptnpc#0760",
+  "field": "name",
+  "ko": "어떻게 된 거야? 여긴 어떻게, 왜 온거고?",
+  "en": "Is that why you're here? To spy on the Resistance?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0761",
+  "field": "name",
+  "ko": "새로운 에너지를 연구하고 오라는 $npcName:11000264[gender:0]$님의 명령으로 왔죠.\n…표면적으론 말이에요.",
+  "en": "No way! I'm here for critical research. At least, that's what I told $npcName:11000264[gender:0]$...",
+  "npc": "아이샤",
+  "npc_ja": "アイシャ"
+ },
+ {
+  "id": "scriptnpc#0762",
+  "field": "name",
+  "ko": "마스터, 뭔가 이상해요.\n얼마 전부터 반마법 저항군이 $npcName:11000264[gender:0]$님의 사무실에 들락거린다구요.",
+  "en": "Boss, there's something you need to know. I've spotted the Resistance going in and out of $npcName:11000264[gender:0]$'s office.",
+  "npc": "아이샤",
+  "npc_ja": "アイシャ"
+ },
+ {
+  "id": "scriptnpc#0763",
+  "field": "name",
+  "ko": "뭔가를 꾸미고 있는 것 같은데…\n마스터는 언제 돌아오실지 모르니 제가 이렇게 찾아왔죠!",
+  "en": "They're up to something. Since I didn't know when you'd come visit me again, I decided I'd check it out for myself!",
+  "npc": "아이샤",
+  "npc_ja": "アイシャ"
+ },
+ {
+  "id": "scriptnpc#0764",
+  "field": "name",
+  "ko": "$npcName:11004336[gender:1]$, 일단 여긴 위험하니까 돌아가는 게 좋…",
+  "en": "This place is way too dangerous for you. Let's get you ba—",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0765",
+  "field": "name",
+  "ko": "시, 싫어요.\n이곳에서 제가 연구할 게 얼마나 많은데요.",
+  "en": "Uh, heck no! Even if I lied to my fake boss, there really <i>is</i> a ton of stuff for me to research here.",
+  "npc": "아이샤",
+  "npc_ja": "アイシャ"
+ },
+ {
+  "id": "scriptnpc#0766",
+  "field": "name",
+  "ko": "반마법 저항군의 행태도 살펴야 한다구요.\n이 막중한 임무를 놔두고 돌아갈 수는 없습니다.",
+  "en": "Anyway, you're too busy to save the world <i>and</i> spy on the Resistance. You need my help!",
+  "npc": "아이샤",
+  "npc_ja": "アイシャ"
+ },
+ {
+  "id": "scriptnpc#0767",
+  "field": "name",
+  "ko": "…너… 혹시 특별수당이라도 받은 거냐?",
+  "en": "$npcName:11004336[gender:1]$... By any chance, do you... have a <b>huge travel budget</b>?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0768",
+  "field": "name",
+  "ko": "…무슨 말이라도 해줘, 아이샤.",
+  "en": "Say something, $npcName:11004336[gender:1]$.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0769",
+  "field": "name",
+  "ko": "(뭐가 그렇게 놀랍냐고 묻는다.)",
+  "en": "Huh? What happened?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0770",
+  "field": "name",
+  "ko": "마스터!!! \n드디어 만났군요! \n절 지금 알아보시면 어떡해요?",
+  "en": "Boss! I was starting to think you didn't see me. Heh!",
+  "npc": "아이샤",
+  "npc_ja": "アイシャ"
+ },
+ {
+  "id": "scriptnpc#0771",
+  "field": "name",
+  "ko": "…………….",
+  "en": "...",
+  "npc": "아이샤",
+  "npc_ja": "アイシャ"
+ },
+ {
+  "id": "scriptnpc#0772",
+  "field": "name",
+  "ko": "반가워요, $MyPCName$님. 제 도움이 필요하세요?",
+  "en": "Nice to meet you, $MyPCName$. Do you need help?",
+  "npc": "아이비",
+  "npc_ja": "アイビー",
+  "n": 6
+ },
+ {
+  "id": "scriptnpc#0773",
+  "field": "name",
+  "ko": "애프터파티가 한창 진행 중이라서,\n조금 있다 얘기해요!",
+  "en": "The after party is in full swing! \nLet's talk in a little bit.",
+  "npc": "데이데이",
+  "npc_ja": "デイデイ"
+ },
+ {
+  "id": "scriptnpc#0774",
+  "field": "name",
+  "ko": "렛츠 파티!",
+  "en": "Let's party!",
+  "npc": "데이데이",
+  "npc_ja": "デイデイ"
+ },
+ {
+  "id": "scriptnpc#0775",
+  "field": "name",
+  "ko": "지금부터 쇼타임!",
+  "en": "It's showtime!",
+  "npc": "데이데이",
+  "npc_ja": "デイデイ"
+ },
+ {
+  "id": "scriptnpc#0776",
+  "field": "name",
+  "ko": "와썹 맨~ 애프터파티를 즐기자구!",
+  "en": "Wassup man~ Let's enjoy the after-party!",
+  "npc": "레이",
+  "npc_ja": "レイ"
+ },
+ {
+  "id": "scriptnpc#0777",
+  "field": "name",
+  "ko": "와썹 맨~ MC데이데이를 도와주러 왔어!",
+  "en": "Wassup man~ MC Deedee is here to help!",
+  "npc": "레이",
+  "npc_ja": "レイ"
+ },
+ {
+  "id": "scriptnpc#0778",
+  "field": "name",
+  "ko": "요 마 브로! 결혼식은 언제나 아름답군!",
+  "en": "Yo bro! Weddings are always beautiful!",
+  "npc": "50메소",
+  "npc_ja": "50メル",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0779",
+  "field": "name",
+  "ko": "신혼부부의 탄생을 매우 축하해!",
+  "en": "A big congratulations to the newly weds!",
+  "npc": "50메소",
+  "npc_ja": "50メル"
+ },
+ {
+  "id": "scriptnpc#0780",
+  "field": "name",
+  "ko": "헤이 거기! 신랑 신부를 위해 무빗무빗!",
+  "en": "Hey there! Let's dance for the newly weds!",
+  "npc": "매미넴",
+  "npc_ja": "メミネム",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0781",
+  "field": "name",
+  "ko": "춤도 추고 게임도 하고! 결혼식에서는 맘 놓고 즐겨 보라고~",
+  "en": "Dance and celebrate! Enjoy this moment!",
+  "npc": "칸타타",
+  "npc_ja": "カンタータ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0782",
+  "field": "name",
+  "ko": "결혼식의 끝은 댄스파티지!",
+  "en": "The end of a wedding is a dance party!",
+  "npc": "칸타타",
+  "npc_ja": "カンタータ"
+ },
+ {
+  "id": "scriptnpc#0783",
+  "field": "name",
+  "ko": "$MyPCName$님, 어서 오세요!",
+  "en": "Welcome, $MyPCName$!",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0784",
+  "field": "name",
+  "ko": "오늘 파티장 분위기가 정말 좋네요! 즐거운 시간 보내세요!",
+  "en": "This party's atmosphere is so great! Such a fun time!",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0785",
+  "field": "name",
+  "ko": "$MyPCName$님, 파티장에 오신 것을 환영해요! 댄스댄스스탑을 시작하시겠어요?",
+  "en": "Welcome to the party, $MyPCName$. Do you want to start a game of dance dance stop?",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0786",
+  "field": "name",
+  "ko": "댄스댄스스탑을 시작하고 싶다고 말한다.",
+  "en": "Let's start dance dance stop.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0787",
+  "field": "name",
+  "ko": "네, 상대방이 동의하면 바로 시작할게요!",
+  "en": "Okay, we'll start when the other party agrees!",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0788",
+  "field": "name",
+  "ko": "분위기 최고! 저도 묶었던 머리 풀고 싶어지는데요~?",
+  "en": "This atmosphere is great! I also want to let my hair down.",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0789",
+  "field": "name",
+  "ko": "다 함께 댄스 댄스~!",
+  "en": "Dance dance together~!",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0790",
+  "field": "name",
+  "ko": "$map:84000002$ 소속, 변호사 $npcName:11004712[gender:1]$입니다.",
+  "en": "I am $npcName:11004712$, an attorney of $map:84000002$.",
+  "npc": "미아",
+  "npc_ja": "ミア"
+ },
+ {
+  "id": "scriptnpc#0791",
+  "field": "name",
+  "ko": "$map:84000002$의 변호사 $npcName:11004712[gender:1]$입니다. 무슨 일이시죠?",
+  "en": "I am $npcName:11004712$, an attorney of $map:84000002$. What's up?",
+  "npc": "미아",
+  "npc_ja": "ミア"
+ },
+ {
+  "id": "scriptnpc#0792",
+  "field": "name",
+  "ko": "$map:84000002$ 변호사 $npcName:11004713[gender:0]$입니다. 제게 용무가 있으신가요?",
+  "en": "I am $npcName:11004713$, an attorney of $map:84000002$. Do you have business to discuss?",
+  "npc": "하인들",
+  "npc_ja": "使用人たち",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0793",
+  "field": "name",
+  "ko": "어서오세요, $map:84000002$입니다.",
+  "en": "Welcome to $map:84000002$.",
+  "npc": "디보르티",
+  "npc_ja": "ディボルティ"
+ },
+ {
+  "id": "scriptnpc#0794",
+  "field": "name",
+  "ko": "그래도 오늘은 방문객이 적어서 다행이야.",
+  "en": "I am glad there are so few visitors today.",
+  "npc": "디보르티",
+  "npc_ja": "ディボルティ"
+ },
+ {
+  "id": "scriptnpc#0795",
+  "field": "name",
+  "ko": "이런 유명 커플이 결별하겠다니… 9시뉴스에 나오겠군.",
+  "en": "This famous couple is going to break up… It's going to be on the 9 o'clock news.",
+  "npc": "디보르티",
+  "npc_ja": "ディボルティ"
+ },
+ {
+  "id": "scriptnpc#0796",
+  "field": "name",
+  "ko": "$MyPCName$님도 이곳에 오셨군요.",
+  "en": "$MyPCName$ is here too.",
+  "npc": "미제라",
+  "npc_ja": "ミゼラ"
+ },
+ {
+  "id": "scriptnpc#0797",
+  "field": "name",
+  "ko": "과연 내가 옳은 선택을 하는걸까?",
+  "en": "Am I really making the right choice?",
+  "npc": "미제라",
+  "npc_ja": "ミゼラ"
+ },
+ {
+  "id": "scriptnpc#0798",
+  "field": "name",
+  "ko": "정말 행복했었는데…",
+  "en": "I was so happy…",
+  "npc": "미제라",
+  "npc_ja": "ミゼラ"
+ },
+ {
+  "id": "scriptnpc#0799",
+  "field": "name",
+  "ko": "여러 번 참아봤지만, 어쩔 수가 없구먼.",
+  "en": "I've searched for it several times, but I can't help feel this way.",
+  "npc": "마누엘",
+  "npc_ja": "マヌエル"
+ },
+ {
+  "id": "scriptnpc#0800",
+  "field": "name",
+  "ko": "말도 없이 떠나버리다니.",
+  "en": "To leave without a word...",
+  "npc": "마누엘",
+  "npc_ja": "マヌエル"
+ },
+ {
+  "id": "scriptnpc#0801",
+  "field": "name",
+  "ko": "이렇게까지 되어버려 속이 상하는구려…",
+  "en": "I'm so sad it has come to this…",
+  "npc": "마누엘",
+  "npc_ja": "マヌエル"
+ },
+ {
+  "id": "scriptnpc#0802",
+  "field": "name",
+  "ko": "나, $npcName:11004709[gender:0]$. 아무거나 추천하지 않아. 믿어보라고~!",
+  "en": "I, $npcName:11004709[gender:0]$, do not rely on anything. Trust me~!",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0803",
+  "field": "name",
+  "ko": "나, $npcName:11004709[gender:0]$. 아무거나 추천하지 않아. 믿어보라고요~!",
+  "en": "I, $npcName:11004709[gender:0]$, do not rely on anything. Trust me~!",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0804",
+  "field": "name",
+  "ko": "결혼하고 싶다고 한다.",
+  "en": "I want to get married.",
+  "npc": "pc",
+  "n": 5
+ },
+ {
+  "id": "scriptnpc#0805",
+  "field": "name",
+  "ko": "결혼식장 예약 방법을 물어본다.",
+  "en": "I want to book a wedding venue.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0806",
+  "field": "name",
+  "ko": "맞아요, 이 아름다운 세상에서 함께 지낼 반쪽을 찾는다면 참 행복할 거예요.\n결혼을 약속한 사람이 생기면 언제든 제게 오세요. 멋진 결혼식 예약을 도와드릴 테니까.",
+  "en": "Yeah, I would be very happy to find my other half to spend time in this beautiful world. \nIf there is someone who has engaged with you, please come see me. We'll help book a wonderful wedding.",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0807",
+  "field": "name",
+  "ko": "결혼하는 방법을 물어본다.",
+  "en": "I want to get married.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0808",
+  "field": "name",
+  "ko": "당신과 결혼하고 싶다고 한다.",
+  "en": "I want to book a wedding venue.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0809",
+  "field": "name",
+  "ko": "결혼을 하려면 우선 친구에게 청혼을 해서, 약혼을 해야 한답니다. \n그 상태로 웨딩 플래너를 만나 결혼식장을 예약하고 결혼식을 올리시면 돼요.\n약혼 상태는 7일간만 유지되는데, 그 안에 결혼식을 올리지 않으면 약혼 관계가 사라지니까 주의하세요.",
+  "en": "To get married, you must propose to someone and then get engaged. \nOnce you're engaged, meet with the wedding planner to reserve a venue in order to have your ceremony. \nKeep in mind that you can only be engaged for 7 days. If you don't get married within that time, your engagement will be broken off.",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0810",
+  "field": "name",
+  "ko": "결혼식을 올린 후엔 부부가 되어 친밀도를 쌓을 수 있어요.\n오래오래 행복하게, 알콩달콩 재미나게 서로의 좋은 동반자가 되어주면서!",
+  "en": "After you get married, you and your partner can build intimacy.\nLive a long and happy life together!",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0811",
+  "field": "name",
+  "ko": "결혼식장을 예약할 때, 결혼식을 완료했을 때 우편으로 예약 선물과 결혼 선물을 드려요. \n이 선물들은 결혼식장이 어디냐에 따라 달라지니까 예약할 때 신중하게 선택해 주세요.\n예약을 변경하면, 그에 따른 예약 선물은 우편으로 보내드리니 걱정 마시고요~",
+  "en": "When you book your reservation, you will receive a reservation gift by mail. Once you get married, you will also receive a wedding gift. \nThese gets depend on where your wedding venue is, so choose carefully.\nDo not worry if you change your reservation. We will send you the gift by mail. ",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0812",
+  "field": "name",
+  "ko": "아, 이놈의 인기~ 정말 사라질 생각을 안 하네.\n후후, 마음은 고맙지만 받아줄 수 없어요.\n당신과 잘 어울리는 멋진 사람을 찾으면, 그 때 멋진 결혼식을 할 수 있게 도와줄게요. ",
+  "en": "So darn popular~ I don't think it will fade away. \nAlthough I am grateful, I cannot accept it.\nWhen you find a wonderful person who suits you, then I will help you have a lovely wedding.",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0813",
+  "field": "name",
+  "ko": "결혼식장 예약은 웨딩 플래너들을 통해 할 수 있죠.\n웨딩 플래너에게 말을 걸어 결혼식장을 예약하고, 예약 비용을 지불하면 돼요.\n자세한 내용이 궁금하다면, 직접 예약을 시도해 보는 건 어떨까요? ",
+  "en": "Wedding venue reservations can be made through wedding planners. \nTalk to the wedding planner and pay for the reservation.\nIf you're looking for more information, why not try making a reservation yourself?",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0814",
+  "field": "name",
+  "ko": "참, 웨딩 플래너별로 전문 분야나 추천하는 내용이 조금씩 달라요. \n예약을 하기 전, 웨딩 플래너들에게 상담을 받아 보는 것도 좋아요. ",
+  "en": "Indeed, each wedding planner has a slight different speciality or recommendation. \nBefore making a reservation, consider consulting them all. ",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0815",
+  "field": "name",
+  "ko": "결혼식장을 추천해 달라고 말한다.",
+  "en": "Ask for wedding venue recommendation.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0816",
+  "field": "name",
+  "ko": "제가 추천하는 결혼식장은 낭만적인 사랑의 숲 $map:84000013$,\n용맹한 야생의 산맥 $map:84000014$. 이렇게 두 곳이랍니다. \n혹시 미리 가보고 싶으시다면, 약혼을 하신 뒤 다시 오세요. \n약혼을 하신 분께는 미리보기 투어 기회를 드리거든요. ",
+  "en": "I recommend the romantic love forest $map:84000013$,\n and the grand wild mountain range $map:84000014$. Those are two different places. \nIf you would like to check them out, come back once you are engaged. \nWe offer preview tours for those who are engaged. ",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0817",
+  "field": "name",
+  "ko": "반가워요, $MyPCName$님. 제 도움이 필요하세요?",
+  "en": "Nice to meet you $MyPCName$. Do you need help?",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0818",
+  "field": "name",
+  "ko": "결혼식장 예약을 하고 싶다고 한다.",
+  "en": "I want to book a wedding venue.",
+  "npc": "pc",
+  "n": 3
+ },
+ {
+  "id": "scriptnpc#0819",
+  "field": "name",
+  "ko": "추천 결혼식장 투어를 받고 싶다고 한다.",
+  "en": "I would like a tour of the recommended venue.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0820",
+  "field": "name",
+  "ko": "정말 잘 오셨어요. 바로 예약을 도와드리죠.",
+  "en": "Certainly. Let's get a reservation right away.",
+  "npc": "아이비",
+  "npc_ja": "アイビー",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0821",
+  "field": "name",
+  "ko": "추천 결혼식장 투어는 웨딩 플래너가 추천하는 결혼식장을 미리 보여드리는 서비스예요.\n말 그대로 느낌을 보기 위한 것인 만큼, 정해진 장소에서 대략 훑어만 볼 수 있다는 점 참고 부탁드릴게요~",
+  "en": "The wedding tour is a service that shows you the wedding planner's recommended venue in advance.\nYou can take as long as you would like to help you feel out the place.",
+  "npc": "아이비",
+  "npc_ja": "アイビー",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0822",
+  "field": "name",
+  "ko": "제가 추천하는 결혼식장은 낭만적인 사랑의 숲 $map:84000013$,\n용맹한 야생의 산맥 $map:84000014$. 이렇게 두 곳이랍니다. ",
+  "en": "I recommend the romantic love forest $map:84000013$,\n and the grand wild mountain range $map:84000014$. Those are two different places. ",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0823",
+  "field": "name",
+  "ko": "$map:84000013$에 가보고 싶다고 한다.",
+  "en": "I want to tour $map:84000013$.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0824",
+  "field": "name",
+  "ko": "$map:84000014$에 가보고 싶다고 한다.",
+  "en": "I want to tour $map:84000014$.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0825",
+  "field": "name",
+  "ko": "알겠습니다. \n낮과 밤의 모습이 다른데… 어느 곳에 가보시겠어요? ",
+  "en": "Okay. \n Would you like to go during the day or night? ",
+  "npc": "아이비",
+  "npc_ja": "アイビー",
+  "n": 4
+ },
+ {
+  "id": "scriptnpc#0826",
+  "field": "name",
+  "ko": "낮의 $map:84000013$에 가보고 싶다고 한다.",
+  "en": "I want to visit $map:84000013$ during the day.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0827",
+  "field": "name",
+  "ko": "밤의 $map:84000013$에 가보고 싶다고 한다.",
+  "en": "I want to visit $map:84000013$ during the night.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0828",
+  "field": "name",
+  "ko": "네, 그럼 이동하겠습니다.",
+  "en": "Okay, let's go.",
+  "npc": "아이비",
+  "npc_ja": "アイビー",
+  "n": 8
+ },
+ {
+  "id": "scriptnpc#0829",
+  "field": "name",
+  "ko": "낮의 $map:84000014$에 가보고 싶다고 한다.",
+  "en": "I want to visit $map:84000014$ during the day.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0830",
+  "field": "name",
+  "ko": "밤의 $map:84000014$에 가보고 싶다고 한다.",
+  "en": "I want to visit $map:84000014$ during the night.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0831",
+  "field": "name",
+  "ko": "음… 얼마 전 이혼 관련 일들을 겪으신 것 같은데… \n아직 새로운 결혼을 하시기엔 너무 이르신 것 같네요.\n좀더 시간이 흐른 뒤 새로운 인연을 찾으시면 그때 다시 만나요.",
+  "en": "Well… It look's like you went through a divorce recently… \nI think it's too early to get married again.\nCome see me again after some time has passed.",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0832",
+  "field": "name",
+  "ko": "이혼 방법을 알려달라고 한다.",
+  "en": "Please tell me how to get a divorce.",
+  "npc": "pc",
+  "n": 4
+ },
+ {
+  "id": "scriptnpc#0833",
+  "field": "name",
+  "ko": "이혼은 결혼 관계의 두 사람이 결혼을 종료하고 싶을 때 진행하는 절차입니다.\n이혼을 하게 되면, 현재의 배우자와 부부 관계를 통해 쌓은 친밀도를 비롯한 각종 보상이 모두 삭제됩니다. \n또한 이혼이 완료된 이후 48시간동안 청혼 및 결혼식 예약을 할 수 없습니다.",
+  "en": "Divorce happens when both married people want to terminate their wedding.\nIf you go through with a divorce, all rewards and intimacy you have built in this relationship will be deleted. \nAdditionally, you will not be able to propose or make wedding reservations for the next 48 hours after a divorce.",
+  "npc": "미아",
+  "npc_ja": "ミア",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0834",
+  "field": "name",
+  "ko": "$map:84000002$의 변호사 $npcName:11004712[gender:1]$입니다. 무슨 일이시죠?",
+  "en": "I am $npcName:11004712$, attorney of $map:84000002$. What' up?",
+  "npc": "미아",
+  "npc_ja": "ミア"
+ },
+ {
+  "id": "scriptnpc#0835",
+  "field": "name",
+  "ko": "합의 이혼을 원한다고 말한다.",
+  "en": "I want a consensual divorce",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0836",
+  "field": "name",
+  "ko": "강제 이혼하고 싶다고 말한다.",
+  "en": "I want a forced divorce.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0837",
+  "field": "name",
+  "ko": "합의 이혼은 결혼 관계의 두 사람이 합의 하에 빠르게 이혼할 수 있는 이혼 방법입니다.\n31일 이상 결혼 관계를 유지한 부부가 이곳, $map:84000002$에 함께 오셔서 신청할 수 있습니다.",
+  "en": "A consensual divorce is when both people in the marriage want to divorce quickly by agreement.\nCouples who have been married for more than 31 days can apply here at $map:84000002$.",
+  "npc": "미아",
+  "npc_ja": "ミア"
+ },
+ {
+  "id": "scriptnpc#0838",
+  "field": "name",
+  "ko": "이혼을 하게 되면, 현재의 배우자와 부부 관계를 통해 쌓은 친밀도를 비롯한 각종 보상이 모두 삭제됩니다. \n또한 이혼이 완료된 이후 48시간동안 다른 캐릭터에게 청혼을 하거나 결혼식 예약을 할 수 없습니다.",
+  "en": "If you go through with a divorce, all rewards and intimacy you have built in this relationship will be deleted. \nAdditionally, you will not be able to propose or make wedding reservations for the next 48 hours after a divorce.",
+  "npc": "미아",
+  "npc_ja": "ミア",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0839",
+  "field": "name",
+  "ko": "그래도 이혼을 진행하시겠습니까?",
+  "en": "Do you wish to proceed with the divorce?",
+  "npc": "미아",
+  "npc_ja": "ミア"
+ },
+ {
+  "id": "scriptnpc#0840",
+  "field": "name",
+  "ko": "이혼에 대한 설명을 이해했으며, 합의 이혼하겠다고 말한다.",
+  "en": "I understand the explanation. I would like to divorce.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0841",
+  "field": "name",
+  "ko": "다시 생각해보겠다고 한다.",
+  "en": "Let me think about it more.",
+  "npc": "pc",
+  "n": 4
+ },
+ {
+  "id": "scriptnpc#0842",
+  "field": "name",
+  "ko": "의견 확인했으며, 합의 이혼을 접수하겠습니다. \n정상적으로 이혼이 완료될 시 확인 우편이 도착할 테니, 확인해 보시기 바랍니다.",
+  "en": "Your request has been confirmed. I will help file for a divorce. \nWhen the divorce has successfully been completed, you will receive a confirmation mail.",
+  "npc": "미아",
+  "npc_ja": "ミア"
+ },
+ {
+  "id": "scriptnpc#0843",
+  "field": "name",
+  "ko": "좋습니다. 신중하게 생각해 보시고, 도움이 필요하면 언제든 찾아오세요.",
+  "en": "Sure. Please think it over carefully. I'll be around If you need any more help.",
+  "npc": "미아",
+  "npc_ja": "ミア",
+  "n": 3
+ },
+ {
+  "id": "scriptnpc#0844",
+  "field": "name",
+  "ko": "상대방의 의사와 관계없이 진행하는 강제 이혼을 원하신다면, 담당 변호사인 $npcName:11004713[gender:0]$에게 가 보세요. \n오른쪽 방으로 건너가시면 됩니다.",
+  "en": "If you would like a forced divorce without the consent of the other party, go to attorney $npcName:11004713$. \nVisit him through the room on the right.",
+  "npc": "미아",
+  "npc_ja": "ミア"
+ },
+ {
+  "id": "scriptnpc#0845",
+  "field": "name",
+  "ko": "$map:84000002$의 변호사 $npcName:11004712[gender:1]$입니다. 무슨 일이시죠?",
+  "en": "I am $npcName:11004712$, attorney of $map:84000002$. What's your business?",
+  "npc": "미아",
+  "npc_ja": "ミア",
+  "n": 3
+ },
+ {
+  "id": "scriptnpc#0846",
+  "field": "name",
+  "ko": "강제 이혼 관련 사항을 처리하러 왔다고 한다.",
+  "en": "I was told to come to you to deal with a forced divorce",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0847",
+  "field": "name",
+  "ko": "강제 이혼 관련 처리는 변호사 $npcName:11004713[gender:0]$$pp:가,이$ 담당하고 있습니다. \n오른쪽 방으로 건너가시면 만날 수 있습니다.",
+  "en": "Attorney $npcName:11004713$ is in charge of forced divorce filings. \nGo to the room on the right to find them.",
+  "npc": "미아",
+  "npc_ja": "ミア"
+ },
+ {
+  "id": "scriptnpc#0848",
+  "field": "name",
+  "ko": "강제 이혼 관련 사항은 변호사 $npcName:11004713[gender:0]$$pp:가,이$ 담당하여 처리하고 있습니다. \n오른쪽 방으로 건너가시면 만날 수 있습니다.",
+  "en": "Forced divorce matters are handled by $npcName:11004713$. \nGo to the room on the right to find them.",
+  "npc": "미아",
+  "npc_ja": "ミア"
+ },
+ {
+  "id": "scriptnpc#0849",
+  "field": "name",
+  "ko": "언제부터 다른 사람에게 청혼할 수 있는지 물어본다.",
+  "en": "When can I propose to someone else?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0850",
+  "field": "name",
+  "ko": "다른 사람에게 청혼을 하려면, 이혼이 완료된 이후 48시간이 지나야 합니다.\n좀더 신중히 생각하는 시간을 가지시는 것을 권해 드리고 싶군요.",
+  "en": "If you want to propose to someone, you must wait 48 hours after a divorce is settled.\nI would advise for you to take some extra time to think about it.",
+  "npc": "미아",
+  "npc_ja": "ミア"
+ },
+ {
+  "id": "scriptnpc#0851",
+  "field": "name",
+  "ko": "$map:84000002$ 변호사 $npcName:11004713[gender:0]$입니다. 제게 용무가 있으신가요?",
+  "en": "I am $npcName:11004713$, attorney of $map:84000002$. What's your business?",
+  "npc": "하인들",
+  "npc_ja": "使用人たち",
+  "n": 3
+ },
+ {
+  "id": "scriptnpc#0852",
+  "field": "name",
+  "ko": "강제 이혼을 하고 싶다고 말한다.",
+  "en": "I want a forced divorce.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0853",
+  "field": "name",
+  "ko": "강제 이혼은 31일 이상 결혼 관계를 유지한 부부 중 한 사람이 상대방의 동의 없이 이혼을 원할 때 신청할 수 있는 이혼 방법으로, 수수료와 숙려 기간이 들어갑니다.\n지금부터 이혼에 따른 주의사항을 알려드리겠습니다. 결정 후에는 수수료가 환불되지 않으니 신중하시기 바랍니다.",
+  "en": "A forced divorce can only happen after 31 days of being married. You do not need the other party's consent, but there is a fee and a contemplation period. \nBe mindful of going through a divorce. The fee is not refundable once the decision is made.",
+  "npc": "하인들",
+  "npc_ja": "使用人たち"
+ },
+ {
+  "id": "scriptnpc#0854",
+  "field": "name",
+  "ko": "강제 이혼 신청이 접수되면, 상대방에게 이를 통보합니다. \n7일간의 이혼 숙려 기간 동안 상대방이 강제 이혼에 합의하면 $MyPCName$님이 지불하신 수수료는 환불되지만, 상대방이 합의하지 않는다면 환불되지 않습니다.\n이혼 숙려 기간이 종료되면, 두 사람의 이혼 처리가 완료됩니다.",
+  "en": "If a forced divorce is filed, the other party will be notified. \nIf the other party agrees to the divorce within 7 days, the fee you paid will be refunded. If they do not agree, the fee won't be refunded.\nOnce the contemplation period ends, the divorce will be finalized between both parties.",
+  "npc": "하인들",
+  "npc_ja": "使用人たち"
+ },
+ {
+  "id": "scriptnpc#0855",
+  "field": "name",
+  "ko": "그러면, 강제 이혼을 계속 진행하시겠습니까? 강제 이혼 수수료는 1,000,000 메소입니다.",
+  "en": "So, do you want to continue with a forced divorce? The fee for it is 1,000,000 mesos.",
+  "npc": "하인들",
+  "npc_ja": "使用人たち"
+ },
+ {
+  "id": "scriptnpc#0856",
+  "field": "name",
+  "ko": "강제 이혼에 대한 내용을 이해했으며, 계속 진행하겠다고 말한다.",
+  "en": "I understand the explanation. I would like to divorce.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0857",
+  "field": "name",
+  "ko": "의견 확인했으며, 강제 이혼을 접수하겠습니다. \n정상적으로 강제 이혼 신청이 접수되면 상대방에게 통보되고, 이후 진행 상황이 변경될 때마다 확인 우편이 발송될테니 확인해 보시기 바랍니다.",
+  "en": "Your decision has been accepted. We'll begin filing for a forced divorce. \nIf your application to file for a forced divorce is accepted, we will notify the other party. A confirmation mail will be sent whenever there is progress.",
+  "npc": "하인들",
+  "npc_ja": "使用人たち"
+ },
+ {
+  "id": "scriptnpc#0858",
+  "field": "name",
+  "ko": "좋습니다. 신중하게 생각해 보시고, 도움이 필요하면 찾아오십시오.",
+  "en": "Sure. Please think it over carefully. I'll be around if need any more help.",
+  "npc": "하인들",
+  "npc_ja": "使用人たち"
+ },
+ {
+  "id": "scriptnpc#0859",
+  "field": "name",
+  "ko": "상대방과 함께 이 곳을 방문해 즉시 이혼하는 합의 이혼은 변호사 $npcName:11004712[gender:1]$$pp:가,이$ 담당합니다. \n왼쪽 방으로 건너가시면 됩니다.",
+  "en": "If you're looking to get divorced immediately, come with the other party present and speak to $npcName:11004712$. \nYou can visit them by going over to the room to the left.",
+  "npc": "하인들",
+  "npc_ja": "使用人たち"
+ },
+ {
+  "id": "scriptnpc#0860",
+  "field": "name",
+  "ko": "강제 이혼 신청을 받았고, 합의하러 왔다고 한다.",
+  "en": "I am here to agree upon the forced divorce.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0861",
+  "field": "name",
+  "ko": "강제 이혼에 합의하시면 즉시 이혼이 완료되고, 상대방이 지불한 수수료는 상대방에게 환불됩니다.\n이혼 처리는 즉시 진행됩니다. 숙려 기간이 끝날 때까지 기다리지 않아도 됩니다.",
+  "en": "If you agree to the forced divorce filing, the divorce will complete immediately. The other party will also be receiving a refund to the fee they paid for. \nYou will not need to wait until the contemplation period is over.",
+  "npc": "하인들",
+  "npc_ja": "使用人たち",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0862",
+  "field": "name",
+  "ko": "합의하고 싶다고 말한다.",
+  "en": "I agree with the divorce.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0863",
+  "field": "name",
+  "ko": "의견 확인했습니다. 두 사람의 강제 이혼 합의를 받아들입니다. \n이혼 처리가 완료되면 확인 우편이 도착할 테니, 확인해 보시기 바랍니다.",
+  "en": "Your decision has been accepted. The forced divorce has been accepted by both parties. \nYou will receive a confirmation mail when the divorce has been completed.",
+  "npc": "하인들",
+  "npc_ja": "使用人たち",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0864",
+  "field": "name",
+  "ko": "강제 이혼에 대한 내용을 이해했으며, 계속 진행하겠다고 말한다.",
+  "en": "I am here to agree upon the forced divorce.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0865",
+  "field": "name",
+  "ko": "반갑습니다, $MyPCName$님. 도움이 필요하세요?",
+  "en": "Nice to meet you, $MyPCName$. How can I help?",
+  "npc": "아이비",
+  "npc_ja": "アイビー",
+  "n": 3
+ },
+ {
+  "id": "scriptnpc#0866",
+  "field": "name",
+  "ko": "결혼식장 예약을 변경하고 싶다고 한다.",
+  "en": "I want to change my wedding venue reservation.",
+  "npc": "pc",
+  "n": 5
+ },
+ {
+  "id": "scriptnpc#0867",
+  "field": "name",
+  "ko": "알겠습니다. \n그럼, 바로 예약 변경을 도와드릴게요. ",
+  "en": "Alright. \nI'll help change your reservation right away. ",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0868",
+  "field": "name",
+  "ko": "네, 우선 예약 정보를 확인하시고 최종 결정을 내려 주세요. \n상대방이 예약 취소에 동의한다면, 추후 <font color=\"#ffd200\">동일 등급의 결혼식장을 예약할 수 있는 무료 예약 쿠폰</font>을 우편함으로 보내드립니다. 우편함에서 쿠폰을 받아 인벤토리에 꼭 보관한 다음 예약을 진행해주세요. 쿠폰은 획득 후 30일간 유효하니 반드시 유효기간 내 사용해 주시기 바랍니다.\n상대방이 동의하지 않으면 예약을 취소할 수 없습니다.",
+  "en": "Sure, please check the reservation information first and make a final decision. \nIf the other party agrees to cancel, you will receive <font color=\"#ffd200\">a free reservation coupon that allows you to book the same wedding venue tier in the future.</font>. The coupon is only valid for 30 days after you receive it, so be sure to use it before it expires.\nIf the other party does not agree to the change, you cannot cancel the reservation.",
+  "npc": "아이비",
+  "npc_ja": "アイビー",
+  "n": 5
+ },
+ {
+  "id": "scriptnpc#0869",
+  "field": "name",
+  "ko": "$MyPCName$님~! 어서 와. 내 도움이 필요한가요?",
+  "en": "$MyPCName$~! Come now, do you need my help?",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0870",
+  "field": "name",
+  "ko": "그래. 이 아름다운 메이플 월드에서 함께 지낼 반쪽을 찾는다면 얼마나 좋겠어!\n결혼을 약속한 사람이 생긴다면 언제든 와. 마법처럼, 기적처럼 멋진 결혼식을 준비해줄 테니까요.",
+  "en": "Wouldn't it be great to find your other half in this Maple World!\nIf someone promises to marry you, come talk to me again. I'll prepare for you the most magical wedding.",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0871",
+  "field": "name",
+  "ko": "급하긴, 결혼을 하려면 우선 약혼이 먼저라고요. \n결혼하고 싶은 사람에게 청혼을 해서 승낙을 받으면, 약혼 상태가 되거든?\n그 상태로 저나, 다른 웨딩 플래너들에게 가서 결혼식장 예약을 하고 결혼식을 올리세요. 오케이?",
+  "en": "If you're in a hurry to get married, you have to be engaged first. \nOnce you're engaged, meet with either me or the other wedding planners to reserve a venue in order to have your ceremony.\nSound good?",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0872",
+  "field": "name",
+  "ko": "결혼식을 올린 후엔 부부가 되어 친밀도를 쌓을 수 있어요.\n오래오래 행복하게, 알콩달콩 재미나게! 서로의 좋은 동반자가 되어주면서!",
+  "en": "After you get married, you and your partner can build intimacy.\nLive a long and happy life together!",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0873",
+  "field": "name",
+  "ko": "결혼식장을 예약할 때, 결혼식을 완료했을 때 우편으로 예약 선물과 결혼 선물을 주지. \n이 선물들은 결혼식장이 어디냐에 따라 달라지니까 예약할 때 신!중!하게 선택해요.\n예약을 변경하면, 그에 따른 예약 선물은 우편으로 보내드리니 걱정 마시고~",
+  "en": "When you book your reservation, you will receive a reservation gift by mail. Once you get married, you will also receive a wedding gift. \nThese gets depend on where your wedding venue is, so choose carefully.\nDo not worry if you change your reservation. We will send you the gift by mail.",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0874",
+  "field": "name",
+  "ko": "누구, 나? 하하하! 안타깝지만 안 돼. 난 누군가와 결혼해서는 안 되는 그런 특별한 몸이라고요.\n대신 당신의 결혼식은 누구보다 멋지게 꾸며줄 테니, 결혼할 사람을 찾거든 꼭 내게 와요! ",
+  "en": "Who, me? Hahaha! Sorry, but no. I shouldn't be marrying anyone in my position. #x0A;What I can do for you instead is make your wedding prettier than anyone else's. So if you're looking to get your wedding planned, come talk to me! ",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0875",
+  "field": "name",
+  "ko": "결혼식장 예약은 웨딩 플래너들을 통해 할 수 있지.\n웨딩 플래너에게 말을 걸어 결혼식장을 예약하고, 예약 비용을 지불하면 돼요.\n자세한 내용이 궁금하다면, 직접 예약을 시도해 보는 건 어떨까? ",
+  "en": "Wedding reservations can be made through wedding planners. \nYou will need to pay for the booking through the wedding planner.\nIf you're interested in more details, why not try booking it yourself?? ",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0876",
+  "field": "name",
+  "ko": "참, 웨딩 플래너별로 전문 분야나 추천하는 내용이 조금씩 다르니까, \n예약을 하기 전, 웨딩 플래너들에게 상담을 받아 보는 것도 좋아~! ",
+  "en": "Well, each wedding planner has different areas of expertise or recommendations. \nBefore making your reservation, it's a good idea to consult with each one! ",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0877",
+  "field": "name",
+  "ko": "결혼식장을 추천해 달라고 말한다.",
+  "en": "Recommend me a wedding venue.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0878",
+  "field": "name",
+  "ko": "내 추천 결혼식장은 바로~ 빌딩 숲 가장 높은 곳의 낙원, $map:84000015$!\n그리고 아주 화려한 선상 결혼식장, $map:84000016$! 이렇게 두 곳이라오~!\n혹시 미리 가보고 싶다면, 약혼을 하신 뒤 다시 날 찾아와요. \n약혼을 하신 분께는 미리보기 투어 기회를 드리고 있으니까! ",
+  "en": "My recommendation is the forest of paradise in the highest of trees, $map:84000015$!\nAnd not to mention, the gorgeous on-board wedding venue, $map:84000016$! That's what I recommend~!\nIf these places interest you, come back after you're engaged. \nWe offer preview tours for those who are engaged! ",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0879",
+  "field": "name",
+  "ko": "$MyPCName$님~! 어서 와. 내 도움이 필요한가요?",
+  "en": "$MyPCName$~! Come now. Do you need my help?",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー",
+  "n": 3
+ },
+ {
+  "id": "scriptnpc#0880",
+  "field": "name",
+  "ko": "아주 탁월한 선택이야. 지금 바로, 예약을 시작해 보죠!",
+  "en": "What an excellent choice! Let's book this right away.!",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0881",
+  "field": "name",
+  "ko": "추천 결혼식장 투어. 웨딩 플래너가 추천하는 결혼식장을 미리 보여드리는 서비스죠.\n멋진 결혼식장을 마법처럼 스윽! 갔다가 착! 돌아올 수 있는 건 아주 신비하고 재밌는 경험일 거야!",
+  "en": "The wedding tour is a service that shows you the wedding planner's recommended venue in advance.\nA good wedding venue should feel like magic! It should feel mysterious, yet a fun experience!",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0882",
+  "field": "name",
+  "ko": "내 추천 결혼식장은 바로~ 빌딩 숲 가장 높은 곳의 낙원, $map:84000015$!\n그리고 아주 화려한 선상 결혼식장, $map:84000016$! 이렇게 두 곳이라오~! ",
+  "en": "My wedding venue recommendations are always right~ The forest of paradise in the highest of trees, $map:84000015$!\nAnd not to mention, the gorgeous on-board wedding venue, $map:84000016$! That's what I recommend~! ",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0883",
+  "field": "name",
+  "ko": "$map:84000015$에 가보고 싶다고 한다.",
+  "en": "I want to tour $map:84000015$.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0884",
+  "field": "name",
+  "ko": "$map:84000016$에 가보고 싶다고 한다.",
+  "en": "I want to tour $map:84000016$.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0885",
+  "field": "name",
+  "ko": "후후, 아주 좋은 선택입니다. 자기도 기대되지?  \n낮과 밤의 모습이 다른데… 어느 곳에 가 보겠어요? ",
+  "en": "Hoho! what a very good choice.You're looking forward to this aren't you? \n Would you like to go during the day or night?",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0886",
+  "field": "name",
+  "ko": "낮의 $map:84000015$에 가보고 싶다고 한다.",
+  "en": "They say they would like to visit $map:84000015$ during the day.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0887",
+  "field": "name",
+  "ko": "밤의 $map:84000015$에 가보고 싶다고 한다.",
+  "en": "They say they would like to visit $map:84000015$ at night.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0888",
+  "field": "name",
+  "ko": "좋아, 그럼 이동합니다. 파라팝!",
+  "en": "Let's get going!",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0889",
+  "field": "name",
+  "ko": "좋아, 그럼 이동합니다. 두비둡!",
+  "en": "Let's get going!",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0890",
+  "field": "name",
+  "ko": "낮의 $map:84000016$에 가보고 싶다고 한다.",
+  "en": "They say they would like to visit $map:84000016$ during the day.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0891",
+  "field": "name",
+  "ko": "밤의 $map:84000016$에 가보고 싶다고 한다.",
+  "en": "They say they would like to visit $map:84000016$ at night.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0892",
+  "field": "name",
+  "ko": "좋아, 그럼 이동합니다. 타라탓!",
+  "en": "Let's get going!",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0893",
+  "field": "name",
+  "ko": "좋아, 그럼 이동합니다. 슈비붑!",
+  "en": "Let's get going!",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0894",
+  "field": "name",
+  "ko": "$MyPCName$님~! 아주 달콤한 향기가 진동을 하네. \n결혼 생활이 너무너무 행복해서 그런 게 분명하군요!",
+  "en": "$MyPCName$~! A sweet scene eminates from you. \nIt is clear as day that you'r marriage is good standing!",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0895",
+  "field": "name",
+  "ko": "행복하다고 한다.",
+  "en": "I really am happy!",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0896",
+  "field": "name",
+  "ko": "자기… 얼마 전 이혼 관련 일들을 겪지 않았어?\n아무리 기분 전환이 중요하다지만, 아직은 새 결혼을 준비하기엔 너무 이른 것 같은데.\n좀더 시간이 흐른 뒤, 새로운 인연을 찾으시면 그때 다시 만나자고요.",
+  "en": "Sweetie… Didn't you go through a divorce recently?\nRegardless of how you're feeling right now, it is too early to get married again. \nCome see me again after some time has passed.",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0897",
+  "field": "name",
+  "ko": "알~겠어. 금방 도와줄게요! ",
+  "en": "I know~ I will help you soon enough.",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0898",
+  "field": "name",
+  "ko": "네, 우선 예약 정보를 확인하시고 최종 결정을 내려 주세요. \n상대방이 예약 취소에 동의한다면, 추후 <font color=\"#ffd200\">동일 등급의 결혼식장을 예약할 수 있는 무료 예약 쿠폰</font>을 우편함으로 보내드립니다. 우편함에서 쿠폰을 받아 인벤토리에 꼭 보관한 다음 예약을 진행해주세요. 쿠폰은 획득 후 30일간 유효하니 반드시 유효기간 내 사용해 주시기 바랍니다.\n상대방이 동의하지 않으면 예약을 취소할 수 없습니다. ",
+  "en": "Yes, please check the reservation information first and make the final decision. If the other party agrees to cancel the reservation, we will give you a <font color=\"#ffd200\">free reservation coupon to reserve a wedding venue of the same class</font> in the future. The coupons are valid for 30 days after acquisition, so be sure to use them within the validity period.\nIf the other party does not agree to the change, you cannot cancel the reservation.",
+  "npc": "위즈 하모니",
+  "npc_ja": "ウィズハーモニー"
+ },
+ {
+  "id": "scriptnpc#0899",
+  "field": "name",
+  "ko": "곳곳에서 느껴지는 용의 흔적들…\n이번에야 말로!",
+  "en": "I sense draconic power... Did I finally find them?",
+  "npc": "미카",
+  "npc_ja": "ミカ"
+ },
+ {
+  "id": "scriptnpc#0900",
+  "field": "name",
+  "ko": "무서워…무서워…\n다 처음 보는 것 투성이야…",
+  "en": "I don't like this place... It's new and scary...",
+  "npc": "둔바",
+  "npc_ja": "ドゥンバ"
+ },
+ {
+  "id": "scriptnpc#0901",
+  "field": "name",
+  "ko": "낯선 곳도 낯선 곳이지만…\n정말 걱정이네.",
+  "en": "It's hard to get my bearings in a weird place like this.",
+  "npc": "타라",
+  "npc_ja": "ターラ"
+ },
+ {
+  "id": "scriptnpc#0902",
+  "field": "name",
+  "ko": "이정도라면,\n다음 신메뉴는 이미 정해진거나 다름 없겠어.",
+  "en": "That might look good on my menu...",
+  "npc": "스타츠",
+  "npc_ja": "スターツ"
+ },
+ {
+  "id": "scriptnpc#0903",
+  "field": "name",
+  "ko": "여기서 이렇게 지내고 있어도 되는 걸까?\n그냥 돌아가는게 더 좋을 것 같은데…",
+  "en": "Will he be okay without me? Maybe I should go back...",
+  "npc": "케이틀린",
+  "npc_ja": "ケイトリン"
+ },
+ {
+  "id": "scriptnpc#0904",
+  "field": "name",
+  "ko": "너무나도 강하게 느껴진단 말이지…\n뭔가 이상할 정도로 말이야.",
+  "en": "I sense something powerful. Something... wrong.",
+  "npc": "라네모네",
+  "npc_ja": "ラネモネ"
+ },
+ {
+  "id": "scriptnpc#0905",
+  "field": "name",
+  "ko": "속이 너무 상해서, 다음에 얘기해요.",
+  "en": "I don't want to talk. I am so upset.",
+  "npc": "미제라",
+  "npc_ja": "ミゼラ"
+ },
+ {
+  "id": "scriptnpc#0906",
+  "field": "name",
+  "ko": "자네까지 이곳에 오다니… 한 번 잘 생각해보게.",
+  "en": "Please think carefully about coming here.",
+  "npc": "마누엘",
+  "npc_ja": "マヌエル"
+ },
+ {
+  "id": "scriptnpc#0907",
+  "field": "name",
+  "ko": "음음음~",
+  "en": "Hummm~",
+  "npc": "지노",
+  "npc_ja": "ジノ"
+ },
+ {
+  "id": "scriptnpc#0908",
+  "field": "name",
+  "ko": "드디어 나의 $npcName:11004767[gender:0]$$pp:와,과$ 결혼을 하게 됐어.\n한 여자의 남자가 되는 건 무척 떨리는 일이지!",
+  "en": "I am finally getting married to $npcName:11004767[gender:0]$! Being a woman's man is so terrifying!",
+  "npc": "지노",
+  "npc_ja": "ジノ"
+ },
+ {
+  "id": "scriptnpc#0909",
+  "field": "name",
+  "ko": "하지만 $npcName:11004767[gender:0]$$pp:와,과$ 함께라면 두려울 것이 없지!\n오늘을 위해서 집 밖을 나왔다고! \n나는 피부가 타는 걸 세상에서 제일 싫어하는데도 말이야.",
+  "en": "But with $npcName:11004767[gender:0]$, there is nothing to fear! \nToday I am out of the house, \neven though I hate getting a sunburn.",
+  "npc": "지노",
+  "npc_ja": "ジノ"
+ },
+ {
+  "id": "scriptnpc#0910",
+  "field": "name",
+  "ko": "우리의 결혼, 응원해줘!",
+  "en": "Please bless our marriage!",
+  "npc": "지노",
+  "npc_ja": "ジノ"
+ },
+ {
+  "id": "scriptnpc#0911",
+  "field": "name",
+  "ko": "드디어 나도 결혼이란 걸 하는구나…",
+  "en": "Finally, I am getting married...",
+  "npc": "지노",
+  "npc_ja": "ジノ"
+ },
+ {
+  "id": "scriptnpc#0912",
+  "field": "name",
+  "ko": "$npcName:11004767[gender:0]$$pp:가,이$ 좋다면 나도 좋아!",
+  "en": "$npcName:11004767[gender:0]$, if you like this, I like this too!",
+  "npc": "지노",
+  "npc_ja": "ジノ"
+ },
+ {
+  "id": "scriptnpc#0913",
+  "field": "name",
+  "ko": "룰루랄라~",
+  "en": "Lalalala~",
+  "npc": "유리",
+  "npc_ja": "ユリ"
+ },
+ {
+  "id": "scriptnpc#0914",
+  "field": "name",
+  "ko": "헤헤헤. 기분이 너무 좋아.\n날씨도 너무 좋고! 내 결혼식 날도 이렇게 맑으면 좋을 텐데.",
+  "en": "Hehehe. I am feeling great.\nThe weather is so nice! I wish my wedding day was a day like this.",
+  "npc": "유리",
+  "npc_ja": "ユリ"
+ },
+ {
+  "id": "scriptnpc#0915",
+  "field": "name",
+  "ko": "세상에서 가장 아름다운 신부가 되고 싶어.\n예식장을 백번씩 돌아봤는데, 전부 다 너무 예뻐서 아직도 고민 중이라니까!",
+  "en": "I want to be the most beautiful bride in the world.\nI am still thinking about how pretty the wedding hall is. I've been there a hundred times!",
+  "npc": "유리",
+  "npc_ja": "ユリ"
+ },
+ {
+  "id": "scriptnpc#0916",
+  "field": "name",
+  "ko": "집돌이인 $npcName:11004766[gender:1]$도 오늘은 기분이 좋아 보여.\n나 너무 행복해!",
+  "en": "Housekeeper $npcName:11004766[gender:1]$ looks so good today.\nI'm so happy!",
+  "npc": "유리",
+  "npc_ja": "ユリ"
+ },
+ {
+  "id": "scriptnpc#0917",
+  "field": "name",
+  "ko": "$npcName:11004766[gender:1]$야~ 예식장은 어디가 좋을까?",
+  "en": "Hey, $npcName:11004766[gender:1]$, where is the wedding hall?",
+  "npc": "유리",
+  "npc_ja": "ユリ"
+ },
+ {
+  "id": "scriptnpc#0918",
+  "field": "name",
+  "ko": "너무 설레어!",
+  "en": "I'm so excited!",
+  "npc": "유리",
+  "npc_ja": "ユリ"
+ },
+ {
+  "id": "scriptnpc#0919",
+  "field": "name",
+  "ko": "냥…이건 말도 안 된다냥…",
+  "en": "Nah... this is ridiculous...",
+  "npc": "스키틀",
+  "npc_ja": "スキットル"
+ },
+ {
+  "id": "scriptnpc#0920",
+  "field": "name",
+  "ko": "이건 말도 안 된다냥!\n이런 법이 어디있냥!",
+  "en": "This is ridiculous!\n Where are the rules?!",
+  "npc": "스키틀",
+  "npc_ja": "スキットル"
+ },
+ {
+  "id": "scriptnpc#0921",
+  "field": "name",
+  "ko": "동물끼리의 결혼은 예식장을 이용할 수 없다니…\n정말 너무한다냥!",
+  "en": "You cannot use the wedding venues for animal marriages…\nThat's crazy!",
+  "npc": "스키틀",
+  "npc_ja": "スキットル"
+ },
+ {
+  "id": "scriptnpc#0922",
+  "field": "name",
+  "ko": "억울하다냥. 이건 누구에게 말을 해야 하는 거냥…",
+  "en": "It is embarrassing I have to inform people... ",
+  "npc": "스키틀",
+  "npc_ja": "スキットル"
+ },
+ {
+  "id": "scriptnpc#0923",
+  "field": "name",
+  "ko": "이럴 수는 없는거다냥…",
+  "en": "You just can't...",
+  "npc": "스키틀",
+  "npc_ja": "スキットル"
+ },
+ {
+  "id": "scriptnpc#0924",
+  "field": "name",
+  "ko": "나도 $npcName:11004769[gender:0]$$pp:와,과$ 결혼하고 싶다냥!",
+  "en": "I want to marry $npcName:11004769$!",
+  "npc": "스키틀",
+  "npc_ja": "スキットル"
+ },
+ {
+  "id": "scriptnpc#0925",
+  "field": "name",
+  "ko": "냐아아…",
+  "en": "Nah...",
+  "npc": "치즈",
+  "npc_ja": "チーズ"
+ },
+ {
+  "id": "scriptnpc#0926",
+  "field": "name",
+  "ko": "나와 $npcName:11004768[gender:1]$$pp:는,은$ 처음 만났을 때부터 결혼을 꿈꿔왔다냥.\n드디어 그 소원이 이루어지는 줄 알았는데…",
+  "en": "$npcName:11004768[gender:1]$ and I have been dreaming about getting married since we first met. \n I thought that wish would finally come true...",
+  "npc": "치즈",
+  "npc_ja": "チーズ"
+ },
+ {
+  "id": "scriptnpc#0927",
+  "field": "name",
+  "ko": "나보다는 $npcName:11004768[gender:1]$$pp:가,이$ 실망이 커서 큰일이다냥.\n잘 달래서 다시 $map:02000139$$pp2:로,으로$ 돌아가야겠다냥…",
+  "en": "It's a big deal if $npcName:11004768$ is more disappointed than I am.\nI need to head back to $map:02000139$…",
+  "npc": "치즈",
+  "npc_ja": "チーズ"
+ },
+ {
+  "id": "scriptnpc#0928",
+  "field": "name",
+  "ko": "어쩔 수 없다냥…",
+  "en": "I can't help it...",
+  "npc": "치즈",
+  "npc_ja": "チーズ"
+ },
+ {
+  "id": "scriptnpc#0929",
+  "field": "name",
+  "ko": "우리 둘만의 결혼식을 올리자냥.",
+  "en": "Let's have our own wedding.",
+  "npc": "치즈",
+  "npc_ja": "チーズ"
+ },
+ {
+  "id": "scriptnpc#0930",
+  "field": "name",
+  "ko": "오오…",
+  "en": "Oh…",
+  "npc": "윙스",
+  "npc_ja": "ウィンクス"
+ },
+ {
+  "id": "scriptnpc#0931",
+  "field": "name",
+  "ko": "여기가 바로 $map:84000001$이군.\n집 근처라서 산책도 할 겸 구경나왔는데…",
+  "en": "This is $map:84000001$.\n It's near my house, so I went out for a walk...",
+  "npc": "윙스",
+  "npc_ja": "ウィンクス"
+ },
+ {
+  "id": "scriptnpc#0932",
+  "field": "name",
+  "ko": "여기도 커플, 저기도 커플…으아악!\n온몸에 닭살이 돋고 있어!",
+  "en": "A couple here and there…Ah!\nThere are chickens all over me!",
+  "npc": "윙스",
+  "npc_ja": "ウィンクス"
+ },
+ {
+  "id": "scriptnpc#0933",
+  "field": "name",
+  "ko": "어서 집으로 돌아가는게 좋겠어.\n…한편으로는 커플들이 부럽기도 하지만 말이야.",
+  "en": "You should get going.\n…I get envious of couples.",
+  "npc": "윙스",
+  "npc_ja": "ウィンクス"
+ },
+ {
+  "id": "scriptnpc#0934",
+  "field": "name",
+  "ko": "이렇게 커플투성이인 곳이라니…",
+  "en": "This place is filled with couples in love…",
+  "npc": "윙스",
+  "npc_ja": "ウィンクス"
+ },
+ {
+  "id": "scriptnpc#0935",
+  "field": "name",
+  "ko": "하아아…내 짝은 어디에?",
+  "en": "Haah…Where is my true love?",
+  "npc": "윙스",
+  "npc_ja": "ウィンクス"
+ },
+ {
+  "id": "scriptnpc#0936",
+  "field": "name",
+  "ko": "여긴 정말 아름다운 곳이야.\n커플들도 모두 행복해 보여.",
+  "en": "This place is beautiful. \nAll the lovely couples look so happy.",
+  "npc": "플러리",
+  "npc_ja": "フラリー"
+ },
+ {
+  "id": "scriptnpc#0937",
+  "field": "name",
+  "ko": "다음에 다시 왔을 때는…나도 혼자가 아니었으면 좋겠는데.\n분명 그런 날이 오겠지?",
+  "en": "The next time I come here… I hope I am no longer single.\nSurely that day will come, right?",
+  "npc": "플러리",
+  "npc_ja": "フラリー"
+ },
+ {
+  "id": "scriptnpc#0938",
+  "field": "name",
+  "ko": "하아아…심란하다 심란해.",
+  "en": "Haha…I'm feeling confused.",
+  "npc": "플러리",
+  "npc_ja": "フラリー"
+ },
+ {
+  "id": "scriptnpc#0939",
+  "field": "name",
+  "ko": "나도 의지할 수 있는 사람이 생겼으면…",
+  "en": "If only I had someone I could depend on…",
+  "npc": "플러리",
+  "npc_ja": "フラリー"
+ },
+ {
+  "id": "scriptnpc#0940",
+  "field": "name",
+  "ko": "부부의 연을 맺는다는 건 아름다운 거야.",
+  "en": "It's a beautiful day for couples to get married.",
+  "npc": "플러리",
+  "npc_ja": "フラリー"
+ },
+ {
+  "id": "scriptnpc#0941",
+  "field": "name",
+  "ko": "어휴 정말!",
+  "en": "Ohhh really!",
+  "npc": "베라리",
+  "npc_ja": "ベラリ"
+ },
+ {
+  "id": "scriptnpc#0942",
+  "field": "name",
+  "ko": "말이 안 통한다니까!",
+  "en": "It doesn't make sense!",
+  "npc": "베라리",
+  "npc_ja": "ベラリ"
+ },
+ {
+  "id": "scriptnpc#0943",
+  "field": "name",
+  "ko": "그러니까 다시 생각해보자는 거 아니야!",
+  "en": "I'm not going to think about it!",
+  "npc": "베라리",
+  "npc_ja": "ベラリ"
+ },
+ {
+  "id": "scriptnpc#0944",
+  "field": "name",
+  "ko": "이러니까 우리가 여기까지 온 거라고!",
+  "en": "It's why I came all the way down here!",
+  "npc": "베라리",
+  "npc_ja": "ベラリ"
+ },
+ {
+  "id": "scriptnpc#0945",
+  "field": "name",
+  "ko": "답답해!",
+  "en": "Ugh!",
+  "npc": "밀리 부인",
+  "npc_ja": "ミリー夫人"
+ },
+ {
+  "id": "scriptnpc#0946",
+  "field": "name",
+  "ko": "이렇게 답답한 사람과는 더 이상 못 살아!",
+  "en": "I can't live with someone like this anymore!",
+  "npc": "밀리 부인",
+  "npc_ja": "ミリー夫人"
+ },
+ {
+  "id": "scriptnpc#0947",
+  "field": "name",
+  "ko": "다 됐고! 4주 후에 보자고요!",
+  "en": "It's done! I will see you in 4 weeks!",
+  "npc": "밀리 부인",
+  "npc_ja": "ミリー夫人"
+ },
+ {
+  "id": "scriptnpc#0948",
+  "field": "name",
+  "ko": "있을 때 잘하던가! 이제 와서 그러면 뭐 해요?",
+  "en": "You're good for now. What will you do now?",
+  "npc": "밀리 부인",
+  "npc_ja": "ミリー夫人"
+ },
+ {
+  "id": "scriptnpc#0949",
+  "field": "name",
+  "ko": "리마인드 웨딩을 하고 싶다고 한다.",
+  "en": "I want to renew my wedding.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0950",
+  "field": "name",
+  "ko": "$MyPCName$님, 리마인드 웨딩은 결혼식을 올린 후 30일 이상 지나야 할 수 있답니다.\n아직 진행하실 수 없는 상태이시니, 좀더 시간이 흐른 후 다시 찾아와 주세요. ",
+  "en": "My dear $MyPCName$, wedding renewals can only happen after 30 days from the wedding.\nPlease come back when more time has passed. ",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0951",
+  "field": "name",
+  "ko": "알겠습니다. 그럼, 바로 예약 변경을 도와드릴게요. \n상대방도 이곳에 오셔서 동의를 해주셔야 변경 가능하니 꼭 불러 주세요. ",
+  "en": "Okay. I'll help you change your reservation right away. \nThe other party must also be here to give consent, so please call them over. ",
+  "npc": "아이비",
+  "npc_ja": "アイビー"
+ },
+ {
+  "id": "scriptnpc#0952",
+  "field": "name",
+  "ko": "즐거운 결혼식의 완성은 멋진 스튜디오죠!",
+  "en": "The perfect wedding ceremony should always have a wonderful studio!",
+  "npc": "쟈니스",
+  "npc_ja": "ジャニー",
+  "n": 3
+ },
+ {
+  "id": "scriptnpc#0953",
+  "field": "name",
+  "ko": "뷰파인더 안, 사랑하는 이의 모습에 초점을 맞추는 과정은 마치 사랑의 튜토리얼~\n내 옆에 네가 있고, 네 옆에 내가 있는 바로 그 순간을, 사진에 담아 보시죠.",
+  "en": "Focusing on your loved one through the viewfinder is like a tutorial on love~\nCapture the moment with a photo when you are side by side.",
+  "npc": "쟈니스",
+  "npc_ja": "ジャニー"
+ },
+ {
+  "id": "scriptnpc#0954",
+  "field": "name",
+  "ko": "좋습니다, 그럼 촬영장을 폐쇄합니다. \n모두, 안녕히 가세요~!",
+  "en": "Alright then, we're closing down the set. \nBye everyone~!",
+  "npc": "쟈니스",
+  "npc_ja": "ジャニー",
+  "n": 3
+ },
+ {
+  "id": "scriptnpc#0955",
+  "field": "name",
+  "ko": "환~상의 나라, $map:84000004$~\n행복한 결혼식의 가장 완벽한 마무리 촬영지, $map:84000004$입니다!",
+  "en": "Wonderland, $map:84000004$~\nThis is $map:84000004$, the most perfect way to finish a wedding!",
+  "npc": "페르젠",
+  "npc_ja": "フェルゼン"
+ },
+ {
+  "id": "scriptnpc#0956",
+  "field": "name",
+  "ko": "잊지 마세요, 찌푸리지 않는 표정이 세상에서 가장 빛난다는 걸.\n모든 걱정은 잊고, $map:84000004$에서 부디 즐거운 시간 보내시기를!",
+  "en": "Don't forget that smiling is the most bright expression in the world.\nForget all your worries and have a good time at $map:84000004$!",
+  "npc": "페르젠",
+  "npc_ja": "フェルゼン"
+ },
+ {
+  "id": "scriptnpc#0957",
+  "field": "name",
+  "ko": "물 속에서 환상적인 사진을 찍어 보세요~\n$map:84000005$에서는 모두가 모험과 환상의 나라 속 주인공이죠!",
+  "en": "Let's take some scenic photos by the water~\nIn $map:84000005$, everyone is the hero of a land of fantasy and adventure!",
+  "npc": "보글보글",
+  "npc_ja": "ブクブク"
+ },
+ {
+  "id": "scriptnpc#0958",
+  "field": "name",
+  "ko": "여기선 날 수도 있거든요. 물 속에서 날면 얼~마나 기분이 좋게요!\n특별한 날이니까, 마음껏 즐겨 보세요!",
+  "en": "You can fly here. Look how majestic it feels to fly in the water!\nToday is a special day, so enjoy it to the fullest!",
+  "npc": "보글보글",
+  "npc_ja": "ブクブク"
+ },
+ {
+  "id": "scriptnpc#0959",
+  "field": "name",
+  "ko": "행복해 보이는군, $MyPCName$. \n이제 무엇을 하려고 하는가?",
+  "en": "You look content, $MyPCName$. \nWhat will you do now?",
+  "npc": "아시모프",
+  "npc_ja": "アシモフ"
+ },
+ {
+  "id": "scriptnpc#0960",
+  "field": "name",
+  "ko": "고마워요, $MyPCName$.\n오늘의 당신도 눈부시게 아름답네요. 행복한 커플을 함께 축하합시다.",
+  "en": "Thank you, $MyPCName$.\n You look dazzlingly beautiful. Let's celebrate the happy couple today.",
+  "npc": "클로리스",
+  "npc_ja": "クロリス"
+ },
+ {
+  "id": "scriptnpc#0961",
+  "field": "name",
+  "ko": "아름다운 날입니다, $MyPCName$. 준비가 되었다면, 결혼식을 시작할까요?",
+  "en": "It's a beautiful day today, $MyPCName$. Ready to start the wedding?",
+  "npc": "클로리스",
+  "npc_ja": "クロリス"
+ },
+ {
+  "id": "scriptnpc#0962",
+  "field": "name",
+  "ko": "좋아요. 상대방도 동의한다면, 바로 결혼식을 시작하지요.",
+  "en": "Great. If the other party agrees, we will start the wedding right away.",
+  "npc": "클로리스",
+  "npc_ja": "クロリス"
+ },
+ {
+  "id": "scriptnpc#0963",
+  "field": "name",
+  "ko": "아름다운 커플의 멋진 결혼식이었어요, $MyPCName$. \n자, 지금부터 어떻게 하겠어요? 결혼식을 끝낼지, 식후 행사를 좀더 즐길지 알려주세요.",
+  "en": "What a wonderful wedding, $MyPCName$. \nWhat are you thinking now? Let us know if you want to end the wedding or enjoy more reception events.",
+  "npc": "클로리스",
+  "npc_ja": "クロリス"
+ },
+ {
+  "id": "scriptnpc#0964",
+  "field": "name",
+  "ko": "결혼식을 종료하고 싶다고 한다.",
+  "en": "I want to finish the wedding.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0965",
+  "field": "name",
+  "ko": "기념 촬영과 애프터 파티가 남았다고 한다.",
+  "en": "I want to take photos and do after-party events.",
+  "npc": "pc",
+  "n": 6
+ },
+ {
+  "id": "scriptnpc#0966",
+  "field": "name",
+  "ko": "결혼식을 종료하면 부부와 하객들 모두가 결혼식장에서 퇴장하게 됩니다.\n만일 아직 진행하지 않은 식후 행사가 있거나, 결혼식을 더욱 즐기고 싶다면 아직 종료 신청을 하지 않는 것이 좋을 거예요.\n내가 결혼식을 종료시켜 드리면, 다시 되돌릴 수 없기 때문입니다.",
+  "en": "When the wedding is over, the couple and their guests will be moved out of the wedding hall. \nIf you still have reception events or want to continue the wedding, you might want to consider not ending yet. \nOnce you end the wedding, you cannot come back.",
+  "npc": "클로리스",
+  "npc_ja": "クロリス"
+ },
+ {
+  "id": "scriptnpc#0967",
+  "field": "name",
+  "ko": "종료를 원한다면, 상대방의 동의를 받아 결혼식을 마쳐 드릴게요.",
+  "en": "If you wish to finish the wedding, we will wrap it up if the other party agrees.",
+  "npc": "클로리스",
+  "npc_ja": "クロリス"
+ },
+ {
+  "id": "scriptnpc#0968",
+  "field": "name",
+  "ko": "이만 결혼식을 종료하겠다고 한다.",
+  "en": "I want to finish the wedding.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0969",
+  "field": "name",
+  "ko": "알겠습니다. 상대방이 동의하면 결혼식을 완전히 끝내고 하객들과도 인사를 고하도록 도와드리죠.",
+  "en": "Okay. If the other party agrees, I'll help finish the wedding ceremony.",
+  "npc": "클로리스",
+  "npc_ja": "クロリス",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0970",
+  "field": "name",
+  "ko": "그래요, 아름다운 $map:84000015$에서 찬란한 그대들의 시간을 더욱 즐기시길. \n시간은 되돌아오지 않으니까, 이 순간을 알차게 보내 보아요.\n나는 이곳에 있을 테니, 필요할 때 다시 찾아와요.",
+  "en": "Enjoy your time on the beautiful $map:84000015$. \nYou can't revisit the past, so let's enjoy the moment! \nCome back when you need me. I'll be here.",
+  "npc": "클로리스",
+  "npc_ja": "クロリス"
+ },
+ {
+  "id": "scriptnpc#0971",
+  "field": "name",
+  "ko": "정말 멋진 배라고 칭찬한다.",
+  "en": "This is a fantastic ship.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0972",
+  "field": "name",
+  "ko": "$map:84000016$$pp:는,은$ 오늘의 주인공 커플을 위하여 빛날 준비가 되어 있습니다!\n드넓은 바다 위의 화려함! 따라올 수 없는 자유로움! 함께 축하하며 이 시간을 즐겨 보자고요!",
+  "en": "$map:84000016$ is ready to shine for today's star couple!\n Splendor the wide sea! Unparalleled freedom! Let's celebrate together and enjoy the moment!",
+  "npc": "데이데이",
+  "npc_ja": "デイデイ"
+ },
+ {
+  "id": "scriptnpc#0973",
+  "field": "name",
+  "ko": "$MyPCName$님! 결혼식을 시작할 준비, 되셨나요?",
+  "en": "$MyPCName$! Are you ready to start the wedding?",
+  "npc": "데이데이",
+  "npc_ja": "デイデイ"
+ },
+ {
+  "id": "scriptnpc#0974",
+  "field": "name",
+  "ko": "네! 상대방이 동의하시면 바로 결혼식을 시작하겠습니다.",
+  "en": "Great. If the other party agrees, we will start the wedding right away.",
+  "npc": "데이데이",
+  "npc_ja": "デイデイ"
+ },
+ {
+  "id": "scriptnpc#0975",
+  "field": "name",
+  "ko": "정말 멋진 결혼식이었습니다, $MyPCName$님! \n혹시 제 도움이 필요하신가요?",
+  "en": "What a wonderful wedding, $MyPCName$! \nHow can I help?",
+  "npc": "데이데이",
+  "npc_ja": "デイデイ"
+ },
+ {
+  "id": "scriptnpc#0976",
+  "field": "name",
+  "ko": "결혼식을 종료하시면 부부와 하객들 모두가 결혼식장에서 퇴장하게 됩니다.\n만일 아직 진행하지 않은 식후 행사가 있거나, 결혼식을 더욱 즐기고 싶다면 아직 종료 신청을 하지 않는 것이 좋아요.\n제가 결혼식을 종료시켜 드리면, 다시 되돌릴 수 없거든요.",
+  "en": "When the wedding is over, the couple and their guests will be moved out of the wedding hall. \nIf you still have reception events or want to continue the wedding, you might want to consider not ending yet. \nOnce you end the wedding, you cannot come back.",
+  "npc": "데이데이",
+  "npc_ja": "デイデイ"
+ },
+ {
+  "id": "scriptnpc#0977",
+  "field": "name",
+  "ko": "그래도 종료하고 싶으시다면, 상대방의 동의를 받아 결혼식을 끝마쳐 드리겠습니다!",
+  "en": "If you wish to finish the wedding, we will wrap it up if the other party agrees.",
+  "npc": "데이데이",
+  "npc_ja": "デイデイ"
+ },
+ {
+  "id": "scriptnpc#0978",
+  "field": "name",
+  "ko": "이만 결혼식을 종료하겠다고 한다.",
+  "en": "End the wedding.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0979",
+  "field": "name",
+  "ko": "네. 상대방이 동의하신다면, 결혼식을 완전히 끝내고 하객분들께서도 배에서 내리시도록 도와드리겠습니다.",
+  "en": "Sure. If the other party agrees, we will end the wedding and help the guests off the ship.",
+  "npc": "데이데이",
+  "npc_ja": "デイデイ"
+ },
+ {
+  "id": "scriptnpc#0980",
+  "field": "name",
+  "ko": "그렇게 하시겠어요? $map:84000016$에서 좀더 즐겨 주신다면 더욱 기쁠 겁니다.\n저는 이곳에 있을 테니, 언제든 필요할 때 찾아 주십시오!",
+  "en": "Is that so? I would be happy if you spent more time on $map:84000016$ enjoying it all.\nI'll be here, so talk to me whenever you need me!",
+  "npc": "데이데이",
+  "npc_ja": "デイデイ"
+ },
+ {
+  "id": "scriptnpc#0981",
+  "field": "name",
+  "ko": "$MyPCName$. 이제 결혼식을 시작하시겠습니까?",
+  "en": "$MyPCName$! Are you ready to start the wedding?",
+  "npc": "루아나",
+  "npc_ja": "ルアーナ"
+ },
+ {
+  "id": "scriptnpc#0982",
+  "field": "name",
+  "ko": "좋아요, 상대방이 동의하면 바로 결혼식을 시작하도록 하지요.",
+  "en": "Great. If the other party agrees, we will start the wedding right away.",
+  "npc": "루아나",
+  "npc_ja": "ルアーナ"
+ },
+ {
+  "id": "scriptnpc#0983",
+  "field": "name",
+  "ko": "즐거운 결혼식이었어요, $MyPCName$. \n이제 결혼식을 끝내고 싶나요? 아니면 식후 행사를 좀더 즐길 생각인가요?",
+  "en": "What a wonderful wedding, $MyPCName$. \nWould you like to end the ceremony now, or enjoy the celebration a little longer?",
+  "npc": "루아나",
+  "npc_ja": "ルアーナ"
+ },
+ {
+  "id": "scriptnpc#0984",
+  "field": "name",
+  "ko": "결혼식을 종료하면 부부와 하객들 모두가 결혼식장에서 퇴장하게 됩니다.\n만일 아직 진행하지 않은 식후 행사가 있거나, 결혼식을 더욱 즐기고 싶다면 아직 종료 신청을 하지 않는 것이 좋을 거예요.\n제가 결혼식을 종료시켜 드리면, 다시 되돌릴 수 없기 때문이지요.",
+  "en": "When the wedding is over, the couple and their guests will be moved out of the wedding hall. \nIf you still have reception events or want to continue the wedding, you might want to consider not ending yet. \nOnce you end the wedding, you cannot come back.",
+  "npc": "루아나",
+  "npc_ja": "ルアーナ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0985",
+  "field": "name",
+  "ko": "정말 종료하고 싶다면, 상대방의 동의를 받아 결혼식을 끝마쳐 드리죠. 그렇게 하겠어요?",
+  "en": "If you wish to finish the wedding, we will wrap it up if the other party agrees.",
+  "npc": "루아나",
+  "npc_ja": "ルアーナ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#0986",
+  "field": "name",
+  "ko": "알겠습니다. 상대방이 동의하면 결혼식을 완전히 끝내고 하객들과도 인사를 고하도록 도와드리죠.",
+  "en": "If you wish to finish the wedding, we will wrap it up if the other party agrees.",
+  "npc": "루아나",
+  "npc_ja": "ルアーナ"
+ },
+ {
+  "id": "scriptnpc#0987",
+  "field": "name",
+  "ko": "그래요. \n좀더 결혼식을 즐기시고, 필요할 때 다시 저를 찾아오십시오.",
+  "en": "Sure. \nKeep on enjoying the wedding and come back when you need me.",
+  "npc": "루아나",
+  "npc_ja": "ルアーナ"
+ },
+ {
+  "id": "scriptnpc#0988",
+  "field": "name",
+  "ko": "$MyPCName$. 결혼식을 시작하겠는가?",
+  "en": "Ready to start the wedding, $MyPCName$?",
+  "npc": "마노비치",
+  "npc_ja": "マノヴィッチ"
+ },
+ {
+  "id": "scriptnpc#0989",
+  "field": "name",
+  "ko": "좋은 결혼식이었네, $MyPCName$. 보기 좋은 한 쌍이야!\n이제부터 어떻게 할 생각인가? 결혼식을 끝내려면 말하게.",
+  "en": "What a wonderful wedding, $MyPCName$. What a lovely couple!\nWhat do you plan to do now? Do you want to end the wedding?",
+  "npc": "마노비치",
+  "npc_ja": "マノヴィッチ"
+ },
+ {
+  "id": "scriptnpc#0990",
+  "field": "name",
+  "ko": "결혼식을 종료하면 부부와 하객들 모두가 결혼식장에서 퇴장하게 되지.\n만일 아직 진행하지 않은 식후 행사가 있거나, 결혼식을 더욱 즐기고 싶다면 아직 종료 신청을 하지 않는 것이 좋아.\n내가 결혼식을 종료시켜 주면, 다시 되돌릴 수 없거든.",
+  "en": "When the wedding is over, the couple and their guests will be moved out of the wedding hall. \nIf you still have reception events or want to continue the wedding, you might want to consider not ending yet. \nOnce you end the wedding, you cannot come back.",
+  "npc": "마노비치",
+  "npc_ja": "マノヴィッチ"
+ },
+ {
+  "id": "scriptnpc#0991",
+  "field": "name",
+  "ko": "자, 어떻게 하겠나? 결혼식을 종료하겠나?",
+  "en": "So, what will it be? Do you want to end the wedding?",
+  "npc": "마노비치",
+  "npc_ja": "マノヴィッチ"
+ },
+ {
+  "id": "scriptnpc#0992",
+  "field": "name",
+  "ko": "알겠네. 상대방이 동의하면 결혼식을 종료시켜 주지. \n그럼, 행복하게나!",
+  "en": "Okay. If the other party agrees, I'll help finish the wedding ceremony.",
+  "npc": "마노비치",
+  "npc_ja": "マノヴィッチ"
+ },
+ {
+  "id": "scriptnpc#0993",
+  "field": "name",
+  "ko": "그래. 좀더 결혼식을 즐기다가, 필요할 때 다시 말하게.",
+  "en": "Sure. \nKeep on enjoying the wedding and come back when you need me.",
+  "npc": "마노비치",
+  "npc_ja": "マノヴィッチ"
+ },
+ {
+  "id": "scriptnpc#0994",
+  "field": "name",
+  "ko": "$MyPCName$. 결혼식을 시작할 준비가 되었나요?",
+  "en": "Ready to start the wedding, $MyPCName$?",
+  "npc": "나메드",
+  "npc_ja": "ナメッド"
+ },
+ {
+  "id": "scriptnpc#0995",
+  "field": "name",
+  "ko": "알겠어요, 상대방이 동의하면 바로 결혼식을 시작하도록 하지요.",
+  "en": "Great. If the other party agrees, we will start the wedding right away.",
+  "npc": "나메드",
+  "npc_ja": "ナメッド"
+ },
+ {
+  "id": "scriptnpc#0996",
+  "field": "name",
+  "ko": "정말 멋진 결혼식이었어요, $MyPCName$. 아름다운 그대들을 축복합니다.\n결혼식을 끝내고 싶나요? 아니면 식후 행사를 좀더 즐길 생각인가요?",
+  "en": "What a wonderful wedding, $MyPCName$. What a lovely couple!\nWhat do you plan to do now? Do you want to end the wedding?",
+  "npc": "나메드",
+  "npc_ja": "ナメッド"
+ },
+ {
+  "id": "scriptnpc#0997",
+  "field": "name",
+  "ko": "그래요. 좋은 날이니, $map:84000014$의 신성한 기운을 듬뿍 받아가도록 해요. \n편안히 즐기고, 필요할 때 날 다시 찾아오도록 하세요.",
+  "en": "Sure. It's a good day to get plenty of divine energy in $map:84000014$. \nRelax a bit more and come back when you need me.",
+  "npc": "나메드",
+  "npc_ja": "ナメッド"
+ },
+ {
+  "id": "scriptnpc#0998",
+  "field": "name",
+  "ko": "정말 아름답다고 칭찬한다.",
+  "en": "It is so beautiful.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#0999",
+  "field": "name",
+  "ko": "반가워요, $MyPCName$님. 제 도움이 필요하세요?",
+  "en": "Nice to meet you, $MyPCName$. How can I help?",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1000",
+  "field": "name",
+  "ko": "결혼식장 예약 방법을 물어본다.",
+  "en": "Ask how to book a wedding venue.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1001",
+  "field": "name",
+  "ko": "네, 결혼은 좋은 겁니다. 꼭 하세요!\n결혼을 약속한 사람이 생기면 제가 멋진 결혼식 예약을 도와드릴게요.",
+  "en": "Yes, marriage is beautiful. Do it!\nIf someone promises to get married with you, I'll help you make a wonderful wedding reservation.",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ"
+ },
+ {
+  "id": "scriptnpc#1002",
+  "field": "name",
+  "ko": "결혼하는 방법을 물어본다.",
+  "en": "Ask how to get married.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1003",
+  "field": "name",
+  "ko": "당신과 결혼하고 싶다고 한다.",
+  "en": "I want to marry you.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1004",
+  "field": "name",
+  "ko": "결혼을 하려면 우선 친구에게 청혼을 해서, 약혼을 해야 한답니다. \n그 상태로 웨딩 플래너를 만나 결혼식장을 예약하고 결혼식을 올리시면 돼요.\n약혼 상태는 7일간만 유지됩니다. 그 안에 결혼식을 올리지 않으면 약혼 관계가 사라지니까 주의하세요.",
+  "en": "\nOnce you're engaged, meet with the wedding planner to reserve a venue in order to have your ceremony. \nKeep in mind that you can only be engaged for 7 days. If you don't get married within that time, your engagement will be broken off.",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ"
+ },
+ {
+  "id": "scriptnpc#1005",
+  "field": "name",
+  "ko": "결혼식장을 예약할 때, 결혼식을 완료했을 때 우편으로 예약 선물과 결혼 선물을 드립니다. \n이 선물들은 결혼식장이 어디냐에 따라 달라지니까 예약할 때는 신중하게 선택해 주십시오.",
+  "en": "When you book your reservation, you will receive a reservation gift by mail. Once you get married, you will also receive a wedding gift. \nThese gets depend on where your wedding venue is, so choose carefully.\nDo not worry if you change your reservation. We will send you the gift by mail. ",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ"
+ },
+ {
+  "id": "scriptnpc#1006",
+  "field": "name",
+  "ko": "예? 예??? 저… 저요???\n그… 그건 안 됩니다. 저는 할 일이 아주 많아서… ",
+  "en": "Huh? Huh??? M-me???\nI… I can't. I am so, so busy… ",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ"
+ },
+ {
+  "id": "scriptnpc#1007",
+  "field": "name",
+  "ko": "마음은 감사하지만 못 들은 것으로 할게요! \n진짜 결혼하고 싶은 사람을 찾으시면 그 때, 결혼식 예약은 진짜 열심히 도와드릴게요! 이건 약속할 수 있어요! ",
+  "en": "I am flattered but I'll pretend I didn't hear that! \nIf you find someone who want's to marry you, then I'll help you book your wedding! Now that I can promise! ",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ"
+ },
+ {
+  "id": "scriptnpc#1008",
+  "field": "name",
+  "ko": "결혼식장 예약은 웨딩 플래너들을 통해 할 수 있죠.\n웨딩 플래너에게 말을 걸어 결혼식장을 예약하고, 예약 비용을 지불하면 돼요.\n자세한 내용이 궁금하다면, 직접 예약을 시도해 보는 건 어떨까요? ",
+  "en": "You can book a wedding venue through the wedding planners.\nYou will need to pay for the booking through the wedding planner.\nIf you're interested in more details, why not try booking it yourself?? ",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ"
+ },
+ {
+  "id": "scriptnpc#1009",
+  "field": "name",
+  "ko": "참, 웨딩 플래너별로 전문 분야나 추천하는 내용이 조금씩 달라요. \n예약을 하기 전, 웨딩 플래너들에게 상담을 받아 보는 것도 좋아요. ",
+  "en": "Indeed, each wedding planner has a slight different speciality or recommendation. \nBefore making a reservation, consider consulting them all.  ",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ"
+ },
+ {
+  "id": "scriptnpc#1010",
+  "field": "name",
+  "ko": "제가 추천하는 결혼식장은 모두가 좋아하는 $map:84000011$,\n소박하고 아름다운 $map:84000012$. 이렇게 두 곳이랍니다. \n혹시 미리 가보고 싶으시다면, 약혼을 하신 뒤 다시 찾아 주십시오. \n약혼을 하신 분께는 미리보기 투어 기회를 드리고 있습니다. ",
+  "en": "I recommend everyone's favorite $map:84000011$,\nor the unpretentious beautiful $map:84000012$. Those are two different places. \nIf you would like to check them out, come back once you are engaged. \nWe offer preview tours for those who are engaged. ",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ"
+ },
+ {
+  "id": "scriptnpc#1011",
+  "field": "name",
+  "ko": "반가워요, $MyPCName$님. 제 도움이 필요하세요?",
+  "en": "Nice to meet you,  $MyPCName$. Do you need help?",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1012",
+  "field": "name",
+  "ko": "추천 결혼식장 투어를 받고 싶다고 한다.",
+  "en": "I would like to take a tour of the wedding venue.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1013",
+  "field": "name",
+  "ko": "정말 잘 오셨어요. 바로 예약을 도와드리죠.",
+  "en": "You are welcome. We'll help you make a reservation right away.",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ"
+ },
+ {
+  "id": "scriptnpc#1014",
+  "field": "name",
+  "ko": "제가 추천하는 결혼식장은 모두가 좋아하는 $map:84000011$,\n소박하고 아름다운 $map:84000012$. 이렇게 두 곳이랍니다. ",
+  "en": "My recommendation is everyone's favorite $map:84000011$,\nor the unpretentious beautiful $map:84000012$. Those are two different places. ",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ"
+ },
+ {
+  "id": "scriptnpc#1015",
+  "field": "name",
+  "ko": "$map:84000011$에 가보고 싶다고 한다.",
+  "en": "I want to tour $map:84000011$.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1016",
+  "field": "name",
+  "ko": "$map:84000012$에 가보고 싶다고 한다.",
+  "en": "I want to tour $map:84000012$.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1017",
+  "field": "name",
+  "ko": "낮의 $map:84000011$에 가보고 싶다고 한다.",
+  "en": "I want to visit $map:84000011$ during the day.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1018",
+  "field": "name",
+  "ko": "밤의 $map:84000011$에 가보고 싶다고 한다.",
+  "en": "I want to visit $map:84000011$ during the night.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1019",
+  "field": "name",
+  "ko": "낮의 $map:84000012$에 가보고 싶다고 한다.",
+  "en": "I want to visit $map:84000012$ during the day.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1020",
+  "field": "name",
+  "ko": "밤의 $map:84000012$에 가보고 싶다고 한다.",
+  "en": "I want to visit $map:84000012$ during the night.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1021",
+  "field": "name",
+  "ko": "반갑습니다, $MyPCName$님. \n결혼 생활은 즐거우세요?",
+  "en": "It's nice to see you, $MyPCName$. \nEnjoying your marriage?",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ"
+ },
+ {
+  "id": "scriptnpc#1022",
+  "field": "name",
+  "ko": "행복하다고 한다.",
+  "en": "I am happy!",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1023",
+  "field": "name",
+  "ko": "$MyPCName$님, 리마인드 웨딩은 결혼식을 올린 후 30일 이상 지나야 할 수 있답니다.\n아직 진행하실 수 없는 상태이시니, 좀더 시간이 흐른 후 다시 찾아와 주세요. ",
+  "en": "My dear $MyPCName$, wedding renewals can only happen after 30 days from the wedding.\nPlease come back when more time has passed.",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ"
+ },
+ {
+  "id": "scriptnpc#1024",
+  "field": "name",
+  "ko": "알겠습니다. 그럼, 바로 예약 변경을 도와드릴게요. \n상대방도 이곳에 오셔서 동의를 해주셔야 변경 가능하니 꼭 불러 주세요. ",
+  "en": "Okay. I'll help you change your reservation right away. \nThe other party must also be here to give consent, so please call them over.",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1025",
+  "field": "name",
+  "ko": "결혼하고 싶다고 한다.",
+  "en": "I wish to get married.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1026",
+  "field": "name",
+  "ko": "음… 얼마 전 이혼 관련 일들을 겪으신 것 같은데… \n아직 새로운 결혼을 하시기엔 너무 이르신 것 같네요.\n좀더 시간이 흐른 뒤, 새로운 인연을 찾으시면 그때 다시 만나요.",
+  "en": "Um... I think you went through a divorce pretty recent. \nI think it's too early to get married right now. \nGive it more time and if you find a new relationship, talk to me again.",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ"
+ },
+ {
+  "id": "scriptnpc#1027",
+  "field": "name",
+  "ko": "반갑습니다, $MyPCName$님. 도움이 필요하세요?",
+  "en": "Nice to meet you, $MyPCName$. Do you need help?",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ"
+ },
+ {
+  "id": "scriptnpc#1028",
+  "field": "name",
+  "ko": "알겠습니다. \n그럼, 바로 예약 변경을 도와드릴게요. ",
+  "en": "All right. \nI'll help you change your reservation right away. ",
+  "npc": "흐뭇",
+  "npc_ja": "ニコニコ"
+ },
+ {
+  "id": "scriptnpc#1029",
+  "field": "name",
+  "ko": "결혼식장 예약을 하셨다면 청첩장을 보내보세요! 제가 도와드릴게요! ",
+  "en": "Don't forget to send out your wedding invitations if you made a reservation. Let me help! ",
+  "npc": "프로미",
+  "npc_ja": "プロミ"
+ },
+ {
+  "id": "scriptnpc#1030",
+  "field": "name",
+  "ko": "결혼식장 예약을 하시면 청첩장을 보낼 수 있습니다.\n청첩장은 발송 건당 1,000메소의 수수료가 있습니다.\n여러분의 기쁜 소식을 잘 배달하기 위한 비용이니 양해 부탁드립니다.",
+  "en": "If you make a wedding venue reservation, we can send out your invitations for \n1,000 mesos\n per invitation. Please understand there is a cost to deliver your good news.",
+  "npc": "프로미",
+  "npc_ja": "プロミ"
+ },
+ {
+  "id": "scriptnpc#1031",
+  "field": "name",
+  "ko": "결혼식을 예약하셨군요. 청첩장을 보내시겠습니까?",
+  "en": "You have booked your wedding. Would you like to send out wedding invitations?",
+  "npc": "프로미",
+  "npc_ja": "プロミ"
+ },
+ {
+  "id": "scriptnpc#1032",
+  "field": "name",
+  "ko": "청첩장을 보내겠다고 한다.",
+  "en": "I would like to send out invitations.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1033",
+  "field": "name",
+  "ko": "청첩장은 발송 건당 1,000메소의 수수료가 있으며, 청첩장을 받았더라도 결혼식장의 최대 입장 인원이 초과된 경우 입장할 수 없습니다.\n청첩장을 받을 사람을 선택한 후, 보내기를 눌러 주세요.",
+  "en": "There is a fee of 1,000 mesos for each invitation to send. Even if a guest has received an invitation, they will not be able to enter if the maximum number of guests at the venue has exceeded. \nSelect the person to receive the invitation and then press Send.",
+  "npc": "프로미",
+  "npc_ja": "プロミ"
+ },
+ {
+  "id": "scriptnpc#1034",
+  "field": "name",
+  "ko": "결혼식 하세요? 청첩장 보내세요!",
+  "en": "Are you having a wedding? Send out your invitations!",
+  "npc": "메로미",
+  "npc_ja": "メロミ"
+ },
+ {
+  "id": "scriptnpc#1035",
+  "field": "name",
+  "ko": "결혼 소식은 알려야 제맛! ",
+  "en": "Let everyone know about your wedding! ",
+  "npc": "메로미",
+  "npc_ja": "メロミ"
+ },
+ {
+  "id": "scriptnpc#1036",
+  "field": "name",
+  "ko": "청첩장을 보내주세요!",
+  "en": "Send your wedding invitations!",
+  "npc": "메로미",
+  "npc_ja": "メロミ"
+ },
+ {
+  "id": "scriptnpc#1037",
+  "field": "name",
+  "ko": "결혼식장 예약을 하신 후에는 청첩장을 보낼 수 있지요!\n제 옆에 있는 빨간 우체통을 이용하시면 돼요!",
+  "en": "After you have made your wedding reservation, you can send wedding invitations. \nYou can use the red mailbox next to me!",
+  "npc": "메로미",
+  "npc_ja": "メロミ"
+ },
+ {
+  "id": "scriptnpc#1038",
+  "field": "name",
+  "ko": "청첩장 보내기에 대해 자세히 알려달라고 한다.",
+  "en": "Ask for more information on wedding invitations.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1039",
+  "field": "name",
+  "ko": "청첩장을 보내실 때는 건당 1,000메소의 수수료가 있답니다.\n여러분의 기쁜 소식을 잘 배달하기 위한 비용이니 양해 부탁드릴게요!",
+  "en": "There is a fee of 1,000 mesos for each wedding invitation to send. \nPlease understand there is a cost to deliver your good news.",
+  "npc": "메로미",
+  "npc_ja": "メロミ"
+ },
+ {
+  "id": "scriptnpc#1040",
+  "field": "name",
+  "ko": "청첩장을 보내시면, 결혼식 일정과 장소를 주변 사람들에게 알릴 수 있어요.\n청첩장을 받으신 분들에게는 결혼식 시간이 되면 결혼식 입장 알림이 나타나는데,\n그걸 클릭해서 결혼식장에 편하게 입장할 수 있답니다.",
+  "en": "Wedding invitations are a good way to inform your guests of the time and location.\nWhen the time comes for the wedding, your guests will get notified to enter. \nClicking on the invitation will allow them to move to the wedding hall.",
+  "npc": "메로미",
+  "npc_ja": "メロミ"
+ },
+ {
+  "id": "scriptnpc#1041",
+  "field": "name",
+  "ko": "하지만 청첩장을 받은 분들이 모두 결혼식장에 입장할 수 있는 것은 아니에요.\n결혼식장의 최대 입장 가능 인원이 초과한다면 입장하실 수 없답니다.\n이 점은 꼭 체크 부탁드릴게요.",
+  "en": "However, keep in mind not everyone who receives an invitation can enter the wedding hall. \nIf the maximum occupany is reached, no more guests will be able to enter. \nKeep this in mind.",
+  "npc": "메로미",
+  "npc_ja": "メロミ"
+ },
+ {
+  "id": "scriptnpc#1042",
+  "field": "name",
+  "ko": "하지만 실망하지 마세요, 그래도 청첩장을 한 번 보내 두면 결혼식장 예약 시간이 변경되거나 취소될 경우에도 우편을 보내서 알려드리거든요.\n주변 분들과 함께하는 결혼식을 만들고 싶다면, 청첩장을 활용해 보세요! ",
+  "en": "But don't get discouraged. We'll still send you the invitations and notify if there are any wedding venue changes or cancellations. \nIf you want your friends at your wedding, send them an invitation! ",
+  "npc": "메로미",
+  "npc_ja": "メロミ"
+ },
+ {
+  "id": "scriptnpc#1043",
+  "field": "name",
+  "ko": "祝你<font color=\"#ffd200\">生日快乐</font>，嘎嘎",
+  "en": "Have a <font color=\"#ffd200\">happy birthday</font>, quack quack!",
+  "npc": "생일기념더키",
+  "npc_ja": "誕生日記念ダッキー"
+ },
+ {
+  "id": "scriptnpc#1044",
+  "field": "name",
+  "ko": "<font color=\"#ffd200\">本月生日的人</font>可以获得<font color=\"#ffd200\">礼物</font>，嘎嘎",
+  "en": "Those <font color=\"#ffd200\">born this month</font> can receive a <font color=\"#ffd200\">gift</font>, quack quack!",
+  "npc": "생일기념더키",
+  "npc_ja": "誕生日記念ダッキー"
+ },
+ {
+  "id": "scriptnpc#1045",
+  "field": "name",
+  "ko": "합의 이혼은 31일 이상 결혼 관계를 유지한 부부가 $map:84000002$에 함께 오셔서 서로 동의를 해야만 처리 가능합니다.",
+  "en": "A concensual divorce can only occur when maintained a martial relationship for more than 31 days and both parties come to $map:84000002$ to agree on the divorce.",
+  "npc": "미아",
+  "npc_ja": "ミア"
+ },
+ {
+  "id": "scriptnpc#1046",
+  "field": "name",
+  "ko": "강제 이혼을 신청하려면 31일 이상 결혼 관계를 유지했어야 하고, 이혼 수수료인 1,000,000 메소를 지불해야 합니다.\n$MyPCName$님은 조건을 충족하지 않아 강제 이혼 신청이 불가능합니다.",
+  "en": "To apply for a forced divorce, you must have maintained a marital relationship for more than 31 days and pay the fee of 1,000,000 mesos. \n$MyPCName$, you do not meet the conditions to apply for a forced divorce.",
+  "npc": "하인들",
+  "npc_ja": "使用人たち"
+ },
+ {
+  "id": "scriptnpc#1047",
+  "field": "name",
+  "ko": "$map:84000002$ 변호사 $npcName:11004713[gender:0]$입니다. 제게 용무가 있으신가요?",
+  "en": "I am attorney $npcName:11004713[gender:0]$ of $map:84000002$. Do you have business to discuss?",
+  "npc": "하인들",
+  "npc_ja": "使用人たち",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1048",
+  "field": "name",
+  "ko": "강제 이혼 신청이 어떻게 진행되고 있는지 궁금하다고 말한다.",
+  "en": "Check the status of your forced divorce application.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1049",
+  "field": "name",
+  "ko": "상대방이 강제 이혼 신청에 대한 의사를 밝히지 않았습니다.\n아직 이혼 숙려 기간이 진행 중이니 기다리시기 바랍니다.",
+  "en": "The other party has not expressed their interest in the divorce. \nThe contemplation period is still in progress, so please continue to wait.",
+  "npc": "하인들",
+  "npc_ja": "使用人たち"
+ },
+ {
+  "id": "scriptnpc#1050",
+  "field": "name",
+  "ko": "혹시, 강제 이혼 신청을 취소하고 싶습니까?\n원한다면 처리해 드릴 수 있습니다. 단, 수수료는 돌려드리지 않습니다.",
+  "en": "Do you want to cancel your forced divorce application?\nI can handle that if you wish. However, the fee is not refundable.",
+  "npc": "하인들",
+  "npc_ja": "使用人たち"
+ },
+ {
+  "id": "scriptnpc#1051",
+  "field": "name",
+  "ko": "강제 이혼 신청을 취소하겠다고 한다.",
+  "en": "I want to cancel my forced divorce application.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1052",
+  "field": "name",
+  "ko": "다시 생각해보겠다고 한다.",
+  "en": "Let me think about it again.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1053",
+  "field": "name",
+  "ko": "의견 확인했습니다. \n취소 처리가 완료되면 확인 우편이 도착할 테니, 확인해 보시기 바랍니다.",
+  "en": "Comment confirmed. \nOnce the cancellation process is complete, a confirmation mail will arrive.",
+  "npc": "하인들",
+  "npc_ja": "使用人たち",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1054",
+  "field": "name",
+  "ko": "지금부터 이혼에 따른 주의사항을 알려드리겠습니다. \n합의 이혼 시 이혼 취소 신청을 할 수 없으니 신중하게 결정 바랍니다.",
+  "en": "Take into consideration the precautions of a divorce. \nIf you are in a consensual divorce, you cannot cancel the divorce, so consider your decision wisely.",
+  "npc": "미아",
+  "npc_ja": "ミア"
+ }
+]

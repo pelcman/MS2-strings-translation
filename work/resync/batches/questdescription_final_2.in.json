@@ -1,0 +1,2095 @@
+[
+ {
+  "id": "questdescription_final#0410",
+  "field": "complete",
+  "ko": "* MC케이 이벤트는 매시간 5분, 35분에 참여할 수 있습니다.\n* 상해 크레이지 러너즈는 매시간 15분, 45분에 참여할 수 있습니다.\n\nMC케이 이벤트 5회 참여하기",
+  "en": "* MC Kay events are available at :05 and :35 every hour.\n* Shanghai Crazy Runners are available at :15 and :45 every hour.\n\nParticipate in MC Kay events 5 times",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0411",
+  "field": "manual",
+  "ko": "공략이 필요한 필드 보스:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$\n\n필드 보스 10회 처치하기",
+  "en": "Field bosses to defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$,\n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$,\n$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$\n\nDefeat field bosses 10 times",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0412",
+  "field": "complete",
+  "ko": "공략이 필요한 필드 보스:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$\n\n필드 보스 10회 처치하기",
+  "en": "Field bosses to defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$,\n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$,\n$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$\n\nDefeat field bosses 10 times",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0413",
+  "field": "manual",
+  "ko": "공략이 필요한 던전 보스:\n$npc:24000409$, $npc:22000047$, $npc:23100007$, \n$npc:23100025$, $npc:23100077$, $npc:24001601$, $npc:24001309$,\n$npc:24002201$, $npc:24001904$, $npc:24001807$, $npc:23100006$, 피리스, 셀린, 에르다, \n$npc:24003101$, $npc:24003214$, $npc:23190105$, $npc:23190106$ 등\n \n* 생명의 틈 던전은 제외입니다.\n* 용맹의 시험장 던전은 제외입니다.\n* 대양의 수호신 던전은 제외입니다.\n* 카오스 레이드 던전은 제외입니다.\n\n모험 던전 보스 10회 처치하기",
+  "en": "Dungeon bosses to defeat:\n$npc:24000409$, $npc:22000047$, $npc:23100007$,\n$npc:23100025$, $npc:23100077$, $npc:24001601$, $npc:24001309$,\n$npc:24002201$, $npc:24001904$, $npc:24001807$, $npc:23100006$, Pyris, Seline, Erda,\n$npc:24003101$, $npc:24003214$, $npc:23190105$, $npc:23190106$, etc.\n\n* Rift of Life dungeons are excluded.\n* Trial of Valor dungeons are excluded.\n* Guardian of the Ocean dungeons are excluded.\n* Chaos Raid dungeons are excluded.\n\nDefeat adventure dungeon bosses 10 times",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0414",
+  "field": "complete",
+  "ko": "공략이 필요한 던전 보스:\n$npc:24000409$, $npc:22000047$, $npc:23100007$, \n$npc:23100025$, $npc:23100077$, $npc:24001601$, $npc:24001309$,\n$npc:24002201$, $npc:24001904$, $npc:24001807$, $npc:23100006$, 피리스, 셀린, 에르다, \n$npc:24003101$, $npc:24003214$, $npc:23190105$, $npc:23190106$ 등\n \n* 생명의 틈 던전은 제외입니다.\n* 용맹의 시험장 던전은 제외입니다.\n* 대양의 수호신 던전은 제외입니다.\n* 카오스 레이드 던전은 제외입니다.\n\n모험 던전 보스 10회 처치하기",
+  "en": "Dungeon bosses to defeat:\n$npc:24000409$, $npc:22000047$, $npc:23100007$,\n$npc:23100025$, $npc:23100077$, $npc:24001601$, $npc:24001309$,\n$npc:24002201$, $npc:24001904$, $npc:24001807$, $npc:23100006$, Pyris, Seline, Erda,\n$npc:24003101$, $npc:24003214$, $npc:23190105$, $npc:23190106$, etc.\n\n* Rift of Life dungeons are excluded.\n* Trial of Valor dungeons are excluded.\n* Guardian of the Ocean dungeons are excluded.\n* Chaos Raid dungeons are excluded.\n\nDefeat adventure dungeon bosses 10 times",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0415",
+  "field": "complete",
+  "ko": "1000m 달리기",
+  "en": "Run 1000m",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0416",
+  "field": "complete",
+  "ko": "100m 기어가기",
+  "en": "Crawl 100m",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0417",
+  "field": "manual",
+  "ko": "벽 타고 500m 이동하기",
+  "en": "Travel 500m by wall climbing",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0418",
+  "field": "complete",
+  "ko": "벽 타고 500m 이동하기",
+  "en": "Travel 500m by wall climbing",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0419",
+  "field": "manual",
+  "ko": "MC케이 이벤트 5회 참여하기",
+  "en": "Participate in MC Kay events 5 times",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0420",
+  "field": "complete",
+  "ko": "MC케이 이벤트 5회 참여하기",
+  "en": "Participate in MC Kay events 5 times",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0421",
+  "field": "manual",
+  "ko": "부서지는 물건 100회 부수기",
+  "en": "Break breakable objects 100 times"
+ },
+ {
+  "id": "questdescription_final#0422",
+  "field": "complete",
+  "ko": "부서지는 물건 100회 부수기",
+  "en": "Break breakable objects 100 times"
+ },
+ {
+  "id": "questdescription_final#0423",
+  "field": "manual",
+  "ko": "오늘의 미션 10번 완료하기",
+  "en": "Complete daily missions 10 times",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0424",
+  "field": "complete",
+  "ko": "오늘의 미션 10번 완료하기",
+  "en": "Complete daily missions 10 times",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0425",
+  "field": "manual",
+  "ko": "탐험 달성도 300 달성하기",
+  "en": "Reach an exploration score of 300"
+ },
+ {
+  "id": "questdescription_final#0426",
+  "field": "complete",
+  "ko": "탐험 달성도 300 달성하기",
+  "en": "Reach an exploration score of 300"
+ },
+ {
+  "id": "questdescription_final#0427",
+  "field": "name",
+  "ko": "다크 스트림 15라운드 통과",
+  "en": "Clear Dark Stream Round 15"
+ },
+ {
+  "id": "questdescription_final#0428",
+  "field": "complete",
+  "ko": "다크 스트림 15라운드 통과하기",
+  "en": "Clear Dark Stream round 15"
+ },
+ {
+  "id": "questdescription_final#0429",
+  "field": "manual",
+  "ko": "황금 보물 상자 10개 찾기",
+  "en": "Find 10 golden treasure chests"
+ },
+ {
+  "id": "questdescription_final#0430",
+  "field": "complete",
+  "ko": "황금 보물 상자 10개 찾기",
+  "en": "Find 10 golden treasure chests"
+ },
+ {
+  "id": "questdescription_final#0431",
+  "field": "name",
+  "ko": "다른 친구들과 1회 합주",
+  "en": "Ensemble with Other Players 1 Time"
+ },
+ {
+  "id": "questdescription_final#0432",
+  "field": "complete",
+  "ko": "부서지는 물건 10개 부수기",
+  "en": "Break 10 breakable objects"
+ },
+ {
+  "id": "questdescription_final#0433",
+  "field": "desc",
+  "ko": "메이플 월드 곳곳에서 다양한 펫을 포획하여 도감을 채워 보자!\n필드를 돌아다니며 펫을 15마리 포획하면\n$npc:11001003$에게서 $item:60000032$$pp:를,을$ 받을 수 있다.\n\n도감을 채우고 선물로 귀여운 펫도 받아 보자.",
+  "en": "Capture various pets around Maple World and become a true pet master! Capture 15 pets to get a $item:60000032$ from $npc:11001003$."
+ },
+ {
+  "id": "questdescription_final#0434",
+  "field": "desc",
+  "ko": "$dungeonTitle:25008001$\n(입구 맵 : $map:2000048$)\n\n$map:02000350$이 어떤 곳인지 궁금해 하는 $npc:11001003$의 궁금증을 풀어 주기 위해 직접 짙은 어둠 속을 다녀와 보자.\n$map:02000350$에서 열다섯 번째 어둠을 통과한 뒤 $npc:11001003$에게 말을 걸면 선물을 받을 수 있다.",
+  "en": "$dungeonTitle:25008001$\nEntrance: $map:2000048$\n\nEnter the darkness to unravel the true nature of $map:02000350$ and satiate $npcName:11001003$'s curiosity. Speak with $npc:11001003$ after completing round 15 to get a gift."
+ },
+ {
+  "id": "questdescription_final#0435",
+  "field": "desc",
+  "ko": "메이플 월드 곳곳에서 별풍선을 찾아 조사해 보자!\n매일 10회 조사를 완료하면, $npc:11001002$에게서 맛있는 '$item:20001034$' 을 받을 수 있다.\n\n$item:20001034$ 30개 획득 시, '팡팡 별풍선 축제' 엠블럼이 자동으로 달성되며, 엠블럼 달성 보상으로 $item:11850109$를 획득할 수 있다. \n\n* 별풍선은 전 필드에 10분 단위로 출현해서 5분 동안 유지된다.",
+  "en": "Search for star balloons scattered around Maple World. Pop 10 of them each day to get a tasty $item:20001034$ from $npcName:11001002$. After you collect 30 $itemPlural:20001034$, you will automatically unlock \"Star Pop Party\" in the Events category of the Trophy window and can collect $item:11850109$ as a reward. \n\n* Star balloons appear in all non-instanced, non-town areas every 10 minutes and remain for 5 minutes."
+ },
+ {
+  "id": "questdescription_final#0436",
+  "field": "desc",
+  "ko": "메이플 월드 수호를 위해 스카이 포트리스 함대 출동을 준비 중인 신관기사 메이슨!\n그의 마음을 한순간에 녹여버린 귀엽고 깜찍한 휴먼메럿이 있었으니… \n그의 남다른 취향을 함께 공유하고 특별한 인연을 맺어보자. \n\n* $item:30001051$$pp:는,은$ 이벤트 기간 동안 $map:02000064$에서 $npc:11001002$$pp:가,이$ 주는 일일퀘스트 [메이슨의 사적 취향] 보상으로 1개씩 획득할 수 있다.\n* 이벤트 기간 : 2018년 11월 17일 - 2018년 12월 06일 점검 전까지",
+  "en": "Mason is one of the leaders preparing to mobilize the Sky Fortress. Ruby has a unique opportunity for you to get \"closer\" to him, which could work to your advantage if you're stragetic about it.\n\n* You'll get 1 $item:30001051$ per day for completing the daily quest \"Mason's Little Secret,\" given by $npc:11001002$ in $map:02000064$ during the event.\n\n* Event Period: 11/17/18 to the maintenance on 12/6/18"
+ },
+ {
+  "id": "questdescription_final#0437",
+  "field": "name",
+  "ko": "거대 칠면조의 습격",
+  "en": "Turkey Terror",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0438",
+  "field": "desc",
+  "ko": "추수감사절만 되면 모험가들의 식탁에 오르는 신세가 된 칠면조들이 더 이상 참지 못하고 추수감사절을 망치기 위해 메이플 월드를 습격했다! $map:02000092$에 나타난 $npc:27000051$$pp:를,을$ 처치하고 메이플 월드의 주민들을 보호하자!",
+  "en": "Every Thanksgiving, people eat turkey. This year, they're fighting back! Normally, it wouldn't be a threat, but somehow, some huuuuge and dangerous $npcNamePlural:27000051$ have appeared at the $map:02000092$! They must be stopped!"
+ },
+ {
+  "id": "questdescription_final#0439",
+  "field": "manual",
+  "ko": "$map:02000092$에서 $npc:27000051$ 처치하기",
+  "en": "Defeat $npcNamePlural:27000051$ in $map:02000092$",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0440",
+  "field": "name",
+  "ko": "술래잡기 미션 : 오늘의 친구",
+  "en": "A Friendly Game of Seek-and-Find",
+  "n": 32
+ },
+ {
+  "id": "questdescription_final#0441",
+  "field": "desc",
+  "ko": "살랑살랑 눈꽃송이가 흩날리는 겨울날, 술래잡기 놀이를 하며 즐거운 추억을 만들어보자고 말하는 $npc:11001002$. 매일매일 달라지는 술래, '오늘의 친구'를 찾아낸 후 $npcName:11001002$에게 돌아오면 새해 맞이 행운이 가득 담긴 $item:20302275$$pp:를,을$ 주겠다고 하는데…\n메이플 월드에서 오늘의 친구를 찾아 술래잡기 미션을 완료해보자!",
+  "en": "$npcName:11001002$ has tons of great memories playing Seek-and-Find with her friends. Why not make some of your own?\n\nFind someone who matches the description she gives you, then return to her for a $item:20302275$.",
+  "n": 16
+ },
+ {
+  "id": "questdescription_final#0442",
+  "field": "manual",
+  "ko": "메이플 월드에서 $item:11300052$$pp:를,을$ 착용한 친구 찾기",
+  "en": "Find someone wearing a $item:11300052$",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0443",
+  "field": "manual",
+  "ko": "메이플 월드에서 \"마음을 훔치는\" 칭호를 한 친구 찾기",
+  "en": "Find someone with the Musician title"
+ },
+ {
+  "id": "questdescription_final#0444",
+  "field": "manual",
+  "ko": "메이플 월드에서 \"전문 낚시꾼\" 칭호를 한 친구 찾기",
+  "en": "Find someone with the Master Angler title"
+ },
+ {
+  "id": "questdescription_final#0445",
+  "field": "manual",
+  "ko": "메이플 월드에서 30레벨 이상의 남자 헤비거너 친구 찾기",
+  "en": "Find a level 30+ male Heavy Gunner"
+ },
+ {
+  "id": "questdescription_final#0446",
+  "field": "manual",
+  "ko": "메이플 월드에서 \"액션 배우\" 칭호를 한 친구 찾기",
+  "en": "Find someone with the Action Star title"
+ },
+ {
+  "id": "questdescription_final#0447",
+  "field": "manual",
+  "ko": "메이플 월드에서 40레벨 이상의 여자 레인저 친구 찾기",
+  "en": "Find a level 40+ female Archer"
+ },
+ {
+  "id": "questdescription_final#0448",
+  "field": "manual",
+  "ko": "메이플 월드에서 30레벨 이상의 $item:11300049$$pp:를,을$ 착용한 여자 친구 찾기",
+  "en": "Find a level 30+ woman wearing a $item:11300049$"
+ },
+ {
+  "id": "questdescription_final#0449",
+  "field": "manual",
+  "ko": "메이플 월드에서 $item:11050002$$pp:를,을$ 착용한 남자 친구 찾기",
+  "en": "Find a man wearing a $item:11050002$"
+ },
+ {
+  "id": "questdescription_final#0450",
+  "field": "manual",
+  "ko": "메이플 월드에서 50레벨 이상의 $item:11300050$$pp:를,을$ 착용한 친구 찾기",
+  "en": "Find someone who is level 50+ and wearing $item:11300050$"
+ },
+ {
+  "id": "questdescription_final#0451",
+  "field": "manual",
+  "ko": "메이플 월드에서 40레벨 이상의 나이트 친구 찾기",
+  "en": "Find a level 40+ Knight",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0452",
+  "field": "manual",
+  "ko": "메이플 월드에서 40레벨 이상의 버서커 친구 찾기",
+  "en": "Find a level 40+ Berserker",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0453",
+  "field": "manual",
+  "ko": "메이플 월드에서 $item:50600091$$pp:를,을$ 타고 있는 친구 찾기",
+  "en": "Find someone riding a $item:50600091$"
+ },
+ {
+  "id": "questdescription_final#0454",
+  "field": "manual",
+  "ko": "메이플 월드에서 30레벨 이상의 $item:11850014$$pp:를,을$ 착용한 친구 찾기",
+  "en": "Find someone who is level 30+ and wearing $item:11850014$"
+ },
+ {
+  "id": "questdescription_final#0455",
+  "field": "manual",
+  "ko": "메이플 월드에서 40레벨 이상의 레인저 친구 찾기",
+  "en": "Find a level 40+ Archer",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0456",
+  "field": "manual",
+  "ko": "메이플 월드에서 40레벨 이상의 시프 친구 찾기",
+  "en": "Find a level 40+ Thief",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0457",
+  "field": "manual",
+  "ko": "메이플 월드에서 40레벨 이상의 어쌔신 친구 찾기",
+  "en": "Find a level 40+ Assassin",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0458",
+  "field": "name",
+  "ko": "행운잡이 미션",
+  "en": "New Year's Celebrations",
+  "n": 5
+ },
+ {
+  "id": "questdescription_final#0459",
+  "field": "desc",
+  "ko": "2019년을 맞이해 활기 넘치는 메이플 월드를 만들어보자는 $npc:11001002$가 주는 미션을 수행 후, $npcName:11001002$에게 돌아오면 새해 맞이 행운이 가득 담긴 $item:20302275$$pp:를,을$ 주겠다고 하는데…\n메이플 월드에서 $npc:11001002$가 주는 행운잡이 미션을 완료해보자!",
+  "en": "$npcName:11001002$ wants to ring in the new year with a bang! Complete her mission in return for a $item:20302275$.",
+  "n": 5
+ },
+ {
+  "id": "questdescription_final#0460",
+  "field": "manual",
+  "ko": "MC 케이 이벤트 참여 하기",
+  "en": "Play MC Kay's minigames"
+ },
+ {
+  "id": "questdescription_final#0461",
+  "field": "manual",
+  "ko": "필드 보스 처치 하기",
+  "en": "Defeat world bosses"
+ },
+ {
+  "id": "questdescription_final#0462",
+  "field": "manual",
+  "ko": "연주하기",
+  "en": "Play Music"
+ },
+ {
+  "id": "questdescription_final#0463",
+  "field": "manual",
+  "ko": "오늘의 미션 완료하기",
+  "en": "Complete daily missions"
+ },
+ {
+  "id": "questdescription_final#0464",
+  "field": "name",
+  "ko": "아기 복돼지를 도와줘",
+  "en": "When Pigs Fly",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0465",
+  "field": "desc",
+  "ko": "2019년은 돼지의 해! 12년에 한 번 돌아오는 돼지의 해를 맞아 신이 난 아기 복돼지들이 파티를 할 생각에 들떠 메이플 월드로 뛰어나왔다. 하지만 세상 물정 모르는 철부지 아기 복돼지들이 나온 곳에는 몬스터들이 가득한데…!\n두려움에 떨고 있는 아기 복돼지들이 안전하게 새해를 맞이할 수 있도록, 땅에 묶인 그들의 발을 풀어 자유롭게 날려 보내 주자!",
+  "en": "2019 is the Year of the Pig! The Lucky Piglets set out across Maple World to celebrate, but it seems many have lost their way! In this world of ever-present danger, it's up to you to rescue the perturbed piglets and send them on their way!"
+ },
+ {
+  "id": "questdescription_final#0466",
+  "field": "manual",
+  "ko": "메이플 월드 곳곳에서 공포에 떨고 있는 아기 복돼지들을 자유롭게 날려 보내주기",
+  "en": "Rescue the Lucky Piglets trembling in fear all over Maple World",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0467",
+  "field": "name",
+  "ko": "너의 초코는",
+  "en": "Decadent Delivery"
+ },
+ {
+  "id": "questdescription_final#0468",
+  "field": "desc",
+  "ko": "$item:20000452$ 5개, $item:30000729$ 2개, $item:30000730$ 1개를 모아보자!\n\n재료 획득 방법:\n* $item:20000452$ : 필드 곳곳에서 발견할 수 있는 초코볼 풍선 조사를 통해 획득 가능.\n* $item:30000729$ : 필드 보스 처치 시 획득 가능.\n* $item:30000730$ : 던전 보스 처치 시 획득 가능.",
+  "en": "This Valentine's Day is the perfect time to confess your love with custom-made chocolates! Mendel, the famous confectioner is making world-class chocolate for the lovelorn, and they can be yours if you only gather the necessary ingredients.\n\nCollect 5 $itemPlural:20000452$, 2 $itemPlural:30000729$, and 1 $item:30000730$!\n\n<b>Collecting Ingredients</b>\n• $item:20000452$: Obtained by squeezing the choco-chicky balloons found all over the non-town maps.\n• $item:30000729$: Obtained by defeating world bosses.\n• $item:30000730$: Obtained by defeating dungeon bosses."
+ },
+ {
+  "id": "questdescription_final#0469",
+  "field": "manual",
+  "ko": "$item:20000452$ 획득하기|$item:30000729$ 획득하기|$item:30000730$ 획득하기",
+  "en": "Obtain $item:20000452$|Obtain $item:30000729$|Obtain $item:30000730$"
+ },
+ {
+  "id": "questdescription_final#0470",
+  "field": "desc",
+  "ko": "$map:02000001$의 $npc:11000012$$pp:를,을$ 통해 $npc:11000406$에게 초콜릿을 전해주자.",
+  "en": "Ask $npc:11000012$ in $map:02000001$ to deliver your chocolate to $npc:11000406$."
+ },
+ {
+  "id": "questdescription_final#0471",
+  "field": "name",
+  "ko": "이슈라에게 마음을 전하세요!",
+  "en": "Confessions of Love: Ishura"
+ },
+ {
+  "id": "questdescription_final#0472",
+  "field": "desc",
+  "ko": "$map:02000001$의 $npc:11000012$$pp:를,을$ 통해 $npc:11001229$에게 초콜릿을 전해주자.",
+  "en": "Ask $npc:11000012$ in $map:02000001$ to deliver your chocolate to $npc:11001229$."
+ },
+ {
+  "id": "questdescription_final#0473",
+  "field": "desc",
+  "ko": "$map:02000001$의 $npc:11000012$$pp:를,을$ 통해 $npc:11000252$에게 초콜릿을 전해주자.",
+  "en": "Ask $npc:11000012$ in $map:02000001$ to deliver your chocolate to $npc:11000252$."
+ },
+ {
+  "id": "questdescription_final#0474",
+  "field": "name",
+  "ko": "바니걸 민트에게 마음을 전하세요!",
+  "en": "Confessions of Love: Mint"
+ },
+ {
+  "id": "questdescription_final#0475",
+  "field": "desc",
+  "ko": "$map:02000001$의 $npc:11000012$$pp:를,을$ 통해 $npc:11000711$에게 초콜릿을 전해주자.",
+  "en": "Ask $npc:11000012$ in $map:02000001$ to deliver your chocolate to $npc:11000711$."
+ },
+ {
+  "id": "questdescription_final#0476",
+  "field": "name",
+  "ko": "피치에게 마음을 전하세요!",
+  "en": "Confessions of Love: Peachy"
+ },
+ {
+  "id": "questdescription_final#0477",
+  "field": "desc",
+  "ko": "$map:02000001$의 $npc:11000012$$pp:를,을$ 통해 $npc:11003343$에게 초콜릿을 전해주자.",
+  "en": "Ask $npc:11000012$ in $map:02000001$ to deliver your chocolate to $npc:11003343$."
+ },
+ {
+  "id": "questdescription_final#0478",
+  "field": "name",
+  "ko": "샤텐에게 마음을 전하세요!",
+  "en": "Confessions of Love: Schatten"
+ },
+ {
+  "id": "questdescription_final#0479",
+  "field": "desc",
+  "ko": "$map:02000001$의 $npc:11000012$$pp:를,을$ 통해 $npc:11003535$에게 초콜릿을 전해주자.",
+  "en": "Ask $npc:11000012$ in $map:02000001$ to deliver your chocolate to $npc:11003535$."
+ },
+ {
+  "id": "questdescription_final#0480",
+  "field": "name",
+  "ko": "글자를 모아 'MAP'를 완성해요!",
+  "en": "Give Me an M! A! P!"
+ },
+ {
+  "id": "questdescription_final#0481",
+  "field": "desc",
+  "ko": "아래의 보스들을 처치하여 글자 '$item:30001330$', '$item:30001331$', '$item:30001332$'을 모아보자!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' ",
+  "en": "Defeat the bosses below to collect the letters $item:30001330$, $item:30001331$, and $item:30001332$!\n\nThe eligible bosses are $npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$, $npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, $npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, $npc:23000057$, $npc:23000026$, $npc:23000012$, $npc:23000009$, and $npc:23000029$. "
+ },
+ {
+  "id": "questdescription_final#0482",
+  "field": "manual",
+  "ko": "글자 '$item:30001330$' 획득하기|글자 '$item:30001331$' 획득하기|글자 '$item:30001332$' 획득하기",
+  "en": "Collect letter $item:30001330$|Obtain letter $item:30001331$|Obtain letter $item:30001332$"
+ },
+ {
+  "id": "questdescription_final#0483",
+  "field": "name",
+  "ko": "글자를 모아 'LES'를 완성해요!",
+  "en": "Give Me a L! E! S!"
+ },
+ {
+  "id": "questdescription_final#0484",
+  "field": "desc",
+  "ko": "아래의 보스들을 처치하여 글자 '$item:30001333$', '$item:30001334$', '$item:30001335$'를 모아보자!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' ",
+  "en": "Defeat the bosses below to collect the letters $item:30001333$, $item:30001334$, and $item:30001335$!\n\nThe eligible bosses are $npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$, $npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, $npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, $npc:23000057$, $npc:23000026$, $npc:23000012$, $npc:23000009$, and $npc:23000029$. "
+ },
+ {
+  "id": "questdescription_final#0485",
+  "field": "manual",
+  "ko": "글자 '$item:30001333$' 획득하기|글자 '$item:30001334$' 획득하기|글자 '$item:30001335$' 획득하기",
+  "en": "Collect letter $item:30001333$|Obtain letter $item:30001334$|Obtain letter $item:30001335$"
+ },
+ {
+  "id": "questdescription_final#0486",
+  "field": "name",
+  "ko": "글자를 모아 'TOR'을 완성해요!",
+  "en": "Give Me a T! O! R!"
+ },
+ {
+  "id": "questdescription_final#0487",
+  "field": "desc",
+  "ko": "아래의 보스들을 처치하여 글자 '$item:30001336$', '$item:30001337$', '$item:30001338$'을 모아보자!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' ",
+  "en": "Defeat the bosses below to collect the letters $item:30001336$, $item:30001337$, and $item:30001338$!\n\nThe eligible bosses are $npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$, $npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, $npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, $npc:23000057$, $npc:23000026$, $npc:23000012$, $npc:23000009$, and $npc:23000029$. "
+ },
+ {
+  "id": "questdescription_final#0488",
+  "field": "manual",
+  "ko": "글자 '$item:30001336$' 획득하기|글자 '$item:30001337$' 획득하기|글자 '$item:30001338$' 획득하기",
+  "en": "Collect letter $item:30001336$|Obtain letter $item:30001337$|Obtain letter $item:30001338$"
+ },
+ {
+  "id": "questdescription_final#0489",
+  "field": "name",
+  "ko": "글자를 모아 'Y2!'를 완성해요!",
+  "en": "Give Me a Y! 2! Exclamation mark!"
+ },
+ {
+  "id": "questdescription_final#0490",
+  "field": "desc",
+  "ko": "아래의 보스들을 처치하여 글자 '$item:30001339$', '$item:30001340$', '$item:30001341$'를 모아보자!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' ",
+  "en": "Defeat the bosses below to collect the letters $item:30001339$, $item:30001340$, and $item:30001341$!\n\nThe eligible bosses are $npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$, $npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, $npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, $npc:23000057$, $npc:23000026$, $npc:23000012$, $npc:23000009$, and $npc:23000029$. "
+ },
+ {
+  "id": "questdescription_final#0491",
+  "field": "manual",
+  "ko": "글자 '$item:30001339$' 획득하기|글자 '$item:30001340$' 획득하기|글자 '$item:30001341$' 획득하기",
+  "en": "Collect letter $item:30001339$|Obtain letter $item:30001340$|Obtain letter $item:30001341$"
+ },
+ {
+  "id": "questdescription_final#0492",
+  "field": "name",
+  "ko": "만우절엔? OX 퀴즈를!",
+  "en": "The Fool's Quiz"
+ },
+ {
+  "id": "questdescription_final#0493",
+  "field": "desc",
+  "ko": "2019년 4월 2일까지만 만우절 깜짝 이벤트!\n\n만우절이다!\n\nMC케이의 장난스러운 만우절의 OX퀴즈! \n한 번 참여해보지 않을래?\n\n퀘스트를 ",
+  "en": "Celebrate April Fools' Day until 4/2/2019!\n\nWhy don't you join in MC Kay's twisted April Fools OX Quiz event? "
+ },
+ {
+  "id": "questdescription_final#0494",
+  "field": "manual",
+  "ko": "OX 퀴즈 참여하기",
+  "en": "Play OX Quiz"
+ },
+ {
+  "id": "questdescription_final#0495",
+  "field": "name",
+  "ko": "너를 속일 거야!",
+  "en": "A Big Surprise"
+ },
+ {
+  "id": "questdescription_final#0496",
+  "field": "desc",
+  "ko": "2019년 4월 2일까지만 만우절 깜짝 이벤트!\n\n만우절이다!\n누군가 속이거나 장난치고 싶은 그 마음, 루비가 다 알징~!\n\n$quest:80020121$을 완료하고 받은 쑥쑥 알약으로 친구들을 깜짝 놀라게 하자.\n퀘스트를 완료한 모험가에게는 만우절과 딱 어울릴 만한 선물이!",
+  "en": "Surprise your friends with a giant-sized prank during the April Fools' Day event, running until 4/2/2019!\n\nComplete the \"$quest:80020121$\" quest to get some Growth Pills, then use them to play a trick for a great reward."
+ },
+ {
+  "id": "questdescription_final#0497",
+  "field": "manual",
+  "ko": "메이플 월드에서 쑥쑥 알약 먹기",
+  "en": "Take a Growth Pill"
+ },
+ {
+  "id": "questdescription_final#0498",
+  "field": "name",
+  "ko": "글자를 모아 'PIN'를 완성해요!",
+  "en": "Give Me a P! I! N!"
+ },
+ {
+  "id": "questdescription_final#0499",
+  "field": "desc",
+  "ko": "아래의 보스들을 처치하여 글자 '$item:30001411$', '$item:30001412$', '$item:30001413$'을 모아보자!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' ",
+  "en": "Defeat the bosses below to collect the letters $item:30001411$, $item:30001412$, and $item:30001413$!\n\nThe eligible bosses are $npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$, $npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, $npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, $npc:23000057$, $npc:23000026$, $npc:23000012$, $npc:23000009$, and $npc:23000029$. "
+ },
+ {
+  "id": "questdescription_final#0500",
+  "field": "manual",
+  "ko": "글자 '$item:30001411$' 획득하기|글자 '$item:30001412$' 획득하기|글자 '$item:30001413$' 획득하기",
+  "en": "Obtain letter $item:30001411$|Obtain letter $item:30001412$|Obtain letter $item:30001413$"
+ },
+ {
+  "id": "questdescription_final#0501",
+  "field": "name",
+  "ko": "글자를 모아 'KBE'를 완성해요!",
+  "en": "Give Me a K! B! E!"
+ },
+ {
+  "id": "questdescription_final#0502",
+  "field": "desc",
+  "ko": "아래의 보스들을 처치하여 글자 '$item:30001414$', '$item:30001415$', '$item:30001416$'를 모아보자!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' ",
+  "en": "Defeat the bosses below to collect the letters $item:30001414$, $item:30001415$, and $item:30001416$!\n\nThe eligible bosses are $npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$, $npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, $npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, $npc:23000057$, $npc:23000026$, $npc:23000012$, $npc:23000009$, and $npc:23000029$. "
+ },
+ {
+  "id": "questdescription_final#0503",
+  "field": "manual",
+  "ko": "글자 '$item:30001414$' 획득하기|글자 '$item:30001415$' 획득하기|글자 '$item:30001416$' 획득하기",
+  "en": "Obtain letter $item:30001414$|Obtain letter $item:30001415$|Obtain letter $item:30001416$"
+ },
+ {
+  "id": "questdescription_final#0504",
+  "field": "name",
+  "ko": "글자를 모아 'AN?'을 완성해요!",
+  "en": "Give Me an A! N! Question mark!"
+ },
+ {
+  "id": "questdescription_final#0505",
+  "field": "desc",
+  "ko": "아래의 보스들을 처치하여 글자 '$item:30001417$', '$item:30001418$', '$item:30001419$'을 모아보자!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' ",
+  "en": "Defeat the bosses below to collect the letters $item:30001417$, $item:30001418$, and $item:30001419$!\n\nThe eligible bosses are $npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$, $npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, $npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, $npc:23000057$, $npc:23000026$, $npc:23000012$, $npc:23000009$, and $npc:23000029$. "
+ },
+ {
+  "id": "questdescription_final#0506",
+  "field": "manual",
+  "ko": "글자 '$item:30001417$' 획득하기|글자 '$item:30001418$' 획득하기|글자 '$item:30001419$' 획득하기",
+  "en": "Obtain letter $item:30001417$|Obtain letter $item:30001418$|Obtain letter $item:30001419$"
+ },
+ {
+  "id": "questdescription_final#0507",
+  "field": "name",
+  "ko": "핑크핑크 우정 이야기",
+  "en": "My Friend, Pink Bean"
+ },
+ {
+  "id": "questdescription_final#0508",
+  "field": "desc",
+  "ko": "$item:20001330$가 차곡차곡 쌓여가는 만큼 핑크빈과의 우정도 한층 더 깊어지는 느낌이다. \n핑크빈과 더 멋진 우정이 쌓이도록 매일매일 $npc:11001002$가 주는 핑크빈 글자 수집 퀘스트를 완료하고 $item:20001330$을 열심히 모아보자!\n\n\n",
+  "en": "You feel as though your friendship with Pink Bean has really taken off since you started collecting $item:20001330$. If you keep collecting more letters for $npc:11001002$ in exchange for candy, maybe Pink Bean will become your best friend!\n\n\n"
+ },
+ {
+  "id": "questdescription_final#0509",
+  "field": "manual",
+  "ko": "$item:20001330$ 획득하기",
+  "en": "Obtain $item:20001330$"
+ },
+ {
+  "id": "questdescription_final#0510",
+  "field": "name",
+  "ko": "노력한 자에게 행운을!",
+  "en": "Luck On Your Side"
+ },
+ {
+  "id": "questdescription_final#0511",
+  "field": "desc",
+  "ko": "열고, 열고, 또 열고… \n한껏 부푼 마음으로 열심히 $item:20302745$와 $item:30001420$를 찾아서 상자를 열다 보면, 반드시 노력의 대가는 주어지게 마련이다.\n$item:20302745$ 200개를 열고, $npc:11001002$에게 행운의 선물을 받아보자.\n\n* $item:20302745$ 획득 방법\n- 이벤트 기간 동안 매일 접속 시 우편으로 획득\n- 썸머 출석 체크 이벤트 5, 9, 13, 17일 차 출석 보상으로 획득\n- MC 케이의 이벤트 우승 시 일정 확률로 획득\n- 캐시마트 아르바이트 클리어 시 일정 확률로 획득\n- 낚시, 연주 시 일정 확률로 획득\n- 투르카의 보석함, 투르카의 진귀한 보석함에서 일정 확률로 획득\n\n* $item:30001420$ 획득 방법\n- 이벤트 기간 동안 매일 접속 시 우편으로 획득\n- 10레벨 이상 필드 엘리트 몬스터 처치 시 일정 확률로 획득\n- 나무 보물 상자, 황금 보물 상자에서 일정 확률로 획득\n \n",
+  "en": "It's time to get lucky! Collect $itemPlural:20302745$ and open them using  $itemPlural:30001420$, you will be rewarded for your efforts. If you open 200 $itemPlural:20302745$, you'll get a special gift from $npc:11001002$!\n\n* How to Obtain $itemPlural:20302745$\n- Collect via mail after logging in during the event.\n- Receive for Day 5, 9, 13, and 17 of the Summer Rewards Event.\n- Chance to receive after winning MC Kay mini-games.\n- Chance to receive after clearing Cathy Mart Part-Time Job.\n- Chance to receive from fishing and performing.\n- Chance to receive from Turka's Cache and Turka's Rare Cache.\n\n* How to Obtain $itemPlural:30001420$\n- Collect via mail after logging in during the event.\n- Chance to receive after defeating Elite monsters level 10 or higher.\n- Chance to receive from wooden and golden treasure chests.\n \n"
+ },
+ {
+  "id": "questdescription_final#0512",
+  "field": "manual",
+  "ko": "$item:20302745$ 열기",
+  "en": "Open $itemPlural:20302745$"
+ },
+ {
+  "id": "questdescription_final#0513",
+  "field": "desc",
+  "ko": "$npc:11001002$$pp:는,은$ 갑자기 방앗간을 떠나 버린 달토끼들이 괴이한 기운에 물들어 메이플 월드 곳곳에 나타나고 있고, 그 괴이한 기운은 보름달 뒤의 비밀스러운 공간에서부터 나오고 있는 것 같다고 말한다. 과연 달토끼들의 변화와 그 수상한 공간은 무슨 관계가 있는 것일까? $item:20301895$$pp:를,을$ 사용해 $map:80000016$에 들어가, 그곳에서 벌어지는 일을 살펴보자.\n$item:20301895$$pp:는,은$ 메럿 마켓의 특별 판매 탭에서 받을 수 있으니, 서둘러 메럿 마켓에 가보자!",
+  "en": "Runaway moon bunnies are showing up all over Maple World. Join in the $map:80000016$ and see what's going on. You can get $itemPlural:20301895$ in the Special Offers tab in the Meret Market."
+ },
+ {
+  "id": "questdescription_final#0514",
+  "field": "desc",
+  "ko": "$npc:11001003$$pp:는,은$ $npc:11004717$에게서 메이플 월드 곳곳에 나타나는 괴이한 모습의 큰 토끼들이 보름달 방앗간을 떠났던 달토끼들이라는 이야기를 들었다고 한다. 달토끼 부족의 전설에 의하면 먼 옛날 몇몇 달토끼들이 이상한 기운에 물들어 방앗간을 헤집어 놓은 적이 있고, 그들을 제압해 기운을 빼놓고서야 일부 달토끼들이 정신을 차렸다는데... $map:02000043$에 나타난다는 $npc:27000034$$pp:를,을$ 제압하고 돌아오자.\n\n$npc:27000034$$pp:는,은$ 오후 19:30, 20:30, 21:30, 22:30에 $map:02000043$에 나타난다.",
+  "en": "The big strange bunnies appearing all over Maple World are runaway moon bunnies! The only way to return these bunnies to their senses is defeating them in combat. Go to $map:02000043$ and defeat the $npc:27000034$.\n\nThe $npc:27000034$ appears in $map:02000043$ at 19:30, 20:30, 21:30, and 22:30 UTC."
+ },
+ {
+  "id": "questdescription_final#0515",
+  "field": "name",
+  "ko": "황금 두루마리를 찾아라!",
+  "en": "Find the Golden Scrolls!"
+ },
+ {
+  "id": "questdescription_final#0516",
+  "field": "desc",
+  "ko": "$npcName:11001002$가 들려주는 흥미진진한 소문에 귀 기울여 보자.",
+  "en": "Get the lowdown from $npcName:11001002$."
+ },
+ {
+  "id": "questdescription_final#0517",
+  "field": "manual",
+  "ko": "$map:02000064$에서 $npc:11001002$$pp:와,과$ 대화하기",
+  "en": "Speak with $npcName:11001002$ in $map:02000064$"
+ },
+ {
+  "id": "questdescription_final#0518",
+  "field": "name",
+  "ko": "오늘도 메리 댄스 타임!",
+  "en": "Dancing in the Snow"
+ },
+ {
+  "id": "questdescription_final#0519",
+  "field": "desc",
+  "ko": "$npc:11001002$$pp:는,은$ 크리스마스를 맞아 아주 특별한 댄스 파티가 준비되었다는 소식을 전하며, 참여해 보는 게 어떻겠냐고 권유한다. \n하루에 1번, $map:61000022$에 참여하고 $npc:11001002$$pp:가,이$ 준비한 깜짝 선물을 받자.",
+  "en": "$npc:11001002$ said there's a special holiday dance party in the works. Participate in $map:61000022$ once a day, and she'll give you a surprise gift!"
+ },
+ {
+  "id": "questdescription_final#0520",
+  "field": "complete",
+  "ko": "$map:02000064$, $map:02020041$ 또는 $map:63000093$에서 $npc:11001002$와 대화하기",
+  "en": "Speak with $npc:11001002$ in $map:02000064$, $map:02020041$, or $map:63000093$"
+ },
+ {
+  "id": "questdescription_final#0521",
+  "field": "manual",
+  "ko": "10레벨 달성하기",
+  "en": "Reach Level 10"
+ },
+ {
+  "id": "questdescription_final#0522",
+  "field": "complete",
+  "ko": "10레벨 달성하기",
+  "en": "Reach Level 10"
+ },
+ {
+  "id": "questdescription_final#0523",
+  "field": "complete",
+  "ko": "야수형 몬스터 처치하기",
+  "en": "Battle beast monsters"
+ },
+ {
+  "id": "questdescription_final#0524",
+  "field": "manual",
+  "ko": "길드 가입하기",
+  "en": "Join a guild"
+ },
+ {
+  "id": "questdescription_final#0525",
+  "field": "complete",
+  "ko": "길드 가입하기",
+  "en": "Join a guild"
+ },
+ {
+  "id": "questdescription_final#0526",
+  "field": "complete",
+  "ko": "필드보스 1회 처치하기",
+  "en": "Defeat 1 world boss"
+ },
+ {
+  "id": "questdescription_final#0527",
+  "field": "manual",
+  "ko": "길드 퀘스트 1회 완료",
+  "en": "Complete 1 guild quest"
+ },
+ {
+  "id": "questdescription_final#0528",
+  "field": "complete",
+  "ko": "길드 퀘스트 1회 완료",
+  "en": "Complete 1 guild quest"
+ },
+ {
+  "id": "questdescription_final#0529",
+  "field": "manual",
+  "ko": "물고기 300마리 잡기",
+  "en": "Catch 300 fish"
+ },
+ {
+  "id": "questdescription_final#0530",
+  "field": "complete",
+  "ko": "물고기 300마리 잡기",
+  "en": "Catch 300 fish"
+ },
+ {
+  "id": "questdescription_final#0531",
+  "field": "manual",
+  "ko": "[일일] 트릭 오어 트릿 1회 완료하기",
+  "en": "Complete the daily quest \"Trick or Treat!\" 1 time"
+ },
+ {
+  "id": "questdescription_final#0532",
+  "field": "complete",
+  "ko": "[일일] 트릭 오어 트릿 1회 완료하기",
+  "en": "Complete the daily quest \"Trick or Treat!\" 1 time"
+ },
+ {
+  "id": "questdescription_final#0533",
+  "field": "manual",
+  "ko": "메이플 아케이드 10회 참여",
+  "en": "Play Maple Arcade",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0534",
+  "field": "complete",
+  "ko": "메이플 아케이드 10회 참여",
+  "en": "Play Maple Arcade",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0535",
+  "field": "manual",
+  "ko": "필드 보스 10회 처치",
+  "en": "Defeat world bosses",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0536",
+  "field": "complete",
+  "ko": "필드 보스 10회 처치",
+  "en": "Defeat world bosses",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0537",
+  "field": "manual",
+  "ko": "MC케이 이벤트 4회 참여",
+  "en": "Play MC Kay's minigames",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0538",
+  "field": "complete",
+  "ko": "MC케이 이벤트 4회 참여",
+  "en": "Play MC Kay's minigames",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0539",
+  "field": "name",
+  "ko": "몬스터 1111마리 처치",
+  "en": "Defeat Enemies",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0540",
+  "field": "complete",
+  "ko": "몬스터 1111마리 처치",
+  "en": "Defeat enemies",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0541",
+  "field": "manual",
+  "ko": "집 장식도 700점 달성",
+  "en": "Raise Decoration Score",
+  "n": 5
+ },
+ {
+  "id": "questdescription_final#0542",
+  "field": "complete",
+  "ko": "집 장식도 700점 달성",
+  "en": "Raise Decoration Score",
+  "n": 5
+ },
+ {
+  "id": "questdescription_final#0543",
+  "field": "manual",
+  "ko": "황금 보물 상자 10개 찾기",
+  "en": "Find Golden Treasure Chests"
+ },
+ {
+  "id": "questdescription_final#0544",
+  "field": "complete",
+  "ko": "황금 보물 상자 10개 찾기",
+  "en": "Find Golden Treasure Chests"
+ },
+ {
+  "id": "questdescription_final#0545",
+  "field": "complete",
+  "ko": "인챈트 2회 성공하기",
+  "en": "Enchant items",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0546",
+  "field": "manual",
+  "ko": "쉐도우월드 비틀린 공간의 틈 1회 입장",
+  "en": "Enter the Twisted Pocket Realm"
+ },
+ {
+  "id": "questdescription_final#0547",
+  "field": "complete",
+  "ko": "쉐도우월드 비틀린 공간의 틈 1회 입장",
+  "en": "Enter the Twisted Pocket Realm"
+ },
+ {
+  "id": "questdescription_final#0548",
+  "field": "manual",
+  "ko": "기어서 100m 이동하기",
+  "en": "Crawl 100 m"
+ },
+ {
+  "id": "questdescription_final#0549",
+  "field": "complete",
+  "ko": "기어서 100m 이동하기",
+  "en": "Crawl 100 m"
+ },
+ {
+  "id": "questdescription_final#0550",
+  "field": "name",
+  "ko": "타이어 굴려 몬스터 10회 공격하기",
+  "en": "Tire Attack"
+ },
+ {
+  "id": "questdescription_final#0551",
+  "field": "complete",
+  "ko": "타이어 굴려 몬스터 10회 공격하기",
+  "en": "Attack with a rolling tire"
+ },
+ {
+  "id": "questdescription_final#0552",
+  "field": "name",
+  "ko": "쉐도우월드 1회 방문",
+  "en": "Land of Darkness"
+ },
+ {
+  "id": "questdescription_final#0553",
+  "field": "complete",
+  "ko": "쉐도우월드 1회 방문",
+  "en": "Visit the Land of Darkness",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0554",
+  "field": "complete",
+  "ko": "부서지는 물건 10개 부수기",
+  "en": "Break things"
+ },
+ {
+  "id": "questdescription_final#0555",
+  "field": "manual",
+  "ko": "필드 보스 10회 처치하기",
+  "en": "Defeat 10 world bosses",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0556",
+  "field": "complete",
+  "ko": "필드 보스 10회 처치하기",
+  "en": "Defeat 10 world bosses",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0557",
+  "field": "manual",
+  "ko": "MC케이 이벤트 3회 참여하기",
+  "en": "Play 3 MC Kay's minigames"
+ },
+ {
+  "id": "questdescription_final#0558",
+  "field": "complete",
+  "ko": "MC케이 이벤트 3회 참여하기",
+  "en": "Play 3 MC Kay's minigames"
+ },
+ {
+  "id": "questdescription_final#0559",
+  "field": "complete",
+  "ko": "아이템 1개 분해하기",
+  "en": "Dismantle 1 item"
+ },
+ {
+  "id": "questdescription_final#0560",
+  "field": "name",
+  "ko": "巨大七面鳥、襲来",
+  "en": "The Giant Turkey Attacks"
+ },
+ {
+  "id": "questdescription_final#0561",
+  "field": "desc",
+  "ko": "아래 커플 진영 필드 보스들을 처치하여 솔로부대의 자격을 증명해 보이자!\n\n커플 진영 필드 보스:\n'$npc:23000001$', '$npc:23000019$', '$npc:23000035$', '$npc:23000017$',  '$npc:23000034$', '$npc:23000009$', '$npc:23000029$', '$npc:23000057$'",
+  "en": "Defeat the Couple camp field bosses below to prove your worth as the Solo squad!\n\nCouple camp field bosses:\n'$npc:23000001$', '$npc:23000019$', '$npc:23000035$', '$npc:23000017$',  '$npc:23000034$', '$npc:23000009$', '$npc:23000029$', '$npc:23000057$'",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0562",
+  "field": "desc",
+  "ko": "아래 솔로 진영 필드 보스들을 처치하여 커플부대의 자격을 증명해 보이자!\n\n솔로 진영 필드 보스:\n'$npc:23000054$', '$npc:23000020$', '$npc:23000099$', '$npc:23000047$',  '$npc:23000024$', '$npc:23000045$', '$npc:23000026$', \n'$npc:23000012$'",
+  "en": "Defeat the Solo camp field bosses below to prove your worth as the Couple squad!\n\nSolo camp field bosses:\n'$npc:23000054$', '$npc:23000020$', '$npc:23000099$', '$npc:23000047$',  '$npc:23000024$', '$npc:23000045$', '$npc:23000026$', \n'$npc:23000012$'",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0563",
+  "field": "desc",
+  "ko": "싱그러운 바람이 코 끝을 간질이는 봄날, 술래잡기 놀이를 하며 즐거운 추억을 만들어보자고 말하는 $npc:11001002$. 매일매일 달라지는 술래, '오늘의 친구'를 찾아낸 후 $npcName:11001002$에게 돌아오면 자신의 이벤트 상점에서 아이템을 구입할 수 있는 $item:30001106$$pp:를,을$ 주겠다고 하는데…\n메이플 월드에서 오늘의 친구를 찾아 술래잡기 미션을 완료해보자!",
+  "en": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!",
+  "n": 16
+ },
+ {
+  "id": "questdescription_final#0564",
+  "field": "manual",
+  "ko": "메이플 월드에서 $item:11301140$$pp:를,을$ 착용한 친구 찾기",
+  "en": "Find a friend in Maple World wearing $item:11301140$"
+ },
+ {
+  "id": "questdescription_final#0565",
+  "field": "manual",
+  "ko": "메이플 월드에서 \"마음을 훔치는\" 칭호를 한 친구 찾기",
+  "en": "Find a friend in Maple World with the \"Heart Stealer\" title"
+ },
+ {
+  "id": "questdescription_final#0566",
+  "field": "manual",
+  "ko": "메이플 월드에서 \"전문 낚시꾼\" 칭호를 한 친구 찾기",
+  "en": "Find a friend in Maple World with the \"Professional Angler\" title"
+ },
+ {
+  "id": "questdescription_final#0567",
+  "field": "manual",
+  "ko": "메이플 월드에서 30레벨 이상의 남자 위자드 친구 찾기",
+  "en": "Find a male Wizard friend at or above level 30 in Maple World"
+ },
+ {
+  "id": "questdescription_final#0568",
+  "field": "manual",
+  "ko": "메이플 월드에서 $item:11250042$$pp:를,을$ 착용한 친구 찾기",
+  "en": "Find a friend wearing $item:11250042$ in Maple World"
+ },
+ {
+  "id": "questdescription_final#0569",
+  "field": "manual",
+  "ko": "메이플 월드에서 40레벨 이상의 여자 프리스트 친구 찾기",
+  "en": "Find a female Priest friend of level 40 or above in Maple World"
+ },
+ {
+  "id": "questdescription_final#0570",
+  "field": "manual",
+  "ko": "메이플 월드에서 \"집에만 있는\" 칭호를 한 남자 친구 찾기",
+  "en": "Find a male friend in Maple World with the \"Only at Home\" title"
+ },
+ {
+  "id": "questdescription_final#0571",
+  "field": "manual",
+  "ko": "메이플 월드에서 \"집에만 있는\" 칭호를 한 여자 친구 찾기",
+  "en": "Find a female friend in Maple World with the \"Only at Home\" title"
+ },
+ {
+  "id": "questdescription_final#0572",
+  "field": "manual",
+  "ko": "메이플 월드에서 40레벨 이상의 위자드 친구 찾기",
+  "en": "Find a Wizard friend of level 40 or above in Maple World"
+ },
+ {
+  "id": "questdescription_final#0573",
+  "field": "manual",
+  "ko": "메이플 월드에서 40레벨 이상의 프리스트 친구 찾기",
+  "en": "Find a Priest friend of level 40 or above in Maple World"
+ },
+ {
+  "id": "questdescription_final#0574",
+  "field": "desc",
+  "ko": "$map:02000145$에서 '$npc:23000054$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000054$' in $map:02000145$ to complete Barbosa's daily mission!\n\nIf you join forces with other adventurers, you can handle it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0575",
+  "field": "desc",
+  "ko": "$map:02000088$에서 '$npc:23000020$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000020$' in $map:02000088$ to complete Barbosa's daily mission!\n\nIf you join forces with other adventurers, you can handle it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0576",
+  "field": "desc",
+  "ko": "$map:02000021$에서 '$npc:23000099$'을 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000099$' in $map:02000021$ to complete Barbosa's daily mission!\n\nIf you join forces with other adventurers, you can handle it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0577",
+  "field": "desc",
+  "ko": "$map:02000214$에서 '$npc:23000047$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000047$' in $map:02000214$ to complete Barbosa's daily mission!\n\nIf you join forces with other adventurers, you can handle it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0578",
+  "field": "desc",
+  "ko": "$map:02000181$에서 '$npc:23000024$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000024$' in $map:02000181$ to complete Barbosa's daily mission!\n\nIf you join forces with other adventurers, you can handle it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0579",
+  "field": "desc",
+  "ko": "$map:02000044$에서 '$npc:23000045$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000045$' in $map:02000044$ to complete Barbosa's daily mission!\n\nIf you join forces with other adventurers, you can handle it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0580",
+  "field": "desc",
+  "ko": "$map:02000260$에서 '$npc:23000026$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000026$' in $map:02000260$ to complete Barbosa's daily mission!\n\nIf you join forces with other adventurers, you can handle it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0581",
+  "field": "desc",
+  "ko": "$map:02000176$에서 '$npc:23000012$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000012$' in $map:02000176$ to complete Barbosa's daily mission!\n\nIf you join forces with other adventurers, you can handle it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0582",
+  "field": "desc",
+  "ko": "$map:02000115$에서 '$npc:23000001$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000001$' in $map:02000115$ to complete Barbosa's daily mission!\n\nIf you join forces with other adventurers, you can handle it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0583",
+  "field": "desc",
+  "ko": "$map:02000085$에서 '$npc:23000019$'을 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000019$' in $map:02000085$ to complete Barbosa's daily mission!\n\nIf you join forces with other adventurers, you can handle it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0584",
+  "field": "desc",
+  "ko": "$map:02000103$에서 '$npc:23000035$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000035$' in $map:02000103$ to complete Barbosa's daily mission!\n\nIf you join forces with other adventurers, you can handle it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0585",
+  "field": "desc",
+  "ko": "$map:02000022$에서 '$npc:23000017$'을 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000017$' in $map:02000022$ to complete Barbosa's daily mission!\n\nIf you join forces with other adventurers, you can handle it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0586",
+  "field": "desc",
+  "ko": "$map:02000169$에서 '$npc:23000034$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000034$' in $map:02000169$ to complete Barbosa's daily mission!\n\nIf you join forces with other adventurers, you can handle it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0587",
+  "field": "desc",
+  "ko": "$map:02010027$에서 '$npc:23000009$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000009$' in $map:02010027$ to complete Barbosa's daily mission!\n\nIf you join forces with other adventurers, you can handle it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0588",
+  "field": "desc",
+  "ko": "$map:02010022$에서 '$npc:23000029$'을 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000029$' in $map:02010022$ to complete Barbosa's daily mission!\n\nIf you join forces with other adventurers, you can handle it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0589",
+  "field": "name",
+  "ko": "가보자! 퍼니퍼니 아일랜드",
+  "en": "Let's Go! Funny Funny Island"
+ },
+ {
+  "id": "questdescription_final#0590",
+  "field": "desc",
+  "ko": "매주 금, 토, 일! \n$map:02000423$에 $npc:23000110$$pp:가,이$ 등장한다.\n$map:02000423$에서 $npc:23000110$도 만나고 미션도 수행하자!",
+  "en": "Every Friday, Saturday, and Sunday!\n$npc:23000110$ appears in $map:02000423$.\nMeet $npc:23000110$ in $map:02000423$ and complete missions!",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0591",
+  "field": "manual",
+  "ko": "$map:02000423$ 방문하기",
+  "en": "Visit $map:02000423$"
+ },
+ {
+  "id": "questdescription_final#0592",
+  "field": "name",
+  "ko": "달리자! 퍼니퍼니 아일랜드",
+  "en": "Let's Run! Funny Funny Island"
+ },
+ {
+  "id": "questdescription_final#0593",
+  "field": "manual",
+  "ko": "$map:02000423$에서 100m 달리기",
+  "en": "Run 100m at $map:02000423$"
+ },
+ {
+  "id": "questdescription_final#0594",
+  "field": "name",
+  "ko": "포자가 피부에 미치는 영향",
+  "en": "The Effect of Spores on Skin"
+ },
+ {
+  "id": "questdescription_final#0595",
+  "field": "manual",
+  "ko": "$npc:23000110$$pp:를,을$ 상대하기 위해 $item:20301428$ 사용하기",
+  "en": "Use $item:20301428$ to Fight $npc:23000110$"
+ },
+ {
+  "id": "questdescription_final#0596",
+  "field": "name",
+  "ko": "머쉬킹을 놀래킬 점프",
+  "en": "A Jump to Surprise Mushking"
+ },
+ {
+  "id": "questdescription_final#0597",
+  "field": "manual",
+  "ko": "$map:02000423$에서 15회 점프하기",
+  "en": "Jump 15 Times at $map:02000423$"
+ },
+ {
+  "id": "questdescription_final#0598",
+  "field": "name",
+  "ko": "데일리 미션 : 머쉬킹 챔피언십",
+  "en": "Daily Mission: Mushking Championship",
+  "n": 5
+ },
+ {
+  "id": "questdescription_final#0599",
+  "field": "desc",
+  "ko": "매일 17시에서 23시:\n모험 > 머쉬킹 챔피언십 메뉴로 이동! \n머쉬킹 챔피언십이 열리는 태초의 버섯 섬으로 가서 미션을 수행하자.",
+  "en": "Every day from 17:00 to 23:00:\nGo to Adventure > Mushking Championship!\nGo to the Primordial Mushroom Island, where the Mushking Championship is held, and complete the mission.",
+  "n": 5
+ },
+ {
+  "id": "questdescription_final#0600",
+  "field": "manual",
+  "ko": "태초의 버섯 섬에서 150m 달리기",
+  "en": "Run 150m on the Primordial Mushroom Island"
+ },
+ {
+  "id": "questdescription_final#0601",
+  "field": "manual",
+  "ko": "태초의 버섯 섬에서 30회 점프하기",
+  "en": "Jump 30 times on the Primordial Mushroom Island"
+ },
+ {
+  "id": "questdescription_final#0602",
+  "field": "manual",
+  "ko": "태초의 버섯 섬에서 5분 살아남기",
+  "en": "Survive 5 minutes on the Primordial Mushroom Island"
+ },
+ {
+  "id": "questdescription_final#0603",
+  "field": "manual",
+  "ko": "태초의 버섯 섬 방문하기",
+  "en": "Visit the Primordial Mushroom Island"
+ },
+ {
+  "id": "questdescription_final#0604",
+  "field": "manual",
+  "ko": "태초의 버섯 섬에서 '매직 붐' 스킬 3회 사용하기",
+  "en": "Use the 'Magic Boom' skill 3 times on the Primordial Mushroom Island"
+ },
+ {
+  "id": "questdescription_final#0605",
+  "field": "desc",
+  "ko": "내 집에 $item:50400282$$pp:를,을$ 설치해 보자!\n$item:50400282$$pp:는,은$ '건설 시작하기' 메뉴에서 왼쪽의 '레인보우 슬라임' 탭을 누르면 확인할 수 있다.",
+  "en": "Try placing $item:50400282$ in your house!\nYou can find $item:50400282$ by opening the 'Start Building' menu and selecting the 'Rainbow Slime' tab on the left."
+ },
+ {
+  "id": "questdescription_final#0606",
+  "field": "name",
+  "ko": "글자를 모아 '하수창취'를 완성해요!",
+  "en": "Collect letters to spell 'Hasuchangchwi'!"
+ },
+ {
+  "id": "questdescription_final#0607",
+  "field": "desc",
+  "ko": "아래의 보스들을 처치하여 글자 '$item:30001166$', '$item:30001167$', '$item:30001168$', '$item:30001169$'을 모아보자!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' ",
+  "en": "Defeat the bosses below to collect the letters '$item:30001166$', '$item:30001167$', '$item:30001168$', '$item:30001169$'!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' "
+ },
+ {
+  "id": "questdescription_final#0608",
+  "field": "manual",
+  "ko": "글자 '$item:30001166$' 획득하기|글자 '$item:30001167$' 획득하기|글자 '$item:30001168$' 획득하기|글자 '$item:30001169$' 획득하기",
+  "en": "Obtain the letter '$item:30001166$'|Obtain the letter '$item:30001167$'|Obtain the letter '$item:30001168$'|Obtain the letter '$item:30001169$'"
+ },
+ {
+  "id": "questdescription_final#0609",
+  "field": "name",
+  "ko": "글자를 모아 '중하야몽'을 완성해요!",
+  "en": "Collect letters to spell 'Junghayamong'!"
+ },
+ {
+  "id": "questdescription_final#0610",
+  "field": "desc",
+  "ko": "아래의 보스들을 처치하여 글자 '$item:30001170$', '$item:30001171$', '$item:30001172$', '$item:30001173$'을 모아보자!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' ",
+  "en": "Defeat the bosses below to collect the letters '$item:30001170$', '$item:30001171$', '$item:30001172$', '$item:30001173$'!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' "
+ },
+ {
+  "id": "questdescription_final#0611",
+  "field": "manual",
+  "ko": "글자 '$item:30001170$' 획득하기|글자 '$item:30001171$' 획득하기|글자 '$item:30001172$' 획득하기|글자 '$item:30001173$' 획득하기",
+  "en": "Obtain the letter '$item:30001170$'|Obtain the letter '$item:30001171$'|Obtain the letter '$item:30001172$'|Obtain the letter '$item:30001173$'"
+ },
+ {
+  "id": "questdescription_final#0612",
+  "field": "name",
+  "ko": "글자를 모아 '서월선명'을 완성해요!",
+  "en": "Collect letters to spell 'Seowolseonmyeong'!"
+ },
+ {
+  "id": "questdescription_final#0613",
+  "field": "desc",
+  "ko": "아래의 보스들을 처치하여 글자 '$item:30001174$', '$item:30001175$', '$item:30001176$', '$item:30001177$'을 모아보자!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' ",
+  "en": "Defeat the following bosses to collect the letter '$item:30001174$', '$item:30001175$', '$item:30001176$', and '$item:30001177$'!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' "
+ },
+ {
+  "id": "questdescription_final#0614",
+  "field": "manual",
+  "ko": "글자 '$item:30001174$' 획득하기|글자 '$item:30001175$' 획득하기|글자 '$item:30001176$' 획득하기|글자 '$item:30001177$' 획득하기",
+  "en": "Obtain the letter '$item:30001174$'|Obtain the letter '$item:30001175$'|Obtain the letter '$item:30001176$'|Obtain the letter '$item:30001177$'"
+ },
+ {
+  "id": "questdescription_final#0615",
+  "field": "name",
+  "ko": "썬샤인을 찾아라",
+  "en": "Find Sunshine"
+ },
+ {
+  "id": "questdescription_final#0616",
+  "field": "desc",
+  "ko": "메이플 월드 곳곳에서 썬샤인 풍선을 찾아 조사해 보자!\n매일 10회 조사를 완료하면, $npc:11001002$에게서 '$item:30001165$' 20개를 받을 수 있다.\n\n* 썬샤인 풍선은 전 필드에 매시 정각에 출현해서 5분 동안 유지된다.",
+  "en": "Find and investigate Sunshine Balloons throughout Maple World!\nComplete 10 investigations each day to receive 20 '$item:30001165$' from $npc:11001002$.\n\n* Sunshine Balloons appear in all fields on the hour and remain for 5 minutes."
+ },
+ {
+  "id": "questdescription_final#0617",
+  "field": "manual",
+  "ko": "썬샤인 풍선 조사하기",
+  "en": "Investigate the Sunshine Balloon"
+ },
+ {
+  "id": "questdescription_final#0618",
+  "field": "desc",
+  "ko": "기적의 일곱 번째 달밤을 만들기 위해 이 세상을 사랑으로 가득 채우자!\n$npc:11003139$$pp:는,은$ 세상에 흩어진 사랑 이야기를 들어보면 도움이 될 것 같다고 말하는데… \n$npc:11003139$$pp:가,이$ 추천하는 것은 설원에 전해져 내려온다는 연인들의 이야기.\n$map:02000001$에 가서 $npc:11000004$의 이야기를 들어 보자.",
+  "en": "Fill this world with love to create the miraculous seventh moonlit night!\n$npc:11003139$ says it may help to hear love stories scattered throughout the world...\n$npc:11003139$ recommends the lovers' story passed down in the snowy fields.\nGo to $map:02000001$ and listen to $npc:11000004$'s story."
+ },
+ {
+  "id": "questdescription_final#0619",
+  "field": "complete",
+  "ko": "$map:02000001$에 가서 $npc:11000004$의 이야기 들어보기",
+  "en": "Go to $map:02000001$ and listen to $npc:11000004$'s story"
+ },
+ {
+  "id": "questdescription_final#0620",
+  "field": "desc",
+  "ko": "기적의 일곱 번째 달밤을 만들기 위해 이 세상을 사랑으로 가득 채우자!\n$npc:11003139$$pp:는,은$ 누군가에게 사랑의 마음을 고백하는 것이야말로 사랑의 기적을 불러일으키는 지름길이라고 말하는데… \n메이플 월드의 인물들에게 직접 사랑을 고백하고 기적의 주인공이 되어보는 건 어떨까?\n오늘은 $map:02010047$의 $npc:11001430$에게 사랑을 고백해보자.",
+  "en": "Fill this world with love to create the miraculous seventh moonlit night!\n$npc:11003139$ says confessing your love to someone is the shortcut to calling forth a miracle of love...\nWhy not confess your love directly to people in Maple World and become the star of a miracle?\nToday, confess your love to $npc:11001430$ in $map:02010047$."
+ },
+ {
+  "id": "questdescription_final#0621",
+  "field": "complete",
+  "ko": "$map:02010047$의 $npc:11001430$에게 사랑을 고백하기",
+  "en": "Confess your love to $npc:11001430$ in $map:02010047$"
+ },
+ {
+  "id": "questdescription_final#0622",
+  "field": "name",
+  "ko": "데일리 미션 : 사랑을 찾아줘요",
+  "en": "Daily Mission: Find Love"
+ },
+ {
+  "id": "questdescription_final#0623",
+  "field": "desc",
+  "ko": "기적의 일곱 번째 달밤을 만들기 위해 이 세상을 사랑으로 가득 채우자!\n$npc:11001002$$pp:는,은$ 사람이 많은 곳에 가서 나의 인연을 찾아보는 건 어떻겠냐고 제안한다.\n많은 사람들이 있는 $npc:11001899$$pp:가,이$ 주최하는 이벤트 현장에 가보자.\n\n$npc:11001899$$pp:가,이$ 주최하는 이벤트가 열리는 곳 : $map:61000001$, $map:61000002$, $map:61000007$, $map:61000006$, $map:61000004$, $map:61000003$, $map:61000008$",
+  "en": "Fill this world with love to create the miraculous seventh moonlit night!\n$npc:11001002$ suggests going somewhere with many people to look for your connection.\nVisit an event hosted by $npc:11001899$, where many people gather.\n\nPlaces where events hosted by $npc:11001899$ are held: $map:61000001$, $map:61000002$, $map:61000007$, $map:61000006$, $map:61000004$, $map:61000003$, $map:61000008$"
+ },
+ {
+  "id": "questdescription_final#0624",
+  "field": "desc",
+  "ko": "사랑을 모으는 신비한 까치, $npc:11004101$$pp:는,은$ 스페셜 미션을 수행하면 많은 양의 $item:30001182$$pp:를,을$ 주겠다고 약속했다.\n\n이번 주의 주간 미션은 연주! \n은하수 정원에 흐르는 사랑의 기운이 보다 활발하게 흐를 수 있도록 마음껏 악기를 연주해보자.",
+  "en": "$npc:11004101$, the mysterious magpie who gathers love, promised to give you a large amount of $item:30001182$ if you complete special missions.\n\nThis week's weekly mission is performance!\nPlay instruments freely so the energy of love flowing through the Milky Way Garden can flow even more actively."
+ },
+ {
+  "id": "questdescription_final#0625",
+  "field": "manual",
+  "ko": "$map:63000062$에서 악기 연주하기|$map:63000062$에서 파티원과 합주하기",
+  "en": "Play an instrument in $map:63000062$|Perform as an ensemble with party members in $map:63000062$"
+ },
+ {
+  "id": "questdescription_final#0626",
+  "field": "desc",
+  "ko": "추수감사절만 되면 모험가들의 식탁에 오르는 신세가 된 칠면조들이 더 이상 참지 못하고 추수감사절을 망치기 위해 메이플 월드를 습격했다! $map:02000092$에 나타난 $npc:27000051$$pp:를,을$ 처치하고 메이플 월드의 주민들을 보호하자!",
+  "en": "The turkeys, tired of ending up on adventurers' tables every Thanksgiving, could endure it no longer and attacked Maple World to ruin Thanksgiving! Defeat $npc:27000051$ in $map:02000092$ and protect the residents of Maple World!"
+ },
+ {
+  "id": "questdescription_final#0627",
+  "field": "manual",
+  "ko": "$quest:80010280$ 퀘스트 10회 완료하기",
+  "en": "Complete the $quest:80010280$ quest 10 times"
+ },
+ {
+  "id": "questdescription_final#0628",
+  "field": "complete",
+  "ko": "$quest:80010280$ 퀘스트 10회 완료하기",
+  "en": "Complete the $quest:80010280$ quest 10 times"
+ },
+ {
+  "id": "questdescription_final#0629",
+  "field": "name",
+  "ko": "혼돈의 힘을 잠재워라!",
+  "en": "Quell the Power of Chaos!"
+ },
+ {
+  "id": "questdescription_final#0630",
+  "field": "desc",
+  "ko": "카오스 던전에서 어둠의 힘이 날뛰고 있다. 카오스 던전을 <font color=\"#00a2ed\">12회</font> 클리어하여 던전을 안정시키자. \n\n클리어 던전:\n$dungeonTitle:23021003$, $dungeonTitle:23022003$, $dungeonTitle:23023003$",
+  "en": "The power of darkness is running wild in Chaos Dungeons. Clear Chaos Dungeons <font color=\"#00a2ed\">12 times</font> to stabilize them.\n\nDungeons to Clear:\n$dungeonTitle:23021003$, $dungeonTitle:23022003$, $dungeonTitle:23023003$"
+ },
+ {
+  "id": "questdescription_final#0631",
+  "field": "manual",
+  "ko": "카오스 던전 12회 클리어하기",
+  "en": "Clear Chaos Dungeons 12 times"
+ },
+ {
+  "id": "questdescription_final#0632",
+  "field": "name",
+  "ko": "폭심지의 재폭발을 막아라!",
+  "en": "Stop the Re-Explosion at the Epicenter!"
+ },
+ {
+  "id": "questdescription_final#0633",
+  "field": "desc",
+  "ko": "아이 오브 라펜타 던전의 에너지가 너무 많이 쌓였다. 지금보다 더 많은 에너지가 응축되면 다시 폭발할 수 있다. 아이 오브 라펜타 던전을 <font color=\"#00a2ed\">12회</font> 클리어하여 폭발을 막자!   \n\n클리어 던전:\n$dungeonTitle:27000001$, $dungeonTitle:27001001$, $dungeonTitle:27002001$ ",
+  "en": "Too much energy has built up in the Eye of Lapenta dungeons. If even more energy condenses, it may explode again. Clear Eye of Lapenta dungeons <font color=\"#00a2ed\">12 times</font> to prevent the explosion!\n\nDungeons to Clear:\n$dungeonTitle:27000001$, $dungeonTitle:27001001$, $dungeonTitle:27002001$ "
+ },
+ {
+  "id": "questdescription_final#0634",
+  "field": "manual",
+  "ko": "아이 오브 라펜타 던전 12회 클리어하기",
+  "en": "Clear Eye of Lapenta Dungeons 12 times"
+ },
+ {
+  "id": "questdescription_final#0635",
+  "field": "name",
+  "ko": "새해 맞이 선물",
+  "en": "New Year's Gift"
+ },
+ {
+  "id": "questdescription_final#0636",
+  "field": "desc",
+  "ko": "$npcName:11001002$$pp:가,이$ 새해 인사와 함께 선물을 준비했다고 한다.\n오늘이 지나면 받을 수 없으니, 얼른 $map:02000064$으로 가 보자.",
+  "en": "$npcName:11001002$ says they prepared a gift along with New Year's greetings.\nYou cannot receive it after today, so hurry to $map:02000064$."
+ },
+ {
+  "id": "questdescription_final#0637",
+  "field": "desc",
+  "ko": "2019년은 돼지의 해! 12년에 한 번 돌아오는 돼지의 해를 맞아 신이 난 아기 복돼지들이 파티를 할 생각에 들떠 메이플 월드로 뛰어나왔다. 하지만 세상 물정 모르는 철부지 아기 복돼지들이 나온 곳에는 몬스터들이 가득한데…!\n두려움에 떨고 있는 아기 복돼지들이 안전하게 새해를 맞이할 수 있도록, 땅에 묶인 그들의 발을 풀어 자유롭게 날려 보내 주자!",
+  "en": "2019 is the Year of the Pig! Excited for the Year of the Pig, which comes once every 12 years, baby lucky pigs ran out into Maple World, thrilled at the thought of having a party. But the places where these naive baby lucky pigs appeared are full of monsters...!\nTo help the frightened baby lucky pigs welcome the new year safely, untie their feet from the ground and let them fly freely!"
+ },
+ {
+  "id": "questdescription_final#0638",
+  "field": "name",
+  "ko": "글자를 모아 '난동행(暖冬行)'을 완성해요!",
+  "en": "Collect Characters to Complete 'Warm Winter Journey (暖冬行)'!"
+ },
+ {
+  "id": "questdescription_final#0639",
+  "field": "desc",
+  "ko": "아래의 보스들을 처치하여 글자 '$item:30001321$', '$item:30001322$', '$item:30001323$'을 모아보자!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'",
+  "en": "Defeat the following bosses to collect the letters '$item:30001321$', '$item:30001322$', '$item:30001323$'!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'"
+ },
+ {
+  "id": "questdescription_final#0640",
+  "field": "manual",
+  "ko": "글자 '$item:30001321$' 획득하기|글자 '$item:30001322$' 획득하기|글자 '$item:30001323$' 획득하기",
+  "en": "Obtain character '$item:30001321$'|Obtain character '$item:30001322$'|Obtain character '$item:30001323$'"
+ },
+ {
+  "id": "questdescription_final#0641",
+  "field": "name",
+  "ko": "글자를 모아 '영춘계(迎春季)'를 완성해요!",
+  "en": "Collect Characters to Complete 'Spring Welcome (迎春季)'!"
+ },
+ {
+  "id": "questdescription_final#0642",
+  "field": "desc",
+  "ko": "아래의 보스들을 처치하여 글자 '$item:30001324$', '$item:30001325$', '$item:30001326$'을 모아보자!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'",
+  "en": "Defeat the following bosses to collect the letters '$item:30001324$', '$item:30001325$', '$item:30001326$'!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'"
+ },
+ {
+  "id": "questdescription_final#0643",
+  "field": "manual",
+  "ko": "글자 '$item:30001324$' 획득하기|글자 '$item:30001325$' 획득하기|글자 '$item:30001326$' 획득하기",
+  "en": "Obtain character '$item:30001324$'|Obtain character '$item:30001325$'|Obtain character '$item:30001326$'"
+ },
+ {
+  "id": "questdescription_final#0644",
+  "field": "name",
+  "ko": "글자를 모아 '낭만시(浪漫时)'를 완성해요!",
+  "en": "Collect Characters to Complete 'Romantic Time (浪漫时)'!"
+ },
+ {
+  "id": "questdescription_final#0645",
+  "field": "desc",
+  "ko": "아래의 보스들을 처치하여 글자 '$item:30001327$', '$item:30001328$', '$item:30001329$'을 모아보자!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'",
+  "en": "Defeat the following bosses to collect the letters '$item:30001327$', '$item:30001328$', '$item:30001329$'!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'"
+ },
+ {
+  "id": "questdescription_final#0646",
+  "field": "manual",
+  "ko": "글자 '$item:30001327$' 획득하기|글자 '$item:30001328$' 획득하기|글자 '$item:30001329$' 획득하기",
+  "en": "Obtain character '$item:30001327$'|Obtain character '$item:30001328$'|Obtain character '$item:30001329$'"
+ },
+ {
+  "id": "questdescription_final#0647",
+  "field": "name",
+  "ko": "데일리 미션 : 오늘의 짝꿍",
+  "en": "Daily Mission: Today's Partner",
+  "n": 19
+ },
+ {
+  "id": "questdescription_final#0648",
+  "field": "manual",
+  "ko": "메이플 월드에서 10레벨 이상의 '러블리 하트 리본'을 착용한 이성 친구 찾기",
+  "en": "Find a player of the opposite gender wearing a 'Lovely Heart Ribbon' (at least Level 10) in Maple World"
+ },
+ {
+  "id": "questdescription_final#0649",
+  "field": "manual",
+  "ko": "메이플 월드에서 10레벨 이상의 '러블리 하트 가방'을 착용한 이성 친구 찾기",
+  "en": "Find a player of the opposite gender wearing a 'Lovely Heart Bag' (at least Level 10) in Maple World"
+ },
+ {
+  "id": "questdescription_final#0650",
+  "field": "manual",
+  "ko": "메이플 월드에서 10레벨 이상의 '찾아라 나의 반쪽 티셔츠 LO'를 착용한 이성 친구 찾기",
+  "en": "Find a player of the opposite gender wearing a 'Find My Other Half T-Shirt LO' (at least Level 10) in Maple World"
+ },
+ {
+  "id": "questdescription_final#0651",
+  "field": "manual",
+  "ko": "메이플 월드에서 10레벨 이상의 '찾아라 나의 반쪽 티셔츠 VE'를 착용한 이성 친구 찾기",
+  "en": "Find a player of the opposite gender wearing a 'Find My Other Half T-Shirt VE' (at least Level 10) in Maple World"
+ },
+ {
+  "id": "questdescription_final#0652",
+  "field": "manual",
+  "ko": "메이플 월드에서 10레벨 이상의 '사랑은 방울방울'을 착용한 이성 친구 찾기",
+  "en": "Find a player of the opposite gender wearing 'Love in Droplets' (at least Level 10) in Maple World"
+ },
+ {
+  "id": "questdescription_final#0653",
+  "field": "manual",
+  "ko": "메이플 월드에서 10레벨 이상의 '춤추는 꽃'을 착용한 이성 친구 찾기",
+  "en": "Find a friend of the opposite gender wearing a 'Dancing Flower' (Lv. 10+) in Maple World"
+ },
+ {
+  "id": "questdescription_final#0654",
+  "field": "manual",
+  "ko": "메이플 월드에서 10레벨 이상의 '빵빠레 베이비 엔젤'을 착용한 이성 친구 찾기",
+  "en": "Find a friend of the opposite gender wearing a 'Fanfare Baby Angel' (Lv. 10+) in Maple World"
+ },
+ {
+  "id": "questdescription_final#0655",
+  "field": "name",
+  "ko": "너를 속일 거야!",
+  "en": "I'm Going to Trick You!"
+ },
+ {
+  "id": "questdescription_final#0656",
+  "field": "desc",
+  "ko": "2019년 4월 2일까지만 만우절 깜짝 이벤트!\n\n만우절이다!\n누군가 속이거나 장난치고 싶은 그 마음, $npcName:11001002$$pp:가,이$ 다 알징~!\n\n우편으로 받은 $item:20000674$$pp:를,을$ 먹고 친구들을 깜짝 놀라게 하자.\n퀘스트를 완료한 모험가에게는 만우절과 딱 어울릴 만한 선물이!",
+  "en": "An April Fools' surprise event, available only until April 2, 2019!\n\nIt's April Fools' Day!\nThat urge to trick or prank someone? $npcName:11001002$ totally gets it~!\n\nEat the $item:20000674$ received in the mail and give your friends a big surprise.\nAdventurers who complete the quest will receive a gift perfectly suited for April Fools'!"
+ },
+ {
+  "id": "questdescription_final#0657",
+  "field": "manual",
+  "ko": "메이플 월드에서 $item:20000674$ 사용하기",
+  "en": "Use $item:20000674$ in Maple World"
+ },
+ {
+  "id": "questdescription_final#0658",
+  "field": "name",
+  "ko": "민트를 이겨라!",
+  "en": "Defeat Mint!"
+ },
+ {
+  "id": "questdescription_final#0659",
+  "field": "desc",
+  "ko": "퀸크빈 럼블 3라운드 상대인 $npcName:60000103$$pp:를,을$ 세번 이기면, $npcName:11001002$에게서 선물을 받을 수 있다고 한다.\n\n선물은 2019년 5월 22일부터 6월 14일 점검 전까지만 받을 수 있다고 하니, 서둘러 퀸크빈 럼블에 참가해 보자.",
+  "en": "If you defeat $npcName:60000103$, the third-round opponent in Queenwin Rumble, three times, you can receive a gift from $npcName:11001002$.\n\nThe gift can only be received from May 22, 2019 until before the June 14 maintenance, so hurry and join Queenwin Rumble!"
+ },
+ {
+  "id": "questdescription_final#0660",
+  "field": "manual",
+  "ko": "퀸크빈 럼블에서 $npcName:60000103$$pp:와,과$ 대결해 승리하기",
+  "en": "Face $npcName:60000103$ in Queen Bean Rumble and win"
+ },
+ {
+  "id": "questdescription_final#0661",
+  "field": "name",
+  "ko": "바람개비의 재료",
+  "en": "Pinwheel Materials"
+ },
+ {
+  "id": "questdescription_final#0662",
+  "field": "desc",
+  "ko": "아래의 보스들을 처치하여 바람개비의 재료인 $item:30001386$, $item:30001387$, $item:30001388$을 모아보자!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'\n\n* 하루 한 번만 수행/완료 가능한 퀘스트로, 보상인 $item:30001389$ 역시 하루 한 번만 획득 가능하다.",
+  "en": "Defeat the bosses below to collect $item:30001386$, $item:30001387$, and $item:30001388$, the materials needed for the windmill!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'\n\n* This quest can only be completed once per day, and the reward $item:30001389$ can also only be obtained once per day."
+ },
+ {
+  "id": "questdescription_final#0663",
+  "field": "manual",
+  "ko": "$item:30001386$ 획득하기|$item:30001387$ 획득하기|$item:30001388$ 획득하기",
+  "en": "Obtain $item:30001386$|Obtain $item:30001387$|Obtain $item:30001388$"
+ },
+ {
+  "id": "questdescription_final#0664",
+  "field": "name",
+  "ko": "바람개비 줄게 선물 다오",
+  "en": "Give me a present for a pinwheel"
+ },
+ {
+  "id": "questdescription_final#0665",
+  "field": "desc",
+  "ko": "$npc:11001002$$pp:가,이$ 주는 퀘스트를 완료하여 $item:30001389$를 20개 모으자!",
+  "en": "Complete the quest from $npc:11001002$ and collect 20 $item:30001389$!"
+ },
+ {
+  "id": "questdescription_final#0666",
+  "field": "manual",
+  "ko": "$item:30001389$ 모으기",
+  "en": "Collect $item:30001389$"
+ },
+ {
+  "id": "questdescription_final#0667",
+  "field": "name",
+  "ko": "함께 즐겨요~ 축하연주!",
+  "en": "Enjoy It Together~ Celebration Performance!"
+ },
+ {
+  "id": "questdescription_final#0668",
+  "field": "desc",
+  "ko": "[이벤트 맵 바로가기]를 통해 $map:63000089$로 이동해서 다른 모험가와 함께 합주를 해보자.",
+  "en": "Use [Go to Event Map] to travel to $map:63000089$ and try playing music together with other adventurers."
+ },
+ {
+  "id": "questdescription_final#0669",
+  "field": "manual",
+  "ko": "$map:63000089$에서 합주하기",
+  "en": "Perform as an ensemble in $map:63000089$"
+ },
+ {
+  "id": "questdescription_final#0670",
+  "field": "name",
+  "ko": "황금 두루마리에 대한 소문",
+  "en": "Rumors About the Golden Scroll"
+ },
+ {
+  "id": "questdescription_final#0671",
+  "field": "desc",
+  "ko": "$npcName:11001002$가 들려주는 흥미진진한 소문에 귀 기울여 보자.",
+  "en": "Listen to the fascinating rumors that $npcName:11001002$ has to share."
+ },
+ {
+  "id": "questdescription_final#0672",
+  "field": "manual",
+  "ko": "$map:02000064$, 또는 $map:02020041$에서 $npc:11001002$$pp:와,과$ 대화하기",
+  "en": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
+ },
+ {
+  "id": "questdescription_final#0673",
+  "field": "desc",
+  "ko": "처음 본 마녀에게서 $npc:50400341$$pp:를,을$ 선물 받았다. \n이거… 키워봐도 되는 걸까?",
+  "en": "I received $npc:50400341$ as a gift from a witch I'd just met. Is it... okay to raise it?"
+ },
+ {
+  "id": "questdescription_final#0674",
+  "field": "desc",
+  "ko": "$npc:11001899$$pp:가,이$ 새 이벤트를 진행한다고 한다.\n숨바꼭질 형태의 놀이라는데…\n화요일, 토요일, 일요일에만 열린다고 하니, 잘 기억해뒀다 참여해 보자.",
+  "en": "I heard that $npc:11001899$ is hosting a new event.\nIt's a hide-and-seek type game...\nThey say it's only held on Tuesdays, Saturdays, and Sundays, so keep that in mind and join in."
+ },
+ {
+  "id": "questdescription_final#0675",
+  "field": "manual",
+  "ko": "$npc:11001899$의 숨바꼭질 이벤트에 참가하기",
+  "en": "Participate in $npc:11001899$'s Hide-and-Seek event"
+ },
+ {
+  "id": "questdescription_final#0676",
+  "field": "name",
+  "ko": "이기면 더 재밌어!",
+  "en": "More Fun When You Win!"
+ },
+ {
+  "id": "questdescription_final#0677",
+  "field": "desc",
+  "ko": "$npc:11001899$의 새 이벤트, 숨바꼭질에 참여해 승리 팀의 일원이 돼 보자.",
+  "en": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0678",
+  "field": "manual",
+  "ko": "$npc:11001899$의 숨바꼭질 이벤트에 참가해, 승리하기",
+  "en": "Participate in $npc:11001899$'s Hide-and-Seek event and win",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0679",
+  "field": "name",
+  "ko": "숨바꼭질, 적응 완료!",
+  "en": "Hide-and-Seek, Adaptation Complete!"
+ },
+ {
+  "id": "questdescription_final#0680",
+  "field": "name",
+  "ko": "숨바꼭질의 승부사!",
+  "en": "Hide-and-Seek Champion!"
+ },
+ {
+  "id": "questdescription_final#0681",
+  "field": "name",
+  "ko": "숨바꼭질의 달인!",
+  "en": "Hide-and-Seek Master!"
+ },
+ {
+  "id": "questdescription_final#0682",
+  "field": "name",
+  "ko": "행운을 배달하는 컵케이크",
+  "en": "Lucky Cupcake Delivery"
+ },
+ {
+  "id": "questdescription_final#0683",
+  "field": "desc",
+  "ko": "2019년 12월 31일과 2020년 1월 1일에 각각 80분 이상 접속을 유지하면 $item:30001467$$pp:가,이$ 10개씩 우편으로 전달된다고 한다.\n\n이틀간 $item:30001467$ 20개를 모아 $npcName:11001002$에게 가져다 주자.",
+  "en": "If you stay logged in for at least 80 minutes on both December 31, 2019 and January 1, 2020, you'll receive 10 $item:30001467$ by mail each day.\nCollect 20 $item:30001467$ over the two days and bring them to $npcName:11001002$."
+ },
+ {
+  "id": "questdescription_final#0684",
+  "field": "manual",
+  "ko": "$item:30001467$ 획득하기",
+  "en": "Obtain $item:30001467$"
+ },
+ {
+  "id": "questdescription_final#0685",
+  "field": "name",
+  "ko": "댄스댄스, 신나게 흔들어!",
+  "en": "Dance Dance, Shake It Joyfully!"
+ },
+ {
+  "id": "questdescription_final#0686",
+  "field": "desc",
+  "ko": "$npc:11001002$$pp:는,은$ 이번 겨울 아주 특별한 댄스 파티가 준비되었다는 소식을 전하며, 참여해 보는 게 어떻겠냐고 권유한다. \n1주일에 3번, $map:61000022$에 참여하고 $npc:11001002$$pp:가,이$ 준비한 깜짝 선물을 받자.",
+  "en": "$npc:11001002$ tells you that a very special dance party has been prepared this winter, and invites you to join in.\nParticipate in $map:61000022$ 3 times a week and receive the surprise gift that $npc:11001002$ has prepared."
+ },
+ {
+  "id": "questdescription_final#0687",
+  "field": "name",
+  "ko": "블랙빈을 닮은 풍선",
+  "en": "Black Bean Balloon"
+ },
+ {
+  "id": "questdescription_final#0688",
+  "field": "desc",
+  "ko": "필드 곳곳에 등장한 블랙빈을 닮은 풍선을 찾아 날려 보내자.\n\n* 블랙빈을 닮은 풍선은 전 필드에 10분 단위로 출현해서 5분 동안 유지된다.",
+  "en": "Find the Black Bean-shaped balloons appearing throughout the fields and send them flying.\n\n* Black Bean-shaped balloons appear across all fields every 10 minutes and last for 5 minutes."
+ },
+ {
+  "id": "questdescription_final#0689",
+  "field": "manual",
+  "ko": "블랙빈을 닮은 풍선 날려 보내기",
+  "en": "Release the Black Bean Balloon"
+ },
+ {
+  "id": "questdescription_final#0690",
+  "field": "manual",
+  "ko": "$item:11361396$$pp:를,을$ 착용한 짝꿍 찾기",
+  "en": "Find a partner wearing $item:11361396$"
+ },
+ {
+  "id": "questdescription_final#0691",
+  "field": "manual",
+  "ko": "\"집에만 있는\" 칭호를 달고 있는 여자 짝꿍 찾기",
+  "en": "Find a female partner wearing the \"Homebody\" title"
+ },
+ {
+  "id": "questdescription_final#0692",
+  "field": "manual",
+  "ko": "\"집에만 있는\" 칭호를 달고 있는 남자 짝꿍 찾기",
+  "en": "Find a male partner wearing the \"Homebody\" title"
+ },
+ {
+  "id": "questdescription_final#0693",
+  "field": "manual",
+  "ko": "$item:11250042$$pp:를,을$ 착용한 짝꿍 찾기",
+  "en": "Find a partner wearing $item:11250042$"
+ },
+ {
+  "id": "questdescription_final#0694",
+  "field": "manual",
+  "ko": "\"마음을 훔치는\" 칭호를 달고 있는 짝꿍 찾기",
+  "en": "Find a partner wearing the \"Heartstealer\" title"
+ },
+ {
+  "id": "questdescription_final#0695",
+  "field": "manual",
+  "ko": "\"전문 낚시꾼\" 칭호를 달고 있는 짝꿍 찾기",
+  "en": "Find a partner wearing the \"Expert Angler\" title"
+ },
+ {
+  "id": "questdescription_final#0696",
+  "field": "manual",
+  "ko": "50레벨 이상의 나이트 짝꿍 찾기",
+  "en": "Find a Knight partner at Lv. 50 or higher"
+ },
+ {
+  "id": "questdescription_final#0697",
+  "field": "manual",
+  "ko": "50레벨 이상의 프리스트 짝꿍 찾기",
+  "en": "Find a Priest partner at Lv. 50 or higher"
+ },
+ {
+  "id": "questdescription_final#0698",
+  "field": "manual",
+  "ko": "50레벨 이상의 레인저 짝꿍 찾기",
+  "en": "Find a Ranger buddy Lv. 50 or higher"
+ },
+ {
+  "id": "questdescription_final#0699",
+  "field": "manual",
+  "ko": "50레벨 이상의 시프 짝꿍 찾기",
+  "en": "Find a Thief buddy Lv. 50 or higher"
+ },
+ {
+  "id": "questdescription_final#0700",
+  "field": "manual",
+  "ko": "\"흑묘\" 칭호를 달고 있는 짝꿍 찾기",
+  "en": "Find a partner wearing the \"Black Cat\" title"
+ },
+ {
+  "id": "questdescription_final#0701",
+  "field": "manual",
+  "ko": "\"백묘\" 칭호를 달고 있는 짝꿍 찾기",
+  "en": "Find a partner wearing the \"White Cat\" title"
+ },
+ {
+  "id": "questdescription_final#0702",
+  "field": "manual",
+  "ko": "* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.\n\n주석 광맥 30회 채광",
+  "en": "* Excludes items obtained by using Magic Production Coupons.\n\nMine Tin Veins 30 times"
+ },
+ {
+  "id": "questdescription_final#0703",
+  "field": "complete",
+  "ko": "* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.\n\n주석 광맥 30회 채광",
+  "en": "* Excludes items obtained by using Magic Production Coupons.\n\nMine Tin Veins 30 times"
+ },
+ {
+  "id": "questdescription_final#0704",
+  "field": "manual",
+  "ko": "UGC 1회 이상 제작",
+  "en": "Create UGC at least 1 time"
+ },
+ {
+  "id": "questdescription_final#0705",
+  "field": "complete",
+  "ko": "UGC 1회 이상 제작",
+  "en": "Create UGC at least 1 time"
+ },
+ {
+  "id": "questdescription_final#0706",
+  "field": "manual",
+  "ko": "쉐도우월드 비틀린 공간의 틈에 입장",
+  "en": "Enter the Twisted Space Gap in the Shadow World"
+ },
+ {
+  "id": "questdescription_final#0707",
+  "field": "complete",
+  "ko": "쉐도우월드 비틀린 공간의 틈에 입장",
+  "en": "Enter the Twisted Space Gap in the Shadow World"
+ },
+ {
+  "id": "questdescription_final#0708",
+  "field": "manual",
+  "ko": "공략이 필요한 필드 보스:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\n필드 보스 1회 처치하기",
+  "en": "Field bosses that need to be defeated:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat a field boss once"
+ },
+ {
+  "id": "questdescription_final#0709",
+  "field": "complete",
+  "ko": "공략이 필요한 필드 보스:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\n필드 보스 1회 처치하기",
+  "en": "Field bosses that need to be defeated:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat a field boss once"
+ },
+ {
+  "id": "questdescription_final#0710",
+  "field": "name",
+  "ko": "쉐도우월드 1회 방문",
+  "en": "Visit the Land of Darkness"
+ },
+ {
+  "id": "questdescription_final#0711",
+  "field": "name",
+  "ko": "황금 보물 상자 10개 열기",
+  "en": "Open 10 Golden Treasure Chests"
+ },
+ {
+  "id": "questdescription_final#0712",
+  "field": "manual",
+  "ko": "* MC케이 이벤트는 매시간 5분, 35분에 참여할 수 있습니다.\n\nMC케이 이벤트 10회 참여하기",
+  "en": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 10 times"
+ },
+ {
+  "id": "questdescription_final#0713",
+  "field": "complete",
+  "ko": "* MC케이 이벤트는 매시간 5분, 35분에 참여할 수 있습니다.\n\nMC케이 이벤트 10회 참여하기",
+  "en": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 10 times"
+ },
+ {
+  "id": "questdescription_final#0714",
+  "field": "name",
+  "ko": "필드 보스 20회 처치하기",
+  "en": "Defeat Field Bosses 20 Times"
+ },
+ {
+  "id": "questdescription_final#0715",
+  "field": "name",
+  "ko": "아리까리 상단의 일일 퀘스트 5회 완료하기",
+  "en": "Complete Arikari Merchant Guild Daily Quests 5 Times"
+ },
+ {
+  "id": "questdescription_final#0716",
+  "field": "manual",
+  "ko": "모험[일반/어려움] 보너스 상자 획득하기",
+  "en": "Obtain an Adventure [Normal/Hard] Bonus Box",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0717",
+  "field": "complete",
+  "ko": "모험[일반/어려움] 보너스 상자 15개 획득",
+  "en": "Obtain 15 Adventure [Normal/Hard] Bonus Boxes",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0718",
+  "field": "manual",
+  "ko": "$map:02000064$ 아리까리 상단의 일일 퀘스트 완료하기",
+  "en": "Complete Arikari Merchant Guild daily quests in $map:02000064$",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0719",
+  "field": "complete",
+  "ko": "$map:02000064$ 아리까리 상단의 일일 퀘스트 2회 완료",
+  "en": "Completed Arikari Merchant Guild daily quests 2 times in $map:02000064$"
+ },
+ {
+  "id": "questdescription_final#0720",
+  "field": "complete",
+  "ko": "필드 보스 10회 처치",
+  "en": "Defeat field bosses 10 times",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0721",
+  "field": "complete",
+  "ko": "몬스터 2020마리 처치",
+  "en": "Defeat 2020 monsters",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0722",
+  "field": "manual",
+  "ko": "황금 보물 상자 열기",
+  "en": "Open a Golden Treasure Chest",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0723",
+  "field": "manual",
+  "ko": "다른 사람 집에서 재배물 수확하기",
+  "en": "Harvest crops from another player's house",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0724",
+  "field": "manual",
+  "ko": "아이템 분해하기",
+  "en": "Dismantle items"
+ },
+ {
+  "id": "questdescription_final#0725",
+  "field": "complete",
+  "ko": "MC케이 이벤트 3회 참여",
+  "en": "Participate in MC Kay Event 3 Times"
+ },
+ {
+  "id": "questdescription_final#0726",
+  "field": "manual",
+  "ko": "바베니 세력 퀘스트 완료하기 (주간 퀘스트 포함)",
+  "en": "Complete Barbeni Faction Quests (including weekly quests)",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0727",
+  "field": "complete",
+  "ko": "바베니 세력 퀘스트 10회 완료 (주간 퀘스트 포함)",
+  "en": "Complete 10 Barbeni Faction Quests (including weekly quests)",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0728",
+  "field": "manual",
+  "ko": "다른 사람과 합주하기",
+  "en": "Perform as an ensemble with someone else",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0729",
+  "field": "complete",
+  "ko": "다른 사람과 합주 1회 완료",
+  "en": "Complete 1 ensemble performance with another person",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0730",
+  "field": "complete",
+  "ko": "메이플 아케이드 2회 참여",
+  "en": "Participate in Maple Arcade 2 Times"
+ },
+ {
+  "id": "questdescription_final#0731",
+  "field": "manual",
+  "ko": "젬스톤 업그레이드 시도하기",
+  "en": "Attempt a Gemstone Upgrade",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0732",
+  "field": "complete",
+  "ko": "젬스톤 업그레이드 1회 시도",
+  "en": "Attempt Gemstone Upgrade Once"
+ },
+ {
+  "id": "questdescription_final#0733",
+  "field": "manual",
+  "ko": "펫 포획하기",
+  "en": "Capture a Pet",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0734",
+  "field": "complete",
+  "ko": "펫 2회 포획",
+  "en": "Capture 2 Pets"
+ },
+ {
+  "id": "questdescription_final#0735",
+  "field": "manual",
+  "ko": "라벤더 허브 채집하기",
+  "en": "Gather lavender herbs",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0736",
+  "field": "complete",
+  "ko": "라벤더 허브 20회 채집",
+  "en": "Gather lavender herbs 20 times",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0737",
+  "field": "manual",
+  "ko": "캐시마트 아르바이트 클리어하기",
+  "en": "Clear Cash Mart Part-Time Job"
+ },
+ {
+  "id": "questdescription_final#0738",
+  "field": "complete",
+  "ko": "캐시마트 아르바이트 2회 클리어",
+  "en": "Clear Cash Mart Part-Time Job 2 Times"
+ },
+ {
+  "id": "questdescription_final#0739",
+  "field": "complete",
+  "ko": "$map:02000064$ 아리까리 상단의 일일 퀘스트 1회 완료",
+  "en": "Completed Arikari Merchant Guild daily quests 1 time in $map:02000064$"
+ },
+ {
+  "id": "questdescription_final#0740",
+  "field": "complete",
+  "ko": "다른 사람 집에서 재배물 3회 수확",
+  "en": "Harvest crops from another player's house 3 times"
+ },
+ {
+  "id": "questdescription_final#0741",
+  "field": "manual",
+  "ko": "아이템 분해하기",
+  "en": "Disassemble an Item"
+ },
+ {
+  "id": "questdescription_final#0742",
+  "field": "complete",
+  "ko": "아이템 1개 분해",
+  "en": "Disassembled 1 Item"
+ },
+ {
+  "id": "questdescription_final#0743",
+  "field": "complete",
+  "ko": "메이플 아케이드 1회 참여",
+  "en": "Participated in Maple Arcade Once"
+ },
+ {
+  "id": "questdescription_final#0744",
+  "field": "complete",
+  "ko": "젬스톤 업그레이드 1회 시도",
+  "en": "Attempted Gemstone Upgrade Once"
+ },
+ {
+  "id": "questdescription_final#0745",
+  "field": "complete",
+  "ko": "펫 1회 포획",
+  "en": "Capture 1 Pet"
+ },
+ {
+  "id": "questdescription_final#0746",
+  "field": "manual",
+  "ko": "캐시마트 아르바이트 클리어하기",
+  "en": "Clear the Cash Mart Part-Time Job"
+ },
+ {
+  "id": "questdescription_final#0747",
+  "field": "complete",
+  "ko": "캐시마트 아르바이트 1회 클리어",
+  "en": "Cleared Cash Mart Part-Time Job Once"
+ }
+]

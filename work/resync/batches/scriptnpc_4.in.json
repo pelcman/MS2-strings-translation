@@ -1,0 +1,2874 @@
+[
+ {
+  "id": "scriptnpc#1539",
+  "field": "name",
+  "ko": "섣부른 행동으로 자칫 큰 위험에 빠지는 것 보단 \n이 공장 시설의 규모 파악과 어떻게 운용되는지 알아보는 것이 먼저예요.",
+  "en": "Instead of striking out blindly, we need to understand the full scope of this facility... and what it will take to destroy it once and for all.",
+  "npc": "카라디",
+  "npc_ja": "カラディ"
+ },
+ {
+  "id": "scriptnpc#1540",
+  "field": "name",
+  "ko": "들려? 이 소리?",
+  "en": "Do you hear that?",
+  "npc": "판타날",
+  "npc_ja": "パンタナル"
+ },
+ {
+  "id": "scriptnpc#1541",
+  "field": "name",
+  "ko": "마치 합창을 하는 것 같아.",
+  "en": "It's almost like a chorus...",
+  "npc": "판타날",
+  "npc_ja": "パンタナル"
+ },
+ {
+  "id": "scriptnpc#1542",
+  "field": "name",
+  "ko": "어서 와. $MyPCName$!\n난 크리티아스의 식물들을 연구하고 있어!",
+  "en": "Ah, $MyPCName$! I'm here researching the plants of Kritias.",
+  "npc": "판타날",
+  "npc_ja": "パンタナル",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1543",
+  "field": "name",
+  "ko": "(성과가 있냐고 묻는다.)",
+  "en": "What have you learned?",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1544",
+  "field": "name",
+  "ko": "응! 대단한 성과가 있었지!\n크리티아스의 모든 식물엔 크고 작은 에네르가 깃들어 있어!",
+  "en": "So much! All of the plants in Kritias have at least a little bit of aetherine in them.",
+  "npc": "판타날",
+  "npc_ja": "パンタナル"
+ },
+ {
+  "id": "scriptnpc#1545",
+  "field": "name",
+  "ko": "그리고 식물들은 서로의 에네르에 반응해.\n마치 서로 에네르를 통해 대화하는 것 같달까?",
+  "en": "And the plants react to each other's aetherine. It seems like they use the aetherine to communicate with each other!",
+  "npc": "판타날",
+  "npc_ja": "パンタナル"
+ },
+ {
+  "id": "scriptnpc#1546",
+  "field": "name",
+  "ko": "(식물이 대화를?)",
+  "en": "So what... talking plants?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1547",
+  "field": "name",
+  "ko": "식물들이 대화한다는 가설들은 많았지만\n크리티아스에서 발견된 이 현상은 명확한 증거가 될 수 있어!\n그리고 지금 이 반응…",
+  "en": "Not precisely, but the idea of plants being able to communicate with each other isn't exactly new. The ecosystem in Kritias may be the most concrete evidence we've ever seen.",
+  "npc": "판타날",
+  "npc_ja": "パンタナル"
+ },
+ {
+  "id": "scriptnpc#1548",
+  "field": "name",
+  "ko": "식물들이 같은 에네르 파장을 내고 있어.\n마치 식물들이 합창하고 있는 것만 같아!",
+  "en": "The plants are all giving off the same aetherine wavelength. It's almost as if they're singing a chorus!",
+  "npc": "판타날",
+  "npc_ja": "パンタナル"
+ },
+ {
+  "id": "scriptnpc#1549",
+  "field": "name",
+  "ko": "음… 생명체에도 에네르가…",
+  "en": "Hm... Aetherine in living creatures...",
+  "npc": "바코바",
+  "npc_ja": "バコパ"
+ },
+ {
+  "id": "scriptnpc#1550",
+  "field": "name",
+  "ko": "에네르의 정체는 대체…",
+  "en": "What, exactly, IS this aetherine?",
+  "npc": "바코바",
+  "npc_ja": "バコパ"
+ },
+ {
+  "id": "scriptnpc#1551",
+  "field": "name",
+  "ko": "아? 왔는가?\n나는 크리티아스의 어류에 대해 연구 중이라네.",
+  "en": "I'm here researching the fish of Kritias.",
+  "npc": "바코바",
+  "npc_ja": "バコパ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1552",
+  "field": "name",
+  "ko": "여러 어류를 연구했지.\n그리고 어류에 에네르가 깃들어 있다는 것을 발견했네.\n아마 어류의 에네르 축적은 먹이사슬과 관계가 있는 거 같네.",
+  "en": "Every fish I've caught has had trace amounts of aetherine in their systems. The amount might be related to their place in the food chain...",
+  "npc": "바코바",
+  "npc_ja": "バコパ"
+ },
+ {
+  "id": "scriptnpc#1553",
+  "field": "name",
+  "ko": "만약 이 물고기를 먹는다면 사람에게도 에네르가 깃들 수 있을까?\n흠… 그걸 연구하려면 우선, 이 물고기에 독이 있는지 없는지 부터 알아내야겠군.",
+  "en": "If I were to cook and eat one of these fish, would the aetherine stay in <i>my</i> system? Until I figure this out, we're going to be reliant on food rations delivered from the mainland.",
+  "npc": "바코바",
+  "npc_ja": "バコパ"
+ },
+ {
+  "id": "scriptnpc#1554",
+  "field": "name",
+  "ko": "끔찍해…",
+  "en": "Terrible...",
+  "npc": "푸실라",
+  "npc_ja": "プシラ"
+ },
+ {
+  "id": "scriptnpc#1555",
+  "field": "name",
+  "ko": "어떻게 이런 일이…",
+  "en": "How can this be?",
+  "npc": "푸실라",
+  "npc_ja": "プシラ"
+ },
+ {
+  "id": "scriptnpc#1556",
+  "field": "name",
+  "ko": "이 지역은 원래 울창한 숲이였어요.\n하지만 검은군단이 이곳에 오고 나서 부터 모든 게 변했죠.",
+  "en": "This place was a dense forest when we first got here...",
+  "npc": "푸실라",
+  "npc_ja": "プシラ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1557",
+  "field": "name",
+  "ko": "(무슨 일이 일어난 건지 묻는다.)",
+  "en": "What happened?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1558",
+  "field": "name",
+  "ko": "검은군단의 병력이 이곳에 도착한 후 하루 만에 이런 진지를 완성시켰어요.\n울창한 숲은 하루 만에 이런 꼴이 되어버렸고 맑은 개울은 이렇게 썩어버렸어요.",
+  "en": "We set up camp just a day after the Daemon Army arrived. This is all that's left of the forest. The stream is totally dead now, too.",
+  "npc": "푸실라",
+  "npc_ja": "プシラ"
+ },
+ {
+  "id": "scriptnpc#1559",
+  "field": "name",
+  "ko": "당신도 이런 비슷한 곳을 본 적이 있을 거예요.\n그래요. 쉐도우 월드… 그곳 처럼 변해가는 거예요.",
+  "en": "We've seen this kind of rapid transformation before. In the Land of Darkness...",
+  "npc": "푸실라",
+  "npc_ja": "プシラ"
+ },
+ {
+  "id": "scriptnpc#1560",
+  "field": "name",
+  "ko": "상황은 점점 심해지고 이젠 주변 다른 곳까지 오염되어 가고 있어요.\n검은군단의 세력이 확장되면 될 수록 이곳의 오염도 가속화 될 거예요.",
+  "en": "As the Daemon Army expands, this massive die-off of nature will follow.",
+  "npc": "푸실라",
+  "npc_ja": "プシラ"
+ },
+ {
+  "id": "scriptnpc#1561",
+  "field": "name",
+  "ko": "이것이 에네르의 힘인가...",
+  "en": "Is this the power of aetherine?",
+  "npc": "주울 ",
+  "npc_ja": "ジュール"
+ },
+ {
+  "id": "scriptnpc#1562",
+  "field": "name",
+  "ko": "중력마저 역전되는군.",
+  "en": "Even gravity is nothing to it...",
+  "npc": "주울 ",
+  "npc_ja": "ジュール"
+ },
+ {
+  "id": "scriptnpc#1563",
+  "field": "name",
+  "ko": "난 이곳의 불가사의한 중력 역전에 대해 조사하고 있소.\n어마어마한 구조물이 특별한 장치 없이 떠 있는 것이 매우 흥미롭다오.",
+  "en": "The gravity, erm, situation in this place is fascinating. Why, these huge structures look as though they might simply float away.",
+  "npc": "주울 ",
+  "npc_ja": "ジュール",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1564",
+  "field": "name",
+  "ko": "(성과가 있는지 물어본다.)",
+  "en": "How's the research going?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1565",
+  "field": "name",
+  "ko": "이 중력 역전에 대해 연구하여 결실을 이룬다면\n제2의 에너지 혁명이 가능할지도 모르오.",
+  "en": "It's early to say, but I think this could lead to a second energy revolution.",
+  "npc": "주울 ",
+  "npc_ja": "ジュール"
+ },
+ {
+  "id": "scriptnpc#1566",
+  "field": "name",
+  "ko": "생각해 보시오.\n우리의 스카이 포트리스가 막대한 에너지를 사용하지 않고 부유한다면…\n당신도 이 중력 역전에 대한 해답을 찾고 싶어지지 않소?",
+  "en": "Think about it. The vast majority of Sky Fortress's power generation goes into keeping it in the air. How might we use that power if we had aetherine to lift the ship aloft, instead?",
+  "npc": "주울 ",
+  "npc_ja": "ジュール"
+ },
+ {
+  "id": "scriptnpc#1567",
+  "field": "name",
+  "ko": "에네르는 크리티아스 어디에나 있군…",
+  "en": "Aetherine's all over the place...",
+  "npc": "데니소니",
+  "npc_ja": "デニソニ"
+ },
+ {
+  "id": "scriptnpc#1568",
+  "field": "name",
+  "ko": "작은 생물에도 에네르가 감지되다니…",
+  "en": "I suppose it isn't toxic, after all.",
+  "npc": "데니소니",
+  "npc_ja": "デニソニ"
+ },
+ {
+  "id": "scriptnpc#1569",
+  "field": "name",
+  "ko": "아! 어서 오게.\n자네라면 스카이 포트리스에서 자주 봤다네.\n그보다, 내 연구를 좀 봐주게.",
+  "en": "Ah! You're that $male:fellow,female:lady$, from Sky Fortress. Are you here to ask about my research?",
+  "npc": "데니소니",
+  "npc_ja": "デニソニ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1570",
+  "field": "name",
+  "ko": "(어떤 것인지 물어본다.)",
+  "en": "Sure. Tell me about it.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1571",
+  "field": "name",
+  "ko": "나는 크리티아스에 도착 후 에네르라는 물질이 발견된 후부터\n에네르와 생물에 대한 상관관계에 대해 연구를 계속햌왔네.",
+  "en": "Since we arrived in Kritias, I've been looking into the connection between the local wildlife and this miraculous \"aetherine\" substance.",
+  "npc": "데니소니",
+  "npc_ja": "デニソニ"
+ },
+ {
+  "id": "scriptnpc#1572",
+  "field": "name",
+  "ko": "놀랍게도 에네르는 모든 생명체에게 깃들어 있더군.\n생물의 진화 정도나 크기와는 상관없이 말야.",
+  "en": "No matter how big or small, every creature I've sampled has some amount of aetherine in it.",
+  "npc": "데니소니",
+  "npc_ja": "デニソニ"
+ },
+ {
+  "id": "scriptnpc#1573",
+  "field": "name",
+  "ko": "음~ 놀랍군…",
+  "en": "Hm. Amazing...",
+  "npc": "엑셀로디",
+  "npc_ja": "アクセルロディ"
+ },
+ {
+  "id": "scriptnpc#1574",
+  "field": "name",
+  "ko": "이런 곳에도 생명이…",
+  "en": "For life to survive here...",
+  "npc": "엑셀로디",
+  "npc_ja": "アクセルロディ"
+ },
+ {
+  "id": "scriptnpc#1575",
+  "field": "name",
+  "ko": "오셨습니까?\n저는 크리티아스의 다양한 수질에 서식하는 물고기들을 연구하고 있습니다.",
+  "en": "I'm part of the team researching the fish of Kritias.",
+  "npc": "엑셀로디",
+  "npc_ja": "アクセルロディ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1576",
+  "field": "name",
+  "ko": "이곳의 수질은 맹독성입니다.\n평범한 사람이라면 한 모금만 마셔도 바로 강철 비석에 깔릴 정도죠.\n하지만 자세히 보세요, 물고기들이 헤엄치고 있어요.",
+  "en": "The water here is highly toxic. Just a sip would tombstone an ordinary person. But see in there? Fish.",
+  "npc": "엑셀로디",
+  "npc_ja": "アクセルロディ"
+ },
+ {
+  "id": "scriptnpc#1577",
+  "field": "name",
+  "ko": "(이게 어떻게 가능한지 물어본다.)",
+  "en": "How is that possible?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1578",
+  "field": "name",
+  "ko": "아직 연구가 진행중이기 때문에 정확한 결론을 낼 수는 없지만…\n이곳에 서식하는 물고기들에게 공통으로 발견되는 건 체내의 에네르에요.",
+  "en": "I can't say anything conclusively just yet, but I think the aetherine in their bodies somehow protects them from the poison.",
+  "npc": "엑셀로디",
+  "npc_ja": "アクセルロディ"
+ },
+ {
+  "id": "scriptnpc#1579",
+  "field": "name",
+  "ko": "아마 이곳의 물고기들은 체내의 에네르를 이용해 독을 해독하거나 방어하도록\n진화한 게 아닐까 하는 게 제 추론입니다.",
+  "en": "Did the fish here evolve to use the aetherine to neutralize the poison?",
+  "npc": "엑셀로디",
+  "npc_ja": "アクセルロディ"
+ },
+ {
+  "id": "scriptnpc#1580",
+  "field": "name",
+  "ko": "흥미로워…",
+  "en": "Interesting...",
+  "npc": "라이튼",
+  "npc_ja": "ライトン"
+ },
+ {
+  "id": "scriptnpc#1581",
+  "field": "name",
+  "ko": "혹시 메이플 월드 문화의 기원이...",
+  "en": "Are our cultures connected somehow...?",
+  "npc": "라이튼",
+  "npc_ja": "ライトン"
+ },
+ {
+  "id": "scriptnpc#1582",
+  "field": "name",
+  "ko": "누구신가요?\n아~ $MyPCName$님이셨군요!\n어서 오세요.",
+  "en": "Who's there? Oh, you're that... that $MyPCName$ hero!",
+  "npc": "라이튼",
+  "npc_ja": "ライトン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1583",
+  "field": "name",
+  "ko": "(이곳에서 뭘 하고 있었는지 묻는다.)",
+  "en": "What are you doing here?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1584",
+  "field": "name",
+  "ko": "저는 크리티아스의 문화와 문학에 대해 연구 중입니다.\n아직 연구 초기 단계지만 상당한 발견이 있었습니다.",
+  "en": "I'm the foremost cultural anthropologist of Sky Fortress, here to study the cultures of Kritias. And I feel I've already made a great discovery!",
+  "npc": "라이튼",
+  "npc_ja": "ライトン"
+ },
+ {
+  "id": "scriptnpc#1585",
+  "field": "name",
+  "ko": "크리티아스와 빅토리아 아일렌드, 카르카르에서 발견된 \n고대 문명과 상당한 유사성이 있음을 알아냈어요.\n문자는 다르지만 문자열의 규칙… \n그리고 수많은 기호들, 문학적 표현의 유사성이 놀라울 정도로 닮아있어요.",
+  "en": "I've uncovered some ancient writings here, and the motifs and archetypes on display are similar to those in ancient Victoria Island literature. Uncannily so.",
+  "npc": "라이튼",
+  "npc_ja": "ライトン"
+ },
+ {
+  "id": "scriptnpc#1586",
+  "field": "name",
+  "ko": "(그게 어떻게 가능한지 묻는다.)",
+  "en": "That seems a little unlikely.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1587",
+  "field": "name",
+  "ko": "추정일 뿐이지만 문명의 뿌리가 같은 게 아닐지…\n높으신 분들이야 어디가 먼저인가가 중요하겠지만 말이죠.",
+  "en": "It begs the question: do our cultures share the same root? Of course, the higher-ups will only accept evidence that our culture came first, and that Kritias copied us...",
+  "npc": "라이튼",
+  "npc_ja": "ライトン"
+ },
+ {
+  "id": "scriptnpc#1588",
+  "field": "name",
+  "ko": "이토록 정교하다니…",
+  "en": "How elaborate!",
+  "npc": "모리셔스",
+  "npc_ja": "モーリシャス"
+ },
+ {
+  "id": "scriptnpc#1589",
+  "field": "name",
+  "ko": "정말 대단헤…",
+  "en": "Incredible...",
+  "npc": "모리셔스",
+  "npc_ja": "モーリシャス"
+ },
+ {
+  "id": "scriptnpc#1590",
+  "field": "name",
+  "ko": "음? 자네는 누군가?\n어떻게 이곳에 온 거지?\n아? 낯익은 얼굴이군.",
+  "en": "Hmm...? Have we met?",
+  "npc": "모리셔스",
+  "npc_ja": "モーリシャス",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1591",
+  "field": "name",
+  "ko": "(함께 스카이 포트리스로 이곳에 왔다고 말한다.)",
+  "en": "I came here on Sky Fortress.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1592",
+  "field": "name",
+  "ko": "아~! 내 정신 보게, 이제야 기억나는군!\n당신의 활약에 대해선 익히 들었다네.\n정말 대단한 일을 하고 있더군.",
+  "en": "Oh, you're that famous hero! An honor to meet you.",
+  "npc": "모리셔스",
+  "npc_ja": "モーリシャス"
+ },
+ {
+  "id": "scriptnpc#1593",
+  "field": "name",
+  "ko": "나는 크리티아스의 건축물에 대해 연구하고 있다네.\n이 건축물 좀 보게나. 정말 대단하지 않나?\n이토록 정교하게 설계된 건축물은 이 전에 본 적이 없다네.",
+  "en": "I'm part of the architectural research team. Take a look at this structure here! Incredible, isn't it? I've never seen such an elaborate design.",
+  "npc": "모리셔스",
+  "npc_ja": "モーリシャス"
+ },
+ {
+  "id": "scriptnpc#1594",
+  "field": "name",
+  "ko": "벽돌 한장 한장, 기둥 한 개 한 개가 모두 칼같이 들어맞는다네.\n전에 이런 걸 본 적이 없어.\n그런데 말야…",
+  "en": "Each brick and pillar fits perfectly. I've never seen something like this before.",
+  "npc": "모리셔스",
+  "npc_ja": "モーリシャス"
+ },
+ {
+  "id": "scriptnpc#1595",
+  "field": "name",
+  "ko": "우리가 발견한 모든 크리티아스의 건축물들은 모두 이토록 정교하다네.\n믿을 수 없을 정도로 대단한 기술력이야.\n도대체 어떻게 이렇게 만든 것인지 궁금해 못 견디겠어.",
+  "en": "All of the buildings I've examined since we got here has been like this. I only wish I could see how they pulled this off!",
+  "npc": "모리셔스",
+  "npc_ja": "モーリシャス"
+ },
+ {
+  "id": "scriptnpc#1596",
+  "field": "name",
+  "ko": "기합 소리 봐라! 똑바로 안 하나?!",
+  "en": "I can't hear you! Louder!",
+  "npc": "교관",
+  "npc_ja": "教官"
+ },
+ {
+  "id": "scriptnpc#1597",
+  "field": "name",
+  "ko": "너! 허리가 빠졌잖나?!",
+  "en": "You! Stand up straight!",
+  "npc": "교관",
+  "npc_ja": "教官"
+ },
+ {
+  "id": "scriptnpc#1598",
+  "field": "name",
+  "ko": "자네는 누군가? 새로운 훈련병인가?\n그렇다면 저기 가서 오와 열을 맞춰 서도록!",
+  "en": "You here to enlist? Fall in line, Recruit!",
+  "npc": "교관",
+  "npc_ja": "教官",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1599",
+  "field": "name",
+  "ko": "(훈련병이 아니라고 말한다.)",
+  "en": "I'm not your recruit.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1600",
+  "field": "name",
+  "ko": "뭐야? 차림새가 하도 요란해서 갱생을 원하는 신병인 줄 알았군.",
+  "en": "Is that so? Hmph. You have the look of a washed-up loser. Join my troop and I'll have you back on your feet in no time!",
+  "npc": "교관",
+  "npc_ja": "教官"
+ },
+ {
+  "id": "scriptnpc#1601",
+  "field": "name",
+  "ko": "게오르크는 타이렌 왕국과 맞서기 위해 언제나 새로운 병사를 소집하고 있다.\n차림새를 보아하니 일반인은 아니고… 전투에 능해 보이는군?",
+  "en": "We need all the help we can get to fight Tairen. We'll even take folks wearing... whatever that's supposed to be. You sure you don't want to sign on with us?",
+  "npc": "교관",
+  "npc_ja": "教官"
+ },
+ {
+  "id": "scriptnpc#1602",
+  "field": "name",
+  "ko": "(나중에 다시 오겠다고 한다.)",
+  "en": "I'll think about it...",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1603",
+  "field": "name",
+  "ko": "게오르크는 자네를 기다리고 있다!\n원한다면 언제든 입대를 지원하도록!",
+  "en": "Whenever and wherever, we're ready!",
+  "npc": "교관",
+  "npc_ja": "教官"
+ },
+ {
+  "id": "scriptnpc#1604",
+  "field": "name",
+  "ko": "어디 어디 숨었나!",
+  "en": "Where are you hiding?",
+  "npc": "콜로라타",
+  "npc_ja": "コロラタ"
+ },
+ {
+  "id": "scriptnpc#1605",
+  "field": "name",
+  "ko": "못찾겠다! 꾀꼬리!",
+  "en": "I can't find you! I give up!",
+  "npc": "콜로라타",
+  "npc_ja": "コロラタ"
+ },
+ {
+  "id": "scriptnpc#1606",
+  "field": "name",
+  "ko": "애들하고 숨바꼭질 중이었는데...\n찾지를 못하겠어!",
+  "en": "I was playing hide-and-seek with my friends, but I just can't find them!",
+  "npc": "콜로라타",
+  "npc_ja": "コロラタ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1607",
+  "field": "name",
+  "ko": "어디에 숨은거지?\n못찾겠다 꾀꼬리~! 이제 그만 나와!",
+  "en": "Where did you go?! I give up! Please come out!",
+  "npc": "콜로라타",
+  "npc_ja": "コロラタ"
+ },
+ {
+  "id": "scriptnpc#1608",
+  "field": "name",
+  "ko": "혁이 오빠는 보고만 있어도 눈이 멀 것만 같아요.\n당신도 그렇죠?",
+  "en": "Blake is so... bedazzling! Don't you think so, too?",
+  "npc": "하니",
+  "npc_ja": "ハニ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1609",
+  "field": "name",
+  "ko": "그쵸? 그쵸?\n빅토리아 아일랜드 최고의 아이돌인 혁이 오빠가 신대륙까지 진출한 \n역사적인 순간을 우린 함께 하고 있다구요!",
+  "en": "It's like we're witnessing history. The day Blake set foot in the new world!",
+  "npc": "하니",
+  "npc_ja": "ハニ"
+ },
+ {
+  "id": "scriptnpc#1610",
+  "field": "name",
+  "ko": "제가 새로 만든 '혁이 오빠 팬클럽 크리티아스 연합'에 가입할 생각 있나요?\n자! 이 서류에 사인만 하면 된다구요!",
+  "en": "Wanna join the new Blake Fan Club—Kritias Branch? I've got the paperwork right here!",
+  "npc": "하니",
+  "npc_ja": "ハニ"
+ },
+ {
+  "id": "scriptnpc#1611",
+  "field": "name",
+  "ko": "(방금 무지 급한 일이 생각났다고 말한다.)",
+  "en": "Oh no, something urgent just came up. Bye.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1612",
+  "field": "name",
+  "ko": "그래요? 정말 아쉽겠어요…\n팬클럽은 많으면 많을수록 좋다구요!\n너무 늦으면 기회가 없을지도 모르지만 말예요!",
+  "en": "Really? Shoot... Well, come back soon, before we fill up!",
+  "npc": "하니",
+  "npc_ja": "ハニ"
+ },
+ {
+  "id": "scriptnpc#1613",
+  "field": "name",
+  "ko": "누구냐! \n정체를 밝혀라!",
+  "en": "Identify yourself!",
+  "npc": "만슈타 경계병",
+  "npc_ja": "マンシュタ警戒兵",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1614",
+  "field": "name",
+  "ko": "(적이 아니라고 말한다.)",
+  "en": "Whoa, there. I'm a friend!",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1615",
+  "field": "name",
+  "ko": "아! 당신이 그 소문의 외지인이오?\n데이터와 일치하는군!",
+  "en": "Hey, you're that outlander. I read a report on you.",
+  "npc": "만슈타 경계병",
+  "npc_ja": "マンシュタ警戒兵"
+ },
+ {
+  "id": "scriptnpc#1616",
+  "field": "name",
+  "ko": "무례했다면 용서하시오.\n아무래도 전시다보니 외부인 유입에 민감한 상태라서 말이오.",
+  "en": "Sorry if I seem on edge. Not all of the outlanders have been as... helpful as you.",
+  "npc": "만슈타 경계병",
+  "npc_ja": "マンシュタ警戒兵"
+ },
+ {
+  "id": "scriptnpc#1617",
+  "field": "name",
+  "ko": "우린 반드시 승리할 것이다!",
+  "en": "We! Will! Win!",
+  "npc": "만슈타 경계병",
+  "npc_ja": "マンシュタ警戒兵"
+ },
+ {
+  "id": "scriptnpc#1618",
+  "field": "name",
+  "ko": "승리가 아니라면 강철 비석을 달라!",
+  "en": "Give me victory, or give me tombstone!",
+  "npc": "만슈타 경계병",
+  "npc_ja": "マンシュタ警戒兵"
+ },
+ {
+  "id": "scriptnpc#1619",
+  "field": "name",
+  "ko": "당신 얼굴은 알고 있습니다.\n하늘을 나는 거대한 배를 타고 왔다는 그 사람이죠?",
+  "en": "I know your face. Road in on that primitive flying boat, didn't you?",
+  "npc": "만슈타 경계병",
+  "npc_ja": "マンシュタ警戒兵",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1620",
+  "field": "name",
+  "ko": "(맞다고 말한다.)",
+  "en": "That's right.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1621",
+  "field": "name",
+  "ko": "리치몬드 데이터베이스를 통해 당신의 활약을 열람했죠.\n당신의 활약으로 인해 우리가 큰 도움을 받고 있다고 들었습니다.\n정말 감사합니다!",
+  "en": "Hmph. You did good work in Richmonde, I'll give you that.",
+  "npc": "만슈타 경계병",
+  "npc_ja": "マンシュタ警戒兵"
+ },
+ {
+  "id": "scriptnpc#1622",
+  "field": "name",
+  "ko": "근무 중 이상 없다.",
+  "en": "All clear.",
+  "npc": "만슈타 경계병",
+  "npc_ja": "マンシュタ警戒兵"
+ },
+ {
+  "id": "scriptnpc#1623",
+  "field": "name",
+  "ko": "앵? 당신은 뉘슈?\n처음 보는 행색인데? 혹시 그 소문의 외지인인가?",
+  "en": "I haven't seen you before. You that outlander everyone's talking about?",
+  "npc": "만슈타 경계병",
+  "npc_ja": "マンシュタ警戒兵",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1624",
+  "field": "name",
+  "ko": "암튼 이곳은 언제 적들이 몰려들지 모르니\n항상 맘 단단히 먹고 계슈…",
+  "en": "Anyway, watch yourself out there. Our enemy won't hesitate to shoot you down.",
+  "npc": "만슈타 경계병",
+  "npc_ja": "マンシュタ警戒兵"
+ },
+ {
+  "id": "scriptnpc#1625",
+  "field": "name",
+  "ko": "음냐… 쿨…",
+  "en": "Zzz... Zzz...",
+  "npc": "만슈타 경계병",
+  "npc_ja": "マンシュタ警戒兵"
+ },
+ {
+  "id": "scriptnpc#1626",
+  "field": "name",
+  "ko": "음냐… 음냐… 더는 못 먹어…",
+  "en": "Zzz... N-no... I can't eat another bite...",
+  "npc": "만슈타 경계병",
+  "npc_ja": "マンシュタ警戒兵",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1627",
+  "field": "name",
+  "ko": "(인기척을 낸다.)",
+  "en": "<b>Hello there!</b>",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1628",
+  "field": "name",
+  "ko": "으아! 깜짝이야! 너 뭐야!\n오… 오해하지마! 나 안 자고 있었다고!",
+  "en": "<b>Aaaah!</b> Don't hurt me! I-I mean... I'm awake. I'm awake!",
+  "npc": "만슈타 경계병",
+  "npc_ja": "マンシュタ警戒兵"
+ },
+ {
+  "id": "scriptnpc#1629",
+  "field": "name",
+  "ko": "전투는 언제 끝나는 거지?",
+  "en": "When will this battle end?",
+  "npc": "만슈타 경계병",
+  "npc_ja": "マンシュタ警戒兵"
+ },
+ {
+  "id": "scriptnpc#1630",
+  "field": "name",
+  "ko": "음? 당신이 소문의 그 외부인인가?\n이곳을 지원하러 온 것인가?",
+  "en": "Look what we have here. It's about time they sent us some reinforcements.",
+  "npc": "만슈타 경계병",
+  "npc_ja": "マンシュタ警戒兵",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1631",
+  "field": "name",
+  "ko": "(지원병이 아니라고 말한다.)",
+  "en": "I'm not your reinforcements.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1632",
+  "field": "name",
+  "ko": "칫… 그럼 그렇지…\n병력이 달려 언제 이 요새를 빼앗길지 모르겠어.\n지금은 몰랑들에게라도 경계를 맡기고 싶을 정도야.",
+  "en": "Tch... Figures. We don't have the numbers to hold this position for right now. Y'know, give a leshy a gun and I'd let it stand guard. That's how desperate we are!",
+  "npc": "만슈타 경계병",
+  "npc_ja": "マンシュタ警戒兵"
+ },
+ {
+  "id": "scriptnpc#1633",
+  "field": "name",
+  "ko": "적의 공격은 언제 끝나는 걸까…",
+  "en": "They have to let up some time...",
+  "npc": "만슈타 순찰병",
+  "npc_ja": "マンシュタ巡察兵"
+ },
+ {
+  "id": "scriptnpc#1634",
+  "field": "name",
+  "ko": "정말 지긋지긋하군.",
+  "en": "I'm getting sick of this.",
+  "npc": "만슈타 순찰병",
+  "npc_ja": "マンシュタ巡察兵"
+ },
+ {
+  "id": "scriptnpc#1635",
+  "field": "name",
+  "ko": "누구야? 당신은? 처음 보는 얼굴인걸?\n괜히 이런 곳에서 얼쩡거리다가 비석 깔리기 딱 좋다고.\n뭐 $map:02020030$도 상황이 비슷하니 여기나 저기나 둘 다 지옥이려나?",
+  "en": "What're you, a tourist? You wanna get tombstoned? This is a warzone! Not that $map:02020030$ is any better...",
+  "npc": "만슈타 순찰병",
+  "npc_ja": "マンシュタ巡察兵",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1636",
+  "field": "name",
+  "ko": "다음 근무 교대자는 왜 안 오는 거지?",
+  "en": "When's my relief coming?",
+  "npc": "만슈타 순찰병",
+  "npc_ja": "マンシュタ巡察兵"
+ },
+ {
+  "id": "scriptnpc#1637",
+  "field": "name",
+  "ko": "빨리 쉬고 싶군…",
+  "en": "I need to get off my feet...",
+  "npc": "만슈타 순찰병",
+  "npc_ja": "マンシュタ巡察兵"
+ },
+ {
+  "id": "scriptnpc#1638",
+  "field": "name",
+  "ko": "으으으… 피곤해…\n자면서 걷고 있는 느낌이야.",
+  "en": "Ugh... I'm ready to pass out on my feet...",
+  "npc": "만슈타 순찰병",
+  "npc_ja": "マンシュタ巡察兵",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1639",
+  "field": "name",
+  "ko": "아! 깜짝이야! 당신 누구야?\n여긴 어떻게 들어 온 거지?",
+  "en": "AAAAH! Ugh, you startled me.",
+  "npc": "만슈타 순찰병",
+  "npc_ja": "マンシュタ巡察兵"
+ },
+ {
+  "id": "scriptnpc#1640",
+  "field": "name",
+  "ko": "임무 대기 중.",
+  "en": "Waiting for orders...",
+  "npc": "만슈타 조종사",
+  "npc_ja": "マンシュタ操縦士"
+ },
+ {
+  "id": "scriptnpc#1641",
+  "field": "name",
+  "ko": "당신은 누구시오?\n그 소문의 외지인이오?",
+  "en": "Hey, you're that outlander!",
+  "npc": "만슈타 조종사",
+  "npc_ja": "マンシュタ操縦士",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1642",
+  "field": "name",
+  "ko": "이 요새는 공군 병력과 수송 병력이 주둔하고 있는 요새라오.\n하지만 적들이 코앞까지 밀고 들어온 상황이라 보급로 확보가 어려워서\n우리 비행사들이 수송을 대신하고 있소.",
+  "en": "This is the hub of all of our mobile forces, by land and air. But ever since the enemy pushed to our doorstep, we haven't been able to secure a supply line for the life of us.",
+  "npc": "만슈타 조종사",
+  "npc_ja": "マンシュタ操縦士"
+ },
+ {
+  "id": "scriptnpc#1643",
+  "field": "name",
+  "ko": "일발필중!",
+  "en": "One shot, one KO!",
+  "npc": "만슈타 포병",
+  "npc_ja": "マンシュタ砲兵"
+ },
+ {
+  "id": "scriptnpc#1644",
+  "field": "name",
+  "ko": "우리의 포탄을 피해갈 적들은 없다!",
+  "en": "My bullets always hit their mark!",
+  "npc": "만슈타 포병",
+  "npc_ja": "マンシュタ砲兵",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1645",
+  "field": "name",
+  "ko": "큰일이야…",
+  "en": "This is bad...",
+  "npc": "만슈타 보급병",
+  "npc_ja": "マンシュタ補給兵"
+ },
+ {
+  "id": "scriptnpc#1646",
+  "field": "name",
+  "ko": "이걸 어쩌나...\n보급품이 점점 바닥나고 있어…",
+  "en": "We'll be eating shoe leather at this rate...",
+  "npc": "만슈타 보급병",
+  "npc_ja": "マンシュタ補給兵",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1647",
+  "field": "name",
+  "ko": "적들의 공격으로 인해 보급로 대부분이 끊긴 상황이야.\n공중수송으로 간신히 버티고 있지만 그마저도 이젠 부족해.\n이러다 정말 요새를 적에게 내줄 판이군.",
+  "en": "With all the land routes cut off, we've been relying on air drops for supplies. We don't have the spare planes to keep that up forever, though. If something doesn't happen soon, the fortress will fall.",
+  "npc": "만슈타 보급병",
+  "npc_ja": "マンシュタ補給兵"
+ },
+ {
+  "id": "scriptnpc#1648",
+  "field": "name",
+  "ko": "차량을 운행할 연료는 커녕 병기를 움직일 연료도 부족한 상황이야.\n연료가 있어야 차량을 운행할 수 있는데…",
+  "en": "We don't have enough fuel for our cars. We don't have enough ammo for our weapons. We just don't have enough...",
+  "npc": "만슈타 운전병",
+  "npc_ja": "マンシュタ運転兵"
+ },
+ {
+  "id": "scriptnpc#1649",
+  "field": "name",
+  "ko": "차량을 운행할 연료는 커녕 병기를 움직일 연료도 부족한 상황이야.\n연료가 있어야 차량을 운행할 수 있는데...",
+  "en": "We don't have enough fuel for our cars. We don't have enough ammo for our weapons. We just don't have enough...",
+  "npc": "만슈타 운전병",
+  "npc_ja": "マンシュタ運転兵"
+ },
+ {
+  "id": "scriptnpc#1650",
+  "field": "name",
+  "ko": "이봐, 너 에네르 좀 가진 거 있어?\n어디선가 에네르가 뚝 떨어지지 않으려나?",
+  "en": "Hey, you aren't carrying any aetherine on you, are you? Ugh, as if it'd just fall into our laps like that...",
+  "npc": "만슈타 운전병",
+  "npc_ja": "マンシュタ運転兵"
+ },
+ {
+  "id": "scriptnpc#1651",
+  "field": "name",
+  "ko": "아무것도 없는데?",
+  "en": "There's nothing here.",
+  "npc": "칸타타",
+  "npc_ja": "カンタータ"
+ },
+ {
+  "id": "scriptnpc#1652",
+  "field": "name",
+  "ko": "무슨 유령이 있다는 거지?",
+  "en": "I don't see any ghosts.",
+  "npc": "칸타타",
+  "npc_ja": "カンタータ"
+ },
+ {
+  "id": "scriptnpc#1653",
+  "field": "name",
+  "ko": "$MyPCName$님 오셨습니까?\n저는 이 근방에서 검은 유령이 목격된다는 소문을 듣고\n조사를 위해 파견되었습니다!",
+  "en": "Hey there! I'm investigating rumors of a ghost dressed in black.",
+  "npc": "칸타타",
+  "npc_ja": "カンタータ"
+ },
+ {
+  "id": "scriptnpc#1654",
+  "field": "name",
+  "ko": "오셨습니까?\n저는 이 근방에서 검은 유령이 목격된다는 소문을 듣고\n조사를 위해 파견되었습니다!",
+  "en": "Hey there! I'm investigating rumors of a ghost dressed in black.",
+  "npc": "칸타타",
+  "npc_ja": "カンタータ"
+ },
+ {
+  "id": "scriptnpc#1655",
+  "field": "name",
+  "ko": "(유…유령?)",
+  "en": "Did you say gh-gh-gh-ghost?!",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1656",
+  "field": "name",
+  "ko": "넵! 목격자들에 의하면 이 근방에서 \n'검은 유령의 형상'을 자주 목격했다고 합니다!",
+  "en": "Yes! There have been lots of sightings of this so-called black-garbed ghost around here.",
+  "npc": "칸타타",
+  "npc_ja": "カンタータ"
+ },
+ {
+  "id": "scriptnpc#1657",
+  "field": "name",
+  "ko": "목격자들에 의하면 검은 유령은 뭔가 계속 중얼거렸다고 합니다.\n영혼을 바치면 힘을 얻을 수 있는 것인가… 라거나 말이죠.",
+  "en": "Apparently it wanders around, mumbling something about sacrificing a soul to obtain great power...",
+  "npc": "칸타타",
+  "npc_ja": "カンタータ"
+ },
+ {
+  "id": "scriptnpc#1658",
+  "field": "name",
+  "ko": "하지만 목격자들이 검은 유령을 보자 마자 도망치기 바빠 \n다른 이야긴 보고된 적이 없… 아! 맞다…!",
+  "en": "It's right around this time that most of the witnesses run for their lives, so that's all I have to go on. Well, that, and...",
+  "npc": "칸타타",
+  "npc_ja": "カンタータ"
+ },
+ {
+  "id": "scriptnpc#1659",
+  "field": "name",
+  "ko": "(뭔가 기억나는게 있냐고 묻는다.)",
+  "en": "There's something else?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1660",
+  "field": "name",
+  "ko": "네! 목격자들의 공통적인 증언이 하나 더 있습니다.\n그 검은 유령은 무언가를 부르듯 \n'앗살라무알라이쿰'이란 말을 계속 중얼거렸다고 합니다.",
+  "en": "Yes! I think there was something about... summoning a many-armed god?",
+  "npc": "칸타타",
+  "npc_ja": "カンタータ"
+ },
+ {
+  "id": "scriptnpc#1661",
+  "field": "name",
+  "ko": "(아… 설마…)",
+  "en": "It can't be...",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1662",
+  "field": "name",
+  "ko": "뭔가 짚이시는 거라도 있으십니까?",
+  "en": "You know what that means?",
+  "npc": "칸타타",
+  "npc_ja": "カンタータ"
+ },
+ {
+  "id": "scriptnpc#1663",
+  "field": "name",
+  "ko": "(아니… 설마 그건 아닐 거야…)",
+  "en": "I'm sure it's nothing.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1664",
+  "field": "name",
+  "ko": "혹시 뭔가 단서를 더 알아내면 말씀드리겠습니다.\n그럼 저는 이곳을 계속 조사해보겠습니다.",
+  "en": "I'll let you know if I learn anything else. This investigation is just getting started!",
+  "npc": "칸타타",
+  "npc_ja": "カンタータ"
+ },
+ {
+  "id": "scriptnpc#1665",
+  "field": "name",
+  "ko": "자, 여기 있어요~!\n어서 초콜릿을 만들어서 어떤 맛이 나는지 먹어보고 싶지 않으신가요?",
+  "en": "Here you go~!\nHurry and make some chocolate. Don't you want to find out how it tastes?",
+  "npc": "쇼콜라",
+  "npc_ja": "ショコラ"
+ },
+ {
+  "id": "scriptnpc#1666",
+  "field": "name",
+  "ko": "앗! 가방이 가득 찼어요.\n가방을 비운 뒤 다시 받아 가셔요.",
+  "en": "Oh! Your bag is full.\nMake some room and come back for it.",
+  "npc": "쇼콜라",
+  "npc_ja": "ショコラ"
+ },
+ {
+  "id": "scriptnpc#1667",
+  "field": "name",
+  "ko": "달콤한 사랑의 묘약과도 같은 초콜릿의 맛을 보셨나요?\n아직 재료를 가지고 계신 걸 보니 초콜릿을 더 만드실 수 있으실 것 같아요.\n재료를 다 사용하시면 얼마든지 추가로 드리니 어서 초콜릿을 만들어 주세요~!\n단, <font color=\"#ffd200\">달콤 쌉싸름한 초콜릿</font>은 하루에 3개만 획득할 수 있답니다.",
+  "en": "Have you tasted that chocolate, sweet as a love potion?\nYou still have ingredients, so it looks like you can make more.\nUse them all and I'll gladly give you more, so go make some chocolate~!\nBut you can only obtain three <font color=\"#ffd200\">Bittersweet Chocolates</font> a day.",
+  "npc": "쇼콜라",
+  "npc_ja": "ショコラ"
+ },
+ {
+  "id": "scriptnpc#1668",
+  "field": "name",
+  "ko": "자, 여기 있어요~!\n어서 초콜릿을 만들어서 어떤 맛이 나는지 먹어보고 싶지 않으신가요?",
+  "en": "Here you go! I hope you save some chocolate for me!",
+  "npc": "쇼콜라",
+  "npc_ja": "ショコラ"
+ },
+ {
+  "id": "scriptnpc#1669",
+  "field": "name",
+  "ko": "앗! 가방이 가득 찼어요.\n가방을 비운 뒤 다시 받아 가셔요.",
+  "en": "Oh! Your bag is full. Try again after you make some space in your bag.",
+  "npc": "쇼콜라",
+  "npc_ja": "ショコラ"
+ },
+ {
+  "id": "scriptnpc#1670",
+  "field": "name",
+  "ko": "달콤한 사랑의 묘약과도 같은 초콜릿의 맛을 보셨나요?\n아직 재료를 가지고 계신 걸 보니 초콜릿을 더 만드실 수 있으실 것 같아요.\n재료를 다 사용하시면 얼마든지 추가로 드리니 어서 초콜릿을 만들어 주세요~!\n단, <font color=\"#ffd200\">스위트 하트 초콜릿</font>은 하루에 3개만 획득할 수 있답니다.",
+  "en": "The best chocolate tastes like a little nugget of love! You've still got some ingredients, so you're good to make more on your own for now. I'll give you more if you need them, of course, but keep in mind that you can only make 3 chocolates a day.",
+  "npc": "쇼콜라",
+  "npc_ja": "ショコラ"
+ },
+ {
+  "id": "scriptnpc#1671",
+  "field": "name",
+  "ko": "상해 코인은 상해 크레이지 러너즈에서 우승한다면 얻을 수 있어요.",
+  "en": "You can earn Shanghai Coins by winning Shanghai Crazy Runners.",
+  "npc": "밍밍",
+  "npc_ja": "ミンミン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1672",
+  "field": "name",
+  "ko": "혹시 제 구두를 찾은 건가요?",
+  "en": "Did you find my shoes?",
+  "npc": "아르웬",
+  "npc_ja": "アルウェン"
+ },
+ {
+  "id": "scriptnpc#1673",
+  "field": "name",
+  "ko": "$item:30001099$를 준다.",
+  "en": "Give $item:30001099$.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1674",
+  "field": "name",
+  "ko": "왜 그러고 있냐고 물어본다.",
+  "en": "Ask her what's wrong.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1675",
+  "field": "name",
+  "ko": "아직 못 찾았다고 한다.",
+  "en": "Say you haven't found them yet.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1676",
+  "field": "name",
+  "ko": "정말 고마워요. 저도 언젠가는 도움이 되고 싶어요.",
+  "en": "Thank you so much. I hope I can help you someday, too.",
+  "npc": "아르웬",
+  "npc_ja": "アルウェン"
+ },
+ {
+  "id": "scriptnpc#1677",
+  "field": "name",
+  "ko": "이렇게 관심을 표현해도 소용없어요. 전 요정이고 당신은 인간인걸요.",
+  "en": "Showing me interest won't help. I'm a fairy, and you're human.",
+  "npc": "아르웬",
+  "npc_ja": "アルウェン"
+ },
+ {
+  "id": "scriptnpc#1678",
+  "field": "name",
+  "ko": "왼쪽도 돌아오면 이번에는 꼭 신고 다닐게. 제발 돌아와 줘.",
+  "en": "If the left one comes back, I'll make sure to wear them this time. Please come back.",
+  "npc": "아르웬",
+  "npc_ja": "アルウェン"
+ },
+ {
+  "id": "scriptnpc#1679",
+  "field": "name",
+  "ko": "왜 오른쪽만 있는 걸까요?",
+  "en": "Why do I only have the right one?",
+  "npc": "아르웬",
+  "npc_ja": "アルウェン"
+ },
+ {
+  "id": "scriptnpc#1680",
+  "field": "name",
+  "ko": "어... 왼쪽은요? 일단 고맙게 받을게요.",
+  "en": "Oh... where's the left one? I'll take this for now. Thank you.",
+  "npc": "아르웬",
+  "npc_ja": "アルウェン"
+ },
+ {
+  "id": "scriptnpc#1681",
+  "field": "name",
+  "ko": "와 정말 예쁜 구두네요. 네? 제 것이요? 아. 제 것 맞아요. 고마워요!",
+  "en": "Wow, such beautiful shoes. What? They're mine? Oh, you're right! Thank you!",
+  "npc": "아르웬",
+  "npc_ja": "アルウェン"
+ },
+ {
+  "id": "scriptnpc#1682",
+  "field": "name",
+  "ko": "설마 왼쪽 구두는 깨져버린 건 아니겠죠?",
+  "en": "The left shoe didn't break, did it?",
+  "npc": "아르웬",
+  "npc_ja": "アルウェン"
+ },
+ {
+  "id": "scriptnpc#1683",
+  "field": "name",
+  "ko": "발이… 왜. 안 들어가지? 제 것 맞아요! 너무 울어서 발이 부은 것뿐이라고요!",
+  "en": "Why... won't my foot fit? They are mine! My feet are just swollen from crying so much!",
+  "npc": "아르웬",
+  "npc_ja": "アルウェン"
+ },
+ {
+  "id": "scriptnpc#1684",
+  "field": "name",
+  "ko": "아직 못 찾은 거군요. 제발 부탁해요. 꼭 찾아주세요.",
+  "en": "You haven't found them yet. Please, find them for me.",
+  "npc": "아르웬",
+  "npc_ja": "アルウェン"
+ },
+ {
+  "id": "scriptnpc#1685",
+  "field": "name",
+  "ko": "제 구두를 또 잃어버렸어요. 이건 제가 잘 잃어버리는 게 아니라 누가 계속 훔쳐 가는 게 아닐까요? 제발 제 소중한 구두를 찾아주세요.",
+  "en": "I've lost my shoes again. I don't think I'm that forgetful. Could someone keep stealing them? Please find my precious shoes.",
+  "npc": "아르웬",
+  "npc_ja": "アルウェン"
+ },
+ {
+  "id": "scriptnpc#1686",
+  "field": "name",
+  "ko": "많은 길드원분께서 도와주고 있어서 안심이에요. 찾게 되면 꼭 보답할게요!",
+  "en": "So many guild members are helping me; I feel relieved. If we find them, I'll be sure to reward you!",
+  "npc": "아르웬",
+  "npc_ja": "アルウェン"
+ },
+ {
+  "id": "scriptnpc#1687",
+  "field": "name",
+  "ko": "자, 여기 있어요~!\n어서 초콜릿을 만들어서 어떤 맛이 나는지 먹어보고 싶지 않으신가요?",
+  "en": "Here you go~!\nDo you not want to make some chocolate right away and taste it?",
+  "npc": "쇼콜라",
+  "npc_ja": "ショコラ",
+  "n": 3
+ },
+ {
+  "id": "scriptnpc#1688",
+  "field": "name",
+  "ko": "앗! 가방이 가득 찼어요.\n가방을 비운 뒤 다시 받아 가셔요.",
+  "en": "Oh! Your bag is full.\nMake some room and come back for them.",
+  "npc": "쇼콜라",
+  "npc_ja": "ショコラ",
+  "n": 3
+ },
+ {
+  "id": "scriptnpc#1689",
+  "field": "name",
+  "ko": "달콤한 사랑의 묘약과도 같은 초콜릿의 맛을 보셨나요?\n아직 재료를 가지고 계신 걸 보니 초콜릿을 더 만드실 수 있으실 것 같아요.\n재료를 다 사용하시면 얼마든지 추가로 드리니 어서 초콜릿을 만들어 주세요~!\n단, <font color=\"#ffd200\">달콤 쌉싸름한 초콜릿</font>은 하루에 3개만 획득할 수 있답니다.",
+  "en": "Have you tasted the chocolate, sweet as a love potion?\nYou still have ingredients, so it looks as though you can make more.\nOnce you use them up, I can give you more, so get making~!\nBut you can only obtain three <font color=\"#ffd200\">Bittersweet Chocolates</font> each day.",
+  "npc": "쇼콜라",
+  "npc_ja": "ショコラ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1690",
+  "field": "name",
+  "ko": "$MyPCName$ 님! \n음~ 여기저기서 달콤한 사랑의 향기가 느껴지지 않나요?",
+  "en": "$MyPCName$! Do you feel it? Love is in the air!",
+  "npc": "쇼콜라",
+  "npc_ja": "ショコラ"
+ },
+ {
+  "id": "scriptnpc#1691",
+  "field": "name",
+  "ko": "이번엔 무슨 꽃을 키워볼까?",
+  "en": "What flowers should I grow this time?",
+  "npc": "틴차이",
+  "npc_ja": "ティンチャイ"
+ },
+ {
+  "id": "scriptnpc#1692",
+  "field": "name",
+  "ko": "봄이 너무 좋아! 꽃을 많이 볼 수 있잖아?",
+  "en": "I love spring! You get to see so many flowers!",
+  "npc": "틴차이",
+  "npc_ja": "ティンチャイ"
+ },
+ {
+  "id": "scriptnpc#1693",
+  "field": "name",
+  "ko": "쉬고 싶어라…",
+  "en": "I could use a rest…",
+  "npc": "이브",
+  "npc_ja": "イヴ"
+ },
+ {
+  "id": "scriptnpc#1694",
+  "field": "name",
+  "ko": "벚나무 아래에서 낮잠을 자고 싶어.",
+  "en": "I want to nap beneath a cherry blossom tree.",
+  "npc": "이브",
+  "npc_ja": "イヴ"
+ },
+ {
+  "id": "scriptnpc#1695",
+  "field": "name",
+  "ko": "봄 하면 떠오르는 것이 있나?",
+  "en": "Does spring bring anything to mind?",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#1696",
+  "field": "name",
+  "ko": "봄과 관련된 곡을 쓰고 싶은데…",
+  "en": "I want to write a song about spring…",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#1697",
+  "field": "name",
+  "ko": "사랑의 묘약이 절실하다고!",
+  "en": "I really need a love potion!",
+  "npc": "케이틀린",
+  "npc_ja": "ケイトリン"
+ },
+ {
+  "id": "scriptnpc#1698",
+  "field": "name",
+  "ko": "묘약 제조를 꼭 성공시키고 말겠어!",
+  "en": "I will succeed in making that potion!",
+  "npc": "케이틀린",
+  "npc_ja": "ケイトリン"
+ },
+ {
+  "id": "scriptnpc#1699",
+  "field": "name",
+  "ko": "$item:20302358$와 $item:20302359$를 달라고 한다.",
+  "en": "Ask for $item:20302358$ and $item:20302359$.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1700",
+  "field": "name",
+  "ko": "달콤한 사랑의 묘약과도 같은 초콜릿의 맛을 보셨나요?\n아직 재료를 가지고 계신 걸 보니 초콜릿을 더 만드실 수 있으실 것 같아요.\n재료를 다 사용하시면 얼마든지 추가로 드리니 어서 초콜릿을 만들어 주세요~!\n단, <font color=\"#ffd200\">스위트 하트 초콜릿</font>은 하루에 3개만 획득할 수 있답니다.",
+  "en": "Have you tasted the chocolate, sweet as a love potion?\nYou still have ingredients, so it looks as though you can make more.\nOnce you use them up, I can give you more, so get making~!\nBut you can only obtain three <font color=\"#ffd200\">Sweet Heart Chocolates</font> each day.",
+  "npc": "쇼콜라",
+  "npc_ja": "ショコラ"
+ },
+ {
+  "id": "scriptnpc#1701",
+  "field": "name",
+  "ko": "<font color=\"#ffd200\">5월 25일과 6월 8일 저녁 6시부터 단 1시간</font> 동안\n<font color=\"#ffd200\">넥슨캐시 티켓 뽑기 상자</font>를 0메럿에 구매할 수 있는 <font color=\"#ffd200\">빵원샵</font> 이벤트가 진행 중이에요.\n상자를 사용하면 넥슨캐시로 교환할 수 있는 티켓 아이템을 획득할 수 있어요.\n$item:30001369$ 아이템을 일정 수량 모아오시면 제가 티켓으로 교환해 드리고 있습니다.",
+  "en": "For just <font color=\"#ffd200\">one hour from 6 p.m. on May 25 and June 8</font>,\nyou can buy a <font color=\"#ffd200\">Nexon Cash Ticket Draw Box</font> for 0 Merets during the <font color=\"#ffd200\">Free Shop</font> event.\nUse the box to receive tickets exchangeable for Nexon Cash.\nBring me enough $item:30001369$ and I'll exchange them for tickets.",
+  "npc": "키키",
+  "npc_ja": "キキ"
+ },
+ {
+  "id": "scriptnpc#1702",
+  "field": "name",
+  "ko": "넥슨캐시 티켓 뽑기 상자는 어디서 구하냐고 묻는다.",
+  "en": "Ask where to get a Nexon Cash Ticket Draw Box.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1703",
+  "field": "name",
+  "ko": "<font color=\"#ffd200\">5월 25일, 6월 8일 저녁 6시부터 6시 59분</font>까지 프리미업샵 메뉴의 기능, 소비 탭에서 구매할 수 있습니다.\n아이템의 구매 및 사용 모두 해당 시간에만 가능한 점 꼭 기억해 주세요.",
+  "en": "You can buy it in the Function and Consumable tabs of the Premium Shop <font color=\"#ffd200\">from 6:00 to 6:59 p.m. on May 25 and June 8</font>.\nRemember, you can only buy and use it during those hours.",
+  "npc": "키키",
+  "npc_ja": "キキ"
+ },
+ {
+  "id": "scriptnpc#1704",
+  "field": "name",
+  "ko": "그럼 넥슨캐시는 언제 주는지 묻는다.",
+  "en": "Ask when the Nexon Cash will be awarded.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1705",
+  "field": "name",
+  "ko": "흠흠…제가 어서 정리 후 6월 20일 점검 이후에 공지사항을 통해 알려드릴 예정입니다. 그전에 넥슨캐시 티켓을 삭제하시면 제가 찾을 수 없으니 만료될 때까지 잘 가지고 있어 주세요.",
+  "en": "Ahem… After I sort everything out, I'll announce the results after the June 20 maintenance. If you delete your Nexon Cash tickets before then, I won't be able to find them, so keep them until they expire.",
+  "npc": "키키",
+  "npc_ja": "キキ"
+ },
+ {
+  "id": "scriptnpc#1706",
+  "field": "name",
+  "ko": "더 주의해야 할 점은 없는지 묻는다.",
+  "en": "Ask if there is anything else to watch out for.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1707",
+  "field": "name",
+  "ko": "$item:30001369$ 아이템은 꼭 제게 오셔서 티켓으로 교환 해두시는 것!\n잊지 마시길 바랍니다. 그럼 행운을 빌어요~",
+  "en": "Remember to bring your $item:30001369$ to me and exchange them for tickets!\nGood luck!",
+  "npc": "키키",
+  "npc_ja": "キキ"
+ },
+ {
+  "id": "scriptnpc#1708",
+  "field": "name",
+  "ko": "저 코디아가 추천하는 상품, 궁금하지 않으세요?",
+  "en": "Aren't you curious about the items I, Kodia, recommend?",
+  "npc": "코디아",
+  "npc_ja": "コディア"
+ },
+ {
+  "id": "scriptnpc#1709",
+  "field": "name",
+  "ko": "특별한 상품이 당신의 선택을 기다리고 있답니다~",
+  "en": "Special items are waiting for you to choose them!",
+  "npc": "코디아",
+  "npc_ja": "コディア"
+ },
+ {
+  "id": "scriptnpc#1710",
+  "field": "name",
+  "ko": "…머쉬킹 주화는 가지고 있겠지?",
+  "en": "…You brought Mushking Coins, right?",
+  "npc": "나태버섯",
+  "npc_ja": "ナマケキノコ"
+ },
+ {
+  "id": "scriptnpc#1711",
+  "field": "name",
+  "ko": "폐하의 명령으로 우리가 준비한 물품들이야.\n모든 버섯이 열심히 작업했으니 잘 살펴봐.",
+  "en": "These are the items we prepared on His Majesty's orders.\nEvery mushroom worked hard on them, so take a good look.",
+  "npc": "나태버섯",
+  "npc_ja": "ナマケキノコ"
+ },
+ {
+  "id": "scriptnpc#1712",
+  "field": "name",
+  "ko": "…어서 다 팔고 $map:82000006$$pp2:로,으로$ 돌아가서 숨만 쉬고 싶다.",
+  "en": "…I just want to sell everything and go back to $map:82000006$ to do nothing but breathe.",
+  "npc": "나태버섯",
+  "npc_ja": "ナマケキノコ"
+ },
+ {
+  "id": "scriptnpc#1713",
+  "field": "name",
+  "ko": "후아암~ 귀찮으니 말 걸지마,",
+  "en": "Yaaawn~ I'm tired, so don't talk to me.",
+  "npc": "주니어 나태버섯",
+  "npc_ja": "Jr.ナマケキノコ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1714",
+  "field": "name",
+  "ko": "폐하의 명령이니까 여기까지 왔지만…아 졸려…",
+  "en": "I came all this way on His Majesty's orders, but… I'm so sleepy…",
+  "npc": "주니어 나태버섯",
+  "npc_ja": "Jr.ナマケキノコ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1715",
+  "field": "name",
+  "ko": "뭐? 상품?\n머쉬킹 주화는 옆의 큰 버섯이 잘 아니까 나 말고 큰 버섯을 귀찮게 해.",
+  "en": "What? Merchandise?\nThe big mushroom next to me knows all about Mushking Coins, so bother him instead.",
+  "npc": "주니어 나태버섯",
+  "npc_ja": "Jr.ナマケキノコ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1716",
+  "field": "name",
+  "ko": "쿠우우울~",
+  "en": "Zzz~",
+  "npc": "주니어 나태버섯",
+  "npc_ja": "Jr.ナマケキノコ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1717",
+  "field": "name",
+  "ko": "무료로 $item:30001025$$pp:를,을$ 감정해달라고 한다.",
+  "en": "Ask to have $item:30001025$ appraised for free.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1718",
+  "field": "name",
+  "ko": "귀한 물건 많으니 구경하고 가시죠!",
+  "en": "I have many rare items. Come take a look!",
+  "npc": "살레",
+  "npc_ja": "サレ"
+ },
+ {
+  "id": "scriptnpc#1719",
+  "field": "name",
+  "ko": "안녕하세요? $MyPCName$님!\n트라이아 왕실에서 모험가님들을 위해 특별한 보급품을 준비했습니다.\n바로, <font color=\"#ffd200\">젬스톤</font>과 <font color=\"#ffd200\">루미스톤</font>을 <font color=\"#ffd200\">업그레이드할 수 있는 재료</font>입니다.",
+  "en": "Hello, $MyPCName$!\nThe Tria royal family has prepared special supplies for adventurers.\nThese are <font color=\"#ffd200\">Gemstone</font> and <font color=\"#ffd200\">Lumistone</font> <font color=\"#ffd200\">upgrade materials</font>.",
+  "npc": "체리링",
+  "npc_ja": "チェリリン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1720",
+  "field": "name",
+  "ko": "왕실에서 공개한 특별한 상자를 이용하면, <font color=\"#ffd200\">준비해 오신 재료</font>로\n젬스톤과 루미스톤의 업그레이드 재료들을 만들 수 있어요!",
+  "en": "Use the special chests provided by the royal family with the <font color=\"#ffd200\">materials you've gathered</font>\nto make Gemstone and Lumistone upgrade materials!",
+  "npc": "체리링",
+  "npc_ja": "チェリリン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1721",
+  "field": "name",
+  "ko": "먼저, 몬스터들을 사냥하면 얻을 수 있는 <font color=\"#ffd200\">$item:30001187$</font>$pp:를,을$ 모아오세요.\n저 앞에 있는 <font color=\"#ffd200\">$npcName:11004215$</font>, <font color=\"#ffd200\">$npcName:11004216$</font>에 넣어 에너지 변환을 하면 \n젬스톤과 루미스톤의 업그레이드 재료를 얻을 수 있답니다.",
+  "en": "First, gather <font color=\"#ffd200\">$item:30001187$</font> by hunting monsters.\nPut them into <font color=\"#ffd200\">$npcName:11004215$</font> or <font color=\"#ffd200\">$npcName:11004216$</font> ahead and convert the energy. \nYou'll obtain Gemstone and Lumistone upgrade materials.",
+  "npc": "체리링",
+  "npc_ja": "チェリリン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1722",
+  "field": "name",
+  "ko": "그리고 에너지 변환에 성공하려면 준비할 게 하나 더 있어요. \n<font color=\"#ffd200\">젬스톤</font> 업그레이드 재료를 얻으려면 <font color=\"#ffd200\">$item:30001188$</font>$pp:가,이$,\n<font color=\"#ffd200\">루미스톤</font> 업그레이드 재료를 얻으려면 <font color=\"#ffd200\">$item:30001189$</font>$pp:가,이$ 필요하죠.",
+  "en": "You need one more thing for a successful energy conversion. \nFor <font color=\"#ffd200\">Gemstone</font> upgrade materials, you'll need <font color=\"#ffd200\">$item:30001188$</font>.\nFor <font color=\"#ffd200\">Lumistone</font> upgrade materials, you'll need <font color=\"#ffd200\">$item:30001189$</font>.",
+  "npc": "체리링",
+  "npc_ja": "チェリリン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1723",
+  "field": "name",
+  "ko": "$npc:11000075[gender:1]$님의 명을 받은 $npcName:11000601[gender:1]$님은 왕실 보물창고에 잠들어 있던, \n먼 세계로부터의 이방인이 선물했다는 이 <font color=\"#ffd200\">두 개의 상자</font>를 활용해\n세상의 몬스터들이 가진 에너지를 변환하는 방법을 고안해 내셨습니다.",
+  "en": "At the request of $npc:11000075[gender:1]$, $npcName:11000601[gender:1]$ used \n<font color=\"#ffd200\">two chests</font> from the royal treasury, said to be gifts from a stranger from a distant world,\nto devise a way to transform the energy of monsters.",
+  "npc": "체리링",
+  "npc_ja": "チェリリン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1724",
+  "field": "name",
+  "ko": "이 두 개의 상자, <font color=\"#ffd200\">$npc:11004215$</font>$pp:와,과$ <font color=\"#ffd200\">$npc:11004216$</font>$pp:는,은$\n물질이 가진 에너지의 성질을 변환하는 특별한 능력을 갖고 있답니다.\n$npc:11000601[gender:1]$님은 이 점에 집중하셨던 거죠. \n몬스터들의 힘을 변환해, 모험가들이 활용할 수 있을까? 라고요.",
+  "en": "These two chests, <font color=\"#ffd200\">$npc:11004215$</font> and <font color=\"#ffd200\">$npc:11004216$</font>,\nhave the special ability to change the properties of a substance's energy.\nThat caught $npc:11000601[gender:1]$'s attention. \nCould monsters' power be converted for adventurers to use?",
+  "npc": "체리링",
+  "npc_ja": "チェリリン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1725",
+  "field": "name",
+  "ko": "에너지 변환 중 대량의 손실이 없다면 가능하다는 결론에 이르렀고, \n몬스터의 에너지가 담긴 <font color=\"#ffd200\">$item:30001187$</font>$pp:를,을$ 일정한 구조 안에 묶기로 했습니다.\n결과물은 누구나 이용할 수 있어야 했기 때문에, 장비에 착용할 수 있는 \n젬스톤과 루미스톤에 힘을 더하는 재료를 만들기로 의견이 모아졌죠.",
+  "en": "They concluded it was possible if little energy was lost in the conversion. \nSo they bound the monster energy in <font color=\"#ffd200\">$item:30001187$</font> within a stable structure.\nBecause the result needed to be useful to everyone, they decided to make \nmaterials that empower Gemstones and Lumistones equipped by adventurers.",
+  "npc": "체리링",
+  "npc_ja": "チェリリン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1726",
+  "field": "name",
+  "ko": "<font color=\"#ffd200\">$item:30001188$</font>$pp:와,과$ <font color=\"#ffd200\">$item:30001189$</font>$pp:는,은$ 각각 젬스톤, 루미스톤의 에너지에\n맞는 성질로 변환할 수 있도록 해주는 구조물의 역할을 한답니다.\n어때요, 조금은 이해가 되시나요?",
+  "en": "<font color=\"#ffd200\">$item:30001188$</font> and <font color=\"#ffd200\">$item:30001189$</font> act as structures that adapt energy\nto the properties needed for Gemstones and Lumistones, respectively.\nDoes that make a little more sense?",
+  "npc": "체리링",
+  "npc_ja": "チェリリン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1727",
+  "field": "name",
+  "ko": "얼마 전, 낡고 오래된 책 한 권을 구해 읽어봤는데요.\n그 안에 놀라운 사실이 적혀 있었어요.",
+  "en": "I recently found and read an old, worn book.\nIt held a startling revelation.",
+  "npc": "나탈리",
+  "npc_ja": "ナタリー"
+ },
+ {
+  "id": "scriptnpc#1728",
+  "field": "name",
+  "ko": "뭐가 적혀 있었는지 물어본다.",
+  "en": "Ask what it said.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1729",
+  "field": "name",
+  "ko": "오래전, 어둠에 땅에 있던 작고 반짝이는 조각들이\n몬스터들의 옷가지에 묻어 메이플 월드로 옮겨졌다는군요.",
+  "en": "Long ago, tiny sparkling fragments from the land of darkness\nclung to monsters' clothes and were carried to Maple World.",
+  "npc": "나탈리",
+  "npc_ja": "ナタリー"
+ },
+ {
+  "id": "scriptnpc#1730",
+  "field": "name",
+  "ko": "그 반짝이는 조각을 메이플 월드의 몬스터들이 무척 탐했는데,\n그 물체에는 사악한 힘이 깃들어 있어 악한 몬스터를 더욱 악하게 만들었데요.",
+  "en": "Monsters in Maple World coveted those sparkling fragments,\nbut their evil power made wicked monsters even more wicked.",
+  "npc": "나탈리",
+  "npc_ja": "ナタリー"
+ },
+ {
+  "id": "scriptnpc#1731",
+  "field": "name",
+  "ko": "작고 보잘것없던 몬스터가 그 조각을 소지한 뒤로는\n수십 명이 힘을 합해야만 잡을 수 있는 거대 괴수로 변신했다는 기록도 있어요.",
+  "en": "One record says a small, unremarkable monster took a fragment\nand transformed into a giant beast that dozens had to join forces to defeat.",
+  "npc": "나탈리",
+  "npc_ja": "ナタリー"
+ },
+ {
+  "id": "scriptnpc#1732",
+  "field": "name",
+  "ko": "재밌는 사실은 선한 사람에게는 그 물체가 그저 반짝이는 조각일 뿐,\n없던 악한 마음을 새로 만들진 않는다는 거예요.",
+  "en": "Oddly, to a good person, it is merely a sparkling fragment.\nIt cannot create evil in a heart where none existed.",
+  "npc": "나탈리",
+  "npc_ja": "ナタリー"
+ },
+ {
+  "id": "scriptnpc#1733",
+  "field": "name",
+  "ko": "그리고 더욱 놀라운 건, 그 조각들을 모아 하나로 만들면\n어둠의 땅의 지난 시간을 비추는 거울이 된다는 사실이에요.",
+  "en": "More astonishing still, if the fragments are gathered and joined,\nthey form a mirror that reflects the past of the land of darkness.",
+  "npc": "나탈리",
+  "npc_ja": "ナタリー"
+ },
+ {
+  "id": "scriptnpc#1734",
+  "field": "name",
+  "ko": "믿거나 말거나 책에 적힌 내용이 사실이라면…",
+  "en": "Believe it or not, if the book tells the truth…",
+  "npc": "나탈리",
+  "npc_ja": "ナタリー"
+ },
+ {
+  "id": "scriptnpc#1735",
+  "field": "name",
+  "ko": "그 반짝이는 조각들이 몬스터들의 손에 있는 한,\n메이플 월드는 계속해서 크고 작은 위협에 시달릴 텐데…큰일이에요.",
+  "en": "As long as monsters hold those fragments,\nMaple World will face threats great and small… This is serious.",
+  "npc": "나탈리",
+  "npc_ja": "ナタリー"
+ },
+ {
+  "id": "scriptnpc#1736",
+  "field": "name",
+  "ko": "제게 하실 말씀이…?",
+  "en": "Did you want to tell me something…?",
+  "npc": "나탈리",
+  "npc_ja": "ナタリー"
+ },
+ {
+  "id": "scriptnpc#1737",
+  "field": "name",
+  "ko": "$item:30000181$$pp:를,을$ 1개 주겠다고 한다.",
+  "en": "Offer to give 1 $item:30000181$.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1738",
+  "field": "name",
+  "ko": "$item:30000181$$pp:를,을$ 구하셨다니…\n메이플 월드의 안전을 지킨 것은 물론이거니와\n어둠의 땅이 지닌 비밀을 밝힐 단서를 구한 셈이에요!",
+  "en": "You found $item:30000181$…\nYou have helped protect Maple World\nand found a clue to the secrets of the land of darkness!",
+  "npc": "나탈리",
+  "npc_ja": "ナタリー"
+ },
+ {
+  "id": "scriptnpc#1739",
+  "field": "name",
+  "ko": "생일 축하합니다~ 생일 축하합니다~",
+  "en": "Happy anniversary!!",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1740",
+  "field": "name",
+  "ko": "다함께 첫 생일의 특별한 추억을 만들어보자고~",
+  "en": "Let's all get together and make happy memories!",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1741",
+  "field": "name",
+  "ko": "안녕? 어서와~ 1주년 기념 축제는 잘 즐기고 있어?",
+  "en": "Are you enjoying the anniversary party?",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1742",
+  "field": "name",
+  "ko": "후후~ 즐길줄 아는 친구군~ \n여기 $map:63000089$에서 가장 높은 곳에 있는 특별한 보물상자도 찾았어?",
+  "en": "You know how to have fun! Did you find the special treasure chests at the top of $map:63000089$?",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1743",
+  "field": "name",
+  "ko": "어떻게 찾으면 되는지 물어본다",
+  "en": "How do I get to them?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1744",
+  "field": "name",
+  "ko": "$map:63000089$ 북쪽 절벽 꼭대기에 올라가기만 하면 황금보물상자가 가득하다구~\n거미처럼 찰싹! 절벽에 붙어서 요리조리 잘 올라가봐!",
+  "en": "Climb all the way up the cliff to the north of $map:63000089$ and you'll find a whole heap of golden treasure chests!",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1745",
+  "field": "name",
+  "ko": "지난 1년 동안 메이플 월드 곳곳의 험난한 곳은 다 겪었을 텐데 저 정도 쯤이야… 뭐… 후후. \n가뿐하지? 보름달의 축복이 네게 행운을 가져다 줄 거야~",
+  "en": "It'll be a piece of cake for an adventurer like you. Anyway, good luck!",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1746",
+  "field": "name",
+  "ko": "이런… 안타깝네… 아직 특별한 재미를 못 찾아서 그런가?\n여기 $map:63000089$에서 가장 높은 곳에 있는 특별한 보물상자가 있는 건 알아?",
+  "en": "R-really? Maybe... maybe you just need to find something fun to do? Like... did you know about the treasure chests at the highest point in $map:63000089$?",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1747",
+  "field": "name",
+  "ko": "…\n… 흐... 흐… 흑…. ",
+  "en": "Waaaaah... ",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1748",
+  "field": "name",
+  "ko": "저기… 관심 있다고… 말해주면 안될까…? 흑… \n보름달을 타고 내려올 때 부터 열심히 준비했는데… 흑… ",
+  "en": "Can't you... can't you just <i>pretend</i> to care? I worked sooo hard to put this party together... Waaah... ",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1749",
+  "field": "name",
+  "ko": "관심 없지만 들어는 보겠다고 한다.",
+  "en": "Oh, just tell me, already.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1750",
+  "field": "name",
+  "ko": "음? 안녕하세요, $MyPCName$님.",
+  "en": "Hm? Hello, $MyPCName$.",
+  "npc": "나폴리",
+  "npc_ja": "ナポリ"
+ },
+ {
+  "id": "scriptnpc#1751",
+  "field": "name",
+  "ko": "궁금한점이 있으신가요?\n편하게 물어봐주세요.",
+  "en": "Do you have a question?\nPlease, ask away.",
+  "npc": "나폴리",
+  "npc_ja": "ナポリ"
+ },
+ {
+  "id": "scriptnpc#1752",
+  "field": "name",
+  "ko": "개인적인 질문도 괜찮냐고 묻는다.",
+  "en": "Ask if a personal question is all right.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1753",
+  "field": "name",
+  "ko": "………흠.",
+  "en": "………Hmm.",
+  "npc": "나폴리",
+  "npc_ja": "ナポリ"
+ },
+ {
+  "id": "scriptnpc#1754",
+  "field": "name",
+  "ko": "질문을 들어봐야 확답을 드릴 수 있을 것 같아요.\n궁금하신게 뭔가요?",
+  "en": "I can only answer once I've heard the question.\nWhat would you like to know?",
+  "npc": "나폴리",
+  "npc_ja": "ナポリ"
+ },
+ {
+  "id": "scriptnpc#1755",
+  "field": "name",
+  "ko": "혹시…경비병 $npcName:11000169[gender:0]$에 대해 어떻게 생각하냐고 묻는다.",
+  "en": "Ask what she thinks of guard $npcName:11000169[gender:0]$.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1756",
+  "field": "name",
+  "ko": "$npcName:11000169[gender:0]$씨요?",
+  "en": "$npcName:11000169[gender:0]$?",
+  "npc": "나폴리",
+  "npc_ja": "ナポリ"
+ },
+ {
+  "id": "scriptnpc#1757",
+  "field": "name",
+  "ko": "그는 정말 멋진 사람이며, 모두가 좋아한다고 말한다.",
+  "en": "Say he's a wonderful person whom everyone likes.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1758",
+  "field": "name",
+  "ko": "아…그…그런가요? 그런데 전…",
+  "en": "Oh… I… I see? But I…",
+  "npc": "나폴리",
+  "npc_ja": "ナポリ"
+ },
+ {
+  "id": "scriptnpc#1759",
+  "field": "name",
+  "ko": "선남 선녀가 어울리는 것은 당연한일! $npcName:11000160[gender:1]$만 괜찮다면 내가 자리를 마련…",
+  "en": "A handsome man and lovely woman naturally belong together! If $npcName:11000160[gender:1]$ agrees, I can arrange a meeting…",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1760",
+  "field": "name",
+  "ko": "자…<font size=\"40\">잠깐만요!</font>\n잠깐만 말씀 좀 멈춰보세요.",
+  "en": "W… <font size=\"40\">Wait a moment!</font>\nPlease stop talking for a second.",
+  "npc": "나폴리",
+  "npc_ja": "ナポリ"
+ },
+ {
+  "id": "scriptnpc#1761",
+  "field": "name",
+  "ko": "일단…$npcName:11000169[gender:0]$씨가 누구죠?",
+  "en": "First… who is $npcName:11000169[gender:0]$?",
+  "npc": "나폴리",
+  "npc_ja": "ナポリ"
+ },
+ {
+  "id": "scriptnpc#1762",
+  "field": "name",
+  "ko": "전혀 금시 초문인 이름이라…\n도움이 되지 못했다면 죄송해요.",
+  "en": "I've never heard that name before…\nI'm sorry I couldn't help.",
+  "npc": "나폴리",
+  "npc_ja": "ナポリ"
+ },
+ {
+  "id": "scriptnpc#1763",
+  "field": "name",
+  "ko": "경비병이라면 트라이아에 계신 분인가요?\n전혀 모르겠는데…",
+  "en": "A guard? Is he stationed in Tria?\nI really don't know him…",
+  "npc": "나폴리",
+  "npc_ja": "ナポリ"
+ },
+ {
+  "id": "scriptnpc#1764",
+  "field": "name",
+  "ko": "…실례가 많았다며 이만 가보겠다고 말한다.",
+  "en": "(Apologize for the misunderstanding and say you'll leave.)",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1765",
+  "field": "name",
+  "ko": "아, 괜찮으시겠어요?\n알겠습니다.",
+  "en": "Oh, are you all right?\nI understand.",
+  "npc": "나폴리",
+  "npc_ja": "ナポリ"
+ },
+ {
+  "id": "scriptnpc#1766",
+  "field": "name",
+  "ko": "그럼 다음에 봬요!",
+  "en": "I'll see you next time!",
+  "npc": "나폴리",
+  "npc_ja": "ナポリ"
+ },
+ {
+  "id": "scriptnpc#1767",
+  "field": "name",
+  "ko": "음? 으앗! 깜짝이야.\n넌 누구지? 여긴 어떻게 올라온 거야.\n보디가드!!!",
+  "en": "Hm? Aah! You startled me.\nWho are you? How did you get up here?\nBodyguards!!!",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#1768",
+  "field": "name",
+  "ko": "방송국에서 인터뷰를 위해 나왔다고 말한다.",
+  "en": "Say you came from the station for an interview.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1769",
+  "field": "name",
+  "ko": "인터뷰라…그런 스케줄이 있다는 이야긴 못 들었는데.",
+  "en": "An interview… I wasn't told about any such appointment.",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#1770",
+  "field": "name",
+  "ko": "<font size=\"35\">설마 파파라치인 건 아니겠지?</font>\n내가 퀸크빈 럼블에 떨어졌다는 이야기를 듣고, 악성 기사를 쓰기 위해…!",
+  "en": "<font size=\"35\">You're not paparazzi, are you?</font>\nDid you hear I lost Queenkbean Rumble and come to write a nasty article…?",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#1771",
+  "field": "name",
+  "ko": "…전혀 아니라고 말한다.",
+  "en": "…Say that's not it at all.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1772",
+  "field": "name",
+  "ko": "…아?",
+  "en": "…Oh?",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#1773",
+  "field": "name",
+  "ko": "크흠흠.\n내가 퀸크빈 럼블에서 떨어진 건, 모두가 내 진가를 알아보지 못했기 때문이야.\n절대 내가 모자라서가 아니라고.",
+  "en": "Ahem.\nI lost Queenkbean Rumble because nobody recognized my true talent.\nIt certainly wasn't because I lacked anything.",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#1774",
+  "field": "name",
+  "ko": "사실 팬들의 마음을 전하러 왔다고 말한다.",
+  "en": "Say you came to share the fans' feelings.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1775",
+  "field": "name",
+  "ko": "팬들의 마음?\n저기 있는 저 소녀들을 말하는 거야?",
+  "en": "The fans' feelings?\nYou mean those girls over there?",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#1776",
+  "field": "name",
+  "ko": "그런 건 말하지 않아도 알 수 있어.\n날 사랑해주는 마음은…직접 듣지 않아도 마음으로 느껴진다고.",
+  "en": "I already know, even without hearing it.\nI can feel their love in my heart… I don't need them to tell me directly.",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#1777",
+  "field": "name",
+  "ko": "그리고 이런 내 마음도 팬들에게 전해지고 있겠지.",
+  "en": "And I'm sure they can feel how much I care about them, too.",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#1778",
+  "field": "name",
+  "ko": "보기보다 속이 깊다고 말한다.",
+  "en": "Say he's more thoughtful than he looks.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1779",
+  "field": "name",
+  "ko": "…훗.\n나답지 않게 우울해하고 있었네.",
+  "en": "…Heh.\nI've been gloomy, which isn't like me.",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#1780",
+  "field": "name",
+  "ko": "그래! 그깟 이벤트에 떨어진 게 뭐가 대수라고…\n나에겐 팬들이 있어!",
+  "en": "Right! So what if I lost that little event…\nI still have my fans!",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#1781",
+  "field": "name",
+  "ko": "오늘도 노래로 내 마음을 전하겠어!\n모두들 고맙다고 말이야!",
+  "en": "I'll share my feelings through song again today!\nI'll thank every one of them!",
+  "npc": "혁이",
+  "npc_ja": "ヒョギ"
+ },
+ {
+  "id": "scriptnpc#1782",
+  "field": "name",
+  "ko": "<font color=\"#909090\">(죄수가 탈옥하던 날 아침에 적은 듯한 일기인 듯하다.)</font>",
+  "en": "<font color=\"#909090\">(It appears to be a diary entry written on the morning of a prisoner's escape.)</font>",
+  "npc": "이름 모를 죄수의 일기장",
+  "npc_ja": "ある囚人の日記帳"
+ },
+ {
+  "id": "scriptnpc#1783",
+  "field": "name",
+  "ko": "<font color=\"#909090\">나는 오늘 $npcName:11000514[gender:1]$ 몰래 탈옥을 감행하려 한다.</font>",
+  "en": "<font color=\"#909090\">Today I will escape without $npcName:11000514[gender:1]$ knowing.</font>",
+  "npc": "이름 모를 죄수의 일기장",
+  "npc_ja": "ある囚人の日記帳"
+ },
+ {
+  "id": "scriptnpc#1784",
+  "field": "name",
+  "ko": "<font color=\"#909090\">사랑하는 그녀를 두고 떠나는 건…</font>\n<font color=\"#909090\">정말 어려운 선택이었다.</font>",
+  "en": "<font color=\"#909090\">Leaving the woman I love behind…</font>\n<font color=\"#909090\">It was a difficult choice.</font>",
+  "npc": "이름 모를 죄수의 일기장",
+  "npc_ja": "ある囚人の日記帳"
+ },
+ {
+  "id": "scriptnpc#1785",
+  "field": "name",
+  "ko": "<font color=\"#909090\">교도소장과 죄수의 사랑이라니.</font>\n<font color=\"#909090\">모두가 농담처럼 받아들일 이야기일까?</font>",
+  "en": "<font color=\"#909090\">Love between a prison warden and a prisoner.</font>\n<font color=\"#909090\">Would everyone take it as a joke?</font>",
+  "npc": "이름 모를 죄수의 일기장",
+  "npc_ja": "ある囚人の日記帳"
+ },
+ {
+  "id": "scriptnpc#1786",
+  "field": "name",
+  "ko": "<font color=\"#909090\">$npcName:11000514[gender:1]$$pp:를,을$ 정말 사랑하지만, 난 잡초나 뽑으면서 여생을 보낼 순 없다.</font>\n<font color=\"#909090\">이게 그녀를 배신하는 길일지라도.</font>",
+  "en": "<font color=\"#909090\">I truly love $npcName:11000514[gender:1]$, but I can't spend the rest of my life pulling weeds.</font>\n<font color=\"#909090\">Even if leaving means betraying her.</font>",
+  "npc": "이름 모를 죄수의 일기장",
+  "npc_ja": "ある囚人の日記帳"
+ },
+ {
+  "id": "scriptnpc#1787",
+  "field": "name",
+  "ko": "<font color=\"#909090\">꼭 탈옥에 성공해서 빛나는 미래를 만나고 말겠어.</font>\n<font color=\"#909090\">그리고 떳떳해진 모습으로 다시 $npcName:11000514[gender:1]$ 앞에 나타날 것이다.</font>",
+  "en": "<font color=\"#909090\">I will escape and find a bright future.</font>\n<font color=\"#909090\">Then I will stand proudly before $npcName:11000514[gender:1]$ again.</font>",
+  "npc": "이름 모를 죄수의 일기장",
+  "npc_ja": "ある囚人の日記帳"
+ },
+ {
+  "id": "scriptnpc#1788",
+  "field": "name",
+  "ko": "<font color=\"#909090\">일기는 여기까지 적겠다.</font>\n<font color=\"#909090\">누군가가 본다면 행운을 빌어주길.</font>",
+  "en": "<font color=\"#909090\">This is the end of my diary entry.</font>\n<font color=\"#909090\">If anyone finds it, wish me luck.</font>",
+  "npc": "이름 모를 죄수의 일기장",
+  "npc_ja": "ある囚人の日記帳"
+ },
+ {
+  "id": "scriptnpc#1789",
+  "field": "name",
+  "ko": "음? $MyPCName$님께서 제게 무슨 일 이시죠?",
+  "en": "Hm? What brings you to me, $MyPCName$?",
+  "npc": "티니에",
+  "npc_ja": "ティニエ"
+ },
+ {
+  "id": "scriptnpc#1790",
+  "field": "name",
+  "ko": "$npcName:11000015[gender:1]$님과 이야기 나누고 계신 걸 본 것 같았는데…\n이럴줄 알았으면 제가 그쪽으로 갈 걸 그랬네요.",
+  "en": "I think I saw you speaking with $npcName:11000015[gender:1]$…\nIf I'd known, I would have come over there.",
+  "npc": "티니에",
+  "npc_ja": "ティニエ"
+ },
+ {
+  "id": "scriptnpc#1791",
+  "field": "name",
+  "ko": "$npcName:11000015[gender:1]$님께 마침 전해드릴 것도 있고 말이죠.",
+  "en": "I happen to have something for $npcName:11000015[gender:1]$.",
+  "npc": "티니에",
+  "npc_ja": "ティニエ"
+ },
+ {
+  "id": "scriptnpc#1792",
+  "field": "name",
+  "ko": "혹시 벌레 퇴치제냐고 묻는다.",
+  "en": "Ask if it's insect repellent.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1793",
+  "field": "name",
+  "ko": "<font size=\"40\">!!!</font>\n맞아요. 어떻게 아신 거죠?",
+  "en": "<font size=\"40\">!!!</font>\nThat's right. How did you know?",
+  "npc": "티니에",
+  "npc_ja": "ティニエ"
+ },
+ {
+  "id": "scriptnpc#1794",
+  "field": "name",
+  "ko": "$npcName:11000015[gender:1]$님이 벌레 퇴치제를 쓰시는 건 저랑 $npcName:11000015[gender:1]$님만 아는…",
+  "en": "Only $npcName:11000015[gender:1]$ and I know that $npcName:11000015[gender:1]$ uses insect repellent…",
+  "npc": "티니에",
+  "npc_ja": "ティニエ"
+ },
+ {
+  "id": "scriptnpc#1795",
+  "field": "name",
+  "ko": "$npcName:11000015[gender:1]$에게 부탁을 받아 찾아왔다고 말한다.",
+  "en": "Say $npcName:11000015[gender:1]$ asked you to come.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1796",
+  "field": "name",
+  "ko": "아…그러시군요.\n역시 믿고 맡기는 $MyPCName$님인가요…",
+  "en": "Oh… I see.\nNo wonder they trusted you with it, $MyPCName$…",
+  "npc": "티니에",
+  "npc_ja": "ティニエ"
+ },
+ {
+  "id": "scriptnpc#1797",
+  "field": "name",
+  "ko": "여기 있습니다.",
+  "en": "Here it is.",
+  "npc": "티니에",
+  "npc_ja": "ティニエ"
+ },
+ {
+  "id": "scriptnpc#1798",
+  "field": "name",
+  "ko": "이게 벌레 퇴치제구나…",
+  "en": "So this is insect repellent…",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1799",
+  "field": "name",
+  "ko": "꽤 신기하게 바라보시는군요.\n재료를 알려드릴 순 없지만, 필요하시면 하나 드셔보실래요?",
+  "en": "You seem quite fascinated.\nI can't tell you the ingredients, but would you like to try some?",
+  "npc": "티니에",
+  "npc_ja": "ティニエ"
+ },
+ {
+  "id": "scriptnpc#1800",
+  "field": "name",
+  "ko": "…난 괜찮다고 말한다.",
+  "en": "…Say you'll pass.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1801",
+  "field": "name",
+  "ko": "그런가요.\n그럼, 그걸 $npcName:11000015[gender:1]$님께 전달 부탁드립니다.",
+  "en": "I see.\nThen please deliver it to $npcName:11000015[gender:1]$.",
+  "npc": "티니에",
+  "npc_ja": "ティニエ"
+ },
+ {
+  "id": "scriptnpc#1802",
+  "field": "name",
+  "ko": "수고하세요!",
+  "en": "Thank you for your help!",
+  "npc": "티니에",
+  "npc_ja": "ティニエ"
+ },
+ {
+  "id": "scriptnpc#1803",
+  "field": "name",
+  "ko": "어? $MyPCName$?",
+  "en": "Oh? $MyPCName$?",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#1804",
+  "field": "name",
+  "ko": "웬일이래? 나한테 말을 다 걸고!\n무슨 일 있어?",
+  "en": "What brings you here? You hardly ever talk to me!\nIs something wrong?",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#1805",
+  "field": "name",
+  "ko": "$npcName:11000009[gender:0]$의 물건을 돌려달라고 말한다.",
+  "en": "Tell them to return $npcName:11000009[gender:0]$'s belongings.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1806",
+  "field": "name",
+  "ko": "…엥?\n네가 그걸 어떻게…",
+  "en": "…Huh?\nHow did you find out…?",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#1807",
+  "field": "name",
+  "ko": "$npcName:11000009[gender:0]$, 그 녀석도 소심쟁이구만?\n늑대 소녀에 이이서 $MyPCName$까지 날 찾아오게 만들다니.",
+  "en": "$npcName:11000009[gender:0]$ is timid too, isn't he?\nHe sent the wolf girl, then $MyPCName$, to find me.",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#1808",
+  "field": "name",
+  "ko": "크흠흠. 아무튼!\n이건 연구 목적으로 가져온 거라구.\n꼭 필요한 연구란 말이야!",
+  "en": "Ahem. Anyway!\nI took it for research.\nIt's vital research!",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#1809",
+  "field": "name",
+  "ko": "$npcName:11000009[gender:0]$에게도 굉장히 중요한 물건이라고 말한다.",
+  "en": "Say the item is very important to $npcName:11000009[gender:0]$ too.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1810",
+  "field": "name",
+  "ko": "그건…나도 알고 있지만…",
+  "en": "I… I know that, but…",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#1811",
+  "field": "name",
+  "ko": "으음………….",
+  "en": "Hmm…………",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#1812",
+  "field": "name",
+  "ko": "그래 알았어. 돌려주면 되잖아!\n칫…모처럼 용의 숨결을 연구할 수 있는 기회였는데.",
+  "en": "All right, fine. I'll give it back!\nTch… And I finally had a chance to study dragon breath.",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#1813",
+  "field": "name",
+  "ko": "용의 숨결?",
+  "en": "Dragon breath?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1814",
+  "field": "name",
+  "ko": "그래! 용에 대한 연구가 중요하다 는건 너도 알고 있지?\n이건 고대의 용이 뿜어낸 불길인 게 틀림없다고!",
+  "en": "Yes! You know how important dragon research is, don't you?\nThis must be fire breathed by an ancient dragon!",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#1815",
+  "field": "name",
+  "ko": "<font size=\"25\">날 위한 연구… </font>아니, 크리티아스 연구에도 도움이 될지도 모르는데!",
+  "en": "<font size=\"25\">Research for myself… </font>No, it might even help with research on Kritias!",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#1816",
+  "field": "name",
+  "ko": "$npcName:11000042[gender:1]$$pp:가,이$ 용 덕후라서 그런건 아니고?",
+  "en": "Isn't it just because $npcName:11000042[gender:1]$ is obsessed with dragons?",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1817",
+  "field": "name",
+  "ko": "(뜨끔)",
+  "en": "(Flinch.)",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#1818",
+  "field": "name",
+  "ko": "아무튼! 돌려주면 될 거 아니야.\n자! 받아.",
+  "en": "Anyway! I'll give it back, all right?\nHere, take it.",
+  "npc": "오르데",
+  "npc_ja": "オルデ"
+ },
+ {
+  "id": "scriptnpc#1819",
+  "field": "name",
+  "ko": "아아… 오늘도 빛이 나는 $npcName:11000160[gender:1]$씨…",
+  "en": "Ah… $npcName:11000160[gender:1]$ shines as brightly as ever…",
+  "npc": "미치",
+  "npc_ja": "ミッチ"
+ },
+ {
+  "id": "scriptnpc#1820",
+  "field": "name",
+  "ko": "$npcName:11000160[gender:1]$씨와 한마디라도 해보면 소원이 없겠어요.\n하지만…너무 큰 꿈일까요?",
+  "en": "If only I could speak to $npcName:11000160[gender:1]$ just once.\nBut… is that too much to hope for?",
+  "npc": "미치",
+  "npc_ja": "ミッチ"
+ },
+ {
+  "id": "scriptnpc#1821",
+  "field": "name",
+  "ko": "보름달 방앗간의 이름을 걸고…!",
+  "en": "On the honor of the Full Moon Mill…!",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1822",
+  "field": "name",
+  "ko": "달토끼는 반드시 은혜를 갚는다고!",
+  "en": "Moon rabbits always repay kindness!",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1823",
+  "field": "name",
+  "ko": "안녕하세요! <font color=\"#ffd200\">송편</font> 찾으러 오셨나요?",
+  "en": "Hello! Are you here for <font color=\"#ffd200\">songpyeon</font>?",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1824",
+  "field": "name",
+  "ko": "아이쿠, 안타깝게도 지금은 준비된 송편이 없어요.\n하지만 실망하긴 일러요! 재료를 준비해 오시면\n누구나 만드실 수 있도록 방법을 알려드릴 테니까요!",
+  "en": "Oh dear, we don't have any songpyeon ready right now.\nBut don't be disappointed! If you bring the ingredients,\nI'll show you how to make it yourself!",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1825",
+  "field": "name",
+  "ko": "재료는 어떻게 구하면 되는지 물어본다.",
+  "en": "Ask where to get the ingredients.",
+  "npc": "pc",
+  "n": 6
+ },
+ {
+  "id": "scriptnpc#1826",
+  "field": "name",
+  "ko": "송편의 재료는 <font color=\"#ffd200\">$item:30001192$, $item:30001193$, $item:30001194$</font>$pp:랍,이랍$니다.\n$npc:11001002[gender:1]$, $npcName:11001003[gender:0]$$pp:와,과$ 제가 몇 가지 부탁을 드리고 있는데 \n그걸 따라 움직이시면 자연스럽게 얻으실 수 있어요. ",
+  "en": "The ingredients for songpyeon are <font color=\"#ffd200\">$item:30001192$, $item:30001193$, $item:30001194$</font>.\n$npc:11001002[gender:1]$, $npcName:11001003[gender:0]$ and I have some requests for you. \nFollow them and you'll naturally gather what you need. ",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1827",
+  "field": "name",
+  "ko": "저희 방앗간의 <font color=\"#ffd200\">어쩔 수 없는 사정</font> 때문에 직접 만들어 드리진 못하지만,\n언제 어디서나! <font color=\"#ffd200\">놀라움이 숨어 있는 맛있는 송편</font>을 \n만들 수 있도록 해 드릴게요. 바쁘시겠지만 부디 도와주세요!",
+  "en": "Due to <font color=\"#ffd200\">unavoidable circumstances</font> at our mill, we can't make it for you,\nbut we can teach you to make <font color=\"#ffd200\">delicious songpyeon with a surprise inside</font> \nanywhere, anytime! Please help us, even though you're busy!",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1828",
+  "field": "name",
+  "ko": "앗, 그렇군요!\n그런데요, 저희 보름달 방앗간의 <font color=\"#ffd200\">송편</font>은 드셔 보셨나요?",
+  "en": "Oh, I see!\nHave you tried the <font color=\"#ffd200\">songpyeon</font> from our Full Moon Mill?",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1829",
+  "field": "name",
+  "ko": "먹어봤고, 맛있었다고 칭찬한다.",
+  "en": "Say you tried it and it was delicious.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1830",
+  "field": "name",
+  "ko": "먹어본 적이 없다고 한다.",
+  "en": "Say you've never tried it.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1831",
+  "field": "name",
+  "ko": "역시, 그럴 줄 알았어요! 우리 보름달 방앗간의 달토끼들은\n최고의 송편을 만들어 모험가님들의 마음을 풍요롭게 하기 위해 \n노력하고 있거든요!",
+  "en": "I knew it! The moon rabbits at our Full Moon Mill\nwork hard to make the finest songpyeon \nand bring joy to adventurers!",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1832",
+  "field": "name",
+  "ko": "하지만, 안타깝게도 지금은 준비된 송편이 없어요.\n아, 실망하긴 일러요! 재료를 준비해 오시면\n누구나 만드실 수 있도록 방법을 알려드릴 테니까요!",
+  "en": "Unfortunately, we don't have any ready right now.\nBut don't be disappointed! If you bring the ingredients,\nI'll show you how to make it yourself!",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1833",
+  "field": "name",
+  "ko": "앗, 그렇군요! 안타깝습니다.\n맛은 물론이고, 먹었을 때 놀라운 즐거움이 숨어 있는 게\n저희 보름달 방앗간 송편만의 특징인데… ",
+  "en": "Oh, I see! That's a shame.\nThe special thing about our Full Moon Mill songpyeon is that\nit's delicious and hides a delightful surprise… ",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1834",
+  "field": "name",
+  "ko": "안녕하세요! <font color=\"#ffd200\">월병</font> 찾으러 오셨나요?",
+  "en": "Hello! Are you here for <font color=\"#ffd200\">mooncakes</font>?",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1835",
+  "field": "name",
+  "ko": "아이쿠, 안타깝게도 지금은 준비된 월병이 없어요.\n하지만 실망하긴 일러요! 재료를 준비해 오시면\n누구나 만드실 수 있도록 방법을 알려드릴 테니까요!",
+  "en": "Oh dear, we don't have any mooncakes ready right now.\nBut don't be disappointed! If you bring the ingredients,\nI'll show you how to make them yourself!",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1836",
+  "field": "name",
+  "ko": "월병의 재료는 <font color=\"#ffd200\">$item:30001198$, $item:30001199$, $item:30001200$</font>$pp:랍,이랍$니다.\n$npc:11001002[gender:1]$, $npcName:11001003[gender:0]$$pp:와,과$ 제가 몇 가지 부탁을 드리고 있는데 \n그걸 따라 움직이시면 자연스럽게 얻으실 수 있어요. ",
+  "en": "The ingredients for mooncakes are <font color=\"#ffd200\">$item:30001198$, $item:30001199$, $item:30001200$</font>.\n$npc:11001002[gender:1]$, $npcName:11001003[gender:0]$ and I have some requests for you. \nFollow them and you'll naturally gather what you need. ",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1837",
+  "field": "name",
+  "ko": "저희 방앗간의 <font color=\"#ffd200\">어쩔 수 없는 사정</font> 때문에 직접 만들어 드리진 못하지만,\n언제 어디서나! <font color=\"#ffd200\">놀라움이 숨어 있는 맛있는 월병</font>을 \n만들 수 있도록 해 드릴게요. 바쁘시겠지만 부디 도와주세요!",
+  "en": "Due to <font color=\"#ffd200\">unavoidable circumstances</font> at our mill, we can't make them for you,\nbut we can teach you to make <font color=\"#ffd200\">delicious mooncakes with a surprise inside</font> \nanywhere, anytime! Please help us, even though you're busy!",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1838",
+  "field": "name",
+  "ko": "앗, 그렇군요!\n그런데요, 저희 보름달 방앗간의 <font color=\"#ffd200\">월병</font>은 드셔 보셨나요?",
+  "en": "Oh, I see!\nHave you tried the <font color=\"#ffd200\">mooncakes</font> from our Full Moon Mill?",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1839",
+  "field": "name",
+  "ko": "먹어봤고, 맛있었다고 칭찬한다.",
+  "en": "Say you tried them and they were delicious.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1840",
+  "field": "name",
+  "ko": "먹어본 적이 없다고 한다.",
+  "en": "Say you've never tried them.",
+  "npc": "pc"
+ },
+ {
+  "id": "scriptnpc#1841",
+  "field": "name",
+  "ko": "역시, 그럴 줄 알았어요! 우리 보름달 방앗간의 달토끼들은\n최고의 월병을 만들어 모험가님들의 마음을 풍요롭게 하기 위해 \n노력하고 있거든요!",
+  "en": "I knew it! The moon rabbits at our Full Moon Mill\nwork hard to make the finest mooncakes \nand bring joy to adventurers!",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1842",
+  "field": "name",
+  "ko": "하지만, 안타깝게도 지금은 준비된 월병이 없어요.\n아, 실망하긴 일러요! 재료를 준비해 오시면\n누구나 만드실 수 있도록 방법을 알려드릴 테니까요!",
+  "en": "Unfortunately, we don't have any ready right now.\nBut don't be disappointed! If you bring the ingredients,\nI'll show you how to make them yourself!",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1843",
+  "field": "name",
+  "ko": "앗, 그렇군요! 안타깝습니다.\n맛은 물론이고, 먹었을 때 놀라운 즐거움이 숨어 있는 게\n저희 보름달 방앗간 월병만의 특징인데… ",
+  "en": "Oh, I see! That's a shame.\nThe special thing about our Full Moon Mill mooncakes is that\nthey're delicious and hide a delightful surprise… ",
+  "npc": "달보드레",
+  "npc_ja": "ダルボドレ"
+ },
+ {
+  "id": "scriptnpc#1844",
+  "field": "name",
+  "ko": "당신의 패션을 완성하는 건…!!",
+  "en": "The finishing touch to your fashion is…!!",
+  "npc": "코디아",
+  "npc_ja": "コディア"
+ },
+ {
+  "id": "scriptnpc#1845",
+  "field": "name",
+  "ko": "패션의 완성은 '얼굴'이라는 거… 난 동의할 수 없어요!\n패션의 완성은 '나만의 매력'이죠!\n그렇지 않아요?",
+  "en": "Some say the finishing touch to fashion is your face… I disagree!\nIt's your own unique charm!\nDon't you agree?",
+  "npc": "코디아",
+  "npc_ja": "コディア"
+ },
+ {
+  "id": "scriptnpc#1846",
+  "field": "name",
+  "ko": "현재 진행 중인 이벤트는 무엇이냐고 물어본다.",
+  "en": "Ask which events are currently running.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1847",
+  "field": "name",
+  "ko": "현재 <font color=\"#ffd200\">공방 무료 제작 이벤트</font>와 <font color=\"#ffd200\">건설 자재 90% 할인 이벤트</font>가 진행중이에요~!\n공방 무료 제작 이벤트에는 <font color=\"#ffd200\">무료 디자인 제작 쿠폰</font>이 필요하답니다!\n쿠폰은 저희 오빠 <font color=\"#ffd200\">$npc:11500002[gender:0]$</font>에게서 구매 가능해요~!",
+  "en": "The <font color=\"#ffd200\">Free Workshop Crafting event</font> and <font color=\"#ffd200\">90% Off Construction Materials event</font> are running now!\nYou'll need a <font color=\"#ffd200\">Free Design Crafting Coupon</font> for the Workshop event.\nYou can buy the coupon from my brother <font color=\"#ffd200\">$npc:11500002[gender:0]$</font>!",
+  "npc": "루비",
+  "npc_ja": "ルビィ"
+ },
+ {
+  "id": "scriptnpc#1848",
+  "field": "name",
+  "ko": "현재 <font color=\"#ffd200\">공방 무료 제작 이벤트</font>와 <font color=\"#ffd200\">건설 자재 90% 할인 이벤트</font>가 진행중이에요~!\n공방 무료 제작 이벤트에는 <font color=\"#ffd200\">무료 디자인 제작 쿠폰</font>이 필요하답니다!\n쿠폰은 저 <font color=\"#ffd200\">$npc:11500002[gender:0]$</font>에게서 구매 가능해요~!",
+  "en": "The <font color=\"#ffd200\">Free Workshop Crafting event</font> and <font color=\"#ffd200\">90% Off Construction Materials event</font> are running now!\nYou'll need a <font color=\"#ffd200\">Free Design Crafting Coupon</font> for the Workshop event.\nYou can buy the coupon from me, <font color=\"#ffd200\">$npc:11500002[gender:0]$</font>!",
+  "npc": "바비",
+  "npc_ja": "バービー"
+ },
+ {
+  "id": "scriptnpc#1849",
+  "field": "name",
+  "ko": "어서오세요! $MyPCName$님!\n특별한 <font color=\"#ffd200\">이벤트 기간</font> 중 <font color=\"#ffd200\">월요일</font>에만 구매 가능한 <font color=\"#ffd200\">먼데이 상점</font>입니다!\n<font color=\"#ffd200\">$item:30000750$</font>만 있다면 원하는 물건을 마음껏 구입할 수 있답니다!",
+  "en": "Welcome, $MyPCName$!\nThis is the <font color=\"#ffd200\">Monday Shop</font>, open only on <font color=\"#ffd200\">Mondays</font> during the special <font color=\"#ffd200\">event period</font>!\nWith <font color=\"#ffd200\">$item:30000750$</font>, you can buy anything you like!",
+  "npc": "먼데이",
+  "npc_ja": "マンデー"
+ },
+ {
+  "id": "scriptnpc#1850",
+  "field": "name",
+  "ko": "<font color=\"#ffd200\">$item:30000750$</font>는 어디서 구할 수 있는지 물어본다.",
+  "en": "Ask where to get <font color=\"#ffd200\">$item:30000750$</font>.",
+  "npc": "pc",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1851",
+  "field": "name",
+  "ko": "어서오세요! $MyPCName$님!\n<font color=\"#ffd200\">월요일</font>에만 구매 가능한 <font color=\"#ffd200\">먼데이 상점</font>입니다!\n<font color=\"#ffd200\">$item:30000750$</font>만 있다면 원하는 물건을 마음껏 구입할 수 있답니다!",
+  "en": "Welcome, $MyPCName$!\nThis is the <font color=\"#ffd200\">Monday Shop</font>, open only on <font color=\"#ffd200\">Mondays</font>!\nWith <font color=\"#ffd200\">$item:30000750$</font>, you can buy anything you like!",
+  "npc": "먼데이",
+  "npc_ja": "マンデー"
+ },
+ {
+  "id": "scriptnpc#1852",
+  "field": "name",
+  "ko": "<font color=\"#ffd200\">$item:30000750$</font>는 이벤트 기간 중 토요일과 일요일에 접속하면, \n<font color=\"#ffd200\">50레벨 이상 모험가</font>님들에게만 <font color=\"#ffd200\">우편으로 지급</font>된답니다.\n부지런히 접속하고, <font color=\"#ffd200\">$item:30000750$</font>를 모아 먼데이 상점에서 신나는 쇼핑을\n즐겨보세요!",
+  "en": "During the event, log in on Saturday and Sunday to receive <font color=\"#ffd200\">$item:30000750$</font> \n<font color=\"#ffd200\">by mail</font> if you are an <font color=\"#ffd200\">adventurer level 50 or above</font>.\nLog in regularly, collect <font color=\"#ffd200\">$item:30000750$</font>, and enjoy shopping at the Monday Shop\nto your heart’s content!",
+  "npc": "먼데이",
+  "npc_ja": "マンデー"
+ },
+ {
+  "id": "scriptnpc#1853",
+  "field": "name",
+  "ko": "<font color=\"#ffd200\">$item:30000750$</font>는 토요일과 일요일에 접속하면, \n<font color=\"#ffd200\">50레벨 이상 모험가</font>님들에게만 <font color=\"#ffd200\">우편으로 지급</font>된답니다.\n부지런히 접속하고, <font color=\"#ffd200\">$item:30000750$</font>를 모아 먼데이 상점에서 신나는 쇼핑을\n즐겨보세요!",
+  "en": "Log in on Saturday and Sunday to receive <font color=\"#ffd200\">$item:30000750$</font> \n<font color=\"#ffd200\">by mail</font> if you are an <font color=\"#ffd200\">adventurer level 50 or above</font>.\nLog in regularly, collect <font color=\"#ffd200\">$item:30000750$</font>, and enjoy shopping at the Monday Shop\nto your heart’s content!",
+  "npc": "먼데이",
+  "npc_ja": "マンデー"
+ },
+ {
+  "id": "scriptnpc#1854",
+  "field": "name",
+  "ko": "귀한 물건 많으니 구경하고 가시죠!",
+  "en": "I have many valuable items. Take a look!",
+  "npc": "살레",
+  "npc_ja": "サレ",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1855",
+  "field": "name",
+  "ko": "안녕하세요? $MyPCName$님!\n트라이아 왕실에서 모험가님들을 위해 특별한 보급품을 준비했습니다.\n바로, <font color=\"#ffd200\">젬스톤</font>과 <font color=\"#ffd200\">루미스톤</font>을 <font color=\"#ffd200\">업그레이드할 수 있는 재료</font>입니다.",
+  "en": "Hello, $MyPCName$!\nThe royal court of Tria has prepared special supplies for adventurers.\nThey are <font color=\"#ffd200\">materials for upgrading</font> <font color=\"#ffd200\">Gemstones</font> and <font color=\"#ffd200\">Lumistones</font>.",
+  "npc": "베리링",
+  "npc_ja": "ベリリン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1856",
+  "field": "name",
+  "ko": "왕실에서 공개한 특별한 상자를 이용하면, <font color=\"#ffd200\">준비해 오신 재료</font>로\n젬스톤과 루미스톤의 업그레이드 재료들을 만들 수 있어요!",
+  "en": "Using the special boxes unveiled by the royal court, you can turn the <font color=\"#ffd200\">materials you brought</font>\ninto materials for upgrading Gemstones and Lumistones!",
+  "npc": "베리링",
+  "npc_ja": "ベリリン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1857",
+  "field": "name",
+  "ko": "먼저, 몬스터들을 사냥하면 얻을 수 있는 <font color=\"#ffd200\">$item:30001187$</font>$pp:를,을$ 모아오세요.\n저 앞에 있는 <font color=\"#ffd200\">$npcName:11004215$</font>, <font color=\"#ffd200\">$npcName:11004216$</font>에 넣어 에너지 변환을 하면 \n젬스톤과 루미스톤의 업그레이드 재료를 얻을 수 있답니다.",
+  "en": "First, collect <font color=\"#ffd200\">$item:30001187$</font> from hunting monsters.\nPut them into <font color=\"#ffd200\">$npcName:11004215$</font> or <font color=\"#ffd200\">$npcName:11004216$</font> over there to convert their energy, \nand you can obtain materials for upgrading Gemstones and Lumistones.",
+  "npc": "베리링",
+  "npc_ja": "ベリリン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1858",
+  "field": "name",
+  "ko": "그리고 에너지 변환에 성공하려면 준비할 게 하나 더 있어요. \n<font color=\"#ffd200\">젬스톤</font> 업그레이드 재료를 얻으려면 <font color=\"#ffd200\">$item:30001188$</font>$pp:가,이$,\n<font color=\"#ffd200\">루미스톤</font> 업그레이드 재료를 얻으려면 <font color=\"#ffd200\">$item:30001189$</font>$pp:가,이$ 필요하죠.",
+  "en": "There is one more thing you need for successful energy conversion. \nTo obtain materials for upgrading <font color=\"#ffd200\">Gemstones</font>, you need <font color=\"#ffd200\">$item:30001188$</font>.\nFor materials to upgrade <font color=\"#ffd200\">Lumistones</font>, you need <font color=\"#ffd200\">$item:30001189$</font>.",
+  "npc": "베리링",
+  "npc_ja": "ベリリン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1859",
+  "field": "name",
+  "ko": "$npc:11000075[gender:1]$님의 명을 받은 $npcName:11000601[gender:1]$님은 왕실 보물창고에 잠들어 있던, \n먼 세계로부터의 이방인이 선물했다는 이 <font color=\"#ffd200\">두 개의 상자</font>를 활용해\n세상의 몬스터들이 가진 에너지를 변환하는 방법을 고안해 내셨습니다.",
+  "en": "At the command of $npc:11000075[gender:1]$, $npcName:11000601[gender:1]$ used \n<font color=\"#ffd200\">two boxes</font> that had slept in the royal treasury, said to be gifts from a stranger from another world,\nto devise a way to convert the energy of the world’s monsters.",
+  "npc": "베리링",
+  "npc_ja": "ベリリン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1860",
+  "field": "name",
+  "ko": "이 두 개의 상자, <font color=\"#ffd200\">$npc:11004215$</font>$pp:와,과$ <font color=\"#ffd200\">$npc:11004216$</font>$pp:는,은$\n물질이 가진 에너지의 성질을 변환하는 특별한 능력을 갖고 있답니다.\n$npc:11000601[gender:1]$님은 이 점에 집중하셨던 거죠. \n몬스터들의 힘을 변환해, 모험가들이 활용할 수 있을까? 라고요.",
+  "en": "These two boxes, <font color=\"#ffd200\">$npc:11004215$</font> and <font color=\"#ffd200\">$npc:11004216$</font>,\nhave a special ability to change the nature of the energy in materials.\nThat is what caught $npc:11000601[gender:1]$’s attention. \nCould the monsters’ power be converted for adventurers to use?",
+  "npc": "베리링",
+  "npc_ja": "ベリリン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1861",
+  "field": "name",
+  "ko": "에너지 변환 중 대량의 손실이 없다면 가능하다는 결론에 이르렀고, \n몬스터의 에너지가 담긴 <font color=\"#ffd200\">$item:30001187$</font>$pp:를,을$ 일정한 구조 안에 묶기로 했습니다.\n결과물은 누구나 이용할 수 있어야 했기 때문에, 장비에 착용할 수 있는 \n젬스톤과 루미스톤에 힘을 더하는 재료를 만들기로 의견이 모아졌죠.",
+  "en": "They concluded it would be possible if little energy were lost during conversion, \nso they decided to bind the monster energy in <font color=\"#ffd200\">$item:30001187$</font> within a stable structure.\nSince the result had to be useful to everyone, they chose to create materials \nthat empower Gemstones and Lumistones equipped in gear.",
+  "npc": "베리링",
+  "npc_ja": "ベリリン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1862",
+  "field": "name",
+  "ko": "<font color=\"#ffd200\">$item:30001188$</font>$pp:와,과$ <font color=\"#ffd200\">$item:30001189$</font>$pp:는,은$ 각각 젬스톤, 루미스톤의 에너지에\n맞는 성질로 변환할 수 있도록 해주는 구조물의 역할을 한답니다.\n어때요, 조금은 이해가 되시나요?",
+  "en": "<font color=\"#ffd200\">$item:30001188$</font> and <font color=\"#ffd200\">$item:30001189$</font> serve as structures that convert energy\ninto the forms suited to Gemstones and Lumistones, respectively.\nDoes that make a little more sense?",
+  "npc": "베리링",
+  "npc_ja": "ベリリン",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1863",
+  "field": "name",
+  "ko": "무료로 $item:30001025$$pp:를,을$ 감정해달라고 한다.",
+  "en": "Ask for a free appraisal of $item:30001025$.",
+  "npc": "pc",
+  "n": 3
+ },
+ {
+  "id": "scriptnpc#1864",
+  "field": "name",
+  "ko": "저는 사연이 있는 물건을 볼 때 마다 가슴이 두근거려요.",
+  "en": "My heart races whenever I see an object with a story.",
+  "npc": "마리나",
+  "npc_ja": "マリーナ",
+  "n": 3
+ },
+ {
+  "id": "scriptnpc#1865",
+  "field": "name",
+  "ko": "크리티아스 역사 책을 읽어봤는데요.\n그 안에 놀라운 사실이 적혀 있었어요.",
+  "en": "I read a history book about Kritias.\nIt contained a startling revelation.",
+  "npc": "마리나",
+  "npc_ja": "マリーナ"
+ },
+ {
+  "id": "scriptnpc#1866",
+  "field": "name",
+  "ko": "크리티아스의 정체!\n그것은 바로 시간을 거슬러 나타난 신대륙.\n생각만 해도 놀랍지 않나요~?",
+  "en": "The truth about Kritias!\nIt’s a new continent that appeared from the past.\nIsn’t that astonishing just to think about?",
+  "npc": "마리나",
+  "npc_ja": "マリーナ"
+ },
+ {
+  "id": "scriptnpc#1867",
+  "field": "name",
+  "ko": "크리티아스에는 에네르라는 새로운 힘이 있다고 해요!",
+  "en": "They say Kritias has a new power called Ener!",
+  "npc": "마리나",
+  "npc_ja": "マリーナ"
+ },
+ {
+  "id": "scriptnpc#1868",
+  "field": "name",
+  "ko": "에네르는 사용하기에 따라서 따뜻한 생명의 에너지도, 차가운 파괴의 에너지도 된다고 해요.",
+  "en": "Depending on how it is used, Ener can become either the warm energy of life or the cold energy of destruction.",
+  "npc": "마리나",
+  "npc_ja": "マリーナ"
+ },
+ {
+  "id": "scriptnpc#1869",
+  "field": "name",
+  "ko": "중요한 것은 에네르를 사용하는 사람의 마음이겠죠. 그 사람의 마음이 선하느냐, 악하느냐에 따라서 에네르는 이로운 것이 될 수도, 아닐 수도 있겠죠.",
+  "en": "What matters is the heart of the person using Ener. Whether their heart is good or evil determines whether Ener is beneficial.",
+  "npc": "마리나",
+  "npc_ja": "マリーナ"
+ },
+ {
+  "id": "scriptnpc#1870",
+  "field": "name",
+  "ko": "이 땅에는 에네르가 넘쳐난다고 하네요. 그 힘이 제발 나쁜 사람들의 손에 들어가지는 않아야 할텐데 말이죠.",
+  "en": "They say this land is overflowing with Ener. I only hope that power does not fall into the wrong hands.",
+  "npc": "마리나",
+  "npc_ja": "マリーナ"
+ },
+ {
+  "id": "scriptnpc#1871",
+  "field": "name",
+  "ko": "요는 사람의 마음이 중요하다는거죠.",
+  "en": "The point is that a person’s heart matters.",
+  "npc": "마리나",
+  "npc_ja": "マリーナ"
+ },
+ {
+  "id": "scriptnpc#1872",
+  "field": "name",
+  "ko": "우리가 이 새로운 힘을 지켜야 해요!",
+  "en": "We must protect this new power!",
+  "npc": "마리나",
+  "npc_ja": "マリーナ"
+ },
+ {
+  "id": "scriptnpc#1873",
+  "field": "name",
+  "ko": "저에게 무슨 볼 일이 있으세요?",
+  "en": "Do you need something from me?",
+  "npc": "마리나",
+  "npc_ja": "マリーナ"
+ },
+ {
+  "id": "scriptnpc#1874",
+  "field": "name",
+  "ko": "저는 사연이 있는 물건을 볼 때 마다 가슴이 두근거려요.",
+  "en": "I get excited thinking about the story behind all these old objects.",
+  "npc": "마리나",
+  "npc_ja": "マリーナ"
+ },
+ {
+  "id": "scriptnpc#1875",
+  "field": "name",
+  "ko": "그동안 뱃삯도 모을 겸 마을 주민들 부탁도 좀 들어주면서, \n시간 좀 보내다가 다시 오게나. 참고로 뱃삯은 <font color=\"#ffd200\">100메소</font>라네.",
+  "en": "While you wait, help the villagers and save up for your fare. \nThen come back. The boat fare is <font color=\"#ffd200\">100 mesos</font>, by the way.",
+  "npc": null
+ },
+ {
+  "id": "scriptnpc#1876",
+  "field": "name",
+  "ko": "<font color=\"#ffd200\">빅토리아 아일랜드</font>에는 <font color=\"#ffd200\">$npc:11000075[gender:1]$</font>님의 왕궁이 자리잡은 대도시\n<font color=\"#ffd200\">$map:02000001$</font>$pp:를,을$ 중심으로 <font color=\"#ffd200\">$map:02000076$</font>, <font color=\"#ffd200\">$map:02000023$</font>, <font color=\"#ffd200\">$map:02000051$</font>, <font color=\"#ffd200\">$map:02000100$</font> 등이\n각기 개성있는 지역 문화를 형성하고 있다네.",
+  "en": "On <font color=\"#ffd200\">Victoria Island</font>, the great city of <font color=\"#ffd200\">$map:02000001$</font> houses the palace of\n<font color=\"#ffd200\">$npc:11000075[gender:1]$</font>. Around it, <font color=\"#ffd200\">$map:02000076$</font>, <font color=\"#ffd200\">$map:02000023$</font>, <font color=\"#ffd200\">$map:02000051$</font>, <font color=\"#ffd200\">$map:02000100$</font>, and other places\nhave each developed their own distinct culture.",
+  "npc": "오두막 할아범",
+  "npc_ja": "小屋のおじいちゃん"
+ },
+ {
+  "id": "scriptnpc#1877",
+  "field": "name",
+  "ko": "예전에는 우리 메이플 아일랜드의 많은 젊은이들이 모험과 새로운 \n도전을 꿈꾸며 먼 바닷길을 지나 <font color=\"#ffd200\">빅토리아 아일랜드</font>로 떠났었지.\n나도 소싯적에 그랬고 말이야… 허허허. \n그러고 보니 내가 이 오두막 밖으로 나가 본 지도 꽤 되었군.",
+  "en": "In the old days, many young people from our Maple Island crossed the distant sea\nto <font color=\"#ffd200\">Victoria Island</font>, dreaming of adventure and new challenges.\nI did too, when I was young… Ha ha. \nCome to think of it, it has been a long time since I left this cabin.",
+  "npc": "오두막 할아범",
+  "npc_ja": "小屋のおじいちゃん"
+ },
+ {
+  "id": "scriptnpc#1878",
+  "field": "name",
+  "ko": "오랜 세월이 흘렀으니 세상도 아마 많이 바뀌었을 거야.\n이 늙은이 말을 듣는 것보다 자네가 직접 가서 보고 듣는 게 좋을 거야. \n더 듣고 싶은 이야기가 있나?",
+  "en": "Many years have passed, so the world has surely changed.\nYou would be better off seeing and hearing it for yourself than listening to this old man. \nIs there anything else you would like to know?",
+  "npc": "오두막 할아범",
+  "npc_ja": "小屋のおじいちゃん"
+ },
+ {
+  "id": "scriptnpc#1879",
+  "field": "name",
+  "ko": "$item:30000181$$pp:를,을$ 10개 주겠다고 한다.",
+  "en": "Offer 10 $item:30000181$.",
+  "npc": null,
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1880",
+  "field": "name",
+  "ko": "$item:30000181$$pp:를,을$ 구하셨다니…\n메이플 월드의 안전을 지킨 것은 물론이거니와\n어둠의 땅이 지닌 비밀을 밝힐 단서를 구한 셈이에요!",
+  "en": "You found $item:30000181$…\nYou have not only protected Maple World,\nbut also found a clue to the secrets of the land of darkness!",
+  "npc": "나탈리",
+  "npc_ja": "ナタリー",
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1881",
+  "field": "name",
+  "ko": "$item:30000181$ 개수가 부족해요.",
+  "en": "You do not have enough $item:30000181$.",
+  "npc": "나탈리",
+  "npc_ja": "ナタリー"
+ },
+ {
+  "id": "scriptnpc#1882",
+  "field": "name",
+  "ko": "제 도움이 필요하신가요?",
+  "en": "Do you need my help?",
+  "npc": null
+ },
+ {
+  "id": "scriptnpc#1883",
+  "field": "name",
+  "ko": "$npcName:11004802[gender:0]$님의 연구 성과는 정말 놀라워요.\n저도 언젠가 저렇게 될 수 있을까요?",
+  "en": "$npcName:11004802[gender:0]$’s research achievements are remarkable.\nI wonder if I can be like that someday.",
+  "npc": null
+ },
+ {
+  "id": "scriptnpc#1884",
+  "field": "name",
+  "ko": "$MyPCName$님이시군요!",
+  "en": "It’s you, $MyPCName$!",
+  "npc": null,
+  "n": 2
+ },
+ {
+  "id": "scriptnpc#1885",
+  "field": "name",
+  "ko": "인형의 저택 운영 시간이요?\n아쉽게도 아직 시범 버전이라 정해진 시간만 운영하고 있답니다.\n평일은 오후 7시부터 11시까지, 주말은 매일 오후 4시부터 11시까지 사이에서 15분, 45분마다 알림이 뜨니 잊지 말고 참석해주세요.",
+  "en": "The operating hours of the Doll Mansion?\nUnfortunately, it is still a trial version, so it opens only at set times.\nOn weekdays, watch for announcements at 15 and 45 minutes past the hour from 7 p.m. to 11 p.m.; on weekends, from 4 p.m. to 11 p.m. Don’t miss it.",
+  "npc": null
+ },
+ {
+  "id": "scriptnpc#1886",
+  "field": "name",
+  "ko": "아...안녕하세요",
+  "en": "H-hello…",
+  "npc": null
+ },
+ {
+  "id": "scriptnpc#1887",
+  "field": "name",
+  "ko": "저 인형들을 갖고 싶은데 어떻게 하면 될까요?",
+  "en": "How can I get those dolls?",
+  "npc": null
+ },
+ {
+  "id": "scriptnpc#1888",
+  "field": "name",
+  "ko": "박사님이 시킨 업무들이 너무 많아요. 이번 달 휴가도 글렀습니다.",
+  "en": "The professor has given me so much work. There goes my vacation this month.",
+  "npc": null
+ },
+ {
+  "id": "scriptnpc#1889",
+  "field": "name",
+  "ko": "….\n(이곳에도 어둠의 물질이 있다. 폭주하는 골렘과 관련이 있는 걸까...?\n어서 $map:02000487$$pp:로,으로$ 돌아가자.)",
+  "en": "….\n(There is dark matter here, too. Could it be related to the rampaging golem…?\nLet’s return to $map:02000487$ quickly.)",
+  "npc": null
+ },
+ {
+  "id": "scriptnpc#1890",
+  "field": "name",
+  "ko": "으... 어떻게 된 거지? 난 분명 회의실에서 연주회 준비를 하고 있었는데...",
+  "en": "Ugh… what happened? I was preparing for a concert in the meeting room…",
+  "npc": null
+ },
+ {
+  "id": "scriptnpc#1891",
+  "field": "name",
+  "ko": "으으... 으으윽...! 여긴 대체 어디지...?",
+  "en": "Ugh… ugh…! Where am I…?",
+  "npc": null
+ },
+ {
+  "id": "scriptnpc#1892",
+  "field": "name",
+  "ko": "여... 연주해야 해... 빛과 어둠의 아리아를... 크, 크큭...",
+  "en": "I… I have to perform… the Aria of Light and Darkness… Heh, heh…",
+  "npc": null
+ },
+ {
+  "id": "scriptnpc#1893",
+  "field": "name",
+  "ko": "대체 어디에 있을까...",
+  "en": "Where could it be…?",
+  "npc": null
+ },
+ {
+  "id": "scriptnpc#1894",
+  "field": "name",
+  "ko": "(검붉은 어둠 속에서 음악 소리와 여인의 아리아가 어렴풋이 들린다.)",
+  "en": "(Faint music and a woman’s aria can be heard within the dark red gloom.)",
+  "npc": null,
+  "n": 3
+ },
+ {
+  "id": "scriptnpc#1895",
+  "field": "name",
+  "ko": "대체 어디에...",
+  "en": "Where could it be…?",
+  "npc": null
+ },
+ {
+  "id": "scriptnpc#1896",
+  "field": "name",
+  "ko": "안녕하십니까? $MyPCName$님! 훈련이 필요하시다면 이곳에 있는 허수아비를 상대해보십시오!",
+  "en": "Hello, $MyPCName$! If you need training, practice on the dummies here!",
+  "npc": null
+ },
+ {
+  "id": "scriptnpc#1897",
+  "field": "name",
+  "ko": "어둠의 군단이 언제 침공해올지 모릅니다! 훈련소의 허수아비를 상대로 기량을 갈고 닦아 보십시오!",
+  "en": "The Dark Army could invade at any time! Hone your skills on the training dummies!",
+  "npc": null
+ },
+ {
+  "id": "scriptnpc#1898",
+  "field": "name",
+  "ko": "$MyPCName$님! 자신의 실력을 점검하고 싶으시면 이곳 훈련소를 이용하십시오. 허수아비는 마음껏 때리셔도 좋습니다!",
+  "en": "$MyPCName$! If you want to test your abilities, use this training ground. You can hit the dummies as much as you like!",
+  "npc": null
+ },
+ {
+  "id": "scriptnpc#1899",
+  "field": "name",
+  "ko": "근무 중 이상 무! 훈련이 필요하십니까? 훈련용 허수아비는 저쪽에 배치되어 있습니다. ",
+  "en": "All clear on duty! Do you need training? The training dummies are over there. ",
+  "npc": null
+ }
+]

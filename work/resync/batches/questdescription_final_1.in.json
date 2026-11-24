@@ -1,0 +1,2588 @@
+[
+ {
+  "id": "questdescription_final#0001",
+  "field": "name",
+  "ko": "식물형 몬스터 정보 모으기",
+  "en": "Gather information on plant monsters"
+ },
+ {
+  "id": "questdescription_final#0002",
+  "field": "desc",
+  "ko": "몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 식물형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Let's defeat plant monsters and gather information on them to help fulfill $npc:11003471$'s dream of creating a monster compendium."
+ },
+ {
+  "id": "questdescription_final#0003",
+  "field": "name",
+  "ko": "야수형 몬스터 정보 모으기",
+  "en": "Gather information on beast monsters"
+ },
+ {
+  "id": "questdescription_final#0004",
+  "field": "desc",
+  "ko": "몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 야수형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Let's defeat beast monsters and gather information on them to help fulfill $npc:11003471$'s dream of creating a monster compendium."
+ },
+ {
+  "id": "questdescription_final#0005",
+  "field": "name",
+  "ko": "요정형 몬스터 정보 모으기",
+  "en": "Gather information on fairy monsters"
+ },
+ {
+  "id": "questdescription_final#0006",
+  "field": "desc",
+  "ko": "몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 요정형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Let's defeat fairfolk monsters and gather information on them to help fulfill $npc:11003471$'s dream of creating a monster compendium."
+ },
+ {
+  "id": "questdescription_final#0007",
+  "field": "name",
+  "ko": "인간형 몬스터 정보 모으기",
+  "en": "Gather information on humanoid foes"
+ },
+ {
+  "id": "questdescription_final#0008",
+  "field": "desc",
+  "ko": "몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 인간형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Let's defeat humanoid monsters and gather information on them to help fulfill $npc:11003471$'s dream of creating a monster compendium."
+ },
+ {
+  "id": "questdescription_final#0009",
+  "field": "name",
+  "ko": "정령형 몬스터 정보 모으기",
+  "en": "Gather information on spirit monsters"
+ },
+ {
+  "id": "questdescription_final#0010",
+  "field": "desc",
+  "ko": "몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 정령형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Let's defeat spirit monsters and gather information on them to help fulfill $npc:11003471$'s dream of creating a monster compendium."
+ },
+ {
+  "id": "questdescription_final#0011",
+  "field": "name",
+  "ko": "식물형 몬스터 정보 모으기",
+  "en": "Gathering Info on Plant-Type Monsters"
+ },
+ {
+  "id": "questdescription_final#0012",
+  "field": "desc",
+  "ko": "몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 식물형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Defeat plant-type monsters and gather information for $npc:11003471$, who dreams of creating a monster encyclopedia."
+ },
+ {
+  "id": "questdescription_final#0013",
+  "field": "name",
+  "ko": "야수형 몬스터 정보 모으기",
+  "en": "Gathering Info on Beast-Type Monsters"
+ },
+ {
+  "id": "questdescription_final#0014",
+  "field": "desc",
+  "ko": "몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 야수형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Defeat beast-type monsters and gather information for $npc:11003471$, who dreams of creating a monster encyclopedia."
+ },
+ {
+  "id": "questdescription_final#0015",
+  "field": "name",
+  "ko": "요정형 몬스터 정보 모으기",
+  "en": "Gathering Info on Fairy-Type Monsters"
+ },
+ {
+  "id": "questdescription_final#0016",
+  "field": "desc",
+  "ko": "몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 요정형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Defeat fairy-type monsters and gather information for $npc:11003471$, who dreams of creating a monster encyclopedia."
+ },
+ {
+  "id": "questdescription_final#0017",
+  "field": "name",
+  "ko": "인간형 몬스터 정보 모으기",
+  "en": "Gathering Info on Humanoid-Type Monsters"
+ },
+ {
+  "id": "questdescription_final#0018",
+  "field": "desc",
+  "ko": "몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 인간형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Defeat humanoid-type monsters and gather information for $npc:11003471$, who dreams of creating a monster encyclopedia."
+ },
+ {
+  "id": "questdescription_final#0019",
+  "field": "name",
+  "ko": "정령형 몬스터 정보 모으기",
+  "en": "Gathering Info on Spirit-Type Monsters"
+ },
+ {
+  "id": "questdescription_final#0020",
+  "field": "desc",
+  "ko": "몬스터 도감 제작을 꿈꾸고 있는 $npc:11003471$$pp:를,을$ 위해 정령형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Defeat spirit-type monsters and gather information for $npc:11003471$, who dreams of creating a monster encyclopedia."
+ },
+ {
+  "id": "questdescription_final#0021",
+  "field": "complete",
+  "ko": "젬스톤 업그레이드 1회 성공하기",
+  "en": "Successfully upgrade a gemstone 1 time"
+ },
+ {
+  "id": "questdescription_final#0022",
+  "field": "manual",
+  "ko": "30레벨 달성",
+  "en": "Reach level 30"
+ },
+ {
+  "id": "questdescription_final#0023",
+  "field": "complete",
+  "ko": "30레벨 달성",
+  "en": "Reach level 30"
+ },
+ {
+  "id": "questdescription_final#0024",
+  "field": "manual",
+  "ko": "공략이 필요한 필드 보스:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\n필드 보스 1회 처치하기",
+  "en": "Field bosses to defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$,\n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$,\n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$\n\nDefeat a field boss 1 time"
+ },
+ {
+  "id": "questdescription_final#0025",
+  "field": "complete",
+  "ko": "공략이 필요한 필드 보스:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\n필드 보스 1회 처치하기",
+  "en": "Field bosses to defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$,\n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$,\n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$\n\nDefeat a field boss 1 time"
+ },
+ {
+  "id": "questdescription_final#0026",
+  "field": "manual",
+  "ko": "다른 사람 집 방문하기",
+  "en": "Visit another person's house"
+ },
+ {
+  "id": "questdescription_final#0027",
+  "field": "complete",
+  "ko": "다른 사람 집 방문하기",
+  "en": "Visit another person's house"
+ },
+ {
+  "id": "questdescription_final#0028",
+  "field": "manual",
+  "ko": "10레벨 달성 하기",
+  "en": "Reach Level 10",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0029",
+  "field": "complete",
+  "ko": "10레벨 달성 하기",
+  "en": "Reach Level 10",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0030",
+  "field": "manual",
+  "ko": "다른 사람 집 방문하기",
+  "en": "Visit another player's house",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0031",
+  "field": "complete",
+  "ko": "다른 사람 집 방문하기",
+  "en": "Visit another player's house",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0032",
+  "field": "manual",
+  "ko": "메이플 가이드 퀘스트 1개 완료",
+  "en": "Reach Level 30"
+ },
+ {
+  "id": "questdescription_final#0033",
+  "field": "complete",
+  "ko": "메이플 가이드 퀘스트 1개 완료",
+  "en": "Reach Level 30"
+ },
+ {
+  "id": "questdescription_final#0034",
+  "field": "manual",
+  "ko": "40레벨 달성",
+  "en": "Reach Level 35",
+  "n": 8
+ },
+ {
+  "id": "questdescription_final#0035",
+  "field": "complete",
+  "ko": "40레벨 달성",
+  "en": "Reach Level 35",
+  "n": 8
+ },
+ {
+  "id": "questdescription_final#0036",
+  "field": "manual",
+  "ko": "모험레벨 2레벨 달성",
+  "en": "Reach Level 45"
+ },
+ {
+  "id": "questdescription_final#0037",
+  "field": "complete",
+  "ko": "모험레벨 2레벨 달성",
+  "en": "Reach Level 45"
+ },
+ {
+  "id": "questdescription_final#0038",
+  "field": "manual",
+  "ko": "모험[어려움] 던전 보스 5회 처치",
+  "en": "Reach Level 50"
+ },
+ {
+  "id": "questdescription_final#0039",
+  "field": "complete",
+  "ko": "모험[어려움] 던전 보스 5회 처치",
+  "en": "Reach Level 50"
+ },
+ {
+  "id": "questdescription_final#0040",
+  "field": "complete",
+  "ko": "부서지는 물건 10개 부수기",
+  "en": "Break 10 destructible objects"
+ },
+ {
+  "id": "questdescription_final#0041",
+  "field": "desc",
+  "ko": "발렌타인 데이를 기념하여 $npc:11000508$$pp:가,이$ 달콤한 초콜릿을 준비했다고 한다. $npc:11000508$$pp:를,을$ 찾아가보자.",
+  "en": "In celebration of Valentine's Day, $npc:11000508$ has prepared some sweet chocolate. Let's go visit $npc:11000508$."
+ },
+ {
+  "id": "questdescription_final#0042",
+  "field": "manual",
+  "ko": "$npc:11000508$$pp:를,을$ 찾아가기",
+  "en": "Visit $npc:11000508$"
+ },
+ {
+  "id": "questdescription_final#0043",
+  "field": "complete",
+  "ko": "$npc:11000508$$pp:를,을$ 찾아가기",
+  "en": "Visit $npc:11000508$"
+ },
+ {
+  "id": "questdescription_final#0044",
+  "field": "name",
+  "ko": "동물과 교감하는 방법",
+  "en": "How to Bond with Animals"
+ },
+ {
+  "id": "questdescription_final#0045",
+  "field": "desc",
+  "ko": "어떻게 하면 동물과 친해질 수 있을지 방법을 잘 모르겠다면, 잘 훈련되어 사람과 친한 동물을 만나보는 것이 도움이 될 거라고 한다. 내 집이나 남의 집에 설치된 $item:50400004$에 사는 고양이 칼리를 만나 함께 놀며 교감해 보자.",
+  "en": "If you're not sure how to get close to animals, meeting a well-trained animal that's friendly with people would help. Visit Callie the cat living in a $item:50400004$ placed at your house or someone else's, and bond together through play."
+ },
+ {
+  "id": "questdescription_final#0046",
+  "field": "name",
+  "ko": "사람 많은 곳에서의 적응 훈련",
+  "en": "Adaptation Training in Crowded Places"
+ },
+ {
+  "id": "questdescription_final#0047",
+  "field": "desc",
+  "ko": "강아지는 사람 많은 곳에 가면 적응을 못 하고 어려움을 느끼는 경우가 있다고 한다. 그럴수록 천천히 익숙해질 수 있도록 도와주어야 한다고 하는데…\nMC $npc:11000787$$pp:가,이$ 이벤트 현장에는 사람이 많이 모여 적응 훈련을 하기 좋을 것 같다. 하지만 어린 강아지에게는 버거울 수 있다는 의견도 있다고 한다.\n$map:61000001$, $map:61000002$, $map:61000007$,$map:61000006$, $map:61000004$, $map:61000003$, $map:61000008$ 중 한 군데에 직접 가서 어린 강아지의 적응 훈련을 진행해도 될지 확인해 보자.",
+  "en": "Dogs can have trouble adapting to crowded places. When that happens, you need to help them get used to it slowly...\nMC $npc:11000787$'s event venues gather lots of people, which would be great for adaptation training. However, some say it might be too much for a young puppy.\nVisit one of $map:61000001$, $map:61000002$, $map:61000007$, $map:61000006$, $map:61000004$, $map:61000003$, or $map:61000008$ to check if it's suitable for the young puppy's adaptation training."
+ },
+ {
+  "id": "questdescription_final#0048",
+  "field": "name",
+  "ko": "함께하면 좋은 낚시",
+  "en": "Fishing Is Better Together"
+ },
+ {
+  "id": "questdescription_final#0049",
+  "field": "desc",
+  "ko": "퀸즈 동물 사랑 협회 사람들은 강아지와 함께 낚시를 즐긴다고 한다. 함께 시간을 보내며 놀 수 있는 것은 물론, 보호소에 있는 다른 동물들의 먹이를 마련할 수도 있기 때문이라고 하는데…\n좋은 취지의 활동인 만큼 함께 참여해 보면 좋을 것 같다. 낚시를 해보자.",
+  "en": "People at the Queen's Animal Love Association enjoy fishing with their dogs. Not only can they spend time together, but they can also provide food for other animals at the shelter...\nSince it's for a good cause, let's participate. Let's go fishing."
+ },
+ {
+  "id": "questdescription_final#0050",
+  "field": "name",
+  "ko": "돌풍의 소용돌이",
+  "en": "Whirlwind Vortex"
+ },
+ {
+  "id": "questdescription_final#0051",
+  "field": "desc",
+  "ko": "$map:02000180$$pp:를,을$ 휩쓸고 다니는 소용돌이 돌풍의 배후 $npc:22000007$!!\n녀석을 처치하고 돌풍을 잠재우자!",
+  "en": "$npc:22000007$, the one behind the whirlwind vortexes sweeping through $map:02000180$!!\nLet's defeat it and calm the gusts!"
+ },
+ {
+  "id": "questdescription_final#0052",
+  "field": "complete",
+  "ko": "$map:02000180$에서 $npcName:11000996$ 만나기",
+  "en": "Meet $npcName:11000996$ in $map:02000180$"
+ },
+ {
+  "id": "questdescription_final#0053",
+  "field": "name",
+  "ko": "귀환의 길",
+  "en": "Path of Return"
+ },
+ {
+  "id": "questdescription_final#0054",
+  "field": "desc",
+  "ko": "$map:02000001$에서 $npc:11000119$$pp:가,이$ 급히 찾고 있다는 소식을 전달 받았다. 무슨 일일까? \n$map:02000001$$pp2:로,으로$ 돌아가자.",
+  "en": "Word has come that $npc:11000119$ is urgently looking for you at $map:02000001$. What could it be?\nLet's head back to $map:02000001$."
+ },
+ {
+  "id": "questdescription_final#0055",
+  "field": "name",
+  "ko": "임무 완수",
+  "en": "Mission Complete"
+ },
+ {
+  "id": "questdescription_final#0056",
+  "field": "desc",
+  "ko": "$map:02000153$에서 서둘러 복귀하라는 소식이 전달됐다.\n$map:02000153$$pp2:로,으로$ 돌아가서 $npc:11000215$$pp:를,을$ 만나보자.",
+  "en": "Word has come from $map:02000153$ to return immediately.\nLet's go back to $map:02000153$ and meet $npc:11000215$."
+ },
+ {
+  "id": "questdescription_final#0057",
+  "field": "name",
+  "ko": "돌아갈 시간",
+  "en": "Time to Return"
+ },
+ {
+  "id": "questdescription_final#0058",
+  "field": "desc",
+  "ko": "$map:02000076$$pp2:로,으로$ 돌아가서 $npc:11000015$에게 $map:02000262$의 상황을 보고하자.",
+  "en": "Let's return to $map:02000076$ and report the situation in $map:02000262$ to $npc:11000015$."
+ },
+ {
+  "id": "questdescription_final#0059",
+  "field": "name",
+  "ko": "건강하게 달려갈게요",
+  "en": "Running Healthily"
+ },
+ {
+  "id": "questdescription_final#0060",
+  "field": "desc",
+  "ko": "바비와 함께하는 '그곳에 가고 싶다' 이벤트! \n메이플 월드의 이곳저곳을 신나게 달려보자.",
+  "en": "The 'I Want to Go There' event with Barbie!\nLet's excitedly run through Maple World."
+ },
+ {
+  "id": "questdescription_final#0061",
+  "field": "name",
+  "ko": "폴짝폴짝 뛰어가요",
+  "en": "Bouncing Along"
+ },
+ {
+  "id": "questdescription_final#0062",
+  "field": "desc",
+  "ko": "바비와 함께하는 '그곳에 가고 싶다' 이벤트! \n메이플 월드 하늘까지 닿도록 폴짝폴짝 점프$pp:를,을$ 해보자.",
+  "en": "The 'I Want to Go There' event with Barbie!\nLet's jump and bounce until we reach the skies of Maple World."
+ },
+ {
+  "id": "questdescription_final#0063",
+  "field": "name",
+  "ko": "빛처럼 날아갈게요",
+  "en": "Flying Like Light"
+ },
+ {
+  "id": "questdescription_final#0064",
+  "field": "desc",
+  "ko": "바비와 함께하는 '그곳에 가고 싶다' 이벤트! \n탈것에 몸을 실고 메이플 월드 이곳저곳을 구경해보자.",
+  "en": "The 'I Want to Go There' event with Barbie!\nHop on a mount and explore every corner of Maple World."
+ },
+ {
+  "id": "questdescription_final#0065",
+  "field": "name",
+  "ko": "미스 발렌타인을 찾아서",
+  "en": "Finding Miss Valentine",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0066",
+  "field": "desc",
+  "ko": "메이플 월드 화제의 인물을 다룬 단풍일보의 1주년 특집 기사를 본 $npc:11001002$$pp:는,은$ 지난 1년간의 추억을 떠올리며 사람들을 만나고 다녀 보자고 제안한다. \n모험가들로부터 초콜릿 받고 싶은 여자로 뽑힌 $map:02000117$의 지배자 $npc:22000022$. 부드러운 여자지만 야수의 본능을 감춘 그녀가 날뛰고 있는 건 아닌지 보고 오자.",
+  "en": "After reading Maple Daily's 1st anniversary special feature on notable people of Maple World, $npc:11001002$ suggests going out to meet people while reminiscing about the past year.\n$npc:22000022$, the ruler of $map:02000117$, was voted the woman adventurers most want to receive chocolate from. Let's go check if this gentle woman with hidden beast instincts is rampaging."
+ },
+ {
+  "id": "questdescription_final#0067",
+  "field": "name",
+  "ko": "과묵한 도시 남자",
+  "en": "The Quiet City Man",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0068",
+  "field": "desc",
+  "ko": "메이플 월드 화제의 인물을 다룬 단풍일보의 1주년 특집 기사를 본 $npc:11001002$$pp:는,은$ 지난 1년간의 추억을 떠올리며 사람들을 만나고 다녀 보자고 제안한다. \n깔끔한 옷차림의 차가운 도시 남자, $npc:11001374$를 만나러 $map:02010016$으로 가 보자.",
+  "en": "After reading Maple Daily's 1st anniversary special feature on notable people of Maple World, $npc:11001002$ suggests going out to meet people while reminiscing about the past year.\nLet's go to $map:02010016$ to meet $npc:11001374$, a cold city man with a neat appearance."
+ },
+ {
+  "id": "questdescription_final#0069",
+  "field": "name",
+  "ko": "바니바니단의 마스코트",
+  "en": "Mascot of the Bunny Bunny Troupe"
+ },
+ {
+  "id": "questdescription_final#0070",
+  "field": "desc",
+  "ko": "메이플 월드 화제의 인물을 다룬 단풍일보의 1주년 특집 기사를 본 $npc:11001002$$pp:는,은$ 지난 1년간의 추억을 떠올리며 사람들을 만나고 다녀 보자고 제안한다. \n자칭 바니바니단의 마스코트, 밝고 활기찬 미소가 아름다운 $npc:11000711$$pp:를,을$ 만나러 $map:02000064$으로 가 보자.",
+  "en": "After reading Maple Daily's 1st anniversary special feature on notable people of Maple World, $npc:11001002$ suggests going out to meet people while reminiscing about the past year.\nLet's go to $map:02000064$ to meet $npc:11000711$, the self-proclaimed mascot of the Bunny Bunny Troupe with a bright and energetic smile."
+ },
+ {
+  "id": "questdescription_final#0071",
+  "field": "name",
+  "ko": "아름다운 아이돌",
+  "en": "The Beautiful Idol"
+ },
+ {
+  "id": "questdescription_final#0072",
+  "field": "desc",
+  "ko": "메이플 월드 화제의 인물을 다룬 단풍일보의 1주년 특집 기사를 본 $npc:11001002$$pp:는,은$ 지난 1년간의 추억을 떠올리며 사람들을 만나고 다녀 보자고 제안한다. \n빅토리아 아일랜드 최고의 인기남이라는 $npc:11000406$의 팬미팅이 $map:02000137$에서 벌어지고 있다는데, 참석하러 가 보자.",
+  "en": "After reading Maple Daily's 1st anniversary special feature on notable people of Maple World, $npc:11001002$ suggests going out to meet people while reminiscing about the past year.\nA fan meeting for $npc:11000406$, said to be the most popular man on Victoria Island, is being held at $map:02000137$. Let's go attend."
+ },
+ {
+  "id": "questdescription_final#0073",
+  "field": "name",
+  "ko": "네모진 남자",
+  "en": "The Square-Headed Man",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0074",
+  "field": "desc",
+  "ko": "메이플 월드 화제의 인물을 다룬 단풍일보의 1주년 특집 기사를 본 $npc:11001002$$pp:는,은$ 지난 1년간의 추억을 떠올리며 사람들을 만나고 다녀 보자고 제안한다. \n$map:02000001$를 지키는 늠름한 남자 $npc:11000119$의 머리가 납작해 주전자를 올릴 수 있을 정도라던데, 과연 소문이 사실인지 만나러 가 보자.",
+  "en": "After reading Maple Daily's 1st anniversary special feature on notable people of Maple World, $npc:11001002$ suggests going out to meet people while reminiscing about the past year.\nRumor has it that $npc:11000119$, a valiant man who guards $map:02000001$, has such a flat head that you could place a kettle on it. Let's go see if the rumor is true."
+ },
+ {
+  "id": "questdescription_final#0075",
+  "field": "name",
+  "ko": "튼튼하게 만나요",
+  "en": "Meeting Strong"
+ },
+ {
+  "id": "questdescription_final#0076",
+  "field": "desc",
+  "ko": "메이플 월드 화제의 인물을 다룬 단풍일보의 1주년 특집 기사를 본 $npc:11001002$$pp:는,은$ 지난 1년간의 추억을 떠올리며 사람들을 만나고 다녀 보자고 제안한다. \n사람을 만날 때 자전거를 타고 다니고 싶지만 실력이 부족해 자전거 타기 연습을 하려고 홈쇼핑에서 $item:50400098$를 구매했다는 $npc:11001002$. 하지만 실내 운동 기구로는 자전거 타기 연습을 할 수 없을 거라는 오빠 $npc:11001003$의 말에 시무룩한 모습이다. $item:50400098$를 탑승해 보고, 자전거 연습에 이용할 수 있을지 후기를 들려 주자.",
+  "en": "After reading Maple Daily's 1st anniversary special feature on notable people of Maple World, $npc:11001002$ suggests going out to meet people while reminiscing about the past year.\n$npc:11001002$ wanted to ride a bicycle when meeting people but lacked the skill, so she bought $item:50400098$ from home shopping to practice. But her brother $npc:11001003$ says she can't practice cycling on indoor exercise equipment, making her sulk. Let's try riding $item:50400098$ and give her a review on whether it can be used for cycling practice."
+ },
+ {
+  "id": "questdescription_final#0077",
+  "field": "name",
+  "ko": "용사의 도전은 진행중",
+  "en": "The Hero's Challenge Continues"
+ },
+ {
+  "id": "questdescription_final#0078",
+  "field": "name",
+  "ko": "달에 닿을 때까지 점프 점프!",
+  "en": "Jump Jump Until We Reach the Moon!"
+ },
+ {
+  "id": "questdescription_final#0079",
+  "field": "desc",
+  "ko": "$npcName:11001003$가 추천하는 한가위 운동법!\n달에 닿을 때까지 높이 높이 뛰어보자!",
+  "en": "$npcName:11001003$'s recommended Chuseok exercise!\nLet's jump high until we reach the moon!"
+ },
+ {
+  "id": "questdescription_final#0080",
+  "field": "name",
+  "ko": "한가위에도 나는 달린다",
+  "en": "I Run Even on Chuseok"
+ },
+ {
+  "id": "questdescription_final#0081",
+  "field": "desc",
+  "ko": "$npcName:11001003$가 추천하는 한가위 운동법!\n친구들과 함께 신나게 달려보자!",
+  "en": "$npcName:11001003$'s recommended Chuseok exercise!\nLet's run excitedly with friends!"
+ },
+ {
+  "id": "questdescription_final#0082",
+  "field": "name",
+  "ko": "성장을 위한 고독한 도전!",
+  "en": "A Solitary Challenge for Growth!"
+ },
+ {
+  "id": "questdescription_final#0083",
+  "field": "desc",
+  "ko": "대담한 1주차 도전!\n\n1인 던전 공략에 성공하면,\n$item:20300512$$pp:를,을$ 획득할 수 있다.\n\n메이플 월드의 다양한 1인 던전:\n$map:02000328$, $map:02000329$, $map:02000331$, $map:02000334$,  $map:02000346$, $map:02000347$, $map:02000348$, \n$map:02010070$, $map:02010052$",
+  "en": "Bold Week 1 Challenge!\n\nSuccessfully clear a solo dungeon to obtain $item:20300512$.\n\nMaple World's various solo dungeons:\n$map:02000328$, $map:02000329$, $map:02000331$, $map:02000334$, $map:02000346$, $map:02000347$, $map:02000348$,\n$map:02010070$, $map:02010052$"
+ },
+ {
+  "id": "questdescription_final#0084",
+  "field": "manual",
+  "ko": "1인 던전 공략하기",
+  "en": "Clear a solo dungeon",
+  "n": 7
+ },
+ {
+  "id": "questdescription_final#0085",
+  "field": "name",
+  "ko": "MC 케이와 함께하는 신나는 도전!",
+  "en": "An Exciting Challenge with MC Kay!"
+ },
+ {
+  "id": "questdescription_final#0086",
+  "field": "desc",
+  "ko": "즐거운 2주차 도전!\n\nMC 케이가 준비한 다양한 이벤트들을 참여하면,\n$item:20300512$$pp:를,을$ 획득할 수 있다.\n\n도전이 필요한 MC 케이 이벤트:\n$map:61000003$, $map:61000004$, $map:61000006$, $map:61000007$, $map:61000008$, $map:61000001$, $map:61000002$",
+  "en": "Fun Week 2 Challenge!\n\nParticipate in the various events prepared by MC Kay to obtain $item:20300512$.\n\nMC Kay events that require challenge:\n$map:61000003$, $map:61000004$, $map:61000006$, $map:61000007$, $map:61000008$, $map:61000001$, $map:61000002$"
+ },
+ {
+  "id": "questdescription_final#0087",
+  "field": "manual",
+  "ko": "MC 케이 이벤트에 참여하기",
+  "en": "Participate in an MC Kay event",
+  "n": 8
+ },
+ {
+  "id": "questdescription_final#0088",
+  "field": "name",
+  "ko": "보물을 찾기 위한 특별한 도전!",
+  "en": "A Special Challenge for Treasure Hunting!"
+ },
+ {
+  "id": "questdescription_final#0089",
+  "field": "desc",
+  "ko": "끝없는 3주차 도전!\n\n메이플 월드 곳곳에 숨어있는 보물 상자를 찾으면,\n$item:20300512$$pp:를,을$ 획득할 수 있다.",
+  "en": "Endless Week 3 Challenge!\n\nFind treasure chests hidden throughout the Maple World to obtain $item:20300512$."
+ },
+ {
+  "id": "questdescription_final#0090",
+  "field": "manual",
+  "ko": "나무 보물 상자 찾기|황금 보물 상자 찾기",
+  "en": "Find Wooden Treasure Chests|Find Golden Treasure Chests"
+ },
+ {
+  "id": "questdescription_final#0091",
+  "field": "name",
+  "ko": "거침없는 우리들만의 도전!",
+  "en": "Our Unstoppable Challenge!"
+ },
+ {
+  "id": "questdescription_final#0092",
+  "field": "desc",
+  "ko": "위대한 4주차 도전!\n\n'$npcName:23000013$', '$npcName:23000018$', '$npcName:23000001$', '$npcName:23000019$', \n'$npcName:23000054$', '$npcName:23000020$', '$npcName:23000035$', '$npcName:23000099$', '$npcName:23000017$', '$npcName:23000047$', '$npcName:23000024$', '$npcName:23000034$', '$npcName:23000045$', '$npcName:23000057$', '$npcName:23000026$', '$npcName:23000012$', '$npcName:23000009$', '$npcName:23000029$' \n\n다음 보스들을 종류 관계없이 5회 처치에 성공한다면, $item:20300512$$pp:를,을$ 획득할 수 있다.",
+  "en": "Great Week 4 Challenge!\n\n'$npcName:23000013$', '$npcName:23000018$', '$npcName:23000001$', '$npcName:23000019$', \n'$npcName:23000054$', '$npcName:23000020$', '$npcName:23000035$', '$npcName:23000099$', '$npcName:23000017$', '$npcName:23000047$', '$npcName:23000024$', '$npcName:23000034$', '$npcName:23000045$', '$npcName:23000057$', '$npcName:23000026$', '$npcName:23000012$', '$npcName:23000009$', '$npcName:23000029$' \n\nDefeat any 5 of the above bosses regardless of type to obtain $item:20300512$."
+ },
+ {
+  "id": "questdescription_final#0093",
+  "field": "name",
+  "ko": "기계형 몬스터 정보 모으기",
+  "en": "Gather Machine Monster Information",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0094",
+  "field": "desc",
+  "ko": "몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 기계형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Defeat machine-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0095",
+  "field": "name",
+  "ko": "벌레형 몬스터 정보 모으기",
+  "en": "Gather Insect Monster Information",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0096",
+  "field": "desc",
+  "ko": "몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 벌레형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Defeat insect-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0097",
+  "field": "name",
+  "ko": "사물형 몬스터 정보 모으기",
+  "en": "Gather Object Monster Information",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0098",
+  "field": "desc",
+  "ko": "몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 사물형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Defeat object-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0099",
+  "field": "name",
+  "ko": "식물형 몬스터 정보 모으기",
+  "en": "Gather Plant Monster Information",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0100",
+  "field": "desc",
+  "ko": "몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 식물형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Defeat plant-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0101",
+  "field": "name",
+  "ko": "신수형 몬스터 정보 모으기",
+  "en": "Gather Divine Beast Monster Information",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0102",
+  "field": "desc",
+  "ko": "몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 신수형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Defeat divine beast-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0103",
+  "field": "name",
+  "ko": "악마형 몬스터 정보 모으기",
+  "en": "Gather Demon Monster Information",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0104",
+  "field": "desc",
+  "ko": "몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 악마형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Defeat demon-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0105",
+  "field": "name",
+  "ko": "야수형 몬스터 정보 모으기",
+  "en": "Gather Beast Monster Information",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0106",
+  "field": "desc",
+  "ko": "몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 야수형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Defeat beast-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0107",
+  "field": "name",
+  "ko": "언데드형 몬스터 정보 모으기",
+  "en": "Gather Undead Monster Information",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0108",
+  "field": "desc",
+  "ko": "몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 언데드형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Defeat undead-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0109",
+  "field": "name",
+  "ko": "요정형 몬스터 정보 모으기",
+  "en": "Gather Fairy Monster Information",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0110",
+  "field": "desc",
+  "ko": "몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 요정형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Defeat fairy-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0111",
+  "field": "name",
+  "ko": "인간형 몬스터 정보 모으기",
+  "en": "Gather Humanoid Monster Information",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0112",
+  "field": "desc",
+  "ko": "몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 인간형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Defeat humanoid-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0113",
+  "field": "name",
+  "ko": "정령형 몬스터 정보 모으기",
+  "en": "Gather Spirit Monster Information",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0114",
+  "field": "desc",
+  "ko": "몬스터 도감 사업을 꿈꾸고 있는 익명의 누군가를 위해 정령형 몬스터를 처치하여 정보를 모아주자.",
+  "en": "Defeat spirit-type monsters to gather information for an anonymous someone who dreams of running a monster encyclopedia business.",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0115",
+  "field": "desc",
+  "ko": "메이플 단풍 축제를 즐기는 또 하나의 방법!\n시원한 가을바람을 느끼며, 신나게 달려보자! ",
+  "en": "Another way to enjoy the Maple Autumn Festival!\nFeel the refreshing autumn breeze and run with excitement! ",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0116",
+  "field": "desc",
+  "ko": "메이플 단풍 축제를 즐기는 또 하나의 방법!\n파란 하늘을 향해 힘차게 점프를 해보자!",
+  "en": "Another way to enjoy the Maple Autumn Festival!\nJump vigorously toward the blue sky!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0117",
+  "field": "desc",
+  "ko": "메이플 단풍 축제를 즐기는 또 하나의 방법!\n탈것에 몸을 싣고, 메이플 이곳저곳을 구경해보자!",
+  "en": "Another way to enjoy the Maple Autumn Festival!\nHop on a mount and explore the sights of Maple World!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0118",
+  "field": "name",
+  "ko": "두둥실 날아보자!",
+  "en": "Let's Float and Fly!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0119",
+  "field": "desc",
+  "ko": "메이플 단풍 축제를 즐기는 또 하나의 방법!\n파란 하늘을 향해 두둥실 날아보자!",
+  "en": "Another way to enjoy the Maple Autumn Festival!\nFloat gently toward the blue sky!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0120",
+  "field": "desc",
+  "ko": "메이플 단풍 축제를 즐기는 또 하나의 방법!\n파란 하늘만큼 파란 물속에서 어푸어푸 헤엄을 쳐보자!",
+  "en": "Another way to enjoy the Maple Autumn Festival!\nSwim through the waters as blue as the sky above!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0121",
+  "field": "name",
+  "ko": "워밍업으로 가볍게 미션!",
+  "en": "A Light Warm-Up Mission!",
+  "n": 18
+ },
+ {
+  "id": "questdescription_final#0122",
+  "field": "desc",
+  "ko": "판타스틱 워밍업!\n달리기로 가볍게 몸을 풀고, 다음 미션으로 넘어가보자!",
+  "en": "Fantastic warm-up!\nLoosen up with a light run, then move on to the next mission!",
+  "n": 7
+ },
+ {
+  "id": "questdescription_final#0123",
+  "field": "desc",
+  "ko": "판타스틱 워밍업!\n가볍게 점프를 하며 몸을 풀고, 다음 미션으로 넘어가보자!",
+  "en": "Fantastic warm-up!\nLoosen up with some light jumps, then move on to the next mission!",
+  "n": 7
+ },
+ {
+  "id": "questdescription_final#0124",
+  "field": "desc",
+  "ko": "판타스틱 워밍업!\n$item:50400096$으로 가볍게 몸을 풀고, 다음 미션으로 넘어가요!",
+  "en": "Fantastic warm-up!\nLoosen up with $item:50400096$, then move on to the next mission!",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0125",
+  "field": "manual",
+  "ko": "$item:50400096$ 작동하기",
+  "en": "Activate $item:50400096$",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0126",
+  "field": "name",
+  "ko": "판타스틱한 미션!",
+  "en": "Fantastic Mission!",
+  "n": 18
+ },
+ {
+  "id": "questdescription_final#0127",
+  "field": "desc",
+  "ko": "판타스틱 미션!\n1인 던전 공략에 성공해보자.\n\n메이플 월드의 다양한 1인 던전:\n$map:02000328$, $map:02000329$, $map:02000331$, $map:02000334$,  $map:02000346$, $map:02000347$, $map:02000348$, \n$map:02010070$, $map:02010052$",
+  "en": "Fantastic mission!\nSuccessfully clear a solo dungeon.\n\nVarious solo dungeons in Maple World:\n$map:02000328$, $map:02000329$, $map:02000331$, $map:02000334$, $map:02000346$, $map:02000347$, $map:02000348$, \n$map:02010070$, $map:02010052$",
+  "n": 6
+ },
+ {
+  "id": "questdescription_final#0128",
+  "field": "desc",
+  "ko": "판타스틱 미션!\nMC 케이가 준비한 다양한 이벤트들을 참여해보자.\n\nMC 케이 이벤트:\n$map:61000003$, $map:61000004$, $map:61000006$, $map:61000007$, $map:61000008$, $map:61000001$, $map:61000002$",
+  "en": "Fantastic mission!\nParticipate in the various events prepared by MC Kay.\n\nMC Kay events:\n$map:61000003$, $map:61000004$, $map:61000006$, $map:61000007$, $map:61000008$, $map:61000001$, $map:61000002$",
+  "n": 6
+ },
+ {
+  "id": "questdescription_final#0129",
+  "field": "desc",
+  "ko": "판타스틱 미션!\n메이플 월드의 다양한 필드 보스를 처치해보자.\n\n메이플 월드의 다양한 필드 보스들:\n'$npcName:23000013$', '$npcName:23000018$', '$npcName:23000001$', '$npcName:23000019$', \n'$npcName:23000054$', '$npcName:23000020$', '$npcName:23000035$', '$npcName:23000099$', '$npcName:23000017$', '$npcName:23000047$', '$npcName:23000024$', '$npcName:23000034$', '$npcName:23000045$', '$npcName:23000057$', '$npcName:23000026$', '$npcName:23000012$', '$npcName:23000009$', '$npcName:23000029$' ",
+  "en": "Fantastic mission!\nDefeat the various field bosses of Maple World.\n\nVarious field bosses of Maple World:\n'$npcName:23000013$', '$npcName:23000018$', '$npcName:23000001$', '$npcName:23000019$', \n'$npcName:23000054$', '$npcName:23000020$', '$npcName:23000035$', '$npcName:23000099$', '$npcName:23000017$', '$npcName:23000047$', '$npcName:23000024$', '$npcName:23000034$', '$npcName:23000045$', '$npcName:23000057$', '$npcName:23000026$', '$npcName:23000012$', '$npcName:23000009$', '$npcName:23000029$' ",
+  "n": 6
+ },
+ {
+  "id": "questdescription_final#0130",
+  "field": "name",
+  "ko": "판타스틱한 특별 미션!",
+  "en": "Fantastic Special Mission!",
+  "n": 16
+ },
+ {
+  "id": "questdescription_final#0131",
+  "field": "desc",
+  "ko": "판타스틱한 특별 미션!\n메이플 월드의 카오스 던전 공략에 성공해보자!\n\n메이플 월드의 카오스 던전:\n$map:02000326$, $map:02000327$, $map:02000332$",
+  "en": "Fantastic special mission!\nSuccessfully clear a Chaos dungeon in Maple World!\n\nChaos dungeons in Maple World:\n$map:02000326$, $map:02000327$, $map:02000332$",
+  "n": 16
+ },
+ {
+  "id": "questdescription_final#0132",
+  "field": "manual",
+  "ko": "카오스 던전 공략하기",
+  "en": "Clear a Chaos dungeon",
+  "n": 16
+ },
+ {
+  "id": "questdescription_final#0133",
+  "field": "name",
+  "ko": "루비가 선물을 준비했어요!",
+  "en": "Ruby Has Prepared a Gift!"
+ },
+ {
+  "id": "questdescription_final#0134",
+  "field": "desc",
+  "ko": "$npc:11001002$가 준비한 $item:20300589$$pp:를,을$\n원한다면, 다시 한 번 $npc:11001002$$pp:와,과$ 대화해보자.\n\n$item:20300589$$pp:는,은$ 모험가의 다른 캐릭터로 옮길 수 있지만, 박스에서 얻은 미스틱 무기는 캐릭터에 귀속되며, 획득 후 30일 동안만 사용이 가능하다.",
+  "en": "If you want the $item:20300589$ prepared by $npc:11001002$, speak with $npc:11001002$ once more.\n\n$item:20300589$ can be transferred to another character on your account, but the Mystic weapon obtained from the box is character-bound and can only be used for 30 days after acquisition."
+ },
+ {
+  "id": "questdescription_final#0135",
+  "field": "name",
+  "ko": "크리스마스 모험이 시작된다!",
+  "en": "The Christmas Adventure Begins!"
+ },
+ {
+  "id": "questdescription_final#0136",
+  "field": "desc",
+  "ko": "$map:02000380$과 50레벨 모험 던전 중 하나를 공략해보자!\n\n공략이 필요한 던전 보스:\n$npc:24001601$, $npc:24001309$, $npc:24002201$, $npc:24001904$, $npc:24001807$, \n$npc:23100006$, $npc:23100033$, $npc:24002005$, \n$npc:23100056$, $npc:23190066$, $npc:24002701$,\n폭주열차 블랙노프호의 $npc:24001507$,\n난폭열차 블랙노프호의 $npc:24002109$.\n\n* 카오스 레이드 던전은 제외입니다.",
+  "en": "Clear $map:02000380$ or one of the Lv. 50 adventure dungeons!\n\nDungeon bosses to defeat:\n$npc:24001601$, $npc:24001309$, $npc:24002201$, $npc:24001904$, $npc:24001807$, \n$npc:23100006$, $npc:23100033$, $npc:24002005$, \n$npc:23100056$, $npc:23190066$, $npc:24002701$,\nRunaway Train Blacknorf's $npc:24001507$,\nRampage Train Blacknorf's $npc:24002109$.\n\n* Chaos Raid dungeons are excluded."
+ },
+ {
+  "id": "questdescription_final#0137",
+  "field": "name",
+  "ko": "새마음 새 뜻으로 뛰어보자!",
+  "en": "Run with a Fresh Start!"
+ },
+ {
+  "id": "questdescription_final#0138",
+  "field": "desc",
+  "ko": "새해를 맞아 $item:50400096$$pp:를,을$ 이용해 신나게 달려보자!",
+  "en": "Celebrate the new year by running excitedly using $item:50400096$!"
+ },
+ {
+  "id": "questdescription_final#0139",
+  "field": "name",
+  "ko": "닭과 함께 복닭복닭!",
+  "en": "Cluck Cluck with Chickens!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0140",
+  "field": "desc",
+  "ko": "새해를 맞아 닭 축사에서 닭을 키워 $item:33000026$$pp:를,을$ 획득해보자!",
+  "en": "Celebrate the new year by raising chickens in a chicken coop and obtaining $item:33000026$!"
+ },
+ {
+  "id": "questdescription_final#0141",
+  "field": "desc",
+  "ko": "새해를 맞아 $map:02000001$에 있는 $npc:11000119$$pp:와,과$ 대화를 나눠보자!",
+  "en": "Celebrate the new year by speaking with $npc:11000119$ in $map:02000001$!"
+ },
+ {
+  "id": "questdescription_final#0142",
+  "field": "name",
+  "ko": "닭 깃털 옷감이 부족해!",
+  "en": "Not Enough Chicken Feather Fabric!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0143",
+  "field": "desc",
+  "ko": "새해를 맞아 $item:33000026$$pp:를,을$ 사용해 $item:33000076$$pp:를,을$ 만들어보자!",
+  "en": "Celebrate the new year by using $item:33000026$ to craft $item:33000076$!"
+ },
+ {
+  "id": "questdescription_final#0144",
+  "field": "name",
+  "ko": "구리 주괴가 부족해!",
+  "en": "Not Enough Copper Ingots!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0145",
+  "field": "desc",
+  "ko": "새해를 맞아 $item:33000001$$pp:를,을$ 사용해 $item:33000063$$pp:를,을$ 만들어보자!",
+  "en": "Celebrate the new year by using $item:33000001$ to craft $item:33000063$!"
+ },
+ {
+  "id": "questdescription_final#0146",
+  "field": "name",
+  "ko": "새해에도 신나게 달려보자!",
+  "en": "Let's Run Excitedly in the New Year!"
+ },
+ {
+  "id": "questdescription_final#0147",
+  "field": "desc",
+  "ko": "새해를 맞아 신나게 달려보자!",
+  "en": "Celebrate the new year with an exciting run!"
+ },
+ {
+  "id": "questdescription_final#0148",
+  "field": "name",
+  "ko": "새해에는 더 클 거야!",
+  "en": "I'll Grow Taller This Year!"
+ },
+ {
+  "id": "questdescription_final#0149",
+  "field": "desc",
+  "ko": "새해를 맞아 높이높이 점프해보자!",
+  "en": "Celebrate the new year by jumping high!"
+ },
+ {
+  "id": "questdescription_final#0150",
+  "field": "name",
+  "ko": "너의 초코는.",
+  "en": "Your Chocolate Is..."
+ },
+ {
+  "id": "questdescription_final#0151",
+  "field": "desc",
+  "ko": "$item:20000452$ 5개, $item:30000729$ 3개, $item:30000730$ 1개, $item:20000027$ 5개를 모아보자!\n\n재료 획득 방법:\n* $item:20000452$ : 필드 곳곳에서 발견할 수 있는 초코볼 풍선 조사를 통해 획득 가능.\n* $item:30000729$ : 필드 보스 처치 시 획득 가능.\n* $item:30000730$ : '싱싱한 달걀을 가질 자격' 퀘스트 완료를 통해 획득 가능.",
+  "en": "Collect 5 $item:20000452$, 3 $item:30000729$, 1 $item:30000730$, and 5 $item:20000027$!\n\nHow to obtain materials:\n* $item:20000452$: Can be obtained by investigating Chocoball Balloons found throughout the fields.\n* $item:30000729$: Can be obtained by defeating field bosses.\n* $item:30000730$: Can be obtained by completing the 'Qualification to Have Fresh Eggs' quest."
+ },
+ {
+  "id": "questdescription_final#0152",
+  "field": "manual",
+  "ko": "$item:20000452$ 획득하기|$item:30000729$ 획득하기|$item:30000730$ 획득하기|$item:20000027$ 획득하기",
+  "en": "Obtain $item:20000452$|Obtain $item:30000729$|Obtain $item:30000730$|Obtain $item:20000027$"
+ },
+ {
+  "id": "questdescription_final#0153",
+  "field": "name",
+  "ko": "스타츠에게 마음을 전하세요!",
+  "en": "Deliver Your Heart to Startz!"
+ },
+ {
+  "id": "questdescription_final#0154",
+  "field": "desc",
+  "ko": "$map:02000001$에서 $npc:11000012$$pp:와,과$ 대화를 해보자!",
+  "en": "Speak with $npc:11000012$ at $map:02000001$!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0155",
+  "field": "name",
+  "ko": "이슈라에게 마음을 전하세요!",
+  "en": "Deliver Your Heart to Ishura!"
+ },
+ {
+  "id": "questdescription_final#0156",
+  "field": "name",
+  "ko": "위대한 용사는 누구인가?",
+  "en": "Who Is the Great Hero?"
+ },
+ {
+  "id": "questdescription_final#0157",
+  "field": "desc",
+  "ko": "아래 모험 던전 보스를 처치하고, $item:30000731$$pp:를,을$ 모아보자!\n\n공략이 필요한 던전 보스:\n$npc:24001309$, $npc:24002201$, $npc:24001904$, $npc:24001807$, $npc:23100006$, \n$npc:23100033$, $npc:24002005$, $npc:23100056$, $npc:23190066$, $npc:24002701$,\n폭주열차 블랙노프 1호의 $npc:24001507$,\n폭주열차 블랙노프 1호의 $npc:24002109$,\n피리스, 셀린, 에르다, $npc:24003101$, \n$npc:24003214$, $npc:23190105$, $npc:23190106$\n\n* 대양의 수호신 던전은 제외입니다.\n* 카오스 레이드 던전은 제외입니다.",
+  "en": "Defeat adventure dungeon bosses below and collect $item:30000731$!\n\nDungeon bosses to defeat:\n$npc:24001309$, $npc:24002201$, $npc:24001904$, $npc:24001807$, $npc:23100006$, \n$npc:23100033$, $npc:24002005$, $npc:23100056$, $npc:23190066$, $npc:24002701$,\nRunaway Train Blacknorf No. 1's $npc:24001507$,\nRunaway Train Blacknorf No. 1's $npc:24002109$,\nPiris, Seline, Erda, $npc:24003101$, \n$npc:24003214$, $npc:23190105$, $npc:23190106$\n\n* Guardian of the Ocean dungeon is excluded.\n* Chaos Raid dungeons are excluded."
+ },
+ {
+  "id": "questdescription_final#0158",
+  "field": "manual",
+  "ko": "$item:30000731$ 획득하기",
+  "en": "Obtain $item:30000731$"
+ },
+ {
+  "id": "questdescription_final#0159",
+  "field": "name",
+  "ko": "싱싱한 달걀을 가질 자격",
+  "en": "Qualification to Have Fresh Eggs"
+ },
+ {
+  "id": "questdescription_final#0160",
+  "field": "desc",
+  "ko": "모험 던전 보스를 처치해보자!\n\n공략이 필요한 던전 보스:\n$npc:24000409$, $npc:22000047$, $npc:23100007$, $npc:23100025$, $npc:23100077$, $npc:24001601$, $npc:24001309$, $npc:24002201$, $npc:24001904$, $npc:24001807$, $npc:23100006$, 피리스, 셀린, 에르다, $npc:24003101$, $npc:24003214$, $npc:23190105$, $npc:23190106$ 등\n \n* 생명의 틈 던전은 제외입니다.\n* 용맹의 시험장 던전은 제외입니다.\n* 대양의 수호신 던전은 제외입니다.\n* 카오스 레이드 던전은 제외입니다.",
+  "en": "Defeat an adventure dungeon boss!\n\nDungeon bosses to defeat:\n$npc:24000409$, $npc:22000047$, $npc:23100007$, $npc:23100025$, $npc:23100077$, $npc:24001601$, $npc:24001309$, $npc:24002201$, $npc:24001904$, $npc:24001807$, $npc:23100006$, Piris, Seline, Erda, $npc:24003101$, $npc:24003214$, $npc:23190105$, $npc:23190106$, etc.\n\n* Rift of Life dungeon is excluded.\n* Trial of Valor dungeon is excluded.\n* Guardian of the Ocean dungeon is excluded.\n* Chaos Raid dungeons are excluded."
+ },
+ {
+  "id": "questdescription_final#0161",
+  "field": "desc",
+  "ko": "메이플 월드에 방문해 준 모험가님들을 위해 $npc:11001003$$pp:가,이$ 특별한 선물을 준비했다고 한다. $npc:11001003$$pp:를,을$ 찾아가보자.",
+  "en": "$npc:11001003$ has prepared a special gift for adventurers who visited Maple World. Let's go find $npc:11001003$."
+ },
+ {
+  "id": "questdescription_final#0162",
+  "field": "manual",
+  "ko": "$npc:11001003$$pp:를,을$ 찾아가기",
+  "en": "Visit $npc:11001003$"
+ },
+ {
+  "id": "questdescription_final#0163",
+  "field": "complete",
+  "ko": "$npc:11001003$$pp:를,을$ 찾아가기",
+  "en": "Visit $npc:11001003$"
+ },
+ {
+  "id": "questdescription_final#0164",
+  "field": "desc",
+  "ko": "따뜻한 봄을 시기하는 사악한 존재들이 봄의 기운을 빼앗아가고 있다고 한다. 필드 곳곳에 나타나는 엘리트 몬스터들을 해치우고 봄의 기운을 10개 모아서 루비에게 가져다 주자.",
+  "en": "Evil beings who envy the warm spring are stealing the energy of spring. Defeat the elite monsters appearing throughout the fields and collect 10 Spring Energy to bring to Ruby."
+ },
+ {
+  "id": "questdescription_final#0165",
+  "field": "manual",
+  "ko": "봄의 기운을 10개 모으기",
+  "en": "Collect 10 Spring Energy"
+ },
+ {
+  "id": "questdescription_final#0166",
+  "field": "complete",
+  "ko": "$map:02000064$에서 루비와 대화하기",
+  "en": "Speak with Ruby at $map:02000064$"
+ },
+ {
+  "id": "questdescription_final#0167",
+  "field": "name",
+  "ko": "깨끗하게 목욕은 필수!",
+  "en": "A Clean Bath is Essential!"
+ },
+ {
+  "id": "questdescription_final#0168",
+  "field": "desc",
+  "ko": "$item:50400091$$pp:를,을$ 이용해 반신욕을 즐겨보자!",
+  "en": "Enjoy a half-body bath using $item:50400091$!"
+ },
+ {
+  "id": "questdescription_final#0169",
+  "field": "name",
+  "ko": "오늘도 건강하게!",
+  "en": "Stay Healthy Today!"
+ },
+ {
+  "id": "questdescription_final#0170",
+  "field": "desc",
+  "ko": "$item:50400096$$pp:를,을$ 이용해 신나게 달려보자!",
+  "en": "Run excitedly using $item:50400096$!"
+ },
+ {
+  "id": "questdescription_final#0171",
+  "field": "desc",
+  "ko": "닭 축사에서 닭을 키워 $item:33000026$$pp:를,을$ 획득해보자!",
+  "en": "Raise chickens in a chicken coop and obtain $item:33000026$!"
+ },
+ {
+  "id": "questdescription_final#0172",
+  "field": "desc",
+  "ko": "구리 광맥에서 $item:33000001$$pp:를,을$ 채광하여 획득해보자!",
+  "en": "Mine $item:33000001$ from copper veins!"
+ },
+ {
+  "id": "questdescription_final#0173",
+  "field": "name",
+  "ko": "잘 지내나요?",
+  "en": "How Are You Doing?",
+  "n": 6
+ },
+ {
+  "id": "questdescription_final#0174",
+  "field": "desc",
+  "ko": "$map:02000076$에 있는 $npc:11000001$$pp:와,과$ 대화를 나눠보자!",
+  "en": "Speak with $npc:11000001$ in $map:02000076$!"
+ },
+ {
+  "id": "questdescription_final#0175",
+  "field": "desc",
+  "ko": "$map:02010063$에 있는 $npc:11001386$$pp:와,과$ 대화를 나눠보자!",
+  "en": "Speak with $npc:11001386$ in $map:02010063$!"
+ },
+ {
+  "id": "questdescription_final#0176",
+  "field": "desc",
+  "ko": "$map:02000146$에 있는 $npc:11000076$$pp:와,과$ 대화를 나눠보자!",
+  "en": "Speak with $npc:11000076$ in $map:02000146$!"
+ },
+ {
+  "id": "questdescription_final#0177",
+  "field": "desc",
+  "ko": "$map:02000001$에 있는 $npc:11000119$$pp:와,과$ 대화를 나눠보자!",
+  "en": "Speak with $npc:11000119$ in $map:02000001$!"
+ },
+ {
+  "id": "questdescription_final#0178",
+  "field": "desc",
+  "ko": "$map:02000023$에 있는 $npc:11000031$$pp:와,과$ 대화를 나눠보자!",
+  "en": "Speak with $npc:11000031$ in $map:02000023$!"
+ },
+ {
+  "id": "questdescription_final#0179",
+  "field": "desc",
+  "ko": "$map:02000100$에 있는 $npc:11000252$$pp:와,과$ 대화를 나눠보자!",
+  "en": "Speak with $npc:11000252$ in $map:02000100$!"
+ },
+ {
+  "id": "questdescription_final#0180",
+  "field": "desc",
+  "ko": "$item:33000026$$pp:를,을$ 사용해 $item:33000076$$pp:를,을$ 만들어보자!",
+  "en": "Use $item:33000026$ to craft $item:33000076$!"
+ },
+ {
+  "id": "questdescription_final#0181",
+  "field": "desc",
+  "ko": "$item:33000001$$pp:를,을$ 사용해 $item:33000063$$pp:를,을$ 만들어보자!",
+  "en": "Use $item:33000001$ to craft $item:33000063$!"
+ },
+ {
+  "id": "questdescription_final#0182",
+  "field": "name",
+  "ko": "오늘도 신나게 달려보자!",
+  "en": "Let's Run Excitedly Today!"
+ },
+ {
+  "id": "questdescription_final#0183",
+  "field": "desc",
+  "ko": "신나게 달려보자!",
+  "en": "Let's run with excitement!"
+ },
+ {
+  "id": "questdescription_final#0184",
+  "field": "name",
+  "ko": "오늘은 더 클 거야!",
+  "en": "I'll Grow Taller Today!"
+ },
+ {
+  "id": "questdescription_final#0185",
+  "field": "desc",
+  "ko": "높이높이 점프해보자!",
+  "en": "Jump high into the sky!"
+ },
+ {
+  "id": "questdescription_final#0186",
+  "field": "name",
+  "ko": "건강하게 달려갈게요",
+  "en": "I'll Run There Healthily"
+ },
+ {
+  "id": "questdescription_final#0187",
+  "field": "desc",
+  "ko": "바비와 함께하는 '그곳에 가고 싶다' 이벤트! \n메이플 월드의 이곳저곳을 신나게 달려보자.",
+  "en": "'I Want to Go There' event with Barbie!\nRun excitedly through all of Maple World."
+ },
+ {
+  "id": "questdescription_final#0188",
+  "field": "name",
+  "ko": "폴짝폴짝 뛰어가요",
+  "en": "Hop Hop, Jumping Along"
+ },
+ {
+  "id": "questdescription_final#0189",
+  "field": "desc",
+  "ko": "바비와 함께하는 '그곳에 가고 싶다' 이벤트! \n메이플 월드 하늘까지 닿도록 폴짝폴짝 점프$pp:를,을$ 해보자.",
+  "en": "'I Want to Go There' event with Barbie!\nJump high enough to reach the Maple World sky!"
+ },
+ {
+  "id": "questdescription_final#0190",
+  "field": "name",
+  "ko": "빛처럼 날아갈게요",
+  "en": "I'll Fly Like the Light"
+ },
+ {
+  "id": "questdescription_final#0191",
+  "field": "desc",
+  "ko": "바비와 함께하는 '그곳에 가고 싶다' 이벤트! \n탈것에 몸을 실고 메이플 월드 이곳저곳을 구경해보자.",
+  "en": "'I Want to Go There' event with Barbie!\nHop on a mount and explore all of Maple World."
+ },
+ {
+  "id": "questdescription_final#0192",
+  "field": "desc",
+  "ko": "메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. \n모험가들로부터 초콜릿 받고 싶은 여자로 뽑힌 $map:02000117$의 지배자 $npc:22000022$. 부드러운 여자지만 야수의 본능을 감춘 그녀가 날뛰고 있는 건 아닌지 보고 오자.",
+  "en": "After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.\nVoted by adventurers as the woman they most want to receive chocolate from, the ruler of $map:02000117$, $npc:22000022$. A soft woman who hides a beast's instincts — let's go check if she's rampaging again."
+ },
+ {
+  "id": "questdescription_final#0193",
+  "field": "desc",
+  "ko": "메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. \n깔끔한 옷차림의 차가운 도시 남자, $npc:11001374$를 만나러 $map:02010016$으로 가 보자.",
+  "en": "After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.\nGo to $map:02010016$ to meet the cool city man with neat attire, $npc:11001374$."
+ },
+ {
+  "id": "questdescription_final#0194",
+  "field": "name",
+  "ko": "바니바니단의 마스코트",
+  "en": "Mascot of the Bunny Bunny Gang"
+ },
+ {
+  "id": "questdescription_final#0195",
+  "field": "desc",
+  "ko": "메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. \n자칭 바니바니단의 마스코트, 밝고 활기찬 미소가 아름다운 $npc:11000711$$pp:를,을$ 만나러 $map:02000064$으로 가 보자.",
+  "en": "After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.\nLet's go to $map:02000064$ to meet $npc:11000711$, the self-proclaimed mascot of the Bunny Bunny Gang, who has a beautiful bright and cheerful smile."
+ },
+ {
+  "id": "questdescription_final#0196",
+  "field": "name",
+  "ko": "아름다운 아이돌",
+  "en": "A Beautiful Idol"
+ },
+ {
+  "id": "questdescription_final#0197",
+  "field": "desc",
+  "ko": "메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. \n빅토리아 아일랜드 최고의 인기남이라는 $npc:11000406$의 팬미팅이 $map:02000137$에서 벌어지고 있다는데, 참석하러 가 보자.",
+  "en": "After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.\nVictoria Island's most popular man $npc:11000406$ is holding a fan meeting at $map:02000137$. Let's go attend it."
+ },
+ {
+  "id": "questdescription_final#0198",
+  "field": "desc",
+  "ko": "메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. \n$map:02000001$를 지키는 늠름한 남자 $npc:11000119$의 머리가 납작해 주전자를 올릴 수 있을 정도라던데, 과연 소문이 사실인지 만나러 가 보자.",
+  "en": "After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.\nThere's a rumor that the gallant man $npc:11000119$ who guards $map:02000001$ has a head so flat you could put a kettle on it. Let's go find out if the rumor is true."
+ },
+ {
+  "id": "questdescription_final#0199",
+  "field": "name",
+  "ko": "튼튼하게 만나요",
+  "en": "Let's Meet Fit and Strong"
+ },
+ {
+  "id": "questdescription_final#0200",
+  "field": "desc",
+  "ko": "메이플 월드 화제의 인물을 다룬 단풍일보의 넘버원 페스티벌 특집 기사를 본 $npc:11001002$$pp:는,은$ 메이플 월드의 넘버원 모험가가 되기 위해사람들을 만나고 다녀 보자고 제안한다. \n사람을 만날 때 자전거를 타고 다니고 싶지만 실력이 부족해 자전거 타기 연습을 하려고 홈쇼핑에서 $item:50400098$를 구매했다는 $npc:11001002$. 하지만 실내 운동 기구로는 자전거 타기 연습을 할 수 없을 거라는 오빠 $npc:11001003$의 말에 시무룩한 모습이다. $item:50400098$를 탑승해 보고, 자전거 연습에 이용할 수 있을지 후기를 들려 주자.",
+  "en": "After reading the Maple Daily's Number One Festival special article about famous people of Maple World, $npc:11001002$ suggests meeting people to become Maple World's number one adventurer.\n$npc:11001002$ wanted to ride a bicycle when meeting people but lacked the skill, so she bought $item:50400098$ from home shopping to practice. However, she looks dejected after her brother $npc:11001003$ said you can't practice cycling on an indoor exercise machine. Try riding $item:50400098$ and share your review on whether it can be used for bicycle practice."
+ },
+ {
+  "id": "questdescription_final#0201",
+  "field": "desc",
+  "ko": "아래 커플 진영 필드 보스들을 처치하여 솔로부대의 자격을 증명해 보이자!\n\n커플 진영 필드 보스:\n'$npc:23000001$', '$npc:23000019$', '$npc:23000035$', '$npc:23000017$',  '$npc:23000034$', '$npc:23000009$', '$npc:23000029$', '$npc:23000057$'",
+  "en": "Defeat the couple faction field bosses below to prove your qualification for the Solo Squad!\n\nCouple faction field bosses:\n'$npc:23000001$', '$npc:23000019$', '$npc:23000035$', '$npc:23000017$', '$npc:23000034$', '$npc:23000009$', '$npc:23000029$', '$npc:23000057$'"
+ },
+ {
+  "id": "questdescription_final#0202",
+  "field": "manual",
+  "ko": "커플 진영 필드 보스 처치하기",
+  "en": "Defeat a couple faction field boss",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0203",
+  "field": "desc",
+  "ko": "아래 솔로 진영 필드 보스들을 처치하여 커플부대의 자격을 증명해 보이자!\n\n솔로 진영 필드 보스:\n'$npc:23000054$', '$npc:23000020$', '$npc:23000099$', '$npc:23000047$',  '$npc:23000024$', '$npc:23000045$', '$npc:23000026$', \n'$npc:23000012$'",
+  "en": "Defeat the solo faction field bosses below to prove your qualification for the Couple Squad!\n\nSolo faction field bosses:\n'$npc:23000054$', '$npc:23000020$', '$npc:23000099$', '$npc:23000047$', '$npc:23000024$', '$npc:23000045$', '$npc:23000026$', \n'$npc:23000012$'"
+ },
+ {
+  "id": "questdescription_final#0204",
+  "field": "manual",
+  "ko": "솔로 진영 필드 보스 처치하기",
+  "en": "Defeat a solo faction field boss",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0205",
+  "field": "name",
+  "ko": "커플도 솔로도 함께해요!",
+  "en": "Couples and Solos Together!"
+ },
+ {
+  "id": "questdescription_final#0206",
+  "field": "desc",
+  "ko": "20레벨 이상 필드 보스를 처치해보자!\n\n20레벨 이상 필드 보스:\n$npc:23000001$, $npc:23000019$, $npc:23000054$, $npc:23000020$, \n$npc:23000035$, $npc:23000099$, $npc:23000017$, $npc:23000047$, \n$npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$",
+  "en": "Defeat a Lv. 20+ field boss!\n\nLv. 20+ field bosses:\n$npc:23000001$, $npc:23000019$, $npc:23000054$, $npc:23000020$, \n$npc:23000035$, $npc:23000099$, $npc:23000017$, $npc:23000047$, \n$npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$"
+ },
+ {
+  "id": "questdescription_final#0207",
+  "field": "manual",
+  "ko": "20레벨 이상 필드 보스 처치하기",
+  "en": "Defeat a Lv. 20+ field boss"
+ },
+ {
+  "id": "questdescription_final#0208",
+  "field": "desc",
+  "ko": "아래 보스들을 처치하여 글자 '$item:30000754$', '$item:30000755$', '$item:30000756$', '$item:30000757$' 을 모아보자!\n\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$",
+  "en": "Defeat the bosses below to collect the letters '$item:30000754$', '$item:30000755$', '$item:30000756$', '$item:30000757$'!\n\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000009$, $npc:23000029$, $npc:23000057$"
+ },
+ {
+  "id": "questdescription_final#0209",
+  "field": "manual",
+  "ko": "글자 '$item:30000754$' 획득하기|글자 '$item:30000755$' 획득하기|글자 '$item:30000756$' 획득하기|글자 '$item:30000757$' 획득하기",
+  "en": "Obtain the letter '$item:30000754$'|Obtain the letter '$item:30000755$'|Obtain the letter '$item:30000756$'|Obtain the letter '$item:30000757$'"
+ },
+ {
+  "id": "questdescription_final#0210",
+  "field": "name",
+  "ko": "가디언즈 오브 메이플",
+  "en": "Guardians of Maple"
+ },
+ {
+  "id": "questdescription_final#0211",
+  "field": "desc",
+  "ko": "던전 클리어 20회 미만의 도움이 필요한 모험가와 함께 이벤트 대상 던전 공략에 성공하면, '$item:30000778$'$pp:를,을$ 획득할 수 있다.\n'$item:30000778$' 30개 획득 시, '히어로의 탄생' 엠블럼 달성과 함께 '히어로' 칭호도 받을 수 있다고 하니 꼭 도전해보자!\n\n이벤트 대상 던전:\n- 레이드 던전: 루벨리스크, 룬의 성전, 비욘드 링크 트리스, 서릿발 신전, 마드라칸 첨탑\n- 카오스 레이드 던전: 루벨리스크, 루디브리엄 시계탑, 룬의 성전, 비욘드 링크 트리스, 마드라칸 첨탑",
+  "en": "Clear an event dungeon with an adventurer who has fewer than 20 dungeon clears and needs help to obtain '$item:30000778$'.\nCollecting 30 '$item:30000778$' will unlock the 'Birth of a Hero' emblem along with the 'Hero' title, so be sure to give it a try!\n\nEvent dungeons:\n- Raid Dungeons: Lubelisk, Temple of Rune, Beyond Link Tris, Frost Temple, Madrakhan Spire\n- Chaos Raid Dungeons: Lubelisk, Ludibrium Clock Tower, Temple of Rune, Beyond Link Tris, Madrakhan Spire",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0212",
+  "field": "manual",
+  "ko": "$item:30000778$$pp:를,을$ 3개 모으기",
+  "en": "Collect 3 $item:30000778$",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0213",
+  "field": "name",
+  "ko": "히어로즈 오브 메이플",
+  "en": "Heroes of Maple"
+ },
+ {
+  "id": "questdescription_final#0214",
+  "field": "name",
+  "ko": "마크52 알파를 처치해주세요!",
+  "en": "Please Defeat Mark 52 Alpha!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0215",
+  "field": "desc",
+  "ko": "$map:02000145$에서 '$npc:23000054$'를 처치하여\n불멸의 힘의 기운을 지닐 자격을 증명해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000054$' at $map:02000145$ to prove your qualification to wield the power of immortality!\n\nWith the help of other adventurers, it's definitely possible to clear, so take courage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0216",
+  "field": "manual",
+  "ko": "$npc:23000054$ 처치하기",
+  "en": "Defeat $npc:23000054$",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0217",
+  "field": "name",
+  "ko": "그리피나를 처치해주세요!",
+  "en": "Please Defeat Griffina!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0218",
+  "field": "desc",
+  "ko": "$map:02000088$에서 '$npc:23000020$'를 처치하여\n불멸의 힘의 기운을 지닐 자격을 증명해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000020$' at $map:02000088$ to prove your qualification to wield the power of immortality!\n\nWith the help of other adventurers, it's definitely possible to clear, so take courage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0219",
+  "field": "manual",
+  "ko": "$npc:23000020$ 처치하기",
+  "en": "Defeat $npc:23000020$",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0220",
+  "field": "name",
+  "ko": "바야르 수문장을 처치해주세요!",
+  "en": "Please Defeat Gatekeeper Bayar!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0221",
+  "field": "desc",
+  "ko": "$map:02000021$에서 '$npc:23000099$'을 처치하여\n불멸의 힘의 기운을 지닐 자격을 증명해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000099$' at $map:02000021$ to prove your qualification to wield the power of immortality!\n\nWith the help of other adventurers, it's definitely possible to clear, so take courage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0222",
+  "field": "manual",
+  "ko": "$npc:23000099$ 처치하기",
+  "en": "Defeat $npc:23000099$",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0223",
+  "field": "name",
+  "ko": "레르노스를 처치해주세요!",
+  "en": "Please Defeat Lernos!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0224",
+  "field": "desc",
+  "ko": "$map:02000214$에서 '$npc:23000047$'를 처치하여\n불멸의 힘의 기운을 지닐 자격을 증명해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000047$' at $map:02000214$ to prove your qualification to wield the power of immortality!\n\nWith the help of other adventurers, it's definitely possible to clear, so take courage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0225",
+  "field": "manual",
+  "ko": "$npc:23000047$ 처치하기",
+  "en": "Defeat $npc:23000047$",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0226",
+  "field": "name",
+  "ko": "분노의 바포메트를 처치해주세요!",
+  "en": "Please Defeat Baphomet of Rage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0227",
+  "field": "desc",
+  "ko": "$map:02000181$에서 '$npc:23000024$'를 처치하여\n불멸의 힘의 기운을 지닐 자격을 증명해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000024$' at $map:02000181$ to prove your qualification to wield the power of immortality!\n\nWith the help of other adventurers, it's definitely possible to clear, so take courage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0228",
+  "field": "manual",
+  "ko": "$npc:23000024$ 처치하기",
+  "en": "Defeat $npc:23000024$",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0229",
+  "field": "name",
+  "ko": "페카노스를 처치해주세요!",
+  "en": "Please Defeat Pecanos!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0230",
+  "field": "desc",
+  "ko": "$map:02000044$에서 '$npc:23000045$'를 처치하여\n불멸의 힘의 기운을 지닐 자격을 증명해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000045$' at $map:02000044$ to prove your qualification to wield the power of immortality!\n\nWith the help of other adventurers, it's definitely possible to clear, so take courage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0231",
+  "field": "manual",
+  "ko": "$npc:23000045$ 처치하기",
+  "en": "Defeat $npc:23000045$",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0232",
+  "field": "name",
+  "ko": "냉혈한 바포메트를 처치해주세요!",
+  "en": "Please Defeat Cold-Blooded Baphomet!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0233",
+  "field": "desc",
+  "ko": "$map:02000260$에서 '$npc:23000026$'를 처치하여\n불멸의 힘의 기운을 지닐 자격을 증명해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000026$' at $map:02000260$ to prove your qualification to wield the power of immortality!\n\nWith the help of other adventurers, it's definitely possible to clear, so take courage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0234",
+  "field": "manual",
+  "ko": "$npc:23000026$ 처치하기",
+  "en": "Defeat $npc:23000026$",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0235",
+  "field": "name",
+  "ko": "이카르 마드를 처치해주세요!",
+  "en": "Please Defeat Ikar Mad!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0236",
+  "field": "desc",
+  "ko": "$map:02000176$에서 '$npc:23000012$'를 처치하여\n불멸의 힘의 기운을 지닐 자격을 증명해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000012$' at $map:02000176$ to prove your qualification to wield the power of immortality!\n\nWith the help of other adventurers, it's definitely possible to clear, so take courage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0237",
+  "field": "manual",
+  "ko": "$npc:23000012$ 처치하기",
+  "en": "Defeat $npc:23000012$",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0238",
+  "field": "name",
+  "ko": "데블린 워리어를 처치해주세요!",
+  "en": "Please Defeat Devlin Warrior!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0239",
+  "field": "desc",
+  "ko": "$map:02000115$에서 '$npc:23000001$'를 처치하여\n불멸의 힘의 기운을 지닐 자격을 증명해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000001$' at $map:02000115$ to prove your qualification to wield the power of immortality!\n\nWith the help of other adventurers, it's definitely possible to clear, so take courage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0240",
+  "field": "manual",
+  "ko": "$npc:23000001$ 처치하기",
+  "en": "Defeat $npc:23000001$",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0241",
+  "field": "name",
+  "ko": "그리폰을 처치해주세요!",
+  "en": "Please Defeat Griffon!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0242",
+  "field": "desc",
+  "ko": "$map:02000085$에서 '$npc:23000019$'을 처치하여\n불멸의 힘의 기운을 지닐 자격을 증명해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000019$' at $map:02000085$ to prove your qualification to wield the power of immortality!\n\nWith the help of other adventurers, it's definitely possible to clear, so take courage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0243",
+  "field": "manual",
+  "ko": "$npc:23000019$ 처치하기",
+  "en": "Defeat $npc:23000019$",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0244",
+  "field": "name",
+  "ko": "로로와 무무스를 처치해주세요!",
+  "en": "Please Defeat Roro and Mumus!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0245",
+  "field": "desc",
+  "ko": "$map:02000103$에서 '$npc:23000035$'를 처치하여\n불멸의 힘의 기운을 지닐 자격을 증명해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000035$' at $map:02000103$ to prove your qualification to wield the power of immortality!\n\nWith the help of other adventurers, it's definitely possible to clear, so take courage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0246",
+  "field": "manual",
+  "ko": "$npc:23000035$ 처치하기",
+  "en": "Defeat $npc:23000035$",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0247",
+  "field": "name",
+  "ko": "알파 터틀을 처치해주세요!",
+  "en": "Please Defeat Alpha Turtle!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0248",
+  "field": "desc",
+  "ko": "$map:02000022$에서 '$npc:23000017$'을 처치하여\n불멸의 힘의 기운을 지닐 자격을 증명해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000017$' at $map:02000022$ to prove your qualification to wield the power of immortality!\n\nWith the help of other adventurers, it's definitely possible to clear, so take courage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0249",
+  "field": "manual",
+  "ko": "$npc:23000017$ 처치하기",
+  "en": "Defeat $npc:23000017$",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0250",
+  "field": "name",
+  "ko": "토토와 구구스를 처치해주세요!",
+  "en": "Please Defeat Toto and Gugus!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0251",
+  "field": "desc",
+  "ko": "$map:02000169$에서 '$npc:23000034$'를 처치하여\n불멸의 힘의 기운을 지닐 자격을 증명해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000034$' at $map:02000169$ to prove your qualification to wield the power of immortality!\n\nWith the help of other adventurers, it's definitely possible to clear, so take courage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0252",
+  "field": "manual",
+  "ko": "$npc:23000034$ 처치하기",
+  "en": "Defeat $npc:23000034$",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0253",
+  "field": "name",
+  "ko": "우레우스를 처치해주세요!",
+  "en": "Please Defeat Ureus!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0254",
+  "field": "desc",
+  "ko": "$map:02010027$에서 '$npc:23000009$'를 처치하여\n불멸의 힘의 기운을 지닐 자격을 증명해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000009$' at $map:02010027$ to prove your qualification to wield the power of immortality!\n\nWith the help of other adventurers, it's definitely possible to clear, so take courage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0255",
+  "field": "manual",
+  "ko": "$npc:23000009$ 처치하기",
+  "en": "Defeat $npc:23000009$",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0256",
+  "field": "name",
+  "ko": "아크레온을 처치해주세요!",
+  "en": "Please Defeat Acreon!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0257",
+  "field": "desc",
+  "ko": "$map:02010022$에서 '$npc:23000029$'을 처치하여\n불멸의 힘의 기운을 지닐 자격을 증명해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000029$' at $map:02010022$ to prove your qualification to wield the power of immortality!\n\nWith the help of other adventurers, it's definitely possible to clear, so take courage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0258",
+  "field": "manual",
+  "ko": "$npc:23000029$ 처치하기",
+  "en": "Defeat $npc:23000029$",
+  "n": 4
+ },
+ {
+  "id": "questdescription_final#0259",
+  "field": "name",
+  "ko": "아마돈을 처치해주세요!",
+  "en": "Please Defeat Amadon!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0260",
+  "field": "desc",
+  "ko": "$map:02010020$에서 '$npc:23000057$'$pp:를,을$ 처치하여\n불멸의 힘의 기운을 지닐 자격을 증명해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000057$' at $map:02010020$ to prove your qualification to wield the power of immortality!\n\nWith the help of other adventurers, it's definitely possible to clear, so take courage!",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0261",
+  "field": "manual",
+  "ko": "$npc:23000057$ 처치하기",
+  "en": "Defeat $npc:23000057$",
+  "n": 3
+ },
+ {
+  "id": "questdescription_final#0262",
+  "field": "name",
+  "ko": "불멸의 기운을 담은 무기",
+  "en": "Weapon Imbued with Immortal Energy",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0263",
+  "field": "desc",
+  "ko": "$npc:11001003$에게서 '불멸의 기운을 지닐 자격' 일일 퀘스트를 완료하여 '$item:30000777$'$pp:를,을$ 모아보자!\n레전더리 등급의 불멸의 무기 인챈트 13단계$pp:를,을$ 얻을 수 있는 아주 특별한 기회이니 절대 놓치지 말자!",
+  "en": "Complete the 'Qualification to Wield Immortal Power' daily quest from $npc:11001003$ and collect '$item:30000777$'!\nThis is a very special opportunity to obtain a Legendary-grade Immortal weapon with Enchant Level 13, so don't miss it!"
+ },
+ {
+  "id": "questdescription_final#0264",
+  "field": "manual",
+  "ko": "$item:30000777$ 100개 모으기",
+  "en": "Collect 100 $item:30000777$"
+ },
+ {
+  "id": "questdescription_final#0265",
+  "field": "name",
+  "ko": "위대한 최초의 기사",
+  "en": "The Great First Knight"
+ },
+ {
+  "id": "questdescription_final#0266",
+  "field": "desc",
+  "ko": "던전 클리어 20회 미만의 도움이 필요한 모험가와 함께 이벤트 대상 던전 공략에 성공하면, '$item:30000784$'$pp:를,을$ 획득할 수 있다.\n'$item:30000784$' 30개 획득 시, '메이플 월드 최초의 기사' 엠블럼 달성과 함께 '최초의 기사' 칭호도 받을 수 있다고 하니 꼭 도전해보자!\n\n이벤트 대상 던전:\n- 레이드 던전: 루벨리스크, 룬의 성전, 비욘드 링크 트리스, 서릿발 신전, 마드라칸 첨탑\n- 카오스 레이드 던전: 루벨리스크, 루디브리엄 시계탑, 룬의 성전, 비욘드 링크 트리스, 마드라칸 첨탑",
+  "en": "Clear an event dungeon with an adventurer who has fewer than 20 dungeon clears and needs help to obtain '$item:30000784$'.\nCollecting 30 '$item:30000784$' will unlock the 'First Knight of Maple World' emblem along with the 'First Knight' title, so be sure to give it a try!\n\nEvent dungeons:\n- Raid Dungeons: Lubelisk, Temple of Rune, Beyond Link Tris, Frost Temple, Madrakhan Spire\n- Chaos Raid Dungeons: Lubelisk, Ludibrium Clock Tower, Temple of Rune, Beyond Link Tris, Madrakhan Spire",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0267",
+  "field": "manual",
+  "ko": "$item:30000784$$pp:를,을$ 3개 모으기",
+  "en": "Collect 3 $item:30000784$",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0268",
+  "field": "name",
+  "ko": "진정한 최초의 기사",
+  "en": "The True First Knight"
+ },
+ {
+  "id": "questdescription_final#0269",
+  "field": "desc",
+  "ko": "$npc:11001003$에게서 '불멸의 기운을 지닐 자격' 일일 퀘스트를 완료하여 '$item:30000785$'$pp:를,을$ 모아보자!\n레전더리 등급의 불멸의 무기 인챈트 13단계$pp:를,을$ 얻을 수 있는 아주 특별한 기회이니 절대 놓치지 말자!",
+  "en": "Complete the 'Qualification to Wield Immortal Power' daily quest from $npc:11001003$ and collect '$item:30000785$'!\nThis is a very special opportunity to obtain a Legendary-grade Immortal weapon with Enchant Level 13, so don't miss it!"
+ },
+ {
+  "id": "questdescription_final#0270",
+  "field": "manual",
+  "ko": "$item:30000785$ 100개 모으기",
+  "en": "Collect 100 $item:30000785$"
+ },
+ {
+  "id": "questdescription_final#0271",
+  "field": "name",
+  "ko": "자쿰 풍선을 찾아보자쿰",
+  "en": "Let's Find the Zakum Balloon!"
+ },
+ {
+  "id": "questdescription_final#0272",
+  "field": "desc",
+  "ko": "메이플 월드 곳곳에서 자쿰 풍선을 찾아 조사해보자!\n매일 10회 조사를 완료하면, $npc:11001002$에게서 \n'$item:20000596$' 10개를 받을 수 있다.\n\n$item:20000596$ 100개 획득 시, '자쿰자쿰 먹고싶어' 엠블럼이 자동으로 달성되며, 엠블럼 달성 보상으로 \n'말을 하자쿰' 말풍선 배지를 획득할 수 있다.\t\n\n* 자쿰 풍선은 전 필드에 10분 단위로 출현해서 5분 동안 유지된다.",
+  "en": "Search for Zakum Balloons throughout Maple World!\nComplete 10 searches daily to receive 10 '$item:20000596$' from $npc:11001002$.\n\nUpon obtaining 100 $item:20000596$, the 'I Want to Eat Zakum' emblem will be automatically achieved, and you can obtain the 'Let's Talk Zakum' speech bubble badge as an emblem achievement reward.\n\n* Zakum Balloons appear in all fields every 10 minutes and last for 5 minutes."
+ },
+ {
+  "id": "questdescription_final#0273",
+  "field": "name",
+  "ko": "2주년 기념 마크를 찾아봐요!",
+  "en": "Find the 2nd Anniversary Marks!"
+ },
+ {
+  "id": "questdescription_final#0274",
+  "field": "desc",
+  "ko": "아래 필드 보스들을 처치하여 $item:30000781$$pp:를,을$ 모아보자!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' ",
+  "en": "Defeat the field bosses below to collect $item:30000781$!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$',\n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$' "
+ },
+ {
+  "id": "questdescription_final#0275",
+  "field": "manual",
+  "ko": "$item:30000781$ 획득하기",
+  "en": "Obtain $item:30000781$"
+ },
+ {
+  "id": "questdescription_final#0276",
+  "field": "name",
+  "ko": "위대한 던전 고수",
+  "en": "Great Dungeon Master"
+ },
+ {
+  "id": "questdescription_final#0277",
+  "field": "desc",
+  "ko": "던전 클리어 20회 미만의 도움이 필요한 모험가와 함께 이벤트 대상 던전 공략에 성공하면, '$item:30000868$'$pp:를,을$ 획득할 수 있다.\n\n이벤트 대상 던전:\n- 레이드 던전: 루벨리스크, 룬의 성전, 비욘드 링크 트리스, 서릿발 신전, 마드라칸 첨탑\n- 카오스 레이드 던전: 루벨리스크, 루디브리엄 시계탑, 룬의 성전, 비욘드 링크 트리스, 마드라칸 첨탑",
+  "en": "Clear an event dungeon together with an adventurer who has fewer than 20 dungeon clears and needs help to obtain '$item:30000868$'.\n\nEvent Dungeons:\n- Raid Dungeons: Lubelisk, Sanctuary of the Rune, Beyond Link Tris, Frost Pillar Temple, Madrakkan Spire\n- Chaos Raid Dungeons: Lubelisk, Ludibrium Clock Tower, Sanctuary of the Rune, Beyond Link Tris, Madrakkan Spire",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0278",
+  "field": "manual",
+  "ko": "$item:30000868$ 3개 모으기",
+  "en": "Collect 3 $item:30000868$",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0279",
+  "field": "name",
+  "ko": "진정한 던전 고수",
+  "en": "True Dungeon Master"
+ },
+ {
+  "id": "questdescription_final#0280",
+  "field": "name",
+  "ko": "부농부농 핑크빈이 아른거려!!",
+  "en": "Pink Bean Keeps Appearing in My Mind!!"
+ },
+ {
+  "id": "questdescription_final#0281",
+  "field": "desc",
+  "ko": "메이플 월드 곳곳에서 핑크빈 풍선을 찾아 조사해보자!\n매일 10회 조사를 완료하면, $npc:11001002$에게서 사용 즉시 경험치를 300,000 증가시키는 '$item:20000622$'을 받을 수 있다.\n\n$item:20000622$ 10개 획득 시, '핑크빈이 부농부농해!' 엠블럼이 자동으로 달성되며, 엠블럼 달성 보상으로 '핑크한 핑크빈' 말풍선 배지를 획득할 수 있다.\t\n\n* 핑크빈 풍선은 전 필드에 10분 단위로 출현해서 5분 동안 유지된다.",
+  "en": "Search for Pink Bean Balloons throughout Maple World!\nComplete 10 searches daily to receive '$item:20000622$' from $npc:11001002$, which instantly grants 300,000 EXP upon use.\n\nUpon obtaining 10 $item:20000622$, the 'Pink Bean is Excited!' emblem will be automatically achieved, and you can obtain the 'Pink Pink Bean' speech bubble badge as an emblem achievement reward.\n\n* Pink Bean Balloons appear in all fields every 10 minutes and last for 5 minutes."
+ },
+ {
+  "id": "questdescription_final#0282",
+  "field": "manual",
+  "ko": "핑크빈 풍선 조사하기",
+  "en": "Search Pink Bean Balloons"
+ },
+ {
+  "id": "questdescription_final#0283",
+  "field": "name",
+  "ko": "GM촬리가 위험해!!",
+  "en": "GM Chali is in Danger!!"
+ },
+ {
+  "id": "questdescription_final#0284",
+  "field": "desc",
+  "ko": "$map:02000409$에서 '메이플 월드는 지금' 촬영 중 불의의 사고를 당한 GM촬리를 구출해보자!\n$map:02000409$에 있는 $npc:29000307$ 비석을 부수면 $npc:29000307$를 구출할 수 있다.\n\n* 리버스 레이드 던전인 '$map:02000409$'은 입장 요구 레벨이 50레벨이며, 주말에만 입장이 가능합니다.",
+  "en": "Rescue GM Chali who had an accident while filming 'Maple World Now' at $map:02000409$!\nDestroy the $npc:29000307$ tombstone in $map:02000409$ to rescue $npc:29000307$.\n\n* The Reverse Raid dungeon '$map:02000409$' requires level 50 to enter and is only accessible on weekends."
+ },
+ {
+  "id": "questdescription_final#0285",
+  "field": "manual",
+  "ko": "$npc:29000307$ 비석 부수기",
+  "en": "Destroy the $npc:29000307$ tombstone"
+ },
+ {
+  "id": "questdescription_final#0286",
+  "field": "name",
+  "ko": "데일리 미션 : 마크52 알파",
+  "en": "Daily Mission: MK 52 Alpha"
+ },
+ {
+  "id": "questdescription_final#0287",
+  "field": "desc",
+  "ko": "$map:02000145$에서 '$npc:23000054$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000054$' at $map:02000145$ to complete Barbosa's daily mission!\n\nFear not! You can attack with fellow adventurers!"
+ },
+ {
+  "id": "questdescription_final#0288",
+  "field": "manual",
+  "ko": "$npc:23000054$ 처치하기",
+  "en": "Defeat $npcName:23000054$"
+ },
+ {
+  "id": "questdescription_final#0289",
+  "field": "name",
+  "ko": "데일리 미션 : 그리피나",
+  "en": "Daily Mission: Griffina"
+ },
+ {
+  "id": "questdescription_final#0290",
+  "field": "desc",
+  "ko": "$map:02000088$에서 '$npc:23000020$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000020$' at $map:02000088$ to complete Barbosa's daily mission!\n\nFear not! You can attack with fellow adventurers!"
+ },
+ {
+  "id": "questdescription_final#0291",
+  "field": "manual",
+  "ko": "$npc:23000020$ 처치하기",
+  "en": "Defeat $npcName:23000020$"
+ },
+ {
+  "id": "questdescription_final#0292",
+  "field": "name",
+  "ko": "데일리 미션 : 바야르 수문장",
+  "en": "Daily Mission: Vayar Gatekeeper"
+ },
+ {
+  "id": "questdescription_final#0293",
+  "field": "desc",
+  "ko": "$map:02000021$에서 '$npc:23000099$'을 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000099$' at $map:02000021$ to complete Barbosa's daily mission!\n\nFear not! You can attack with fellow adventurers!"
+ },
+ {
+  "id": "questdescription_final#0294",
+  "field": "manual",
+  "ko": "$npc:23000099$ 처치하기",
+  "en": "Defeat $npcName:23000099$"
+ },
+ {
+  "id": "questdescription_final#0295",
+  "field": "name",
+  "ko": "데일리 미션 : 레르노스",
+  "en": "Daily Mission: Lernos"
+ },
+ {
+  "id": "questdescription_final#0296",
+  "field": "desc",
+  "ko": "$map:02000214$에서 '$npc:23000047$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000047$' at $map:02000214$ to complete Barbosa's daily mission!\n\nFear not! You can attack with fellow adventurers!"
+ },
+ {
+  "id": "questdescription_final#0297",
+  "field": "manual",
+  "ko": "$npc:23000047$ 처치하기",
+  "en": "Defeat $npcName:23000047$"
+ },
+ {
+  "id": "questdescription_final#0298",
+  "field": "name",
+  "ko": "데일리 미션 : 분노의 바포메트",
+  "en": "Daily Mission: Furious Baphomet"
+ },
+ {
+  "id": "questdescription_final#0299",
+  "field": "desc",
+  "ko": "$map:02000181$에서 '$npc:23000024$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000024$' at $map:02000181$ to complete Barbosa's daily mission!\n\nFear not! You can attack with fellow adventurers!"
+ },
+ {
+  "id": "questdescription_final#0300",
+  "field": "manual",
+  "ko": "$npc:23000024$ 처치하기",
+  "en": "Defeat $npcName:23000024$"
+ },
+ {
+  "id": "questdescription_final#0301",
+  "field": "name",
+  "ko": "데일리 미션 : 페카노스",
+  "en": "Daily Mission: Pekanos"
+ },
+ {
+  "id": "questdescription_final#0302",
+  "field": "desc",
+  "ko": "$map:02000044$에서 '$npc:23000045$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000045$' at $map:02000044$ to complete Barbosa's daily mission!\n\nFear not! You can attack with fellow adventurers!"
+ },
+ {
+  "id": "questdescription_final#0303",
+  "field": "manual",
+  "ko": "$npc:23000045$ 처치하기",
+  "en": "Defeat $npcName:23000045$"
+ },
+ {
+  "id": "questdescription_final#0304",
+  "field": "name",
+  "ko": "데일리 미션 : 냉혈한 바포메트",
+  "en": "Daily Mission: Heartless Baphomet"
+ },
+ {
+  "id": "questdescription_final#0305",
+  "field": "desc",
+  "ko": "$map:02000260$에서 '$npc:23000026$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000026$' at $map:02000260$ to complete Barbosa's daily mission!\n\nFear not! You can attack with fellow adventurers!"
+ },
+ {
+  "id": "questdescription_final#0306",
+  "field": "manual",
+  "ko": "$npc:23000026$ 처치하기",
+  "en": "Defeat $npcName:23000026$"
+ },
+ {
+  "id": "questdescription_final#0307",
+  "field": "name",
+  "ko": "데일리 미션 : 이카르 마드",
+  "en": "Daily Mission: Ikar Morde"
+ },
+ {
+  "id": "questdescription_final#0308",
+  "field": "desc",
+  "ko": "$map:02000176$에서 '$npc:23000012$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000012$' at $map:02000176$ to complete Barbosa's daily mission!\n\nFear not! You can attack with fellow adventurers!"
+ },
+ {
+  "id": "questdescription_final#0309",
+  "field": "manual",
+  "ko": "$npc:23000012$ 처치하기",
+  "en": "Defeat $npcName:23000012$"
+ },
+ {
+  "id": "questdescription_final#0310",
+  "field": "name",
+  "ko": "데일리 미션 : 데블린 워리어",
+  "en": "Daily Mission: Devilin Warrior"
+ },
+ {
+  "id": "questdescription_final#0311",
+  "field": "desc",
+  "ko": "$map:02000115$에서 '$npc:23000001$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000001$' at $map:02000115$ to complete Barbosa's daily mission!\n\nFear not! You can attack with fellow adventurers!"
+ },
+ {
+  "id": "questdescription_final#0312",
+  "field": "manual",
+  "ko": "$npc:23000001$ 처치하기",
+  "en": "Defeat $npcName:23000001$"
+ },
+ {
+  "id": "questdescription_final#0313",
+  "field": "name",
+  "ko": "데일리 미션 : 그리폰",
+  "en": "Daily Mission: Griffin"
+ },
+ {
+  "id": "questdescription_final#0314",
+  "field": "desc",
+  "ko": "$map:02000085$에서 '$npc:23000019$'을 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000019$' at $map:02000085$ to complete Barbosa's daily mission!\n\nFear not! You can attack with fellow adventurers!"
+ },
+ {
+  "id": "questdescription_final#0315",
+  "field": "manual",
+  "ko": "$npc:23000019$ 처치하기",
+  "en": "Defeat $npcName:23000019$"
+ },
+ {
+  "id": "questdescription_final#0316",
+  "field": "name",
+  "ko": "데일리 미션 : 로로와 무무스",
+  "en": "Daily Mission: Lo and Moomoo"
+ },
+ {
+  "id": "questdescription_final#0317",
+  "field": "desc",
+  "ko": "$map:02000103$에서 '$npc:23000035$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000035$' at $map:02000103$ to complete Barbosa's daily mission!\n\nFear not! You can attack with fellow adventurers!"
+ },
+ {
+  "id": "questdescription_final#0318",
+  "field": "manual",
+  "ko": "$npc:23000035$ 처치하기",
+  "en": "Defeat $npcName:23000035$"
+ },
+ {
+  "id": "questdescription_final#0319",
+  "field": "name",
+  "ko": "데일리 미션 : 알파 터틀",
+  "en": "Daily Mission: Alpha Turtle"
+ },
+ {
+  "id": "questdescription_final#0320",
+  "field": "desc",
+  "ko": "$map:02000022$에서 '$npc:23000017$'을 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000017$' at $map:02000022$ to complete Barbosa's daily mission!\n\nFear not! You can attack with fellow adventurers!"
+ },
+ {
+  "id": "questdescription_final#0321",
+  "field": "manual",
+  "ko": "$npc:23000017$ 처치하기",
+  "en": "Defeat $npcName:23000017$"
+ },
+ {
+  "id": "questdescription_final#0322",
+  "field": "name",
+  "ko": "데일리 미션 : 토토와 구구스",
+  "en": "Daily Mission: Toh and Googoo"
+ },
+ {
+  "id": "questdescription_final#0323",
+  "field": "desc",
+  "ko": "$map:02000169$에서 '$npc:23000034$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000034$' at $map:02000169$ to complete Barbosa's daily mission!\n\nFear not! You can attack with fellow adventurers!"
+ },
+ {
+  "id": "questdescription_final#0324",
+  "field": "manual",
+  "ko": "$npc:23000034$ 처치하기",
+  "en": "Defeat $npcName:23000034$"
+ },
+ {
+  "id": "questdescription_final#0325",
+  "field": "name",
+  "ko": "데일리 미션 :  우레우스",
+  "en": "Daily Mission: Ureus"
+ },
+ {
+  "id": "questdescription_final#0326",
+  "field": "desc",
+  "ko": "$map:02010027$에서 '$npc:23000009$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000009$' at $map:02010027$ to complete Barbosa's daily mission!\n\nFear not! You can attack with fellow adventurers!"
+ },
+ {
+  "id": "questdescription_final#0327",
+  "field": "manual",
+  "ko": "$npc:23000009$ 처치하기",
+  "en": "Defeat $npcName:23000009$"
+ },
+ {
+  "id": "questdescription_final#0328",
+  "field": "name",
+  "ko": "데일리 미션 : 아크레온",
+  "en": "Daily Mission: Acreon"
+ },
+ {
+  "id": "questdescription_final#0329",
+  "field": "desc",
+  "ko": "$map:02010022$에서 '$npc:23000029$'을 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000029$' at $map:02010022$ to complete Barbosa's daily mission!\n\nFear not! You can attack with fellow adventurers!"
+ },
+ {
+  "id": "questdescription_final#0330",
+  "field": "manual",
+  "ko": "$npc:23000029$ 처치하기",
+  "en": "Defeat $npcName:23000029$"
+ },
+ {
+  "id": "questdescription_final#0331",
+  "field": "name",
+  "ko": "데일리 미션 : 아마돈",
+  "en": "Daily Mission: Amadon"
+ },
+ {
+  "id": "questdescription_final#0332",
+  "field": "desc",
+  "ko": "$map:02010020$에서 '$npc:23000057$'을 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000057$' at $map:02010020$ to complete Barbosa's daily mission!\n\nFear not! You can attack with fellow adventurers!"
+ },
+ {
+  "id": "questdescription_final#0333",
+  "field": "manual",
+  "ko": "$npc:23000057$ 처치하기",
+  "en": "Defeat $npcName:23000057$"
+ },
+ {
+  "id": "questdescription_final#0334",
+  "field": "name",
+  "ko": "보물을 향한 고독한 도전!",
+  "en": "Solo Challenge for Treasure!",
+  "n": 5
+ },
+ {
+  "id": "questdescription_final#0335",
+  "field": "desc",
+  "ko": "바르보사의 주간 미션을 완료하고, 바르보사의 열쇠 업그레이드 재료인 $item:30000881$를 받자.\n\n바르보사의 주간 미션은\n필드 보스 5마리 처치하기, 모험 던전 보스 5마리 처치하기, 오늘의 미션 10회 완료하기이다.\n\n* 바르보사의 주간 미션은 매주 한 번만 완료할 수 있습니다.",
+  "en": "Complete Barbosa's weekly mission to get $item:30000881$, Barbosa's key upgrade material.\n\nBarbosa's weekly mission includes defeating 5 field bosses, 5 adventure dungeon bosses, and completing today's mission 10 times.\n\n*You can complete Barbosa's weekly mission once per week.",
+  "n": 5
+ },
+ {
+  "id": "questdescription_final#0336",
+  "field": "manual",
+  "ko": "필드 보스 처치하기|모험 던전 보스 처치하기|길라잡이 오늘의 미션 완료하기",
+  "en": "Defeat field bosses|Defeat adventure dungeon bosses|Complete today's Navigator mission",
+  "n": 5
+ },
+ {
+  "id": "questdescription_final#0337",
+  "field": "name",
+  "ko": "꼭꼭 숨어라 머리카락 보일라~",
+  "en": "Hide and Seek, I See Your Hair~"
+ },
+ {
+  "id": "questdescription_final#0338",
+  "field": "desc",
+  "ko": "메이플 월드 곳곳에서 휴먼 메럿을 찾아 쓰다듬어보자!\n\n* 휴먼 메럿은 전 필드에 10분 단위로 출현해서 5분 동안 유지된다.",
+  "en": "Find and pet Human Merets throughout Maple World!\n\n* Human Merets appear in all fields every 10 minutes and last for 5 minutes."
+ },
+ {
+  "id": "questdescription_final#0339",
+  "field": "name",
+  "ko": "데일리 미션 : 마크52 알파 처치",
+  "en": "Daily Mission: Defeat Mark 52 Alpha",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0340",
+  "field": "desc",
+  "ko": "$map:02000145$에서 '$npc:23000054$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000054$' at $map:02000145$ to complete Barbosa's daily mission!\n\nWith the help of other adventurers, you can definitely clear it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0341",
+  "field": "name",
+  "ko": "데일리 미션 : 그리피나 처치",
+  "en": "Daily Mission: Defeat Griffina",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0342",
+  "field": "desc",
+  "ko": "$map:02000088$에서 '$npc:23000020$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000020$' at $map:02000088$ to complete Barbosa's daily mission!\n\nWith the help of other adventurers, you can definitely clear it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0343",
+  "field": "name",
+  "ko": "데일리 미션 : 바야르 수문장 처치",
+  "en": "Daily Mission: Defeat Gatekeeper Bayar",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0344",
+  "field": "desc",
+  "ko": "$map:02000021$에서 '$npc:23000099$'을 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000099$' at $map:02000021$ to complete Barbosa's daily mission!\n\nWith the help of other adventurers, you can definitely clear it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0345",
+  "field": "name",
+  "ko": "데일리 미션 : 레르노스 처치",
+  "en": "Daily Mission: Defeat Lernos",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0346",
+  "field": "desc",
+  "ko": "$map:02000214$에서 '$npc:23000047$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000047$' at $map:02000214$ to complete Barbosa's daily mission!\n\nWith the help of other adventurers, you can definitely clear it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0347",
+  "field": "name",
+  "ko": "데일리 미션 : 분노의 바포메트 처치",
+  "en": "Daily Mission: Defeat Baphomet of Rage",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0348",
+  "field": "desc",
+  "ko": "$map:02000181$에서 '$npc:23000024$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000024$' at $map:02000181$ to complete Barbosa's daily mission!\n\nWith the help of other adventurers, you can definitely clear it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0349",
+  "field": "name",
+  "ko": "데일리 미션 : 페카노스 처치",
+  "en": "Daily Mission: Defeat Pekanos",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0350",
+  "field": "desc",
+  "ko": "$map:02000044$에서 '$npc:23000045$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000045$' at $map:02000044$ to complete Barbosa's daily mission!\n\nWith the help of other adventurers, you can definitely clear it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0351",
+  "field": "name",
+  "ko": "데일리 미션 : 냉혈한 바포메트 처치",
+  "en": "Daily Mission: Defeat Cold-Blooded Baphomet",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0352",
+  "field": "desc",
+  "ko": "$map:02000260$에서 '$npc:23000026$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000026$' at $map:02000260$ to complete Barbosa's daily mission!\n\nWith the help of other adventurers, you can definitely clear it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0353",
+  "field": "name",
+  "ko": "데일리 미션 : 이카르 마드 처치",
+  "en": "Daily Mission: Defeat Ikar Mad",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0354",
+  "field": "desc",
+  "ko": "$map:02000176$에서 '$npc:23000012$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000012$' at $map:02000176$ to complete Barbosa's daily mission!\n\nWith the help of other adventurers, you can definitely clear it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0355",
+  "field": "name",
+  "ko": "데일리 미션 : 데블린 워리어 처치",
+  "en": "Daily Mission: Defeat Devlin Warrior",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0356",
+  "field": "desc",
+  "ko": "$map:02000115$에서 '$npc:23000001$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000001$' at $map:02000115$ to complete Barbosa's daily mission!\n\nWith the help of other adventurers, you can definitely clear it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0357",
+  "field": "name",
+  "ko": "데일리 미션 : 그리폰 처치",
+  "en": "Daily Mission: Defeat Griffon",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0358",
+  "field": "desc",
+  "ko": "$map:02000085$에서 '$npc:23000019$'을 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000019$' at $map:02000085$ to complete Barbosa's daily mission!\n\nWith the help of other adventurers, you can definitely clear it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0359",
+  "field": "name",
+  "ko": "데일리 미션 : 로로와 무무스 처치",
+  "en": "Daily Mission: Defeat Roro and Mumus",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0360",
+  "field": "desc",
+  "ko": "$map:02000103$에서 '$npc:23000035$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000035$' at $map:02000103$ to complete Barbosa's daily mission!\n\nWith the help of other adventurers, you can definitely clear it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0361",
+  "field": "name",
+  "ko": "데일리 미션 : 알파 터틀 처치",
+  "en": "Daily Mission: Defeat Alpha Turtle",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0362",
+  "field": "desc",
+  "ko": "$map:02000022$에서 '$npc:23000017$'을 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000017$' at $map:02000022$ to complete Barbosa's daily mission!\n\nWith the help of other adventurers, you can definitely clear it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0363",
+  "field": "name",
+  "ko": "데일리 미션 : 토토와 구구스 처치",
+  "en": "Daily Mission: Defeat Toto and Gugus",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0364",
+  "field": "desc",
+  "ko": "$map:02000169$에서 '$npc:23000034$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000034$' at $map:02000169$ to complete Barbosa's daily mission!\n\nWith the help of other adventurers, you can definitely clear it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0365",
+  "field": "name",
+  "ko": "데일리 미션 :  우레우스 처치",
+  "en": "Daily Mission: Defeat Ureus",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0366",
+  "field": "desc",
+  "ko": "$map:02010027$에서 '$npc:23000009$'를 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000009$' at $map:02010027$ to complete Barbosa's daily mission!\n\nWith the help of other adventurers, you can definitely clear it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0367",
+  "field": "name",
+  "ko": "데일리 미션 : 아크레온 처치",
+  "en": "Daily Mission: Defeat Acreon",
+  "n": 2
+ },
+ {
+  "id": "questdescription_final#0368",
+  "field": "desc",
+  "ko": "$map:02010022$에서 '$npc:23000029$'을 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000029$' at $map:02010022$ to complete Barbosa's daily mission!\n\nWith the help of other adventurers, you can definitely clear it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0369",
+  "field": "name",
+  "ko": "데일리 미션 : 아마돈 처치",
+  "en": "Daily Mission: Defeat Amadon"
+ },
+ {
+  "id": "questdescription_final#0370",
+  "field": "desc",
+  "ko": "$map:02010020$에서 '$npc:23000057$'을 처치하여 바르보사의 데일리 미션을 완료해보자!\n\n다른 모험가들과 함께 한다면 충분히 공략이 가능하니 용기를 내자!",
+  "en": "Defeat '$npc:23000057$' at $map:02010020$ to complete Barbosa's daily mission!\n\nWith the help of other adventurers, you can definitely clear it, so be brave!"
+ },
+ {
+  "id": "questdescription_final#0371",
+  "field": "name",
+  "ko": "점프 점프 파이팅!",
+  "en": "Jump Jump, Fighting!"
+ },
+ {
+  "id": "questdescription_final#0372",
+  "field": "desc",
+  "ko": "인페르녹 원정대를 응원하는 마음을 담아\n점프하자! 더 높이!",
+  "en": "With the spirit of cheering on the Infernog expedition,\nlet's jump! Higher!"
+ },
+ {
+  "id": "questdescription_final#0373",
+  "field": "name",
+  "ko": "런 런 파이팅!",
+  "en": "Run Run, Fighting!"
+ },
+ {
+  "id": "questdescription_final#0374",
+  "field": "desc",
+  "ko": "인페르녹 원정대를 응원하는 마음을 담아\n달리자! 더 빠르게!",
+  "en": "With the spirit of cheering on the Infernog expedition,\nlet's run! Faster!"
+ },
+ {
+  "id": "questdescription_final#0375",
+  "field": "name",
+  "ko": "채집 채광 파이팅!",
+  "en": "Gather and Mine, Fighting!"
+ },
+ {
+  "id": "questdescription_final#0376",
+  "field": "desc",
+  "ko": "인페르녹 원정대를 응원하는 마음을 담아\n채집과 채광을 해보자, 땅굴을 팔 기세로! \n\n* 마법의 생산 쿠폰 사용으로 획득하는 경우 제외됩니다.",
+  "en": "With the spirit of cheering on the Infernog expedition,\nlet's gather and mine, as if digging a tunnel!\n\n* Items obtained through Magic Production Coupons are excluded."
+ },
+ {
+  "id": "questdescription_final#0377",
+  "field": "manual",
+  "ko": "무엇이든 10회 채집, 채광하기",
+  "en": "Gather or mine anything 10 times"
+ },
+ {
+  "id": "questdescription_final#0378",
+  "field": "name",
+  "ko": "수확 수확 파이팅!",
+  "en": "Harvest Harvest, Fighting!"
+ },
+ {
+  "id": "questdescription_final#0379",
+  "field": "desc",
+  "ko": "인페르녹 원정대를 응원하는 마음을 담아\n수확을 해보자, 다시 없을 풍년인 것처럼!\n\n* 마법의 생산 쿠폰 사용으로 획득하는 경우, 다른 유저의 집에서 생산하는 경우는 제외됩니다.",
+  "en": "With the spirit of cheering on the Infernog expedition,\nlet's harvest, as if it's a once-in-a-lifetime bumper crop!\n\n* Items obtained through Magic Production Coupons or harvesting at other players' homes are excluded."
+ },
+ {
+  "id": "questdescription_final#0380",
+  "field": "manual",
+  "ko": "축산이나 재배 무엇이든 10회 수확하기",
+  "en": "Harvest livestock or crops 10 times"
+ },
+ {
+  "id": "questdescription_final#0381",
+  "field": "name",
+  "ko": "어푸 어푸 파이팅!",
+  "en": "Splash Splash, Fighting!"
+ },
+ {
+  "id": "questdescription_final#0382",
+  "field": "desc",
+  "ko": "인페르녹 원정대를 응원하는 마음을 담아\n헤엄치자! 한 마리의 물개처럼!",
+  "en": "With the spirit of cheering on the Infernog expedition,\nlet's swim! Like a seal!"
+ },
+ {
+  "id": "questdescription_final#0383",
+  "field": "name",
+  "ko": "낚시 낚시 파이팅!",
+  "en": "Fish Fish, Fighting!"
+ },
+ {
+  "id": "questdescription_final#0384",
+  "field": "desc",
+  "ko": "인페르녹 원정대를 응원하는 마음을 담아\n낚시를 해보자, 세상을 다 낚을 것처럼!",
+  "en": "With the spirit of cheering on the Infernog expedition,\nlet's fish, as if catching the whole world!"
+ },
+ {
+  "id": "questdescription_final#0385",
+  "field": "manual",
+  "ko": "낚시로 물고기 10마리 낚기",
+  "en": "Catch 10 fish"
+ },
+ {
+  "id": "questdescription_final#0386",
+  "field": "manual",
+  "ko": "퀸즈타운에서 연주하기",
+  "en": "Perform music in Queenstown"
+ },
+ {
+  "id": "questdescription_final#0387",
+  "field": "complete",
+  "ko": "퀸즈타운에서 연주하기",
+  "en": "Perform music in Queenstown"
+ },
+ {
+  "id": "questdescription_final#0388",
+  "field": "manual",
+  "ko": "전문연주가 달성하기",
+  "en": "Achieve Master Musician"
+ },
+ {
+  "id": "questdescription_final#0389",
+  "field": "complete",
+  "ko": "전문연주가 달성하기",
+  "en": "Achieve Master Musician"
+ },
+ {
+  "id": "questdescription_final#0390",
+  "field": "manual",
+  "ko": "동아리 2개 이상 가입",
+  "en": "Join 2 or more clubs"
+ },
+ {
+  "id": "questdescription_final#0391",
+  "field": "complete",
+  "ko": "동아리 2개 이상 가입",
+  "en": "Join 2 or more clubs"
+ },
+ {
+  "id": "questdescription_final#0392",
+  "field": "name",
+  "ko": "응원하기",
+  "en": "Cheer"
+ },
+ {
+  "id": "questdescription_final#0393",
+  "field": "manual",
+  "ko": "길드하우스 방문하기",
+  "en": "Visit a Guild House"
+ },
+ {
+  "id": "questdescription_final#0394",
+  "field": "complete",
+  "ko": "길드하우스 방문하기",
+  "en": "Visit a Guild House"
+ },
+ {
+  "id": "questdescription_final#0395",
+  "field": "complete",
+  "ko": "MC 케이 이벤트에 참여하기",
+  "en": "Participate in an MC Kay event"
+ },
+ {
+  "id": "questdescription_final#0396",
+  "field": "manual",
+  "ko": "룬블레이더 50레벨 달성",
+  "en": "Reach level 50 with Rune Blader"
+ },
+ {
+  "id": "questdescription_final#0397",
+  "field": "complete",
+  "ko": "룬블레이더 50레벨 달성",
+  "en": "Reach level 50 with Rune Blader"
+ },
+ {
+  "id": "questdescription_final#0398",
+  "field": "manual",
+  "ko": "소울바인더 50레벨 달성",
+  "en": "Reach level 50 with Soul Binder"
+ },
+ {
+  "id": "questdescription_final#0399",
+  "field": "complete",
+  "ko": "소울바인더 50레벨 달성",
+  "en": "Reach level 50 with Soul Binder"
+ },
+ {
+  "id": "questdescription_final#0400",
+  "field": "manual",
+  "ko": "젬스톤 5단계 업그레이드",
+  "en": "Upgrade a gemstone to level 5"
+ },
+ {
+  "id": "questdescription_final#0401",
+  "field": "complete",
+  "ko": "젬스톤 5단계 업그레이드",
+  "en": "Upgrade a gemstone to level 5"
+ },
+ {
+  "id": "questdescription_final#0402",
+  "field": "manual",
+  "ko": "스트라이커 50레벨 달성",
+  "en": "Reach level 50 with Striker"
+ },
+ {
+  "id": "questdescription_final#0403",
+  "field": "complete",
+  "ko": "스트라이커 50레벨 달성",
+  "en": "Reach level 50 with Striker"
+ },
+ {
+  "id": "questdescription_final#0404",
+  "field": "manual",
+  "ko": "인테리어 레벨 5 달성",
+  "en": "Reach Interior level 5"
+ },
+ {
+  "id": "questdescription_final#0405",
+  "field": "complete",
+  "ko": "인테리어 레벨 5 달성",
+  "en": "Reach Interior level 5"
+ },
+ {
+  "id": "questdescription_final#0406",
+  "field": "manual",
+  "ko": "$item:40400008$ 가져보기",
+  "en": "Obtain $item:40400008$"
+ },
+ {
+  "id": "questdescription_final#0407",
+  "field": "complete",
+  "ko": "$item:40400008$ 가져보기",
+  "en": "Obtain $item:40400008$"
+ },
+ {
+  "id": "questdescription_final#0408",
+  "field": "name",
+  "ko": "오늘의 미션 10회 완료",
+  "en": "Complete 10 Daily Missions"
+ },
+ {
+  "id": "questdescription_final#0409",
+  "field": "manual",
+  "ko": "* MC케이 이벤트는 매시간 5분, 35분에 참여할 수 있습니다.\n* 상해 크레이지 러너즈는 매시간 15분, 45분에 참여할 수 있습니다.\n\nMC케이 이벤트 5회 참여하기",
+  "en": "* MC Kay events are available at :05 and :35 every hour.\n* Shanghai Crazy Runners are available at :15 and :45 every hour.\n\nParticipate in MC Kay events 5 times",
+  "n": 2
+ }
+]

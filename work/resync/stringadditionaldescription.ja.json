@@ -1,0 +1,128 @@
+{
+ "10100041|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "歓声により士気が上がりました！\\n物理攻撃力と魔法攻撃力が{0}%増加"
+ },
+ "10100151|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "盾で防御態勢を整えます。\\n敵から受ける全てのダメージが{0}%減少"
+ },
+ "10200061|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "戦意喪失で全身から力が抜けます…。\\n攻撃力が{0}%減少\\nジャンプ力、移動速度が{1}%減少"
+ },
+ "10200064|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "戦意喪失で全身から力が抜けます…。\\n攻撃力が{0}%減少"
+ },
+ "10200101|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "不屈の意志で極限の状況に耐えます。\\n物理抵抗力と魔法抵抗力が{0}増加"
+ },
+ "10200112|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "深い傷を負って血を流します。\\n1秒ごとに{0}%のダメージ"
+ },
+ "10200131|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "攻撃速度、物理攻撃力、魔法攻撃力が{0}%増加\\n全ての攻撃が命中するとSPを1回復"
+ },
+ "10300021|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "強力な火炎が体を包んでいます！\\n1秒ごとに{0}%の火炎ダメージ"
+ },
+ "10300131|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "魔法のオーラが全身を包み込みます。\\n自分の最大HPの{0}%分、ダメージを吸収"
+ },
+ "10400001|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "神聖な力によって浄化されています！\\n1秒ごとに{0}%の神聖ダメージ"
+ },
+ "10400041|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "審判の盾が体を包み込みました。\\n物理抵抗力、魔法抵抗力が{0}増加\\n近くの敵に{1}%の神聖ダメージ"
+ },
+ "10400051|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "神聖な浄化でスッキリしました。\\n物理ダメージと魔法ダメージが{0}%増加\\n攻撃速度が{1}%増加\\n命中が{2}増加"
+ },
+ "10400081|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "エンジェルから聖なる力を受けます。\\n魔法攻撃力が{0}%増加"
+ },
+ "10400091|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "エンジェルの祝福を受けました。\\n物理攻撃力と魔法攻撃力が{0}%増加\\n物理抵抗力と魔法抵抗力が{1}増加"
+ },
+ "10400122|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "強力な光に晒されました！\\n敵が受ける全てのダメージが{0}%増加"
+ },
+ "10500072|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "ゴールデンイーグルが援護しています。\\nDEXが{0}%増加"
+ },
+ "10500081|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "ワシの爪に引っ掛けられました！\\n1秒ごとに{0}%のダメージ\\n移動速度が{1}%減少\\nジャンプ力が{2}%減少"
+ },
+ "10500091|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "ワシの気が全身に走ります。\\n1秒ごとにSPを{0}回復\\n攻撃が命中するとワシの支援攻撃が発動"
+ },
+ "10700031|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "しなやかな動きで敵の攻撃を回避します。\\n敵の攻撃を{0}%の確率で回避"
+ },
+ "10700051|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "強力な蹴りにより体に力が入りません！\\n移動速度が{0}%減少\\nジャンプ力が{1}%減少"
+ },
+ "10800062|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "全身がクモの糸に縛られました！\\n1秒ごとに{0}%の暗黒ダメージ\\n移動速度が{1}%減少\\nジャンプ力が{2}%減少"
+ },
+ "10800092|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "死の標識が刻まれました！\\n敵から受ける全てのダメージが{0}%増加"
+ },
+ "10800131|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "死の標識が刻まれました！\\n敵から受ける全てのダメージが{0}%増加"
+ },
+ "10800161|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "焼印が刻まれました！\\n命中が{0}減少"
+ },
+ "10900001|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "ブレイドに火炎属性が宿ります。\\n一部のスキルを火炎属性の形で発動\\n火炎属性スキルダメージが{0}%増加"
+ },
+ "10900011|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "ブレイドに冷気属性が宿ります。\\n一部のスキルを冷気属性の形で発動\\n冷気属性スキルダメージが{0}%増加"
+ },
+ "10900021|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "ブレイドに電撃属性が宿ります。\\n一部のスキルを電撃属性の形で発動\\n電撃属性スキルダメージが{0}%増加"
+ },
+ "10900131|*-CharacterBalance_01-KR": {
+  "tooltipDescription": "ルーンの力を極限まで引き上げます！\\n火炎、冷気、電撃属性ダメージが{0}%増加"
+ },
+ "11000101|*-CharacterBalance_Striker_01-KR": {
+  "tooltipDescription": "身体の限界を超えた能力を発揮します！\\n攻撃速度と移動速度が30%増加\\n物理/魔法ダメージが{0}%増加\\nチェンジスタンスで強化型として発動するスキルのクールタイムが{1}%減少"
+ },
+ "11100141|*-CharacterBalance_SoulBinder_01-KR": {
+  "tooltipDescription": "オーラの流れが歪みました！\\n命中と回避が{0}減少"
+ },
+ "11100171|*-CharacterBalance_SoulBinder_01-KR": {
+  "tooltipDescription": "自然から生命のオーラを受けています！\\n一定の周期でHP回復\\n物理抵抗力と魔法抵抗力が{0}増加\\n敵の攻撃でノックバックしない"
+ },
+ "90000836|*--NA": {
+  "tooltipDescription": "$map:63000060$でのみ使用できる特別なマグネットエサ。$map:63000060$で釣りをすると一定確率で$item:30001344$を獲得することができる。"
+ },
+ "90000859|*--KR": {
+  "tooltipDescription": "戦闘力が650増加"
+ },
+ "90051248|*-KREquipmentBalance_01-KR": {
+  "tooltipDescription": "戦闘力が372増加"
+ },
+ "90000946|*--CN": {
+  "tooltipDescription": "クリティカルダメージが120増加\\n防御力貫通が4%増加\\n<font color='#00aaef'>戦場および闘技場では適用されない</font>"
+ },
+ "90000947|*--CN": {
+  "tooltipDescription": "攻撃速度が5%増加\\n物理/魔法ダメージが5%増加\\n<font color='#00aaef'>戦場および闘技場では適用されない</font>"
+ },
+ "90001150|*-Event-CN": {
+  "tooltipDescription": "$map:63000060$でのみ使用できる特別なマグネットエサ。$map:63000060$で釣りをすると一定確率で$item:30001385$を獲得することができる。"
+ },
+ "90001183|*-Event-NA": {
+  "tooltipDescription": "1秒ごとにHP280回復"
+ },
+ "90001204|*-Event-CN": {
+  "tooltipDescription": "$map:63000060$でのみ使用できる特別なマグネットエサ。$map:63000060$で釣りをすると一定確率で$item:30001513$を獲得することができる。"
+ },
+ "90051292-KREquipmentBalance_01-KR": {
+  "tooltipDescription": "戦闘力が1300増加"
+ },
+ "100000043--NA": {
+  "tooltipDescription": "- キャラクター移動速度および地上乗り物の移動速度が5%増加(PvP地域を除く / パーティ全体に適用)\\n- モンスター狩り経験値およびメルが20%増加\\n- オフィリアエンチャント費用が10%割引\\n- 1：1メル取引手数料が50%割引\\n- ブラックマーケットのアイテム取引手数料が20%割引\\n- いつでも、どこでも金庫をすぐに召喚可能\\n- ロータスエアタクシー無制限利用可能\\n- プレミアム専用ダンジョンおよびマーク使用可能\\n- プレミアム専用アイテム毎日提供"
+ },
+ "100000043-MesoMarket-NA": {
+  "tooltipDescription": "- キャラクター移動速度および地上乗り物の移動速度が5%増加(PvP地域を除く / パーティ全体に適用)\\n- モンスター狩り経験値およびメルが20%増加\\n- オフィリアエンチャント費用が10%割引\\n- 1：1メル取引手数料が50%割引\\n- ブラックマーケットのアイテム取引手数料が20%割引(メル購入を除く)\\n- いつでも、どこでも金庫をすぐに召喚可能\\n- ロータスエアタクシー無制限利用可能\\n- プレミアム専用ダンジョンおよびマーク使用可能\\n- プレミアム専用アイテム毎日提供"
+ }
+}
