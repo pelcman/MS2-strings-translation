@@ -19548,5 +19548,509 @@
   },
   "s_delete_account_terms_step_end_game_button--": {
     "value": "ゲーム終了"
+  },
+  "s_err_lack_guild_event_fund--": {
+    "value": "イベントギルド基金が足りません。"
+  },
+  "s_err_not_allow_pvpField--": {
+    "value": "戦場では転職スキルを使用できません"
+  },
+  "s_err_shop_expired--": {
+    "value": "ショップの期限が切れました。"
+  },
+  "s_notify_currency_overflow_period--": {
+    "value": "{0}の週間獲得上限を超えました。超過分の{0}{1}個は獲得されずに消えます。"
+  },
+  "s_msg_chatting_welcome_pubtest1--CN": {
+    "value": "テストサーバーへようこそ。\\nテストサーバーは環境が少々不安定な場合があります。\\nテストサーバーの内容は、今後正式サーバーへ適用される内容と異なる可能性があります。"
+  },
+  "s_msg_chatting_welcome_pubtest2--CN": {
+    "value": "テストサーバーへようこそ。\\nテストサーバーは環境が少々不安定な場合があります。\\nテストサーバーの内容は、今後正式サーバーへ適用される内容と異なる可能性があります。"
+  },
+  "s_guild_ui_info_guild_exp_event--": {
+    "value": "獲得時経験値 <FONT color='#FF4040'>x{0}倍</FONT>\\nギルド経験値 {1} / {2}"
+  },
+  "s_guild_ui_skill_use_skill_event--": {
+    "value": "<p align='center'><FONT color='#FFA200'>{0}</FONT><Img Src='export_common_icon_item_90000026' vspace='-4'></Img>を使用して<FONT color='#FFA200'>{1}</FONT>スキルを使用しますか？\\n\\n※ギルド基金の金額とバフの種類を必ず確認してください。</p>"
+  },
+  "s_guild_ui_event_skill_upgrade_popup--": {
+    "value": "<FONT color='#FFA200'>{0}</FONT><Img Src='export_common_icon_item_90000026' vspace='-4'></Img>を使用して\\n<FONT color='#FFA200'>{1}</FONT>スキルを<FONT color='#FFA200'>レベル{2}</FONT>スキルに\\nアップグレードしますか？"
+  },
+  "s_guild_ui_vsGame_description-GuildMinigame01-NA": {
+    "value": "5戦、3先勝制の勝負、各ラウンドでより多くの人数が生存するギルドが点数を獲得するゲーム\\n勝敗に応じてギルド経験値とギルド基金を獲得できる"
+  },
+  "s_guild_err_not_enough_guild_event_fund--": {
+    "value": "ギルドイベント基金が足りません。"
+  },
+  "s_admin_block_cash_out--": {
+    "value": "お待ちください！普段と異なる活動が検知されました。\\n大切なアイテムを保護するため、プレゼントとアイテム取引を一時的に制限しました。\\n{0:02d}/{1:02d}から再びご利用いただけます。"
+  },
+  "s_admin_block_transfer_msgbox_content_kr--KR": {
+    "value": "冒険者様のアカウントをアカウント盗用被害などから\\n保護するため「取引制限」措置が適用されました。\\n\\n本人認証後に正常に取引していただけます。\\n本人認証が難しい場合はサポートへお問い合わせください。\\n本人認証を行いますか？"
+  },
+  "s_buddy_confirm_homeblock_somebody--": {
+    "value": "{0}さんを自宅からブロックしますか？"
+  },
+  "s_notice_unstable_network_state--CN": {
+    "value": "ネットワーク接続が不安定です。\\n クライアントを再起動してください。"
+  },
+  "s_char_err_shutdown--CN": {
+    "value": "親愛なるユーザーの皆様へ：\\n申し訳ございません。ゲームのサービス終了により、お客様の権利に影響が及ばないよう、これ以上新しいキャラクターを作成することはできません。\\n何卒ご理解いただきますようお願いいたします。"
+  },
+  "s_beauty_msg_error_product_expired--": {
+    "value": "販売商品が変更されました。\\nもう一度お試しください。"
+  },
+  "s_login_err_create_account_block--": {
+    "value": "サービス終了が予定されているため\\n新規アカウントを作成することはできません。"
+  },
+  "s_msg_rclick_puton_leadskill--": {
+    "value": "<FONT color='#FFFFFF'>マウス<FONT color='#FFD200'>右クリック</FONT><FONT color='#FFFFFF'>でリードスキルを装着できます。</FONT>"
+  },
+  "s_buddy_format_homeblock_count--": {
+    "value": "自宅からブロックした人：{0}人"
+  },
+  "s_home_block_somebody--": {
+    "value": "{0}さんを自宅からブロックしました。"
+  },
+  "s_home_block_del_somebody_from_banlist--": {
+    "value": "{0}さんが自宅ブロックリストから削除されました。"
+  },
+  "s_home_block_err_unknown--": {
+    "value": "要請を処理できません。"
+  },
+  "s_home_block_err_self_block--": {
+    "value": "自分自身をブロックすることはできません。"
+  },
+  "s_home_block_err_already_block--": {
+    "value": "すでにブロックしているユーザーです。"
+  },
+  "s_home_block_err_max_block--": {
+    "value": "これ以上ブロックすることはできません。"
+  },
+  "s_home_block_err_enterance_block--": {
+    "value": "相手の自宅ブロックリストに追加されているため入場できません。"
+  },
+  "s_home_block_err_kick--": {
+    "value": "相手の自宅ブロックリストに追加されているため強制退場となりました。"
+  },
+  "s_ugc_uic_error--": {
+    "value": "不適切な画像です。"
+  },
+  "s_shop_err_change_reset_price--CN": {
+    "value": "再入荷金額をもう一度ご確認ください。"
+  },
+  "s_shop_text_notice_pssb--NA": {
+    "value": "スタイルボックスから出たアイテムを分解するとスタイルコインを獲得できます。"
+  },
+  "s_home_visit_failed_private--": {
+    "value": "訪問しようとしている家が非公開状態のため訪問できません。"
+  },
+  "s_tooltip_gamemenu_longtermattendgift--": {
+    "value": "<FONT color='#FFD200' size='15' >目覚めよ！黄金ダッキーボール {0}</FONT>\\n<FONT size='3'> </FONT>\\n自分のアカウントの黄金ダッキーボールメニューを確認できます。"
+  },
+  "s_tooltip_gamemenu_MeratCharge--NA": {
+    "value": "<FONT color='#FFD200' size='15' >ブルーメロットチャージショップ {0}</FONT>\\n<FONT size='3'> </FONT>\\nブルーメロットを購入することができます。"
+  },
+  "s_itembreak_rank_or_below--": {
+    "value": "以下"
+  },
+  "s_mesoMarket_register_notice-MesoMarket-NA": {
+    "value": "・販売価格：平均価格の±20%以内\\n・販売期間：登録申請後{0}日間\\n・メル登録回数の制限：アカウントあたり1日{2}回\\n   (毎日深夜0時に初期化)\\n※メル販売金額はブルーメロットで支給"
+  },
+  "s_itemenchant_fee--": {
+    "value": "クリスタルの破片の代替費用 {0}<Img Src='export_common_icon_meso' vspace='-4'></Img>"
+  },
+  "s_msg_shortcutkey_invalid_already_same_leadskill-LeadSkill-": {
+    "value": "同じリードスキルは装着できません。"
+  },
+  "s_dungeonRoom_findMember_button_tooltip-FindDungeonHelp-CN": {
+    "value": "<FONT color='#FFD200' size='15' >メンバー要請</FONT>\\n<FONT size='3'> </FONT>\\nボタンをクリックすると、一緒にダンジョンを冒険するパーティメンバーを募集することができます。\\n新米冒険者と一緒にクリアした場合、親切な騎士ボックスを\\n1日{0}回追加で獲得できます。"
+  },
+  "s_dungeonRoom_findHelper_button_tooltip--": {
+    "value": "<FONT color='#FFD200' size='15' >ヘルプ要請</FONT>\\n<FONT size='3'> </FONT>\\nこのダンジョンに慣れている熟練冒険者にヘルプを要請できます。\\nボタンをクリックし、一緒にプレイする熟練冒険者を見つけましょう！\\n\\n<FONT color='#FFD200' size='15' >新米冒険者</FONT>\\n<FONT size='3'> </FONT>\\nまだこのダンジョンに慣れていません。\\nダンジョンクリア回数が一定以上になると熟練冒険者になれます。\\n<FONT color='#00AAEF'>- {0}回以上\\n"
+  },
+  "s_meratmarket_tooltip_sell_day--": {
+    "value": "{0}年{1}月{2}日まで"
+  },
+  "s_meratmarket_tooltip_myshop_calculate--NA": {
+    "value": "<font color='#8dd502'>今月の累積販売金額：{0}</font>\\n販売手数料は販売金額の25%です。"
+  },
+  "s_meratmarket_tooltip_charge--NA": {
+    "value": "<FONT color='#FFD200' size='15' >販売手数料</FONT>\\n<FONT size='3'> </FONT>\\n販売価格の一部を手数料として使用し、残りの金額を収益としてお返しします。\\n販売手数料は販売金額の25%です。"
+  },
+  "s_meratmarket_error_result_buy_sold_out_changeable--": {
+    "value": "<FONT color='#909090' >▶ 用意した数量がすべて売り切れました。\\n次回またご購入ください。</font>"
+  },
+  "s_meratmarket_error_bancheck_desc_or_tags--": {
+    "value": "商品説明またはタグに使用できない単語または文字が含まれています。"
+  },
+  "s_meratmarket_error_random_create_fail--": {
+    "value": "ボーナス特典の支給に失敗しました。"
+  },
+  "s_meratmarket_error_random_already_exist--": {
+    "value": "ボーナス特典がすでに存在します。"
+  },
+  "s_meratmarket_error_random_expired--": {
+    "value": "ボーナス特典の使用期限が切れました。"
+  },
+  "s_meratmarket_error_random_payback_not_exist--": {
+    "value": "ペイバックボーナスが見つかりません。"
+  },
+  "s_meratmarket_error_random_coupon_not_exist--": {
+    "value": "割引特典が見つかりません。"
+  },
+  "s_meratmarket_random_payback--": {
+    "value": "ペイバックボーナス {0}"
+  },
+  "s_meratmarket_random_sale--": {
+    "value": "シークレット特典！{0}%割引"
+  },
+  "s_meratmarket_limited_limitless--": {
+    "value": "残り個数：無制限"
+  },
+  "s_meratmarket_limited_desc_end--": {
+    "value": "販売期限：{0}"
+  },
+  "s_meratmarket_register_royalty--NA": {
+    "value": "販売金額の25%"
+  },
+  "s_cashshop_steam_purchase_in_progress--NA": {
+    "value": "購入リクエストを処理中です。"
+  },
+  "s_cashshop_err_purchase_steam_overlay_disabled--NA": {
+    "value": "購入するにはSteamオーバーレイの有効化が必要です。"
+  },
+  "s_cashshop_err_purchase_steam_restircted_country--NA": {
+    "value": "購入が制限されている国です。"
+  },
+  "s_massive_event_name_pvp_dollshouse-MassivePVPDollshouse-": {
+    "value": "人形の邸宅(PvP)"
+  },
+  "s_itemremake_error_prev_option_item_not_exist--": {
+    "value": "最近のオプション変更結果を選択していないアイテムが見つかりません。\\n続行する場合、選択可能なオプション情報が削除されます。\\nアイテム名：{0}"
+  },
+  "s_play_instrument_instrument_category_name_35--": {
+    "value": "フレットレスベースギター"
+  },
+  "s_play_instrument_instrument_category_name_36--": {
+    "value": "マリンバ"
+  },
+  "s_play_instrument_instrument_category_name_37--": {
+    "value": "フルート"
+  },
+  "s_play_instrument_instrument_category_name_38--": {
+    "value": "ホンキートンクピアノ"
+  },
+  "s_play_instrument_instrument_category_name_39--": {
+    "value": "フレンチホルン"
+  },
+  "s_play_instrument_instrument_category_name_40--": {
+    "value": "パイプオルガン"
+  },
+  "s_itemsocketsystem_socket_maxcount-ItemSocketSystem-": {
+    "value": "+{0}個のソケット"
+  },
+  "s_itemsocketsystem_socket_swap_confirm-ItemSocketSystem-": {
+    "value": "すべて移動するには<FONT color='#FFD200'>{0}</FONT>が必要です。移動しますか？"
+  },
+  "s_itemsocketsystem_socket_swap_confirm_free-ItemSocketSystem-": {
+    "value": "ジェムストーンを移動しますか？"
+  },
+  "s_itemsocketsystem_error_swap_lack_price-ItemSocketSystem-": {
+    "value": "<FONT color='#FFD200'>{0}</FONT>が足りません。"
+  },
+  "s_mastery_autogatheringbuff_button-AutoMastery01-": {
+    "value": "自動採集バフ"
+  },
+  "s_mastery_autominingbuff_button-AutoMastery01-": {
+    "value": "自動採鉱バフ"
+  },
+  "s_mastery_autofarmingbuff_button-AutoMastery01-": {
+    "value": "自動栽培バフ"
+  },
+  "s_mastery_autobreedingbuff_button-AutoMastery01-": {
+    "value": "自動畜産バフ"
+  },
+  "s_mastery_autointeraction_lack_buff_item-AutoMastery01-": {
+    "value": "{0}アイテムがありません。"
+  },
+  "s_mastery_autointeraction_buff_use-AutoMastery01-": {
+    "value": "{0}を使用しますか？"
+  },
+  "s_ugcHousingPoint_Reward_Desc1--KR": {
+    "value": "<FONT color='#FFD200' size='15' >1段階装飾度プレゼント\\n<FONT size='3'> </FONT>\\n<FONT color='#909090'>[受け取る]を押すと装飾度プレゼントを受け取ることができます。\\n\\n<FONT color='#FFFFFF' >1段階プレゼントリスト</FONT>\\n<FONT size='3'> </FONT><FONT color='#909090'>：次のアイテムから1つを獲得できます。</FONT><FONT color='#00A2ED'>\\n   - 無料チャンネルチャットクーポン\\n   - 初心者向け黄金エサ(1時間)\\n   - 経験値2倍クーポン\\n   - インテリアキューブボックス\\n   - 赤い薬草\\n</FONT>"
+  },
+  "s_ugcHousingPoint_Reward_Desc2--KR": {
+    "value": "<FONT color='#FFD200' size='15' >2段階装飾度プレゼント\\n<FONT size='3'> </FONT>\\n<FONT color='#909090'>[受け取る]を押すと装飾度プレゼントを受け取ることができます。\\n\\n<FONT color='#FFFFFF' >2段階プレゼントリスト</FONT>\\n<FONT size='3'> </FONT><FONT color='#909090'>：次のアイテムから1つを獲得できます。</FONT><FONT color='#00A2ED'>\\n   - 無料チャンネルチャットクーポン\\n   - 初心者向け黄金エサ(1時間)\\n   - 経験値2倍クーポン\\n   - インテリアキューブボックス\\n   - 橙色の薬草\\n</FONT>"
+  },
+  "s_ugcHousingPoint_Reward_Desc3--KR": {
+    "value": "<FONT color='#FFD200' size='15' >3段階装飾度プレゼント\\n<FONT size='3'> </FONT>\\n<FONT color='#909090'>[受け取る]を押すと装飾度プレゼントを受け取ることができます。\\n\\n<FONT color='#FFFFFF' >3段階プレゼントリスト</FONT>\\n<FONT size='3'> </FONT><FONT color='#909090'>：次のアイテムから1つを獲得できます。</FONT><FONT color='#00A2ED'>\\n   - 無料チャンネルチャットクーポン\\n   - free ロータス無線機\\n   - 初心者向け黄金エサ(1時間)\\n   - 経験値2倍クーポン\\n   - インテリアキューブボックス\\n   - 白い薬草\\n</FONT>"
+  },
+  "s_ugcHousingPoint_Reward_Desc4--KR": {
+    "value": "<FONT color='#FFD200' size='15' >4段階装飾度プレゼント\\n<FONT size='3'> </FONT>\\n<FONT color='#909090'>[受け取る]を押すと装飾度プレゼントを受け取ることができます。\\n\\n<FONT color='#FFFFFF' >4段階プレゼントリスト</FONT>\\n<FONT size='3'> </FONT><FONT color='#909090'>：次のアイテムから1つを獲得できます。</FONT><FONT color='#00A2ED'>\\n   - 無料チャンネルチャットクーポン\\n   - free ロータス無線機\\n   - 初心者向け黄金エサ(1時間)\\n   - 経験値2倍クーポン\\n   - インテリアキューブボックス\\n   - 白い薬草\\n</FONT>"
+  },
+  "s_ugcHousingPoint_Reward_Desc5--KR": {
+    "value": "<FONT color='#FFD200' size='15' >5段階装飾度プレゼント\\n<FONT size='3'> </FONT>\\n<FONT color='#909090'>[受け取る]を押すと装飾度プレゼントを受け取ることができます。\\n\\n<FONT color='#FFFFFF' >5段階プレゼントリスト</FONT>\\n<FONT size='3'> </FONT><FONT color='#909090'>：次のアイテムから1つを獲得できます。</FONT><FONT color='#00A2ED'>\\n   - 無料チャンネルチャットクーポン\\n   - free ロータス無線機\\n   - 初心者向け黄金エサ(1時間)\\n   - 経験値2倍クーポン\\n   - インテリアキューブボックス\\n   - 無料ワールドチャットクーポン\\n   - 特製赤い薬草\\n\\n<FONT color='#FFFFFF' >5段階追加プレゼント</FONT>\\n </FONT><FONT color='#909090'>：次のアイテム1つを追加で獲得します。</FONT> </FONT></FONT><FONT color='#00A2ED'>\\n   - 分解されたキューブの欠片\\n</FONT>"
+  },
+  "s_item_merge_option_error_prev_option_item_not_exist--": {
+    "value": "最近の超越オプション変更結果を選択していないアイテムが見つかりません。\\n続行する場合、選択可能なオプション情報が削除されます。\\nアイテム名：{0}"
+  },
+  "s_item_merge_option_old_option--": {
+    "value": "<FONT color='#FFFFFF'>以前のオプション</FONT>\\n<FONT color='#FFD200'>{0}</FONT>"
+  },
+  "s_item_merge_option_new_option--": {
+    "value": "<FONT color='#FFFFFF'>新しいオプション</FONT>\\n<FONT color='#FFD200'>{0}</FONT>"
+  },
+  "s_gallery_desc_end_date--": {
+    "value": "{0}年{1}月{2}日メンテナンス前まで！"
+  },
+  "s_treewatering_watering-Event-CN": {
+    "value": "桜の木に水を与える"
+  },
+  "s_treewatering_emotion-Event-CN": {
+    "value": "桜の木と共鳴する"
+  },
+  "s_treewatering_watering_casting-Event-CN": {
+    "value": "桜の木に水を与えている"
+  },
+  "s_treewatering_emotion_casting-Event-CN": {
+    "value": "桜の木と共鳴中"
+  },
+  "s_treewatering_wateringreward-Event-CN": {
+    "value": "桜の木に水を与えました。({0}/{1})"
+  },
+  "s_treewatering_emotionreward-Event-CN": {
+    "value": "桜の木と共鳴しました。({0}/{1})"
+  },
+  "s_maple_survival_ui_season_period-SurvivalContents01-NA": {
+    "value": "{0:2d}.{1:02d}.{2:02d} {3:02d}:{4:02d} ~ {5:02d}.{6:02d}.{7:02d} メンテナンス前"
+  },
+  "s_maple_survival_game_menu_next_period-SurvivalContents01-NA": {
+    "value": "{0}年{1}月{2}日{3:02d}：{4:02d}：{5:02d}～{6}年{7}月{8}日{9:02d}：{10:02d}：{11:02d}日にご利用いただけます。"
+  },
+  "s_lapenshard_open_newbie_quest_message-Lapenshard01-": {
+    "value": "<font color='#FFD200'>{0}クエスト</FONT>を完了しないとラペンシャードを使用できません。"
+  },
+  "s_burning_levelup_event_set_character_popup--KR": {
+    "value": "<FONT color='#FFD200' size='18' >[バーニングキャラクター指定]</FONT>\\n<FONT size='3'> </FONT>\\n<FONT color='#FF5F5F'>{0} キャラクターでバーニングイベントに参加しますか？</FONT>\\n\\n・9レベルから70レベルまで1レベルアップごとに+2の追加レベルを獲得します。\\n・バーニングキャラクターはアカウントごとに1つのみ指定可能です。\\n・指定されたバーニングキャラクターはキャラクターを削除するまでは変更できません。\\n・バーニングキャラクターを70レベルまで育成した後は、バーニングキャラクターを削除しても追加でバーニングキャラクターを指定することはできません。\\n・バーニングイベントは2022年08月11日メンテナンス後～2022年10月13日メンテナンス前まで開催されます。\\n\\n<FONT color='#FFD200' size='18' >[70レベル達成報酬案内]</FONT>\\n"
+  },
+  "s_burning_levelup_event_set_character_popup--CN": {
+    "value": "<FONT color='#FFD200' size='18' >[ジャンピング+バーニングキャラクター指定]</FONT>\\n<FONT size='3'> </FONT>\\n<FONT color='#FF5F5F'>{0} キャラクターでジャンピングバーニングイベントに参加しますか？</FONT>\\n\\n・50レベルまでジャンピングできるポーションが支給されます。\\n・50レベルから80レベルまで1レベルアップごとに+2の追加レベルを獲得します。\\n・バーニングキャラクターはアカウントごとに1つのみ指定可能です。\\n・指定されたバーニングキャラクターはキャラクターを削除するまでは変更できません。\\n・レベルアップポーションを使用した場合、バーニングキャラクターを削除してもバーニングキャラクターを指定することができません。\\n\\n<FONT color='#FFD200' size='18' >[ジャンピングポーション案内]</FONT>\\n"
+  },
+  "s_buring_levelup_envent_desc_popup--KR": {
+    "value": "<FONT color='#FFD200' size='18' >[バーニングとは？]</FONT>\\n\\n・1回レベルアップするたびに+2レベルを追加獲得します。\\n・レベル9から70まで効果が適用されます。\\n・バーニングキャラクターはアカウントごとに1つのみ指定可能です。\\n・指定されたバーニングキャラクターはキャラクターを削除するまでは変更できません。\\n・バーニングキャラクターを70レベルまで育成した後は、バーニングキャラクターを削除しても追加でバーニングキャラクターを指定することはできません。\\n・バーニングイベントは2022年10月13日メンテナンス前まで開催されます。\\n\\n<FONT color='#FFD200' size='18' >[70レベル達成報酬案内]</FONT>\\n\\n"
+  },
+  "s_buring_levelup_envent_desc_popup--CN": {
+    "value": "<FONT color='#FFD200' size='18' >[ジャンピング+バーニングとは？]</FONT>\\n\\n・50レベルまでジャンピングできるポーションが支給されます。\\n・50レベルから80レベルまで1レベルアップごとに+2の追加レベルを獲得します。\\n・バーニングキャラクターはアカウントごとに1つのみ指定可能です。\\n・指定されたバーニングキャラクターはキャラクターを削除するまでは変更できません。\\n・レベルアップポーションを使用した場合、バーニングキャラクターを削除してもバーニングキャラクターを指定することができません。\\n\\n<FONT color='#FFD200' size='18' >[ジャンピングポーション案内]</FONT>\\n\\n"
+  },
+  "s_burning_levelup_event_jumping_item_desc_popup--CN": {
+    "value": "\\n・チュートリアル完了時に提供される50レベルジャンピングポーションです。\\n・ポーションを使用してからはキャラクターを削除してもバーニングキャラクターを再度指定することはできません。\\n\\n<FONT color='#FFD200' size='18' >[最終報酬]</FONT>\\n"
+  },
+  "s_burning_levelup_event_jumping_item_notify--CN": {
+    "value": "今すぐインベントリをご確認ください！\\n <FONT color='#FFD200' size='18' >[50レベルレベルアップポーション]</FONT>をお配りしました。\\nアイテムを使って50レベルにジャンピングしましょう！\\n ジャンピング後は80レベルまでバーニングできます。\\n\\n"
+  },
+  "s_burning_levelup_event_jumping_complete--CN": {
+    "value": "<FONT color='#FFD200' size='18' >[50レベルレベルアップポーション]</FONT>を使用しました！\\n\\n ・キャラクターを削除してもバーニングキャラクターを再度指定することはできません。\\n ・円滑なプレイのために転職クエストを遂行してください。\\n ・これから80レベルまで1+2バーニングレベルアップが適用されます。\\n\\n<FONT color='#FFD200' size='18' >[80レベル最終報酬]</FONT>\\n "
+  },
+  "s_founderspack_need--NA": {
+    "value": "Founders Packを購入すると利用できます。\\nFounders Packを購入しますか？"
+  },
+  "s_founderspack_ask_recv_merat--NA": {
+    "value": "{0}を購入しましたが、ブルーメロットを受け取っていません。\\n現在のリージョンでブルーメロットを受け取りますか？"
+  },
+  "s_provider_pack_ask_recv_unique--NA": {
+    "value": "{0}を購入しましたが、{1}を受け取っていません。\\n現在のリージョンで{1}を受け取りますか？"
+  },
+  "s_steam_purchase_restriction_adventure_level--NA": {
+    "value": "冒険レベルが{0}以下の場合、1か月に{1}{2}以上購入することはできません。"
+  },
+  "s_steam_purchase_restriction_character_level--NA": {
+    "value": "キャラクターレベルが{0}以下の場合、1か月に{1}{2}以上購入することはできません。"
+  },
+  "s_steam_purchase_restriction_account_create_days--NA": {
+    "value": "アカウント作成日数が{0}以下の場合、1か月に{1}{2}以上購入することはできません。"
+  },
+  "s_wedding_hall_reservation_cancel_new_not_find_partner-Wedding-": {
+    "value": "{0}さんが同じマップに接続していないため、結婚予約キャンセルの同意を得ることができません。結婚式の予約をキャンセルできません。"
+  },
+  "s_wedding_hall_reservation_cancel_new_refund_decline-Wedding-": {
+    "value": "{0}さんが結婚式の予約キャンセルに同意しませんでした。結婚式の予約をキャンセルできません。"
+  },
+  "s_payback_error_uiopen_end_time-Payback-": {
+    "value": "ペイバックイベントは終了しました。"
+  },
+  "s_longtermattendgift_dialog_title--": {
+    "value": "目覚めよ！黄金ダッキーボール！イベント ({0}メンテナンス後 ~ {1})"
+  },
+  "s_longtermattendgift_dialog_desc--": {
+    "value": "未使用のダッキーボール：毎日00:00以降に接続するとダッキーボールを1つ支給されます。\\n開いた空欄：接続の有無に関係なく、イベント開始日から終了時まで1マスずつダッキーボールを入れられる空欄が開きます。\\nダッキーボールを入れる：ボタンをクリックすると未使用のダッキーボール1個と開いた空欄1つが消費され、入れたダッキーボールの数に応じた報酬が支給されます。\\n\\n<FONT color='#FFD200' >ダッキーボールをすべて入れても開いた空欄が残っている場合、</FONT><FONT color='#1E90FF' size='15' >250ブルーメロット</FONT><FONT color='#FFD200' >を消費して開いた空欄を埋めることができます。</FONT><"
+  },
+  "s_longtermattendgift_dialog_desc--CN": {
+    "value": "未使用のダッキーボール：毎日00:00以降に接続するとダッキーボールを1つ支給されます。\\n開いた空欄：接続の有無に関係なく、イベント開始日から終了時まで1マスずつダッキーボールを入れられる空欄が開きます。\\nダッキーボールを入れる：ボタンをクリックすると未使用のダッキーボール1個と開いた空欄1つが消費され、入れたダッキーボールの数に応じた報酬が支給されます。\\n\\n<FONT color='#FFD200' >ダッキーボールをすべて入れても開いた空欄が残っている場合、</FONT><FONT color='#1E90FF' size='15' >1500ブルーメロット</FONT><FONT color='#FFD200' >を消費して開いた空欄を埋めることができます。</FONT><"
+  },
+  "s_longtermattendgift_dialog_err_msg_empty_point--": {
+    "value": "開いた空欄がありません。\\nまだ残りの出席日がある場合は、明日もう一度お試しください。 "
+  },
+  "s_longtermattendgift_dialog_err_msg_attendance_full--": {
+    "value": "開いた空欄がありません。\\nまだ残りの出席日がある場合は、明日もう一度お試しください。"
+  },
+  "s_longtermattendgift_dialog_use_merat--": {
+    "value": "開いた空欄を埋めるために{0}<Img Src='export_common_icon_merat' vspace='-4'></Img>を消費します。\\n続けますか？"
+  },
+  "s_adventure_protect_err--": {
+    "value": "冒険者保護プログラムが作動中です。"
+  },
+  "s_delete_account_check_msg_step_1--": {
+    "value": "上記の退会条件を満たしていることを確認しました。"
+  },
+  "s_delete_account_check_msg_step_2--": {
+    "value": "規約の内容を詳細に読み、同意します。"
+  },
+  "s_delete_account_hyperlink_msg--": {
+    "value": "ゲームアカウント解約規約"
+  },
+  "s_delete_account_terms_step_1--": {
+    "value": "親愛なる島民の皆様、ドミニカは皆様の退会について深い遺憾の意を表します。お客様のアカウントと財産の安全のため、ご提出いただいた申請が効力を発する前に、条件を満たしていることをご確認ください。メイプルストーリー2の運営陣も状況を確認し検証する場合があります：\\n1, アカウントがセキュリティ上および正常な使用状態であること：申請前2週間にパスワード2段階認証の設定、セキュリティ免除の操作など、機微な操作を行っていないこと。アカウントが違反していない期間 \\n2, ゲーム収益が決済済み、または妥当に処理されていること：ブルーマッシュルーム貨幣、レッドマッシュルーム貨幣、金貨、道具、会員特典などの収益を含みますが、これらに限りません。処理されていない場合は、お客様が自発的に放棄した収益とみなされますのでご了承ください。\\n3, アカウントに未完了の状態がないこと：ブルーチップのチャージ、ショップ道具の購入および消費を含みます \\n4, アカウントに紛争がないこと：通報の受付、申告、仲裁、訴訟などの紛争"
+  },
+  "s_delete_account_terms_step_2--": {
+    "value": "ご利用者の皆様、本ゲームのゲームアカウント解約手続きを正式に開始される前に、ゲームアカウント解約規約(以下「本規約」といいます)を必ず詳細にお読みいただき、ご同意ください。当社の解約手順に従って解約プロセスを開始する、または本規約を選択して次へをクリックすることは、お客様が本規約の全内容に同意し遵守するものとみなされます。当社は特にお客様に \\n本ゲームアカウントを解約した後は、法令および本規約に別途定めがある場合を除き、お客様のゲームアカウントの個人情報は削除または匿名化処理され、お客様は検索、アクセス、取得、継続使用および復旧ができなくなることをお知らせいたします。個人情報には、アカウント配下の各キャラクターのニックネーム、装備、実績、通貨およびその他の仮想アイテム、投稿、アイテムなどが含まれますがこれらに限られず、個人情報を復旧する権限はありません。"
+  },
+  "s_delete_account_terms_step_3--": {
+    "value": "誤操作を防ぐため、アカウントを解約するかどうかをもう一度ご確認いただき、解約後の影響をご確認ください。当該影響には以下が含まれますが、これらに限りません(「ゲームアカウント解約規約」をご参照ください)：\\n1. このアカウントが解約されるとログインおよび利用ができなくなり、復旧することもできません。法令またはゲームアカウント解約規約に定めがある場合を除き、お客様のゲームアカウントに含まれる個人情報は削除または匿名化処理され、お客様の個人情報を復旧することはできず、当社に請求する権限もありません。\\n2, このアカウントは、本ゲームの利用期間中に発生した、または将来発生しうるすべての収益または権益を消滅させます。したがって、本ゲームアカウントを解約する前に、お客様のゲーム収益や権益が適切に処理されているかご確認ください。そうでない場合、アカウントの解約後、当社は当該アカウントのすべての収益または権益を削除する権利を有し、これにより生じる結果はお客様ご自身の責任となります。前述のゲームの収益や権益には、アカウント内に残っているすべてのゲームの仮想道具、仮想通貨およびその他の仮想物品、付加価値サービスが含まれますが、これらに限りません。"
+  },
+  "s_delete_account_terms_step_4--": {
+    "value": "ご利用者の皆様、アカウントのセキュリティのため、アカウント解約の確認に実際の情報をご提供ください。この情報はこの確認にのみ使用されます。"
+  },
+  "s_delete_account_terms_step_end--": {
+    "value": "当該アカウントには60日間のロック期間があることにご留意ください。法令および解約規約に定める場合を除き、ロック期間が満了した後に解約、削除または匿名化を完了し、お客様の個人情報を処理いたします。この期間中は、解約が正常に行われるようログインしたり本アカウントを使用したりしないでください。そうでない場合、解約はキャンセルされたものとみなされます。"
+  },
+  "s_delete_account_terms_step_end_title--": {
+    "value": "退会申請が正常に受理されました。"
+  },
+  "s_delete_account_terms_step_4_label1--": {
+    "value": "氏名"
+  },
+  "s_delete_account_terms_step_4_label2--": {
+    "value": "身分証番号"
+  },
+  "s_delete_account_result_check_fail_err_characterpending--": {
+    "value": "アカウント解約の申請に失敗しました。\\n<FONT color='#FF5F5F'>{0}</FONT>キャラクターは現在削除処理中です。"
+  },
+  "s_delete_account_result_check_fail_err_select_character--": {
+    "value": "アカウント解約の申請に失敗しました。\\n<FONT color='#FF5F5F'>{0}</FONT>キャラクターが現在選択されています。"
+  },
+  "s_delete_account_result_check_fail_err_db_blcakmarket--": {
+    "value": "アカウント解約の申請に失敗しました。\\n<FONT color='#FF5F5F'>{0}</FONT>キャラクターがブラックマーケットに登録したアイテムがあります。"
+  },
+  "s_delete_account_result_check_fail_err_db_guild--": {
+    "value": "アカウント解約の申請に失敗しました。\\n<FONT color='#FF5F5F'>{0}</FONT>キャラクターがギルドに加入しています。"
+  },
+  "s_delete_account_result_check_fail_err_db_ugcmarket--": {
+    "value": "アカウント解約の申請に失敗しました。\\n<FONT color='#FF5F5F'>{0}</FONT>キャラクターがデザイナーズショップに登録したアイテムがあります。"
+  },
+  "s_delete_account_result_check_fail_err_db_wedding--": {
+    "value": "アカウント解約の申請に失敗しました。\\n<FONT color='#FF5F5F'>{0}</FONT>キャラクターが婚約、結婚、離婚の調整中の状態です。"
+  },
+  "s_delete_account_result_check_fail_err_db_mail--": {
+    "value": "アカウント解約の申請に失敗しました。\\n<FONT color='#FF5F5F'>{0}</FONT>キャラクターに未読のメールがあります。"
+  },
+  "s_delete_account_result_check_fail_err_db_mesomarket--": {
+    "value": "アカウント解約の申請に失敗しました。\\n<FONT color='#FF5F5F'>{0}</FONT>キャラクターがブラックマーケットに登録したメルがあります。"
+  },
+  "s_delete_account_result_check_fail_err_db_norow--": {
+    "value": "アカウント解約の申請に失敗しました。\\n削除するアカウントが正しくありません。"
+  },
+  "s_delete_account_result_unknown--": {
+    "value": "アカウント解約の申請に失敗しました。\\n不明なエラーが発生しました。"
+  },
+  "s_delete_account_cancel_login_success--": {
+    "value": "ロック期間中に再接続したため、退会申請が自動的にキャンセルされました。"
+  },
+  "s_delete_account_cancel_login_fail--": {
+    "value": "アカウント退会のキャンセルにエラーが発生したため失敗しました。"
+  },
+  "s_delete_account_check_session_key_fail--": {
+    "value": "アカウント解約の申請に失敗しました。\\nユーザー情報を照会できません。"
+  },
+  "s_delete_account_check_user_cert_id_query_fail--": {
+    "value": "アカウント解約の申請に失敗しました。\\n本人認証の要請に失敗しました。 "
+  },
+  "s_delete_account_check_user_cert_id_verify_fail--": {
+    "value": "アカウント解約の申請に失敗しました。\\n本人認証の結果が正しくありません。"
+  },
+  "s_delete_account_check_certid_fail_invalid_certnameid--": {
+    "value": "アカウント解約の申請に失敗しました。\\n認証する氏名と身分証番号が正しくありません。"
+  },
+  "s_delete_account_check_certid_fail_invalid_skey--": {
+    "value": "アカウント解約の申請に失敗しました。\\nセッションキーが正しくありません。"
+  },
+  "s_delete_account_check_certid_fail_invalid_platformsn--": {
+    "value": "アカウント解約の申請に失敗しました。\\n認証する情報が正しくありません。"
+  },
+  "s_quest_start_err_has_quest--": {
+    "value": "すでにクエストを持っています。"
+  },
+  "s_quest_start_err_completed--": {
+    "value": "すでに完了したクエストです。"
+  },
+  "s_quest_start_err_level--": {
+    "value": "レベルが低いため使用できません。"
+  },
+  "s_quest_start_err_invalid--": {
+    "value": "クエストを受諾できません。"
+  },
+  "s_quest_start_success--": {
+    "value": "クエストを受諾しました。"
+  },
+  "s_quest_start_title--": {
+    "value": "クエスト開始アイテム"
+  },
+  "s_quest_start_msg--": {
+    "value": "{0}\\nクエストを登録します。\\n\\n登録したクエストを再びアイテムに戻すことはできません。\\n\\n登録しますか？"
+  },
+  "s_personal_infomaion_agreement_title--": {
+    "value": "お知らせ"
+  },
+  "s_personal_infomaion_agreement_sendlog_content--": {
+    "value": "良質なゲームサービスの提供とアカウントのセキュリティのため、アカウント情報を海外の開発会社に送信して分析します。情報はゲーム性能の改善および問題解決のためにのみ使用されます。"
+  },
+  "s_personal_infomaion_agreement_visit_myhome_content--": {
+    "value": "より良いゲーム体験のため、個人情報公開に同意するかどうかを選択してください。\\n(ゲーム設定ページでも変更できます)\\nユーザー情報 - 自宅情報\\n全体/一部/誰にも公開しないように設定可能"
+  },
+  "s_personal_infomaion_agreement_visit_myhome_btn_password--": {
+    "value": "パスワード入力"
+  },
+  "s_personal_infomaion_agreement_visit_myhome_input_password--": {
+    "value": "ホーム権限のパスワードを入力してください。\\n(数字6桁のみ入力できます。)"
+  },
+  "s_pc_info_name_shield--": {
+    "value": "シールド"
+  },
+  "s_lead_skill_require--": {
+    "value": "{0}職業キャラクターの装着武器が限界突破{1}段階以上 "
+  },
+  "s_lead_skill_from_char--": {
+    "value": "<FONT color='#E26741' >リードキャラクター：{0}</FONT>"
+  },
+  "s_lead_skill_from_unlimited_level--": {
+    "value": "<FONT color='#E26741' >リードキャラクター限界突破{0}段階</FONT>"
+  },
+  "s_lead_skill_check_fail_cooltime--": {
+    "value": "スキルのクールタイム中はスキルを変更できません。"
+  },
+  "s_err_lack_meso_market_token-MesoMarketNA-NA": {
+    "value": "メルトークンが足りません。"
+  },
+  "s_burning_levelup_event_set_character_popup--NA": {
+    "value": "<FONT color='#FFD200' size='18' >[バーニングキャラクター指定]</FONT>\\n<FONT size='3'> </FONT>\\n<FONT color='#FF5F5F'>{0} キャラクターでウィンターバーニングイベントに参加しますか？</FONT>\\n\\n・1回レベルアップするたびに+2レベルを追加獲得します。\\n・レベル9から60まで効果が適用されます。\\n・バーニングキャラクターはアカウントあたり1体のみ指定できます。\\n・指定されたバーニングキャラクターはキャラクターを削除するまで変更できません。\\n\\nバーニングキャラクターを60レベルまで育成してからはバーニングキャラクターを削除しても追加でバーニングキャラクターを指定できません。\\n・ウィンターバーニングイベントは2019年11月13日メンテナンス後～12月11日メンテナンス前まで開催されます。\\n\\n<FONT color='#FFD200' size='18' >[バーニング最終報酬]</FONT>\\n"
+  },
+  "s_buring_levelup_envent_desc_popup--NA": {
+    "value": "<FONT color='#FFD200' size='18' >[ウィンターバーニングとは？]</FONT>\\n\\n・1回レベルアップするたびに+2レベルを追加獲得します。\\n・レベル9から60まで効果が適用されます。\\n・バーニングキャラクターはアカウントあたり1体のみ指定できます。\\n・指定されたバーニングキャラクターはキャラクターを削除するまで変更できません。\\n\\nバーニングキャラクターを60レベルまで育成してからはバーニングキャラクターを削除しても追加でバーニングキャラクターを指定できません。\\n・ウィンターバーニングイベントは2019年11月13日メンテナンス後～12月11日メンテナンス前まで開催されます。"
+  },
+  "s_foundersPack_cannot_use_rpg_mode_before_tutorial-FoundersPackMode-NA": {
+    "value": "メイプルストーリー2の職業チュートリアルを完了する必要があります。"
+  },
+  "s_gamemode_rpg_disable-SurvivalContents03-NA": {
+    "value": "<FONT color='#FFD200'>パウンダースパック</FONT>をお持ちの場合、<FONT color='#FFA200'>ヘッドスタート</FONT>が始まり次第すぐにプレイできます！すでにご購入されましたか？"
   }
 }
