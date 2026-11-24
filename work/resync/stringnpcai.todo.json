@@ -1,0 +1,296 @@
+{
+ "LEGIONBATTLE__AI_LEGION_FINALBOSS__0-Fieldwar01-": {
+  "name": [
+   "귀찮은 녀석들... 여기서 끝내자.",
+   "How annoying... let's end it here."
+  ]
+ },
+ "LEGIONBATTLE__AI_LEGION_FINALBOSS__1-Fieldwar01-": {
+  "name": [
+   "이 정도까지 하다니 제법이군.",
+   "You have exceeded my expectations."
+  ]
+ },
+ "AI__AI_GIGANTIKAHEAD_PHASE_6__0-Gigantica01-": {
+  "name": [
+   "기간티카가 이대로 물러나고 있어요!!정말 수고하셨습니다!",
+   "Gigantica is falling back! Good job!"
+  ]
+ },
+ "AI__AI_GIGANTIKA_SUBBOSS__0-Gigantica01-": {
+  "name": [
+   "좋아요! 이녀석을 타고 기간티카의 장갑을 뚫어버리세요!!",
+   "Good! Get on and break through Gigantica's armor!"
+  ]
+ },
+ "LEGIONBATTLE__AI_LEGION_FINALBOSS2__0-Fieldwar01-": {
+  "name": [
+   "키히히히, 이곳이 네놈들의 무덤이 될 것이다.",
+   "Keheheh! This place will be your grave!"
+  ]
+ },
+ "LEGIONBATTLE__AI_LEGION_FINALBOSS2__1-Fieldwar01-": {
+  "name": [
+   "키히익, 아직 끝이 아니다!",
+   "It's not over yet!"
+  ]
+ },
+ "LEGIONBATTLE__AI_LEGION_FINALBOSS3__0-Fieldwar02-": {
+  "name": [
+   "네놈들이 발버둥 쳐봤자...",
+   "No matter how much you struggle..."
+  ]
+ },
+ "LEGIONBATTLE__AI_LEGION_FINALBOSS3__1-Fieldwar02-": {
+  "name": [
+   "헛수작 부리지 못하게 해주마.",
+   "Don't try any funny tricks!"
+  ]
+ },
+ "LEGIONBATTLE__AI_LEGION_FINALBOSS4__0-Fieldwar02-": {
+  "name": [
+   "이건 어떠냐!",
+   "How's this?!"
+  ]
+ },
+ "LEGIONBATTLE__AI_LEGION_FINALBOSS4__1-Fieldwar02-": {
+  "name": [
+   "파리같은 놈들...",
+   "Flies..."
+  ]
+ },
+ "COLOSSEUM__AI_MIKAWADES_COLOSSEUM__0-Colosseum01-": {
+  "name": [
+   "뭐야? 제법이잖아!?",
+   "Huh? You're pretty good."
+  ]
+ },
+ "COLOSSEUM__AI_MIKAWADES_COLOSSEUM__1-Colosseum01-": {
+  "name": [
+   "생각보다 끈질긴데?",
+   "You're tougher than you look."
+  ]
+ },
+ "COLOSSEUM__AI_MIKAWADES_COLOSSEUM__2-Colosseum01-": {
+  "name": [
+   "아직 안심하긴 이르다구!",
+   "Don't relax just yet!"
+  ]
+ },
+ "COLOSSEUM__AI_MIKAWADES_COLOSSEUM__3-Colosseum01-": {
+  "name": [
+   "여유 부리다간 큰코다칠걸?",
+   "Is this a game to you?"
+  ]
+ },
+ "COLOSSEUM__AI_MIKAWADES_COLOSSEUM__4-Colosseum01-": {
+  "name": [
+   "헉헉...너무해!!",
+   "Ugh... You went too far!"
+  ]
+ },
+ "COLOSSEUM__AI_PATOS2_COLOSSEUM__0-Colosseum01-": {
+  "name": [
+   "꽤 제법이군. 하지만 여유부릴 때는 지났어.",
+   "You're pretty good, but I'm just getting started."
+  ]
+ },
+ "COLOSSEUM__AI_PATOS2_COLOSSEUM__1-Colosseum01-": {
+  "name": [
+   "그렇다면 이번엔 이렇게 해볼까.",
+   "Allow me."
+  ]
+ },
+ "COLOSSEUM__AI_PATOS2_COLOSSEUM__2-Colosseum01-": {
+  "name": [
+   "과연 이것도 막을 수 있을까!",
+   "Can you block this?"
+  ]
+ },
+ "COLOSSEUM__AI_PATOS_COLOSSEUM__0-Colosseum01-": {
+  "name": [
+   "신기한 걸 보여주지.",
+   "I'll show you something interesting."
+  ]
+ },
+ "COLOSSEUM__AI_PATOS_COLOSSEUM__1-Colosseum01-": {
+  "name": [
+   "이번엔 조금 다를 것이다.",
+   "It will be different this time."
+  ]
+ },
+ "COLOSSEUM__AI_PATOS_COLOSSEUM__2-Colosseum01-": {
+  "name": [
+   "조금 아플거다.",
+   "This will hurt a bit."
+  ]
+ },
+ "COLOSSEUM__AI_PATOS_COLOSSEUM__3-Colosseum01-": {
+  "name": [
+   "그 정도론 날 막을 수 없어!",
+   "You can't stop me with that!"
+  ]
+ },
+ "COLOSSEUM__AI_ROVE_COLOSSEUM__0-Colosseum01-": {
+  "name": [
+   "제법이군. 그럼 이건 어떨까!",
+   "Impressive. But can you withstand this?"
+  ]
+ },
+ "COLOSSEUM__AI_ROVE_COLOSSEUM__1-Colosseum01-": {
+  "name": [
+   "정신 없게 만들어 주지.",
+   "You've got your hands full!"
+  ]
+ },
+ "COLOSSEUM__AI_VASARACHEN_COLOSSEUM__0-Colosseum01-": {
+  "name": [
+   "제법이군. 이건 어떨지 볼까!",
+   "Not bad. But I'm just getting started!"
+  ]
+ },
+ "COLOSSEUM__AI_VASARACHEN_COLOSSEUM__1-Colosseum01-": {
+  "name": [
+   "이걸 막을 수 있을지 궁금해지는걸?",
+   "Let's see how you handle this."
+  ]
+ },
+ "COLOSSEUM__AI_VASARACHEN_COLOSSEUM__2-Colosseum01-": {
+  "name": [
+   "생각보다 꽤 하는군. 하지만 이번엔 다르다.",
+   "You're pretty good, but this time will be different."
+  ]
+ },
+ "BOSS__AI_ARCHEON__0-Kritias_Turka01-": {
+  "name": [
+   "엔진 과부화 진행 중………",
+   "Engine overload in progress.....…"
+  ]
+ },
+ "BOSS__AI_ARCHEON__1-Kritias_Turka01-": {
+  "name": [
+   "목표를 섬멸하라………",
+   "Annihilate the target.....…"
+  ]
+ },
+ "BOSS__AI_ARCHEON__2-Kritias_Turka01-": {
+  "name": [
+   "폭주………폭주………",
+   "Rampage........rampage.....…"
+  ]
+ },
+ "BOSS__AI_ARCHEON__3-Kritias_Turka01-": {
+  "name": [
+   "이상 발생……이상 발생……엔진 과열……이동…이동…",
+   "Anomaly detected......anomaly detected......engine overheating......relocating...relocating…"
+  ]
+ },
+ "BOSS__AI_ARCHEON__4-Kritias_Turka01-": {
+  "name": [
+   "위잉………풀파워 전개!",
+   "Whirrrr........Full power deployed!"
+  ]
+ },
+ "BOSS__AI_ARCHEON__5-Kritias_Turka01-": {
+  "name": [
+   "목표 섬멸………",
+   "Annihilate target.....…"
+  ]
+ },
+ "BOSS__AI_ARCHEON__6-Kritias_Turka01-": {
+  "name": [
+   "출력 오버 상태로 전환………목표 포착 ",
+   "Switching to output overdrive........target acquired. "
+  ]
+ },
+ "BOSS__AI_ARCHEON__7-Kritias_Turka01-": {
+  "name": [
+   "모두 섬멸………",
+   "Annihilate all.....…"
+  ]
+ },
+ "BOSS_QUEST__AI_ARCHEON__0-Kritias_Turka01-": {
+  "name": [
+   "목표를 섬멸하라………",
+   "Annihilate the target.....…"
+  ]
+ },
+ "BOSS_QUEST__AI_ARCHEON__1-Kritias_Turka01-": {
+  "name": [
+   "폭주………폭주………",
+   "Rampage........rampage.....…"
+  ]
+ },
+ "BOSS_QUEST__AI_ARCHEON__2-Kritias_Turka01-": {
+  "name": [
+   "파괴………한다………",
+   "Destroy........everything.....…"
+  ]
+ },
+ "BOSS_QUEST__AI_ARCHEON__3-Kritias_Turka01-": {
+  "name": [
+   "출력 오버 상태로 전환………목표 포착 ",
+   "Switching to output overdrive........target acquired. "
+  ]
+ },
+ "BOSS_QUEST__AI_ARCHEON__4-Kritias_Turka01-": {
+  "name": [
+   "모두 섬멸………",
+   "Annihilate all.....…"
+  ]
+ },
+ "COLOSSEUM__AI_MIEL_COLOSSEUM__0-Colosseum02-": {
+  "name": [
+   "널 다치게 하긴 싫어... 이쯤에서 그만하는 게 어떨까?",
+   "I don't want to hurt you... How about we stop here?"
+  ]
+ },
+ "COLOSSEUM__AI_MIEL_COLOSSEUM__1-Colosseum02-": {
+  "name": [
+   "어쩔 수 없지. 빠르게 끝내는 게 좋겠어.",
+   "Can't be helped. Let's end this quickly."
+  ]
+ },
+ "COLOSSEUM__AI_ARCANEBLADER_COLOSSEUM__0-Colosseum02-": {
+  "name": [
+   "도망치는 게 좋을거다.",
+   "You'd better run."
+  ]
+ },
+ "COLOSSEUM__AI_ARCANEBLADER_COLOSSEUM__1-Colosseum02-": {
+  "name": [
+   "쉴새없이 움직여라...",
+   "Keep moving, without pause..."
+  ]
+ },
+ "COLOSSEUM__AI_ARCANEBLADER_COLOSSEUM__2-Colosseum02-": {
+  "name": [
+   "생각보다 끈질기군.",
+   "More tenacious than I expected."
+  ]
+ },
+ "COLOSSEUM__AI_ARCANEBLADER_COLOSSEUM__3-Colosseum02-": {
+  "name": [
+   "이걸로 끝이다.",
+   "This ends now."
+  ]
+ },
+ "COLOSSEUM__AI_ARCANEBLADER_COLOSSEUM__4-Colosseum02-": {
+  "name": [
+   "따라 올 수 있겠어?",
+   "Think you can keep up?"
+  ]
+ },
+ "COLOSSEUM__AI_ARCANEBLADER_COLOSSEUM__5-Colosseum02-": {
+  "name": [
+   "겨우 그 정도로?",
+   "Is that all you've got?"
+  ]
+ },
+ "COLOSSEUM__AI_ARCANEBLADER_COLOSSEUM__6-Colosseum02-": {
+  "name": [
+   "따라 올 수 있겠어?",
+   "Think you can keep up?"
+  ]
+ }
+}

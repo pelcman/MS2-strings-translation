@@ -9,7 +9,7 @@ import json, os, re, glob, collections
 
 ROOT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".."))
 MIS = os.path.join(ROOT, "work", "missing")
-PH = re.compile(r"^[A-Z0-9$]+(_[A-Z0-9$]+)+(:\[F\].*)?$")
+PH = re.compile(r"^[A-Z0-9$]+(_+[A-Z0-9$]+)+(:\[F\].*)?$")
 SKIP = {"npc", "type", "class", "regionID", "grade", "comment", "commnet", "isTutorial"}
 
 en2ja = collections.defaultdict(set)

@@ -8,7 +8,7 @@
 import json, os, re, shutil, sys, collections
 ROOT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".."))
 OUT = os.path.join(ROOT, "work", "resync")
-PH = re.compile(r"^[A-Z0-9$]+(_[A-Z0-9$]+)+(:\[F\].*)?$")
+PH = re.compile(r"^[A-Z0-9$]+(_+[A-Z0-9$]+)+(:\[F\].*)?$")
 HAN = re.compile(r"[가-힣]")
 
 def untrans(v): return isinstance(v, str) and v.strip() and (PH.match(v.strip()) or HAN.search(v))

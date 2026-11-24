@@ -3,7 +3,7 @@
 import json, os, re, glob, sys
 ROOT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".."))
 OUT = os.path.join(ROOT, "work", "resync")
-PH = re.compile(r"^[A-Z0-9$]+(_[A-Z0-9$]+)+(:\[F\].*)?$")
+PH = re.compile(r"^[A-Z0-9$]+(_+[A-Z0-9$]+)+(:\[F\].*)?$")
 HAN = re.compile(r"[가-힣]")
 SC = re.compile(r"[们这说们关于让过还从]")   # 簡体字に特有の字(日本語に出ない)
 SKIP = {"npc", "type", "class", "regionID", "grade", "comment", "commnet", "commend", "desc", "isTutorial"}

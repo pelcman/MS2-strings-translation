@@ -14,7 +14,7 @@ CN_ONLY = re.compile(r"[一-鿿]")
 # name= / value= など、翻訳対象になりうる属性
 ATTR = re.compile(r'\b(?:name|value|desc|text|tooltipDescription|guideDescription|'
                   r'manual|complete|uiDescription|feature)="([^"]*)"')
-PH = re.compile(r"^[A-Z0-9$]+(_[A-Z0-9$]+)+(:\[F\].*)?$")
+PH = re.compile(r"^[A-Z0-9$]+(_+[A-Z0-9$]+)+(:\[F\].*)?$")
 
 jsons = {os.path.basename(p)[:-5] for p in glob.glob(os.path.join(JSON, "*.json"))}
 rows = []

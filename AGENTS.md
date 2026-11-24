@@ -55,7 +55,8 @@ MS2-strings-translation/
 1. **プレースホルダー形式**: `ITEMNAME_10000041_NAME:[F]Fishing02` のような
    「大文字英数字をアンダースコアで連結 + `:[F]タグ`」。`:[L]JP` が続く変種や、
    `:[F]...` が付かない `ITEMNAME_20001133_NAME` だけの形式もある。
-   判定正規表現: `^[A-Z0-9$]+(_[A-Z0-9$]+)+(:\[F\].*)?$`
+   判定正規表現: `^[A-Z0-9$]+(_+[A-Z0-9$]+)+(:\[F\].*)?$`
+   (`STRINGTRIGGER_52000194_QD__52000194__1_NAME` のように**アンダースコアが連続する**形式もあるため `_+`)
 2. **韓国語原文の残存**: jp ファイルにハングルがそのまま残っているもの
    (scriptquest 約2.7万・stringtrigger 約1万・npcnameplural 約1,000・questdescription_final 約600 文字列)。
 

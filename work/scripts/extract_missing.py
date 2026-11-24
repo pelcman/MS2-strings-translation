@@ -6,7 +6,7 @@ import json, os, re, sys
 
 ROOT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".."))
 OUT = os.path.join(ROOT, "work", "missing")
-PH = re.compile(r"^[A-Z0-9$]+(_[A-Z0-9$]+)+(:\[F\].*)?$")
+PH = re.compile(r"^[A-Z0-9$]+(_+[A-Z0-9$]+)+(:\[F\].*)?$")
 HAN = re.compile(r"[가-힣]")
 CN = re.compile(r"[一-鿿]")
 SKIP = {"npc", "type", "class", "regionID", "grade", "comment", "commnet", "isTutorial"}

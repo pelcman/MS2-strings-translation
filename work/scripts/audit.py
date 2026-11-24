@@ -10,7 +10,7 @@ import json, os, re, sys, glob, collections
 ROOT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".."))
 JPD = os.path.join(ROOT, "json_weblate", "jp")
 
-PH = re.compile(r"^[A-Z0-9$]+(_[A-Z0-9$]+)+(:\[F\].*)?$")
+PH = re.compile(r"^[A-Z0-9$]+(_+[A-Z0-9$]+)+(:\[F\].*)?$")
 HAN = re.compile(r"[가-힣]")
 JPC = re.compile(r"[ぁ-んァ-ヶ一-龥]")
 CN = re.compile(r"[一-鿿]")

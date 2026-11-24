@@ -5,7 +5,7 @@ import json, os, re, sys, glob, collections
 ROOT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".."))
 OUT = os.path.join(ROOT, "work", "resync")
 HAN = re.compile(r"[가-힣]")
-PH = re.compile(r"^[A-Z0-9$]+(_[A-Z0-9$]+)+(:\[F\].*)?$")
+PH = re.compile(r"^[A-Z0-9$]+(_+[A-Z0-9$]+)+(:\[F\].*)?$")
 NUM = re.compile(r"(?<![#$:\w])\d+(?:\.\d+)?")   # 色コード(#00aaef)・$item:123$ 内の数字は除く
 def tmpl(s): return NUM.sub("\x00", s), NUM.findall(s)
 

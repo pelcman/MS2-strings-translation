@@ -6,7 +6,7 @@
 import json, os, re, sys, glob
 
 ROOT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", ".."))
-PH = re.compile(r"^[A-Z0-9$]+(_[A-Z0-9$]+)+(:\[F\].*)?$")
+PH = re.compile(r"^[A-Z0-9$]+(_+[A-Z0-9$]+)+(:\[F\].*)?$")
 HAN = re.compile(r"[가-힣]")
 CN = re.compile(r"[一-鿿]")
 LAT = re.compile(r"[A-Za-z]")
